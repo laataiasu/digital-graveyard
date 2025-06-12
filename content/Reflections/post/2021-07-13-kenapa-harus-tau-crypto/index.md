@@ -145,7 +145,7 @@ Iklim yang dewasa, yang bebas dari para diktator, kata [[Mohammad Hatta|Bung Hat
 Resisten terhadap banyak gangguan, universal
 
 Bayangin orang2 MBA pada jadi marbot masjid, Alokasi resourcenya optimal, efektif, efisien. Ga akan ada kasus dana masjid ngendap berpuluh juta cuman dijadiin biaya operasional, atau dikorupsi kaya begini, semuanya transparan, resource terus diputer buat nyejahterain masyarakat daerah masjid, scr spiritual, intelektual, juga badan. Masjid yang dah maju bisa komunikasi sama masjid lain.
-Basis reasoning, ga ada yang baperan, beda pendapat diomongin. Orang salafi sama orang JIL diskusi, moderatornya Coki Muslim, orang Syiah, Mutazilah, Sufi, LDII, [[Emha Ainun Nadjib|Cak Nun]], Salim A Fillah semuanya diskusi bikin podcast. Beda pendapat santuy, yang penting teknologi di setiap masjid berkembang, bikin software, analisis [[Data]], manajemen, diskusi, dll.
+Basis reasoning, ga ada yang baperan, beda pendapat diomongin. Orang [[Salafi]] sama orang JIL diskusi, moderatornya Coki Muslim, orang Syiah, Mutazilah, Sufi, LDII, [[Emha Ainun Nadjib|Cak Nun]], Salim A Fillah semuanya diskusi bikin podcast. Beda pendapat santuy, yang penting teknologi di setiap masjid berkembang, bikin software, analisis [[Data]], manajemen, diskusi, dll.
 Ada yang mencurigakan masyarakat tau semuanya, kenal sama tetangganya
 Kajian ilmiah, Literasi keuangan, literasi [[Data]], dll.
 Dari sana inovasi bisa tumbuh, ga perlu bangun komplek fisik yg makan triliunan

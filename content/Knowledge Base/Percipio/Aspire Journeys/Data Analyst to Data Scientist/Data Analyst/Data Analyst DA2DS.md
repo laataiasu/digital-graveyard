@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst DA2DS
 
 - [[Data Architecture Getting Started]]
 - [[Data Engineering Getting Started]]

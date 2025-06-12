@@ -33,7 +33,7 @@ Most Muslim tech enthusiasts could advocate and pressure the government to OPEN 
 
 Compare this to doing something they don't understand, like protesting in politics or trying to act like an ulama. In terms of religion, just using the basics and following regular studies should be sufficient, because not everyone can be a dai, and mastering our subject is difficult. And if you maximize religious knowledge, then who will address these issues?
 
-You're a bunch of rohis who watch anime and Korean dramas, filled with lots of Japanese, Korean, Western, dark, and weird [[Music]] & ideologies caused by internet browsing. Just don't act like you're a pure Salafi who can act like a regular 'ponpes' student who have already experienced all sorts of supernatural things from their ustadz or 'sakti' friends.
+You're a bunch of rohis who watch anime and Korean dramas, filled with lots of Japanese, Korean, Western, dark, and weird [[Music]] & ideologies caused by internet browsing. Just don't act like you're a pure [[Salafi]] who can act like a regular 'ponpes' student who have already experienced all sorts of supernatural things from their ustadz or 'sakti' friends.
 
 The problem with rohis, and not just rohis, but most college organizations, is that I think they really like to engage in pseudo activism, like protests or something. When you protest to someone you don't know, and you know that the higher-ups are deaf, and you still protest, it means your brain is not functioning. So, it means the protest is just for show. Writing like I do might be considered a pseudo action too, but it's not for me because I only write when I can't sleep.
 

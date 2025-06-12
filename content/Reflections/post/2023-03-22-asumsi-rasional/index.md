@@ -24,7 +24,7 @@ nipu dan ditipu -><- growth & learning -><- transaksi muamalah
 
 mirip teori modern finance, CAPM, MPT, and Black&Scholes
 tapi alhamdulillah ada [[Benoit Mandelbrot|mandelbrot]]
-salafi wahabi nya finance
+[[Salafi]] wahabi nya finance
 [[Fractal|fractal]] dalam [[Decentralized Finance|DeFi]] gimana ceritanya
 
 setanlah itu cancel culture, bikin pada jadi risk averse

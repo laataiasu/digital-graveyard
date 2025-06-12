@@ -78,7 +78,7 @@ Hikkikomori dapat terdeteksi karena dalam sistem ini segalanya telanjang, memung
 
 ---
 
-Terdapat platform seperti WWE untuk mendiskusikan Salafi vs NU, bid'ah & non-bid'ah. Event Organizer (EO) tidak hanya terbatas pada konser, tetapi juga mencakup hal-hal terkait ceramah, meningkatkan daya tarik dengan dakwah kreatif yang memiliki jangkauan lebih luas.
+Terdapat platform seperti WWE untuk mendiskusikan [[Salafi]] vs NU, bid'ah & non-bid'ah. Event Organizer (EO) tidak hanya terbatas pada konser, tetapi juga mencakup hal-hal terkait ceramah, meningkatkan daya tarik dengan dakwah kreatif yang memiliki jangkauan lebih luas.
 
 ---
 
@@ -223,11 +223,11 @@ Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, ta
 
 ---
 
-### Pemberdayaan khawarij, Syiah, Ahmadiyah, [[Islam]] kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan Salafi Sufi
+### Pemberdayaan khawarij, Syiah, Ahmadiyah, [[Islam]] kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan [[Salafi]] Sufi
 
 Berbagai macam sekte agama diizinkan untuk beroperasi di [[Indonesia]], dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
 
-Orang salafi berceramah dengan keras bahwa para NU banyak yang melakukan bidah. Para Muslim liberal berkata bahwa orang-orang salafi terlalu fanatik dan tidak banyak berkontribusi pada dunia sehingga umat [[Islam]] kurang berhasil menjadi rahmatan lil alamin. Semuanya berdebat tiada habisnya, tetapi Salafi selalu menang dalam hal kemurnian agama karena memiliki [[Data]] yang dapat diandalkan dan sesuai dengan metodologi terdahulu, sehingga tetap masuk akal apabila mereka bisa mengkafirkan banyak orang. 
+Orang [[Salafi]] berceramah dengan keras bahwa para NU banyak yang melakukan bidah. Para Muslim liberal berkata bahwa orang-orang [[Salafi]] terlalu fanatik dan tidak banyak berkontribusi pada dunia sehingga umat [[Islam]] kurang berhasil menjadi rahmatan lil alamin. Semuanya berdebat tiada habisnya, tetapi [[Salafi]] selalu menang dalam hal kemurnian agama karena memiliki [[Data]] yang dapat diandalkan dan sesuai dengan metodologi terdahulu, sehingga tetap masuk akal apabila mereka bisa mengkafirkan banyak orang. 
 
 Orang yang dikafirkan pun tetap merasa mereka paling benar karena berdasarkan kontribusi untuk ekonomi dan pembangunan, mereka menduduki peringkat paling tinggi. Para wahabi mengkafirkan orang dengan dalil dan tidak ada masalah dalam hal itu. Semua orang yang dikafirkan sepakat bahwa kafir itu hanyalah pilihan kata dan artinya bisa beragam, sehingga tidak apa-apa apabila mereka disebut kafir. Para kafir pun telah mendebat orang-orang wahabi bahwa mereka tidak kafir dengan argumen yang masuk akal. Mereka terus berdebat setiap malam minggu, tetapi tidak pernah ada pemenang dalam debat tersebut karena setiap pihak berpegang teguh pada argumennya masing-masing. 
 
@@ -319,11 +319,11 @@ whoosh ini ada untuk memberantas penyakit bengong ane di cikuray, masa bodoh kal
 
 some of smartest cs guy I knew doing femboy cossplay, a hafizh I knew did 'jajan', another that used to setoran murajaah ke aing get commision from drawing furry.
 
-so what stops you spread salafi aqida, or showing support for your ultra conservative political party anon?
+so what stops you spread [[Salafi]] aqida, or showing support for your ultra conservative political party anon?
 
 some of smartest CS guys i knew were doing femboy cosplay; a hafiz i knew was into 'jajan', another used to setoran 'murajaah' ke aing receive commissions from drawing adult furry. 
 
-what stops you from spreading salafi aqida or showing support for your ultra conservative/radical political party anon?
+what stops you from spreading [[Salafi]] aqida or showing support for your ultra conservative/radical political party anon?
 
 or publish your cerpen bayi kitab KUNING?
 
@@ -331,6 +331,6 @@ just ship any of your products, pleaseeeeeeee. I BEGGG
 
 some of the smartest CS guys I knew were doing femboy cosplay; a hafiz i knew was into 'jajan', another used to receive commissions from drawing furry.
 
-what stops you from spreading salafi aqida or showing support for your ultra conservative/radical political party, anon?
+what stops you from spreading [[Salafi]] aqida or showing support for your ultra conservative/radical political party, anon?
 
 [[Universitas Indonesia]]

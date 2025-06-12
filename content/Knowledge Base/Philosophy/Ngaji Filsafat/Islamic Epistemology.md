@@ -1,5 +1,8 @@
-Dari Mutazilah
-Asyariah
+
+[[Islam]]
+
+Dari [[Mutazila]]
+[[Ashari]]
   
 Hierarki pengetahuan dalam Islam
 - Jahl

@@ -7,3 +7,6 @@
 | [[Diderot Effect]]        |      | positive attitude, victor frank                                                                        |
 | [[Law of Reversed Effort]] |      | when you put too much effort, the result is farther from your expectation                              |
 | [[Barnum effect]]         |      | zodiac, blood type, mbti                                                                               |
+
+
+[[Dumb Ideas That Only Smart People Believe]]

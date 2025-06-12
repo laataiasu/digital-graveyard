@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst BA2DA
 
 - [[VBA Getting Started with VBA in Excel]]
 - [[VBA Building User Interfaces with Forms in VBA & Excel]]

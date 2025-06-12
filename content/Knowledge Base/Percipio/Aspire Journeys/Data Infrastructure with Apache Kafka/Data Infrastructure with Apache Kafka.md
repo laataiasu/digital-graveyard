@@ -6,4 +6,4 @@
 - [[Introducing Apache Spark]]
 - [[Integrating Kafka with Apache Spark]]
 - [[Using Kafka with Cassandra & Confluent]]
-- [[Data Infrastructure with Apache Kafka]]
+- [[Data Infrastructure with Apache Kafka Lab]]

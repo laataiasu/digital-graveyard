@@ -14,4 +14,4 @@
 - [[Data Structures and Algorithms in Python Implementing Sorting Algorithms]]
 - [[Data Structures and Algorithms in Python Trees and Graphs]]
 - [[Data Structures and Algorithms in Python Implementing Trees and Graphs]]
-- [[Python Apprentice/Python Apprentice]]
+- [[Python Apprentice Lab]]

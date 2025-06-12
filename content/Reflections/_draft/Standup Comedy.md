@@ -1,7 +1,7 @@
 kerja produktif vs kerja seni
 anak rumahan vs anak gaul
 
-ini debat sosmed salafi liberal ga dapet uang
+ini debat sosmed [[Salafi]] liberal ga dapet uang
 gua dulu ingin jadi guru
 raditya dika
 

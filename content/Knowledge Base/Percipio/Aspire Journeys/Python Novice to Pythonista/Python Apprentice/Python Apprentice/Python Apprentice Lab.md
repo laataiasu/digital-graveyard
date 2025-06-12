@@ -1,4 +1,4 @@
-# Python Apprentice
+# Python Apprentice Lab
 
 4 Hours Remaining
 Python Apprentice

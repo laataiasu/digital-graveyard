@@ -6,5 +6,5 @@
 - [[Python Development Defining, Configuring, and Invoking Functions]]
 - [[Python Development Leveraging Functions with Lambdas, Generators, Closures, and Decorators]]
 - [[Python Development Creating Classes, Handling Errors, and Importing Modules]]
-- [[Python for Developers/Python for Developers]]
+- [[Python for Developers Lab]]
 - [[Final Exam Python for Developers]]

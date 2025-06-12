@@ -12,7 +12,7 @@
 - [[Streaming Data Architectures An Introduction to Streaming Data in Spark]]
 - [[Streaming Data Architectures Processing Streaming Data with Spark]]
 - [[Scalable Data Architectures Getting Started]]
-- [[Data Ops/Scalable Data Architectures Using Amazon Redshift]]
+- [[Scalable Data Architectures Using Amazon Redshift]]
 - [[Scalable Data Architectures Using Amazon Redshift and QuickSight]]
 - [[Building Data Pipelines]]
 - [[Data Pipeline Process Implementation Using Tableau & AWS]]
