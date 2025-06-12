@@ -1,4 +1,4 @@
-# Can You Manage Resources in a Kubernetes Cluster [Adaptive]
+# Can You Manage Resources in a Kubernetes Cluster (Adaptive)
 
 ## 1
 Here are the steps you need to follow to complete the task of creating a ReplicaSet in a Kubernetes namespace `dev`:

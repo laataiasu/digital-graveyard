@@ -1,6 +1,6 @@
-# Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity [Guided]
+# Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity (Guided)
 
-CKA.2-007: Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity [Guided]
+CKA.2-007: Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity (Guided)
 28 Minutes Remaining 
 Schedule pods by using a node selector
 
@@ -92,7 +92,7 @@ Confirm that the database replica pods are running on k8s-worker2.
 
 ---
 
-CKA.2-007: Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity [Guided]
+CKA.2-007: Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity (Guided)
 25 Minutes Remaining 
 Schedule pods by using required node affinity
 
@@ -135,7 +135,7 @@ Confirm that the pod is running on the k8s-worker3 node, as required by the affi
 
 ---
 
-CKA.2-007: Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity [Guided]
+CKA.2-007: Manage Kubernetes Pod Scheduling by Using Node Selectors and Node Affinity (Guided)
 24 Minutes Remaining 
 Schedule pods by using preferred node affinity
 

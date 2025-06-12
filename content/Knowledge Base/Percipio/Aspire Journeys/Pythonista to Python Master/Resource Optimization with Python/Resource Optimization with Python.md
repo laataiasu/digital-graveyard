@@ -7,5 +7,5 @@
 - [[Faust Stream Processing Using Models, Agents, and Channels]]
 - [[Faust Performing Operations and Maintaining State Using Tables]]
 - [[Faust Stream Processing Using Windowing Operations]]
-- [[Resource Optimization with Python/Resource Optimization with Python]]
+- [[Resource Optimization with Python/Resource Optimization with Python Lab]]
 - [[Final Exam Resource Optimization with Python]]

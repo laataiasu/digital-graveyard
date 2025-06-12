@@ -1,4 +1,4 @@
-# Data Infrastructure with Apache Kafka
+# Data Infrastructure with Apache Kafka Lab
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Can You Create Objects in a Kubernetes Cluster [Adaptive]
+# Can You Create Objects in a Kubernetes Cluster (Adaptive)
 
 ## 1
 To complete the tasks you've outlined, you'll need to interact with the Kubernetes cluster using the `kubectl` command. Here’s how you can do it step-by-step:

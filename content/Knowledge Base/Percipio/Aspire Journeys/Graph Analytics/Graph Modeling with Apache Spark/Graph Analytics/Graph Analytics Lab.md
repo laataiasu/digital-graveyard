@@ -1,4 +1,4 @@
-# Graph Analytics
+# Graph Analytics Lab
 
 Graph Analytics
 3 Hr 24 Min Remaining

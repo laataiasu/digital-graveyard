@@ -1,4 +1,4 @@
-# Manage Pod Scheduling in a Kubernetes Cluster by Using Taints and Tolerations [Guided]
+# Manage Pod Scheduling in a Kubernetes Cluster by Using Taints and Tolerations (Guided)
 
 ## 1
 To apply a taint to a node in your Kubernetes cluster, follow these steps:

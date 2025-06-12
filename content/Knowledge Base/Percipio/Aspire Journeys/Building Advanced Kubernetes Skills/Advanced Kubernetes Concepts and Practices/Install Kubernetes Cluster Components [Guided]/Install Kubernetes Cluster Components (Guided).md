@@ -1,4 +1,4 @@
-# Install Kubernetes Cluster Components [Guided]
+# Install Kubernetes Cluster Components (Guided)
 
 ## 1
 Here’s a step-by-step breakdown to guide you through the tasks outlined:

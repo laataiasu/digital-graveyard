@@ -8,5 +8,5 @@
 - [[Dash for Interactive Web Apps]]
 - [[Leveraging Dash with User Input and Dash DataTable]]
 - [[Creating Widgets in Dash Apps]]
-- [[Data Visualization for Web Apps Using Python/Data Visualization for Web Apps Using Python]]
+- [[Data Visualization for Web Apps Using Python Lab]]
 - [[Final Exam Data Visualization for Web Apps Using Python]]

@@ -1,6 +1,6 @@
-# Create Persistent Resources by Using Kubernetes DaemonSets [Guided]
+# Create Persistent Resources by Using Kubernetes DaemonSets (Guided)
 
-CKA.2-008: Create Persistent Resources by Using Kubernetes DaemonSets [Guided]
+CKA.2-008: Create Persistent Resources by Using Kubernetes DaemonSets (Guided)
 20 Minutes Remaining 
 Identify a DaemonSet
 
@@ -77,7 +77,7 @@ Confirm that you displayed a filtered list of DaemonSet pods by using a label.
 
 ---
 
-CKA.2-008: Create Persistent Resources by Using Kubernetes DaemonSets [Guided]
+CKA.2-008: Create Persistent Resources by Using Kubernetes DaemonSets (Guided)
 16 Minutes Remaining 
 Create a DaemonSet
 

@@ -1,4 +1,4 @@
-# Can You Deploy a Kubernetes Cluster [Expert]
+# Can You Deploy a Kubernetes Cluster
 
 ## 1
 To complete the steps in your challenge lab, follow these instructions:

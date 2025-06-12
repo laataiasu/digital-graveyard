@@ -11,5 +11,5 @@
 - [[Web Applications with Django Models and Class-based Views]]
 - [[Web Applications with Django Building Multiple Apps in a Project]]
 - [[Web Applications with Django Developing REST APIs]]
-- [[Building Restful Web Services with Python/Building Restful Web Services with Python]]
+- [[Building Restful Web Services with Python Lab]]
 - [[Final Exam Building Restful Web Services with Python]]

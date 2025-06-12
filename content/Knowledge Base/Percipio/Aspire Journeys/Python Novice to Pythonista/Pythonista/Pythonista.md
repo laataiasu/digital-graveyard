@@ -10,5 +10,5 @@
 - [[Python Design Patterns Working with Creational Design Patterns]]
 - [[Python Design Patterns Working with Structural Design Patterns]]
 - [[Python Design Patterns Working with Behavioral Design Patterns]]
-- [[Pythonista/Pythonista]]
+- [[Pythonista Lab]]
 - [[Final Exam Pythonista]]

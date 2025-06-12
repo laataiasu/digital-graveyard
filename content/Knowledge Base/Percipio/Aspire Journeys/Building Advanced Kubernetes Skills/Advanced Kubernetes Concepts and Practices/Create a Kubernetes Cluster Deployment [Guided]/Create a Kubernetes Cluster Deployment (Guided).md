@@ -1,4 +1,4 @@
-# Create a Kubernetes Cluster Deployment [Guided]
+# Create a Kubernetes Cluster Deployment (Guided)
 
 ## 1
 To complete the task, you will perform a series of steps to create, manage, and inspect a ReplicaSet in a Kubernetes cluster. Below are the commands and instructions based on the provided steps:

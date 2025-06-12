@@ -1,6 +1,6 @@
-# Define a Kubernetes NodePort Service [Guided]
+# Define a Kubernetes NodePort Service (Guided)
 
-CKA.2-002: Define a Kubernetes NodePort Service [Guided]
+CKA.2-002: Define a Kubernetes NodePort Service (Guided)
 29 Minutes Remaining 
 Create a pod Deployment
 
@@ -59,7 +59,7 @@ Confirm that you created a Deployment by using a definition file.
 
 ---
 
-CKA.2-002: Define a Kubernetes NodePort Service [Guided]
+CKA.2-002: Define a Kubernetes NodePort Service (Guided)
 27 Minutes Remaining 
 Create a NodePort Service
 
@@ -109,7 +109,7 @@ Confirm that you created a NodePort Service by using a definition file.
 
 ---
 
-CKA.2-002: Define a Kubernetes NodePort Service [Guided]
+CKA.2-002: Define a Kubernetes NodePort Service (Guided)
 23 Minutes Remaining 
 Access an application
 

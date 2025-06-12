@@ -11,5 +11,5 @@
 - [[Operations with petl Advanced Extractions and Transformations]]
 - [[HTTP Requests with HTTPX Introduction]]
 - [[HTTP Requests with HTTPX Advanced Topics]]
-- [[Dynamic Data Handling with Python/Dynamic Data Handling with Python]]
+- [[Dynamic Data Handling with Python Lab]]
 - [[Final Exam Dynamic Data Handling with Python]]

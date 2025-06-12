@@ -1,6 +1,6 @@
-# Define a Kubernetes ClusterIP Service [Guided]
+# Define a Kubernetes ClusterIP Service (Guided)
 
-CKA.2-001: Define a Kubernetes ClusterIP Service [Guided]
+CKA.2-001: Define a Kubernetes ClusterIP Service (Guided)
 28 Minutes Remaining 
 Identify Services in a cluster
 
@@ -50,7 +50,7 @@ Confirm that you displayed the Service endpoints.
 
 ---
 
-CKA.2-001: Define a Kubernetes ClusterIP Service [Guided]
+CKA.2-001: Define a Kubernetes ClusterIP Service (Guided)
 25 Minutes Remaining 
 Define a ClusterIP Service
 
@@ -90,7 +90,7 @@ Confirm that you created a ClusterIP Service for the webserver Deployment.
 
 ---
 
-CKA.2-001: Define a Kubernetes ClusterIP Service [Guided]
+CKA.2-001: Define a Kubernetes ClusterIP Service (Guided)
 19 Minutes Remaining 
 Describe a ClusterIP Service
 

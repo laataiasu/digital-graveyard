@@ -1,4 +1,4 @@
-# Initialize a Kubernetes Cluster [Guided]
+# Initialize a Kubernetes Cluster (Guided)
 
 ## 1
 To establish the Kubernetes control plane and initialize the cluster on `k8s-master1` using `kubeadm`, follow the steps outlined below:

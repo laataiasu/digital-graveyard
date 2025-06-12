@@ -13,4 +13,4 @@
 - [[Python Concurrent Programming Multithreading in Python]]
 - [[Python Concurrent Programming Multiprocessing in Python]]
 - [[Python Concurrent Programming Asynchronous Executions in Python]]
-- [[Python Journeyman/Python Journeyman]]
+- [[Python Journeyman Lab]]
