@@ -6,7 +6,7 @@ tags:
 - muslim
 title: Throw your ethics into the trash can!
 ---
-If someone automates Instagram to like every account they follow, reply, and comment based on the context of the picture you post, you will find some sort of excitement if that someone is who you like, and otherwise if you don't like. Humans can be easily fooled because of the feature of 'feeling.'
+If someone automates [[Instagram]] to like every account they follow, reply, and comment based on the context of the picture you post, you will find some sort of excitement if that someone is who you like, and otherwise if you don't like. Humans can be easily fooled because of the feature of 'feeling.'
 
 Humans are not multitaskers, but with computers, they can be. Computers resemble the Jutsu of a thousand shadows from Naruto. And if you interact with their shadow, would you find it unethical or consider it disrespectful, or not prioritizing yourself?
 

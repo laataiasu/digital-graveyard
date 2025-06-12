@@ -13,7 +13,7 @@
 * **Substack:** [https://substack.com/@laataiasu](https://substack.com/@laataiasu)
 * **WhatsApp:** +6289527206841
 * **LinkedIn:** [https://www.linkedin.com/in/ichsanulamal19](https://www.linkedin.com/in/ichsanulamal19)
-* **Instagram:** [https://instagram.com/@ichsanull](https://instagram.com/@ichsanull)
+* **[[Instagram]]:** [https://[[Instagram]].com/@ichsanull](https://[[Instagram]].com/@ichsanull)
 * **X (formerly [[Twitter]]):** [https://x.com/chsanull](https://x.com/chsanull)
 * **Pinterest:** [https://pinterest.com/laataiasu](https://pinterest.com/laataiasu)
 * **Spotify:** [https://open.spotify.com/user/21m3gajwtz4c7ibcsbu6qyk2a](https://open.spotify.com/user/21m3gajwtz4c7ibcsbu6qyk2a)

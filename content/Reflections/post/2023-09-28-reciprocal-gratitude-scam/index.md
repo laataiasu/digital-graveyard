@@ -27,7 +27,7 @@ the thing is gaps will always contribute to envy. and the OUROBOROS appeared. so
 
 overtax the overpower is just nonsense too, there's no guarantee that they could profit all the time. and when they go broke, there's no bail out, unless youre too big too fail like the speculators.
 
-thats why the number one of corporate rule is to "monopoly", because basically everyone is just scared, fear is the fundamental of everything. this day tiktok is become the scapegoat to comfort their competitor.
+thats why the number one of corporate rule is to "monopoly", because basically everyone is just scared, fear is the fundamental of everything. this day [[Tiktok]] is become the scapegoat to comfort their competitor.
 
 even when a few trying to make fear become certain, with over [[Data-driven]] like china, there's no guarantee at all that it would not collapse. it's all just about taking a choice. act as if you have a free will, but judge others as if they dont, because you can't never emphatize with autist and psycopath.
 

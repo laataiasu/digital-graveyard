@@ -17,7 +17,7 @@ Make a sign and hide. Don't show, don't tell.
 - al ghuroba
   
 ---
-Based on the Instagram bio and profile cues you shared, here's a **creative business idea** that aligns with the themes of philosophical depth, crisis-embrace, mystique, rebellion, and existential inquiry.
+Based on the [[Instagram]] bio and profile cues you shared, here's a **creative business idea** that aligns with the themes of philosophical depth, crisis-embrace, mystique, rebellion, and existential inquiry.
 
 ---
 

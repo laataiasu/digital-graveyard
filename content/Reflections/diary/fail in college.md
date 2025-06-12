@@ -7,7 +7,7 @@ title: 2024-04-06
 
 2024-04-06
 
-fail in colelge. 
+fail in college. 
 
 most people highlight their achievement, but i prefer to share my failure :v.
 

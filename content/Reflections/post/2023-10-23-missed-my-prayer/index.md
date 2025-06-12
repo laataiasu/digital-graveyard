@@ -8,7 +8,7 @@ title: I Missed My prayer
 
 **My sleep schedule is messed up.** In Depok, it's always hot, and I can't sleep early. Sometimes I listen to random YouTube videos, audiobooks, or Al-Mathurat, but it doesn't work well for me. I don't want to use an air conditioner because of global warming (and I'm on a tight budget), and an electric fan isn't effective either. 
 
-**I wish Depok had public transportation and a night climate like Jakarta, or even Cimahi.** A couple of months ago, I went to Kuningan, and the air felt so fresh. I could sleep comfortably there without air conditioning. Here in Depok, I struggle to fall asleep. I make a schedule to sleep by 9 PM, but I end up scrolling through [[Twitter]] or Instagram and fall asleep at 1 or 2 AM.  
+**I wish Depok had public transportation and a night climate like Jakarta, or even Cimahi.** A couple of months ago, I went to Kuningan, and the air felt so fresh. I could sleep comfortably there without air conditioning. Here in Depok, I struggle to fall asleep. I make a schedule to sleep by 9 PM, but I end up scrolling through [[Twitter]] or [[Instagram]] and fall asleep at 1 or 2 AM.  
 
 **I'm lost and need help creating a routine.**  I want to have a routine like a Muslim, doing Tahajjud and going to the mosque for each prayer, even though I don't know the specifics.  If God exists, the only thing I would pray for is for my [[Family|family]] to forget me, to not have to remember they have a devilish youngest son, so I wouldn't feel pressured to live a lie. 
 

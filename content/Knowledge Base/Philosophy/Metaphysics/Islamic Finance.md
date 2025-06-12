@@ -18,7 +18,7 @@ tags:
 
 > [!info]  
 >  
-> [https://www.instagram.com/p/CQ0oJ6Npvd4/](https://www.instagram.com/p/CQ0oJ6Npvd4/)  
+> [https://www.[[Instagram]].com/p/CQ0oJ6Npvd4/](https://www.[[Instagram]].com/p/CQ0oJ6Npvd4/)  
 Bank syariah penetrasi di Indonesia baru 6 %, sementara di negara lain udah lebih 20%, bahkan 50%
 Padahal Indonesia mayoritas Muslim n pertumbuhan penduduk Muslimnya juga terbesar di dunia
   

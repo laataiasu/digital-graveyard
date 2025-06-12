@@ -44,7 +44,7 @@ Sabrang's Symbolic -> \*uhukkk [[Social Credit System]]
 
 2. Individual social credit is determined by one's contributions and knowledge 
    
-Those who significantly contribute to farming and education are praised and ranked at the top, discouraging individuals from engaging in mindless activities on platforms like TikTok and [[Twitter]] solely for negative incentives."
+Those who significantly contribute to farming and education are praised and ranked at the top, discouraging individuals from engaging in mindless activities on platforms like [[Tiktok]] and [[Twitter]] solely for negative incentives."
 
 What about an art form, like a game, that defies easy quantification?
 

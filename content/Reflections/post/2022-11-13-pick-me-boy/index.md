@@ -6,7 +6,7 @@ title: Pick Me Boy
 ---
 ```text
 lihat teman bangga dengan identitasnya
-cerita di instagram dengan pacar
+cerita di [[Instagram]] dengan pacar
 pakai kaos motif mahal
 nongkrong bahas velg mobil berjuta-juta
 cekrek iphone si paling kamera

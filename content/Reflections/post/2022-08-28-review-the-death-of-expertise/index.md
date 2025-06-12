@@ -13,11 +13,11 @@ I always believe in what is called destiny. No matter what, no matter how detail
 
 To be a robot or to have a characteristic mechanical. The same input always produces the same output. Most high achievers think that as boring things to do, YOLO they said. But as I said, we never knew the basic things, the fundamental things which made them like that. What are the things that have been making me like that? 
 
-The problem is, that it is very complex. And that is what the [[Twitter]]/Tiktok or short social media companies see as the opportunity to profit themselves. They knew, the prejudice and the assumption of ourselves, that very complex things will become boring. The assumption always made them think like, well I never became a master of these boring things. 
+The problem is, that it is very complex. And that is what the [[Twitter]]/[[Tiktok]] or short social media companies see as the opportunity to profit themselves. They knew, the prejudice and the assumption of ourselves, that very complex things will become boring. The assumption always made them think like, well I never became a master of these boring things. 
 
 And that is the answer, that the limitation is the power.
 
-To make people believe in the simplest, summary things, what they found can make them master those things. It’s not evil, isn’t it? It’s like the hedge fund manager that sells their product and makes people dream that they can be financially independent by trusting their funds to them. Simplicity is the key to the design. And it includes limiting something. Like Tiktok, very simple, and very fast. 
+To make people believe in the simplest, summary things, what they found can make them master those things. It’s not evil, isn’t it? It’s like the hedge fund manager that sells their product and makes people dream that they can be financially independent by trusting their funds to them. Simplicity is the key to the design. And it includes limiting something. Like [[Tiktok]], very simple, and very fast. 
 
 And the quotes from Feynman are always repeated without knowing their context.
 
@@ -29,7 +29,7 @@ It should be seen from the learner's perspective, but at the same time, it can�
 
 Contradiction is fun you know? To master things, you need to grasp them deeply so that you can explain them most simply. But that doesn’t mean you can understand things well only based on the simple thing that has been taught to you. 
 
-And a place like [[Twitter]] and Tiktok made someone who wants to influence others make the simplest explanation of the things they want to tell. The problem is, the novice will think, “I got it, I understand it clearly.”. The stage that the influencers looking for, will make everything so simple, and we lose the deep of the fundamentals that explain it. 
+And a place like [[Twitter]] and [[Tiktok]] made someone who wants to influence others make the simplest explanation of the things they want to tell. The problem is, the novice will think, “I got it, I understand it clearly.”. The stage that the influencers looking for, will make everything so simple, and we lose the deep of the fundamentals that explain it. 
 
 It will simply make a discourse in that application. And with the discourse, there will be much more interaction. And that interaction is not intended to provide deep comprehension about something going on, but rather the interaction is just to justify the individualistic needs. 
 

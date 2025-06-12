@@ -7,7 +7,7 @@ title: Un/A/I Pluviophile
 ```text
 I despise the patter of raindrops' dance,
 Loathe the thunderous beats of [[Music]]'s trance.
-The fleeting TikTok whispers, brief and sly,
+The fleeting [[Tiktok]] whispers, brief and sly,
 Assault my senses, make me wonder why.
 
 A cacophony of keys, a tip-toeing storm,
@@ -46,7 +46,7 @@ Just the muffled sounds of a submerged act.
 ```
 i hate the sound of rain
 i hate the sound of loud [[Music]]
-i hate the sound of short clip tiktok
+i hate the sound of short clip [[Tiktok]]
 i hate the sound of tipping keyboard
 it is noisy
 i hate all sounds

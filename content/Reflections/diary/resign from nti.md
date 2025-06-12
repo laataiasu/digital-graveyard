@@ -7,4 +7,5 @@ title: 2024-04-03
 
 2024-04-03
 
-this is the arch of resigning from a company
+this is the arch of [[Resignation|resigning]] from a company
+

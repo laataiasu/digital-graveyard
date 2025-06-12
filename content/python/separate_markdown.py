@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 
 # Input and output paths
-input_file = 'index.md'  # Replace with your actual file path
+input_file = 'backup.md'  # Replace with your actual file path
 output_dir = 'output_notes'
 Path(output_dir).mkdir(parents=True, exist_ok=True)
 

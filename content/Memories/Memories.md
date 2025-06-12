@@ -5,6 +5,6 @@
 
 
 
-
+[[resign from nti]]
 
 [[First Earthquake]]
