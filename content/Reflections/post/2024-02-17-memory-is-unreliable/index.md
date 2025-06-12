@@ -45,7 +45,7 @@ Even in the most cowardly statement and act from [[Bartleby]] and [[Abdurrahman 
 
 ![gus dur](Reflections/post/2024-02-17-memory-is-unreliable/image-1.png)
 
-Untuk # asalbukan02, buang dulu deontological ethics sampah klean.
+Untuk # asalbukan02, buang dulu [[Deontological Ethics]] sampah klean.
 
 Don't get trapped in nostalgia or uncertain fear, be aware of assumptions & expectations.
 

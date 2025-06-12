@@ -5,7 +5,7 @@ Ajaran Aristoteles berkembang ke daerah Muslim, peradaban Islam saat itu jadi ma
 Ajaran Plato jadi neo platonik ke filsafat barat jadi mistis (idealis)
 ## **Etika Nikomakea (Aristoteles)**
 - eudamonia
-- orientasinya teleologis
+- orientasinya [[Teleological Ethics]]
 ### **Kebajikan Intelektual**
 1. Rasio teoritis, shopia
 2. Rasio praktis, phronesis

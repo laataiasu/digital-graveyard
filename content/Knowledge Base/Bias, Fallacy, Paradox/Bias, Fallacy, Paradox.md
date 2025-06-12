@@ -10,3 +10,5 @@
 
 
 [[Dumb Ideas That Only Smart People Believe]]
+
+[[Commitment Bias]]

@@ -4,9 +4,10 @@ tags:
 - story
 title: SFTH
 ---
+
 ---
 
-2023-01-03-i hate spotify
+2023-01-03- i hate spotify
 
 @spotify will not defeat @youtube [[Music]] unless:
 - it has translations in multi language and forms. for example, japanese songs, it needs multiple translation forms: japanese original words, Romanized version (title, artist, lyrics, etc). it applies as well to korean, chinese, thailand, javanese, etc. yt [[Music]] is winning this because it has flexibility of user to upload so they can upload video lyrics, cover, etc.
@@ -252,13 +253,14 @@ I want to become a monk. But after I see the guide to become a monk, I give up t
 
 ---
 
-I hear my mother coughing when she sleep. She's 60 right now, so is my father. I think I should accept the idea that I can't make my mama proud. The thing is my mother really want me to like typical religious muslim, while deep down in my heart I still don't really understanad the idea of faith anyways. It's the same with my father. When he see me in the middle at the night at 3 AM. I can see disappointment through his voice. "It is your golden time, please don't waste it. Please pray tahajud to ask god for direction. And why I act bitter towards them is only that. I think if I can lie and act as a conman properly, I could really achieve everything what I want to be in life. But to be honest to people and to yourlsef is such a pain in the ass. In this things I fall to deontological ethics and consistency bias. 
+I hear my mother coughing when she sleep. She's 60 right now, so is my father. I think I should accept the idea that I can't make my mama proud. The thing is my mother really want me to like typical religious muslim, while deep down in my heart I still don't really understanad the idea of faith anyways. It's the same with my father. When he see me in the middle at the night at 3 AM. I can see disappointment through his voice. "It is your golden time, please don't waste it. Please pray tahajud to ask god for direction. And why I act bitter towards them is only that. I think if I can lie and act as a conman properly, I could really achieve everything what I want to be in life. But to be honest to people and to yourlsef is such a pain in the ass. In this things I fall to [[Deontological Ethics]] and [[Commitment Bias]]
+. 
 
-I read the story of Carl Jung's patient that is murdering her own friend in order to marry the husband. I find it irritating, because deontologycal ehics like always what works for me. "Don't lie. Don't cheat" and so on, while I thik in real life teleological ethics is useful too, like when your mother cook a not really good food, you need to lie, or to lie to your girl friend when they ask whether they are pretty or not, and you have to answer, "yes, you're pretty.". But in some sense it just doesn't work. 
+I read the story of [[Carl Jung]]'s patient that is murdering her own friend in order to marry the husband. I find it irritating, because [[Deontological Ethics]] like always what works for me. "Don't lie. Don't cheat" and so on, while I thik in real life [[Teleological Ethics]] is useful too, like when your mother cook a not really good food, you need to lie, or to lie to your girl friend when they ask whether they are pretty or not, and you have to answer, "yes, you're pretty.". But in some sense it just doesn't work. 
 
 I always feel like my mother has already dead. She try actively join the Islamic political party, I think it's because of my father wants. She spent her time socializing with neighbors occasionally. If she's in the house she do cleaning, cooking, watching TV. She's really afraid of technology, her scepticism is what I found in me, she really sceptic about technology while I am very sceptic of the human nature. She sleeps mostly and watch TV. The TV Program is mostly religious things and motivational, or doomer news where she is discussing and complaining to my father, about the government fucked us everyday. 
 
-Like I always justify the act of myself when pirating some contents. I justify it because it is wasting my time, so if I spend my money on that, it will make my financial saving suffers, and without I spend my money on that, I could give review so it could increase the popularity, and I think the popularity itself is like rewards, so I even I don't spend my money to buy directly, I still give value on it. And the contents are not only that, but also some courses too, I pirate them because I think most of writers from foreign country is already rich and [[Indonesia]] is a poor country so I don't want to wasting my money on that. 
+Like I always justify the act of myself when [[Piracy|pirating]] some contents. I justify it because it is wasting my time, so if I spend my money on that, it will make my financial saving suffers, and without I spend my money on that, I could give review so it could increase the popularity, and I think the popularity itself is like rewards, so I even I don't spend my money to buy directly, I still give value on it. And the contents are not only that, but also some courses too, I pirate them because I think most of writers from foreign country is already rich and [[Indonesia]] is a poor country so I don't want to wasting my money on that. 
 
 Or I justifying myself in crypto related things. This one is funny, because in terms of faith, I very sceptics about my religion, but I still find there are a lot of good principle in that, such as stay away from lending and borrowing activities which include interest, because the reason is make sense. And in crypto, it is considered specualtive which does not generate real value to the world. But I try to justify that, if I didn't involved in that activities, muslim world will become poor and can't hold the opportunity to be wealthy, and we can see that FIAT is used by a lot of corrupt people, and we can't really understand how people in financial realted things get the most of the wealth while thir activities is not really main activities that server real deman from human. Cryptocurrency revolution is for me to show the world, that we are lied everyday by a lot of big institutions. We can create our money out of thin air. I think it is the main message of cryptocurrency revoltuion. 
 
@@ -306,82 +308,3 @@ This month I pray again. I give up to live an agnostic/atheistic life. Laziness 
 least toxic player in dota :v
 
 ![alt text](dota1.png) ![alt text](dota2.png) ![alt text](dota3.png) ![alt text](dota4.png) ![alt text](dota5.png) ![alt text](dota6.png)
-
----
-
-In decentralized finance ([[Decentralized Finance|DeFi]]), delta-neutral strategies aim to earn a yield while maintaining a neutral position to market price movements. This approach seeks to balance the portfolio in such a way that its value remains relatively stable, regardless of fluctuations in the underlying asset prices. Let's explore the key concepts, mechanics, and examples of delta-neutral yield strategies in [[Decentralized Finance|DeFi]].
-
-### Key Concepts
-
-1. **Delta Neutrality**: Delta measures the sensitivity of an option's price to changes in the price of the underlying asset. A delta-neutral position is one where the overall delta is zero, meaning that the portfolio's value doesn't change with small movements in the underlying asset's price.
-
-2. **Yield Farming**: Yield farming involves providing liquidity to [[Decentralized Finance|DeFi]] protocols and earning rewards (often in the form of additional tokens) for doing so. The aim is to generate returns from these rewards while minimizing exposure to price volatility.
-
-3. **Hedging**: Hedging involves taking positions in derivatives or other instruments to offset potential losses in an investment. In delta-neutral strategies, this often means using derivatives to balance the delta of the portfolio.
-
-### Mechanics of Delta-Neutral Strategies in [[Decentralized Finance|DeFi]]
-
-1. **Liquidity Provision**: In [[Decentralized Finance|DeFi]], providing liquidity to Automated Market Makers (AMMs) like Uniswap or Balancer is a common practice. Users can deposit assets into liquidity pools and earn a portion of the trading fees.
-
-2. **Shorting to Hedge**: To maintain delta neutrality, users may short the underlying asset or a correlated asset to offset any long exposure. This can be done through platforms that offer derivatives like perpetual contracts.
-
-3. **Interest Rate Arbitrage**: Users can take advantage of differing interest rates across [[Decentralized Finance|DeFi]] platforms. By borrowing at a lower rate and lending at a higher rate, they can earn a yield with minimal exposure to price movements.
-
-### Example: Delta-Neutral Yield Strategy
-
-Let's walk through a simplified example of a delta-neutral yield strategy using a stablecoin and a cryptocurrency.
-
-#### Assumptions:
-- You have 10 ETH and want to earn a yield while maintaining a delta-neutral position.
-- Current ETH price = $2,000.
-- You choose to use a stablecoin (e.g., USDC) as the hedge.
-
-#### Steps:
-
-1. **Provide Liquidity**:
-   - Deposit your 10 ETH ($20,000) into an ETH/USDC liquidity pool on Uniswap.
-   - Assume the pool offers a 20% annual percentage yield (APY) in trading fees and incentives.
-
-2. **Hedge the Position**:
-   - Short 10 ETH on a platform like dYdX using perpetual contracts.
-   - Borrow the equivalent amount in USDC ($20,000) and sell it to maintain a neutral exposure to ETH price movements.
-
-3. **Interest Rate Arbitrage**:
-   - Suppose you borrow 10 ETH at an interest rate of 5% APY and deposit the borrowed USDC into a platform like Compound that offers 8% APY on stablecoin deposits.
-
-4. **Calculate Yields**:
-   - From liquidity provision: \( 20,000 \times 0.20 = 4,000 \) USDC/year.
-   - From interest rate arbitrage: \( 20,000 \times (0.08 - 0.05) = 600 \) USDC/year.
-
-   Total yield = $4,600 USDC/year on a $20,000 investment.
-
-### Delta-Neutral Formula
-
-To ensure the position remains delta-neutral, the portfolio's delta should be zero:
-
-\[
-\Delta_{\text{portfolio}} = \Delta_{\text{long}} + \Delta_{\text{short}} = 0
-\]
-
-Where:
-- \(\Delta_{\text{long}}\) is the delta of the assets held long (e.g., liquidity pool).
-- \(\Delta_{\text{short}}\) is the delta of the hedged positions (e.g., short positions).
-
-If you have $20,000 worth of ETH (10 ETH) and you short an equivalent amount of ETH, the net delta of the position will be:
-
-\[
-\Delta_{\text{portfolio}} = \Delta_{\text{ETH}} - \Delta_{\text{short ETH}} = 10 \times 1 - 10 \times 1 = 0
-\]
-
-### Practical Considerations
-
-1. **Transaction Costs**: Fees for swapping, borrowing, and trading can affect net yields.
-2. **Smart Contract Risk**: Ensure platforms are audited to mitigate risks associated with smart contracts.
-3. **Interest Rate Fluctuations**: Rates for borrowing and lending can change, affecting yield calculations.
-4. **Impermanent Loss**: Providing liquidity to AMMs can lead to impermanent loss if the price of assets changes significantly.
-
-### Conclusion
-
-Delta-neutral yield strategies in [[Decentralized Finance|DeFi]] offer a way to earn returns while mitigating exposure to price volatility. By balancing assets in liquidity pools with short positions or other hedging instruments, users can maintain a stable portfolio and generate consistent yields. This approach requires careful consideration of transaction costs, platform risks, and market conditions.
-
----

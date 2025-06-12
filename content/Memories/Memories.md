@@ -2,3 +2,9 @@
 [[Notion Notes]]
 [[Books List]]
 [[Quotes]]
+
+
+
+
+
+[[First Earthquake]]

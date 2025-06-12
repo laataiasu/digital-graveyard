@@ -1,7 +1,8 @@
 ---
-title: "2025-06-12"
+title: Dumb Ideas That Only Smart People Believe
 date: 2025-06-12T17:55:26+07:00
-tags: ["journal"]
+tags:
+  - journal
 ---
 Here’s a strike list of ideas that smart people disproportionately fall for—because their intelligence becomes a liability. These are traps of overanalysis, overconfidence, or ideological drift:
 
