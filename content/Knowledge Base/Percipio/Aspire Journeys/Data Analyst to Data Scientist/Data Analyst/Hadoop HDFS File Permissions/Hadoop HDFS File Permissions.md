@@ -1,0 +1,1 @@
+# Hadoop HDFS File Permissions

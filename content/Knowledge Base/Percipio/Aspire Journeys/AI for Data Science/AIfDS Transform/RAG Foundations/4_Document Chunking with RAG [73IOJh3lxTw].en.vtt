@@ -1,0 +1,195 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.600 --> 00:00:07.436
+We've established that RAG works to retrieve&nbsp;knowledge from a data source by chunking that&nbsp;data source, embedding the chunks,
+
+00:00:07.436 --> 00:00:12.631
+then injecting&nbsp;the results of a similarity search into
+the&nbsp;prompt of the LLM.
+
+00:00:12.631 --> 00:00:17.417
+We'll now cover the basics&nbsp;of how documents
+get split into chunks for&nbsp;retrieval.
+
+00:00:17.417 --> 00:00:27.193
+Along the way, we'll also be introducing&nbsp;a high-level library that we'll use for a variety&nbsp;of tasks later on in this course called Langchain.
+
+00:00:27.193 --> 00:00:32.408
+Document chunking, while simple in concept,
+poses some tricky questions.
+
+00:00:32.408 --> 00:00:38.060
+First, how long do&nbsp;we make our chunks?
+Too short and they may lack&nbsp;context.
+
+00:00:38.060 --> 00:00:45.190
+Too long and they may contain irrelevant&nbsp;information that distorts both the embedding and&nbsp;the LLM generation.
+
+00:00:45.190 --> 00:00:51.168
+There are several ways&nbsp;to perform chunking and we encourage 
+you to&nbsp;experiment with all of these options.
+
+00:00:51.168 --> 00:00:57.740
+First, we have&nbsp;fixed size, which splits documents into segments 
+of&nbsp;a predetermined number of sentences.
+
+00:00:57.740 --> 00:01:07.842
+Next, we have&nbsp;dynamic, which sets a minimum and maximum size for&nbsp;chunks and attempts to group them by paragraph&nbsp;headers or other dynamic patterns.
+
+00:01:07.842 --> 00:01:15.812
+Finally, we&nbsp;have advanced, which utilizes embedding models&nbsp;to identify the conclusion of a thought and the&nbsp;beginning of a new one.
+
+00:01:15.812 --> 00:01:22.439
+Like so much in ML, a lot&nbsp;of this comes down to trial and error 
+with your&nbsp;own data and requirements.
+
+00:01:22.439 --> 00:01:28.813
+The method that we'll&nbsp;be chunking with in our upcoming exercise is&nbsp;Langchain's recursive character text splitter,
+
+00:01:28.813 --> 00:01:34.650
+which attempts paragraph graph level splits but&nbsp;can descend to smaller units
+if the chunks don't&nbsp;fit.
+
+00:01:34.650 --> 00:01:39.116
+The recursive text splitter is a great go-to&nbsp;technique
+to have in your pocket.
+
+00:01:39.116 --> 00:01:46.931
+Another challenge&nbsp;of document chunking arises when dealing with edge&nbsp;cases, where relevant information is split across&nbsp;multiple chunks.
+
+00:01:46.931 --> 00:01:54.857
+Take this, for example. In chunk&nbsp;one we have,
+"The Mona Lisa is a famous painting by&nbsp;Leonardo da Vinci.
+
+00:01:54.857 --> 00:02:01.463
+"It was painted in the early 16th&nbsp;century
+and is now housed in the Louvre Museum&nbsp;in Paris.
+
+00:02:01.463 --> 00:02:09.918
+"The painting is known for the enigmatic&nbsp;smile of its subject, a mysterious woman who has&nbsp;intrigued viewers for centuries."
+
+00:02:09.918 --> 00:02:14.560
+In chunk two we&nbsp;have, "Many theories have been proposed
+about&nbsp;the woman,
+
+00:02:14.560 --> 00:02:21.926
+"but the most widely accepted theory&nbsp;is that she is Lisa Gherardini, the wife of a wealthy&nbsp;Florentine merchant.
+
+00:02:21.926 --> 00:02:30.107
+"The painting's title "Mona Lisa,"&nbsp;is a shortened form of "Madonna Lisa," which means&nbsp;"Lady Lisa" in Italian."
+
+00:02:30.107 --> 00:02:36.000
+Imagine a user queried the&nbsp;vector database with,
+"Who was the subject of the&nbsp;Mona Lisa?"
+
+00:02:36.000 --> 00:02:40.432
+The search would likely return chunk&nbsp;one
+and the model might answer back,
+
+00:02:40.432 --> 00:02:45.000
+the Mona&nbsp;Lisa is a mysterious woman
+who has intrigued&nbsp;viewers for centuries.
+
+00:02:45.000 --> 00:02:49.546
+In doing so, it would miss&nbsp;the valuable information in chunk two.
+
+00:02:49.546 --> 00:02:54.404
+To address&nbsp;this, we can overlap the first and last
+sections of&nbsp;each chunk.
+
+00:02:54.404 --> 00:03:04.686
+While not a perfect fix, this can help&nbsp;cut down on a loss of context during retrieval. The&nbsp;changes to the document are highlighted in yellow&nbsp;on this slide.
+
+00:03:04.686 --> 00:03:11.440
+The overlap chunk one now shows, "The&nbsp;
+"Mona Lisa" is a famous painting by Leonardo da Vinci.
+
+00:03:11.440 --> 00:03:18.000
+"It was painted in the early 16th century and is&nbsp;
+now housed in the Louvre museum in Paris.
+
+00:03:18.000 --> 00:03:25.260
+"The painting&nbsp;is known for the enigmatic smile of its subject,&nbsp;
+a mysterious woman who has intrigued viewers for&nbsp;centuries.
+
+00:03:25.260 --> 00:03:35.148
+"Many theories have been proposed about&nbsp;the woman but the most widely accepted theory&nbsp;is that she is Lisa Gherardini the wife of&nbsp;a wealthy Florentine merchant."
+
+00:03:35.148 --> 00:03:40.761
+In chunk two, we have, "The painting is known for the enigmatic&nbsp;
+smile of its subject,
+
+00:03:40.761 --> 00:03:44.252
+"a mysterious woman who has&nbsp;intrigued viewers for centuries.
+
+00:03:44.252 --> 00:03:51.000
+"Many theories&nbsp;have been proposed about the woman but the&nbsp;most widely accepted theory is that she is Lisa&nbsp;Gheradini,
+
+00:03:51.000 --> 00:03:53.800
+"the wife of a wealthy Florentine Merchant.
+
+00:03:53.800 --> 00:04:02.822
+"The painting's title "Mona Lisa," is a shortened form&nbsp;
+of "Madonna Lisa," which means "Lady Lisa" in Italian."
+
+00:04:02.822 --> 00:04:09.922
+With this overlap, the most likely identity of the&nbsp;
+Mona Lisa is contained within the overlapped chunk&nbsp;one.
+
+00:04:09.922 --> 00:04:18.000
+As a result, our model can draw upon its&nbsp;information in its response and offer a more&nbsp;helpful answer to the users.
+
+00:04:18.000 --> 00:04:24.694
+Beyond chunking itself,&nbsp;we need to consider how chunks are embedded
+and&nbsp;stored in the vector database.
+
+00:04:24.694 --> 00:04:32.336
+Let's briefly touch&nbsp;on some of these. Consider incorporating various&nbsp;forms of metadata into your chunks.
+
+00:04:32.336 --> 00:04:37.191
+The data&nbsp;will be fed to the LLM and rendered to the
+user in&nbsp;various ways.
+
+00:04:37.191 --> 00:04:45.602
+For instance, if you hope to cite the&nbsp;source in your output, include a URL so users can&nbsp;access the source material directly.
+
+00:04:45.602 --> 00:04:50.788
+Additionally,&nbsp;consider page numbers
+or other ways to cite the&nbsp;source.
+
+00:04:50.788 --> 00:04:58.661
+Save the chunks index so it's placed in the&nbsp;document can be retrieved, this is also useful if&nbsp;you want to return the chunks immediately
+
+00:04:58.661 --> 00:05:03.480
+before&nbsp;and after the retrieved chunk to grant more context.
+
+00:05:03.480 --> 00:05:07.198
+Save any metadata you'd like to filter on in the&nbsp;future.
+
+00:05:07.198 --> 00:05:16.040
+In practice, you'll often want to reduce&nbsp;the scope of a query down to a subset of the&nbsp;database. You may want to version the chunking.
+
+00:05:16.040 --> 00:05:23.676
+If you try different chunking strategies or sizes&nbsp;in the future, you can identify the technique used&nbsp;and or the date.
+
+00:05:23.676 --> 00:05:27.680
+If you have long chunks of&nbsp;text and want to quickly identify them,
+
+00:05:27.680 --> 00:05:33.360
+you could also pass the chunk to a language model&nbsp;
+and obtain a short summary of the chunk instead.
+
+00:05:33.360 --> 00:05:39.687
+In fact, there are plenty of other interesting&nbsp;applications of LLMs 
+during chunking uploads&nbsp;available, as well,
+
+00:05:39.687 --> 00:05:46.314
+such as extracting keywords&nbsp;or generating hypothetical questions 
+that could&nbsp;be posed about the chunk.
+
+00:05:46.314 --> 00:05:50.760
+We'll dive into some of&nbsp;these advanced techniques
+later on in the lesson.
+

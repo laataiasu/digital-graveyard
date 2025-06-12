@@ -1,0 +1,144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:06.679
+While the RAG system we built can handle simple&nbsp;
+requirements, it comes with some limitations.
+
+00:00:06.679 --> 00:00:11.271
+What if the query's text is not that similar to&nbsp;
+the correct answer?
+
+00:00:11.271 --> 00:00:17.822
+What if the query is part&nbsp;of a longer conversation
+and lacks necessary&nbsp;context from earlier?
+
+00:00:17.822 --> 00:00:22.216
+What if the answer depends&nbsp;on multiple different sub Q&amp;As?
+
+00:00:22.216 --> 00:00:26.629
+In this lesson, we'll cover some more advanced RAG applications.
+
+00:00:26.629 --> 00:00:34.050
+This is a fast-moving field of AI engineering&nbsp;
+and there are many techniques around but we'll&nbsp;do just a light survey.
+
+00:00:34.050 --> 00:00:41.862
+If you want extra practice,&nbsp;implement some of these advanced techniques in the&nbsp;streamlet app we made in the last lesson.
+
+00:00:41.862 --> 00:00:48.665
+The first&nbsp;and simplest way to enhance RAG performance is a&nbsp;set 
+of techniques called retrieval decoupling.
+
+00:00:48.665 --> 00:00:56.163
+Decoupling refers to the separation of the&nbsp;retrieved chunk in the vector database via the&nbsp;user's query
+
+00:00:56.163 --> 00:01:00.587
+from the retrieved information that&nbsp;is inserted into the prompt.
+
+00:01:00.587 --> 00:01:09.867
+In the context of&nbsp;what we recently learned, we are separating the&nbsp;chunks that are similarity searched from the&nbsp;chunks that are injected into the prompt.
+
+00:01:09.867 --> 00:01:19.360
+For instance, a chunk is retrieved during the retrieval&nbsp;phase.
+This particular chunk is expected to contain&nbsp;the information relevant to the query
+
+00:01:19.360 --> 00:01:23.886
+but the&nbsp;surrounding chunks are also retrieved and included&nbsp;in the prompt.
+
+00:01:23.886 --> 00:01:32.745
+This methodology helps enhance&nbsp;contextual understanding, reduce ambiguity,
+and output richer content generation.
+
+00:01:32.745 --> 00:01:38.205
+The next technique&nbsp;is known as hypothetical document 
+embeddings or&nbsp;HyDE.
+
+00:01:38.205 --> 00:01:44.520
+HyDE leverages generative models to create&nbsp;
+hypothetical documents based on a given query,
+
+00:01:44.520 --> 00:01:52.244
+which can then be used to enhance the retrieval&nbsp;process by improving the relevance and quality&nbsp;of the retrieved information.
+
+00:01:52.244 --> 00:01:57.720
+It can generally be&nbsp;more useful than RAG by itself and is worth trying.
+
+00:01:57.720 --> 00:02:07.605
+First, an LLM is used to create a hypothetical&nbsp;document or passage that would answer a user&nbsp;query or contain relevant information
+
+00:02:07.605 --> 00:02:11.319
+without&nbsp;the need to reference your vector data.
+
+00:02:11.319 --> 00:02:19.842
+The hypothetical document is then converted into&nbsp;embeddings, which capture the semantic meaning&nbsp;of the hypothetical document.
+
+00:02:19.842 --> 00:02:27.691
+The embeddings of&nbsp;the hypothetical document are used to perform a&nbsp;similarity search against a database of document&nbsp;embeddings.
+
+00:02:27.691 --> 00:02:33.469
+This search retrieves actual documents&nbsp;that are semantically 
+similar to the hypothetical&nbsp;document.
+
+00:02:33.469 --> 00:02:39.553
+The retrieved documents, which are&nbsp;expected to be highly relevant due to the&nbsp;improved retrieval process,
+
+00:02:39.553 --> 00:02:44.556
+are then used by&nbsp;the generative model to produce the final response.
+
+00:02:44.556 --> 00:02:50.422
+Sometimes the query sent to your rag system will&nbsp;lack 
+information about its context.
+
+00:02:50.422 --> 00:02:59.301
+For instance, it might be an item in a long chatbot history&nbsp;where the query only makes sense in reference&nbsp;to earlier parts of the discussion.
+
+00:02:59.301 --> 00:03:06.480
+In these&nbsp;cases, it's useful to rewrite the query for the&nbsp;
+user to include more of the necessary context.
+
+00:03:06.480 --> 00:03:10.462
+This is where contextual query rewriting comes&nbsp;into play.
+
+00:03:10.462 --> 00:03:18.268
+This process takes the initial user&nbsp;query input and retrieves relevant user-related&nbsp;context from its conversation history
+
+00:03:18.268 --> 00:03:25.243
+to rewrite&nbsp;the original query to be more specific, clear,&nbsp;
+and contextually rich.
+
+00:03:25.243 --> 00:03:34.000
+The rewriting can involve&nbsp;adding missing information, clarifying ambiguities,&nbsp;or rephrasing for better retrieval effectiveness.
+
+00:03:34.000 --> 00:03:37.721
+The rewritten query is then used for document&nbsp;retrieval.
+
+00:03:37.721 --> 00:03:46.552
+Since the query is now more precise and&nbsp;contextually appropriate, the retrieved documents&nbsp;are likely to be more relevant and useful.
+
+00:03:46.552 --> 00:03:52.010
+Finally,&nbsp;the contextualized query is then sent to the&nbsp;RAG system.
+
+00:03:52.010 --> 00:04:00.219
+Fusion Search breaks the user query&nbsp;into numerous subqueries and each subquery is&nbsp;independently processed and answered.
+
+00:04:00.219 --> 00:04:05.553
+It then&nbsp;takes all the sub-answers and fuses them together&nbsp;
+into a single answer.
+
+00:04:05.553 --> 00:04:15.237
+By combining the outputs&nbsp;of multiple independent retrievals, Fusion Search&nbsp;aims to provide a more robust set of documents for&nbsp;downstream processing.
+
+00:04:15.237 --> 00:04:23.484
+This pattern of dividing&nbsp;tasks into smaller tasks and then recombining&nbsp;them is good preparation for agentic design,
+
+00:04:23.484 --> 00:04:26.861
+where&nbsp;concepts like this are done on a bigger scale.
+
+00:04:26.861 --> 00:04:32.214
+It's a great option if your queries require unpacking&nbsp;elaborate information.
+
+00:04:32.214 --> 00:04:40.440
+Coming up, you'll apply&nbsp;some of these advanced RAG techniques, such as&nbsp;HyDE and Fusion Search into a series of exercises.
+
