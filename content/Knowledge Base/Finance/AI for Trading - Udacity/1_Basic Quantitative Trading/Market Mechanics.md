@@ -6,9 +6,8 @@ Let's break down the conversation with Betty and learn how she decides on the pr
    - **Starting Point**: Betty begins by considering her costs, which could include things like the price she pays for the oranges, transportation, and other expenses. 
    - **Adding Profit**: After covering her costs, she adds a margin for profit. This gives her a baseline price for selling the oranges.
 
-   \[
-   \text{Price} = \text{Cost} + \text{Desired Profit}
-   \]
+   $$\text{Price} = \text{Cost} + \text{Desired Profit}$$
+
 
 ### 2. **Adjusting Based on Demand**
    - **Initial Price**: She starts selling at this calculated price.

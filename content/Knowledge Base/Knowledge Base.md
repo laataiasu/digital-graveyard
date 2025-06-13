@@ -6,13 +6,13 @@
 
 [[Financial Engineering and Risk Management Part II - Coursera]]
 
-[[AI for Trading - Udacity]]
+[[AI for Trading]]
 
 [[Financial Engineering and Artificial Intelligence in Python - TLP Udemy]]
 
 ### [[Decentralized Finance|DeFi]]
 
-[[Decentralized Finance ([[Decentralized Finance|DeFi]]) The Future of Finance Specialization - Coursera]]
+[[Decentralized Finance (DeFi) The Future of Finance Specialization - Coursera]]
 
 ### Blockchain Development
 
