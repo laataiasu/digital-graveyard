@@ -121,7 +121,7 @@ Creating a comprehensive curriculum for learning parallel programming involves c
 
 - **Communities and Forums**
   - Stack Overflow
-  - Reddit r/parallel_programming
+  - [[Reddit]] r/parallel_programming
   - GitHub repositories and open-source projects
 
 This curriculum provides a structured approach to learning parallel programming, starting from basic concepts to advanced techniques and real-world applications. Adjustments can be made based on the learner's prior knowledge and specific interests.

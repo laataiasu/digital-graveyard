@@ -27,7 +27,7 @@ Pandemic is the peak of all my thoughts. It's freeing me from meeting with peopl
 
 Somehow I am longing that love again. the feeling to talk to someone. Or I don't care whether it is about someone or not, I just need to fulfill that I need to be understood, I need to exist in someone's mind, whether it's the false projection of me or not, I dont'care. I just want to try to make people see me as I want to be seen. 
 
-And the first thing you can do about it is by surfing on the internet, especially places like reddit, [[Twitter]], etc etc.
+And the first thing you can do about it is by surfing on the internet, especially places like [[Reddit]], [[Twitter]], etc etc.
 
 But I will keep to myself from now, the most crucial things from now is the real life. 
 

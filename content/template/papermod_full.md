@@ -1,8 +1,8 @@
 ---
-title: My 1st post
+title: papermod_full
 date: 2020-09-15 11:30:03+00:00
 tags:
-- first
+  - first
 author: Me
 showToc: true
 TocOpen: false

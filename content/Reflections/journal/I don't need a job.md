@@ -7,9 +7,9 @@ title: 2024-10-18
 
 2024-10-18
 
-actually i dont need to get a job. the reason why i choose accenture is mostly came from pressure from my father which once a week came to my room said, "dont waste your potential, get a master degree or something". and because of it i was applying random jobs far from my city so i can think for myself again. at that time i just want to take a rest, do sabbatical things in my room alone with my thought, think what should i do in my life instead.
+actually i dont need to get a job. the reason why i choose [[Accenture]] is mostly came from pressure from my father which once a week came to my room said, "dont waste your potential, get a master degree or something". and because of it i was applying random jobs far from my city so i can think for myself again. at that time i just want to take a rest, do sabbatical things in my room alone with my thought, think what should i do in my life instead.
 
-bo burnham said, all of our "real" life is mostly acted to eternalized the digital world. its like we act like in a theater in real life, to records all that happens in real life, and then upload it on the internet so we can make people envy of us. 
+[[Bo Burnham]] said, all of our "real" life is mostly acted to eternalized the digital world. its like we act like in a theater in real life, to records all that happens in real life, and then upload it on the internet so we can make people envy of us. 
 
 the needs to be remember, the needs for recognition is so strong, and i believe its human natural needs, and only internet that could capture it, especially if youre not really believe in the after life. so mostly we live for the digital world, and only internet that can connect ourself with others, to make our life seems eternal. 
 
@@ -17,7 +17,7 @@ thats why, i dont mind being a someone who is "nolep" person, because from the s
 
 by that i mean work at random company to get money, to do the "job", is somehow a laziest form of life, try to engage in something that doesnt contribute to the immortality of yourself.
 
-i think the hard and real question is not, "why you live like this", "why you choose accenture", "why you act like this".
+i think the hard and real question is not, "why you live like this", "why you choose [[Accenture]]", "why you act like this".
 
 the main part i want to ask is simply, 
 - why do we need to remember, to be needed
@@ -60,4 +60,4 @@ like we can simply knows which feature contribute more to a success. we can real
 
 but here's the most interesting part is. perhaps no figures has features similar like you, and it means you can define your matrix feature target by yourself, perhaps you can define your success as to break the reciprocal law, to propagate this idea, that we dont need to feel guilty if we dont give it back to someone who gives us. its not only about that, we can really define our success, and its mostly social constructs. i doesnt matter. 
 
-like i find interesting ideas, but still, i have to know what i want. and now i need to watch useless courses again at accenture. but if i plan idas on my brain that "ohh i believe what i have learn could become useful" perhaps i could be real useful. i just need to make a positive ideation? what a fucking bullshit worlds, what a jokes in the friday afternoon.
+like i find interesting ideas, but still, i have to know what i want. and now i need to watch useless courses again at [[Accenture]]. but if i plan idas on my brain that "ohh i believe what i have learn could become useful" perhaps i could be real useful. i just need to make a positive ideation? what a fucking bullshit worlds, what a jokes in the friday afternoon.

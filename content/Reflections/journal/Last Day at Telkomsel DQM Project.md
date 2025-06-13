@@ -1,14 +1,14 @@
 ---
-title: '2025-04-30'
+title: 'Last Day at Telkomsel DQM Project'
 date: 2025-04-30
 tags:
 - journal
 ---
 # 2025-04-30
 
-this day is my last day working in telkomsel project at accenture. 
+this day is my last day working in [[Telkomsel]] project at [[Accenture]]. 
 
-i pray for this day a lot. my praying is simple. i always believe in god. what i really believe in god is to make me not engage in a meaningless work. things like data quality is cool i think, working with spark, airflow, kubernetes, lots of high resources. but still, i couldnt find a joy in their culture. telkomsel subsidiaries has shit culture. i felt it before. 
+i pray for this day a lot. my praying is simple. i always believe in god. what i really believe in god is to make me not engage in a meaningless work. things like data quality is cool i think, working with spark, airflow, kubernetes, lots of high resources. but still, i couldnt find a joy in their culture. [[Telkomsel]] subsidiaries has shit culture. i felt it before. 
 
 after [[Idul Fitri]], i am interviewed by phillip morris international. its a tobacco company. fuck then. i dont know what i should pray right now. my colleague in tsel project wishing for me that i dont stay long in bench. the thing is, i really want to speak loud to them, you all pray for the wrong thing. 
 
@@ -22,6 +22,6 @@ god, most higher order things, i dont know but i think i could achieve that. as 
 
 as long as they work, like what others do. i cant stand with people like that. its not that i have a higher opnion or judgment about myself, or regard them as lower. no its not. i think looking how the anthropological things affect them, what i can is not to wake them up. i dont want to be a hero, i want everything to be effortless. 
 
-if happiness and certainty is what they after, then i just let them be. i walk my own way, to the deep, to search what is really worth fighting for. for now, actually its more than enough to live for months without having to work. but i always believe, if not in accenture, perhaps in another company, another network, another company. 
+if happiness and certainty is what they after, then i just let them be. i walk my own way, to the deep, to search what is really worth fighting for. for now, actually its more than enough to live for months without having to work. but i always believe, if not in [[Accenture]], perhaps in another company, another network, another company. 
 
 that i could find my own tribal, that think and feel deeply, not based on solely survival instinct, but to find the truth, to find what is worth living for. ill figure it out.

@@ -1,7 +1,7 @@
 ---
 date: '2019-11-12'
 tags:
-- story
+- journal
 title: Starting Diary
 ---
 Today, I decided to jot down my college activities. It's like something I've never experienced before. When it comes to adaptation, I used to think it was easy. Therefore, I underestimated the facilities provided by the university, such as the regional student association and student orientation time. I underrated those things, and now I regret it.

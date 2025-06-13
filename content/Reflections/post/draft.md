@@ -1,5 +1,5 @@
 # todo
 
-- documenting your life, inspired by reddit, ancestry
+- documenting your life, inspired by [[Reddit]], ancestry
 - how i use dbt
 - 

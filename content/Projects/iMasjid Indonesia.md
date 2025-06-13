@@ -3,7 +3,7 @@
 
 > [!info] r/indonesia - Comment by u/deksiberu on "Data Keuangan Tiap Masjid Indon"  
 > Ada yang tau tentang data keuangan tiap masjid?  
-> [https://www.reddit.com/r/indonesia/comments/p5cnfb/comment/h95ix9m/?context=3](https://www.reddit.com/r/indonesia/comments/p5cnfb/comment/h95ix9m/?context=3)  
+> [https://www.[[Reddit]].com/r/indonesia/comments/p5cnfb/comment/h95ix9m/?context=3](https://www.[[Reddit]].com/r/indonesia/comments/p5cnfb/comment/h95ix9m/?context=3)  
   
 [[slide knp hrs belajar techno → masjid]]
 

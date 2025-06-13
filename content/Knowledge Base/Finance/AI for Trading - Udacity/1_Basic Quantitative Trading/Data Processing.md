@@ -473,7 +473,7 @@ You're stepping into the fascinating world of trading and market analysis, where
 ### 1. **Beyond Traditional Market Data: The Expanding Universe of Information**
 
    - **News Articles:** News can have an immediate and significant impact on stock prices. For instance, a positive earnings report or a breakthrough in company research can lead to a spike in stock prices. Conversely, bad news, like scandals or poor earnings, can cause prices to plummet.
-   - **Social Media Sentiment:** Platforms like [[Twitter]], Reddit, and even [[Facebook]] can be a treasure trove of sentiment data. Investors often express their opinions and sentiments on social media, which can be aggregated and analyzed to predict market movements.
+   - **Social Media Sentiment:** Platforms like [[Twitter]], [[Reddit]], and even [[Facebook]] can be a treasure trove of sentiment data. Investors often express their opinions and sentiments on social media, which can be aggregated and analyzed to predict market movements.
    - **Satellite Images:** Advanced technologies, like satellite imaging, provide unique data points. For example, satellite images can estimate crop yields, track retail foot traffic, or even monitor oil storage levels—all of which can impact market prices in relevant sectors.
    - **Consumer Data:** Analyzing consumer behavior, like spending patterns or product reviews, can give you insights into a company's future performance, well before official sales reports are released.
 

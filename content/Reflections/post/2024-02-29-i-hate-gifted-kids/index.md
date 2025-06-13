@@ -6,7 +6,7 @@ title: Burden of Giftedness
 ---
 When you're a smartest person in your room, you realize you'll hate yourself because it means you're in the wrong room. You see news and hear speaks from other people that most of their smartest friend end up doing nothing compare to their most bastard friend. 
 
-I saw reddit questions: What stopped you from killing yourself?
+I saw [[Reddit]] questions: What stopped you from killing yourself?
 
 And here is my answer. 
 
@@ -91,6 +91,6 @@ I hate myself cause I can't make friends.
 
 I hate MF, ANH, BP, incompetent staff manager.
 
-I hate NTI managers in general and Telkomsel. 
+I hate [[Neural Technologies Indonesia|NTI]] managers in general and [[Telkomsel]]. 
 
 I hate myself because I've just accepted stupid company..

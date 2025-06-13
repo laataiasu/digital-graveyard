@@ -52,7 +52,7 @@ and no matter how hard i try to push that idealogy, the biological and anthropol
 
 the fear of hungry, the need for companionship, its all that push me towards what kind of hell is this. and its might be hell for me is still heaven for most of people. but honestly i dont really i understand why we feel corrupt when we lie. theres too much dimension. and to look the truth for it is just wasting time. 
 
-art is dead, bo burnham said art is dead. 
+art is dead, [[Bo Burnham]] said art is dead. 
 
 i like his most of the songs because it so full of contradictory. 
 

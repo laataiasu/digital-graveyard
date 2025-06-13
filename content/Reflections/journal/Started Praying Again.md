@@ -2,7 +2,7 @@
 date: 2024-06-13
 tags:
 - journal
-title: 2024-06-13
+title: Started Praying Again
 ---
 
 2024-06-13

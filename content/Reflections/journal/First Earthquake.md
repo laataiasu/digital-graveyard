@@ -2,12 +2,12 @@
 date: 2024-04-28
 tags:
 - journal
-title: first earthquake
+title: First Earthquake
 ---
 
 2024-04-28 - first earthquake
 
-[[First Earthquake]]
+[[Reflections/journal/First Earthquake]]
 
 I felt the earthquake for the first time in my life, as previously I never experienced this, people just tell me to get out of room. It was 11:30 PM and I sat on my bedroom playing chess. I thought it was because of rats, why there are much sounds, but I heard some lizards too. Then I felt my bedroom is moved oddly, then I realized it was an earthquake. I suddenly jumped and woke up my parents, "I think it is earthquake". My parents are panic, but I don't know whether I panic or not. It's just survival insting to woke up my parents suddenly. Somehow I have already said that actually I don't care about anything. If Dostoevsky said that hell is the experience to unable to love, I think I am in hell right now. I don't have much attachments to my parents or my [[Family|family]]. I think differently, I am the stubborn one. As I have said before, from this perfect [[Family|family]], how could be born a devil like me. I am a bad person I know, I treat friends or [[Family|family]] or even myself like shits. 
 
@@ -21,23 +21,6 @@ Everyday I just wish myself to die in a husnul hotimah way faster. It's funny th
 
 Sometimes I get jealous of my parents. When I check their phone, their alumni groups from elementary school to college never quiet, even they filled with hoax and dad jokes. I compare it with my groups, my elementary school not really active, junior or high school is dead, college is filled with same people over and over again, with meaningless interaction. Maybe my generation see that initative as someone who looking for attention or lonely that indicate weakness and we hate to be looked as a weak. Maybe they see this then my groups are always quiet. Even in a religious holiday, no one chat [[Idul Fitri]] or merry christmas. Gen-Z are fucking stupid I guess. 
 
-When the earthquake happened, I don't feel afraid, like I imagine myself die with no one notice. No one will remember my name or my face. And I pretty okay with that I don't know why. Like I always convince myself that your life is not your life. Maybe someday I lose sight, hearing, hands, feet and so on. But as I imagine that, I don't know why, I still think any part of my body is not mine. I don't have any soul. I am like animal, like a deer hunted by 2 lions. I just accept that my miserable existence just goes on like this. Maybe I can laugh or cry to this, it just doesn't matter.
+When the earthquake happened, I don't feel afraid, like I imagine myself die with no one notice. No one will remember my name or my face. And I pretty okay with that I don't know why. Like I always convince myself that your life is not your life. Maybe someday I lose sight, hearing, hands, feet and so on. But as I imagine that, I don't know why, I still think any part of my body is not mine. I don't have any soul. I am like animal, like a picture of a deer hunted by 2 lions. I just accept that my miserable existence just goes on like this. Maybe I can laugh or cry to this, it just doesn't matter.
 
-I wasting lots of my time doing things I don't care about, with people I hate because after all, why not? They said we have to experience this life, and this is how I experience my life. Wasting time because I have no time, this not me, I don't know who own this body or this consciousness. I don't knwo whether I am me or I have a consciousness. That's why when my mother got panic, I just seem like I don't care. Like if tomorrow if the last day of my life, I will still do things like I just do in my daily life; doom scrolling, watching [[Porn]], watch movies or read books, maybe apply for a job, maybe look for something excite me, maybe play chess, stalking my peers, distro hopping, I don't have a will to do big things, everything seems boring to me. And if today is the last day of my life, I just pray, please make it faster, with no pain, with no after, please. 
-
-
-2024-05-16-weird dream
-
-i dream about my faculty junior who is accused to a sexual harrasment act by a girl. without thinking and asking further to my junior, i punch him in the face and he looks bad (babak belur). after that somehow there is a gathering saying that the girl is lying. i apologize to him and ask him to punch me back. i get punched, but didn't feel any pain.  
-
-There is a term 'Kodokushi' from Japan that is A lonely Die.
-
-I think I have accepted this. I compared my mother's WhatsApp with mine, and its very different. Everyone is very lively and has friends, whereas every day I never get messages from anyone, except scammers.
-
-I'm 23 years old, I'm too cowardly to say I miss you and start a conversation with my friends. No one is close to me. I just resigned after 1 year working in a small place with a boss I hated.
-
-I graduated from a CS degree at a top university in my country, even though I wasn't really interested in the major. I always try to learn because I know the world is very competitive, especially since AI has developed so much now, without realizing it, I forgot how to make friends. During the pandemic where many people were having difficulties and suffering, I was happy because I didn't go to college, thus preventing me from [[Social Anxiety]], which made me feel that I was the worst human being because I was happy on top of people's suffering. Somehow I graduated on time cum laude.
-
-Even so, I don't know where to go, I don't have a goal, It feels very lonely. I always listen to the song "Priscilla Ahn – Fine On The Outside". I don't know what's wrong with me, what sins I committed to end up like this. on the one hand I want to improve myself, on the other hand I can accept this loneliness because it means I can do anything freely.
-
-I don't know when I will die, I think I will die like Paul Mescal in the movie "All of Us Strangers". or I try to die like a cat, disappear suddenly without a trace. But I don't need to be like a cat who suddenly disappears, because even if I don't disappear, no one will look for me. i'm probably gonna die alone.
+I wasting lots of my time doing things I don't care about, with people I hate because after all, why not? They said we have to experience this life, and this is how I experience my life. Wasting time because I have no time, this not me, I don't know who own this body or this consciousness. I don't know whether I am me or I have a consciousness. That's why when my mother got panic, I just seem like I don't care. Like if tomorrow if the last day of my life, I will still do things like I just do in my daily life; doom scrolling, watching [[Porn]], watch movies or read books, maybe apply for a job, maybe look for something excite me, maybe play chess, stalking my peers, distro hopping, I don't have a will to do big things, everything seems boring to me. And if today is the last day of my life, I just pray, please make it faster, with no pain, with no after, please. 

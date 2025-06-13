@@ -288,7 +288,7 @@ Foundation models are large-scale, pre-trained models designed to learn from vas
    - Released in 2018, GPT-1 had 117 million parameters and was trained on the BookCorpus dataset (7000 unpublished books). While it was capable of generating coherent text, it struggled with maintaining context in conversations.
 
 2. **GPT-2**:
-   - Launched in 2019 with 1.5 billion parameters, GPT-2 used the WebText dataset (8 million documents from upvoted Reddit pages). It improved upon GPT-1’s coherence but still faced challenges with complex reasoning.
+   - Launched in 2019 with 1.5 billion parameters, GPT-2 used the WebText dataset (8 million documents from upvoted [[Reddit]] pages). It improved upon GPT-1’s coherence but still faced challenges with complex reasoning.
 
 3. **GPT-3**:
    - Released in 2020, GPT-3 featured 175 billion parameters and was trained on diverse datasets including Common Crawl, Wikipedia, and two book corpora. This model showed significant improvements in understanding context and generating varied outputs, although it still produced biased or inappropriate responses at times.
