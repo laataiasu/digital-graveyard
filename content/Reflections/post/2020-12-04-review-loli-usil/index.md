@@ -15,7 +15,7 @@ But it is only based on books, it probably less than that, or it probably still 
 
 The funny thing is The Japanese weren't taught about [[Indonesia]], at least from my limited resources from 
 
-{{< youtube id="TDasnJh7q8U" autoplay="true" >}}
+![[https://youtu.be/TDasnJh7q8U]]
 
 The Youtuber asked 2 Japanese teenagers to guess about where he comes from and so on. And whenever he talked about [[Indonesia]], they didn't know anything. But after he told about Bali, the 2 Japanese teenage girls just realized that Bali is part of [[Indonesia]].
 

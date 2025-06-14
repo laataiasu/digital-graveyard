@@ -8,7 +8,7 @@ title: Humor and Love Part 1
 ---
 Always forgot about this, but this Letters to a Young Contrarian by Christopher Hitchens from an atheist dissilutionizing me that whatever your condition is, you need a t least add a humour to that condition. I aware of this things actually, from 
 
-{{< youtube id="MdZAMSyn_As" autoplay="true" >}}
+![[https://youtu.be/MdZAMSyn_As]]
 
 , and from One Flew Over the Cuckoo's Nest that said like this,
 

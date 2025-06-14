@@ -4,7 +4,7 @@ tags:
 - essay
 title: From Scarcity to Abundance, Culture of Competition and Imitation
 ---
-{{< youtube id="e9dZQelULDk" >}}
+![[https://youtu.be/e9dZQelULDk]]
 
 We are constantly engaged in competition, but often it yields no real value.
 
@@ -18,7 +18,7 @@ People often act or pretend to act without the courage to reflect on their actio
 
 This behavior is quite understandable, as individuals often believe they are inadequate and lack a sense of security.
 
-{{< youtube id="uSzbHzKkk_Y" >}}
+![[https://youtu.be/uSzbHzKkk_Y]]
 
 Be cautious of those who appear successful and encourage you to take more risks and step out of your comfort zone. Their advice may be biased due to survivorship bias, assuming that others can replicate their success through similar paths.
 

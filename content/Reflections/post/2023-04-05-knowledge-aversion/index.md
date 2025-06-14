@@ -126,7 +126,7 @@ Terus salah satu upayanya apa?
 
 Don't act, just think. I would prefer not to: 
 
-{{< youtube id="IgR6uaVqWsQ" autoplay="true" >}}
+![[https://youtu.be/IgR6uaVqWsQ]]
 
 Itu langkah awal, revolusi lanjutan lagi dimasak pake metode komedi.
 

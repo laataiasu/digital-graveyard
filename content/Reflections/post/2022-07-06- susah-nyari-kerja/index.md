@@ -14,7 +14,7 @@ Keberadaan berbagai platform pencari kerja sebenarnya tidak membantu, malah memb
 
 Saya teringat dengan drama Jepang berjudul "Rich Man, Poor Woman" yang membicarakan "one data". 
 
-{{< youtube id="xSEMwt_v9kA" autoplay="true" >}}
+![[https://youtu.be/xSEMwt_v9kA]]
 
 Meski pemerintah memiliki program "one data" agar semua data dapat terintegrasi, apakah ada regulasi atau panduan dari pemerintah terkait hal ini? Mungkin sulit untuk mengharapkan hal tersebut dari pemerintah, tetapi universitas-universitas yang saya ketahui juga belum memiliki panduan yang jelas untuk membantu mempertemukan pencari kerja dengan pekerjaan yang dapat diandalkan berdasarkan data real-time. Para dosen dan senior mungkin telah memberikan beberapa saran seperti mengikuti banyak acara job fair, terus memperbarui LinkedIn dan CV, dan sebagainya.
 

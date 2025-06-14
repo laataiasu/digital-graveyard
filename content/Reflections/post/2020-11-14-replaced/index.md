@@ -11,7 +11,7 @@ title: Replaced
 ---
 **_The greatest form of usefulness is to make many people lose their usefulness. In this way, those who lose their usefulness turn to those who enjoy it._**
 
-{{< youtube id="ztrG20lZRvA" autoplay="true" >}}
+![[https://youtu.be/ztrG20lZRvA]]
 
 
 In the Management course, I ask my lecturer. "If technical workers been replaced by AI, it means that the technical business process is fulfilled and there will be no problems again in the technical sector so that low-level manager is not needed anymore. If it is fulfilled the effective, efficient, and productive in business, can it be developed until the high-level manager, the director, or CEO be replaced by Robots?"
@@ -49,13 +49,13 @@ There must be a bunch of cunning capitalists like middlemen that use this to enr
 
 The purpose of technology is to make everyone powerful so that the gap in power will be decreased. Then money loses its power because power is owned by people. Then people gave power to someone who is really worth to be given. In this system, money is no longer useful and the new credit is something called social credit,
 
-{{< youtube id="CLo3e1Pak-Y" autoplay="true" >}}
+![[https://youtu.be/CLo3e1Pak-Y]]
 
 like applied in China with the lack of the government controls the system, whereas people should control the system. There's no problem if the government is good morally, but a greedy government will disgrace this system.
 
 In the transition of the replacement money system to the new system, we need to think about how it can be replaced perfectly, the one idea is Universal Basic Income.
 
-{{< youtube id="iMEwVXv2aQc" autoplay="true" >}}
+![[https://youtu.be/iMEwVXv2aQc]]
 
 Maybe there is something more effective than this idea, but It's hard to figure out what that is. It is being experimented with by South Korea but I am pessimistic if it is applied in [[Indonesia]] because it will likely worsen the Indonesian economic system.
 

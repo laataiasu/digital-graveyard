@@ -6,7 +6,7 @@ tags:
 - essay
 title: Peter Singer - Ordinary People Are Evil
 ---
-{{< youtube id="KVl5kMXz1vA" >}}
+![[https://youtu.be/KVl5kMXz1vA]]
 
 Orang utilitarian gini mirip komunis lemah syahwat, selalu cari silver bullet untuk melengkapi lobang ideologinya. Kalo ga sesuai tinggal potong2 minoritas dan buang outlier selayak procustes tentang apa2 yang ga sesuai sama mereka karena kurang bisa menerima diversitas dan buru-buru ingin perfect. That's why I love them. 
 
@@ -39,7 +39,7 @@ they suggest letting jesw, chenesi, and isethat become global leaders because so
 
 ---
 
-{{< youtube id="I19btmIBhx0" >}}
+![[https://youtu.be/I19btmIBhx0]]
 
 wkwk ini coldfusion aja udah merambah ke field ini. mana business model
 mu kawan?

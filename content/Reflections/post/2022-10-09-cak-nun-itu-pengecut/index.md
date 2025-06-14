@@ -18,7 +18,7 @@ Masalah utamanya adalah gejala ini dapat menyebar, dimana media dan internet sec
 
 Apabila ingin cocoklogi sedikit anda bisa mengaitkan ini dengan mass psychosis. Ini versi singkatnya apabila anda ingin sedikit tahu. 
 
-{{< youtube id="09maaUaRT4M" autoplay="true" >}}
+![[https://youtu.be/09maaUaRT4M]]
 
 Sebenarnya saya menulis ini salah satunya akibat webtooon Dr. Frost oleh JongBeom Lee. 
 

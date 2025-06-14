@@ -5,9 +5,9 @@ tags:
 - literature
 title: Asumsi Rasional
 ---
-{{< youtube id="JFOhvquQiS8" >}}
+![[https://youtu.be/JFOhvquQiS8]]
 
-{{< youtube id="fQ4rc7npiXQ" >}}
+![[https://youtu.be/fQ4rc7npiXQ]]
 
 "specialization makes it hard to evaluate. sub-specialists propagandize" [[Peter Thiel]]
 

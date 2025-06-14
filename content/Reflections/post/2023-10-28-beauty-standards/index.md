@@ -6,7 +6,7 @@ tags:
 - muslim
 title: 'Empowerment, Beauty, and the Shifting Paradigm: A Reflection on Standards'
 ---
-{{< youtube id="qxdDvmGJlbc" >}}
+![[https://youtu.be/qxdDvmGJlbc]]
 
 When you throw away the concept and the dimension of time, you'll find that the effort put into grooming yourself is a futile endeavor, contributing to the perpetuation of the "halo effect" ideology.
 
@@ -34,7 +34,7 @@ From this perspective, this individual is actually a villain because what he pre
 
 Someone like him fights entropy in an attempt to attain eternal beauty. Those who follow him probably find ecstasy in imagining the dragon being slain in "The Fable of the Dragon-Tyrant"
 
-{{< youtube id="cZYNADOHhVY" >}}
+![[https://youtu.be/cZYNADOHhVY]]
 
 They ask, what's wrong with pursuing the eternal? What's wrong with not dying? What's wrong with being beautiful all the time? Why is it considered to be exceeding limits?
 
@@ -50,7 +50,7 @@ seeking refuge in a metaverse online avatar that exudes grace and elegance, mani
 
 carefully choosing what is 'good' and discarding what is 'bad' about what one wishes to display in their resume, both in the virtual and real worlds. Monday to Friday deceiving people, Saturday and Sunday deceiving God.
 
-{{< youtube id="Ja2fgquYTCg" >}}
+![[https://youtu.be/Ja2fgquYTCg]]
 
 "Indeed, [[Allah]] is beautiful and He loves beauty." (Narrated by Muslim from Ibn Mas'ud, may [[Allah]] be pleased with him).
 

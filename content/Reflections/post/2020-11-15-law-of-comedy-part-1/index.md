@@ -8,7 +8,7 @@ timeline_notification:
 - '1605415446'
 title: The Law of Comedy ~ Part 1
 ---
-{{< youtube id="0C5UQbWzwg8" >}}
+![[https://youtu.be/0C5UQbWzwg8]]
 
 Considered I am a conservative or democratic or liberal or anything, because actually any typology of ideology, everything is all the same.
 

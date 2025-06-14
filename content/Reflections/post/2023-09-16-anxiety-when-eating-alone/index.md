@@ -10,7 +10,7 @@ title: Social Anxiety When Dining Alone in Restaurants
 
 I've come to understand concepts like the 'spotlight effect,' delved into the intriguing depths of 'The Mind Explained' Netflix series, and engaged with content that reminds us of our shared humanity in this vast world.
 
-{{< youtube id="Sb9nMW_Sg0w" >}}
+![[https://youtu.be/Sb9nMW_Sg0w]]
 
 The phrase "kullu nafsin daikotul maut" resonates, reminding us that every soul will face mortality. Then there's YOLO, the philosophy of seizing the day, and the notion of entropy and complexity, which rise with the passage of time. It's fascinating how youth, before the age of 25, often wrestle with heightened neuroticism.
 

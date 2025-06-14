@@ -17,13 +17,13 @@ Why does this happen?
 
 If we examine [[[[Addiction|Addiction]]|addiction]] from a researcher's "hammer" perspective, it provides some insights. 
 
-{{< youtube id="66cYcSak6nE" >}}
+![[https://youtu.be/66cYcSak6nE]]
 
 We're all just trying to fill the void within ourselves.
 
 An example can be seen in episode 4 of the anime series "Odd Taxi,":
 
-{{< youtube id="KrvKhnSdbks" >}}
+![[https://youtu.be/KrvKhnSdbks]]
 
 In our childhood, we used to exchange items like binders, showcasing our newest toys such as Rubik's cubes, spinning tops, Tamiya cars, marbles, and kites. It was a normal occurrence until someone who couldn't afford these items felt marginalized. Consequently, they started seeking material possessions to fill the void. However, it was never enough, and they became a knowledge hunter.
 

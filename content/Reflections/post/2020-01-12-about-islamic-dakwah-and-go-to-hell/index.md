@@ -8,7 +8,7 @@ timeline_notification:
 - '1600922570'
 title: About Islamic Dawah and Go to Hell
 ---
-{{< youtube id="ZxJUMBVO18I" autoplay="true" >}}
+![[https://youtu.be/ZxJUMBVO18I]]
 
 **"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."**
 

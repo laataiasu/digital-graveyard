@@ -41,7 +41,7 @@ When we are looking at someone who is smiling we can't assume something about th
 
 Like this guy,
 
-{{< youtube id="85Y1CqAF-nw" autoplay="true" >}}
+![[https://youtu.be/85Y1CqAF-nw]]
 
 We can't assume his smile is a fake because after that event he committed suiceide. Because there are things we can't predict and all moments only need to be understood at that moment.
 

@@ -8,7 +8,7 @@ timeline_notification:
 - '1605416374'
 title: The Law of Comedy ~ Part 4
 ---
-{{< youtube id="uTBEUTz6Wog" autoplay="true" >}}
+![[https://youtu.be/uTBEUTz6Wog]]
 
 This is the other example which I think is part of the law of comedy too,
 
@@ -52,4 +52,4 @@ Even though humanity is nothing more than a lunacy. It could lead to the crisis 
 
 Then the disaster is happened, and we realized it too late.
 
-{{< youtube id="ot4LwLDiRHE" autoplay="true" >}}
+![[https://youtu.be/ot4LwLDiRHE]]

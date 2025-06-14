@@ -8,7 +8,7 @@ tags:
 title: 'Ghost/Phantom: A Harrowing Reflection on Corruption, Media Sensationalism,
   and the Vicious Cycle'
 ---
-{{< youtube id="Ci-uHdKT5QM" >}}
+![[https://youtu.be/Ci-uHdKT5QM]]
 
 Introduction:
 "Ghost/Phantom" is a Korean drama series that delves into the world of cybercrime and journalism, shedding light on the inherent corruption within society. Through its portrayal of media sensationalism and the cyclical nature of complaints and profits, the show provides a thought-provoking analysis of our collective flaws. This essay will explore these themes and their implications in contemporary society.

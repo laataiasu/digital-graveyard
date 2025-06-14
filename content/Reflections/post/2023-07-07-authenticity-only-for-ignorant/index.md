@@ -5,7 +5,7 @@ tags:
 - film
 title: Why Luffy is the Authentic Hegelian Master
 ---
-{{< youtube id="_hDmYO3hk4s" >}}
+![[https://youtu.be/_hDmYO3hk4s]]
 
 Authenticity is bullshit. Make a sign and hide! Don't show! Don't tell!
 

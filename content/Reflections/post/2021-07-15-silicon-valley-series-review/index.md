@@ -20,7 +20,7 @@ So my friends from my faculty ([[Computer Science]]) once said that our faculty 
 My friends claimed that he was an INTP, even though I never get why so many people believe that they have such a constant characteristic of their soul or something like that, so I send him this video to at least make him skeptical about what has been taught in the society or curriculum of the university.
 
 
-{{< youtube id="0C5UQbWzwg8" autoplay="true" >}}
+![[https://youtu.be/0C5UQbWzwg8]]
 
 So comeback again to Silicon Valley, the portrait of many scenes in Silicon Valley is quite accurate.
 
@@ -47,7 +47,7 @@ And there is this villain in some season, Gavin Belson, a CEO of big venture cap
 
 And this scene making me laugh so hard.
 
-{{< youtube id="t5zQpN28xa4" autoplay="true" >}}
+![[https://youtu.be/t5zQpN28xa4]]
 
 At first I think it is just a comedy and fictional, but this scene is actually came from a real event in this world lol.
 

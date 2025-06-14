@@ -7,9 +7,9 @@ timeline_notification:
 - '1600922570'
 title: Choice Blindness
 ---
-{{< youtube id="CLUWDLKAF1M" autoplay="true" >}}
+![[https://youtu.be/CLUWDLKAF1M]]
 
-{{< youtube id="b2ng8HuPLTk" autoplay="true" >}}
+![[https://youtu.be/b2ng8HuPLTk]]
 
 [Teknologi mengedit dan menghapus kenangan manusia](https://www.vice.com/id_id/article/8qkx5p/teknologi-mengedit-dan-menghapus-kenangan-manusia-sudah-ditemukan)
 
