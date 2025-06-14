@@ -14,7 +14,7 @@ console.table()
 ```
 ### Formatting
 ```JavaScript
-const name = "Ichsan";
+const name = "";
 console.log("Name : ${name}");
 // dengan condition
 console.log("Name : ${name == 'san'}");
@@ -39,7 +39,7 @@ isNaN()
 ### Object
 ```JavaScript
 const person = {};
-person["nama"] = "Ichsan";
+person["nama"] = "";
 person["nama2"] = "Ha";
 delete person["nama2"];
 const person {

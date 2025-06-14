@@ -2,7 +2,7 @@
 
 ## general
 
-[[visualizations]]
+[[Visualizations]]
 
 [[Gutenberg]]
 

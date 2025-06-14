@@ -19,7 +19,7 @@ Sokarno hatta
   
   
 Assalamualaikum Warahmatullahi Wabarakatuh
-Selamat Siang, nama saya Muhammad Ichsanul Amal, mahasiswa Sistem Informasi Universitas Indonesia ingin memberikan sejumlah masukan terkait pengembangan sistem informasi dalam bidang agama, khususnya sistem informasi masjid di Indonesia.
+Selamat Siang, nama saya <<nama>>, mahasiswa Sistem Informasi Universitas Indonesia ingin memberikan sejumlah masukan terkait pengembangan sistem informasi dalam bidang agama, khususnya sistem informasi masjid di Indonesia.
 Berikut saya lampirkan ide abstrak yang umum, tetapi masih disusun dalam bahasa yang non formal.
 [https://drive.google.com/file/d/1ulV2rb0i3AlNCFBvs3xnqn8osNiswn-1/view?usp=sharing](https://drive.google.com/file/d/1ulV2rb0i3AlNCFBvs3xnqn8osNiswn-1/view?usp=sharing)
 Saya berharap tulisan tersebut dapat dijadikan pertimbangan dalam membangun sistem informasi masjid di Indonesia, tidak hanya secara teknis melainkan bersifat manajerial juga.

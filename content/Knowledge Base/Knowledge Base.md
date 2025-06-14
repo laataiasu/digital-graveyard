@@ -53,7 +53,7 @@
 [[How to Start a Startup]]
 
 
-[[Languange]]
+[[Language]]
 [[Metaphysics]]
   
 [[Bias, Fallacy, Paradox]]
