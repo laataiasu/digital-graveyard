@@ -8,7 +8,8 @@ timeline_notification:
 - '1605416506'
 title: The Law of Comedy ~ Part 5
 ---
-{{<youtube id="HFUPPgAw2Ts">}}
+
+![[https://youtu.be/HFUPPgAw2Ts]]
 
 Narrated from Ibn Umar Radhiyallahu anhu, the Prophet sallallaahu 'alaihi wa sallam said:
 
