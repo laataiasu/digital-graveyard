@@ -6,7 +6,7 @@ title: Penuntut Ilmu Laduni
 ---
 Belajar dari bio ig teman saya yang merupakan penganut dan penuntut ilmu laduni,
 
-<h1>It is worth to try everything. But not everything is worth trying.</h1>
+<h1>It is worth trying everything. But not everything is worth trying.</h1>
 
 Setiap postingan berperan pada kesiasiaan penyimpanan cloud. Mari perbanyak bytes, mari andil dalam pemanasan global. Bytes, biner, dan angka tidak penting, mari tunjukan eksistensi anda melalu perbanyakan bytes, mari mubazirkan sumber dan energi yang ada, sebelum yang dapat diperbarui optimal ditemukan, usaha anda untuk terus menguras sumber daya merupakan optimisme bahwa di masa depan resource akan sustain dan dapat selalu teregenerasi. Jikapun tidak ya persetan dengan anak-anak di masa depan.
 

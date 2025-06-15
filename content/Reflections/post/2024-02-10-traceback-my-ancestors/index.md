@@ -6,13 +6,6 @@ title: Traceback My Ancestors
 ---
 Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 
-
----
-
-Great! Below is your content reformatted with `[[wikilinks]]` so it's ready to drop into Obsidian as a digital garden. You can paste this directly into a single `.md` file or break it into multiple ones later.
-
----
-
 ## 🌿 [[Digital Garden Index]]
 
 ### 🧠 [[Philosophy, History, Psychology, Social Sciences]]

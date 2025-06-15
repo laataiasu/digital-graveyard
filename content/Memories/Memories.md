@@ -3,9 +3,7 @@
 [[Books List]]
 [[Quotes]]
 
-
-
-Chronology
+## Chronology
 
 [[First Day I Missed My Prayer]]
 
@@ -18,3 +16,9 @@ Chronology
 [[First Day of Accenture]]
 
 [[Last Day at Telkomsel DQM Project]]
+
+## Gadget
+
+[[Xiaomi Redmi Note 11]]
+
+[[HUAWEI Band 8]]

@@ -4,6 +4,7 @@ tags:
 - business
 - ideas
 ---
+
 username: sisenthu
 name: Crisis enthusiast
 Bio IG: Be a [[Masochist]]! Enjoy and embrace your pain and suffering. Humans must be overcome
@@ -15,7 +16,10 @@ Make a sign and hide. Don't show, don't tell.
 - bayt al hikmah longer
 - ngaji filsafat
 - al ghuroba
+- It is worth trying everything. But not everything is worth trying.
   
+
+
 ---
 Based on the [[Instagram]] bio and profile cues you shared, here's a **creative business idea** that aligns with the themes of philosophical depth, crisis-embrace, mystique, rebellion, and existential inquiry.
 
