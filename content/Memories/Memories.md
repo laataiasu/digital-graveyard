@@ -21,4 +21,6 @@
 
 [[Xiaomi Redmi Note 11]]
 
-[[HUAWEI Band 8]]
+[[Huawei Band 8]]
+
+[[Asus Zenfone Max Pro M2]]

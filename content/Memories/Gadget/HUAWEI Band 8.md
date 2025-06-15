@@ -1,2 +1,0 @@
-# HUAWEI Band 8
-
