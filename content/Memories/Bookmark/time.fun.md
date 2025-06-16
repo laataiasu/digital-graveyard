@@ -1,0 +1,5 @@
+# time.fun
+
+[[Cryptocurrency]]
+
+[[Blockchain]]

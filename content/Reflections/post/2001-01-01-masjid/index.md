@@ -1,10 +1,12 @@
 ---
-date: '2001-01-01'
+date: "2001-01-01"
 tags:
 - essay
 - muslim
-title: Manifesto
+title: "(Archieved) Akselerasi Smart City Melalui Masjid Berprestasi"
+draft: true
 ---
+
 بسم الله الرحمن الرحيم
 
 # Akselerasi Smart City Melalui Masjid Berprestasi

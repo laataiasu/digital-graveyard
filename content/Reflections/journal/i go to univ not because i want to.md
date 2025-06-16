@@ -23,7 +23,7 @@ i try to ask question what im valuing most, and i dont really know about. i unde
 
 and now i am circling here, dont know what to do, dont know what i want. it makes me miserable too. 
 
-then i see time.fun. everything seems like can be tokenized. i hope someone create token that tokenize my misserableness, but i think it will have no value since it could become infiinity.
+then i see [[time.fun]]. everything seems like can be tokenized. i hope someone create token that tokenize my misserableness, but i think it will have no value since it could become infiinity.
 
 but as you see, in this era of speculation, people can do long on short of everything, my miserable could fluctuate, perhaps i could make it as little as possible so it become scarce, and only the meaningful and valueable misserable that exist, so perhaps it could become valuable? 
 
