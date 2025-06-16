@@ -36,7 +36,7 @@ I work with data, but there is no data governance or data documentation.
 
 We just WhatsApp other teams if we don't know something, and then meet via Zoom or Teams to discuss it.
 
-![documentation meme](Reflections/post/2024-02-18-why-i-hate-project-management-courses/image.png)
+![documentation meme](Notes/post/2024-02-18-why-i-hate-project-management-courses/image.png)
 
 [[Meme]]
 

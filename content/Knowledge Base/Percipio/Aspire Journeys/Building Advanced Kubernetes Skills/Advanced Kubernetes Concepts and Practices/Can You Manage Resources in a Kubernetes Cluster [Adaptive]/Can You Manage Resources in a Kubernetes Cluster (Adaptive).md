@@ -33,7 +33,7 @@ Next, you need to review the contents of the `rs.yaml` file, which contains the 
 cat rs.yaml
 ```
 
-![alt text](image.png)
+![alt text](Knowledge%20Base/Percipio/Aspire%20Journeys/Building%20Advanced%20Kubernetes%20Skills/Advanced%20Kubernetes%20Concepts%20and%20Practices/Can%20You%20Manage%20Resources%20in%20a%20Kubernetes%20Cluster%20[Adaptive]/image.png)
 
 Make sure you review the file and understand its structure. It typically contains a ReplicaSet definition with configurations like the `replicas`, `selector`, and `template` for the pods.
 
@@ -111,7 +111,7 @@ Next, review the contents of the `webservers.yaml` file. This file contains the 
 cat webservers.yaml
 ```
 
-![alt text](image-1.png)
+![alt text](Knowledge%20Base/Percipio/Aspire%20Journeys/Building%20Advanced%20Kubernetes%20Skills/Advanced%20Kubernetes%20Concepts%20and%20Practices/Can%20You%20Manage%20Resources%20in%20a%20Kubernetes%20Cluster%20[Adaptive]/image-1.png)
 
 The file should define a Deployment with information such as the number of replicas, the container image, ports, and other settings for the `webservers` Deployment.
 

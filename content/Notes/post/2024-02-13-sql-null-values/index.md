@@ -38,11 +38,11 @@ HMMMMM...
 
 In PostgreSQL:
 
-![alt text](Reflections/post/2024-02-13-sql-null-values/image.png)
+![alt text](Notes/post/2024-02-13-sql-null-values/image.png)
 
 In BigQuery:
 
-![alt text](Reflections/post/2024-02-13-sql-null-values/image-1.png)
+![alt text](Notes/post/2024-02-13-sql-null-values/image-1.png)
 
 Remember to use `NULLS LAST/FIRST` to properly handle null values when executing ranking queries.
 

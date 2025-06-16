@@ -2,6 +2,7 @@
 title: About
 icon: fas fa-info
 order: 4
+publish_external: False
 ---
 
 Kata itu tidak pernah membenci dan menyalahkan siapa pun. Maka apabila ada kata-kata yang terlihat begitu, minta ampunlah pada diri sendiri karena diri itu menipu kita semua dengan kejeniusannya. Bukannya si jenius diri itu jelek, tapi jenius seringkali tidak dibutuhkan para pembodoh. Karena kita adalah pembodoh, maka selalu minta ampunlah pada diri, agar diri tidak menipu kita sehingga dapat tampak kebenaran kata-kata yang tidak pernah dengan sombong membenci, dan menyalahkan apa-apa dan siapa-siapa.

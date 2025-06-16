@@ -54,7 +54,7 @@ i use arch btw 💀
 
 can't believe [[Pacman]] & yay is perfect
 
-![alt text](Reflections/post/2024-02-11-linux/image.png)
+![alt text](Notes/post/2024-02-11-linux/image.png)
 
 i love gnome <3
 

@@ -26,7 +26,7 @@ It means that you are a sin that [[Allah]] hides in the labyrinth of her memory.
 
 Thus her memory is made perfectly unreliable by Them.
 
-![rashomon](Reflections/post/2024-02-17-memory-is-unreliable/image.png)
+![rashomon](Notes/post/2024-02-17-memory-is-unreliable/image.png)
 
 Then it is reasonable why money politics wins, a war criminal becomes our president, a nepo baby becomes our vice president.
 
@@ -43,7 +43,7 @@ Philosophy is a tool to justify cowardice and laziness.
 
 Even in the most cowardly statement and act from [[Bartleby]] and [[Abdurrahman Wahid|Gus Dur]], we know that there are the greatest virtues in it.
 
-![gus dur](Reflections/post/2024-02-17-memory-is-unreliable/image-1.png)
+![gus dur](Notes/post/2024-02-17-memory-is-unreliable/image-1.png)
 
 Untuk # asalbukan02, buang dulu [[Deontological Ethics]] sampah klean.
 

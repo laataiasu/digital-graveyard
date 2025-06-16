@@ -14,7 +14,7 @@ This is something I learned from Yudkowsky.
 
 The dilemma between thinking for the future, going one step beyond everyone, and ending up overanalyzing and making assumptions, or simply enjoying the present 'carpe diem' moment, where you might end up like any turkey problems.
 
-![Alt text](Reflections/post/2023-10-14-trash-your-ethics/image.png)
+![Alt text](Notes/post/2023-10-14-trash-your-ethics/image.png)
 
 To be truly balanced does not exist. We often create an illusion of balance while making choices about our careers, the friends we choose, and the [[Family|family]] we keep, even though there are always better and worse options.
 

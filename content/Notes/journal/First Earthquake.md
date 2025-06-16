@@ -7,7 +7,7 @@ title: First Earthquake
 
 2024-04-28 - first earthquake
 
-[[Reflections/journal/First Earthquake]]
+[[First Earthquake]]
 
 I felt the earthquake for the first time in my life, as previously I never experienced this, people just tell me to get out of room. It was 11:30 PM and I sat on my bedroom playing chess. I thought it was because of rats, why there are much sounds, but I heard some lizards too. Then I felt my bedroom is moved oddly, then I realized it was an earthquake. I suddenly jumped and woke up my parents, "I think it is earthquake". My parents are panic, but I don't know whether I panic or not. It's just survival insting to woke up my parents suddenly. Somehow I have already said that actually I don't care about anything. If Dostoevsky said that hell is the experience to unable to love, I think I am in hell right now. I don't have much attachments to my parents or my [[Family|family]]. I think differently, I am the stubborn one. As I have said before, from this perfect [[Family|family]], how could be born a devil like me. I am a bad person I know, I treat friends or [[Family|family]] or even myself like shits. 
 

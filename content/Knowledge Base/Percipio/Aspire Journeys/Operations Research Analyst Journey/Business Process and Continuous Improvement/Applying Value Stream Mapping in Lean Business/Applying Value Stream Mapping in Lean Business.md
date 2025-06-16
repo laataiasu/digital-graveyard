@@ -66,4 +66,4 @@
 
 By following these structured steps and understanding the principles of value stream mapping, teams can effectively identify inefficiencies and implement improvements to streamline processes.
 
-![alt text](image.png)
+![alt text](Knowledge%20Base/Percipio/Aspire%20Journeys/Operations%20Research%20Analyst%20Journey/Business%20Process%20and%20Continuous%20Improvement/Applying%20Value%20Stream%20Mapping%20in%20Lean%20Business/image.png)

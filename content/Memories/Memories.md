@@ -9,7 +9,7 @@
 
 [[Last Day of Neural Technologies Indonesia]]
 
-[[Reflections/journal/First Earthquake]]
+[[First Earthquake]]
 
 [[Started Praying Again]]
 
