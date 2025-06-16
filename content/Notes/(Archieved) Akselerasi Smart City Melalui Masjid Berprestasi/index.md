@@ -4,7 +4,7 @@ tags:
 - essay
 - muslim
 title: "(Archieved) Akselerasi Smart City Melalui Masjid Berprestasi"
-draft: true
+publish_external: true
 ---
 
 بسم الله الرحمن الرحيم
