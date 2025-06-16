@@ -5,7 +5,7 @@ tags:
 title: Reason Why I Am Not Close With My Family
 ---
 So let’s explored my history. This is very subjective, have characteristic of psychoanalysis, and justification of my wrongdoing to my [[Family|family]].
-About daddy isues: My dad went to Iran when I was a baby if I’m not wrong, and he cameback when I was before kindergarten. I still close with my [[Family|family]]. When I was in elementary school, my mother went to Hajj and at that time maybe I’m kind of struggling, but I think there’s no really an effect on my development.
+About daddy isues: My dad went to [[Iran]] when I was a baby if I’m not wrong, and he cameback when I was before kindergarten. I still close with my [[Family|family]]. When I was in elementary school, my mother went to Hajj and at that time maybe I’m kind of struggling, but I think there’s no really an effect on my development.
 
 (first grade elementary school or kindergarten I forgot) My father for the first time came to internet café with me. I googled a lot of things, basically I just download pictures like Naruto, cartoon, and games from GBA in my computer. My father is actually is like Jung Hwan’s father from reply 1988, always making dad jokes. 
 I usually make a phone call with friends and facebooking, talked about random things. Maybe I learn to lie from that age when playing [[Facebook]]. I still remember my teacher on my SDIT (elementary school) warn my class about lying about age in order to play [[Facebook]]. I simply don’t care. The best time of my life I think when I was in elementary school in terms of hilarious happines. 

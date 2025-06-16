@@ -542,7 +542,7 @@ So, here's another way to solve a local minimum problem. The idea is to walk a b
 
 ### 16. Error Functions Around the World-34AAcTECu2A.en
 
-So, in this nano degree, we covered a few error functions, but there are a bunch of other error functions around the world that made the shortlist, but we didn't have time to study them. So, here they are. These are the ones you met: there is Mount Everest and Mount Kilimanjerror. The ones you didn't meet: there is Mt. Reinerror, he's a big Seahawks fan. Straight from Italy, we got Mount Ves-oops-vius, and my favorite, from Iceland, we got the Eyjafvillajokull. This is the famous volcano that stopped all the European flights back in 2012. See what I did there is I took the original name which is Eyjafjallajokull and then I changed the word Jalla to Villa, which is Icelandic for error.
+So, in this nano degree, we covered a few error functions, but there are a bunch of other error functions around the world that made the shortlist, but we didn't have time to study them. So, here they are. These are the ones you met: there is Mount Everest and Mount Kilimanjerror. The ones you didn't meet: there is Mt. Reinerror, he's a big Seahawks fan. Straight from [[Italy]], we got Mount Ves-oops-vius, and my favorite, from Iceland, we got the Eyjafvillajokull. This is the famous volcano that stopped all the European flights back in 2012. See what I did there is I took the original name which is Eyjafjallajokull and then I changed the word Jalla to Villa, which is Icelandic for error.
 
 
 

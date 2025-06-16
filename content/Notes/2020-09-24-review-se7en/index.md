@@ -45,7 +45,7 @@ What the majority are looking for is happiness. But business only increases the 
 
 Ultimate or Eternal happiness is contradicted with human beings. What human feel for now is only a temporary pleasure, only lasting for a certain period. Temporal boredom and enjoyment fulfilling each other and that what makes humans.
 
-Ultimate happiness is not caused by enjoyment and focusing on doing something or Ikigai according to Japan, but merely easily obtained by being ignorant, by being not human. Those who always strive for happiness always lose to crazy people.
+Ultimate happiness is not caused by enjoyment and focusing on doing something or Ikigai according to [[Japan]], but merely easily obtained by being ignorant, by being not human. Those who always strive for happiness always lose to crazy people.
 
 Human is a combination of 7 deadly sins in Christians. Who has the 7 traits is very lucky because they can become a whole human. 1 characteristic alone makes him a human.
 

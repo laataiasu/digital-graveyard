@@ -20,7 +20,7 @@ This is the era where complexity arises; you must specialize, or perish. Focusin
 
 While in CCP they undervalue or are indifferent towards religion, in Indonesia, religion is their distinctive characteristic.
 
-1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; [[FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Fasilkom UI, dll. They must stop kegiatan dakwah formalitas yang tidak produktif.
+1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] Fasilkom UI, dll. They must stop kegiatan dakwah formalitas yang tidak produktif.
 
 Mereka beralih menjadi "[[Data]] tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di Indonesia. Kata kunci utamanya adalah "integrasi".
 

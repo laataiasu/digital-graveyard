@@ -51,13 +51,13 @@ The purpose of technology is to make everyone powerful so that the gap in power 
 
 ![[https://youtu.be/CLo3e1Pak-Y]]
 
-like applied in China with the lack of the government controls the system, whereas people should control the system. There's no problem if the government is good morally, but a greedy government will disgrace this system.
+like applied in [[China]] with the lack of the government controls the system, whereas people should control the system. There's no problem if the government is good morally, but a greedy government will disgrace this system.
 
 In the transition of the replacement money system to the new system, we need to think about how it can be replaced perfectly, the one idea is Universal Basic Income.
 
 ![[https://youtu.be/iMEwVXv2aQc]]
 
-Maybe there is something more effective than this idea, but It's hard to figure out what that is. It is being experimented with by South Korea but I am pessimistic if it is applied in Indonesia because it will likely worsen the Indonesian economic system.
+Maybe there is something more effective than this idea, but It's hard to figure out what that is. It is being experimented with by [[South Korea]] but I am pessimistic if it is applied in Indonesia because it will likely worsen the Indonesian economic system.
 
 The problem of hunger should be finished, but technology is something that should be developed first. With Moore's Law, the machine will be cheaper and more advanced over time. The main idea is replacing all of the repetitive works previously done by humans so that goods will be surplus.
 

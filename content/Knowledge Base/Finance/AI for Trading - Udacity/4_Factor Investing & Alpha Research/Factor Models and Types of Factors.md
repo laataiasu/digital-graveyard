@@ -1027,7 +1027,7 @@ In the world of finance, alternative data refers to non-traditional data sources
    - Oil prices affect a broad range of industries, from airlines to utilities. Understanding the dynamics of oil storage can help predict price movements.
    - **Tracking Methods**:
      - **EIA Reports**: The U.S. Energy Information Administration releases weekly reports on crude oil and natural gas storage, which are closely monitored by oil traders.
-     - **Satellite Imagery**: Companies like Orbital Insight use satellite images to estimate crude oil storage levels worldwide, including the U.S., OPEC countries, and China.
+     - **Satellite Imagery**: Companies like Orbital Insight use satellite images to estimate crude oil storage levels worldwide, including the U.S., OPEC countries, and [[China]].
 
 2. **Techniques**:
    - **Floating Roof Tanks**: These are storage tanks with roofs that float directly on top of the crude oil. By analyzing shadows cast by the tank roofs in satellite images, the height of the roof and the volume of oil stored can be estimated.

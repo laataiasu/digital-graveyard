@@ -15,7 +15,7 @@ Digitalisasi masjid dan tempat ibadah lainnya
 
 Hal yang mungkin dilakukan:
 
-1. Lewat Rohis (e.g., [[FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] FASILKOM )
+1. Lewat Rohis (e.g., [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] FASILKOM )
 
 - Buat program mentoring untuk networking sama anak2 SMA/SMP (Perlu research dulu pada mau ga jadi mentor/mentee)
 - Kasih skill digital, literasi [[Data]], akuntansi, bisnis, dll

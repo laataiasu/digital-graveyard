@@ -6,7 +6,7 @@ tags:
 ---
 i dream about my faculty junior who is accused to a sexual harrasment act by a girl. without thinking and asking further to my junior, i punch him in the face and he looks bad (babak belur). after that somehow there is a gathering saying that the girl is lying. i apologize to him and ask him to punch me back. i get punched, but didn't feel any pain.
 
-There is a term 'Kodokushi' from Japan that is A lonely Die.
+There is a term 'Kodokushi' from [[Japan]] that is A lonely Die.
 
 I think I have accepted this. I compared my mother's WhatsApp with mine, and its very different. Everyone is very lively and has friends, whereas every day I never get messages from anyone, except scammers.
 

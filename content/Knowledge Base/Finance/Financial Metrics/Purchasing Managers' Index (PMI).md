@@ -3,7 +3,7 @@ tags: economics
 ---
 
 
-The **Purchasing Managers' Index (PMI)**, specifically the **Caixin Manufacturing PMI** for China, is an important economic indicator that reflects the health of the manufacturing sector. It is based on surveys of purchasing managers in the manufacturing industry and provides insights into production levels, new orders, employment, and supplier delivery times.
+The **Purchasing Managers' Index (PMI)**, specifically the **Caixin Manufacturing PMI** for [[China]], is an important economic indicator that reflects the health of the manufacturing sector. It is based on surveys of purchasing managers in the manufacturing industry and provides insights into production levels, new orders, employment, and supplier delivery times.
 
 ### Key Components of the Caixin Manufacturing PMI:
 
@@ -19,7 +19,7 @@ The **Purchasing Managers' Index (PMI)**, specifically the **Caixin Manufacturin
 
 ### Recent Trends and Importance
 
-- **Economic Indicator**: The Caixin Manufacturing PMI is closely watched by analysts and policymakers as it provides timely information on economic trends in China, influencing global markets.
+- **Economic Indicator**: The Caixin Manufacturing PMI is closely watched by analysts and policymakers as it provides timely information on economic trends in [[China]], influencing global markets.
 
 - **Market Reactions**: Significant changes in the PMI can impact investor sentiment, affecting stock markets and currency values.
 

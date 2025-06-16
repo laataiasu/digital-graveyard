@@ -2,14 +2,14 @@
 
 ## Why Independent Quants Don't Exist
 
-**Can You Be an Independent Quant?**
+**Can You Be an Independent [[Quant]]?**
 
-**The Short Answer:** Generally, no. It's extremely difficult to be an independent quant and be successful, for several reasons.
+**The Short Answer:** Generally, no. It's extremely difficult to be an independent [[Quant]] and be successful, for several reasons.
 
 **Historical Context:**
 Many people look back at the 80s and 90s, when some quants and proprietary trading firms made substantial profits, and think they can replicate that success on their own today. However, the landscape has changed significantly, making it much more challenging to achieve similar results independently.
 
-**Why It's Challenging to Be an Independent Quant:**
+**Why It's Challenging to Be an Independent [[Quant]]:**
 
 1. **Initial Capital Requirements:**
    - **Example Scenario:** Imagine you start with $1 million. If you achieve a 10% return annually, that's $100,000. However, this assumes you have no expenses and no salary. In reality, you have costs like transaction fees, data, technology, and potentially salaries if you hire help.
@@ -39,7 +39,7 @@ Many people look back at the 80s and 90s, when some quants and proprietary tradi
 
 **Conclusion:**
 
-While the romantic notion of being an independent quant is appealing, the reality is that it’s much more practical and safer to work for an established firm. Firms provide stability, resources, and a structured environment that independent quants often lack. If you aspire to start your own fund, gaining experience and building a network within a firm can be a crucial first step.
+While the romantic notion of being an independent [[Quant]] is appealing, the reality is that it’s much more practical and safer to work for an established firm. Firms provide stability, resources, and a structured environment that independent quants often lack. If you aspire to start your own fund, gaining experience and building a network within a firm can be a crucial first step.
 
 Thanks for tuning in, and remember to subscribe for more insights into the world of quantitative finance!
 
@@ -67,8 +67,8 @@ Thanks for tuning in, and remember to subscribe for more insights into the world
     - Need to think quickly and adapt strategies in real-time based on market conditions.
     - Often have different skill sets compared to quants, including fast decision-making abilities.
 
-- **Role of Quant Devs:**
-  - Quant developers (quant devs) focus on implementing and optimizing strategies.
+- **Role of [[Quant]] Devs:**
+  - [[Quant]] developers ([[Quant]] devs) focus on implementing and optimizing strategies.
   - They require strong computer science skills and understanding of hardware and software nuances.
 
 - **Education and Career Paths:**
@@ -81,7 +81,7 @@ Thanks for tuning in, and remember to subscribe for more insights into the world
     - Understanding different firms' expectations and job requirements is essential for career planning.
 
 - **Future Outlook:**
-  - The structure of quant roles and their interaction with trading may evolve further.
+  - The structure of [[Quant]] roles and their interaction with trading may evolve further.
   - Ongoing changes in the industry might lead to even more specialization in the future.
 
 - **Conclusion:**
@@ -98,7 +98,7 @@ Here's a summary of Dimitri's video in bullet points:
 - **Background and Education:**
   - Started with an undergrad degree in finance.
   - Participated in a trading club, enjoyed trading activities, and wanted to pursue trading for independence and financial success.
-  - Took a class in quant finance during the final semester, which sparked an interest in quantitative finance.
+  - Took a class in [[Quant]] finance during the final semester, which sparked an interest in quantitative finance.
 
 - **Career Path Decision:**
   - After graduation, struggled to find a job and felt underprepared with just a finance degree.
@@ -109,7 +109,7 @@ Here's a summary of Dimitri's video in bullet points:
   - Noted the obsolescence of traditional trading pits and the rise of algorithmic trading.
 
 - **Skills and Job Market:**
-  - Realized that firms preferred specialists rather than a single person who could handle all aspects of trading, quant development, and implementation.
+  - Realized that firms preferred specialists rather than a single person who could handle all aspects of trading, [[Quant]] development, and implementation.
   - Experienced difficulty in passing trading role speed tests and solving problems quickly, which affected his suitability for trading roles.
 
 - **Focus on Strengths:**

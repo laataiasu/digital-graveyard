@@ -11,7 +11,7 @@ because as we can see right now, software engineering is democratized a lot by A
 
 less job SE right now compre to previous years and it so sudden because everyone can just generate something right now. 
 
-china oversupply things and dont know where to sell, lots of farmers and fisherman just dump/burn their oversupply things because if they just sell it, it ruin the economy. do you think economy system right now is obsolete?
+[[China]] oversupply things and dont know where to sell, lots of farmers and fisherman just dump/burn their oversupply things because if they just sell it, it ruin the economy. do you think economy system right now is obsolete?
 
 is it possible that everything become abundance , so money wont matter anymore?
 

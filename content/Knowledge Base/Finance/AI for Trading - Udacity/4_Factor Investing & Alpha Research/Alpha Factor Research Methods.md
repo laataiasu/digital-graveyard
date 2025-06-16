@@ -18,7 +18,7 @@ These papers will serve as the foundation for coding up different Alpha factors,
 
 ### Why These Papers?
 
-When selecting these papers, the focus was on diversity in style and methodology rather than performance. Some of these Alpha factors may not perform exceptionally well in the testing period, but the concepts you'll learn are foundational for any quant. You'll get exposure to different approaches and see how academic ideas can be adapted and implemented in practice.
+When selecting these papers, the focus was on diversity in style and methodology rather than performance. Some of these Alpha factors may not perform exceptionally well in the testing period, but the concepts you'll learn are foundational for any [[Quant]]. You'll get exposure to different approaches and see how academic ideas can be adapted and implemented in practice.
 
 ### Key Concepts and Techniques
 
@@ -867,7 +867,7 @@ Idiosyncratic volatility (iVol) is a key concept in understanding arbitrage risk
 
 ## 18. Value Investing, Fundamental Investing, and Quantitative Approaches
 
-In this lesson, we explore the concept of value in investing, comparing and contrasting traditional fundamental investing with quantitative (quant) approaches. Here’s a detailed breakdown of the concepts discussed:
+In this lesson, we explore the concept of value in investing, comparing and contrasting traditional fundamental investing with quantitative ([[Quant]]) approaches. Here’s a detailed breakdown of the concepts discussed:
 
 #### 1. **Value Investing: The Basics**
    - **Origins**: Value investing traces back to the work of Ben Graham and David Dodd, who introduced the idea of investing in companies whose market prices are below their intrinsic value.
@@ -884,11 +884,11 @@ In this lesson, we explore the concept of value in investing, comparing and cont
    - **Quantitative Investors (Quants)**:
      - **Process**: Quants use structured data like price, volume, financial statements, and analyst ratings to create mathematical models that drive their investment strategies.
      - **Breadth vs. IC**: Quants usually have a lower IC because their models are based on broader, less granular data. However, they compensate for this with higher breadth, meaning they can hold a larger number of positions across a more diverse set of assets.
-     - **Portfolio Shape**: Quant portfolios often have a large number of smaller, diversified positions, driven by the scalability of their data-driven models.
+     - **Portfolio Shape**: [[Quant]] portfolios often have a large number of smaller, diversified positions, driven by the scalability of their data-driven models.
 
 #### 3. **Misconceptions About Fundamental Investing**
    - **Common Misunderstanding**: It’s often assumed that fundamental investors rely solely on intuition or "gut instinct" without a structured process, while quants are seen as the epitome of the scientific method with rigorous, repeatable processes.
-   - **Reality**: Both fundamental and quant investors use repeatable processes, but their approaches differ in the type of data they rely on and how they process that information. Fundamental investors might use more qualitative data, but they still follow a systematic process to arrive at their investment decisions.
+   - **Reality**: Both fundamental and [[Quant]] investors use repeatable processes, but their approaches differ in the type of data they rely on and how they process that information. Fundamental investors might use more qualitative data, but they still follow a systematic process to arrive at their investment decisions.
 
 #### 4. **Comparison of Investment Styles**
    - **Inputs**: Fundamental investors use qualitative inputs (e.g., interviews, site visits), while quants use quantitative inputs (e.g., historical price data, financial metrics).
@@ -899,24 +899,24 @@ In this lesson, we explore the concept of value in investing, comparing and cont
 
 Value investing, pioneered by Ben Graham and David Dodd, is a cornerstone of both fundamental and quantitative investment strategies. Fundamental investors rely on deep, qualitative analysis to form high-conviction bets, often with concentrated portfolios. Quants, on the other hand, use structured data and models to manage larger, diversified portfolios. Despite common misconceptions, both approaches are grounded in systematic, repeatable processes, though they differ significantly in their inputs, process, and portfolio construction. Understanding these differences is key to appreciating the strengths and weaknesses of each investment style.
 
-## 19. Quantamental Investing - The Convergence of Quant and Fundamental Approaches
+## 19. Quantamental Investing - The Convergence of [[Quant]] and Fundamental Approaches
 
-In this lesson, we explore the exciting development of quantamental investing, a blend of quantitative (quant) and fundamental investing techniques. Here's a detailed breakdown of this convergence and its implications:
+In this lesson, we explore the exciting development of quantamental investing, a blend of quantitative ([[Quant]]) and fundamental investing techniques. Here's a detailed breakdown of this convergence and its implications:
 
 #### 1. **What is Quantamental Investing?**
-   - **Definition**: Quantamental investing is a hybrid approach that combines quantitative methods and fundamental analysis. The term is a fusion of "quant" (referring to quantitative analysis) and "fundamental" (referring to traditional, deep-dive company analysis).
+   - **Definition**: Quantamental investing is a hybrid approach that combines quantitative methods and fundamental analysis. The term is a fusion of "[[Quant]]" (referring to quantitative analysis) and "fundamental" (referring to traditional, deep-dive company analysis).
    - **Significance**: This approach is gaining traction as it leverages the strengths of both strategies, integrating advanced data analytics with the nuanced understanding of individual companies that fundamental analysis provides.
 
 #### 2. **Driving Forces Behind Quantamental Investing**
    - **AI and Data Growth**: The rise of artificial intelligence (AI) and the exponential increase in data generated by the global economy have empowered quants to incorporate data traditionally used by fundamental analysts, such as text analysis from corporate communications.
-   - **Adoption by Fundamental Investors**: As data science and quant methods have proven successful, more fundamental investors are adopting these techniques to enhance their research. They are increasingly using tools like risk models and systematic data analysis, traditionally the domain of quants.
+   - **Adoption by Fundamental Investors**: As data science and [[Quant]] methods have proven successful, more fundamental investors are adopting these techniques to enhance their research. They are increasingly using tools like risk models and systematic data analysis, traditionally the domain of quants.
 
 #### 3. **Examples of Quantamental Techniques**
    - **Text Analysis**: Traditionally, fundamental analysts would manually analyze corporate filings, news, and conference call transcripts to gather insights. Now, quants are using computational methods like natural language processing (NLP) to systematically extract valuable information from these text sources.
    - **NLP in Investing**: The application of NLP and deep learning to analyze text data allows investors to process large volumes of unstructured data quickly and derive insights that were previously accessible only through manual analysis.
 
 #### 4. **Implications for the Future**
-   - **Blurring Lines**: The distinction between quant and fundamental investing is becoming increasingly blurred. Investors who can integrate both approaches are likely to have a competitive edge, as they can combine the rigorous, data-driven aspects of quant strategies with the deep, qualitative insights of fundamental analysis.
+   - **Blurring Lines**: The distinction between [[Quant]] and fundamental investing is becoming increasingly blurred. Investors who can integrate both approaches are likely to have a competitive edge, as they can combine the rigorous, data-driven aspects of [[Quant]] strategies with the deep, qualitative insights of fundamental analysis.
    - **Innovation in Investing**: This convergence is driving innovation in the financial industry, with new tools and techniques emerging to capitalize on the strengths of both investing styles.
 
 #### 5. **Looking Ahead**

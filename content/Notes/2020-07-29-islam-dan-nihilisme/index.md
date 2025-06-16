@@ -27,7 +27,7 @@ Dan dari [[Friedrich Nietzsche|Nietzsche]], moral yang tidak bermoralnya, [[Übe
 
 “Gott ist tot", katanya.
 
-Banyak yang menerjemahkan kalimat itu hanya menjadi 1 makna. Yang paling lucu adalah banyak orang agnostik dan atheis setuju dengannya, penyangkalan terhadap tuhan. Hanya 3 kata tetapi dapat memiliki banyak interpretasi. Definisi tuhan itu apa? ‘ist’ itu digunakan kapan dan saat apa dan dalam konteks apa? Siapa dan apa yang mati dalam ‘tot’? Bagaimana bisa menyebutkan suatu subjek adalah mati sedangkan dia tidak mengetahui apa itu subjeknya? 
+Banyak yang menerjemahkan kalimat itu hanya menjadi 1 makna. Yang paling lucu adalah banyak orang [[Agnosticism/agnostik]] dan atheis setuju dengannya, penyangkalan terhadap tuhan. Hanya 3 kata tetapi dapat memiliki banyak interpretasi. Definisi tuhan itu apa? ‘ist’ itu digunakan kapan dan saat apa dan dalam konteks apa? Siapa dan apa yang mati dalam ‘tot’? Bagaimana bisa menyebutkan suatu subjek adalah mati sedangkan dia tidak mengetahui apa itu subjeknya? 
 
 Bagaimana ia bisa sampai pada kalimat itu, dan melanjutkannya dengan “… and we have killed him". Interpretasi bisa mati ataupun hidup, tergantung siapa sumbernya. Apabila sumbernya telah tiada, maka kevalidan interpretasi ataupun tafsir tidak dapat dibuktikan. Itulah yang dapat sedikit diambil dari orang gila yang satu itu. 
 

@@ -35,7 +35,7 @@ Poin
 ---
   
 Latar belakang Organisasi
-Terinspirasi dari Himpunan Rohis Kota Bandung, saya ingin membuat semacam networking mahasiswa dengan siswa SMA atau SMP agar dapat saling belajar satu sama lain yang tujuan akhirnya adalah untuk memakmurkan dan mengaktifkan setiap masjid di Indonesia.
+Terinspirasi dari [[Himpunan Rohis Kota Bandung]], saya ingin membuat semacam networking mahasiswa dengan siswa SMA atau SMP agar dapat saling belajar satu sama lain yang tujuan akhirnya adalah untuk memakmurkan dan mengaktifkan setiap masjid di Indonesia.
 Visi:
 Empowering Muslim di seluruh Indonesia
 Misi:

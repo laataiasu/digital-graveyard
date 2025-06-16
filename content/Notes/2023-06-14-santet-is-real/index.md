@@ -13,7 +13,7 @@ People might ask, if shamanism exists, why haven't they led or conquered the wor
 
 Premise 1: There's always a cost in everything.
 
-There's always a cost associated with everything. That's why practices like "santet" are usually found only in villages. If you observe areas far from the city, you'll notice that religious experiences differ greatly from those in urban areas. For example, South Korea has many cults that are far from the city.
+There's always a cost associated with everything. That's why practices like "santet" are usually found only in villages. If you observe areas far from the city, you'll notice that religious experiences differ greatly from those in urban areas. For example, [[South Korea]] has many cults that are far from the city.
 
 I suspect this is because these practices are isolated from modernization and city life. The cost of performing "santet" is lower when the target or the environment doesn't pose significant barriers. If the target is small enough, the devil or Satan may still fulfill your expectations as long as you can afford the cost. However, when it comes to something bigger, such as political power in a major city, most individuals cannot afford that cost. As a result, we can see that many people in cities have never witnessed "santet" and don't even believe it exists.
 

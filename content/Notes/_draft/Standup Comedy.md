@@ -77,7 +77,7 @@ Karate vs taekwondo yg menang ya pencak silat. Wota tuh membeli pernak perniknya
 
 Tanya,
 
-Ada orang yg berani ngaku ateis atau agnostik disini?
+Ada orang yg berani ngaku ateis atau [[Agnosticism/agnostik]] disini?
 
 Bacain uud ttng agama
 
@@ -107,7 +107,7 @@ Mehmed al katir orng arab sering nipu,
 
 Orang indo tuh gampang bngt ditipu, terlalu khusnudzon ada orng arab lngsng dianggap ustad. Doa setelah solat pada aamin2an padahal gatau arabnya. Coba ke arab sendiri trs liat dunia hiburannya, gimana cara mereka memerlakukan tkw tki anda langsung buyar
 
-Ada 2 tipe orng agnostik sok2an males solat aja
+Ada 2 tipe orng [[Agnosticism/agnostik]] sok2an males solat aja
 
 orang minoritas/kafir tuh ga bisa berpikir sepintar dan seadil orang mayoritas. ada orang ceramah2 tuh sebenarnya kan ada dokter tht yang siap untuk ketiban rezeki, ada orang psikolog juga, nanti ada juga di tv pakar agama, reporter tentang suara azan, ada orang standup comedy juga yg . penguasa di Indonesia itu mayoritas minoritas kan ya. karena ya kerjanya aja disuruh trading dll
 

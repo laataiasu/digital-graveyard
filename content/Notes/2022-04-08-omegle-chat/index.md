@@ -190,7 +190,7 @@ You: well its pretty rare to find guy like you nowadays
 
 Stranger: Why?
 
-You: many atheist/agnostic doomer
+You: many atheist/[[Agnosticism/agnostic]] doomer
 
 Stranger: Doomer lol
 

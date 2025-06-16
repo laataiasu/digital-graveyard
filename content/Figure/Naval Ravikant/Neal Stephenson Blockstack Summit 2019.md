@@ -32,7 +32,7 @@ Here's a more streamlined version focusing on the core learning content:
 ### Key Concepts from Technology and Mythology
 
 1. **John Milton and "Paradise Lost"**
-   - Milton's background: A Puritan who attended Cambridge, went to Italy during the English Civil War, and befriended Galileo.
+   - Milton's background: A Puritan who attended Cambridge, went to [[Italy]] during the English Civil War, and befriended Galileo.
    - "Paradise Lost" begins with the overthrow of Lucifer by God and good angels, depicting the fallen angels contemplating their next steps.
    - Milton portrays characters like Satan as complex, blurring the lines between good and evil.
    - The fallen angels have their own code of ethics and aim for a better world, raising questions about morality and perspectives in conflict.

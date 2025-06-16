@@ -7,7 +7,7 @@ Last edited time: 2024-01-06T08:36
 #### Ted Summary
 |Name|Created|Tags|
 |---|---|---|
-|[[What the World Can Learn From China’s Innovation Playbook Keyu Jin TED]]|June 6, 2023 4:18 PM||
+|[[What the World Can Learn From [[China]]’s Innovation Playbook Keyu Jin TED]]|June 6, 2023 4:18 PM||
 |[[The Rise of the Trauma Essay in College Applications Tina Yong TED]]|June 6, 2023 4:18 PM||
 |[[3 Money Lessons from Infamous Scam Artists J Mase III TED]]|June 6, 2023 4:18 PM||
 |[[Your Right to Mental Privacy in the Age of Brain-Sensing Tech Nita Farahany TED]]|June 6, 2023 4:55 PM||

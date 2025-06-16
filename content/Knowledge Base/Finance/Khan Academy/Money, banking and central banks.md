@@ -20,7 +20,7 @@
     - [[#Chinese Central Bank buying treasuries]]
     - [[#American-Chinese debt loop]]
     - [[#Debt loops rationale and effects]]
-    - [[#China keeps peg but diversifies holdings]]
+    - [[#[[China]] keeps peg but diversifies holdings]]
     - [[#Carry trade basics]]
 - [[#]]
     - [[#Floating exchange resolving trade imbalance]]
@@ -61,7 +61,7 @@
 - In "credit easing," the central bank expands its balance sheet, creating more liabilities (e.g., notes outstanding) by printing money.
 - Bernanke explained the mechanics of printing money, where the central bank creates offsetting liabilities and assets, such as federal reserve notes.
 - Traditional quantitative easing involves increasing the central bank's balance sheet without specific focus on the use of the printed money.
-- Bernanke compared this to the Bank of Japan's approach, where the emphasis was solely on the quantity of bank reserves during quantitative easing.
+- Bernanke compared this to the Bank of [[Japan]]'s approach, where the emphasis was solely on the quantity of bank reserves during quantitative easing.
 - The Federal Reserve's "credit easing" approach differs as it focuses on the mix of loans and securities held, aiming to impact credit conditions for households and businesses.
 - Unlike traditional quantitative easing, the Fed is concerned not only with the amount of money printed but also with where that money is directed and its impact on various markets.
 - Bernanke highlighted the Fed's focus on the composition of assets in the balance sheet, using interventions to influence specific markets, such as lowering interest rates for AAA corporate debt or mortgage-backed securities.
@@ -84,12 +84,12 @@
 - The objective of quantitative easing is not just to target interest rates but to inject money into circulation and address issues in specific markets, such as credit markets facing logjams during economic crises.
 - In the perspective of Ben Bernanke, the former Chairman, this strategy is referred to as "credit easing," distinguishing it from traditional quantitative easing by emphasizing the targeted purchase of assets to alleviate logjams in credit markets.
 ## **US and Japanese quantitative easing**
-- During Japan's banking and debt crisis in the 1990s, the initial response was to lower the target interest rate by printing money, with the central bank buying short-term government securities to increase currency and reserves in circulation.
-- As Japan reached a 0% interest rate and couldn't lower it further, the next step was to continue printing money but shift focus from short-term debt to purchasing other assets like long-term Japanese treasuries and corporate debt.
+- During [[Japan]]'s banking and debt crisis in the 1990s, the initial response was to lower the target interest rate by printing money, with the central bank buying short-term government securities to increase currency and reserves in circulation.
+- As [[Japan]] reached a 0% interest rate and couldn't lower it further, the next step was to continue printing money but shift focus from short-term debt to purchasing other assets like long-term Japanese treasuries and corporate debt.
 - The primary goal was to increase the quantity of money in circulation, employing a strategy akin to pure quantitative easing.
 - The Japanese approach involved buying various assets with the intent of getting money into circulation, addressing logjams in credit markets.
 - Similarly, when faced with the U.S. credit crisis, Ben Bernanke adopted a comparable strategy, starting with lowering short-term interest rates by buying short-term securities.
-- When short-term rates hit 0%, Bernanke, like Japan, continued printing money but directed it towards buying assets traditionally outside the Fed's purview.
+- When short-term rates hit 0%, Bernanke, like [[Japan]], continued printing money but directed it towards buying assets traditionally outside the Fed's purview.
 - Bernanke refers to this strategy as "credit easing," emphasizing that, although mechanically similar to quantitative easing, the intent is different. The focus is on addressing issues in specific markets, such as commercial debt or mortgage-backed securities, rather than solely increasing the money supply for its own sake.
 # [**Geithner plan**](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/geithner-plan/v/geithner-plan-i)
 ## **Geithner plan 1**
@@ -176,16 +176,16 @@
 ## **Currency effect on trade**
 - The video explores how trade imbalances are theoretically resolved by freely floating currencies.
 - Initially, the exchange rate between Chinese yuan and U.S. dollar is 10:1.
-- Two entrepreneurs are introduced, one in China and one in the U.S.
+- Two entrepreneurs are introduced, one in [[China]] and one in the U.S.
 - The Chinese entrepreneur sells dolls for 10 yuan each, needing to cover costs in yuan.
 - The U.S. entrepreneur sells cola for $1 each, needing to cover costs in dollars.
-- Demand for 100 dolls in the U.S. and demand for 50 cans of cola in China are established.
-- A trade imbalance develops, with $100 worth of dolls shipped to the U.S. and $50 worth of cola shipped to China.
+- Demand for 100 dolls in the U.S. and demand for 50 cans of cola in [[China]] are established.
+- A trade imbalance develops, with $100 worth of dolls shipped to the U.S. and $50 worth of cola shipped to [[China]].
 - The Chinese entrepreneur wants to convert $100 into yuan, while the U.S. entrepreneur wants to convert 500 yuan into dollars.
 - The imbalance creates more demand for yuan than dollars.
 - This leads to an adjustment in exchange rates, with the yuan becoming more expensive (8 yuan to $1).
 - As a result, the Chinese dolls become more expensive in dollars, and the U.S. cola becomes cheaper in yuan.
-- This shift in prices reduces demand for dolls in the U.S. (from 100 to 50) and increases demand for cola in China (from 50 to 80).
+- This shift in prices reduces demand for dolls in the U.S. (from 100 to 50) and increases demand for cola in [[China]] (from 50 to 80).
 - The trade imbalance is eventually resolved through currency adjustments, impacting the demand for exports in each country.
 ## **Currency effect on trade review**
 - Video focuses on reviewing the concepts discussed in the previous video.
@@ -195,23 +195,23 @@
 - Analyzed the impact on currency prices, highlighting that the price of the dollar decreases in terms of Yuan.
 - Introduced a hypothetical exchange rate of CNY 8 per dollar.
 - Explored the consequences of the new exchange rate on the prices of goods: dolls become $1.25 each, and cola becomes CNY 8 per can.
-- Adjusted demand for dolls in the U.S. to 60 and for cola in China to 75 cans.
-- Calculated the trade balance: China exports 60 dolls ($75) to the U.S., and the U.S. exports 75 cans (CNY 600) to China.
+- Adjusted demand for dolls in the U.S. to 60 and for cola in [[China]] to 75 cans.
+- Calculated the trade balance: [[China]] exports 60 dolls ($75) to the U.S., and the U.S. exports 75 cans (CNY 600) to [[China]].
 - Demonstrated that the supply and demand for both currencies are now balanced.
 - Emphasized the idea that freely floating currencies lead to a natural adjustment until trade balances are achieved.
 - Previewed the next video, which will discuss how a government, particularly the Chinese Central Bank, could intervene to prevent such imbalances and maintain a trade advantage.
 ## **Pegging the yuan**
-- Recap of the previous video, highlighting the imbalance in trade between China and the U.S. where China was shipping more goods than the U.S.
+- Recap of the previous video, highlighting the imbalance in trade between [[China]] and the U.S. where [[China]] was shipping more goods than the U.S.
 - Introduced the scenario where the Chinese government aims to maintain an exchange rate of CNY 10 per dollar to continue exporting more to the U.S.
 - Discussed the Chinese Central Bank's role in intervening to keep the Yuan devalued by printing money.
 - Explained how the Central Bank can print CNY 500 to balance the demand for CNY 1,000, ensuring a steady supply of Yuan to be converted into dollars.
 - Emphasized that this intervention allows the Chinese government to accumulate more dollars to sustain the trade imbalance.
-- Highlighted the challenge for China as they need to keep printing Yuan and accumulating more dollars to maintain the desired trade dynamics.
+- Highlighted the challenge for [[China]] as they need to keep printing Yuan and accumulating more dollars to maintain the desired trade dynamics.
 - Teased the next video, where the use of accumulated dollars will be discussed, along with its potential impact on the U.S. economy, and hinted at the difficulty of unwinding this scenario once it begins.
 ## **Chinese Central Bank buying treasuries**
 - Recap of the current exchange rate scenario, with the Chinese government wanting to peg the exchange rate at 10 yuan per U.S. dollar.
-- Explanation of the trade imbalance where more goods are being exported from China to the U.S. than the other way around.
-- Visual representation of the trade dynamics between China and the U.S., with Chinese goods being sold in the U.S. and paid for in dollars, and U.S. goods being sold in China and paid for in yuan.
+- Explanation of the trade imbalance where more goods are being exported from [[China]] to the U.S. than the other way around.
+- Visual representation of the trade dynamics between [[China]] and the U.S., with Chinese goods being sold in the U.S. and paid for in dollars, and U.S. goods being sold in [[China]] and paid for in yuan.
 - Discussion of the imbalance in currency demand and supply, especially with the assumed peg at 10 yuan per dollar.
 - Explanation of how the Chinese Central Bank intervenes to maintain the peg, buying excess dollars and printing extra yuan to balance the demand and supply.
 - Introduction to the concept that the Chinese Central Bank accumulates dollars and needs to actively participate in the market to maintain the peg, emphasizing the ongoing intervention required.
@@ -231,27 +231,27 @@
 - Discussion of the potential effects on government spending and taxation, with lower interest costs allowing for increased spending or tax reductions.
 - Explanation of how the lower interest rates on U.S. Treasuries impact the broader economy, making all forms of debt in the U.S. cheaper.
 - Introduction of the idea that more available money for loans makes borrowing cheaper across the board, which stimulates economic activity.
-- Conclusion that the net effect of China's actions is that they are essentially lending money to the U.S., resulting in more cash in the pockets of Americans, either through government spending, tax cuts, or easier access to credit.
+- Conclusion that the net effect of [[China]]'s actions is that they are essentially lending money to the U.S., resulting in more cash in the pockets of Americans, either through government spending, tax cuts, or easier access to credit.
 ## **Debt loops rationale and effects**
 - The video discusses the reasons behind the actions of different actors in the economic cycle and explores the challenges of unwinding the scenario.
 - Increased cash in American pockets due to cheaper debt, allowing the government to spend more and lower taxes.
 - The cycle stimulates the economy by making debt cheaper and lowering interest rates.
 - Potential risk of higher inflation, but the cycle keeps inflation slow due to the abundance of cheaper goods.
-- China benefits from export-led growth by artificially suppressing its currency, making exports cheaper and encouraging investment in domestic production.
-- Export-led growth builds a manufacturing base and a domestic consumer market in China over time.
+- [[China]] benefits from export-led growth by artificially suppressing its currency, making exports cheaper and encouraging investment in domestic production.
+- Export-led growth builds a manufacturing base and a domestic consumer market in [[China]] over time.
 - The U.S. loses its manufacturing base but gains lower costs for American consumers.
-- Challenges arise for both China and the U.S. in unwinding the situation, as it could lead to a drop in the value of assets and an increase in interest rates.
+- Challenges arise for both [[China]] and the U.S. in unwinding the situation, as it could lead to a drop in the value of assets and an increase in interest rates.
 - Unwinding the cycle could negatively impact both countries, making it difficult to break free from the current economic scenario.
 - The video raises questions about the sustainability of the cycle and its long-term consequences.
-## **China keeps peg but diversifies holdings**
-- In 2009, the US had a significant trade deficit with China, importing $260 billion more than it exported.
-- China kept its currency from appreciating by printing money and using yuan to buy dollar assets.
-- In 2006-2008, there were major increases in US assets held by China, but in 2009, the increase was not enough to offset the trade imbalance.
-- The People's Bank of China held $929 billion worth of US treasuries in November 2009, making it the largest holder.
-- Despite the trade deficit, China's holdings of US treasuries decreased from November 2009 to November 2010.
-- China may have diversified from buying US treasuries to other assets, possibly in the UK or Eurozone, to avoid excessive appreciation of its currency.
+## **[[China]] keeps peg but diversifies holdings**
+- In 2009, the US had a significant trade deficit with [[China]], importing $260 billion more than it exported.
+- [[China]] kept its currency from appreciating by printing money and using yuan to buy dollar assets.
+- In 2006-2008, there were major increases in US assets held by [[China]], but in 2009, the increase was not enough to offset the trade imbalance.
+- The People's Bank of [[China]] held $929 billion worth of US treasuries in November 2009, making it the largest holder.
+- Despite the trade deficit, [[China]]'s holdings of US treasuries decreased from November 2009 to November 2010.
+- [[China]] may have diversified from buying US treasuries to other assets, possibly in the UK or Eurozone, to avoid excessive appreciation of its currency.
 - The United Kingdom, for example, saw a significant increase in holdings from $155 billion to $500 billion in 2010, despite not having a significant trade imbalance with the US.
-- China's slow appreciation of its currency may also contribute to diversification, but the main strategy seems to be moving away from dollar assets.
+- [[China]]'s slow appreciation of its currency may also contribute to diversification, but the main strategy seems to be moving away from dollar assets.
 - Other countries acquiring non-dollar assets may then seek to buy dollar assets to prevent their currency from appreciating too much.
 ## **Carry trade basics**
 - Country A's economy is stagnating, potentially facing a deflationary crisis.
@@ -264,18 +264,18 @@
 - The 10 B's can be converted back to 5 A's, paying off the 1 A interest and leaving a net gain of 4 A's per year.
 - This process is known as the carry trade, taking advantage of interest rate differentials between countries.
 - The carry trade can break down if country A's currency appreciates relative to country B's currency, reducing the gain in terms of the borrowed currency.
-- The carry trade became famous in the mid-90s when people borrowed in Japan with low-interest rates and invested in higher-interest-rate countries like the US and Iceland.
+- The carry trade became famous in the mid-90s when people borrowed in [[Japan]] with low-interest rates and invested in higher-interest-rate countries like the US and Iceland.
 - If many people engage in the carry trade, it can create a herd effect, leading to increased demand for the higher-interest-rate country's currency and affecting exchange rates.
-# [**Chinese currency and U.S. debt**](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/china-us-debt-situation/v/floating-exchange-resolving-trade-imbalance)
+# [**Chinese currency and U.S. debt**](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/[[China]]-us-debt-situation/v/floating-exchange-resolving-trade-imbalance)
 ## Floating exchange resolving trade imbalance
 - Video aims to explore how the floating exchange rate could resolve trading imbalances.
 - Assumes simplified scenario: exchange rate between Chinese Yuan and US $ is 6 Yuan per 1 US $.
-- China exports microwaves to the US at $50 each, demand for 1 million microwaves.
-- US exports software to China at 60 Yuan per unit, demand for 2 million units.
+- [[China]] exports microwaves to the US at $50 each, demand for 1 million microwaves.
+- US exports software to [[China]] at 60 Yuan per unit, demand for 2 million units.
 - Chinese manufacturer earns $50 million, aims to convert into Yuan, creating supply of US dollars.
 - US manufacturer earns 120 million Yuan, aims to convert into $20 million, creating demand for US dollars.
 - Imbalance: Supply of $ > Demand for $, leading to potential devaluation of the dollar.
-- Dollar price drop would make Yuan stronger, affecting prices: Chinese goods become costlier, US goods cheaper in China.
+- Dollar price drop would make Yuan stronger, affecting prices: Chinese goods become costlier, US goods cheaper in [[China]].
 - Stronger Yuan reduces demand for Chinese goods and increases demand for US goods, resolving imbalance.
 - This theoretical resolution is under a floating exchange rate, but reality doesn't always permit this to occur due to restrictions.
 - Not feasible in reality as exchange rates aren't always allowed to float, which will be explained in future videos.

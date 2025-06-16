@@ -9,7 +9,7 @@ title: Nosy Loli Review
 ---
 ![takagi](https://catatankemalasan.files.wordpress.com/2020/11/ej5fzeovcaidsfn.jpeg?w=680)
 
-Based on any history books, Japan colonized Indonesia for 3.5 years, from 1942 until 1945.
+Based on any history books, [[Japan]] colonized Indonesia for 3.5 years, from 1942 until 1945.
 
 But it is only based on books, it probably less than that, or it probably still occurred until now.
 
@@ -21,7 +21,7 @@ The Youtuber asked 2 Japanese teenagers to guess about where he comes from and s
 
 They didn't know that their ancestors have been colonized Indonesia for 3.5 years based on history books, not including the [[Music]] & film, tourist destination, or culture from there which we consume until now. Or because they didn't force us to consume it cannot be seen as colonization and slavery. Or maybe we could see that we are committed to being the slave of Japanese artists today.
 
-It is funny for me that I am aware whenever I consume this kind of things, I knew the fact that Japan has been colonized Indonesia, and still consuming more from there. And aware of these things made me remember my history teacher from high school.
+It is funny for me that I am aware whenever I consume this kind of things, I knew the fact that [[Japan]] has been colonized Indonesia, and still consuming more from there. And aware of these things made me remember my history teacher from high school.
 
 I'd still remember he opened his lesson with positive vibes and humor. He included the slides of Japanese Colonization with H and E anime posters. Of course, it is still censored only to break the ice of the class.
 

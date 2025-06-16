@@ -49,7 +49,7 @@ Data survei -> memvalidasi inputan survei
 
 Pembuatan sistem yang berbasis data tersebut bisa membuat stakeholder dapat mengevaluasi organisasi dengan mudah.
 
-Proses evaluasi memangnya untuk apa? Ya lihatlah dari data-data tersebut, pemimpin harusnya bisa menilai apakah itu benar-benar yang diinginkan oleh dirinya dan organisasi? Dari situ bisa berlanjut lagi kepada pertanyaaan, sebenarnya [[FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] dibutuhkan apa tidak?
+Proses evaluasi memangnya untuk apa? Ya lihatlah dari data-data tersebut, pemimpin harusnya bisa menilai apakah itu benar-benar yang diinginkan oleh dirinya dan organisasi? Dari situ bisa berlanjut lagi kepada pertanyaaan, sebenarnya [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] dibutuhkan apa tidak?
 
 Dan hipotesis saya adalah sebenarnya banyak produk bisnis dari lembaga dakwah itu sebenarnya tidak dibutuhkan di setiap rohis.
 

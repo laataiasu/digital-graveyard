@@ -15,13 +15,13 @@ title: Bitcoin & Breaking Bad
 
 TLDR Breaking Bad Synopsis:
 
-```
 Walter, a chemistry teacher and part timer at a car washer, is diagnosed with cancer and because he is poor, he didn't want to burden his [[Family|family]] with the treatment for his cancer. As I have mentioned in the previous article, the feeling of weakness is pretty bad. It is caused a lot of evils and will to power is what is good for ordinary people. And unfortunately, Walter is ordinary person who hates weakness.
 
 He tried to find any other resources to fund his treatment for his cancer. The plot continues, he is faced with a drug dealer accidentally which apparently is his former student. Then he talks with him that he wants to "cook", then both of them somehow agree and then they try to sell the drugs, a perfect crystal methamphetamine.
 
 The selling is easy, but the problem is how he spends his money so that his [[Family|family]] doesn't know that he can afford the treatment. Moreover, he didn't know how to make sure that the money was transferred and accepted by his [[Family|family]].
-```
+
+---
 
 Imagine if at that moment there is a smart contract or bitcoin to transfer money transparently easily. If that's so, Walter didn't need to think hard about how to transfer his wealth from the selling. He can compromise with his [[Family|family]] that the money used for the cancer treatment is from donation or something.
 

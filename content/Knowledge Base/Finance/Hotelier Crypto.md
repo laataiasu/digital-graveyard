@@ -93,7 +93,7 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 
 #### 5. **PMI (Purchasing Managers' Index):**
    - **Definition:** An indicator of the economic health of the manufacturing sector, with readings above 50 indicating expansion.
-   - **Context:** A good PMI in China (Caixin PMI) can indicate strong exports, potentially impacting U.S. exports negatively and vice versa.
+   - **Context:** A good PMI in [[China]] (Caixin PMI) can indicate strong exports, potentially impacting U.S. exports negatively and vice versa.
 
 #### 6. **ISM Manufacturing PMI:**
    - **Definition:** An index that measures the health of the manufacturing sector in the U.S.
@@ -132,7 +132,7 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 - **DXY Strength:** High DXY with a strong Bitcoin is unusual and indicates market liquidity impacts.
 - **M2 Supply Increase:** Indicates more money circulation, affecting inflation and liquidity.
 - **Fed Members' Influence:** Different Fed members have varying impacts on the market, with less frequent speakers having more influence.
-- **PMI Data:** China and U.S. PMI data affect their respective economic health and export dynamics.
+- **PMI Data:** [[China]] and U.S. PMI data affect their respective economic health and export dynamics.
 - **ISM Manufacturing PMI:** Influences DXY and Bitcoin prices based on economic health.
 - **JOLTS Data:** Reliability is questioned due to frequent revisions, impacting economic assessments.
 - **Powell's Testimony:** Aims to calm the markets, highlighting bank resilience.
@@ -162,9 +162,9 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
    - **Context:** The passage discusses the potential for the Federal Reserve to cut interest rates, which historically can lead to significant changes in market dynamics, including increases in the RRP (Reverse Repurchase Agreement) activity.
    - **Impact on Bitcoin:** Initial rate cuts might cause Bitcoin prices to drop, followed by a potential rise if market conditions stabilize.
 
-#### 4. **China's Economic Actions:**
-   - **UST (U.S. Treasuries):** China selling U.S. Treasuries impacts U.S. economic conditions and the strength of the dollar.
-   - **Impact:** Significant sales of U.S. Treasuries by China can weaken the dollar and affect global markets, including the Bitcoin market.
+#### 4. **[[China]]'s Economic Actions:**
+   - **UST (U.S. Treasuries):** [[China]] selling U.S. Treasuries impacts U.S. economic conditions and the strength of the dollar.
+   - **Impact:** Significant sales of U.S. Treasuries by [[China]] can weaken the dollar and affect global markets, including the Bitcoin market.
 
 #### 5. **Consumer Credit:**
    - **Definition:** Consumer credit includes personal debt incurred through purchases made on credit.
@@ -203,7 +203,7 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 - **Mt. Gox Issue:** Causes volatility in Bitcoin prices.
 - **SOFR:** A tool used by the Fed to influence liquidity and interest rates.
 - **Rate Cuts:** Potential for initial Bitcoin price drop followed by a rise.
-- **China's Actions:** Selling U.S. Treasuries impacts the dollar and global markets.
+- **[[China]]'s Actions:** Selling U.S. Treasuries impacts the dollar and global markets.
 - **Consumer Credit:** Indicates borrowing levels and economic health.
 - **Jero Powell Testimony & CPI Data:** Influences market expectations and policies.
 - **M2 Supply:** Indicates money circulation and potential inflation.
@@ -219,7 +219,7 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 
 Before we discuss next week's data, let's review this week's data to understand what we got right and what we got wrong.
 
-**China's Foreign Exchange Reserves:** Predicted to drop. This means China is likely using its reserves. China's gold purchases have decreased. Is China intervening in the market? No, because the Yuan is not weakening; it's actually getting stronger.
+**[[China]]'s Foreign Exchange Reserves:** Predicted to drop. This means [[China]] is likely using its reserves. [[China]]'s gold purchases have decreased. Is [[China]] intervening in the market? No, because the Yuan is not weakening; it's actually getting stronger.
 
 **SOFR (Secured Overnight Financing Rate):** This has increased, indicating that liquidity (availability of money) is drying up. 
 
@@ -227,13 +227,13 @@ Before we discuss next week's data, let's review this week's data to understand 
 
 **Hawkish vs. Dovish:** Powell was not hawkish (favoring higher interest rates to fight inflation), implying a dovish stance (favoring lower interest rates). He said they won't raise interest rates and don't need to wait for inflation to hit 2% to ease monetary policy.
 
-**China's CPI (Consumer Price Index):** Below the forecast at 0.2%. If China's inflation decreases, the Yuan strengthens, leading to deflation, which can harm the economy.
+**[[China]]'s CPI (Consumer Price Index):** Below the forecast at 0.2%. If [[China]]'s inflation decreases, the Yuan strengthens, leading to deflation, which can harm the economy.
 
-**China's M2 Money Supply:** Increased slightly by 0.22%, or 7% annually.
+**[[China]]'s M2 Money Supply:** Increased slightly by 0.22%, or 7% annually.
 
 **US Inflation:** Predicted correctly to drop to 3%. Both Chinese and US inflation decreasing could mean either the US is manipulating numbers due to the upcoming election, or liquidity is truly drying up. 
 
-**China's Foreign Exchange Reserves:** Over $3 trillion, indicating tight liquidity because funds are being redirected.
+**[[China]]'s Foreign Exchange Reserves:** Over $3 trillion, indicating tight liquidity because funds are being redirected.
 
 **Producer Price Index (PPI):** Expected to drop, showing the Fed is reducing inflation by sacrificing jobs. If it rises, it won't be much due to lack of demand.
 
@@ -247,13 +247,13 @@ Before we discuss next week's data, let's review this week's data to understand 
 
 **Monday, July 15, 2024:**
 
-- **China's GDP (Gross Domestic Product):** If inflation decreases, GDP might fall below 5.3%. The government may need to increase liquidity but avoid it leaking to the US by replacing foreign stock ownership with local stocks. This is why foreign businesses are pressured to leave China.
+- **[[China]]'s GDP (Gross Domestic Product):** If inflation decreases, GDP might fall below 5.3%. The government may need to increase liquidity but avoid it leaking to the US by replacing foreign stock ownership with local stocks. This is why foreign businesses are pressured to leave [[China]].
 
 - **Bitcoin:** If GDP falls, it could signal that the government will inject liquidity into the market, boosting Bitcoin. The aim is to prevent deeper deflation and stimulate the economy.
 
-- **China's Retail Sales:** If US retail sales drop, China's retail sales should rise, putting pressure on the dollar and causing DXY to fall. Yuan should strengthen unless intentionally weakened.
+- **[[China]]'s Retail Sales:** If US retail sales drop, [[China]]'s retail sales should rise, putting pressure on the dollar and causing DXY to fall. Yuan should strengthen unless intentionally weakened.
 
-- **China's Housing Prices:** Expected to continue falling. Lower housing prices will shift investments from property to equities (stocks), protecting against future inflation when China shifts reserves from the dollar.
+- **[[China]]'s Housing Prices:** Expected to continue falling. Lower housing prices will shift investments from property to equities (stocks), protecting against future inflation when [[China]] shifts reserves from the dollar.
 
 - **Fed Powell & Daly Speaking:** Expected to provide minor corrections. Powell cannot remain dovish indefinitely.
 
@@ -344,10 +344,10 @@ The text you provided covers various economic concepts and observations related 
   - Barter was an earlier form of trade before money was introduced. The text suggests that the simplicity of barter provided peace, as opposed to the complex financial systems of today, which often involve exploitation and inequality.
 
 - **Economic Development and Sacrifice**:
-  - The text discusses how countries like Japan, Singapore, and Germany became economically advanced by sacrificing certain aspects of their autonomy or ethics, implying that economic progress often comes at a moral cost.
+  - The text discusses how countries like [[Japan]], Singapore, and Germany became economically advanced by sacrificing certain aspects of their autonomy or ethics, implying that economic progress often comes at a moral cost.
 
 - **Carry Trade**:
-  - Japan engages in a carry trade by borrowing its own currency at low interest rates (through Japanese Government Bonds - JGB) and investing in higher-yielding assets like U.S. dollars. This strategy involves leveraging low-cost debt to earn higher returns elsewhere.
+  - [[Japan]] engages in a carry trade by borrowing its own currency at low interest rates (through Japanese Government Bonds - JGB) and investing in higher-yielding assets like U.S. dollars. This strategy involves leveraging low-cost debt to earn higher returns elsewhere.
 
 - **Federal Reserve (Fed) and U.S. Treasury (UST)**:
   - The Federal Reserve’s budget impacts the U.S. Dollar Index (DXY). A surplus in the budget usually strengthens the dollar, while a deficit weakens it. However, the text highlights that the U.S. economy is heavily reliant on debt, and the Fed’s balance sheet has doubled without a corresponding economic growth.

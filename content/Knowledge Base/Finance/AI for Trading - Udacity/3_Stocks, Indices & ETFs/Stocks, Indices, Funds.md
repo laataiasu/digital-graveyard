@@ -21,7 +21,7 @@
      - **S&P 500** (USA): Tracks the performance of 500 large companies listed on stock exchanges in the United States.
      - **Dow Jones Industrial Average** (USA): Tracks 30 significant publicly traded companies in the U.S.
      - **FTSE 100** (UK): Tracks 100 companies listed on the London Stock Exchange.
-     - **Nikkei 225** (Japan): Tracks 225 large, publicly traded companies in Japan.
+     - **Nikkei 225** ([[Japan]]): Tracks 225 large, publicly traded companies in [[Japan]].
 
    **Why Indices Matter**: Indices give investors a quick snapshot of the market’s performance. For example, if the S&P 500 index rises, it indicates that, on average, the large U.S. companies are doing well.
 

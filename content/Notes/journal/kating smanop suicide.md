@@ -5,6 +5,8 @@ tags:
 title: kating smanop suicide
 ---
 
+
+
 hopeless dan membangkang? kaya orang ga beragama aja. orang Indonesia tuh kan mayoritas beragama, harusnya iklas dan nikmatin aja, kan percaya akhirat. 
 
 kan banyak ceramah, orang miskin, lemah, dan tidak beruntung lebih gampang masuk "surga". kelas menengah tuh harus dibuat lebih susah biar makin banyak orang susah, biar lebih gampang masuk surga.
@@ -20,3 +22,6 @@ makanya, pertahankan dan lanjutkan aja kondisi kaya gini. teruslah risk averse, 
 elit2 powerful korup itu adalah juru selamat umat manusia yang harusnya kita muliakan.
 
 pesan utama almarhum yang bund*r kemarin itu sebenernya toa masjid sering berisik ganggu, tapi mayoritas ga pernah sadar -__-
+
+
+[[SMAN 4 Bandung]]

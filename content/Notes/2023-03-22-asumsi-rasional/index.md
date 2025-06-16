@@ -62,8 +62,8 @@ meditasi, jadilah perompak
 sorry euy suka sensi kalo ada orang syiah
 manfaatnya iya ada, tapi kaya khamr
 
-syiah sunni 40% 60% di azerbaijan tapi bisa hidup damai
-muslim di sana juga ada yg mengkhamr karena perang sm armenia
+syiah sunni 40% 60% di [[Azerbaijan]] tapi bisa hidup damai
+muslim di sana juga ada yg mengkhamr karena perang sm [[Armenia]]
 kalo dikasih $1000000 buat ikut perang lagi katanya emoh, mending meninggal katanya
 game, yang dianggap sloth, ternyata yang ngasih dia harapan
 

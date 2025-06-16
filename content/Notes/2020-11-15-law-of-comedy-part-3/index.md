@@ -24,7 +24,7 @@ If it is interpreted as only textual or literally, you might find this is someth
 
 Let's connect to this modern world.
 
-From the Japan cases where everything is so manipulative, we can see that there is irony about that.
+From the [[Japan]] cases where everything is so manipulative, we can see that there is irony about that.
 
 The infrastructure, facility, and everything seems so developed and beautiful. But there is a high number of [[Suicide]] rate, prostitution, and any kind which leads to question of irony of what seems developed. Everything is manipulated, renting a girlfriend, renting a [[Family|family]], Hikkikomori, living with 2D, and so on.
 

@@ -26,6 +26,7 @@ https://www.cnbcindonesia.com/syariah/20180718151108-29-24182/mata-uang-digital-
 
 https://www.cnbcindonesia.com/tech/20210208133047-37-221849/china-getol-uji-uang-digital-yuan-lawan-bitcoin-ini-buktinya
 
+[[China]]
  
 
 liberdancean vs konserpatip

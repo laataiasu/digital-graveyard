@@ -1356,7 +1356,7 @@ The "precautionary principle" and the dangers of genetic modification, particula
 
 ### 4. **Historical Example: Mao Zedong's Four Pests Campaign**
    - **Context**: In the late 1950s, Mao initiated a campaign to eliminate four pests, one of which was the sparrow. The rationale was that sparrows were eating crops, and killing them would supposedly lead to better agricultural output.
-   - **Outcome**: The eradication of sparrows caused an **imbalance** in the ecosystem because sparrows also ate insects that damaged crops. Without sparrows, insect populations exploded, and crop failure followed, leading to widespread **starvation** in China.
+   - **Outcome**: The eradication of sparrows caused an **imbalance** in the ecosystem because sparrows also ate insects that damaged crops. Without sparrows, insect populations exploded, and crop failure followed, leading to widespread **starvation** in [[China]].
    - **Lesson**: Messing with ecosystems can have far-reaching, devastating consequences. The well-intended action of eliminating sparrows backfired because humans underestimated the complexity of ecological systems.
 
 ### 5. **Speed and Harm: The Risk of Fast Change**

@@ -48,7 +48,7 @@ Once we have our alpha factors, we need to evaluate their effectiveness. Some ke
 
 This lesson prepares you for the next phase, where we'll extract alpha factor ideas from academic research papers and implement them in code. This process mirrors the work that quantitative analysts (quants) perform in the real world, and is crucial for generating alpha factors that could be integrated into actual hedge fund portfolios.
 
-Get ready to step into the shoes of a quant researcher and start building the skills needed to succeed in the field of quantitative finance!
+Get ready to step into the shoes of a [[Quant]] researcher and start building the skills needed to succeed in the field of quantitative finance!
 
 ## 2. Alpha Factors Versus Risk Factor Modeling
 
@@ -1212,4 +1212,4 @@ When reading papers, remember:
 - Understand that research is part of a broader, evolving conversation. 
 
 ### Conclusion:
-Together, these lessons equip you with the tools to not only develop and test alpha factors in quantitative finance but also effectively read and engage with the academic research that underpins this work. Understanding the structure of research papers, the selective reading approach, and the iterative nature of quant research will be essential as you advance in the field.
+Together, these lessons equip you with the tools to not only develop and test alpha factors in quantitative finance but also effectively read and engage with the academic research that underpins this work. Understanding the structure of research papers, the selective reading approach, and the iterative nature of [[Quant]] research will be essential as you advance in the field.

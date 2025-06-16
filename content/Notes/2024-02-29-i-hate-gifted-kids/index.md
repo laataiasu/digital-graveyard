@@ -81,7 +81,7 @@ I hate MKD who ignores my messages.
 
 I hate MR cause he can't run Maung generation well and make all of members feel included. 
 
-I hate ML, M, or MA because they can't run [[FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] well and maximize the potential of their members. 
+I hate ML, M, or MA because they can't run [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] well and maximize the potential of their members. 
 
 I hate AS & FA who complicate the administration process. 
 

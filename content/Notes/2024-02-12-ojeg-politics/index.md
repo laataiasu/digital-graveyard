@@ -9,7 +9,7 @@ draft: false
 ---
 I have talked with a Gojek driver.
 
-We talked about the Gojek and Grab merger, then suddenly delved into politics.
+We talked about the [[Gojek]] and [[Grab]] merger, then suddenly delved into politics.
 
 I asked him which candidate is supported by most of his circle.
 

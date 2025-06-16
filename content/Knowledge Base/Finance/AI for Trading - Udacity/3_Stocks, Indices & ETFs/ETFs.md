@@ -65,7 +65,7 @@ Investing in international stocks through ETFs is also more convenient than dire
 - **Time Zone Differences:** Trading in foreign markets requires you to be active during their market hours, which can be inconvenient if you live in a different time zone. For instance, trading Hong Kong stocks from New York could disrupt your sleep schedule.
 
 #### Solution with International ETFs:
-Financial firms offer **International ETFs** that allow you to invest in foreign markets while trading on your local exchange. For example, the **iShares China Large-Cap ETF (FXI)**, issued by BlackRock, tracks the 50 largest companies listed on the Hong Kong Stock Exchange, including Tencent and China Construction Bank.
+Financial firms offer **International ETFs** that allow you to invest in foreign markets while trading on your local exchange. For example, the **iShares [[China]] Large-Cap ETF (FXI)**, issued by BlackRock, tracks the 50 largest companies listed on the Hong Kong Stock Exchange, including Tencent and [[China]] Construction Bank.
 
 With FXI, you can invest in Chinese stocks during U.S. market hours, giving you the flexibility to maintain your regular routine, whether that’s getting a good night’s sleep or enjoying time with friends.
 

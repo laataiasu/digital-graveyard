@@ -60,6 +60,9 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 #### 🔗 [[Blockchain]]
 
 * [[MIT 15.S12 Blockchain and Money]] \~ #covid-era
+
+[[Massachusetts Institute of Technology]]
+
 * [[Web3 Fundamentals by Bill Laboon]] \~ #covid-era
 * [[Blockchain at Berkeley]] \~ #covid-era
 * [[Vitalik Buterin]], [[Gavin Wood]], [[Charles Hoskinson]] \~ #covid-era
@@ -87,7 +90,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 #### 🌐 [[Web Development]]
 
 * [[Corey Schafer]] tutorials \~ #2019–2020
-* [[FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Campus Dev Team \~ #2020–2021
+* [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] Campus Dev Team \~ #2020–2021
 
 #### ✅ [[Quality Assurance]]
 

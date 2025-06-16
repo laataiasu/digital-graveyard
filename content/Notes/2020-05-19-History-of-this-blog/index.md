@@ -56,7 +56,7 @@ And meet [blog ](http://annisaaurelia.wordpress.com/) review majoring in SI. And
 
 weird.
 
-suddenly the energy is full again, I don't know why, I suddenly remember the good times I used to read [blog](https://www.gilang-[[Ramadhan]].id) itb child from sman 4 bandung that made me really want to go to stei itb but it didn't work keep on reviewing blogs for kating fasilkom, scholarship blogs, and I don't know why reading a few words fills up the energy very well! (very good).
+suddenly the energy is full again, I don't know why, I suddenly remember the good times I used to read [blog](https://www.gilang-[[Ramadhan]].id) itb child from [[SMAN 4 Bandung]] that made me really want to go to stei itb but it didn't work keep on reviewing blogs for kating fasilkom, scholarship blogs, and I don't know why reading a few words fills up the energy very well! (very good).
 
 It's really strange, the mind, subconscious, etc., they can't be predicted. Little things can make a big difference. Even though I've watched psychology videos to be mentally strong, it's still, there's a little thing that make your spirits up and down, from worse to better. But I don't know if I'm really hyper sensitive and stupid in terms of EQ haha.
 

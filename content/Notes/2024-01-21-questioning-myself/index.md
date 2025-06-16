@@ -24,7 +24,7 @@ you want to work with someone you admire. none of it you admire. what is the imp
 
 would you continue pursuing data engineer or industrial clerk in general my friends? i believe you dont want. 
 
-3. option 3: quant.
+3. option 3: [[Quant]].
 ah this another bullshit jobs. you sure knows that trader is just a fucking moron who believe in astrology. you know from [[Benoit Mandelbrot]] or [[Charlie Munger]] that it is fucking stupid. no real value. financial engineering is just stupid and doesnt create any value. their richness is stupid. they can buy real things, but there's no value in it, it is all illusions. they are all gambler, you want to end up like them? i dont thing so. 
 
 but you somehow dream to be well financially independent, so you can do anything you want. i think it is just a start to be rich quickly other than other options. but how do you continue this.

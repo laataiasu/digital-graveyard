@@ -89,7 +89,7 @@ I completed this series from 11 pm to 2 am and it succed makes me cry like a bab
 
 ### Vagabond
 
-I love Suzy. Action and Drama series that describe about business in Korea government that makes a ship falls by been hijacked. Maybe there is a second season. Illogical but the conspiracy about the government and corporations really interesting
+I love Suzy. Action and Drama series that describe about business in [[South Korea]] government that makes a ship falls by been hijacked. Maybe there is a second season. Illogical but the conspiracy about the government and corporations really interesting
 
 ### While You Were Sleeping
 

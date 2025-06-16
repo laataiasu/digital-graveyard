@@ -758,8 +758,8 @@ To use categorical variables in a regression model, we need to transform them in
 
 **Concept**: For a categorical variable with \( k \) unique categories, we create \( k \) binary (0 or 1) variables. Each of these variables represents one category.
 
-- **Example**: If we have a country variable with 12 unique countries (e.g., USA, UK, Japan, etc.), we would create 12 dummy variables.
-  - For a company based in the USA, the "USA" dummy variable would be 1, and all other country dummy variables (UK, Japan, etc.) would be 0.
+- **Example**: If we have a country variable with 12 unique countries (e.g., USA, UK, [[Japan]], etc.), we would create 12 dummy variables.
+  - For a company based in the USA, the "USA" dummy variable would be 1, and all other country dummy variables (UK, [[Japan]], etc.) would be 0.
 
 **Factor Exposure**: In the context of the factor model, the value assigned (1 or 0) to each dummy variable represents the **factor exposure** of the stock to that category.
 

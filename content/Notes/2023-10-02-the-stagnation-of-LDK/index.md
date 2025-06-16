@@ -77,6 +77,8 @@ The thing is, I'm just curious about a summarized report of all mosques. I want 
 
 , with many customizable metrics, to classify Muslims in Indonesia, their presentations, contributions, conflicts, and scandals, their relationships with political parties, and so on. Not limited to just social media trends like https://pers.droneemprit.id/ from @ismailfahmi, but any form of event.
 
+[[Drone Emprit]]
+
 But I think it's worth considering since most students struggle academically, so it's understandable they need an organization to refresh and enjoy for a while. So it's just my problem then.
 
 I really have hope for abundant energy resources, so we can have plenty of computing and storage power, so that things like this, which are currently low-priority, can enrich the vision. The simplest thing I want is the source of truth, and the more painful the truth, the better.
