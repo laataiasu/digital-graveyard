@@ -54,7 +54,7 @@ Pemerintah, industri perbankan, pihak yg punya otoritas, dan sejenisnya.
 
 https://en.wikipedia.org/wiki/Decentralized_finance
 
-https://www.cnnindonesia.com/ekonomi/20180115175339-78-269063/bank-[[Indonesia]]-sebut-bitcoin-bisa-ganggu-stabilitas-keuangan
+https://www.cnnindonesia.com/ekonomi/20180115175339-78-269063/bank-Indonesia-sebut-bitcoin-bisa-ganggu-stabilitas-keuangan
 
 https://www.forbes.com/sites/shehanchandrasekera/2021/01/11/how-are-cryptocurrencies-taxed/?sh=74fe4b506812
 

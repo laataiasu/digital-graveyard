@@ -8,7 +8,7 @@ title: Musings on Life, Legends, and the Quirks of Human Nature
 ---
 You know what Pareto once said, right? It's like he figured out that only 20 percent of folks are doing 80 percent of the cool stuff. The rest of us are stuck with these mind-numbing jobs that could easily be replaced by robots.
 
-Now, speaking of [[Indonesia]], it's a Muslim-majority place, but that whole "Isy kariman Au Mutsyahidan", live gloriously or die a martyr thing? Well, it's more of a catchy slogan than anything else.
+Now, speaking of Indonesia, it's a Muslim-majority place, but that whole "Isy kariman Au Mutsyahidan", live gloriously or die a martyr thing? Well, it's more of a catchy slogan than anything else.
 
 I've got this wild idea, though. If [[Muhammad]] were around today, I bet he'd be all into [[Data-driven]] stuff like tech surveillance, kinda like China's [[Social Credit System]] or Sam's effective altruism, or maybe even Sabrang Leto's symbolic actions. He'd be all about making things transparent, rewarding the good guys, and smacking down the corrupt ones. You know what's cool? Muhammad was like the OG successful businessman, even though he started out as an orphan. Total legend, man.
 

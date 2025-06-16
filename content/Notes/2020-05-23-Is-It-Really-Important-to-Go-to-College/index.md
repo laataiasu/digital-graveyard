@@ -18,13 +18,13 @@ Your point of view. Right until that.
 She's this is only my opinion first.
 
 00:49
-Space my opinion in my college experience because I attendance [[Information System]] field in. [[Indonesia]] University. And based on that experience. I feel like that I got a college it's just such a wasting of time. Because I know that for some things that I lately.
+Space my opinion in my college experience because I attendance [[Information System]] field in. Indonesia University. And based on that experience. I feel like that I got a college it's just such a wasting of time. Because I know that for some things that I lately.
 
 01:33
 I lately realized that I'm not really good at emotional intelligence, so I don't really think I'm planning about what will I do in my college, so I think college is wasting for me why because it's really wasting my time, you know. You know in the first I feel like that I can adapt so easily and I can maintain my character or personality.
 
 02:13
-But after I've been through. Maybe months or two months well actually. I really feel like that in my first in my first impression about this faculty with the corporate science faculty in university in a University of [[Indonesia]]. The. The atmosphere is really really enjoy for yourself and really comfortable at first so because of that first impression.
+But after I've been through. Maybe months or two months well actually. I really feel like that in my first in my first impression about this faculty with the corporate science faculty in university in a University of Indonesia. The. The atmosphere is really really enjoy for yourself and really comfortable at first so because of that first impression.
 
 02:54
 I feel like that I really that I don't really need to adapt so the first thing after I. Are a enrolled the conductor and well on.
@@ -81,13 +81,13 @@ To learn by yourself. And then the third reason is.
 You are wasting your money. So based on this second reason, there's a lot of course, there's a lot of online courses, right? So based on that reason. You can really. Comfort your expenses, so you don't need to afford the knowledge from the university and you can learn all by yourself.
 
 11:06
-And then the fourth reason is you're wasting your time in the university, there's a lot of. There's a time schedule that you can maintain by yourself so you have to follow the rules and because of that it's just. I combined the difference between the. Real time. And online courses whenever pandemic is happening in in [[Indonesia]].
+And then the fourth reason is you're wasting your time in the university, there's a lot of. There's a time schedule that you can maintain by yourself so you have to follow the rules and because of that it's just. I combined the difference between the. Real time. And online courses whenever pandemic is happening in in Indonesia.
 
 11:52
 So if there is a class in normal class and it is really really wasting my time because I need to fix my schedule. I need to take about I need to maintain my time and I I need to manage in my time so that any and then in the class I still waiting for the, For the lecture.
 
 12:22
-And then waiting for my friend and then there's a rest and there is a break in every material so that you are wasting your time whenever I was in randomix situation whenever the corner in [[Indonesia]] is happening. I feel like I killed I could be more productive. Well, actually, I'm gonna probably have productive at all.
+And then waiting for my friend and then there's a rest and there is a break in every material so that you are wasting your time whenever I was in randomix situation whenever the corner in Indonesia is happening. I feel like I killed I could be more productive. Well, actually, I'm gonna probably have productive at all.
 
 12:55
 Because. I am too lazy and when I was in my home but seriously if there is a class I don't need to think about it to waiting my lecture to come or maybe waiting the next class is beginning you can. Just lay in your bed and then watching watching the video and put away on headphones with a really need to focus and for it for an introvert like me.

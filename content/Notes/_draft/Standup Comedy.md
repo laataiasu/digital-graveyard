@@ -51,7 +51,7 @@ saya jadi inget zee jkt48 senyum doang ada yh nontontin, saya senyum ke anak kec
 
 saya pernah kejadian di angkot gitu ya, 
 
-disini ada yg gatau angkot? siapa tau gitu kan ada orng kaya mirip livy renata yg tiap hari dianter supir kan ga akan ngerti tau angkot. ya jadi gw definisikan terlebih dahulu, menurut wikipedia, angkot merupakan transportasi umum yg sering berada di kota-kota kecil di [[Indonesia]]. sering membuat anda terlambat karena sering ngetem ga jelas, kadang masuk pengamen yg suaranya jelek tapi sering malak, terkadang ada copet seperti di film preman pensiun, dan abang2 angkot sering memutar musik bergenre EDM koplo atau dangdut di angkot ini. 
+disini ada yg gatau angkot? siapa tau gitu kan ada orng kaya mirip livy renata yg tiap hari dianter supir kan ga akan ngerti tau angkot. ya jadi gw definisikan terlebih dahulu, menurut wikipedia, angkot merupakan transportasi umum yg sering berada di kota-kota kecil di Indonesia. sering membuat anda terlambat karena sering ngetem ga jelas, kadang masuk pengamen yg suaranya jelek tapi sering malak, terkadang ada copet seperti di film preman pensiun, dan abang2 angkot sering memutar musik bergenre EDM koplo atau dangdut di angkot ini. 
 
 ada tmen saya yg ganteng senyum ke anak kecil. suka gasih lu kalo ada anak kecil terus ibunya ga ngeliat, lu suka bikin muka aneh, terus giliran gw senyj eh malah dia ketakutan, padahal itu adalah senyum termanis yg bisa gw beri. 
 
@@ -109,7 +109,7 @@ Orang indo tuh gampang bngt ditipu, terlalu khusnudzon ada orng arab lngsng dian
 
 Ada 2 tipe orng agnostik sok2an males solat aja
 
-orang minoritas/kafir tuh ga bisa berpikir sepintar dan seadil orang mayoritas. ada orang ceramah2 tuh sebenarnya kan ada dokter tht yang siap untuk ketiban rezeki, ada orang psikolog juga, nanti ada juga di tv pakar agama, reporter tentang suara azan, ada orang standup comedy juga yg . penguasa di [[Indonesia]] itu mayoritas minoritas kan ya. karena ya kerjanya aja disuruh trading dll
+orang minoritas/kafir tuh ga bisa berpikir sepintar dan seadil orang mayoritas. ada orang ceramah2 tuh sebenarnya kan ada dokter tht yang siap untuk ketiban rezeki, ada orang psikolog juga, nanti ada juga di tv pakar agama, reporter tentang suara azan, ada orang standup comedy juga yg . penguasa di Indonesia itu mayoritas minoritas kan ya. karena ya kerjanya aja disuruh trading dll
 
 tuhan itu menciptakan tidak sia-sia, tapi ada 1 kasus yg bikin gw ga percaya sama statement ini. yaitu adalah sjw. sjw goblok memperjuangkan kesetaraan. lu nih kalo mau setara lu harus punya jakun dulu, mana bisa gw punya memek kalo ga transgender macam lucinta luna. harusnya yg diperjuangkan tuh keadilan dan hak, sepatu hak misalnya. Atau HAK UNTUK DIAM.
 
@@ -216,7 +216,7 @@ meanwhile ibunya adalah pahlawan perang aceh, bawa senjata, ternyata cut nyak di
 
 sering terjadi di kota2 besar
 
-gw kasih tau ya dek, Itu memang udah pantas woi circle lu bikin grup baru yg ga ada lunya. gw kalo masuk circlelu aja gw pasti ban lu dari kehidupan. kok ada gitu orng macam beginian. kalo mesin bundir yg ada di swedia itu ada ya di [[Indonesia]], gw biayain lu buat masuk situ serius. atau kalo ga ada gw bisa kirim lu langsung kesana. atau kalo gamau bayar buat alatnya, gw selundupin lu deh ke taliban, terus gw sebut lu lbgt. eh tapi lu cw ya kalo gw sebut lu ternyata l, mereka nanti pada seneng lg. kalo laki2 dibilang gay kan gampang, langsung penggal, atau dijatuhin dr gedung tinggi. ya pokonya gw bakal buat lu menghilang lah dari kehidupan ini, sama petrus atau apalah. loh kok gw malah jadi kayak mantan presiden [[Indonesia]]? 
+gw kasih tau ya dek, Itu memang udah pantas woi circle lu bikin grup baru yg ga ada lunya. gw kalo masuk circlelu aja gw pasti ban lu dari kehidupan. kok ada gitu orng macam beginian. kalo mesin bundir yg ada di swedia itu ada ya di Indonesia, gw biayain lu buat masuk situ serius. atau kalo ga ada gw bisa kirim lu langsung kesana. atau kalo gamau bayar buat alatnya, gw selundupin lu deh ke taliban, terus gw sebut lu lbgt. eh tapi lu cw ya kalo gw sebut lu ternyata l, mereka nanti pada seneng lg. kalo laki2 dibilang gay kan gampang, langsung penggal, atau dijatuhin dr gedung tinggi. ya pokonya gw bakal buat lu menghilang lah dari kehidupan ini, sama petrus atau apalah. loh kok gw malah jadi kayak mantan presiden Indonesia? 
 
 dan karena akhirnya si anak merasa dikhianati kehidupan, malas kuliah, merasa tidak ada yg menerimanya di kehidupan, akhirnya si anak memutuskan untuk menjadi wanita karir cabang only fans dengan saudari kembarnya untuk menyambung kehidupan dan memenuhi gaya hidupnya? Pembajakan itu haram
 
@@ -305,13 +305,13 @@ Iya gitu kan ga ada orang yang minta disakitin, eh tiba2 disakitin. Mungkin kare
 
 Makannya gitu kan, gua tuh berhenti memaksakaan apa yang gw rasa orang tuh harus sejalan sama gw. Kaya tadi, misalkan gw tuh inginnya penderitaan orang2 tuh dikurangi, nah itu gw ga akan lagi kaya gitu karena ga semuanya pengen gitu. Gw ingin pintar dan gw ga akan maksa orang juga ingin pintar, joget2 [[Tiktok]] buat bikin nafsu orang2 sangean, dengan dalih its aestetic bro and i am just happy doing things like this, ya itu terserah lah gw ga akan maksa orang lain lagi sesuai kemauan gw, maksudnya lu belajar lah, menyelesaikan masalah lingkungan dan manusia, kemiskinan kesenjangan sosial, global warming, hadeh gw udah mirip gretha tunber itu sjw spg sgd development. 
 
-Dan dari pembelajaran itupula gitu ya gw mengubah doa gitu. Dulu kan, ya tuhan selamatkan muslim di [[Indonesia]], muslim di dunia, dimana saja gitu, hilangkanlah penderitaannya, berikanlah kebahagiaan dunia dan akhirat, persatukanlah kami agar damai sentosa.  nah sekarang tuh ngga gitu gw. Banyak Doa gw biasanya yg udah dimodif ya, udah dicustom. Jadi doa gw ini ya, bagi orang yg kesakitan atau tersakiti, bagi orang yg cacat, bagi orang jelek, bagi orang bodoh, nah ini khususnya bagi orang [[Palestine]] yg menderita karena perang sama zionis wahyudi, gua doain ya, biar lu bisa menikmati penderitaan, semoga lu semua jadi mashocist.
+Dan dari pembelajaran itupula gitu ya gw mengubah doa gitu. Dulu kan, ya tuhan selamatkan muslim di Indonesia, muslim di dunia, dimana saja gitu, hilangkanlah penderitaannya, berikanlah kebahagiaan dunia dan akhirat, persatukanlah kami agar damai sentosa.  nah sekarang tuh ngga gitu gw. Banyak Doa gw biasanya yg udah dimodif ya, udah dicustom. Jadi doa gw ini ya, bagi orang yg kesakitan atau tersakiti, bagi orang yg cacat, bagi orang jelek, bagi orang bodoh, nah ini khususnya bagi orang [[Palestine]] yg menderita karena perang sama zionis wahyudi, gua doain ya, biar lu bisa menikmati penderitaan, semoga lu semua jadi mashocist.
 
 ## stupid government 
 
-[[Indonesia]] suka banget ya hal-hal yang sifatnya simbolik. Banyak yang mengagung2kan founding father [[Indonesia]], tapi ada juga kekonyolannya kan tiap orang tuh pasti ada kekonyolannya. Contohnya monas aja, maksud bangungan ini fungsinya apa coba. bentuknya tuh kayak titit. tapi titit tuh ga segede monas tapi banyak fungsinya ya, ini monas udah gede panjang, tajem, mahal, apa coba fungsinya?
+Indonesia suka banget ya hal-hal yang sifatnya simbolik. Banyak yang mengagung2kan founding father Indonesia, tapi ada juga kekonyolannya kan tiap orang tuh pasti ada kekonyolannya. Contohnya monas aja, maksud bangungan ini fungsinya apa coba. bentuknya tuh kayak titit. tapi titit tuh ga segede monas tapi banyak fungsinya ya, ini monas udah gede panjang, tajem, mahal, apa coba fungsinya?
 
-katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan [[Indonesia]] tuh kecil-kecil. Atau mungkin pak founding father ini sebenarnya emang niatnya bukan melambangkan orang-orang [[Indonesia]], tapi ingin agar punya kita ini panjang seperti apa yang dicita-citakannya, berarti kita mau jadi [[Porn]] star.
+katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan Indonesia tuh kecil-kecil. Atau mungkin pak founding father ini sebenarnya emang niatnya bukan melambangkan orang-orang Indonesia, tapi ingin agar punya kita ini panjang seperti apa yang dicita-citakannya, berarti kita mau jadi [[Porn]] star.
 
 Sama contohnya kemarin ya bukit algoritma coba, itu buat apa2, ekskusivitas, yg kita haruskan demokratisasi, pemerataan pendidikan, ini malah ngebuat 1 tempat yang sentralistis gitu, nah yg bisa masuk kesana tuh nantinya orang2 yg pinter aja,. Kalo gitu gimana daerah lainnya bisa berkembang gitu. nama silicon valley aja salah coba, katanya pembangunannya tuh berbasis penelitian. dan katanya nih ya, oh rakyat biasa tuh ga berhak berkomentar karena itu katanya dibangun swasta.
 

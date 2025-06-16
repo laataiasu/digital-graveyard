@@ -75,7 +75,7 @@ The thing is, I'm just curious about a summarized report of all mosques. I want 
 
 ![ss_ajaib](https://storage.googleapis.com/finansialku_media/wordpress_media/2020/06/44457832-terbaru-dari-ajaib-ss-05b-finansialku.jpg)
 
-, with many customizable metrics, to classify Muslims in [[Indonesia]], their presentations, contributions, conflicts, and scandals, their relationships with political parties, and so on. Not limited to just social media trends like https://pers.droneemprit.id/ from @ismailfahmi, but any form of event.
+, with many customizable metrics, to classify Muslims in Indonesia, their presentations, contributions, conflicts, and scandals, their relationships with political parties, and so on. Not limited to just social media trends like https://pers.droneemprit.id/ from @ismailfahmi, but any form of event.
 
 But I think it's worth considering since most students struggle academically, so it's understandable they need an organization to refresh and enjoy for a while. So it's just my problem then.
 

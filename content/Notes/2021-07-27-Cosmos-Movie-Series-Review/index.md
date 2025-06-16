@@ -40,7 +40,7 @@ Eps 9, photon, particle, wave
 
 Eps10, marie curie, nuclear war, saint pierre volcano
 
-Eps11, voyager, [[Indonesia]]
+Eps11, voyager, Indonesia
 
 Eps 12, Cassandra apollo, refrigerator, global warming
 

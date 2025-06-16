@@ -28,7 +28,7 @@ The slow development of the country is not caused by the stupidity of its people
 
  The first reason is what usually happens to greedy rulers, thus they really want the stupidity of their people, and the second is because they are not good at negotiating. I have a good prejudice of the current Indonesian government so I assume that the cause is the number 2. Yes, the authorities have good intentions to develop the country, but they are just not good at negotiating.
 
-The education sector is one example. Why [[Indonesia]]'s PISA score is bad and the problems surrounding education occur, it is clear that policy makers cannot negotiate.
+The education sector is one example. Why Indonesia's PISA score is bad and the problems surrounding education occur, it is clear that policy makers cannot negotiate.
 
 Many students don't have the pressure of not being good at math or in any other subject because everyone knows that many of them are useless in life. Everyone knows that without learning math, everyone can still eat and drink and have fun like a normal human being. The point is they didn't find hell in what they went through.
 

@@ -5,7 +5,7 @@ tags:
 - essay
 title: After Arsjad Rasyid Endgame Podcast
 ---
-i imagine myself, goes traveling through all [[Indonesia]]. selfies.
+i imagine myself, goes traveling through all Indonesia. selfies.
 
 this why i prefer cities human-made more than natures god-made
 

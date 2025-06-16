@@ -5,7 +5,7 @@ tags:
 title: kating smanop suicide
 ---
 
-hopeless dan membangkang? kaya orang ga beragama aja. orang [[Indonesia]] tuh kan mayoritas beragama, harusnya iklas dan nikmatin aja, kan percaya akhirat. 
+hopeless dan membangkang? kaya orang ga beragama aja. orang Indonesia tuh kan mayoritas beragama, harusnya iklas dan nikmatin aja, kan percaya akhirat. 
 
 kan banyak ceramah, orang miskin, lemah, dan tidak beruntung lebih gampang masuk "surga". kelas menengah tuh harus dibuat lebih susah biar makin banyak orang susah, biar lebih gampang masuk surga.
 

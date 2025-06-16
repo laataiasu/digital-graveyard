@@ -103,7 +103,7 @@ Anatomy of a Fall
 
 ...
 
-then it is reasonable why a war criminal win [[Indonesia]] presidenctial election.
+then it is reasonable why a war criminal win Indonesia presidenctial election.
 
 supporters will justify only the good.
 haters will justify only the bad. 

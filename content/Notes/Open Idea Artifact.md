@@ -21,7 +21,7 @@ Of course, things like energy and raw materials from the Earth are still hard to
 There are risks too, especially the existential ones. AI has completely changed the game when it comes to creating art—something humans have always been proud of, sometimes arrogantly so. We've often believed that only we can make meaningful art or feel deep emotion. But now AI can mimic us, and sometimes it even creates something more creative, just by relying on math and probability. I’m exaggerating a bit here, mostly because I’m terrible at math, but it’s still kind of mind-blowing that we’ve gotten to this point.
 
 What I’m writing here is really a mix of what I wish existed before the GPT boom and what’s possible now.
-This feels like the time when Pramoedya Ananta Toer, in *Bumi Manusia*, was amazed by the invention of the bicycle. But GPT? That’s just the beginning.
+This feels like the time when [[Pramoedya Ananta Toer]], in *Bumi Manusia*, was amazed by the invention of the bicycle. But GPT? That’s just the beginning.
 
 I think the future will be both incredible and a little eerie.
 
@@ -35,7 +35,7 @@ It’s essentially a digitization of the mosque—or any religious system—so w
 
 The idea is basically AI totalitarianism, but in a more open way. I wasted a bit of time being obsessed with this, but I think it would fail since it's a top-down approach. So, I’ve postponed or maybe dropped it. Still, I really wish something like this could exist.
 
-You can check out the full writing [[(Archieved) Akselerasi Smart City Melalui Masjid Berprestasi]].
+You can check out the full writing [[Notes/Akselerasi Smart City Melalui Masjid Berprestasi/index|here]].
 
 ### Ethical Buying Platform
 

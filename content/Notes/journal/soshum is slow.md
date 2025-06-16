@@ -23,6 +23,6 @@ can't detect tax evasion, money laundering.
 
 no mahasiswa force to revolution that is radical and comprehensive.
 
-science progress to much, while soshum seem stagnant. [[Indonesia]] still has no radical thinker that act beyond as-is condition. someone seem smart talks about anything that end up just being advisor of pinjol education. 
+science progress to much, while soshum seem stagnant. Indonesia still has no radical thinker that act beyond as-is condition. someone seem smart talks about anything that end up just being advisor of pinjol education. 
 
 kindly need your help to clarify.

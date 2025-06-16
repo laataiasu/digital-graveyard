@@ -30,6 +30,6 @@ Digitizing the mosque system can have a significant impact; the stock market mov
 
 [[Data-driven]], transparent.
 
-The presence of religion is there to be exploited. Religion is a blessing from God. Materialism doesn't fit in [[Indonesia]]. Those who cannot exploit religion will suffer.
+The presence of religion is there to be exploited. Religion is a blessing from God. Materialism doesn't fit in Indonesia. Those who cannot exploit religion will suffer.
 
 I hate data labeling and all labels, but one must do the dirty job.

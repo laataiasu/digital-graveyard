@@ -92,7 +92,7 @@ ke video porno
 *Riba itu menghancurkan keluarga, menghancurkan negara. Dari hadist
 disebutkan bahwa apabila ada sesuatu yang haram dari dagingnya, maka
 keseluruhannya juga haram. Maka ini tak diperhatikan lagi oleh negara
-khususnya negara agama seperti [[Indonesia]], ungkapan ini kayak cocoklogi.
+khususnya negara agama seperti Indonesia, ungkapan ini kayak cocoklogi.
 Sama kaya ibu maria yang sering berprasangka sampe bapaknya kesel, dan
 jadi ga harmonis. Cocoklogi kalo smeua bencana di dunia itu akibat dr
 tumbuhan yang merasa ga diperlukakukan baik manusia, quran nyuruh baca

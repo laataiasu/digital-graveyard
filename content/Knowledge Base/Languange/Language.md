@@ -1,4 +1,4 @@
 [[Interesting Terms]]
 
 [[Arabic]]
-[[Indonesia]]
+Indonesia

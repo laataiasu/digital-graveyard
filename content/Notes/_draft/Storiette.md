@@ -18,11 +18,11 @@ The answer to that is the "[[Social Credit System]]", but since the words themse
 
 This is the era where complexity arises; you must specialize, or perish. Focusing on one or two intersecting subjects could be beneficial, but delving into too many could lead you to become an obsolete polymath.
 
-While in CCP they undervalue or are indifferent towards religion, in [[Indonesia]], religion is their distinctive characteristic.
+While in CCP they undervalue or are indifferent towards religion, in Indonesia, religion is their distinctive characteristic.
 
 1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; [[FUKI]] [[Fakultas Ilmu Komputer]] [[Universitas Indonesia]] Fasilkom UI, dll. They must stop kegiatan dakwah formalitas yang tidak produktif.
 
-Mereka beralih menjadi "[[Data]] tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di [[Indonesia]]. Kata kunci utamanya adalah "integrasi".
+Mereka beralih menjadi "[[Data]] tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di Indonesia. Kata kunci utamanya adalah "integrasi".
 
 Penggulingan kelompok Boomer dan golongan tua seharusnya hanya membuat mereka menjadi penasihat, sementara regenerasi dan kaderisasi terus berlangsung di masjid-masjid inovatif.
 
@@ -129,7 +129,7 @@ Meskipun Guru Gembul banyak asbunnya, setidaknya dia berani speakup terkait hal 
 
 Mereka berpikir bahwa menyentuh ranah agama itu *high risk* sehingga tidak ada yang berani melakukannya, dan negara-negara maju cenderung sekuler sehingga belum ada contoh terkait aspek ini, otomatis research nya sangat kurang secara kuantitas apalagi kualitas.
 
-Madilog Tan Malaka yang mendorong untuk mengurangi mistisisme tidak akan berhasil. [[Indonesia]] kaya akan budaya juga karena agama, sehingga jika ingin menghapus mistisisme, di mana banyak yang beririsan dengan keyakinan, justru richness nya bakal berkurang.
+Madilog Tan Malaka yang mendorong untuk mengurangi mistisisme tidak akan berhasil. Indonesia kaya akan budaya juga karena agama, sehingga jika ingin menghapus mistisisme, di mana banyak yang beririsan dengan keyakinan, justru richness nya bakal berkurang.
 
 Maka, satu-satunya yang bisa dilakukan adalah eksploitasi agama secara positif, dan menanamkan konsep-konsep Madilog dengan dasar-dasar dalil agama.
 
@@ -151,7 +151,7 @@ Secara kualitatif, banyak aspek dan faktor yang dapat diperbaiki yang tidak terl
 
 ---
 
-"Competition Is for Losers", contoh produk mimicking karena envy dengan Barat tapi implementasi gerakannya lambat dan terlihat stagnan: Budiman Sujatmiko ingin membuat Silicon Valley [[Indonesia]] yang centralized dan elitist. 
+"Competition Is for Losers", contoh produk mimicking karena envy dengan Barat tapi implementasi gerakannya lambat dan terlihat stagnan: Budiman Sujatmiko ingin membuat Silicon Valley Indonesia yang centralized dan elitist. 
 
 Padahal kita bisa membangun smart city yang lebih terdesentralisasi, egaliter, dengan pusatnya berasal dari tempat ibadah lokal, karang taruna, RT/RW jika kita dapat menghubungkan semua elemen ke dalam dunia digital, sehingga melibatkan tidak hanya orang-orang dengan background tech tinggi saja, tetapi semua aspek seperti agamawan juga terlibat, sehingga ada transfer pengetahuan yang baik di sana, bersifat kolaboratif. Ada reward & punishment di sistemnya agar berjalan terus.
 
@@ -225,7 +225,7 @@ Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, ta
 
 ### Pemberdayaan khawarij, Syiah, Ahmadiyah, [[Islam]] kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan [[Salafi]] Sufi
 
-Berbagai macam sekte agama diizinkan untuk beroperasi di [[Indonesia]], dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
+Berbagai macam sekte agama diizinkan untuk beroperasi di Indonesia, dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
 
 Orang [[Salafi]] berceramah dengan keras bahwa para NU banyak yang melakukan bidah. Para Muslim liberal berkata bahwa orang-orang [[Salafi]] terlalu fanatik dan tidak banyak berkontribusi pada dunia sehingga umat [[Islam]] kurang berhasil menjadi rahmatan lil alamin. Semuanya berdebat tiada habisnya, tetapi [[Salafi]] selalu menang dalam hal kemurnian agama karena memiliki [[Data]] yang dapat diandalkan dan sesuai dengan metodologi terdahulu, sehingga tetap masuk akal apabila mereka bisa mengkafirkan banyak orang. 
 

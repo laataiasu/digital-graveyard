@@ -16,7 +16,7 @@ The phrase "kullu nafsin daikotul maut" resonates, reminding us that every soul 
 
 Despite immersing myself in these perspectives, overcoming my [[Social Anxiety]] remains a challenge. I've made attempts to adapt and acclimate over months, if not years, without keeping exact track. Studying for my bachelor's degree in the bustling heart of Jakarta, a city teeming with life, has provided ample opportunities to navigate its bustling public transport system solo.
 
-Yet, having grown up in [[Indonesia]], a culture deeply rooted in social interactions, there lingers a touch of [[Social Anxiety]] whenever I find myself undertaking activities alone—particularly when it comes to dining in public spaces.
+Yet, having grown up in Indonesia, a culture deeply rooted in social interactions, there lingers a touch of [[Social Anxiety]] whenever I find myself undertaking activities alone—particularly when it comes to dining in public spaces.
 
 The question of which societal framework is superior—individualistic or social—persists. Each has its distinct traits, merits, and drawbacks. In cultures that prioritize social cohesion, like mine, navigating these nuances can be a rewarding but intricate endeavor.
 
@@ -46,7 +46,7 @@ but i still find it hard to cure my [[Social Anxiety]], i dont know.
 
 i try to adapt and make myself used to it for a couple of months or years, i didnt count or tracked it. but since i study for bachelor degree in near jakarta, big city with big populations, and the public transport is better, i could make myself used to go to anywhere alone, 
 
-but since i grew up in [[Indonesia]] which more inclined to social, there's something [[Social Anxiety]] whenever you do anything alone, especially when when i need to eat in the public restaturant or something.
+but since i grew up in Indonesia which more inclined to social, there's something [[Social Anxiety]] whenever you do anything alone, especially when when i need to eat in the public restaturant or something.
 
 and which one is better, whether country which is more individual or social, becuase each of them have different unique characteristics, pros and cons. but for social cultured
 

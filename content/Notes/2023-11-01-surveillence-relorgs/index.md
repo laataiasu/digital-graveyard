@@ -22,7 +22,7 @@ But my hypothesis is that the combination of any of these factors gives them a s
 
 ---
 
-I'm perverted to the extent that I need more of those. I not only need statistics about that particular group, but also about any other groups that exist, at least in [[Indonesia]]. I want to know what rituals they perform, what activities each group finds most enjoyable. I want to know more.
+I'm perverted to the extent that I need more of those. I not only need statistics about that particular group, but also about any other groups that exist, at least in Indonesia. I want to know what rituals they perform, what activities each group finds most enjoyable. I want to know more.
 
 Ahlu Sunnah, Khawarij, Shia, Murjia'ah, Mu'tazilah, Musyabbihah, Jahamiyyah, Dhirariyyah, Najjariyyah, Kilabiyyah, Ahmadiyah, JIL, Atheist, all groups affiliated with a system of belief, categories/clusters related to their organizational coverage, and their contributions to social, economic, and spiritual metrics.
 

@@ -33,7 +33,7 @@ i dont know why i want to reflect right now, maybe its because i am ~~unemployed
   - when pandemic happens, i feel grateful while most people suffer, because i dont want to be looked by others
     - in pandemic mostly i explore anything other than CS. 
     - i procrastinate a lot by trying a lot of things, numbing myself by internet, youtube, movies, gaming, read philosophy psychology[[Investment]]things like that.
-  - i missed the chance to get to know most brilliant CS students in [[Indonesia]]
+  - i missed the chance to get to know most brilliant CS students in Indonesia
 - i only take courses that is easy
   - IS is easier than CS, i took courses that i feel like can get myself faster to end the college
   - i try faster to end my college because i dont fit well. 

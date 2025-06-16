@@ -6,7 +6,7 @@ tags:
 - essay
 title: Hatred is 'Fitrah'
 ---
-Some gay people flee from [[Indonesia]], and I strongly despise them. They accuse me of homophobia just because I'm Muslim, and we insult each other.
+Some gay people flee from Indonesia, and I strongly despise them. They accuse me of homophobia just because I'm Muslim, and we insult each other.
 
 Insulting each other is 'fitrah'. A person mocking doesn't realize they are doing so. Examples include: Javanese with a thick accent, Sundanese, Batak's roughness, Malay style like Upin Ipin.
 

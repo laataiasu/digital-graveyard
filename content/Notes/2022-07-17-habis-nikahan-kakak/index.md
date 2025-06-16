@@ -12,7 +12,7 @@ Le nanya ke bapak,
 
 Tiba-tiba bapak cerita tentang orang spesialis sama generalis. Orang generalis kaya sistem informasi emang pengetahuannya luas, tapi kalo disuruh mendalami hal detail, utamanya detail produk atau service, biasanya belajarnya emang perlu lama, makanya kalo disuruh bersaing untuk hal kaya engineering, jarang manajemen milih orang generalis.
 
-Bapak tiba-tiba cerita lagi tentang temennya yg katanya C-Level Telkom. Telkom itu dulu inovator di [[Indonesia]], ga ada competitor sama sekali. Tapi zaman berkembang, makin susah ngeliat kebutuhan pasar…", terus cerita panjang lebar tentang teknis jaringan yang saya sama sekali ga ngerti.
+Bapak tiba-tiba cerita lagi tentang temennya yg katanya C-Level Telkom. Telkom itu dulu inovator di Indonesia, ga ada competitor sama sekali. Tapi zaman berkembang, makin susah ngeliat kebutuhan pasar…", terus cerita panjang lebar tentang teknis jaringan yang saya sama sekali ga ngerti.
 
 Terus cerita lagi, "Kalo menurut bapak, kasus yang jelek itu contohnya PTDI. Ada produk yang didesain buat kerjasama dengan TNI AU, tapi desainnya itu ga sampai selesai. Sampe sekarang juga belum selesai padahal udah lebih dari 20 tahunan. Akhirnya pas mau dilanjutin kesulitan karena sparepartnya sekarang udah mahal jarang ada yang produksi."
 
