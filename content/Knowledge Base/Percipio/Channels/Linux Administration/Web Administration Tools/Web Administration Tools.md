@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Web Administration Tools
 
 ## 1. Introduction to Nginx

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Intro
 
 Statistical Arbitrage is a trading strategy where you simultaneously buy and sell two related assets based on their price movements relative to each other. The goal is to profit from the differences in their behavior, assuming that any deviations from the expected relationship will eventually correct.

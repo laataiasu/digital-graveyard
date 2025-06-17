@@ -29,7 +29,7 @@ In our childhood, we used to exchange items like binders, showcasing our newest 
 
 Everything sought in a Faustian bargain... a deal with the devil...
 
-The main problem lies in the incentives, whether they lean towards social proof, knowledge, material possessions, or spirituality. Indonesia may struggle with innovation because the incentives are not heavily weighted in that direction. People have resources, so the economy becomes the primary focus. Then, what comes next? Information. Media outlets manipulate news using various personal biases.
+The main problem lies in the incentives, whether they lean towards [[Social Proof]], knowledge, material possessions, or spirituality. Indonesia may struggle with innovation because the incentives are not heavily weighted in that direction. People have resources, so the economy becomes the primary focus. Then, what comes next? Information. Media outlets manipulate news using various personal biases.
 
 The art of clear thinking, personal bias, and mental models are never taught in schools. The reasons behind this could be subject to further research.
 
@@ -82,7 +82,7 @@ he turns out looking for something, material things, to fill the hole. it's not 
 
 semua hal yang dicari untuk faustian bargain... deal with the devil...
 
-masalah utamanya terletak pada insentif, mana yang lebih dominan untuk social proof.
+masalah utamanya terletak pada insentif, mana yang lebih dominan untuk [[Social Proof]].
 
 ntah mau berat di knowledge, material, atau spiritual
 

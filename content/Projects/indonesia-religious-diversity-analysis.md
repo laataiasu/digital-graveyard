@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Indonesia Religious Diversity Analysis
 
 datanya dari https://id.wikipedia.org/wiki/Daftar_tokoh_Islam_Indonesia

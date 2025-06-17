@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
   
 ### Tipe Instance EC2
 - **General purpose instances** (Instance tujuan umum)

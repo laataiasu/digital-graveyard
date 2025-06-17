@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 - **AWS Cloud Adoption Framework (AWS CAF)**
     - AWS Cloud Adoption Framework dapat memberikan panduan migrasi dari beberapa perspektif:
     - Business, People, dan Governance untuk perencanaan nonteknis.

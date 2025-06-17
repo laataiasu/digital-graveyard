@@ -1,3 +1,4 @@
 ---
-Text: when you think the result gives you satisfaction, but it turns out you never know what you really want
+date: 1970-01-01T00:00:00Z
 ---
+

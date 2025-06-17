@@ -38,3 +38,8 @@ but i prefer follow instruktur senam arruhul jaddid.
 quraish shihab udah belajar tafsir puluhan tahun ttp ngerasa ga ngerti cok
 
 https://www.youtube.com/watch?v=r3utIP6xxxI
+
+---
+
+ I despise geniuses. They lack the beauty of accumulated effort.
+—Lügner to Graf Granat, in Chapter 17 [[Frieren]]

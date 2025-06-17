@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Time Series Risk Model Factor Variance
 
 Let's break down the process of using the market return as a single factor in the Risk Factor Model, and how we can calculate the portfolio variance using this information. We’ll do this step by step, using mathematical notation where applicable to make the concepts clear.

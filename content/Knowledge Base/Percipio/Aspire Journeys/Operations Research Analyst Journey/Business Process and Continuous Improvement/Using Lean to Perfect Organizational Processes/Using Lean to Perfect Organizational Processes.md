@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Using Lean to Perfect Organizational Processes
 
 Here’s a concise, organized version of the core learning content based on the topics you provided:

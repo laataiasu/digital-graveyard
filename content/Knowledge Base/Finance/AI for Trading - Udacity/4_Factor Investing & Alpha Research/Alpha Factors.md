@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Overview of Alpha Factors and Efficient Market Hypothesis (EMH)
 
 Welcome to the exciting journey of transforming your hypotheses into code and testing them against real-world data! In this lesson, we'll dive deep into **alpha factors**, which are key tools that help predict how stocks might perform relative to each other.

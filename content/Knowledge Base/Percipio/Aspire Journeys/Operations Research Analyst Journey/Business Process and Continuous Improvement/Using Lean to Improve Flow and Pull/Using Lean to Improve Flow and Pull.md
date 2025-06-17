@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Using Lean to Improve Flow and Pull
 
 Here's the content reformatted for clearer learning:

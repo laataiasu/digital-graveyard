@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Advanced Kubernetes Concepts and Practices
 
 - [[Kubernetes Manifests, Declaratives, & Imperatives]]

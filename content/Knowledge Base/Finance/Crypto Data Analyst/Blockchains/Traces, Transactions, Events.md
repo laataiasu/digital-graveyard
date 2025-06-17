@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## Tracking, Functions, and Events in Blockchains
 
 In the realm of blockchain technology, understanding how to track transactions, utilize functions, and manage events is crucial. This knowledge not only helps in building decentralized applications (DApps) but also in analyzing and ensuring the integrity of blockchain operations. Below, we delve into these concepts, providing a comprehensive guide that can be used as a reference or tutorial.

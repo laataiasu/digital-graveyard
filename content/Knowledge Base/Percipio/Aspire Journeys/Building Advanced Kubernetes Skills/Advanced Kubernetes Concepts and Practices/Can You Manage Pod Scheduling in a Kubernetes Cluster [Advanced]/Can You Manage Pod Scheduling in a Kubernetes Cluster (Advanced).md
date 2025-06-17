@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Can You Manage Pod Scheduling in a Kubernetes Cluster [Advanced]
 
 ## 1

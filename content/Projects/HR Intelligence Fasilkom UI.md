@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Ide Proyek Data Related
 Proyek data engineering untuk menganalisis sumber daya manusia pada suatu organisasi, dalam kasus ini mahasiswa atau mantan mahasiswa Fasilkom UI.
 ## Tujuan dan Manfaat

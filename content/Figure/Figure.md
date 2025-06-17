@@ -1,4 +1,0 @@
----
-publish_external: true
----
-

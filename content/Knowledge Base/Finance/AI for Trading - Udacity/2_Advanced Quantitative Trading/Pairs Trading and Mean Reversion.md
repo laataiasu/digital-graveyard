@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Intro 
 
 ### Introduction to Mean Reversion and Co-integration in Trading

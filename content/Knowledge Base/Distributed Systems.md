@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## Overview
 
 A **distributed system** is a collection of independent computers (nodes or machines) that appears to its users as a single coherent system. These machines communicate and coordinate their actions by passing messages over a network. Distributed systems are used to improve performance, scalability, fault tolerance, and availability.

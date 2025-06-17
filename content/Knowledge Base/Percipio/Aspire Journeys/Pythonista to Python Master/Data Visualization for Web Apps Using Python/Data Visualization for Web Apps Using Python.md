@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Visualization for Web Apps Using Python
 
 - [[Visualizing and Analyzing Data Using Seaborn]]

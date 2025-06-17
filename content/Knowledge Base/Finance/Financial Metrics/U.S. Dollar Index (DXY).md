@@ -1,8 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 tags: economics
 ---
-
-
 The U.S. Dollar Index (DXY) is calculated using a weighted geometric mean of the dollar's value relative to a basket of six major currencies. Here's the detailed mathematical formula used to calculate the DXY:
 
 $$ \text{DXY} = 50.14348112 \times \left( \text{EUR/USD} \right)^{-0.576} \times \left( \text{USD/JPY} \right)^{0.136} \times \left( \text{GBP/USD} \right)^{-0.119} \times \left( \text{USD/CAD} \right)^{0.091} \times \left( \text{USD/SEK} \right)^{0.042} \times \left( \text{USD/CHF} \right)^{0.036} $$

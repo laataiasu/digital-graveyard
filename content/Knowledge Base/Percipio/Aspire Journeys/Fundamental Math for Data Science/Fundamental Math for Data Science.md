@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Fundamental Math for Data Science
 
 - Track 1: [[Descriptive Statistics and Probability/Descriptive Statistics and Probability]]

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # GCP Data Engineer Pro
 
 1. [[Designing data processing systems]]

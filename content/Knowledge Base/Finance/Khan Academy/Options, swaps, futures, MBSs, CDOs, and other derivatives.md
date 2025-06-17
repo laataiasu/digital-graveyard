@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # [**Forward and futures contracts**](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction)
 ## **Forward contract introduction**
 - Apple farmer produces one million pounds of apples annually.
@@ -71,13 +75,13 @@
 - Contango in the market means the commodity is cheaper on the Spot Market today than in the future through Futures or Forward Contracts.
 - Example: Gold is $1,500 per ounce today, but a Futures Contract for one year later could be $1,600 per ounce, indicating Contango.
 - In Contango, traders may prefer entering Futures Contracts for long-term investments, avoiding immediate purchase costs and storage expenses.
-- Opportunity cost and storage costs are factors influencing the choice between buying in the Spot Market or entering into Futures Contracts.
+- [[Opportunity Cost]] and storage costs are factors influencing the choice between buying in the Spot Market or entering into Futures Contracts.
 - Contango is common for commodities like gold, where long-term investment and storage considerations are relevant.
 - Severe Contango, like a significant price difference between current and future prices, may occur with consumable commodities like oil.
 - Severe Contango might be due to market dynamics, such as a surplus in the current oil market or perceived future shortages.
 - Severe Contango is unusual, and minor Contango is more common, allowing for potential arbitrage opportunities.
 ## **Severe contango generally bearish**
-- Contango is normal, considering opportunity cost and storage cost for commodities.
+- Contango is normal, considering [[Opportunity Cost]] and storage cost for commodities.
 - Severe Contango, where the spot price is significantly lower than the future's price, is less usual and implies a bearish signal.
 - Severe Contango suggests a perceived surplus in the spot market or an anticipated future shortage.
 - It is important to note that a single signal like Contango shouldn't be solely relied upon for market predictions.

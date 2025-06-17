@@ -1,10 +1,10 @@
 ---
+date: 1970-01-01T00:00:00Z
 title: About
 icon: fas fa-info
 order: 4
 publish_external: False
 ---
-
 Kata itu tidak pernah membenci dan menyalahkan siapa pun. Maka apabila ada kata-kata yang terlihat begitu, minta ampunlah pada diri sendiri karena diri itu menipu kita semua dengan kejeniusannya. Bukannya si jenius diri itu jelek, tapi jenius seringkali tidak dibutuhkan para pembodoh. Karena kita adalah pembodoh, maka selalu minta ampunlah pada diri, agar diri tidak menipu kita sehingga dapat tampak kebenaran kata-kata yang tidak pernah dengan sombong membenci, dan menyalahkan apa-apa dan siapa-siapa.
 
 Tulisan saya memang seperti tulisan remaja FB sok edgy tahun 2010an. Tapi beginilah bentukan saya, "you are what you eat" and I eat trash everyday. Jadi jangan harap tulisan ini sejernih tulisan [[Mohammad Hatta|Hatta]] yang diisikan [[Islam]] dan [[Philosophy|filsafat]], atau tulisan [[Emha Ainun Nadjib|Cak Nun]] yang piawai menggabungkan budaya dan [[Islam]], atau [[Muhammad Iqbal]] dengan gaya aforisme ala penyairnya, atau [[Abdurrahman Wahid|Gus Dur]] dengan komedi pluralitas yang mendamaikannya, atau [[Al-Ghazali]] <3 [[Ibnu Rusyd|Averröes]] dengan rasionalitas metafisiknya, atau [[Ibn Taymiyya|Ibnu Taimiyah]] yang piawai menghancurkan kesesatan ilmu kalam dan para filsuf, atau [[Avempace|Ibnu Bajjah]] dengan manusia alpha, [[Ghuraba|ghuraba]]-nya, atau siapa pun yang tulisannya aneh dan tidak dapat secara praktis diaplikasikan pada pembuatan roket untuk dapat memigrasi manusia menuju planet lain.

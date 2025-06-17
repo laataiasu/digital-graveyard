@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 1. **Bitcoin (BTC):** the original. According to the creator (or creators?) Satoshi Nakamoto, it was created to allow “online payments to be sent directly from one party to another without going through a financial institution.”
 2. **Ethereum (ETH):** Ethereum is the wonder child of crypto, acts as an infrastructure for most decentralized applications. Introduces smart contracts, which are like programs with specific procedures that, once deployed, no one can change.
 3. **Tether (USDT):** a centralized stablecoin tied to the dollar (so Elon, please don’t try to pump it)

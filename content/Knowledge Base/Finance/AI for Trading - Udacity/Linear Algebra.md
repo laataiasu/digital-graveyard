@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Essence of Linear Algebra: Introduction
 
 **Common Issues in Learning Linear Algebra**

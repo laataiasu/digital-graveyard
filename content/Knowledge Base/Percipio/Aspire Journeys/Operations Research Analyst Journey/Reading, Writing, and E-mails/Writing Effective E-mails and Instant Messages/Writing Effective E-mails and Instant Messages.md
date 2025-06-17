@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Writing Effective E-mails and Instant Messages
 
 Here’s a concise summary of key points from the videos on email and instant messaging etiquette:

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## Simple and compound interest
 **Definition**. An amount $A$ invested for n periods at a **simple interest** rate of $r$per period is worth $A(1 + n r)$ at maturity.
 **Definition**. An amount $A$ invested for n periods at a **compound interest** rate of $r$ per period is worth $A(1 +r)^n$ at maturity.

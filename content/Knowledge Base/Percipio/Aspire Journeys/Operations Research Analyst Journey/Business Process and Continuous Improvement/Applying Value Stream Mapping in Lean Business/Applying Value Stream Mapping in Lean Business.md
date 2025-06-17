@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Applying Value Stream Mapping in Lean Business
 
 ### Value Stream Mapping: Core Concepts

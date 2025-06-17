@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Analyst to Data Scientist
 
 Track 1: [[Data Analyst DA2DS]]

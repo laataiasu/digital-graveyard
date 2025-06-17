@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 draft: true
 ---
-
 Notes on Idleness
 
 Catatan kemalasan: Seni dan anti panduan untuk yang merasa bukan normal

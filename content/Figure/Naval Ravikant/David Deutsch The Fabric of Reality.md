@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # David Deutsch and Naval Ravikant — The Fabric of Reality And Much More | The Tim Ferriss Show
 
 ### Key Learning Points

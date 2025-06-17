@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## Contracts, prices, and no-arbitrage
 Consider the following contract
 - Pay price $p$ at time $t = 0$

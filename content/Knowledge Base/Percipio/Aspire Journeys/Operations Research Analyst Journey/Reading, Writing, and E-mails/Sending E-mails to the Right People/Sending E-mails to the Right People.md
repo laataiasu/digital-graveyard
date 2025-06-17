@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Sending E-mails to the Right People
 
 Sure! Here's a summary of the key points from your e-mail communication guidelines:

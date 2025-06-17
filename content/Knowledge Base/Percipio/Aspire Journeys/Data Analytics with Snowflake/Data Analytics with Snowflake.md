@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Analytics with Snowflake
 
 [[Data Infrastructure with Snowflake]]

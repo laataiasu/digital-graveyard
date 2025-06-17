@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Camunda **does not natively support "code-as-diagram" syntax like Mermaid**, where you write textual code and automatically render a diagram. Camunda BPMN diagrams are typically created using **drag-and-drop graphical tools**, such as:
 
 * **Camunda Modeler** (official desktop app)

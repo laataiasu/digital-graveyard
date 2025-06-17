@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Generative Modeling Foundations
 
 ### Generative Models
@@ -294,7 +298,7 @@ Generative models, particularly GANs, are pivotal for creating new data instance
 - **Functionality:**
   - The generator aims to produce realistic data to fool the discriminator, which acts as a classifier. This adversarial process leads to improved data generation capabilities.
 - **Example:**
-  - Tools like ChatGPT utilize GAN principles for generating human-like text.
+  - Tools like [[ChatGPT]] utilize GAN principles for generating human-like text.
 
 #### 6. **Variational Autoencoders (VAEs)**
 - **Architecture:**

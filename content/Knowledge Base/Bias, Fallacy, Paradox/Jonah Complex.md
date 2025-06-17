@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Jonah Complex
 
 The **Jonah Complex** is a psychological concept introduced by humanistic psychologist **Abraham Maslow**. It refers to the **fear of one's own greatness, success, or potential**. Essentially, it's the internal resistance people experience when they are on the verge of achieving something extraordinary or stepping into their full capabilities.

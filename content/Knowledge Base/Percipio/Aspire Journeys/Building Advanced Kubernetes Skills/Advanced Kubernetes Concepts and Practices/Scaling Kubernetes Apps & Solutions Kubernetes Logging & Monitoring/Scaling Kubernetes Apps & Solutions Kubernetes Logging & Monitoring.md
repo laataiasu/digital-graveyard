@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Scaling Kubernetes Apps & Solutions Kubernetes Logging & Monitoring
 
 ## What's Involved in Application Logging & Monitoring

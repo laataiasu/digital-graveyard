@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Operational Databases  
 Pros: Excellent for operations, no redundancy, high integrity  
 Cons: Too slow for analytics, Too hard to understand  
@@ -13,10 +17,10 @@ Data Warehouse: subject-oriented, integrated, nonvolatile, time-variant
 #### OLTP vs OLAP
 | OLTP               | OLAP                             |
 | ------------------ | -------------------------------- |
-| [[Transactional]]  | Analytical                       |
-| [[Performance]]    | Perlu banyak query/join          |
-| [[No redundancy]]  | Sulit dipahami                   |
-| [[High integrity]] | As long as can generate analysis |
+| Transactional  | Analytical                       |
+| Performance    | Perlu banyak query/join          |
+| No redundancy  | Sulit dipahami                   |
+| High integrity | As long as can generate analysis |
   
   
 ## Fact or Dimension Table

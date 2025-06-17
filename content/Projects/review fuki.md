@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 - jujur aja gw kecewa sm fuki
 - Kita ga punya kapasitas dakwah yg mumpuni, liat backround
 - namanya UI tapi yang diliat cuman fasilkom, ga sampe ke dunia

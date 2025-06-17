@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Illuminati Content Detection
 [https://www.kaggle.com/c/illuminati-content-detection](https://www.kaggle.com/c/illuminati-content-detection)
 ---

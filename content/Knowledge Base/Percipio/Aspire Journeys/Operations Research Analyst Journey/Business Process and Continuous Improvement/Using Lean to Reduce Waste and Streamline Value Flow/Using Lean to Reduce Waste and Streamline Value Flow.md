@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Using Lean to Reduce Waste and Streamline Value Flow
 
 Here's a streamlined version of the content, focusing on the core learning points:

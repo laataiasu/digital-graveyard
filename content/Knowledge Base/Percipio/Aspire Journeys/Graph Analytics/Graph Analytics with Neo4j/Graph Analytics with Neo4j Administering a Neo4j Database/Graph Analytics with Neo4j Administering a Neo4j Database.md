@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Graph Analytics with Neo4j Administering a Neo4j Database
 
 ### Creating Projects in Neo4j Desktop

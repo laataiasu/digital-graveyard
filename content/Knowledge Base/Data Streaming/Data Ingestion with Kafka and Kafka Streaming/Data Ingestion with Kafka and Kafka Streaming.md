@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Ingestion with Kafka and Kafka Streaming
 
 - [[Introduction to Stream Processing]]

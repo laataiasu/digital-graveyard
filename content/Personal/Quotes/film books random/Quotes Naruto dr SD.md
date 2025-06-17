@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 1. “Kalau mau saling mengerti, lakukan saja setelah membuat lawan mengalami hal yang sama” (Yahiko, chapter 372)
 2. “Aku hanya ingin melindungi mereka, walau harus menjalani penderitaan seperti apapun” (Nagato, chapter 373)
 3. “Penderitaan membuatku semakin kuat dan berkembang” (Pain, chapter 474)

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # KSQL
 
 ## Glossary of Terms for Lesson

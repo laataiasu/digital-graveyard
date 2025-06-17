@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Managing Snowflake Administering a Snowflake Account
 
 Which query can you use to restore a modified parameter to its original value?

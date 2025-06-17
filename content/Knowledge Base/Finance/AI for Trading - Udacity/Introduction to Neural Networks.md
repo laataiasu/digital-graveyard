@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Introduction to Deep Learning
 
 #### What is Deep Learning and What is it Used For?

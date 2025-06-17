@@ -35,7 +35,7 @@ It’s essentially a digitization of the mosque—or any religious system—so w
 
 The idea is basically AI totalitarianism, but in a more open way. I wasted a bit of time being obsessed with this, but I think it would fail since it's a top-down approach. So, I’ve postponed or maybe dropped it. Still, I really wish something like this could exist.
 
-You can check out the full writing [[Notes/Akselerasi Smart City Melalui Masjid Berprestasi/index|here]].
+You can check out the full writing [[Akselerasi Smart City Melalui Masjid Berprestasi|here]].
 
 ### Ethical Buying Platform
 

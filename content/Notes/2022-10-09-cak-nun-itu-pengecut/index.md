@@ -20,7 +20,7 @@ Apabila ingin cocoklogi sedikit anda bisa mengaitkan ini dengan mass psychosis. 
 
 ![[https://youtu.be/09maaUaRT4M]]
 
-Sebenarnya saya menulis ini salah satunya akibat webtooon Dr. Frost oleh JongBeom Lee. 
+Sebenarnya saya menulis ini salah satunya akibat webtooon [[Dr. Frost]] oleh JongBeom Lee. 
 
 Apabila ingin memutus rantai gejala ini, sebenarnya ada berbagai alternatif yang dapat dilakukan. 
 

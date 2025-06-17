@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Syllabus
 1. Probability: review of laws probability; common distributions of financial mathematics; CLT, LLN, characteristic functions, asymptotics.
 2. Statistics: statistical inference and hypothesis tests; time series tests and econometric analysis; regression methods

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # AI for Trading - Udacity
 
 Course 1: [[1_Basic Quantitative Trading]]

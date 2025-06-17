@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Graph Data Science with Neo4j
 
 - [[Building Graphs with Neo4j's Graph Data Science Library]]

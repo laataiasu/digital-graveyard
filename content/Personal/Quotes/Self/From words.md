@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 - Lebih baik menodongkan pisau ke arahku daripada bersikap seperti ini, karena hal paling buruk di dunia adalah memanfaatkan ketulusan hati orang lain
 - Walaupun melihat hidup orang lain lebih baik, percayalah semuanya memiliki kekurangan
 - Tak ada yang lebih bosan dan menganggap lebih murahan dibandingkan sesuatu yang sudah milik mereka sejak dulu

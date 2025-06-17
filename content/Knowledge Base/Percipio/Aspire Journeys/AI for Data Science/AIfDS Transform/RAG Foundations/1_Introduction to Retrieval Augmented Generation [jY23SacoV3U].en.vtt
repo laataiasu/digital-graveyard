@@ -11,7 +11,7 @@ Before we dive into&nbsp;what RAG is, we need to first discuss the&nbsp;
 common shortcomings of generative language&nbsp;models.
 
 00:00:14.739 --> 00:00:23.757
-Generative language models have picked&nbsp;up quite a bit of traction and use cases since&nbsp;2002 with the advent of ChatGPT.
+Generative language models have picked&nbsp;up quite a bit of traction and use cases since&nbsp;2002 with the advent of [[ChatGPT]].
 
 00:00:23.757 --> 00:00:30.183
 Their ability to&nbsp;answer questions and complete tasks with a simple&nbsp;prompt
@@ -37,7 +37,7 @@ not factually answer user&nbsp;questions.
 Making matters worse, chatbots don't&nbsp;attribute their knowledge.
 
 00:01:07.771 --> 00:01:17.830
-By default, ChatGPT&nbsp;does not cite any external knowledge sources when&nbsp;it makes factual claims, we'd have to verify the&nbsp;information, ourselves.
+By default, [[ChatGPT]]&nbsp;does not cite any external knowledge sources when&nbsp;it makes factual claims, we'd have to verify the&nbsp;information, ourselves.
 
 00:01:17.830 --> 00:01:21.301
 Additionally, knowledge cut-offs can leave them outdated.

@@ -1,23 +1,27 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Prompt Engineering for Data Science
 
 Question: Lisa is a data analyst working on a project that involves extensive data manipulation using Python and pandas. She has a large dataset containing information about customer transactions, including details such as transaction date, customer ID, product purchased, and transaction amount. Her goal is to perform various data manipulations, including filtering data based on specific criteria, sorting the DataFrame based on different columns, and iterating through the rows to perform custom operations.
  
-Which method should she use to leverage ChatGPT for iterating through the rows and sorting DataFrames in Python, particularly focusing on basic data manipulation tasks?
+Which method should she use to leverage [[ChatGPT]] for iterating through the rows and sorting DataFrames in Python, particularly focusing on basic data manipulation tasks?
 Result: Correct. Great job! 
 
-Use ChatGPT to generate high-level algorithmic approaches for iterating over DataFrame rows and sorting to implement the logic using pandas functions
+Use [[ChatGPT]] to generate high-level algorithmic approaches for iterating over DataFrame rows and sorting to implement the logic using pandas functions
 Not selected
 Good job, you chose not to select this option.
 
-Use ChatGPT to generate custom Python code snippets for iterating over DataFrame rows and apply them to enhance the data processing logic
+Use [[ChatGPT]] to generate custom Python code snippets for iterating over DataFrame rows and apply them to enhance the data processing logic
 Not selected
 Good job, you chose not to select this option.
 
-Use ChatGPT to provide specific code examples for sorting DataFrames based on multiple columns and iterate over rows with enhanced efficiency
+Use [[ChatGPT]] to provide specific code examples for sorting DataFrames based on multiple columns and iterate over rows with enhanced efficiency
 Selected
 Good job, you selected this correct option.
 
-Use ChatGPT to recommend pandas functions and methods suitable for iterating over DataFrame rows and sorting data efficiently
+Use [[ChatGPT]] to recommend pandas functions and methods suitable for iterating over DataFrame rows and sorting data efficiently
 
 ---
 
@@ -213,23 +217,23 @@ Selected
 Good job, you selected this correct option.
 
 ---
-Bill is a data scientist working on a complex project. He needs to merge and concatenate multiple DataFrames efficiently to derive meaningful insights, using pandas in Python. He plans on leveraging ChatGPT AI to assist in this task.
+Bill is a data scientist working on a complex project. He needs to merge and concatenate multiple DataFrames efficiently to derive meaningful insights, using pandas in Python. He plans on leveraging [[ChatGPT]] AI to assist in this task.
 
 Which approach would be most effective for combining DataFrames and debugging issues related to pd.concat?
 
 Result: Correct. Great job! 
 
-Use ChatGPT to generate specific prompts for the pd.concat function, guiding it to offer insights into potential debugging strategies
+Use [[ChatGPT]] to generate specific prompts for the pd.concat function, guiding it to offer insights into potential debugging strategies
 Selected
 Correct answer.
 
-Use ChatGPT to draft custom error messages related to pd.concat issues and use them as prompts for iterative debugging
+Use [[ChatGPT]] to draft custom error messages related to pd.concat issues and use them as prompts for iterative debugging
 Not selected. Not selected is correct.
 
-Use ChatGPT to create a script that automates the process of combining DataFrames, with embedded error-checking mechanisms for pd.concat issues
+Use [[ChatGPT]] to create a script that automates the process of combining DataFrames, with embedded error-checking mechanisms for pd.concat issues
 Not selected. Not selected is correct.
 
-Use ChatGPT to generate concise documentation snippets explaining the nuances of using pd.concat for DataFrame concatenation, focusing on common pitfalls and solutions
+Use [[ChatGPT]] to generate concise documentation snippets explaining the nuances of using pd.concat for DataFrame concatenation, focusing on common pitfalls and solutions
 
 ---
 
@@ -337,7 +341,7 @@ T Displays a histogram of the engineered feature with a kernel density estimate
 Presents a boxplot showcasing the distribution of the engineered feature
 
 ---
-The data scientist of a large E-Commerce platform is working on a project that involves merging two datasets on multiple columns and validating the relationships between them. The datasets represent information about customers and their purchases. His goal is to create a merged dataset that combines relevant information from both datasets and ensure the integrity of the relationships between the columns. His team decides to use ChatGPT AI to assist in this task. He has the following code snippets.
+The data scientist of a large E-Commerce platform is working on a project that involves merging two datasets on multiple columns and validating the relationships between them. The datasets represent information about customers and their purchases. His goal is to create a merged dataset that combines relevant information from both datasets and ensure the integrity of the relationships between the columns. His team decides to use [[ChatGPT]] AI to assist in this task. He has the following code snippets.
 
 
 Which code snippet can he use to perform merge on multiple columns and validate relationships?
@@ -409,7 +413,7 @@ merged_dataset = pd.merge(customer_data, purchase_data, on=['customer_id', 'purc
 
 --- 
 
-The data scientist of a large E-Commerce platform is working on a project that involves merging two datasets on multiple columns and validating the relationships between them. The datasets represent information about customers and their purchases. His goal is to create a merged dataset that combines relevant information from both datasets and ensure the integrity of the relationships between the columns. His team decides to use ChatGPT AI to assist in this task. He has the following code snippets.
+The data scientist of a large E-Commerce platform is working on a project that involves merging two datasets on multiple columns and validating the relationships between them. The datasets represent information about customers and their purchases. His goal is to create a merged dataset that combines relevant information from both datasets and ensure the integrity of the relationships between the columns. His team decides to use [[ChatGPT]] AI to assist in this task. He has the following code snippets.
 
 
 Which code snippet can he use to perform merge on multiple columns and validate relationships?
@@ -496,7 +500,7 @@ df['Total'].fillna(df['Quantity'] * df['Price'], inplace=True)
 
 print(df)
 
-She is using the ChatGPT to get the output of the given code snippet. What will be the response of ChatGPT?
+She is using the [[ChatGPT]] to get the output of the given code snippet. What will be the response of [[ChatGPT]]?
 
 Result: Incorrect. The correct answer is indicated. 
 
@@ -627,23 +631,23 @@ Date
 Instruction: Choose the option that best answers the question. 
 
 ---
-Anna is a data scientist working on a large dataset containing information about customer transactions on an e-commerce platform. Her task is to perform grouped aggregations using pandas in Python to extract meaningful insights. The current challenge she faces is related to optimizing the aggregation function for a specific customer segment. She decides to leverage ChatGPT to enhance her understanding and streamline the process.
+Anna is a data scientist working on a large dataset containing information about customer transactions on an e-commerce platform. Her task is to perform grouped aggregations using pandas in Python to extract meaningful insights. The current challenge she faces is related to optimizing the aggregation function for a specific customer segment. She decides to leverage [[ChatGPT]] to enhance her understanding and streamline the process.
 
 Which approach should she choose to overcome this hurdle?
 
 Result: Incorrect. The correct answer is indicated. 
 
-Use ChatGPT to generate a custom aggregation function tailored to the characteristics of the target customer segment
+Use [[ChatGPT]] to generate a custom aggregation function tailored to the characteristics of the target customer segment
 Not selected. Not selected is correct.
 
-Use ChatGPT to analyze the dataset and suggest potential feature engineering techniques before performing the grouped aggregations
+Use [[ChatGPT]] to analyze the dataset and suggest potential feature engineering techniques before performing the grouped aggregations
 Selected
 Incorrect answer.
 
-Use ChatGPT to identify the most relevant grouping variables that can enhance the granularity of the aggregations for the target customer segment
+Use [[ChatGPT]] to identify the most relevant grouping variables that can enhance the granularity of the aggregations for the target customer segment
 Not selected. Not selected is correct.
 
-Use ChatGPT to seek clarifications on the appropriate pandas method to handle complex aggregations for the specified customer segment
+Use [[ChatGPT]] to seek clarifications on the appropriate pandas method to handle complex aggregations for the specified customer segment
 Not selected
 Correct answer.
 
@@ -721,9 +725,9 @@ dtypes: int64(1), object(2)
 memory usage: 200.0+ bytes
 
 ---
-Luca is data scientist working on a complex project that involves analyzing large datasets using Python's pandas library. In the process of optimizing his workflow, he decides to leverage ChatGPT for prompt engineering to iterate over and sort DataFrames efficiently. He has a DataFrame named "sales_data" with columns: 'Date', 'Product', 'Quantity', and 'Revenue'. His goal is to sort the DataFrame based on the 'Date' column in ascending order and then within each date, sort the 'Revenue' column in descending order.
+Luca is data scientist working on a complex project that involves analyzing large datasets using Python's pandas library. In the process of optimizing his workflow, he decides to leverage [[ChatGPT]] for prompt engineering to iterate over and sort DataFrames efficiently. He has a DataFrame named "sales_data" with columns: 'Date', 'Product', 'Quantity', and 'Revenue'. His goal is to sort the DataFrame based on the 'Date' column in ascending order and then within each date, sort the 'Revenue' column in descending order.
 
-Which prompt should he use to efficiently achieve this task using ChatGPT?
+Which prompt should he use to efficiently achieve this task using [[ChatGPT]]?
 
 Result: Correct. Great job! 
 
@@ -766,7 +770,7 @@ fig.update_layout(
 
 fig.show()
 
-Adam asks the ChatGPT for modification to enhance the interactivity of the time series visualization. Which modification would ChatGPT suggest?
+Adam asks the [[ChatGPT]] for modification to enhance the interactivity of the time series visualization. Which modification would [[ChatGPT]] suggest?
 
 Instruction: Choose the option that best answers the question. 
 
@@ -780,25 +784,25 @@ T Replace hovermode='x unified' with hovermode='closest'
 
 ---
 
-William is data scientist working on a project that involves visualizing time series data to derive insights for a major financial institution. The dataset contains information about stock prices, trading volumes, and market trends over the past decade. He decides to use ChatGPT to generate meaningful visualizations. The dataset is vast and complex, requiring precise instructions for effective visualization.
+William is data scientist working on a project that involves visualizing time series data to derive insights for a major financial institution. The dataset contains information about stock prices, trading volumes, and market trends over the past decade. He decides to use [[ChatGPT]] to generate meaningful visualizations. The dataset is vast and complex, requiring precise instructions for effective visualization.
 
 
  
 
 
-Which approach should he choose to formulate a prompt for ChatGPT to generate insightful visualizations?
+Which approach should he choose to formulate a prompt for [[ChatGPT]] to generate insightful visualizations?
 
 Result: Partially correct. The correct answers are indicated. 
 
-Incorporate domain-specific jargon and terminology in the prompt to ensure ChatGPT understands the context
+Incorporate domain-specific jargon and terminology in the prompt to ensure [[ChatGPT]] understands the context
 Selected
 Good job, you selected this correct option.
 
-Formulate a prompt instructing ChatGPT to highlight specific patterns in stock prices over the past year
+Formulate a prompt instructing [[ChatGPT]] to highlight specific patterns in stock prices over the past year
 Not selected
 Sorry, you should have selected this option.
 
-Craft a prompt asking ChatGPT to visualize overall trends in the entire dataset
+Craft a prompt asking [[ChatGPT]] to visualize overall trends in the entire dataset
 Not selected
 Good job, you chose not to select this option.
 
@@ -1051,7 +1055,7 @@ Correct answer.
 
 ---
 
-Jason is a data scientist working on a complex project that involves analyzing a large dataset using the pandas library in Python. His goal is to identify and remove duplicate entries from the dataset to ensure the accuracy of the analysis. He decides to leverage the power of ChatGPT to improve the approach of using pandas for duplicate removal.
+Jason is a data scientist working on a complex project that involves analyzing a large dataset using the pandas library in Python. His goal is to identify and remove duplicate entries from the dataset to ensure the accuracy of the analysis. He decides to leverage the power of [[ChatGPT]] to improve the approach of using pandas for duplicate removal.
 
 
  
@@ -1061,11 +1065,11 @@ Which approach should he follow?
 
 Result: Partially correct. The correct answers are indicated. 
 
-Provide a detailed description of your dataset and ask ChatGPT to generate a comprehensive script that covers both identification and removal of duplicates
+Provide a detailed description of your dataset and ask [[ChatGPT]] to generate a comprehensive script that covers both identification and removal of duplicates
 Selected
 Sorry, you should not have selected this option.
 
-Seek general advice from ChatGPT on the principles of data deduplication and then manually translate the guidance into pandas code for the specific dataset
+Seek general advice from [[ChatGPT]] on the principles of data deduplication and then manually translate the guidance into pandas code for the specific dataset
 Not selected
 Good job, you chose not to select this option.
 
@@ -1073,7 +1077,7 @@ Experiment with different prompt variations, focusing on verbosity and specifici
 Selected
 Good job, you selected this correct option.
 
-Formulate a prompt that explicitly instructs ChatGPT to generate code snippets for identifying duplicate entries based on a specific column in the pandas DataFrame
+Formulate a prompt that explicitly instructs [[ChatGPT]] to generate code snippets for identifying duplicate entries based on a specific column in the pandas DataFrame
 Selected
 Good job, you selected this correct option.
 
@@ -1097,21 +1101,21 @@ Correct answer.
 
 William is a data analyst working on a complex analysis project. He has a large dataset containing information about customer transactions. The DataFrame, named "customer_data," has columns such as 'Customer_ID,' 'Transaction_Date,' 'Product_ID,' 'Quantity,' 'Price,' and 'Payment_Method.' He needs to create a new DataFrame that includes only the relevant columns for analysing the customer needs and requirements.
 
-Which prompt should William use with ChatGPT AI for dropping and selecting columns from the DataFrame?
+Which prompt should William use with [[ChatGPT]] AI for dropping and selecting columns from the DataFrame?
 
 Result: Correct. Great job! 
 
-Prompt: "Choose 'Transaction_Date,' 'Product_ID,' and 'Payment_Method' columns from the DataFrame 'customer_data' while dropping the rest, using ChatGPT AI to streamline the process."
+Prompt: "Choose 'Transaction_Date,' 'Product_ID,' and 'Payment_Method' columns from the DataFrame 'customer_data' while dropping the rest, using [[ChatGPT]] AI to streamline the process."
 Not selected. Not selected is correct.
 
-Prompt: "Drop unnecessary columns and select only 'Customer_ID,' 'Transaction_Date,' and 'Quantity' columns from the DataFrame 'customer_data' using ChatGPT AI."
+Prompt: "Drop unnecessary columns and select only 'Customer_ID,' 'Transaction_Date,' and 'Quantity' columns from the DataFrame 'customer_data' using [[ChatGPT]] AI."
 Selected
 Correct answer.
 
-Prompt: "Retain only 'Product_ID' and 'Price' columns in the DataFrame 'customer_data' by using ChatGPT AI for efficient column manipulation."
+Prompt: "Retain only 'Product_ID' and 'Price' columns in the DataFrame 'customer_data' by using [[ChatGPT]] AI for efficient column manipulation."
 Not selected. Not selected is correct.
 
-Prompt: "Optimize the DataFrame 'customer_data' by selecting 'Quantity' and 'Payment_Method' columns only, excluding the others, through ChatGPT AI prompt engineering."
+Prompt: "Optimize the DataFrame 'customer_data' by selecting 'Quantity' and 'Payment_Method' columns only, excluding the others, through [[ChatGPT]] AI prompt engineering."
 
 ---
 William is working as a Data Engineer at a leading tech company. His team is tasked with processing a large dataset containing information about software development projects. The dataset is stored in a pandas DataFrame named projects_data, and includes columns such as 'project_name', 'start_date', 'end_date', and 'programming_language'. The team has developed the following code snippet to filter the data.
@@ -1217,7 +1221,7 @@ Not selected
 Sorry, you should have selected this option.
 
 ---
-Jason is a data scientist working on a project that involves analyzing the relationship between two features, Feature_A and Feature_B, in a dataset. He decides to use ChatGPT's recommendations for bivariate visualizations to gain insights. He has developed the following code snippet for it.
+Jason is a data scientist working on a project that involves analyzing the relationship between two features, Feature_A and Feature_B, in a dataset. He decides to use [[ChatGPT]]'s recommendations for bivariate visualizations to gain insights. He has developed the following code snippet for it.
 
 
 1. import pandas as pd
@@ -1244,7 +1248,7 @@ Jason is a data scientist working on a project that involves analyzing the relat
 
 12. plt.figure(figsize=(8, 6))
 
-13. > Code for bivariate visualization recommendation using ChatGPT
+13. > Code for bivariate visualization recommendation using [[ChatGPT]]
 
 14.  
 
@@ -1614,17 +1618,17 @@ Question
  
 You are working on a data analysis project. You have a DataFrame named df containing information about sales transactions. The DataFrame has columns such as "TransactionID," "ProductID," "Quantity," and "TransactionDate." You need to sort the DataFrame based on the "TransactionDate" column in ascending order. However, you notice that the sorting is not happening as expected.
 
-Which is the best approach of getting effective assistance from ChatGPT to debug the sorting issues in the DataFrame?
+Which is the best approach of getting effective assistance from [[ChatGPT]] to debug the sorting issues in the DataFrame?
 
 Instruction: Choose the option that best answers the question. 
 
-Seek suggestions from ChatGPT on alternative libraries or functions that might handle DataFrame sorting more efficiently
+Seek suggestions from [[ChatGPT]] on alternative libraries or functions that might handle DataFrame sorting more efficiently
 
-T Share the specific code snippet related to sorting that you are using and ask ChatGPT to identify potential issues or errors
+T Share the specific code snippet related to sorting that you are using and ask [[ChatGPT]] to identify potential issues or errors
 
-Ask ChatGPT to provide the general syntax for sorting a DataFrame in pandas and implement it in your code
+Ask [[ChatGPT]] to provide the general syntax for sorting a DataFrame in pandas and implement it in your code
 
-Request ChatGPT to explain the theory behind sorting algorithms and hope to gain insights into optimizing DataFrame sorting performance
+Request [[ChatGPT]] to explain the theory behind sorting algorithms and hope to gain insights into optimizing DataFrame sorting performance
 
 ---
 

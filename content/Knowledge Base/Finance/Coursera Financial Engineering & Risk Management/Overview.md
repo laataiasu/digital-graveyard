@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Kenapa Pasar Keuangan?
 Pasar keuangan memungkinkan alokasi sumber daya secara efisien
 - across **time**

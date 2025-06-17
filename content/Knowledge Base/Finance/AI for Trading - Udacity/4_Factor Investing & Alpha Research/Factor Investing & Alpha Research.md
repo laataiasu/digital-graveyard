@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Factor Investing & Alpha Research
 
 141 [[Factors]]

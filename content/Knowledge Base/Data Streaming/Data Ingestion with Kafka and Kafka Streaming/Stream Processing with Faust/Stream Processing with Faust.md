@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Stream Processing with Faust
 
 ## Glossary of Terms in Lesson

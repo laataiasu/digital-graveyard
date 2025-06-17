@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### ⚙️ What is **Asynchrony**?
 
 **Asynchrony** refers to **executing operations without waiting for them to complete** before moving on to the next task. It allows a program or system to remain responsive and efficient, especially during **slow or blocking operations** like I/O, network requests, or long computations.

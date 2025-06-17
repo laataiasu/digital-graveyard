@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 tags: [technology, economics]
 ---
-
 # Sam Altman
 
 [[How To Build The Future]]
@@ -187,7 +187,7 @@ Here's a breakdown of this conversation for better learning and comprehension:
    - **Ensuring Accuracy**: Although GPT-4 can sometimes produce convincing but incorrect information, there is ongoing work to make future models more reliable. Users currently need to fact-check, but improvements in grounding AI in factual data are in progress.
 
 ### 11. **Memories and the Future of AI Interaction**
-   - **Introducing Memory to ChatGPT**: OpenAI has started implementing memory features in ChatGPT, allowing it to retain and recall previous conversations. This step is part of OpenAI’s vision of a more dynamic, personalized, and context-aware AI experience.
+   - **Introducing Memory to [[ChatGPT]]**: OpenAI has started implementing memory features in [[ChatGPT]], allowing it to retain and recall previous conversations. This step is part of OpenAI’s vision of a more dynamic, personalized, and context-aware AI experience.
    - **Evolving Use Cases**: As AI tools develop memory, they become better suited to personal, in-depth, and complex interactions, marking a shift toward AI that can serve as an ongoing collaborative partner.
 
 This summary captures both the current capabilities and the limitations of models like GPT-4 and Sora, along with insights into the future trajectory of AI development, emphasizing both the technical and ethical dimensions.
@@ -277,12 +277,12 @@ This structured approach summarizes the main points in a way that aids comprehen
 
 # chunk_8.txt
 
-It seems like this is the continuation of a detailed interview conversation, probably with Sam Altman, discussing some of the practical and philosophical challenges around developing advanced AI like ChatGPT. Here’s a structured breakdown of some key themes and responses from this part:
+It seems like this is the continuation of a detailed interview conversation, probably with Sam Altman, discussing some of the practical and philosophical challenges around developing advanced AI like [[ChatGPT]]. Here’s a structured breakdown of some key themes and responses from this part:
 
 ### Key Themes and Insights
 
 1. **Google's Dominance and Search Evolution**
-   - Altman reflects on the possible evolution of search, suggesting that ChatGPT could provide not just a replacement for search but a new paradigm for synthesizing and interacting with information.
+   - Altman reflects on the possible evolution of search, suggesting that [[ChatGPT]] could provide not just a replacement for search but a new paradigm for synthesizing and interacting with information.
    - He sees limited value in creating a "better Google" and instead advocates for innovative approaches that better serve complex user needs without relying solely on traditional search methods.
 
 2. **Monetization and the Role of Ads**
@@ -308,7 +308,7 @@ This structured outline offers a clearer sense of Altman's views on the future o
 In this conversation, OpenAI's CEO, Sam Altman, discusses OpenAI’s potential impact on technology and society, the principles guiding AI safety and development, and his personal perspectives on the evolution of artificial intelligence.
 
 ### OpenAI vs. Traditional Search
-Altman emphasizes that OpenAI's mission isn’t to replace traditional search engines like Google but to fundamentally change how people find, synthesize, and interact with information. He finds simply building a "better search engine" uninteresting, noting that ChatGPT aims to facilitate understanding and insight rather than offering a list of links. This approach aims for a more dynamic experience, synthesizing knowledge in context rather than merely organizing data.
+Altman emphasizes that OpenAI's mission isn’t to replace traditional search engines like Google but to fundamentally change how people find, synthesize, and interact with information. He finds simply building a "better search engine" uninteresting, noting that [[ChatGPT]] aims to facilitate understanding and insight rather than offering a list of links. This approach aims for a more dynamic experience, synthesizing knowledge in context rather than merely organizing data.
 
 ### Thoughts on Ads and Business Models
 Regarding ads, Altman expresses a personal dislike, preferring a straightforward subscription model that assures users that responses aren’t influenced by advertisers. While he acknowledges that ads have been essential for early internet growth, he feels AI services are better positioned to explore new business models. Altman believes OpenAI can sustain its operations without ad revenue, focusing on transparent monetization through paid subscriptions rather than ad-driven influences.

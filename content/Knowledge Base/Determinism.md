@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### ⚙️ What is **Determinism**?
 
 **Determinism** means that a system or function, given the **same input and starting state**, will always produce the **same output and follow the same execution path**—**no randomness, no surprises**.

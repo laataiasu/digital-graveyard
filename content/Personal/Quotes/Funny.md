@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 "If the player is not dead then it is not a foul"-Sergio ramos
   
 Teknologi makin canggih > yang jelek makin kurang > yang jelek jadi langka > lebih langka dr btc > yg jelek to the moon 🚀🚀🚀🚀🚀

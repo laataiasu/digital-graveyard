@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### Kapan butuh NoSQL?
 - Perlu High availability
 - Memiliki data dengan ukuran besar

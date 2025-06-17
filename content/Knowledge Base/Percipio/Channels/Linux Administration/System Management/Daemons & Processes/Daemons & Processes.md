@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Daemons & Processes
 
 ## 1. Linux Processes and Daemons

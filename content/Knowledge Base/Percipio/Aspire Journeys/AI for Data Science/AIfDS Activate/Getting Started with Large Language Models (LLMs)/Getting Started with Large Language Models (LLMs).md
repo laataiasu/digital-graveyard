@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Getting Started with Large Language Models (LLMs)
 
 ### Large Language Models (LLMs)
@@ -19,7 +23,7 @@
    - Create content on diverse topics based on training.
 
 2. **Translation:**
-   - Translate text between languages, leveraging multi-language training data (e.g., ChatGPT-4).
+   - Translate text between languages, leveraging multi-language training data (e.g., [[ChatGPT]]-4).
 
 3. **Chatbots and Conversational AI:**
    - Enable natural conversations with users, surpassing older AI technologies.
@@ -236,7 +240,7 @@ To effectively prompt an LLM, consider these components:
 - **Scenario:** You’re teaching a class about AI and want to demonstrate text generation using an LLM.
 - **Prompt Structure:** 
    - Context: "I teach a class on AI and data."
-   - Task: "I want to show them how ChatGPT and other large language models can generate text."
+   - Task: "I want to show them how [[ChatGPT]] and other large language models can generate text."
    - Audience Details: "My class includes business executives and technology professionals."
    - Question: "What example can you show to explain this topic?"
 
@@ -265,7 +269,7 @@ This overview encapsulates the essentials of using pre-trained large language mo
 - **Infrastructure Requirements**:
   - Utilize powerful GPUs, TPUs, and distributed systems to handle vast amounts of data.
   - Consider cloud computing services (AWS, Google Cloud, Microsoft Azure) for scalability.
-- **Cost Implications**: Be aware of both financial and opportunity costs, as training can take weeks or months.
+- **Cost Implications**: Be aware of both financial and [[Opportunity Cost]]s, as training can take weeks or months.
 
 #### 3. Training Process
 - **Model Parallelism**: Distribute model components across multiple GPUs to accelerate training.
@@ -302,7 +306,7 @@ This framework highlights the core components and challenges involved in trainin
 #### 2. Computational Requirements
 - **Infrastructure**: Requires powerful GPUs, TPUs, or large-scale distributed systems to process billions of data points.
 - **Cost Considerations**:
-  - Training is resource-intensive, leading to high financial and opportunity costs.
+  - Training is resource-intensive, leading to high financial and [[Opportunity Cost]]s.
   - Collaboration with research institutions may provide access to high-performance hardware.
 
 #### 3. Training Process
@@ -409,7 +413,7 @@ Bias in LLMs arises from the training data, which can lead to unfair or stereoty
 Large language models (LLMs) have significantly evolved, utilizing vast datasets and advanced techniques such as fine-tuning and few-shot learning. The NLP market is projected to grow from $11 billion in 2020 to over $35 billion by 2026, reflecting the increasing reliance on these technologies.
 
 #### Popular LLMs
-1. **ChatGPT / GPT-3**: Developed by OpenAI, it features over 175 billion parameters and excels in generating human-like text.
+1. **[[ChatGPT]] / GPT-3**: Developed by OpenAI, it features over 175 billion parameters and excels in generating human-like text.
 2. **T5 (Text-to-Text Transfer Transformer)**: A versatile model that handles multiple NLP tasks using a unified text format.
 3. **BERT (Bidirectional Encoder Representations from Transformers)**: Introduced by Google, BERT is known for its performance in text classification and question answering.
 4. **LaMDA (Language Model for Dialogue Applications)**: Google’s model with 1.6 trillion parameters, optimized for conversational tasks using a unique architecture called the Switch Transformer.
@@ -428,4 +432,4 @@ Text-only models, while powerful, have limitations. Multimodal models like **PaL
 
 #### Future Directions
 - **App-Specific Datasets**: Tailoring datasets for specific applications (e.g., healthcare) to enhance model relevance and effectiveness.
-- **Reinforcement Learning from Human Feedback (RLHF)**: This technique involves human feedback to fine-tune models, improving alignment with user intent. It's a key factor in the success of models like ChatGPT-4.
+- **Reinforcement Learning from Human Feedback (RLHF)**: This technique involves human feedback to fine-tune models, improving alignment with user intent. It's a key factor in the success of models like [[ChatGPT]]-4.

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Basic Quantitative Trading
 
 114 [[Stock Prices]]

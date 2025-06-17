@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 kerja produktif vs kerja seni
 anak rumahan vs anak gaul
 
@@ -145,7 +149,7 @@ Gw dulu tuh ingin jsdi guru ya, to setelah tau guru bisa korupsi
 
 Goblok bngt ya pas smp sma belajar pencernaan sapi. Astronaut ke luar angkasa aja lu buay apa pencernaan sapi? Ustad aja gasampe bilang *jelasin sistem pencernaan sapi. Tp kalo jd standup comedy kepake ya. Dan akhirjya gw nyadar, bahwabada jg loh pelajaran yg dulublo pelajarin berguna, walaupun lebih banyak yg ga gunanya
 
-Raditya dika konten horror vs [[Investment]]/opportunity cost. jerome polin hiburan atau matematika, ujung2nya hiburan. Pendidikan itu harusnya liat gini ya, karena hiburan lebih dibutuhkan.
+Raditya dika konten horror vs [[Investment]]/[[Opportunity Cost]]. jerome polin hiburan atau matematika, ujung2nya hiburan. Pendidikan itu harusnya liat gini ya, karena hiburan lebih dibutuhkan.
 Jangan bikin ujian, ujian hidup dr [[Allah]]. Jangan menyaingi [[Allah]]. Banyak guru agama ngomong jangan menyaingi tuhan, lah ini guru agama. Makanya diubah namanya gitukan jadi ulangan, ganti lockdown ppkm level 1. snmptn sbmptn
 
 Sbmptn

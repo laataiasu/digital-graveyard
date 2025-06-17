@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Kafka Connect and REST Proxy
 
 ## Lesson Glossary of Key Terms

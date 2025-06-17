@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 tags: [spirituality, philosophy]
 ---
-
 # Muhammad Iqbal
 
 YANG MEMPENGARUHI:Sir Thomas Walker Arnold, Jalaluddin Rumi, Sayyid Ahmad Khan, Friedrich Nietzsche, Henry Bergson and Goethe

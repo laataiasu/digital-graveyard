@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Define a Kubernetes ClusterIP Service (Guided)
 
 CKA.2-001: Define a Kubernetes ClusterIP Service (Guided)

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Organizing Your E-mail
 
 ### Effective Email Management Techniques

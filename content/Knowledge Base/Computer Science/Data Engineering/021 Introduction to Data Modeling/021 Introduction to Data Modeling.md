@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### Apa itu Data Modelling?
 - Organizing elemen dari setiap data dan bagaimana relasi antara setiap data nya
 - Untuk mendukung sistem informasi

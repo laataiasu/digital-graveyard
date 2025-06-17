@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Properties common to complex systems:
 - Simple components or agents (simple relative to whole system)
 - Nonlinear interactions among components

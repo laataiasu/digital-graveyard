@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 tags: [modern-thinker]
 ---
-
 # Dan Koe
 
 ## If You Have Multiple Interests, Start This One-Person Business.

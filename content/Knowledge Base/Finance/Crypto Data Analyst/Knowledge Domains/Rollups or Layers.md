@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### Rollup Economics
 
 Rollup economics involve understanding the costs and revenues associated with operating a rollup, which is a layer 2 scaling solution for blockchains. Here's a detailed breakdown of the components involved:

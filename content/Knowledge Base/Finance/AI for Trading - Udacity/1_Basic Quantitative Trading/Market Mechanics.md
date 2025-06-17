@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Intro Farmers Market
 
 Let's break down the conversation with Betty and learn how she decides on the prices for her oranges. This is a great example of basic economic principles in action, particularly the concept of supply and demand, and price-setting through negotiation.

@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 draft: true
 ---
-
 Yang terpengaruh kalor secara negatif, mohon ampunlah atas ketololan
 kita sekalian
 

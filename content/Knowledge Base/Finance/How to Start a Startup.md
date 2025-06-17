@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)
 
 Welcome to CS183B. I'm Sam Altman, President of Y Combinator. Nine years ago, I was a Stanford student who dropped out to start a company and have since been an investor. At YC, we’ve been teaching how to start startups for nine years. Most of it is hands-on and specific, but about 30% is generally applicable, and we aim to teach that in this class. This is the first time much of what we teach at YC will be available publicly. We’ve funded 720 companies, so we believe the advice shared here is solid.
@@ -106,7 +110,7 @@ Focus on finding an idea you care about deeply and one that aligns with your lon
 While entrepreneurship is often romanticized in the media, such as in *The Social Network*, the reality is much different:
 - **Hard Work**: Most of your time is spent on routine tasks like customer support, sales, and solving engineering problems.
 - **Stress**: Entrepreneurs face immense stress due to the responsibility they bear for their employees and their financial future.
-  - You are responsible not only for your own success but also for the livelihoods and opportunity costs of your team.
+  - You are responsible not only for your own success but also for the livelihoods and [[Opportunity Cost]]s of your team.
   - The fear of failure is magnified because others depend on you.
   - Stress is constant, and you’re always on call, even during vacations or weekends.
   - Fundraising can be particularly stressful, with constant pressure and the fear of disappointing others.

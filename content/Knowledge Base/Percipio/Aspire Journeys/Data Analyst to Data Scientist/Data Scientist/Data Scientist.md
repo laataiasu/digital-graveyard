@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Scientist
 
 - [[The Four Vs of Data]]

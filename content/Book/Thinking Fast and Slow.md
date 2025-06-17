@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 System one and system 2:
 Fast and automatic vs slow and logic
 2.

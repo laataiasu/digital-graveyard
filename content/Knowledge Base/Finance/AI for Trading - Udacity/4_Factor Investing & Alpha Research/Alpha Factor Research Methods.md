@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Overview: Case Studies on Alpha Factors
 
 In this lesson, we'll explore the following academic papers, each offering valuable insights into the construction of Alpha factors:

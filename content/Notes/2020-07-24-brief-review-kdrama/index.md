@@ -59,7 +59,7 @@ Divinity comedy that really fun to watch about a hard workman that accidentally 
 
 It is boring and the comedy is "receh" seriously. But the story made me retrace my childhood because even I was born in 2001, I can really connected to my past memories with friends and neighbor and [[Family|family]] . And the Jung-Pal sad story related with me where even know they like each other, he doesn't have a brave to tell her. And thats the…. hmm FFFFFF
 
-### Because This is my first life
+### [[Because This Is My First Life]]
 
 About the writer who has quarter life crisis and live with an introvert working guy end up in contracted marriage. I really enjoyed this because it describe life resignation even I have to skip a lot of scene because its slow and boring. But in the end this just makes me cry like a sap lol
 

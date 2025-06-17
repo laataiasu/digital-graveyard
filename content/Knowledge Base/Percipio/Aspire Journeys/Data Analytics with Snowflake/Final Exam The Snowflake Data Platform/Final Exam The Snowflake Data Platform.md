@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Final Exam The Snowflake Data Platform
 
 You want to unload data from Snowflake to Google Cloud Storage. Which task must you perform on the storage integration object?

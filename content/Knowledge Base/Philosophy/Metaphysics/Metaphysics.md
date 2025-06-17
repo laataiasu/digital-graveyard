@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Document your life - daily happenings, special occasions, and reflections on your goals.
 Categorize entries with tags and automatically capture the date.
 

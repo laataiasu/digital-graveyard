@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Security Threats & Cryptography
 
 ## 1. Common Linux Security Threats

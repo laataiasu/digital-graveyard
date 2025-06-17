@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Exploring Business Process Automation
 
 Sure! Here’s a streamlined version focusing on the core learning content related to Business Process Automation (BPA):

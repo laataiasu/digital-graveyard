@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Sharing in Snowflake Implementing Secure Data Sharing
 
 Which is a valid query to set up a replica of a database in a target Snowflake account?

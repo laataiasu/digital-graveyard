@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Resource Optimization with Python
 
 ## ✅ **Exercise 1: Reading and Writing Images with OpenCV**

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 **Dr. Helen Fisher – Summary of Key Points**
 *(Biological Anthropologist specializing in romantic love)*
 

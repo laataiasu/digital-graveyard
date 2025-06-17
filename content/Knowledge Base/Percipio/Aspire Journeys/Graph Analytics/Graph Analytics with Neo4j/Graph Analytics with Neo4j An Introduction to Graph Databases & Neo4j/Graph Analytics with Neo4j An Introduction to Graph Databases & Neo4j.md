@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Graph Analytics with Neo4j An Introduction to Graph Databases & Neo4j
 
 ### Understanding Graph Databases

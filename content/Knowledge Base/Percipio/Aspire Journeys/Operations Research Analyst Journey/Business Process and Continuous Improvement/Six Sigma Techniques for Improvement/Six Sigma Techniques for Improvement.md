@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Six Sigma Techniques for Improvement
 
 ### Kaizen in Six Sigma

@@ -1,8 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 publish_external: true
 ---
-
-
 # **Pluralisme**
 Semuanya saling memengaruhi, tidak hanya bersifat jiwa ata materi ata dualisme
 Tidak ada sistem atau fenomena yang dapat dijelaskan oleh hanya variabel tunggal, ada banyak varibel yang memengaruhi.

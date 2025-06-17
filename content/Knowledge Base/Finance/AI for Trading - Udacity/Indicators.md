@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### **Moving Average (MA)**
 The Moving Average is the average of a security's price over a specified number of periods. The formula is:
 

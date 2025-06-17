@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Computational Thinking
 
 - [[Reaching Efficient Solutions with Computational Thinking/Reaching Efficient Solutions with Computational Thinking]]

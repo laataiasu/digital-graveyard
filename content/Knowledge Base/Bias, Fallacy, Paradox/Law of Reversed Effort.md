@@ -1,3 +1,4 @@
 ---
-Text: when you put too much effort, the result is farther from your expectation
+date: 1970-01-01T00:00:00Z
 ---
+

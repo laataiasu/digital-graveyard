@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Define a Kubernetes NodePort Service (Guided)
 
 CKA.2-002: Define a Kubernetes NodePort Service (Guided)

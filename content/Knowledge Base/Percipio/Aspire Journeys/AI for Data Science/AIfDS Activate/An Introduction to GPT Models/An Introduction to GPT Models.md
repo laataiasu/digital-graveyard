@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # An Introduction to GPT Models
 
 ### What is GPT?
@@ -5,17 +9,17 @@
 #### Natural Language Models
 
 **Mainstream Terms:**
-- ChatGPT
+- [[ChatGPT]]
 - Google BARD
 - Gemini
 - Bing Chat
 - Claude
 
-#### Understanding ChatGPT
+#### Understanding [[ChatGPT]]
 
-- **Definition**: ChatGPT is an AI chatbot developed by OpenAI. It utilizes a model to understand and generate human-like text based on user input.
+- **Definition**: [[ChatGPT]] is an AI chatbot developed by OpenAI. It utilizes a model to understand and generate human-like text based on user input.
 - **Components**: 
-  - ChatGPT refers to the entire system: the application, the underlying model, and the user interface.
+  - [[ChatGPT]] refers to the entire system: the application, the underlying model, and the user interface.
 
 #### Generative AI
 
@@ -51,13 +55,13 @@
 
 - **Function**: Enhances model performance by dynamically focusing on relevant input parts to generate output.
 
-### ChatGPT and GPT Model Overview
+### [[ChatGPT]] and GPT Model Overview
 
 **Definitions:**
-- **ChatGPT**: A chatbot interface powered by a large language model based on the GPT architecture, optimized for generating human-like responses in conversations.
+- **[[ChatGPT]]**: A chatbot interface powered by a large language model based on the GPT architecture, optimized for generating human-like responses in conversations.
 - **GPT (Generative Pre-trained Transformer)**: A series of models designed for various language tasks, from translation to text summarization.
 
-**Key Features of ChatGPT:**
+**Key Features of [[ChatGPT]]:**
 - Utilizes the GPT model, specifically fine-tuned for conversational AI.
 - Incorporates techniques like reinforcement learning from human feedback to improve response quality.
 - Functions as an intuitive interface for users to engage in dialogue.
@@ -77,7 +81,7 @@
    - Advanced understanding of context with little task-specific training required.
 
 4. **GPT-3.5**:
-   - A variant of GPT-3 with iterative improvements, used to power ChatGPT upon its release in 2022.
+   - A variant of GPT-3 with iterative improvements, used to power [[ChatGPT]] upon its release in 2022.
 
 5. **GPT-4 (2023)**:
    - Current state-of-the-art model, potentially with 1.7 trillion parameters.
@@ -135,7 +139,7 @@
 
 #### Introduction
 - The **transformer model**, introduced in the 2017 paper "Attention Is All You Need" by Vaswani et al., revolutionized sequence-to-sequence tasks in machine learning, particularly in natural language processing (NLP).
-- This architecture laid the groundwork for large language models (LLMs) like the GPT series, which power applications like ChatGPT.
+- This architecture laid the groundwork for large language models (LLMs) like the GPT series, which power applications like [[ChatGPT]].
 
 #### Key Features of the Transformer Model
 - **Self-Attention Mechanism**: Allows the model to contextualize each word in relation to others in the sequence, enhancing understanding and generation.
@@ -294,7 +298,7 @@ Foundation models are large-scale, pre-trained models designed to learn from vas
    - Released in 2020, GPT-3 featured 175 billion parameters and was trained on diverse datasets including Common Crawl, Wikipedia, and two book corpora. This model showed significant improvements in understanding context and generating varied outputs, although it still produced biased or inappropriate responses at times.
 
 4. **GPT-3.5 and GPT-4**:
-   - The latest models, GPT-3.5 and GPT-4, are the backbone of ChatGPT. GPT-4 is estimated to have 1.7 trillion parameters, but specific training data is not publicly disclosed. These models leverage advancements in fine-tuning and reinforcement learning from human feedback (RLHF) to enhance performance.
+   - The latest models, GPT-3.5 and GPT-4, are the backbone of [[ChatGPT]]. GPT-4 is estimated to have 1.7 trillion parameters, but specific training data is not publicly disclosed. These models leverage advancements in fine-tuning and reinforcement learning from human feedback (RLHF) to enhance performance.
 
 ### Emergence in Foundation Models
 

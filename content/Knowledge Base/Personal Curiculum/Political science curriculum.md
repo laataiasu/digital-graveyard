@@ -1,5 +1,9 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Methodologies
-search through chatgpt, "if I interest in smart city, what master degree should i take?"
+search through [[ChatGPT]], "if I interest in smart city, what master degree should i take?"
 got keywords:
 - Urban Informatics
 - Urban Planning

@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01T00:00:00Z
 tags: [economics, modern-thinker]
 ---
-
 # Naval Ravikant
 
 ## Best Of

@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Ecosystem Overviews
 
 Blockchain ecosystems can be incredibly wide and complex, encompassing a variety of components and metrics. Understanding these metrics is crucial for comparing and analyzing different blockchains. Here, we will provide an overview of some of the key metrics for three prominent blockchain ecosystems: Solana, Optimism, and Bitcoin.

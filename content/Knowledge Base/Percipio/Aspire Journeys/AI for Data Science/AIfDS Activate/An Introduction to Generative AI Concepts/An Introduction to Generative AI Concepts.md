@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # An Introduction to Generative AI Concepts
 
 ### Generative AI: Key Concepts and Components
@@ -32,7 +36,7 @@
 
 #### Future Directions
 - **Scaling Laws**: Ongoing focus on model size, training data, and computational resources to improve generative AI capabilities, though diminishing returns are expected beyond certain points.
-- **Model Distillation**: Using outputs from advanced models (like ChatGPT) to enhance newer models, leveraging existing capabilities for better performance.
+- **Model Distillation**: Using outputs from advanced models (like [[ChatGPT]]) to enhance newer models, leveraging existing capabilities for better performance.
 
 ### Differences Between Generative and Discriminative AI Models
 
@@ -136,7 +140,7 @@ Here’s a structured summary of your discussion on the tools, technologies, pla
 Generative AI has a wide array of applications across various fields, leveraging its capabilities to create content in innovative ways. Key use cases include:
 
 1. **Chatbots**:
-   - Utilized in customer service and technical support, leveraging models like ChatGPT to provide real-time answers and support.
+   - Utilized in customer service and technical support, leveraging models like [[ChatGPT]] to provide real-time answers and support.
 
 2. **Deepfakes**:
    - Used for mimicking individuals or creating realistic video content, though this application requires careful ethical consideration.
@@ -160,8 +164,8 @@ Generative AI has a wide array of applications across various fields, leveraging
    - Enhances hardware design by optimizing parameters for better efficiency.
 
 #### Popular Generative AI Tools
-1. **ChatGPT**:
-   - An advanced chatbot by OpenAI that uses vast amounts of text data for generating human-like responses. The latest version, ChatGPT-4, incorporates conversational history for contextual replies.
+1. **[[ChatGPT]]**:
+   - An advanced chatbot by OpenAI that uses vast amounts of text data for generating human-like responses. The latest version, [[ChatGPT]]-4, incorporates conversational history for contextual replies.
 
 2. **Bard**:
    - Google’s chatbot based on the LaMDA model, designed for natural language processing and quickly developed in response to the competitive landscape.
@@ -708,7 +712,7 @@ In this video, we’ll explore how generative AI is transforming creativity and 
 
 4. **Film and Video Production**: AI can assist in creating CGI, generating visuals and narratives, making filmmaking more accessible and cost-effective.
 
-5. **Writing and Storytelling**: Tools like ChatGPT can generate novels and short stories, providing writers with inspiration and helping overcome writer's block.
+5. **Writing and Storytelling**: Tools like [[ChatGPT]] can generate novels and short stories, providing writers with inspiration and helping overcome writer's block.
 
 #### Ethical Considerations
 

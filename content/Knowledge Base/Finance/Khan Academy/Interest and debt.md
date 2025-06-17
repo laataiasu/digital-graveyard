@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Result from compounding interest = Modal (1+ bunga )^tahun
   
 The rule 72 untuk compound interest (approximate)

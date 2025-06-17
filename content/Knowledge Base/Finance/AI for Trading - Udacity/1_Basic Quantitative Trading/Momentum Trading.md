@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Designing A Trading Strategy
 
 Creating a trading strategy involves developing a systematic approach to buying and selling stocks with the goal of maximizing profits while minimizing risks. Here’s a breakdown of how to design and test a trading strategy:

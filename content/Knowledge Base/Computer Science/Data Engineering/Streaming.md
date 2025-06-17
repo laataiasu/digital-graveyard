@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 6.0.1-Introduction
 - Introduction to stream processing and Kafka
 - Role of Kafka in stream processing

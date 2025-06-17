@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Financial Statements and Managing Costs
 
 - [[Comprehending Financials A Guide to Financial Statements/Comprehending Financials A Guide to Financial Statements]]

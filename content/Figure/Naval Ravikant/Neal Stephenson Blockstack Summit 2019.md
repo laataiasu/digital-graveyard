@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Neal Stephenson Blockstack Summit 2019
 
 ## Fireside Chat Summary: Naval Ravikant and Neal Stephenson

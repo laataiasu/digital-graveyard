@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Descriptive Statistics and Probability
 
 - [[Core Statistical Concepts An Overview of Statistics and Sampling]]

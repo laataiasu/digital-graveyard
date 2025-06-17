@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## Part 01-Module 01-Lesson 01_Welcome to the Blockchain Revolution
 
 [[Welcome to the Blockchain Revolution]]

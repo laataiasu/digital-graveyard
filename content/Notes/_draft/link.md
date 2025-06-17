@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 * **Blog:** [https://laataiasu.github.io/](https://laataiasu.github.io/)
 * **GitHub:** [http://github.com/ichsanulamal](http://github.com/ichsanulamal)
 * **Feedback Form:** [https://forms.gle/QFyuYBFkdY6Pf8Hv7](https://forms.gle/QFyuYBFkdY6Pf8Hv7)

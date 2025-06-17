@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### 1. Introduction to Exchange Traded Funds (ETFs)
 
 In this lesson, we'll dive into the concept of Exchange Traded Funds, commonly known as ETFs, and explore how they function. ETFs are often seen as a major innovation in the world of finance, much like how smartphones revolutionized the tech industry. The introduction of ETFs sparked a wave of new financial products that became incredibly popular among investors.

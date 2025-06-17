@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Expanding Your Communication Skill Set
 
 ### Effective Communication Skills in the Workplace

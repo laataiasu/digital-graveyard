@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Data Analyst DA2DS
 
 - [[Data Architecture Getting Started]]

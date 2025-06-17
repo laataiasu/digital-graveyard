@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Instance Store dan Amazon Elastic Block Store (Amazon EBS)
 Amazon Simple Storage Service (Amazon S3)
 jika Anda memiliki objek atau file yang lengkap dan hanya membutuhkan sesekali perubahan, maka pilihlah **Amazon S3**. Namun, jika Anda membutuhkan proses read (baca) data yang kompleks, maka tentu saja Anda perlu memilih **Amazon EBS**.

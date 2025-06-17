@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 - Menjelaskan model pay-as-you-go dalam menggunakan sumber daya AWS.
 - Membedakan antara biaya di data center on-premise vs cloud.
 - Menerangkan AWS Free Tier yang menawarkan sebagian besar layanan AWS.

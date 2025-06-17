@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # **Course 18 Option 2: Applied Option**
 Applied mathematics is the mathematical study of general scientific concepts, principles, and phenomena that, because of their widespread occurrence and application, relate or unify various disciplines. The core of the program at [[Massachusetts Institute of Technology|MIT]] concerns the following principles and their mathematical formulations: propagation, equilibrium, stability, optimization, computation, statistics, and random processes.
 Sophomores interested in applied mathematics typically survey the field by enrolling in 18.200 and 18.300 Principles of Applied Mathematics. Subject 18.200 is devoted to the discrete aspects of the study and may be taken concurrently with 18.03. It carries CI-M credit in mathematics. Subject 18.300, given only in the second term, is devoted to continuous aspects and makes considerable use of differential equations.

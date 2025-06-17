@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 # Can You Manage Resources in a Kubernetes Cluster (Adaptive)
 
 ## 1

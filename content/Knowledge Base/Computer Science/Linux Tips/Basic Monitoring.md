@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Basic monitoring in Linux involves keeping an eye on system resources, services, and logs to ensure the system is running smoothly. Here are some essential monitoring tasks and tools:
 1. **Checking System Load and Resource Usage**:
     - `**top**`: This command provides a dynamic view of system processes, their resource usage, and system load.

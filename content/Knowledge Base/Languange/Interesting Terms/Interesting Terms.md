@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 Here is the cleaned-up list with the `[[link format]]` preserved:
 
 * [[mental masturbation - vicarious goal fulfillment]]: Don’t tell people your goals

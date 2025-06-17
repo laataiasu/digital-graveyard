@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ### 🔍 What is **Liquidation Priority**?
 
 **Liquidation priority** refers to the order in which stakeholders get paid if a company is **liquidated** (e.g., due to bankruptcy, sale, or dissolution). It determines who receives payment first from any remaining company assets.

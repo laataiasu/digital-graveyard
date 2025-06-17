@@ -1,3 +1,7 @@
+---
+date: 1970-01-01T00:00:00Z
+---
+
 ## 1. Time Series Modeling
 
 ### Introduction to Time Series Data
