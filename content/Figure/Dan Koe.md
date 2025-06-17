@@ -1,3 +1,7 @@
+---
+tags: [modern-thinker]
+---
+
 # Dan Koe
 
 ## If You Have Multiple Interests, Start This One-Person Business.

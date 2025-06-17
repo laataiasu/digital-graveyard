@@ -1,3 +1,7 @@
+---
+tags: [philosophy, spirituality]
+---
+
 Averoisme
 Initiator sekularisme
   

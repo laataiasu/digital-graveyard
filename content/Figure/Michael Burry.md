@@ -1,2 +1,6 @@
+---
+tags: [economics]
+---
+
 # Michael Burry
 

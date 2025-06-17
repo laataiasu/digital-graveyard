@@ -1,3 +1,7 @@
+---
+tags: [technology, economics]
+---
+
 # Sam Altman
 
 [[How To Build The Future]]

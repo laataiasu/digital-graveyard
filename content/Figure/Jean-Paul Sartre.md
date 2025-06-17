@@ -1,3 +1,7 @@
+---
+tags: [philosophy, literature]
+---
+
   
 Eksistensi vs esensi
   

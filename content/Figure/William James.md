@@ -1,1 +1,5 @@
+---
+tags: [philosophy, psychology]
+---
+
 pragmatisme

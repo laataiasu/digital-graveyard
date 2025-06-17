@@ -1,2 +1,6 @@
+---
+tags: [technology]
+---
+
 # Charles Hoskinson
 

@@ -1,3 +1,7 @@
+---
+tags: [literature, philosophy]
+---
+
 Abad 17-18
 liberté égalité fraternité
   

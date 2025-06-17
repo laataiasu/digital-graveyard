@@ -1,2 +1,6 @@
+---
+tags: [technology]
+---
+
 # Linus Torvalds
 

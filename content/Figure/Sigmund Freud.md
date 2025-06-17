@@ -1,3 +1,7 @@
+---
+tags: [philosophy, science]
+---
+
 # Sigmund Freud
 
 **STRUKTUR KEJIWAAN MANUSIA**

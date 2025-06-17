@@ -1,3 +1,7 @@
+---
+tags: [spirituality, philosophy]
+---
+
 # Muhammad Iqbal
 
 YANG MEMPENGARUHI:Sir Thomas Walker Arnold, Jalaluddin Rumi, Sayyid Ahmad Khan, Friedrich Nietzsche, Henry Bergson and Goethe

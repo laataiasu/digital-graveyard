@@ -1,3 +1,7 @@
+---
+tags: [philosophy, classic-thinker]
+---
+
 # Friedrich Nietzsche
 
 AFORISME

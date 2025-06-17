@@ -1,3 +1,7 @@
+---
+tags: [economics, modern-thinker]
+---
+
 # Dimitri Bianco
 
 ## Why Independent Quants Don't Exist

@@ -1,2 +1,6 @@
+---
+tags: [literature]
+---
+
 # Haruki Murakami
 

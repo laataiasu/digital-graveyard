@@ -31,7 +31,7 @@ the basic of human lives is fear.
 
 the most dangerous person is someone who doesn't fear anything, which doesn't exist.
 
-if you met someone who has a #YOLO motto, basically it's still living in fear.
+if you met someone who has a YOLO motto, basically it's still living in fear.
 they are afraid of living what they perceived as a boring life. sometimes it's taught by society, sometimes they just feel it. 
 hedonistic is not living without fear, but rather living with fear that there's no after tomorrow, it's same with seize the day, 
 carpe diem, you only live once, you live everyday you die once, not worry the future or regret past, stoic's way to control the present, basically all of that still just fear. 

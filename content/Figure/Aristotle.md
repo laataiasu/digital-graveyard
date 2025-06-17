@@ -1,3 +1,7 @@
+---
+tags: [philosophy, classic-thinker]
+---
+
 Spartacus
 Aristoteles mengajar Alexander the Great
 - > **Helenisme**
