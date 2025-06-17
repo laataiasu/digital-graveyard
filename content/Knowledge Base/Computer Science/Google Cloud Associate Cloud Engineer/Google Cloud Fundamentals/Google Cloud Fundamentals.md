@@ -1,5 +1,5 @@
   
-![[/Untitled 3.png|Untitled 3.png]]
+
 IaaS → CaaS → PaaS → FaaS
 VM instance → GKE → App Engine → Cloud Functions → Cloud Run
   

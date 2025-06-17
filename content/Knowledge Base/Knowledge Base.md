@@ -56,7 +56,7 @@
 [[Language]]
 [[Metaphysics]]
   
-[[Bias, Fallacy, Paradox]]
+[[Bias, Fallacy, Paradox/index]]
 
 
 [[Percipio]]

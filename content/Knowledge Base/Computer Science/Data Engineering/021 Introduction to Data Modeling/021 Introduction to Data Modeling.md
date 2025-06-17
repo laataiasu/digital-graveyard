@@ -43,37 +43,36 @@
 - Keyspace (mirip schema), Table, Row
 - Partition
   
-![[/Untitled 8.png|Untitled 8.png]]
-![[/Untitled 1 5.png|Untitled 1 5.png]]
-![[/Untitled 2 5.png|Untitled 2 5.png]]
-![[/Untitled 3 4.png|Untitled 3 4.png]]
-![[/Untitled 4 4.png|Untitled 4 4.png]]
-![[/Untitled 5 4.png|Untitled 5 4.png]]
-![[/Untitled 6 3.png|Untitled 6 3.png]]
-![[/Untitled 7 2.png|Untitled 7 2.png]]
-![[/Untitled 8 2.png|Untitled 8 2.png]]
-![[Untitled 9.png]]
-![[Untitled 10.png]]
-![[Untitled 11.png]]
-![[Untitled 12.png]]
-![[Untitled 13.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ACID
-![[Untitled 14.png]]
-![[Untitled 15.png]]
-![[Untitled 16.png]]
-![[Untitled 17.png]]
-![[Untitled 18.png]]
-![[Untitled 19.png]]
-![[Untitled 20.png]]
-![[Untitled 21.png]]
-![[Untitled 22.png]]
-![[Untitled 23.png]]
-![[Untitled 24.png]]
-![[Untitled 25.png]]
-![[Untitled 26.png]]
-![[Untitled 27.png]]
-![[Untitled 28.png]]
-![[Untitled 29.png]]
-![[Untitled 30.png]]
-![[Untitled 31.png]]
-![[Untitled 32.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

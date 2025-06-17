@@ -11,12 +11,12 @@ Data Warehouse: subject-oriented, integrated, nonvolatile, time-variant
   
   
 #### OLTP vs OLAP
-|OLTP|OLAP|
-|---|---|
-|[[Transactional]]|Analytical|
-|[[Performance]]|Perlu banyak query/join|
-|[[No redundancy]]|Sulit dipahami|
-|[[High integrity]]|As long as can generate analysis|
+| OLTP               | OLAP                             |
+| ------------------ | -------------------------------- |
+| [[Transactional]]  | Analytical                       |
+| [[Performance]]    | Perlu banyak query/join          |
+| [[No redundancy]]  | Sulit dipahami                   |
+| [[High integrity]] | As long as can generate analysis |
   
   
 ## Fact or Dimension Table
@@ -58,47 +58,46 @@ GROUP by CUBE(movie, branch, month): kombinasi aggregasi dari semuanya, misalnya
 **MOLAP**: Pre-aggregate OLAP Cubes ke **non-relational database**  
 **ROLAP**: _On the fly_ menggunakan SQL biasa
   
-![[/Untitled 35.png|Untitled 35.png]]
-![[/Untitled 1 8.png|Untitled 1 8.png]]
-![[/Untitled 2 8.png|Untitled 2 8.png]]
-![[/Untitled 3 7.png|Untitled 3 7.png]]
-![[/Untitled 4 7.png|Untitled 4 7.png]]
-![[/Untitled 5 7.png|Untitled 5 7.png]]
-![[/Untitled 6 6.png|Untitled 6 6.png]]
-![[/Untitled 7 5.png|Untitled 7 5.png]]
-![[/Untitled 8 5.png|Untitled 8 5.png]]
-![[/Untitled 9 4.png|Untitled 9 4.png]]
-![[/Untitled 10 4.png|Untitled 10 4.png]]
-![[/Untitled 11 4.png|Untitled 11 4.png]]
-![[/Untitled 12 4.png|Untitled 12 4.png]]
-![[/Untitled 13 4.png|Untitled 13 4.png]]
-![[/Untitled 14 4.png|Untitled 14 4.png]]
-![[/Untitled 15 4.png|Untitled 15 4.png]]
-![[/Untitled 16 4.png|Untitled 16 4.png]]
-![[/Untitled 17 4.png|Untitled 17 4.png]]
-![[/Untitled 18 4.png|Untitled 18 4.png]]
-![[/Untitled 19 4.png|Untitled 19 4.png]]
-![[/Untitled 20 4.png|Untitled 20 4.png]]
-![[/Untitled 21 4.png|Untitled 21 4.png]]
-![[/Untitled 22 4.png|Untitled 22 4.png]]
-![[/Untitled 23 4.png|Untitled 23 4.png]]
-![[/Untitled 24 4.png|Untitled 24 4.png]]
-![[/Untitled 25 3.png|Untitled 25 3.png]]
-![[/Untitled 26 3.png|Untitled 26 3.png]]
-![[/Untitled 27 2.png|Untitled 27 2.png]]
-![[/Untitled 28 2.png|Untitled 28 2.png]]
-![[/Untitled 29 2.png|Untitled 29 2.png]]
-![[/Untitled 30 2.png|Untitled 30 2.png]]
-![[/Untitled 31 2.png|Untitled 31 2.png]]
-![[/Untitled 32 2.png|Untitled 32 2.png]]
-![[/Untitled 33 2.png|Untitled 33 2.png]]
-![[/Untitled 34 2.png|Untitled 34 2.png]]
-![[/Untitled 35 2.png|Untitled 35 2.png]]
-![[Untitled 36.png]]
-![[Untitled 37.png]]
-![[Untitled 38.png]]
-![[Untitled 39.png]]
-![[Untitled 40.png]]
-![[Untitled 41.png]]
-![[Untitled 42.png]]
-![[Untitled 43.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

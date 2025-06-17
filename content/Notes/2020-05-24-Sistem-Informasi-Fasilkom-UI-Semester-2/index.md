@@ -12,6 +12,8 @@ Akhirnya 23 SKS udah selesai. Agak nyesel sih gara-gara nyodok matkul yang dosen
 
 **MPK Seni Apresiasi Film** **– 1 SKS**
 
+[[Art Appreciation of Film]]
+
 Ga sengaja ngambil matkul ini sendirian. Sebenarnya ingin ngambil Bola/Futsal/Basket sih karena jarang olahraga. Tapi karena ga kebagian dan males ngambil taun depan soalnya cuman 1 SKS, alhasil nekat ngambil matkul ini.
 
 Tapi akhirnya bersyukur banget dapet matkul ini. Tiap masuk kelas dengerin Pa Sofian ceramah serasa dapet terapi wkwk. Dapet pengetahuan juga tentang sejarah perkembangan film, yang ternyata menarik banget dihubungin sama sejarah dunia n [[Philosophy|filsafat]].
@@ -21,6 +23,8 @@ Tugasnya cuman 1 disuruh apresiasi tokoh superhero dan uts cuman 5 soal diminta 
 
 
 **Statistika dan Probabilitas – Statprob - 3 SKS**
+
+[[Statistics & Probability]]
 
 Keputusan terburuk di tahun ini adalah ngambil matkul ini. Matkul yang harusnya diambil di semester 4 tapi w gas aja karena pas mau nyodok matkul lain kayak PPW dan Alin jadwalnya pada bentrok dan penuh. Jadi nekat gara-gara ingin ngabisin jatah SKS secepatnya dan pada saat itu w lagi suka dengan data science jd ingin belajar statistika cepet-cepet. 
 

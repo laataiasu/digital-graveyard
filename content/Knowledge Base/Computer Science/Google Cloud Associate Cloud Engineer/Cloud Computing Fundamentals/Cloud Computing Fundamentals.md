@@ -6,4 +6,3 @@ hybrid cloud: private cloud + public cloud
 hybrid environment: on-premise data center + public cloud
   
 # cloud service models
-![[/Untitled 2.png|Untitled 2.png]]

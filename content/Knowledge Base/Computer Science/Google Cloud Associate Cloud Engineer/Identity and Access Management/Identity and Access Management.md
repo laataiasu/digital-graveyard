@@ -2,9 +2,9 @@
 identity, role, resource
   
 policy architecture
-![[/Untitled 5.png|Untitled 5.png]]
+
   
-![[/Untitled 1 2.png|Untitled 1 2.png]]
+
   
 # permissions
 `service.resource.verb`

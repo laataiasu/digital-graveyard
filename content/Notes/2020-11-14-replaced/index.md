@@ -13,6 +13,7 @@ title: Replaced
 
 ![[https://youtu.be/ztrG20lZRvA]]
 
+![](https://youtu.be/ztrG20lZRvA)
 
 In the Management course, I ask my lecturer. "If technical workers been replaced by AI, it means that the technical business process is fulfilled and there will be no problems again in the technical sector so that low-level manager is not needed anymore. If it is fulfilled the effective, efficient, and productive in business, can it be developed until the high-level manager, the director, or CEO be replaced by Robots?"
 
