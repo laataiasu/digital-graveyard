@@ -1,6 +1,8 @@
 ---
 publish_external: true
 ---
+
+
 # **Idealisme**
 ## **[[Immanuel Kant]]**
 Idealisme transendental, fenomenalisme

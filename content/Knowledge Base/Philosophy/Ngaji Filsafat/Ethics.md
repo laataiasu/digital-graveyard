@@ -1,6 +1,8 @@
 ---
 publish_external: true
 ---
+
+
 ## [[Relativism]]
 - konvensionalisme :  
     sesuai konteks budaya atau sosial  

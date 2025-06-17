@@ -1,6 +1,8 @@
 ---
 publish_external: true
 ---
+
+
 Epistem - pengetahuan
 Logos - kajian tentang (rasional)
   

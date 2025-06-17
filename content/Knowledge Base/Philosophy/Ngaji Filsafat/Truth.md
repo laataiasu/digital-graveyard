@@ -1,6 +1,8 @@
 ---
 publish_external: true
 ---
+
+
 # Kebenaran
 ### 3 Istilah kebenaran dalam Islam
 - Hak >< Bathil -------> realitas
