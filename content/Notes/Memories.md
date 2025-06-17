@@ -19,6 +19,16 @@
 
 ## Gadget
 
+[[Samsung Old Model]]
+
+[[Flexi Muslim]]
+
+[[Lenovo A390]]
+
+[[Samsung S3 Mini]]
+
+[[Alcatel Flash 2]]
+
 [[Xiaomi Redmi Note 11]]
 
 [[Huawei Band 8]]

@@ -344,7 +344,7 @@ The text you provided covers various economic concepts and observations related 
   - Barter was an earlier form of trade before money was introduced. The text suggests that the simplicity of barter provided peace, as opposed to the complex financial systems of today, which often involve exploitation and inequality.
 
 - **Economic Development and Sacrifice**:
-  - The text discusses how countries like [[Japan]], Singapore, and Germany became economically advanced by sacrificing certain aspects of their autonomy or ethics, implying that economic progress often comes at a moral cost.
+  - The text discusses how countries like [[Japan]], [[Singapore]], and Germany became economically advanced by sacrificing certain aspects of their autonomy or ethics, implying that economic progress often comes at a moral cost.
 
 - **Carry Trade**:
   - [[Japan]] engages in a carry trade by borrowing its own currency at low interest rates (through Japanese Government Bonds - JGB) and investing in higher-yielding assets like U.S. dollars. This strategy involves leveraging low-cost debt to earn higher returns elsewhere.

@@ -13,7 +13,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 * [[The Arrivals]] — by Achernahr, Noreagaa \~ #SMP #SMA
 * [[History of God]] — by Karen Armstrong \~ #SMA
 * [[The Secret History of the World]] — by Mark Booth \~ #SMA
-* [[Al-Fatih: Sang Penakluk]] — by Felix Siauw \~ #SMA
+* [[Muhammad Al-Fatih 1453]] — by Felix Siauw \~ #SMA
 * [[Friedrich Nietzsche]] — various works \~ #SMA–present
 * [[Emha Ainun Nadjib]] \~ #SMA
 * [[Mohammad Hatta]] — biography, thoughts \~ #SMA

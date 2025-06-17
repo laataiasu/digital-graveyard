@@ -61,7 +61,7 @@ Bbrp contoh company/project nya:
 -Talpiot
 
 Ch5
-Studi kasus ttng Singapore, [[South Korea]]. 
+Studi kasus ttng [[Singapore]], [[South Korea]]. 
 
 Walaupun terkenal karena wajib militer, tapi iklimnya beda dngn Israel yg identik dngn keterbukaan n fleksibilitas. 
 
@@ -156,7 +156,7 @@ Chapter 4:
 
 Chapter 5:
 
-- Contrasting case studies: Singapore and [[South Korea]].
+- Contrasting case studies: [[Singapore]] and [[South Korea]].
 - While both have mandatory military service, their cultures differ from Israel's emphasis on openness and flexibility.
 - Israel's unique cultural elements drive adaptability and innovation, especially due to living in a conflict-prone region.
 
