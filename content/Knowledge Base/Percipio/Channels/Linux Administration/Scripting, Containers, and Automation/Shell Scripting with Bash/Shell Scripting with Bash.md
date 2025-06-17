@@ -695,7 +695,7 @@ In this guide, we'll explore how to create a backup shell script in Linux and au
      ```bash
      ./backup.sh
      ```
-   - Verify that the backup file and log were created:
+   - Verify that the backup file and log were date:
      ```bash
      ls
      ```

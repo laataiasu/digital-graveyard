@@ -1,6 +1,6 @@
 
 ---
-Created: 2023-08-12T20:23
+date: 2023-08-12T20:23
 tags:
 - research
 Last edited time: 2024-01-07T00:10

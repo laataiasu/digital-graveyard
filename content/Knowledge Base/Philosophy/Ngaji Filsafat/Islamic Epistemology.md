@@ -1,3 +1,6 @@
+---
+publish_external: true
+---
 
 [[Islam]]
 

@@ -1,3 +1,6 @@
+---
+publish_external: true
+---
 Filosof : berpikir, memproduksi ide  
 Ahli Filsafat : belajar teori, tokoh, paradigma  
 ### Sebelum belajar, bedakan:

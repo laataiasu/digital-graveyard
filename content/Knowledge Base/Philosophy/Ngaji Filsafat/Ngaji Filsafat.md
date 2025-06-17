@@ -1,7 +1,8 @@
 ---
-Created: 2021-06-29
+date: 2021-06-29
 tags:
 - philosophy
+publish_external: true
 ---
 [[Introduction to Philosophy]]
 [[Knowledge Base/Philosophy/Ngaji Filsafat/Epistemology]]

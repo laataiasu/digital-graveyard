@@ -576,7 +576,7 @@ Next, you can move on to a more complex model, like Multiple Linear Regression:
 ### Evaluating Model Performance with MLflow
 
 1. **Overview of Runs:**
-   - Multiple models created:
+   - Multiple models date:
      - Random Forest Regression (tuned and default params)
      - Polynomial Regression
      - Multiple Linear Regression

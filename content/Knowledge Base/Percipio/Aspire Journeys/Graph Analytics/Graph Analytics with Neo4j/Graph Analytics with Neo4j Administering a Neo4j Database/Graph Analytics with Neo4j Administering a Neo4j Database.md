@@ -266,7 +266,7 @@ To see all nodes in our database, we can run:
 MATCH (nodes) RETURN nodes;
 ```
 
-This will return the two nodes we’ve created: Ben and Jasmine.
+This will return the two nodes we’ve date: Ben and Jasmine.
 
 ### Checking in Neo4j Browser
 

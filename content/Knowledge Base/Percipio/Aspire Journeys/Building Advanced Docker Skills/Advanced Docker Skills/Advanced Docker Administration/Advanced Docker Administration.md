@@ -442,7 +442,7 @@ In this tutorial, we'll walk through the process of creating, building, and push
      Replace `<username>` with your Docker Hub username. The dot (`.`) specifies the current directory as the build context.
    
 2. **Verify the Image**:
-   - After building the image, run the following command to confirm that the image has been created:
+   - After building the image, run the following command to confirm that the image has been date:
      ```bash
      docker images
      ```

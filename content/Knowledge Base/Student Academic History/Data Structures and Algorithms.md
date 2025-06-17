@@ -1,10 +1,23 @@
 ---
-Created: 2021-06-29T21:46
-tags:
-- dsa
-Last edited time: 2021-06-29T21:47
+alias: CSGE602040
+date: 2020-08-01
+publish_external: true
 ---
+
+# Data Structures and Algorithms
+
+- **Course Code**: CSGE602040
+- **Curriculum**: 06.00.12.01-2018
+- **Class**: SDA-C
+- **SKS**: 4
+- **IRS Status**: Approved
+- **Final Grade**: 85.99
+- **Letter Grade**: A
+
+
+
 [OBAT MANJUR SDA]  
+
 Visualisasi sorting  
 - [https://www.hackerearth.com/practice/algorithms/sorting/](https://www.hackerearth.com/practice/algorithms/sorting/)
 - [https://visualgo.net/bn/sorting](https://visualgo.net/bn/sorting)

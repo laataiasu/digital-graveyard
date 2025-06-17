@@ -1,5 +1,5 @@
 ---
-Created: 2022-07-07
+date: 2022-07-07
 tags:
 - business
 - ideas

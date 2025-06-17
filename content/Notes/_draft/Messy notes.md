@@ -1,5 +1,5 @@
 ---
-Created: 2022-06-14
+date: 2022-06-14
 tags:
 - draft
 - ideas
