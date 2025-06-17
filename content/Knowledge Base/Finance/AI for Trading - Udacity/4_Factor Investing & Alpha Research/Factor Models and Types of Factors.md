@@ -18,25 +18,25 @@ In essence, a factor model in finance attempts to explain the returns of a large
 
 #### Mathematical Representation of a Factor Model
 
-The return \( R_i \) of a stock \( i \) can be expressed using a factor model as:
+The return $R_i$ of a stock $i$ can be expressed using a factor model as:
 
-\[
+$$
 R_i = \beta_{i1}F_1 + \beta_{i2}F_2 + \dots + \beta_{ik}F_k + \epsilon_i
-\]
+$$
 
 Where:
-- \( R_i \): The return of stock \( i \).
-- \( F_1, F_2, \dots, F_k \): The returns of the factors \( 1, 2, \dots, k \). These factors are the same for all stocks.
-- \( \beta_{i1}, \beta_{i2}, \dots, \beta_{ik} \): The **factor exposures** or **factor loadings**. These represent how sensitive the return of stock \( i \) is to each factor.
-- \( \epsilon_i \): The error term, representing the portion of the stock's return not explained by the factors.
+- $R_i$: The return of stock $i$.
+- $F_1, F_2, \dots, F_k$: The returns of the factors $1, 2, \dots, k$. These factors are the same for all stocks.
+- $\beta_{i1}, \beta_{i2}, \dots, \beta_{ik}$: The **factor exposures** or **factor loadings**. These represent how sensitive the return of stock $i$ is to each factor.
+- $\epsilon_i$: The error term, representing the portion of the stock's return not explained by the factors.
 
 #### Breaking Down the Model
 
-- **Factor Returns (\( F_1, F_2, \dots \))**: These are the returns associated with the factors and are the same for all stocks. They capture the performance of underlying economic forces or market movements.
+- **Factor Returns ($F_1, F_2, \dots$)**: These are the returns associated with the factors and are the same for all stocks. They capture the performance of underlying economic forces or market movements.
 
-- **Factor Exposures (\( \beta_{i1}, \beta_{i2}, \dots \))**: These coefficients indicate how much the return of a particular stock \( i \) changes in response to changes in each factor return. Different stocks will have different exposures to the same factors.
+- **Factor Exposures ($\beta_{i1}, \beta_{i2}, \dots$)**: These coefficients indicate how much the return of a particular stock $i$ changes in response to changes in each factor return. Different stocks will have different exposures to the same factors.
 
-- **Error Term (\( \epsilon_i \))**: This is the part of the stock's return that cannot be attributed to the factors. It represents stock-specific risks or influences not captured by the model.
+- **Error Term ($\epsilon_i$)**: This is the part of the stock's return that cannot be attributed to the factors. It represents stock-specific risks or influences not captured by the model.
 
 #### Conclusion
 
@@ -47,7 +47,7 @@ In the upcoming lessons, we'll delve deeper into the practical application of th
 ## 2. Factor Returns as Latent Variables
 
 #### Recap: Decomposing Stock Returns
-In the previous lesson, we learned that the return of any stock \( i \) can be broken down into a combination of factor returns, the stock's exposure to these factors, and an unexplained portion (error term). This decomposition resembles **multiple regression analysis**, but there's a key difference.
+In the previous lesson, we learned that the return of any stock $i$ can be broken down into a combination of factor returns, the stock's exposure to these factors, and an unexplained portion (error term). This decomposition resembles **multiple regression analysis**, but there's a key difference.
 
 #### Difference Between Regression and Factor Models
 In a standard regression, the independent variables (predictors) are directly observable and measurable, like historical stock prices, interest rates, or GDP growth. However, in a **factor model**, the independent variables or **factor returns** are often **latent variables**—unobserved forces that influence stock returns but aren't directly measurable.
@@ -70,18 +70,18 @@ To solve this, you create a **theoretical portfolio** that reflects the size fac
 
 This portfolio is constructed daily, and its returns over time provide a single time series representing the size factor's influence. 
 
-Mathematically, the daily return \( R_{\text{factor}}(t) \) of this portfolio might be calculated as:
+Mathematically, the daily return $R_{\text{factor}}(t)$ of this portfolio might be calculated as:
 
-\[
+$$
 R_{\text{factor}}(t) = \frac{1}{N_{s}} \sum_{i \in S(t)} R_i(t) - \frac{1}{N_{l}} \sum_{j \in L(t)} R_j(t)
-\]
+$$
 
 Where:
-- \( S(t) \) and \( L(t) \) are the sets of small-cap and large-cap stocks at time \( t \), respectively.
-- \( N_{s} \) and \( N_{l} \) are the numbers of small-cap and large-cap stocks.
-- \( R_i(t) \) and \( R_j(t) \) are the returns of small-cap stock \( i \) and large-cap stock \( j \) at time \( t \).
+- $S(t)$ and $L(t)$ are the sets of small-cap and large-cap stocks at time $t$, respectively.
+- $N_{s}$ and $N_{l}$ are the numbers of small-cap and large-cap stocks.
+- $R_i(t)$ and $R_j(t)$ are the returns of small-cap stock $i$ and large-cap stock $j$ at time $t$.
 
-This return series \( R_{\text{factor}}(t) \) now represents the **latent variable** (size factor) and can be used in a regression model to understand its impact on stock returns.
+This return series $R_{\text{factor}}(t)$ now represents the **latent variable** (size factor) and can be used in a regression model to understand its impact on stock returns.
 
 #### Conclusion
 
@@ -93,7 +93,7 @@ Understanding how to create and interpret these factor return time series is cru
 
 Factor models in finance use specific terminology to describe various components. Understanding these terms is crucial for interpreting and applying factor models effectively. Below is a breakdown of the key terms and their possible variations.
 
-#### Factor Returns (\( f_k \))
+#### Factor Returns ($f_k$)
 
 **Factor returns** represent the influence of underlying factors on asset returns. They can be described in several ways, depending on the context:
 
@@ -103,7 +103,7 @@ Factor models in finance use specific terminology to describe various components
 - **Returns on benchmark portfolios:** Returns from portfolios that represent entire asset classes, such as the S&P 500 for U.S. equities.
 - **Other descriptions:** Depending on the model, factor returns might be defined differently to capture unique influences on asset performance.
 
-#### Factor Exposures (\( b_{ij} \))
+#### Factor Exposures ($b_{ij}$)
 
 **Factor exposures** measure how sensitive an asset's return is to each factor. These exposures can be referred to by various names:
 
@@ -113,7 +113,7 @@ Factor models in finance use specific terminology to describe various components
 - **Asset exposures:** Directly describes how much an asset is exposed to a given factor.
 - **Style:** In some contexts, especially in style investing, exposures are referred to as "style" (e.g., value, growth).
 
-#### Residual Return (\( e_i \))
+#### Residual Return ($e_i$)
 
 The **residual return** is the portion of an asset's return not explained by the factors in the model. It’s often called:
 
@@ -139,13 +139,13 @@ Factor models, particularly **linear factor models**, are powerful tools used in
 
    The first key assumption is that the **residual return** of an asset (the part of the return not explained by the factors) is uncorrelated with each of the factor returns. 
 
-   - **Residual Return (\( \epsilon_i \))**: This is the portion of a stock's return that cannot be explained by the factors in the model. It's considered the "idiosyncratic" or asset-specific risk.
-   - **Factor Returns (\( F_1, F_2, \dots \))**: These are the returns associated with the factors that affect all assets in the model.
+   - **Residual Return ($\epsilon_i$)**: This is the portion of a stock's return that cannot be explained by the factors in the model. It's considered the "idiosyncratic" or asset-specific risk.
+   - **Factor Returns ($F_1, F_2, \dots$)**: These are the returns associated with the factors that affect all assets in the model.
 
    The assumption implies that once you've accounted for the factors, the residual return is purely random and does not show any systematic pattern related to the factors.
 
    **Why is this important?**
-   This assumption ensures that the factor exposures (\( \beta_{i1}, \beta_{i2}, \dots \)) accurately capture the influence of the factors on the asset returns. If the residuals were correlated with the factors, it would indicate that the model is missing some explanatory power, and the factors aren't fully capturing the systematic influences on returns.
+   This assumption ensures that the factor exposures ($\beta_{i1}, \beta_{i2}, \dots$) accurately capture the influence of the factors on the asset returns. If the residuals were correlated with the factors, it would indicate that the model is missing some explanatory power, and the factors aren't fully capturing the systematic influences on returns.
 
    **How to achieve this?**
    In practice, the factor exposures can be adjusted, often through **multiple regression techniques**, to ensure that this assumption holds. By doing so, we minimize the correlation between the residuals and the factors, making the model more robust.
@@ -186,80 +186,80 @@ In finance, understanding the **covariance matrix** of asset returns is crucial 
 #### Setting Up the Factor Model
 
 Let’s represent the returns of assets using a factor model:
-- \( \mathbf{r} \) is a vector of returns for \( n \) assets.
-- \( \mathbf{B} \) is a matrix of factor exposures (also called factor loadings), with dimensions \( n \times m \) where \( m \) is the number of factors.
-- \( \mathbf{F} \) is a vector of factor returns, with each element representing the return of a factor.
-- \( \mathbf{\epsilon} \) is a vector of residuals, with each residual representing the asset-specific return not explained by the factors.
+- $\mathbf{r}$ is a vector of returns for $n$ assets.
+- $\mathbf{B}$ is a matrix of factor exposures (also called factor loadings), with dimensions $n \times m$ where $m$ is the number of factors.
+- $\mathbf{F}$ is a vector of factor returns, with each element representing the return of a factor.
+- $\mathbf{\epsilon}$ is a vector of residuals, with each residual representing the asset-specific return not explained by the factors.
 
 The factor model equation is:
 
-\[
+$$
 \mathbf{r} = \mathbf{B} \mathbf{F} + \mathbf{\epsilon}
-\]
+$$
 
 Where:
-- \( \mathbf{r} \) is \( n \times 1 \),
-- \( \mathbf{B} \) is \( n \times m \),
-- \( \mathbf{F} \) is \( m \times 1 \),
-- \( \mathbf{\epsilon} \) is \( n \times 1 \).
+- $\mathbf{r}$ is $n \times 1$,
+- $\mathbf{B}$ is $n \times m$,
+- $\mathbf{F}$ is $m \times 1$,
+- $\mathbf{\epsilon}$ is $n \times 1$.
 
 #### Covariance Matrix Derivation
 
-The **covariance matrix** of asset returns, \( \mathbf{\Sigma}_r \), describes the relationships between the returns of different assets. It can be derived as follows:
+The **covariance matrix** of asset returns, $\mathbf{\Sigma}_r$, describes the relationships between the returns of different assets. It can be derived as follows:
 
 1. **Starting with the Factor Model**:
-   \[
+   $$
    \mathbf{r} = \mathbf{B} \mathbf{F} + \mathbf{\epsilon}
-   \]
+   $$
 
 2. **Covariance Matrix of Asset Returns**:
-   The covariance matrix of \( \mathbf{r} \) is given by:
+   The covariance matrix of $\mathbf{r}$ is given by:
 
-   \[
-   \mathbf{\Sigma}_r = \text{Cov}(\mathbf{r}) = \mathbb{E}[\mathbf{r}\mathbf{r}^\top]
-   \]
+   $$
+\mathbf{\Sigma}_r = \text{Cov}(\mathbf{r}) = \mathbb{E}[\mathbf{r}\mathbf{r}^\top]
+$$
 
-   Substituting \( \mathbf{r} = \mathbf{B} \mathbf{F} + \mathbf{\epsilon} \) into this equation:
+   Substituting $\mathbf{r} = \mathbf{B} \mathbf{F} + \mathbf{\epsilon}$ into this equation:
 
-   \[
-   \mathbf{\Sigma}_r = \mathbb{E}[(\mathbf{B} \mathbf{F} + \mathbf{\epsilon})(\mathbf{B} \mathbf{F} + \mathbf{\epsilon})^\top]
-   \]
+   $$
+\mathbf{\Sigma}_r = \mathbb{E}[(\mathbf{B} \mathbf{F} + \mathbf{\epsilon})(\mathbf{B} \mathbf{F} + \mathbf{\epsilon})^\top]
+$$
 
 3. **Expanding the Expression**:
    Distribute and expand the matrix product:
 
-   \[
-   \mathbf{\Sigma}_r = \mathbb{E}[\mathbf{B} \mathbf{F} \mathbf{F}^\top \mathbf{B}^\top] + \mathbb{E}[\mathbf{B} \mathbf{F} \mathbf{\epsilon}^\top] + \mathbb{E}[\mathbf{\epsilon} \mathbf{F}^\top \mathbf{B}^\top] + \mathbb{E}[\mathbf{\epsilon} \mathbf{\epsilon}^\top]
-   \]
+   $$
+\mathbf{\Sigma}_r = \mathbb{E}[\mathbf{B} \mathbf{F} \mathbf{F}^\top \mathbf{B}^\top] + \mathbb{E}[\mathbf{B} \mathbf{F} \mathbf{\epsilon}^\top] + \mathbb{E}[\mathbf{\epsilon} \mathbf{F}^\top \mathbf{B}^\top] + \mathbb{E}[\mathbf{\epsilon} \mathbf{\epsilon}^\top]
+$$
 
 4. **Applying Assumptions**:
-   - **Assumption 1**: \( \mathbf{\epsilon} \) is uncorrelated with \( \mathbf{F} \), so \( \mathbb{E}[\mathbf{B} \mathbf{F} \mathbf{\epsilon}^\top] = 0 \) and \( \mathbb{E}[\mathbf{\epsilon} \mathbf{F}^\top \mathbf{B}^\top] = 0 \).
+   - **Assumption 1**: $\mathbf{\epsilon}$ is uncorrelated with $\mathbf{F}$, so $\mathbb{E}[\mathbf{B} \mathbf{F} \mathbf{\epsilon}^\top] = 0$ and $\mathbb{E}[\mathbf{\epsilon} \mathbf{F}^\top \mathbf{B}^\top] = 0$.
    - **Simplifying**:
-     \[
-     \mathbf{\Sigma}_r = \mathbf{B} \mathbb{E}[\mathbf{F} \mathbf{F}^\top] \mathbf{B}^\top + \mathbb{E}[\mathbf{\epsilon} \mathbf{\epsilon}^\top]
-     \]
+     $$
+\mathbf{\Sigma}_r = \mathbf{B} \mathbb{E}[\mathbf{F} \mathbf{F}^\top] \mathbf{B}^\top + \mathbb{E}[\mathbf{\epsilon} \mathbf{\epsilon}^\top]
+$$
 
-   Define \( \mathbf{\Sigma}_F = \mathbb{E}[\mathbf{F} \mathbf{F}^\top] \) as the covariance matrix of factor returns, and \( \mathbf{D} = \mathbb{E}[\mathbf{\epsilon} \mathbf{\epsilon}^\top] \) as the covariance matrix of residuals.
+   Define $\mathbf{\Sigma}_F = \mathbb{E}[\mathbf{F} \mathbf{F}^\top]$ as the covariance matrix of factor returns, and $\mathbf{D} = \mathbb{E}[\mathbf{\epsilon} \mathbf{\epsilon}^\top]$ as the covariance matrix of residuals.
 
    Therefore:
 
-   \[
+   $$
    \mathbf{\Sigma}_r = \mathbf{B} \mathbf{\Sigma}_F \mathbf{B}^\top + \mathbf{D}
-   \]
+   $$
 
 5. **Understanding the Covariance Matrices**:
-   - **Factor Covariance Matrix \( \mathbf{\Sigma}_F \)**: Represents how the factors covary with each other.
-   - **Residual Covariance Matrix \( \mathbf{D} \)**: Given the assumption that residuals are uncorrelated across assets, \( \mathbf{D} \) is a diagonal matrix. Each diagonal element corresponds to the variance of the residuals (idiosyncratic risk) of each asset.
+   - **Factor Covariance Matrix $\mathbf{\Sigma}_F$**: Represents how the factors covary with each other.
+   - **Residual Covariance Matrix $\mathbf{D}$**: Given the assumption that residuals are uncorrelated across assets, $\mathbf{D}$ is a diagonal matrix. Each diagonal element corresponds to the variance of the residuals (idiosyncratic risk) of each asset.
 
 #### Conclusion
 
-The covariance matrix \( \mathbf{\Sigma}_r \) of asset returns is given by:
+The covariance matrix $\mathbf{\Sigma}_r$ of asset returns is given by:
 
-\[
+$$
 \mathbf{\Sigma}_r = \mathbf{B} \mathbf{\Sigma}_F \mathbf{B}^\top + \mathbf{D}
-\]
+$$
 
-This matrix is crucial for portfolio optimization, as it encapsulates both the common risks (through \( \mathbf{B} \mathbf{\Sigma}_F \mathbf{B}^\top \)) and the idiosyncratic risks (through \( \mathbf{D} \)) associated with the assets in the portfolio. By understanding this structure, you can better manage and optimize portfolio risk using factor models.
+This matrix is crucial for portfolio optimization, as it encapsulates both the common risks (through $\mathbf{B} \mathbf{\Sigma}_F \mathbf{B}^\top$) and the idiosyncratic risks (through $\mathbf{D}$) associated with the assets in the portfolio. By understanding this structure, you can better manage and optimize portfolio risk using factor models.
 
 ## 6. Factor Models in Quantitative Finance
 
@@ -286,28 +286,28 @@ In portfolio optimization, the goal is to create a portfolio that balances retur
 
 1. **Matrix of Factor Exposures (B)**:
    - Represents the sensitivity of each asset to specific factors.
-   - In optimization, \( B \) is often reduced to include only the **risk factors**. Alpha factors are excluded from this matrix to focus the optimization on controlling risk.
+   - In optimization, $B$ is often reduced to include only the **risk factors**. Alpha factors are excluded from this matrix to focus the optimization on controlling risk.
 
 2. **Portfolio Factor Exposure**:
-   - For a portfolio with weights \( \mathbf{x} \), the portfolio’s exposure to risk factors is \( B^\top \mathbf{x} \).
-   - Constraints are placed on \( B^\top \mathbf{x} \) to limit exposure to risk factors, thereby managing portfolio volatility.
+   - For a portfolio with weights $\mathbf{x}$, the portfolio’s exposure to risk factors is $B^\top \mathbf{x}$.
+   - Constraints are placed on $B^\top \mathbf{x}$ to limit exposure to risk factors, thereby managing portfolio volatility.
 
 3. **Covariance Matrices (F and S)**:
-   - \( \mathbf{F} \): The covariance matrix of factor returns that significantly impact portfolio variance (risk factors only).
-   - \( \mathbf{S} \): Represents the residual variance, which includes the variance not explained by the factors and the variance due to alpha factors that were excluded from \( \mathbf{B} \).
+   - $\mathbf{F}$: The covariance matrix of factor returns that significantly impact portfolio variance (risk factors only).
+   - $\mathbf{S}$: Represents the residual variance, which includes the variance not explained by the factors and the variance due to alpha factors that were excluded from $\mathbf{B}$.
 
 #### Practical Usage in Portfolio Optimization
 
 In practice, here's how these elements are used:
 
 1. **Risk Management**:
-   - The matrices \( \mathbf{F} \) and \( \mathbf{S} \) are used to constrain portfolio risk. Quants focus on minimizing the portfolio's exposure to risk factors.
+   - The matrices $\mathbf{F}$ and $\mathbf{S}$ are used to constrain portfolio risk. Quants focus on minimizing the portfolio's exposure to risk factors.
 
 2. **Objective Function**:
-   - Alpha factors, which were removed from \( \mathbf{B} \), are combined into a single vector that forms part of the objective function in the optimization problem. This vector represents the expected returns, which the optimization seeks to maximize while controlling for risk using the constraints on \( \mathbf{B} \).
+   - Alpha factors, which were removed from $\mathbf{B}$, are combined into a single vector that forms part of the objective function in the optimization problem. This vector represents the expected returns, which the optimization seeks to maximize while controlling for risk using the constraints on $\mathbf{B}$.
 
 3. **Commercial Tools**:
-   - Many practitioners purchase the matrices \( \mathbf{F} \), \( \mathbf{S} \), and \( \mathbf{B} \) from commercial providers. These tools are sufficient because they focus explicitly on risk management, leaving the task of maximizing returns to the quants' custom alpha factors.
+   - Many practitioners purchase the matrices $\mathbf{F}$, $\mathbf{S}$, and $\mathbf{B}$ from commercial providers. These tools are sufficient because they focus explicitly on risk management, leaving the task of maximizing returns to the quants' custom alpha factors.
 
 #### Conclusion
 
@@ -331,11 +331,11 @@ Some common factors include:
 
 We can model the return of a stock as the sum of contributions from both risk factors and alpha factors. Each factor adds to the movement of the stock price, impacting its overall return.
 
-Mathematically, if \( R \) represents the return of a stock, we can express it as:
+Mathematically, if $R$ represents the return of a stock, we can express it as:
 
-\[
+$$
 R = \text{Risk Factors} + \text{Alpha Factors} + \text{Error Term}
-\]
+$$
 
 #### Risk Factors vs. Alpha Factors
 
@@ -398,25 +398,25 @@ Consider the following simple illustration:
 
 - Imagine a stock's total return is influenced by both risk factors and alpha factors. Without neutralizing the risk factors, the stock's price movement might be dominated by broader market trends (risk factors), making it difficult to see the impact of the alpha factors.
 
-- Mathematically, if \( R \) represents the stock's return:
+- Mathematically, if $R$ represents the stock's return:
 
-\[
+$$
 R = (\text{Risk Factors}) + (\text{Alpha Factors}) + \text{Error Term}
-\]
+$$
 
 - The magnitude of the risk factors might look something like:
 
-\[
+$$
 R_{\text{Risk}} = 0.8 \cdot (\text{Market Return}) + 0.6 \cdot (\text{Sector Return}) + 0.5 \cdot (\text{Country Return}) + \dots
-\]
+$$
 
 - Meanwhile, an alpha factor might contribute:
 
-\[
+$$
 R_{\text{Alpha}} = 0.1 \cdot (\text{Book-to-Market} \times \text{Idiosyncratic Volatility}) + \dots
-\]
+$$
 
-Without neutralization, the portfolio's return could be heavily skewed by \( R_{\text{Risk}} \), making it difficult to detect the signal from \( R_{\text{Alpha}} \).
+Without neutralization, the portfolio's return could be heavily skewed by $R_{\text{Risk}}$, making it difficult to detect the signal from $R_{\text{Alpha}}$.
 
 #### Summary
 
@@ -554,9 +554,9 @@ In the world of investing, factors can generally be categorized into two types: 
    - **Hypothesis**: If a stock has been performing well over a certain period, it is likely to keep performing well (winners keep winning). Conversely, if a stock has been underperforming, it might continue to do so (losers keep losing).
    - **Example**: A **one-year return momentum factor** assumes that stocks with higher returns over the past year will continue to outperform those with lower returns.
 
-   \[
+   $$
    \text{Momentum Factor} = \text{One-Year Return}
-   \]
+   $$
 
    - **Application**: If Stock A has a higher one-year return than Stock B, the momentum factor suggests Stock A will have a higher near-term return compared to Stock B.
 
@@ -565,9 +565,9 @@ In the world of investing, factors can generally be categorized into two types: 
    - **Hypothesis**: If a stock's price has increased recently, it may decrease as investors sell off to secure profits (profit-taking). Conversely, if a stock's price has decreased, it might rise again as it becomes attractive to new buyers at a lower price.
    - **Example**: A **weekly return reversal factor** assumes that stocks with high weekly returns might see lower future returns, and stocks with negative weekly returns might rebound.
 
-   \[
+   $$
    \text{Reversal Factor} = -\text{Weekly Return}
-   \]
+   $$
 
    - **Application**: If Stock A has a higher weekly return than Stock B, the reversal factor suggests that Stock A's future returns might be lower, while Stock B might recover.
 
@@ -605,8 +605,8 @@ Price-volume factors, often referred to as technical factors, are derived from s
    - **Returns Calculation**: Returns can be calculated over different periods, such as daily, weekly, or monthly returns. They can also be calculated over shorter intervals, like hourly or even by comparing the close price of one day with the open price of the next day (known as overnight returns).
    
      Examples:
-     - **Daily Return**: \( \text{Return}_{\text{daily}} = \frac{\text{Close Price}_{\text{today}} - \text{Close Price}_{\text{yesterday}}}{\text{Close Price}_{\text{yesterday}}} \)
-     - **Overnight Return**: \( \text{Overnight Return} = \frac{\text{Open Price}_{\text{today}} - \text{Close Price}_{\text{yesterday}}}{\text{Close Price}_{\text{yesterday}}} \)
+     - **Daily Return**: $\text{Return}_{\text{daily}} = \frac{\text{Close Price}_{\text{today}} - \text{Close Price}_{\text{yesterday}}}{\text{Close Price}_{\text{yesterday}}}$
+     - **Overnight Return**: $\text{Overnight Return} = \frac{\text{Open Price}_{\text{today}} - \text{Close Price}_{\text{yesterday}}}{\text{Close Price}_{\text{yesterday}}}$
 
    - **Distribution Analysis**: Analyzing the distribution of returns can provide deeper insights:
      - **Mean**: The average return, indicating the central tendency.
@@ -691,9 +691,9 @@ Fundamental factors are derived from a company's financial statements, such as t
    - **Market Cap**: Market capitalization (market cap) is a measure of a company's size, calculated as the stock price multiplied by the number of outstanding shares.
    - **Small Cap vs. Large Cap**: Historically, smaller companies (small caps) have outperformed larger companies (large caps). A strategy might involve overweighting small-cap stocks and underweighting large-cap stocks based on this historical performance trend.
 
-   \[
+   $$
    \text{Market Cap} = \text{Stock Price} \times \text{Number of Outstanding Shares}
-   \]
+   $$
 
    - **Strategy**: By focusing on small-cap stocks, a trader might aim to capture the higher growth potential of these companies compared to large-cap stocks.
 
@@ -716,17 +716,17 @@ Fundamental ratios are crucial tools for evaluating a company's financial health
    - **Traditional P/E Ratio**: Calculated as the stock price divided by earnings per share (EPS). However, this can be problematic when earnings are zero or negative, leading to undefined or very high values.
    - **Earnings Yield**: To avoid issues with the P/E ratio, analysts often use the inverse, which is **Earnings per Share divided by Price (E/P)**. This approach prevents extreme values and makes comparisons easier.
 
-   \[
+   $$
    \text{Earnings Yield} = \frac{\text{Earnings per Share (EPS)}}{\text{Price}}
-   \]
+   $$
 
 2. **Book-to-Price Ratio**:
    - **Definition**: The **Book-to-Price Ratio** compares a company’s book value (net asset value) to its market price. It is a reliable metric even when earnings are negative, as long as the company's assets exceed its liabilities.
    - **Usage**: This ratio is often used as an alternative to the P/E ratio, especially when earnings are volatile or negative.
 
-   \[
+   $$
    \text{Book-to-Price Ratio} = \frac{\text{Book Value per Share}}{\text{Price per Share}}
-   \]
+   $$
 
 3. **Cash Flow-Based Ratios**:
    - **Why Cash Flow?**: Cash flow metrics are used to bypass potential manipulation in earnings reports, as cash flow represents the actual cash moving in and out of a company. Unlike earnings, cash flows are harder to manipulate and offer a clearer picture of a company's financial health.
@@ -734,13 +734,13 @@ Fundamental ratios are crucial tools for evaluating a company's financial health
      - **Cash Flow per Share**: Measures the cash generated by a company on a per-share basis.
      - **EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)**: Often used to assess a company's profitability by focusing on earnings before non-cash expenses and financing costs.
 
-   \[
+   $$
    \text{Cash Flow per Share} = \frac{\text{Operating Cash Flow}}{\text{Shares Outstanding}}
-   \]
+   $$
 
-   \[
+   $$
    \text{EBITDA} = \text{Net Income} + \text{Interest} + \text{Taxes} + \text{Depreciation} + \text{Amortization}
-   \]
+   $$
 
 4. **Earnings vs. Cash Flow**:
    - **Earnings**: Represent the company's profitability after accounting for all expenses, including non-cash items like depreciation.

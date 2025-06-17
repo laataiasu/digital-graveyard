@@ -140,26 +140,26 @@ Amdahl's Law is a principle in parallel computing introduced by Gene Amdahl in 1
 
 Amdahl's Law is mathematically expressed as:
 
-\[ S(p) = \frac{1}{(1 - P) + \frac{P}{p}} \]
+$$ S(p) = \frac{1}{(1 - P) + \frac{P}{p}} $$
 
 Where:
-- \( S(p) \) is the speedup with \( p \) processors.
-- \( P \) is the fraction of the task that is parallelizable.
-- \( (1 - P) \) is the fraction of the task that is sequential.
-- \( p \) is the number of processors.
+- $S(p)$ is the speedup with $p$ processors.
+- $P$ is the fraction of the task that is parallelizable.
+- $(1 - P)$ is the fraction of the task that is sequential.
+- $p$ is the number of processors.
 
 ### Implications
 
-1. **Diminishing Returns**: As the number of processors increases, the speedup is limited by the sequential portion of the task. Even with an infinite number of processors, the maximum speedup is bounded by \( \frac{1}{1 - P} \).
+1. **Diminishing Returns**: As the number of processors increases, the speedup is limited by the sequential portion of the task. Even with an infinite number of processors, the maximum speedup is bounded by $\frac{1}{1 - P}$.
 2. **Scalability Limits**: The law demonstrates that tasks with significant sequential portions do not benefit much from parallelization, highlighting the importance of minimizing the sequential part to achieve better scalability.
 3. **Optimization Focus**: Amdahl's Law suggests that to maximize the benefits of parallel computing, efforts should be focused on reducing the sequential portion of the task.
 
 ### Example
 
-Consider a task where 80% of the computation can be parallelized (\( P = 0.8 \)) and 20% is sequential (\( 1 - P = 0.2 \)).
+Consider a task where 80% of the computation can be parallelized ($P = 0.8$) and 20% is sequential ($1 - P = 0.2$).
 
-For \( p = 4 \) processors:
-\[ S(4) = \frac{1}{(1 - 0.8) + \frac{0.8}{4}} = \frac{1}{0.2 + 0.2} = \frac{1}{0.4} = 2.5 \]
+For $p = 4$ processors:
+$$ S(4) = \frac{1}{(1 - 0.8) + \frac{0.8}{4}} = \frac{1}{0.2 + 0.2} = \frac{1}{0.4} = 2.5 $$
 
 This means that using 4 processors, the speedup is 2.5 times.
 
@@ -186,33 +186,33 @@ Gustafson's Law, formulated by John L. Gustafson in 1988, is a principle in para
 
 Gustafson's Law is mathematically expressed as:
 
-\[ S(p) = p - \alpha(p - 1) \]
+$$ S(p) = p - \alpha(p - 1) $$
 
 Where:
-- \( S(p) \) is the speedup with \( p \) processors.
-- \( p \) is the number of processors.
-- \( \alpha \) is the fraction of the computation that is sequential (not parallelizable).
+- $S(p)$ is the speedup with $p$ processors.
+- $p$ is the number of processors.
+- $\alpha$ is the fraction of the computation that is sequential (not parallelizable).
 
 ### Implications
 
-1. **Linear Scalability**: If the sequential fraction \( \alpha \) is small, the speedup can approach linear scalability, meaning that doubling the number of processors nearly doubles the speedup.
+1. **Linear Scalability**: If the sequential fraction $\alpha$ is small, the speedup can approach linear scalability, meaning that doubling the number of processors nearly doubles the speedup.
 2. **Parallel Efficiency**: Gustafson's Law highlights the importance of designing algorithms and systems that maximize the parallelizable portion of tasks to leverage the full potential of parallel computing.
 3. **Optimistic Outlook**: It provides a more optimistic outlook compared to Amdahl's Law by suggesting that the performance bottleneck due to the sequential part can be mitigated by increasing the problem size.
 
 ### Example
 
-Consider a computation where 10% of the task is sequential (\( \alpha = 0.1 \)) and 90% can be parallelized. Using Gustafson's Law:
+Consider a computation where 10% of the task is sequential ($\alpha = 0.1$) and 90% can be parallelized. Using Gustafson's Law:
 
-For \( p = 10 \) processors:
-\[ S(10) = 10 - 0.1 \times (10 - 1) = 10 - 0.9 = 9.1 \]
+For $p = 10$ processors:
+$$ S(10) = 10 - 0.1 \times (10 - 1) = 10 - 0.9 = 9.1 $$
 
 This indicates a speedup of 9.1 times with 10 processors, showing substantial efficiency gains.
 
 ### Comparison with Amdahl's Law
 
 - **Amdahl's Law**: Focuses on the speedup with a fixed problem size and highlights the diminishing returns due to the sequential portion.
-  \[ S(p) = \frac{1}{(1 - P) + \frac{P}{p}} \]
-  Where \( P \) is the parallel portion of the task.
+  $$ S(p) = \frac{1}{(1 - P) + \frac{P}{p}} $$
+  Where $P$ is the parallel portion of the task.
 
 - **Gustafson's Law**: Focuses on the speedup with a fixed execution time and suggests that larger problem sizes can lead to greater parallel efficiency.
 

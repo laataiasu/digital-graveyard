@@ -71,9 +71,9 @@ The Kalman Filter is somewhat similar to the **Monte Carlo localization** techni
 
 Let’s consider a simple scenario to understand how the Kalman Filter works in practice:
 
-Imagine our self-driving car detects another vehicle at four different time points: at \( t = 0 \), \( t = 1 \), \( t = 2 \), and \( t = 3 \). Each of these measurements gives us the position of the vehicle at that specific time.
+Imagine our self-driving car detects another vehicle at four different time points: at $t = 0$, $t = 1$, $t = 2$, and $t = 3$. Each of these measurements gives us the position of the vehicle at that specific time.
 
-Now, based on these observations, where would you expect the vehicle to be at \( t = 4 \)?
+Now, based on these observations, where would you expect the vehicle to be at $t = 4$?
 
 #### Predicting the Next Position
 
@@ -108,37 +108,37 @@ Next, we'll dive deeper into the mathematics and algorithms behind the Kalman Fi
 
 The 1D Gaussian function is defined as:
 
-\[
+$$
 f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left(-\frac{(x - \mu)^2}{2\sigma^2}\right)
-\]
+$$
 
 Where:
-- \( x \) is the variable.
-- \( \mu \) is the mean.
-- \( \sigma^2 \) is the variance.
-- The term \(\exp\) denotes the exponential function.
+- $x$ is the variable.
+- $\mu$ is the mean.
+- $\sigma^2$ is the variance.
+- The term $\exp$ denotes the exponential function.
 
 #### Key Points:
-- **Exponential of a Quadratic**: The Gaussian function involves an exponential term where the exponent is a negative quadratic function of \(x\).
-- **Normalization Constant**: \( \frac{1}{\sqrt{2\pi\sigma^2}} \) ensures that the area under the curve sums to 1, making it a valid probability distribution.
+- **Exponential of a Quadratic**: The Gaussian function involves an exponential term where the exponent is a negative quadratic function of $x$.
+- **Normalization Constant**: $\frac{1}{\sqrt{2\pi\sigma^2}}$ ensures that the area under the curve sums to 1, making it a valid probability distribution.
   - For many applications, this constant can be ignored because it doesn't affect the shape of the Gaussian, only the scaling.
 
 ### Practical Example
 To visualize a Gaussian:
 
-1. **When \(x = \mu\)**: The exponential term becomes \(\exp(0) = 1\), meaning the Gaussian reaches its peak.
-2. **As \(x\) moves away from \(\mu\)**: The exponential term decreases, leading to lower values of \(f(x)\).
+1. **When $x = \mu$**: The exponential term becomes $\exp(0) = 1$, meaning the Gaussian reaches its peak.
+2. **As $x$ moves away from $\mu$**: The exponential term decreases, leading to lower values of $f(x)$.
 
 ### Key Concept: Gaussian as an Approximation
 
-- In Kalman Filters and similar techniques, instead of estimating the whole distribution using a histogram, we approximate it using a Gaussian characterized by \( \mu \) and \( \sigma^2 \). This is computationally efficient and works well in practice for many problems.
+- In Kalman Filters and similar techniques, instead of estimating the whole distribution using a histogram, we approximate it using a Gaussian characterized by $\mu$ and $\sigma^2$. This is computationally efficient and works well in practice for many problems.
 
 ### Visualization: Identifying a Gaussian
 
 To recognize a Gaussian curve, look for:
 - A symmetric bell-shaped curve.
-- The peak is at \( \mu \).
-- The curve tails off smoothly as you move away from \( \mu \) in both directions.
+- The peak is at $\mu$.
+- The curve tails off smoothly as you move away from $\mu$ in both directions.
 
 ## 4. Maximize Gaussian
 
@@ -148,60 +148,60 @@ Let's break down the steps and find the solution.
 
 The Gaussian function in 1D is given by:
 
-\[
+$$
 f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left(-\frac{(x - \mu)^2}{2\sigma^2}\right)
-\]
+$$
 
 Given parameters:
-- \( \mu = 10 \)
-- \( \sigma^2 = 4 \)
-- \( x = 8 \)
+- $\mu = 10$
+- $\sigma^2 = 4$
+- $x = 8$
 
 ### Step 1: Constant Calculation
 
 The constant part is:
 
-\[
+$$
 \text{constant} = \frac{1}{\sqrt{2\pi\sigma^2}} = \frac{1}{\sqrt{2\pi \times 4}}
-\]
+$$
 
 ### Step 2: Exponential Part Calculation
 
 The exponential part is:
 
-\[
+$$
 \text{exponential} = \exp\left(-\frac{(x - \mu)^2}{2\sigma^2}\right) = \exp\left(-\frac{(8 - 10)^2}{2 \times 4}\right)
-\]
+$$
 
 ### Step 3: Function Calculation
 
 Now, combining these two parts:
 
-\[
+$$
 f(8) = \frac{1}{\sqrt{8\pi}} \exp\left(-\frac{(-2)^2}{8}\right) = \frac{1}{\sqrt{8\pi}} \exp\left(-\frac{4}{8}\right)
-\]
+$$
 
 You mentioned the output should be approximately 0.12, so this should match with our calculations.
 
 ### Step 4: Finding the Maximum Value
 
-To maximize the function \( f(x) \), we need to maximize the exponential part, which occurs when the exponent is zero. 
+To maximize the function $f(x)$, we need to maximize the exponential part, which occurs when the exponent is zero. 
 
-\[
+$$
 -\frac{(x - \mu)^2}{2\sigma^2} = 0
-\]
+$$
 
 This happens when:
 
-\[
+$$
 x = \mu
-\]
+$$
 
-So, to maximize \( f(x) \), you should set \( x \) equal to \( \mu = 10 \).
+So, to maximize $f(x)$, you should set $x$ equal to $\mu = 10$.
 
 ### Final Answer
 
-To get the maximum value of the Gaussian function, you should modify \( x = 8 \) to \( x = 10 \). The function \( f(10) \) will be at its peak, giving you the maximum return value for this function.
+To get the maximum value of the Gaussian function, you should modify $x = 8$ to $x = 10$. The function $f(10)$ will be at its peak, giving you the maximum return value for this function.
 
 ## Quiz
 
@@ -222,15 +222,15 @@ Let's break down and explain the concepts related to Kalman Filters and Gaussian
    - **Quiz Answer Explanation**: The correct posterior Gaussian is the one that is narrower and has a peak in between the two original Gaussians, indicating increased certainty about the estimated state.
 
 ### 4. **Parameter Update**:
-   - **New Mean (\(\mu'\))**: The new mean after the measurement update is given by a weighted sum of the old mean (\(\mu\)) and the measurement mean (\(\nu\)):
-     \[
+   - **New Mean ($\mu'$)**: The new mean after the measurement update is given by a weighted sum of the old mean ($\mu$) and the measurement mean ($\nu$):
+     $$
      \mu' = \frac{\sigma^2 \nu + r^2 \mu}{\sigma^2 + r^2}
-     \]
-   - **New Variance (\(\sigma'^2\))**: The new variance is given by:
-     \[
+     $$
+   - **New Variance ($\sigma'^2$)**: The new variance is given by:
+     $$
      \sigma'^2 = \frac{\sigma^2 r^2}{\sigma^2 + r^2}
-     \]
-     This results in a variance smaller than either \(\sigma^2\) or \(r^2\), reflecting increased certainty after incorporating the measurement.
+     $$
+     This results in a variance smaller than either $\sigma^2$ or $r^2$, reflecting increased certainty after incorporating the measurement.
 
    - **Quiz Answer Explanation**: If the prior and measurement Gaussians have the same variance, the new mean is exactly halfway between the two means, and the new variance is half of the original variance, as the two uncertainties have been combined into a more certain estimate.
 
@@ -248,62 +248,62 @@ Let's break down the concepts from the excerpts into a more structured format fo
 The Kalman filter is a powerful tool used for estimating the state of a system where there is uncertainty in the measurements. It's widely used in robotics, navigation, and financial modeling.
 
 ### 2. **Key Components**
-   - **State Estimate (Mean, \( \mu \))**: Represents the best guess of the state of the system.
-   - **Uncertainty (Variance, \( \sigma^2 \))**: Represents the confidence in the state estimate. A higher variance means more uncertainty.
+   - **State Estimate (Mean, $\mu$)**: Represents the best guess of the state of the system.
+   - **Uncertainty (Variance, $\sigma^2$)**: Represents the confidence in the state estimate. A higher variance means more uncertainty.
 
 ### 3. **Two Main Steps in Kalman Filter**
    - **Measurement Update (Correction Step)**: Integrates new measurements to update the estimate.
    - **Prediction (Motion Update)**: Projects the current estimate forward based on a known motion model.
 
 ### 4. **Measurement Update Step**
-   - **New Mean**: The updated mean \( \mu_{\text{new}} \) after incorporating the measurement.
-   - **New Variance**: The updated variance \( \sigma_{\text{new}}^2 \) after incorporating the measurement.
+   - **New Mean**: The updated mean $\mu_{\text{new}}$ after incorporating the measurement.
+   - **New Variance**: The updated variance $\sigma_{\text{new}}^2$ after incorporating the measurement.
 
    The formulas used:
    - New Mean: 
-     \[
+     $$
      \mu_{\text{new}} = \frac{\sigma_{\text{meas}}^2 \cdot \mu_{\text{prior}} + \sigma_{\text{prior}}^2 \cdot \mu_{\text{meas}}}{\sigma_{\text{prior}}^2 + \sigma_{\text{meas}}^2}
-     \]
+     $$
    - New Variance:
-     \[
+     $$
      \sigma_{\text{new}}^2 = \left(\frac{1}{\sigma_{\text{prior}}^2} + \frac{1}{\sigma_{\text{meas}}^2}\right)^{-1}
-     \]
+     $$
 
 ### 5. **Prediction Step**
-   - **Updated Mean**: The mean is updated by adding the expected movement \( u \) to the current mean.
+   - **Updated Mean**: The mean is updated by adding the expected movement $u$ to the current mean.
    - **Updated Variance**: The variance increases due to the added uncertainty from the motion.
 
    The formulas used:
    - Predicted Mean:
-     \[
+     $$
      \mu_{\text{pred}} = \mu_{\text{prior}} + u
-     \]
+     $$
    - Predicted Variance:
-     \[
+     $$
      \sigma_{\text{pred}}^2 = \sigma_{\text{prior}}^2 + \sigma_{\text{motion}}^2
-     \]
+     $$
 
 ### 6. **Example for Measurement Update**
-   - Let's say you have two estimates with means \( \mu_1 = 10 \) and \( \mu_2 = 12 \), both having equal variances \( \sigma_1^2 = \sigma_2^2 = 4 \).
+   - Let's say you have two estimates with means $\mu_1 = 10$ and $\mu_2 = 12$, both having equal variances $\sigma_1^2 = \sigma_2^2 = 4$.
    - Applying the formulas, the new mean will be:
-     \[
+     $$
      \mu_{\text{new}} = \frac{4 \cdot 10 + 4 \cdot 12}{4 + 4} = 11
-     \]
+     $$
    - The new variance:
-     \[
+     $$
      \sigma_{\text{new}}^2 = \left(\frac{1}{4} + \frac{1}{4}\right)^{-1} = 2
-     \]
+     $$
 
 ### 7. **Example for Prediction Step**
-   - Suppose you have a prior estimate with \( \mu_{\text{prior}} = 10 \) and \( \sigma_{\text{prior}}^2 = 4 \). You move to the right by 10 units with a motion uncertainty \( \sigma_{\text{motion}}^2 = 6 \).
+   - Suppose you have a prior estimate with $\mu_{\text{prior}} = 10$ and $\sigma_{\text{prior}}^2 = 4$. You move to the right by 10 units with a motion uncertainty $\sigma_{\text{motion}}^2 = 6$.
    - The predicted mean:
-     \[
+     $$
      \mu_{\text{pred}} = 10 + 10 = 20
-     \]
+     $$
    - The predicted variance:
-     \[
+     $$
      \sigma_{\text{pred}}^2 = 4 + 6 = 10
-     \]
+     $$
 
 ### 8. **Summary**
 In summary, the Kalman filter alternates between the measurement update, where it refines its estimate based on new data, and the prediction step, where it projects the estimate forward in time. Understanding these steps and their implementation in code is key to effectively using Kalman filters.
@@ -332,20 +332,20 @@ Sure! Let's break down the task of implementing the Kalman Filter as described a
 ### Mathematical Formulation:
 
 1. **Update (Bayes' rule)**:
-   \[
+   $$
    \mu' = \frac{(\text{sig} \times \text{measurement}) + (\text{measurement\_sig} \times \mu)}{\text{sig} + \text{measurement\_sig}}
-   \]
-   \[
+   $$
+   $$
    \text{sig}' = \left(\frac{1}{\text{sig}} + \frac{1}{\text{measurement\_sig}}\right)^{-1}
-   \]
+   $$
 
 2. **Predict (Motion model)**:
-   \[
+   $$
    \mu'' = \mu' + \text{motion}
-   \]
-   \[
+   $$
+   $$
    \text{sig}'' = \text{sig}' + \text{motion\_sig}
-   \]
+   $$
 
 ### Code Implementation:
 
@@ -497,13 +497,13 @@ You've got a good handle on the 1D Kalman Filter, which is excellent. Now, let's
 
 #### Example: Tracking an Object in 2D
 
-Suppose you're tracking a car using radar. At time \( t = 0 \), the car is at a specific coordinate \((x_0, y_0)\). After one time-step, the car moves to \((x_1, y_1)\), and after another time-step, it moves to \((x_2, y_2)\). 
+Suppose you're tracking a car using radar. At time $t = 0$, the car is at a specific coordinate $(x_0, y_0)$. After one time-step, the car moves to $(x_1, y_1)$, and after another time-step, it moves to $(x_2, y_2)$. 
 
-Now, you want to predict where the car will be at time \( t = 3 \).
+Now, you want to predict where the car will be at time $t = 3$.
 
 - **Without Kalman Filter:** You might simply guess based on the last position, which could lead to inaccuracies.
   
-- **With Kalman Filter:** The filter not only uses the positions \((x_0, y_0)\), \((x_1, y_1)\), and \((x_2, y_2)\) but also infers the car's velocity (how fast it's moving in the x and y directions). This allows the Kalman Filter to make a much more accurate prediction about where the car will be at \( t = 3 \).
+- **With Kalman Filter:** The filter not only uses the positions $(x_0, y_0)$, $(x_1, y_1)$, and $(x_2, y_2)$ but also infers the car's velocity (how fast it's moving in the x and y directions). This allows the Kalman Filter to make a much more accurate prediction about where the car will be at $t = 3$.
 
 #### Key Insight
 

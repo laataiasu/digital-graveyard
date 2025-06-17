@@ -11,19 +11,19 @@
 #### **Key Statistical Concepts**
 1. **Mean (Expected Value):** 
    - This is the average value you’d expect if you observed the log return over many periods.
-   - Mathematically, if \( R \) is the random variable for log returns, the mean \( \mu \) is:
-     \[
-     \mu = \mathbb{E}[R] = \frac{1}{n} \sum_{i=1}^{n} R_i
-     \]
-   - Here, \( \mathbb{E}[R] \) is the expected value, and \( R_i \) are individual observations of log returns.
+   - Mathematically, if $R$ is the random variable for log returns, the mean $\mu$ is:
+     $$
+\mu = \mathbb{E}[R] = \frac{1}{n} \sum_{i=1}^{n} R_i
+$$
+   - Here, $\mathbb{E}[R]$ is the expected value, and $R_i$ are individual observations of log returns.
 
 2. **Standard Deviation:**
    - This measures the spread of the distribution, indicating how much the returns deviate from the mean on average.
-   - For a set of log returns, the standard deviation \( \sigma \) is given by:
-     \[
+   - For a set of log returns, the standard deviation $\sigma$ is given by:
+     $$
      \sigma = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (R_i - \mu)^2}
-     \]
-   - This \( \sigma \) is what we refer to as **volatility** in finance.
+     $$
+   - This $\sigma$ is what we refer to as **volatility** in finance.
 
 #### **Volatility: A Measure of Risk**
 - **Volatility** is simply the standard deviation of the log returns. It represents the variability or spread of returns around the expected value.
@@ -31,7 +31,7 @@
   - If returns are normally distributed:
     - **Mean (Expected Return):** Say 5% per year.
     - **Volatility:** Say 6% per year.
-    - **Range of Likely Returns:** About 95% of the time, the returns will fall within \( \mu \pm 2\sigma \) (i.e., between -7% and 17%).
+    - **Range of Likely Returns:** About 95% of the time, the returns will fall within $\mu \pm 2\sigma$ (i.e., between -7% and 17%).
 
 #### **Importance of Volatility**
 1. **Risk Assessment:**
@@ -61,26 +61,26 @@ To estimate the future volatility of a stock, one common approach is to calculat
 
 #### **Step 1: Calculate Log Returns**
 - **Log Return Formula:** 
-  - The log return between two consecutive prices \( P_t \) and \( P_{t-1} \) is calculated as:
-    \[
+  - The log return between two consecutive prices $P_t$ and $P_{t-1}$ is calculated as:
+    $$
     R_t = \ln\left(\frac{P_t}{P_{t-1}}\right)
-    \]
-  - Here, \( R_t \) is the log return at time \( t \).
+    $$
+  - Here, $R_t$ is the log return at time $t$.
 - **Example:** 
-  - If you have price data for \( n + 1 \) days, you will calculate \( n \) log returns. The first price point doesn't have a preceding value, so the first log return is undefined.
+  - If you have price data for $n + 1$ days, you will calculate $n$ log returns. The first price point doesn't have a preceding value, so the first log return is undefined.
 
 #### **Step 2: Calculate Standard Deviation of Log Returns**
 - **Volatility Formula:** 
-  - Volatility \( \sigma \) is simply the standard deviation of the log returns \( R_t \). The formula is:
-    \[
+  - Volatility $\sigma$ is simply the standard deviation of the log returns $R_t$. The formula is:
+    $$
     \sigma = \sqrt{\frac{1}{n} \sum_{t=1}^{n} \left(R_t - \mu\right)^2}
-    \]
-  - Where \( \mu \) is the mean of the log returns.
+    $$
+  - Where $\mu$ is the mean of the log returns.
 - **Interpretation:** 
-  - This calculated \( \sigma \) gives you the **daily volatility** if your log returns were based on daily prices.
+  - This calculated $\sigma$ gives you the **daily volatility** if your log returns were based on daily prices.
 
 #### **Example Calculation:**
-- Suppose you perform this calculation on daily data and find \( \sigma = 0.025 \). This is your estimate of the **daily volatility**.
+- Suppose you perform this calculation on daily data and find $\sigma = 0.025$. This is your estimate of the **daily volatility**.
 
 #### **Step 3: Understanding Time Frequency and Volatility**
 - **Impact of Time Frequency:** 
@@ -93,12 +93,12 @@ To estimate the future volatility of a stock, one common approach is to calculat
 - **Why Annualize?**
   - To make volatility comparable across different datasets (e.g., daily vs. weekly), it's standard practice to annualize the volatility.
 - **Annualized Volatility Formula:**
-  - If \( \sigma_{\text{daily}} \) is the daily volatility, the annualized volatility \( \sigma_{\text{annual}} \) can be calculated as:
-    \[
+  - If $\sigma_{\text{daily}}$ is the daily volatility, the annualized volatility $\sigma_{\text{annual}}$ can be calculated as:
+    $$
     \sigma_{\text{annual}} = \sigma_{\text{daily}} \times \sqrt{T}
-    \]
-  - Here, \( T \) is the number of trading days in a year, typically taken as 252.
-  - Similarly, if you have weekly volatility \( \sigma_{\text{weekly}} \), you would multiply by \( \sqrt{52} \) to annualize it.
+    $$
+  - Here, $T$ is the number of trading days in a year, typically taken as 252.
+  - Similarly, if you have weekly volatility $\sigma_{\text{weekly}}$, you would multiply by $\sqrt{52}$ to annualize it.
 
 ### Summary
 - **Historical Volatility** is calculated as the standard deviation of log returns based on past price data.
@@ -131,11 +131,11 @@ In the next lesson, we’ll dive deeper into how to calculate and interpret annu
      - **Long-term Window**: Offers a broader view of market trends.
 
 ### 6. **Mathematical Perspective**
-   - Suppose \( R_t \) represents the log return at time \( t \). The volatility \( \sigma_t \) over a rolling window of length \( n \) can be calculated as:
-   \[
+   - Suppose $R_t$ represents the log return at time $t$. The volatility $\sigma_t$ over a rolling window of length $n$ can be calculated as:
+   $$
    \sigma_t = \sqrt{\frac{1}{n-1} \sum_{i=0}^{n-1} (R_{t-i} - \bar{R})^2}
-   \]
-   where \( \bar{R} \) is the mean of the returns over the window.
+   $$
+   where $\bar{R}$ is the mean of the returns over the window.
 
 By adjusting the window size, you can control the balance between responsiveness to new data and stability of the volatility estimate, depending on the nature of your investment strategy.
 
@@ -144,73 +144,73 @@ By adjusting the window size, you can control the balance between responsiveness
 To estimate today's volatility while giving more importance to recent data, you can use an **Exponentially Weighted Moving Average (EWMA)**. This method allows you to weigh recent log returns more heavily compared to older ones, which is often more reflective of the current market conditions. Let's break down the process of calculating volatility using EWMA.
 
 ### Step 1: Understanding Historical Volatility
-Suppose you're using a window of `n` days to estimate today's volatility, denoted by \(\sigma_t\). The standard formula for historical volatility involves calculating the variance, \(\sigma_t^2\), as the average of the squared log returns over the past `n` days:
+Suppose you're using a window of `n` days to estimate today's volatility, denoted by $\sigma_t$. The standard formula for historical volatility involves calculating the variance, $\sigma_t^2$, as the average of the squared log returns over the past `n` days:
 
-\[
+$$
 \sigma_t^2 = \frac{1}{n} \sum_{i=1}^{n} (r_{t-i} - \mu)^2
-\]
+$$
 
 Here:
-- \(r_{t-i}\) is the log return on day \(t-i\),
-- \(\mu\) is the mean log return over the period.
+- $r_{t-i}$ is the log return on day $t-i$,
+- $\mu$ is the mean log return over the period.
 
 ### Step 2: Simplifications
-1. **Assume the Mean Log Return (\(\mu\)) is Zero**: For short intervals like daily log returns, the mean is typically small compared to the standard deviation. Thus, we simplify:
+1. **Assume the Mean Log Return ($\mu$) is Zero**: For short intervals like daily log returns, the mean is typically small compared to the standard deviation. Thus, we simplify:
 
-\[
+$$
 \sigma_t^2 = \frac{1}{n} \sum_{i=1}^{n} r_{t-i}^2
-\]
+$$
 
-2. **Approximate \(n-1\) by \(n\)**: For large `n`, this change has little impact on the result, allowing us to simplify further:
+2. **Approximate $n-1$ by $n$**: For large `n`, this change has little impact on the result, allowing us to simplify further:
 
-\[
+$$
 \sigma_t^2 \approx \frac{1}{n} \sum_{i=1}^{n} r_{t-i}^2
-\]
+$$
 
 This is a straightforward arithmetic average, where each squared log return is weighted equally.
 
 ### Step 3: Introducing the Exponential Weighting
-To give more weight to recent observations, we introduce a parameter \(\lambda\) (where \(0 < \lambda < 1\)). The weight for the log return \(r_{t-i}^2\) is then \(\lambda^i\).
+To give more weight to recent observations, we introduce a parameter $\lambda$ (where $0 < \lambda < 1$). The weight for the log return $r_{t-i}^2$ is then $\lambda^i$.
 
 The weighted sum becomes:
 
-\[
+$$
 \sigma_t^2 = \frac{\sum_{i=0}^{n-1} \lambda^i r_{t-i}^2}{\sum_{i=0}^{n-1} \lambda^i}
-\]
+$$
 
 Where:
-- \(r_t^2\) is the squared log return for yesterday,
-- \(r_{t-1}^2\) is the squared log return for the day before yesterday, and so on.
+- $r_t^2$ is the squared log return for yesterday,
+- $r_{t-1}^2$ is the squared log return for the day before yesterday, and so on.
 
 ### Step 4: Calculate the Weights
-The weights \(\lambda^i\) decrease exponentially as you go back in time. For example:
-- The weight for yesterday's log return: \(\lambda^0 = 1\)
-- The weight for the day before: \(\lambda^1\)
-- The weight for the day before that: \(\lambda^2\)
+The weights $\lambda^i$ decrease exponentially as you go back in time. For example:
+- The weight for yesterday's log return: $\lambda^0 = 1$
+- The weight for the day before: $\lambda^1$
+- The weight for the day before that: $\lambda^2$
 
 ### Step 5: Normalizing the Weights
 To ensure that the weighted sum represents a proper average, divide by the sum of the weights:
 
-\[
+$$
 \text{Sum of weights} = \sum_{i=0}^{n-1} \lambda^i = \frac{1 - \lambda^n}{1 - \lambda}
-\]
+$$
 
 Thus, the EWMA variance estimate is:
 
-\[
+$$
 \sigma_t^2 = \frac{\sum_{i=0}^{n-1} \lambda^i r_{t-i}^2}{\frac{1 - \lambda^n}{1 - \lambda}}
-\]
+$$
 
 ### Step 6: Estimate Volatility
 Finally, to get the volatility, take the square root of the variance:
 
-\[
+$$
 \sigma_t = \sqrt{\frac{\sum_{i=0}^{n-1} \lambda^i r_{t-i}^2}{\frac{1 - \lambda^n}{1 - \lambda}}}
-\]
+$$
 
 ### Summary
 - **Exponentially Weighted Moving Average (EWMA)** assigns more importance to recent data by weighting log returns exponentially.
-- **Parameter \(\lambda\)** determines how quickly the weights decrease (a smaller \(\lambda\) means faster decay).
+- **Parameter $\lambda$** determines how quickly the weights decrease (a smaller $\lambda$ means faster decay).
 - This approach gives you a volatility estimate that adapts more quickly to recent market conditions compared to traditional methods.
 
 This method is particularly useful in finance when you need to account for the changing volatility in asset prices.
@@ -236,25 +236,25 @@ Volatility refers to the degree of variation in asset prices over time. In finan
 The **ARCH model** is used to model and predict the variance (volatility) of a time series based on past squared returns. Here's how it works:
 
 #### **ARCH(1) Model**:
-For a log return \( r_t \) at time \( t \), the variance \( \sigma_t^2 \) is given by:
+For a log return $r_t$ at time $t$, the variance $\sigma_t^2$ is given by:
 
-\[
+$$
 \sigma_t^2 = \alpha_0 + \alpha_1 r_{t-1}^2
-\]
+$$
 
-- \(\alpha_0\): Baseline variance, representing the minimum level of variance that is always present.
-- \(\alpha_1\): Weight that determines how much of yesterday’s squared return \( r_{t-1}^2 \) affects today's variance.
+- $\alpha_0$: Baseline variance, representing the minimum level of variance that is always present.
+- $\alpha_1$: Weight that determines how much of yesterday’s squared return $r_{t-1}^2$ affects today's variance.
 
 This model assumes that today's variance depends only on the squared log return of the previous day.
 
 #### **ARCH(m) Model**:
-This is an extension where the variance depends on the last \( m \) squared log returns:
+This is an extension where the variance depends on the last $m$ squared log returns:
 
-\[
+$$
 \sigma_t^2 = \alpha_0 + \alpha_1 r_{t-1}^2 + \alpha_2 r_{t-2}^2 + \ldots + \alpha_m r_{t-m}^2
-\]
+$$
 
-Here, \(\alpha_1, \alpha_2, \ldots, \alpha_m\) are parameters that weight the influence of each past squared return.
+Here, $\alpha_1, \alpha_2, \ldots, \alpha_m$ are parameters that weight the influence of each past squared return.
 
 ### 4. GARCH Model: Incorporating Past Variances
 
@@ -263,25 +263,25 @@ The **GARCH (Generalized ARCH)** model extends the ARCH model by including terms
 #### **GARCH(1,1) Model**:
 In its simplest form, the GARCH(1,1) model is given by:
 
-\[
+$$
 \sigma_t^2 = \alpha_0 + \alpha_1 r_{t-1}^2 + \beta_1 \sigma_{t-1}^2
-\]
+$$
 
-- \(\alpha_0\): Baseline variance.
-- \(\alpha_1\): Weight on the squared return from the previous day.
-- \(\beta_1\): Weight on the previous day's variance.
+- $\alpha_0$: Baseline variance.
+- $\alpha_1$: Weight on the squared return from the previous day.
+- $\beta_1$: Weight on the previous day's variance.
 
 This model captures the idea that today's variance is influenced both by yesterday's squared return and by yesterday's variance. The GARCH model is often more realistic than the ARCH model because it accounts for the "persistence" of volatility.
 
 #### **GARCH(m,n) Model**:
-This is a more general version where the variance depends on \( m \) past squared returns and \( n \) past variances:
+This is a more general version where the variance depends on $m$ past squared returns and $n$ past variances:
 
-\[
+$$
 \sigma_t^2 = \alpha_0 + \sum_{i=1}^{m} \alpha_i r_{t-i}^2 + \sum_{j=1}^{n} \beta_j \sigma_{t-j}^2
-\]
+$$
 
-- \(\alpha_i\): Parameters for the past squared returns.
-- \(\beta_j\): Parameters for the past variances.
+- $\alpha_i$: Parameters for the past squared returns.
+- $\beta_j$: Parameters for the past variances.
 
 ### 5. Practical Applications: Using ARCH/GARCH in Trading
 
@@ -381,9 +381,9 @@ Volatility plays a crucial role in determining the size of trading positions:
 - **Volatility-Based Position Sizing**:
   - Traders often reduce position sizes in more volatile markets to minimize potential losses. A common approach involves a formula like this:
 
-\[
+$$
 \text{Position Size} = \frac{R}{\sigma \times M \times \text{Last Close}}
-\]
+$$
 
   - **R**: The dollar amount the trader is willing to lose in an adverse event.
   - **σ (Sigma)**: The annualized volatility of the security or strategy.

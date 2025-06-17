@@ -179,21 +179,21 @@ By learning how to extract valuable insights from academic papers and adapt them
 To ensure the Alpha factor is market-neutral, we perform a simple mathematical transformation:
 
 1. **Calculate the Mean of the Alpha Values**:  
-   \[
+   $$
    \text{Mean} = \frac{\sum_{i=1}^{n} \alpha_i}{n}
-   \]
+   $$
    
 2. **Subtract the Mean from Each Alpha Value**:  
    This operation centers the Alpha values around zero.
-   \[
+   $$
    \text{Adjusted } \alpha_i = \alpha_i - \text{Mean}
-   \]
+   $$
 
 3. **Result**:  
    After subtracting the mean, the sum of the adjusted Alpha values will be zero.
-   \[
+   $$
    \sum_{i=1}^{n} \text{Adjusted } \alpha_i = 0
-   \]
+   $$
    This ensures the portfolio is dollar neutral.
 
 ### Sector Risk (to be addressed later)
@@ -214,15 +214,15 @@ By transforming the Alpha factor to be dollar neutral, you reduce the portfolio�
 
 1. **Calculate the Sector Mean**:
    - For each sector, compute the average Alpha value of all stocks within that sector.
-   \[
+   $$
    \text{Sector Mean} = \frac{\sum_{i \in \text{Sector}} \alpha_i}{\text{Number of Stocks in Sector}}
-   \]
+   $$
 
 2. **Subtract the Sector Mean from Each Stock’s Alpha Value**:
    - Adjust each stock’s Alpha value by subtracting the sector mean. This centers the Alpha values around zero within each sector, making the portfolio sector-neutral.
-   \[
+   $$
    \text{Sector Neutral } \alpha_i = \alpha_i - \text{Sector Mean}
-   \]
+   $$
 
 ### Example with Two Stocks
 
@@ -326,14 +326,14 @@ Ranking is a powerful tool for making portfolio management more efficient and le
 
 ## 9. Z-Scoring
 
-- **Z-Scoring**: This is a statistical method where you normalize data by subtracting the mean and dividing by the standard deviation. The formula for a Z-score (\(Z\)) is:
-  \[
+- **Z-Scoring**: This is a statistical method where you normalize data by subtracting the mean and dividing by the standard deviation. The formula for a Z-score ($Z$) is:
+  $$
   Z = \frac{X - \mu}{\sigma}
-  \]
+  $$
   where:
-  - \(X\) is the raw data point (in this case, an alpha value).
-  - \(\mu\) is the mean of the data.
-  - \(\sigma\) is the standard deviation.
+  - $X$ is the raw data point (in this case, an alpha value).
+  - $\mu$ is the mean of the data.
+  - $\sigma$ is the standard deviation.
 
 ### Benefits of Z-Scoring
 
@@ -386,8 +386,8 @@ To make the data more robust and reliable, smoothing techniques can be applied. 
 2. **Linear Decay**:
    - **Concept**: A variation of the rolling window average, linear decay applies different weights to the data points within the window. The most recent data points are given more weight, and older data points are given less weight.
    - **Example**:
-     - If the window length \(T = 2\), the most recent Alpha value might be given a weight of 2, and the previous day's Alpha value a weight of 1.
-     - For a general window length \(T\), the weight assigned to the most recent data point would be \(T\), the next most recent would be \(T-1\), and so on.
+     - If the window length $T = 2$, the most recent Alpha value might be given a weight of 2, and the previous day's Alpha value a weight of 1.
+     - For a general window length $T$, the weight assigned to the most recent data point would be $T$, the next most recent would be $T-1$, and so on.
    - **Benefits**: Linear decay can be effective in making the data more robust, as it emphasizes more recent trends while still considering past data.
 
 ### Practical Benefits
@@ -425,10 +425,10 @@ To calculate factor returns, follow these steps:
    - Standardize the Alpha vector so that it has a mean of zero and the sum of absolute values equals one. This ensures that the Alpha factor is normalized and comparable across different days.
 
 3. **Weight Assignment**:
-   - Use the standardized Alpha values as weights for each stock in the portfolio on the current day \(T\).
+   - Use the standardized Alpha values as weights for each stock in the portfolio on the current day $T$.
 
 4. **Return Calculation**:
-   - At the end of day \(T\), check the returns of each stock in the portfolio for that day. These are the single-day returns.
+   - At the end of day $T$, check the returns of each stock in the portfolio for that day. These are the single-day returns.
 
 5. **Weighted Average**:
    - Calculate the weighted average of these single-day returns using the Alpha values as weights. This gives you the factor return for that day.
@@ -438,19 +438,19 @@ To calculate factor returns, follow these steps:
 
 ### Example: Daily Calculation
 
-Suppose you have a portfolio of three stocks with the following Alpha values on day \(T-1\):
+Suppose you have a portfolio of three stocks with the following Alpha values on day $T-1$:
 
 - Stock A: Alpha = 0.2
 - Stock B: Alpha = -0.3
 - Stock C: Alpha = 0.1
 
-These values are then standardized (mean zero, sum of absolute values equals one). On day \(T\), the actual returns for these stocks are:
+These values are then standardized (mean zero, sum of absolute values equals one). On day $T$, the actual returns for these stocks are:
 
 - Stock A: Return = 1%
 - Stock B: Return = -0.5%
 - Stock C: Return = 0.8%
 
-The factor return for day \(T\) would be the weighted average of these returns, using the Alpha values as weights.
+The factor return for day $T$ would be the weighted average of these returns, using the Alpha values as weights.
 
 ### Importance of Factor Returns
 
@@ -535,15 +535,15 @@ The Sharpe ratio, often referred to as the risk-adjusted return, is a crucial me
 
 - **Definition**: The Sharpe ratio is calculated by dividing the average daily return of an alpha factor by the daily standard deviation of those returns. The formula is:
 
-  \[
+  $$
   \text{Sharpe Ratio} = \frac{\text{Average Daily Return}}{\text{Daily Standard Deviation of Returns}}
-  \]
+  $$
 
 - **Annualized Sharpe Ratio**: To make the Sharpe ratio more meaningful over a year, you multiply the result by the square root of the number of trading days in a year:
 
-  \[
+  $$
   \text{Annualized Sharpe Ratio} = \text{Sharpe Ratio} \times \sqrt{\text{Trading Days in a Year}}
-  \]
+  $$
 
 #### Example Calculation
 
@@ -583,11 +583,11 @@ The Rank Information Coefficient (Rank IC) is a valuable metric in finance that 
 Let's consider two stocks, **ABC** and **XYZ**, to understand this concept better.
 
 1. **Alpha Values**:
-   - **Stock ABC**: Has a high positive alpha value before time \( t \).
-   - **Stock XYZ**: Has a very negative alpha value before time \( t \).
+   - **Stock ABC**: Has a high positive alpha value before time $t$.
+   - **Stock XYZ**: Has a very negative alpha value before time $t$.
 
 2. **Future Returns**:
-   - Between time \( t \) and \( t+1 \):
+   - Between time $t$ and $t+1$:
      - **ABC** has a positive return.
      - **XYZ** has a negative return.
 
@@ -643,11 +643,11 @@ Since these ranks perfectly match, the Rank IC in this example would be 1, indic
 - **Pearson Correlation**:
   - Measures the linear relationship between two variables.
   - Calculated using the covariance of the variables, adjusted by their standard deviations.
-  - The formula for Pearson correlation \( r \) between variables \( x \) and \( y \) is:
-    \[
+  - The formula for Pearson correlation $r$ between variables $x$ and $y$ is:
+    $$
     r = \frac{\text{Cov}(x, y)}{\sigma_x \sigma_y}
-    \]
-    where \( \sigma_x \) and \( \sigma_y \) are the standard deviations of \( x \) and \( y \), respectively.
+    $$
+    where $\sigma_x$ and $\sigma_y$ are the standard deviations of $x$ and $y$, respectively.
   - Pearson correlation is sensitive to the magnitude of the values and can be influenced if the relative magnitudes are off.
 
 - **Spearman Rank Correlation**:
@@ -678,9 +678,9 @@ Since these ranks perfectly match, the Rank IC in this example would be 1, indic
    - The Information Ratio is a special application of the Sharpe Ratio. It measures the performance of a portfolio manager by focusing on the **specific return** (also called the **residual return**).
    - **Specific Return**: The return on a portfolio after removing the effects of systematic risk factors (market factors). It's the part of the return attributed to the manager's skill in selecting assets.
    - **Information Ratio** is calculated as:
-     \[
+     $$
      \text{IR} = \frac{\text{Average Specific Return}}{\text{Standard Deviation of Specific Return (annualized)}}
-     \]
+     $$
    - In the context of alpha modeling (creating a market and factor-neutral portfolio), the Information Ratio is equivalent to the Sharpe Ratio.
 
 2. **Sharpe Ratio**:
@@ -691,9 +691,9 @@ Since these ranks perfectly match, the Rank IC in this example would be 1, indic
 
 The **Fundamental Law of Active Management** provides insight into how to create high Sharpe Ratio strategies. It introduces the relationship:
 
-\[
+$$
 \text{IR} = \text{IC} \times \sqrt{B}
-\]
+$$
 
 Where:
 - **IR (Information Ratio)**: Represents the portfolio manager's skill in generating excess returns.
@@ -870,9 +870,9 @@ Transaction costs in trading are not just limited to the obvious fees like commi
   - Suppose a portfolio is valued at $100 million.
   - On a particular day, $1 million worth of assets are bought, and another $1 million are sold.
   - **Turnover Calculation**:
-    \[
+    $$
     \text{Turnover} = \frac{\text{Total Value of Trades}}{\text{Total Portfolio Value}} = \frac{\$2 \text{ million}}{\$100 \text{ million}} = 2\%
-    \]
+    $$
   - In this example, the portfolio’s turnover is 2%.
 
 #### Turnover in Alpha Research
@@ -1087,10 +1087,10 @@ This difference in perspective is crucial because it impacts how both groups ana
 #### 5. **Practical Steps**
    - **Optimization Process**: The transfer coefficient is calculated after running the Alpha vector through a portfolio optimizer that incorporates a risk factor model.
    - **Formula for Transfer Coefficient**:
-     - If \( \alpha \) represents the original Alpha vector and \( w \) represents the optimized portfolio weights, the transfer coefficient \( TC \) is the correlation:
-     \[
+     - If $\alpha$ represents the original Alpha vector and $w$ represents the optimized portfolio weights, the transfer coefficient $TC$ is the correlation:
+     $$
      TC = \text{Correlation}(\alpha, w)
-     \]
+     $$
    - **Interpreting TC**: A value close to 1 indicates strong alignment between the Alpha vector and portfolio weights, while a value close to 0 indicates little to no alignment.
 
 In summary, the transfer coefficient is a critical metric in portfolio optimization, ensuring that the original insights from the Alpha vector are retained in the final portfolio. High transfer coefficients signal that the portfolio is likely to perform as intended based on the Alpha factors.

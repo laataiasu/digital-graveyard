@@ -81,7 +81,7 @@ Statistics is a branch of mathematics that involves data collection, organizatio
 ### Bayes' Theorem
 
 **Formula:**  
-\[ P(A | B) = \frac{P(B | A) \cdot P(A)}{P(B)} \]
+$$ P(A | B) = \frac{P(B | A) \cdot P(A)}{P(B)} $$
 
 - **P(A | B):** Posterior probability (probability of event A given event B has occurred).
 - **P(B | A):** Likelihood (probability of event B given event A).
@@ -99,31 +99,31 @@ Two bags of balls:
 
 1. **Prior Probability:**  
    Assume a 50% chance of selecting either bag.
-   - \( P(Bag 1) = \frac{1}{2} \)
-   - \( P(Bag 2) = \frac{1}{2} \)
+   - $P(Bag 1) = \frac{1}{2}$
+   - $P(Bag 2) = \frac{1}{2}$
 
 2. **Likelihood:**
-   - Probability of drawing a red ball from Bag 1: \( P(Red | Bag 1) = \frac{2}{5} \)
-   - Probability of drawing a red ball from Bag 2: \( P(Red | Bag 2) = \frac{4}{5} \)
+   - Probability of drawing a red ball from Bag 1: $P(Red | Bag 1) = \frac{2}{5}$
+   - Probability of drawing a red ball from Bag 2: $P(Red | Bag 2) = \frac{4}{5}$
 
 3. **Total Probability of Drawing a Red Ball:**  
-   \[
+   $$
    P(Red) = P(Red | Bag 1) \cdot P(Bag 1) + P(Red | Bag 2) \cdot P(Bag 2) 
-   \]
-   \[
+   $$
+   $$
    P(Red) = \left(\frac{2}{5} \cdot \frac{1}{2}\right) + \left(\frac{4}{5} \cdot \frac{1}{2}\right) = \frac{1}{5} + \frac{2}{5} = \frac{3}{5}
-   \]
+   $$
 
 4. **Calculate Posterior Probability:**  
-   \[
+   $$
    P(Bag 1 | Red) = \frac{P(Red | Bag 1) \cdot P(Bag 1)}{P(Red)}
-   \]
-   \[
+   $$
+   $$
    P(Bag 1 | Red) = \frac{\left(\frac{2}{5} \cdot \frac{1}{2}\right)}{\frac{3}{5}} = \frac{1/5}{3/5} = \frac{1}{3}
-   \]
+   $$
 
 **Conclusion:**  
-The probability that a drawn red ball came from Bag 1 is \( \frac{1}{3} \) or approximately 33%.
+The probability that a drawn red ball came from Bag 1 is $\frac{1}{3}$ or approximately 33%.
 
 ### Differences Between Generative and Discriminative Models
 
@@ -171,8 +171,8 @@ The probability that a drawn red ball came from Bag 1 is \( \frac{1}{3} \) or ap
    - **VAEs:** Learn to encode input data into a latent space and decode it back to generate new data.
 
 3. **Mathematical Basis:**
-   - Discriminative models focus on the conditional probability \( P(y | x) \).
-   - Generative models use joint probability \( P(x, y) \) to predict \( P(y | x) \) through Bayes' theorem.
+   - Discriminative models focus on the conditional probability $P(y | x)$.
+   - Generative models use joint probability $P(x, y)$ to predict $P(y | x)$ through Bayes' theorem.
 
 ### Summary of Classifiers
 
@@ -461,7 +461,7 @@ Generative Adversarial Networks are powerful tools with a wide range of applicat
 - **Definition:** 
   - Autoregressive models are statistical models used to estimate the distribution of a dataset by predicting future observations based on past values.
 - **Distribution Estimation:**
-  - The goal is to estimate the probability distribution underlying a dataset \(D\) efficiently and accurately. A tractable distribution is one that is easy to compute and has a closed form.
+  - The goal is to estimate the probability distribution underlying a dataset $D$ efficiently and accurately. A tractable distribution is one that is easy to compute and has a closed form.
 
 #### Challenges in Distribution Estimation
 - **Bayesian Networks:**
@@ -490,16 +490,16 @@ Generative Adversarial Networks are powerful tools with a wide range of applicat
 #### Mathematical Framework
 - **Modeling:** 
   - The autoregressive model can be represented as:
-  \[
+  $$
   y_t = c + a_1 y_{t-1} + a_2 y_{t-2} + e_t
-  \]
-  where \(y_t\) is the current value, \(y_{t-1}\) and \(y_{t-2}\) are past values (lag values), \(c\) is a constant, \(a_1\) and \(a_2\) are coefficients (weights), and \(e_t\) is the error term.
+  $$
+  where $y_t$ is the current value, $y_{t-1}$ and $y_{t-2}$ are past values (lag values), $c$ is a constant, $a_1$ and $a_2$ are coefficients (weights), and $e_t$ is the error term.
 - **Generalization Performance:**
   - Weight sharing within the model allows for efficient learning and good generalization across binary and real-valued observations.
 
 #### Neural Autoregressive Models
 - **Joint Distribution:**
-  - Neural autoregressive models predict the joint distribution \(p(x)\) of an input vector \(x\) across multiple dimensions.
+  - Neural autoregressive models predict the joint distribution $p(x)$ of an input vector $x$ across multiple dimensions.
 - **Objective:**
   - These models aim to optimize the prediction of the next value in a sequence based on previous values, making them applicable in various domains beyond time series.
 
@@ -517,8 +517,8 @@ PixelCNNs and autoregressive models are crucial tools in modern deep learning, e
   - The concept of a flow involves a sequence of invertible transformations, which means you can apply a transformation and then reverse it analytically. This is critical for generating and manipulating data.
   
 - **Examples of Functions:**
-  - **Invertible Function:** For example, \( f(x) = x + 2 \) is reversible since you can easily solve for \(x\).
-  - **Non-invertible Function:** In contrast, \( f(x) = x^2 \) is not reversible, as multiple inputs can produce the same output (e.g., both \(2\) and \(-2\) yield \(4\)).
+  - **Invertible Function:** For example, $f(x) = x + 2$ is reversible since you can easily solve for $x$.
+  - **Non-invertible Function:** In contrast, $f(x) = x^2$ is not reversible, as multiple inputs can produce the same output (e.g., both $2$ and $-2$ yield $4$).
 
 #### Training Normalizing Flows
 - **Loss Function:** 

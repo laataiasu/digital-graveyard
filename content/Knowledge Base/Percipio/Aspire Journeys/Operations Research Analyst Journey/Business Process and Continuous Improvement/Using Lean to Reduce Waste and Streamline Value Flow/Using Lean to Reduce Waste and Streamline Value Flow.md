@@ -43,16 +43,16 @@ Here's a streamlined version of the content, focusing on the core learning point
 **Cycle Time and Takt Time**  
 - **Cycle Time**: Time taken to complete a task and move a product to the next stage.
 - **Takt Time**: The rate at which products must be completed to meet customer demand, calculated as:
-  \[
+  $$
   \text{Takt Time} = \frac{\text{Net Available Time}}{\text{Customer Demand}}
-  \]
+  $$
   
 **Steps for Line Balancing**  
 1. **Create an Operator Balance Chart**: Visualize the current state of work with cycle times and compare against takt time.
 2. **Determine Ideal Number of Operators**: 
-   \[
+   $$
    \text{Ideal Operators} = \frac{\text{Total Cycle Time}}{\text{Takt Time}}
-   \]
+   $$
 3. **Distribute Work Evenly**: Balance tasks among operators to meet takt time without overloading.
 
 ---

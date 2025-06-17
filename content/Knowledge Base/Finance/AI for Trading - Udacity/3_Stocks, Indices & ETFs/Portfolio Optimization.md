@@ -15,15 +15,15 @@ It's worth noting that any maximization problem can be turned into a minimizatio
 
 Let's explore a basic example: finding the minimum of the quadratic function:
 
-\[
+$$
 Y = (X - 1)^2 + 1
-\]
+$$
 
-This is a parabola, a U-shaped curve. Our goal is to find the value of \(X\) that makes \(Y\) as small as possible.
+This is a parabola, a U-shaped curve. Our goal is to find the value of $X$ that makes $Y$ as small as possible.
 
 #### Visualizing the Function
 
-The function \(Y = (X - 1)^2 + 1\) can be visualized as a parabola. Here's how it looks:
+The function $Y = (X - 1)^2 + 1$ can be visualized as a parabola. Here's how it looks:
 
 ```python
 import numpy as np
@@ -57,33 +57,33 @@ To find the minimum of the function, notice that the curve has a unique lowest p
 
 The derivative of the function gives us the slope at any point on the curve:
 
-\[
+$$
 \frac{dY}{dX} = 2(X - 1)
-\]
+$$
 
 We set this derivative equal to zero to find the point where the slope is zero (the minimum):
 
-\[
+$$
 2(X - 1) = 0
-\]
+$$
 
-Solve for \(X\):
+Solve for $X$:
 
-\[
+$$
 X = 1
-\]
+$$
 
-So, the minimum value of \(Y\) occurs at \(X = 1\).
+So, the minimum value of $Y$ occurs at $X = 1$.
 
 ### Verification
 
-Substitute \(X = 1\) back into the original function to find the corresponding \(Y\) value:
+Substitute $X = 1$ back into the original function to find the corresponding $Y$ value:
 
-\[
+$$
 Y = (1 - 1)^2 + 1 = 0 + 1 = 1
-\]
+$$
 
-So, the minimum value of the function is \(Y = 1\) at \(X = 1\).
+So, the minimum value of the function is $Y = 1$ at $X = 1$.
 
 ### Key Takeaways
 
@@ -113,8 +113,8 @@ Let's dive into the concepts you've introduced, using both mathematical insights
 
 #### 3. **Constraints**
    - These are the conditions that the solution must satisfy.
-   - **Equality Constraints**: Conditions of the form \(f(x) = 0\).
-   - **Inequality Constraints**: Conditions of the form \(g(x) \leq 0\).
+   - **Equality Constraints**: Conditions of the form $f(x) = 0$.
+   - **Inequality Constraints**: Conditions of the form $g(x) \leq 0$.
    - Example: If you're optimizing portfolio weights, a constraint might be that all weights sum to 1 (equality constraint), or that no weight can be negative (inequality constraint).
 
 #### 4. **Feasibility**
@@ -126,39 +126,39 @@ Let's dive into the concepts you've introduced, using both mathematical insights
 
 Consider the quadratic function:
 
-\[
+$$
 f(x) = (x - 1)^2 + 1
-\]
+$$
 
-Without constraints, we already found that the minimum occurs at \(x = 1\), where \(f(x) = 1\).
+Without constraints, we already found that the minimum occurs at $x = 1$, where $f(x) = 1$.
 
 #### Adding a Constraint
 
-Now, let's introduce a constraint: \(x \leq 0\). This constraint limits the region where we can look for the solution.
+Now, let's introduce a constraint: $x \leq 0$. This constraint limits the region where we can look for the solution.
 
-**Graphically**, this means that we’re only interested in the portion of the function where \(x \leq 0\). 
+**Graphically**, this means that we’re only interested in the portion of the function where $x \leq 0$. 
 
 #### Finding the New Minimum
 
-Given the constraint \(x \leq 0\), the smallest value of \(f(x)\) in this region occurs at the boundary of the constraint:
+Given the constraint $x \leq 0$, the smallest value of $f(x)$ in this region occurs at the boundary of the constraint:
 
-\[
-x = 0 \quad \text{(since \(x > 0\) is not allowed by the constraint)}
-\]
+$$
+x = 0 \quad \text{(since $x > 0$ is not allowed by the constraint)}
+$$
 
-Substituting \(x = 0\) into the objective function:
+Substituting $x = 0$ into the objective function:
 
-\[
+$$
 f(0) = (0 - 1)^2 + 1 = 1^2 + 1 = 2
-\]
+$$
 
-So, the new minimum value, considering the constraint, is 2, occurring at \(x = 0\).
+So, the new minimum value, considering the constraint, is 2, occurring at $x = 0$.
 
 ### Convex Optimization
 
 #### What is a Convex Function?
    - A function is convex if, for any two points on the curve, the line segment between them lies above or on the curve.
-   - **Example**: The function \(f(x) = (x - 1)^2 + 1\) is convex because it curves upwards everywhere.
+   - **Example**: The function $f(x) = (x - 1)^2 + 1$ is convex because it curves upwards everywhere.
 
 #### Why Convexity Matters
    - **Convex Optimization Problem**: When the objective function is convex and the constraints are either convex inequalities or linear equalities, the problem is easier to solve.
@@ -170,33 +170,33 @@ Let’s define a convex optimization problem:
 
 Objective function:
 
-\[
+$$
 f(x) = \frac{1}{2}x^2 + 2x + 1
-\]
+$$
 
 Constraint:
 
-\[
+$$
 x \geq -3
-\]
+$$
 
 1. **Is the function convex?**
-   - Yes, because the second derivative of \(f(x)\) (which is 1) is positive, indicating an upward curve.
+   - Yes, because the second derivative of $f(x)$ (which is 1) is positive, indicating an upward curve.
 
 2. **Solution Without Constraints**:
-   - The derivative of \(f(x)\) is \(f'(x) = x + 2\).
-   - Set \(f'(x) = 0\): 
-     \[
+   - The derivative of $f(x)$ is $f'(x) = x + 2$.
+   - Set $f'(x) = 0$: 
+     $$
      x + 2 = 0 \implies x = -2
-     \]
-   - Substituting \(x = -2\) into \(f(x)\):
-     \[
+     $$
+   - Substituting $x = -2$ into $f(x)$:
+     $$
      f(-2) = \frac{1}{2}(-2)^2 + 2(-2) + 1 = 2 - 4 + 1 = -1
-     \]
-   - So, the minimum value is \(-1\) at \(x = -2\).
+     $$
+   - So, the minimum value is $-1$ at $x = -2$.
 
-3. **Solution with Constraint \(x \geq -3\)**:
-   - Since \(-2\) satisfies the constraint \(x \geq -3\), it remains the optimal solution.
+3. **Solution with Constraint $x \geq -3$**:
+   - Since $-2$ satisfies the constraint $x \geq -3$, it remains the optimal solution.
 
 ### Summary
 
@@ -214,97 +214,97 @@ In portfolio optimization, convex optimization plays a crucial role because we o
 In portfolio optimization, the goal is to find the optimal weights for the assets in a portfolio such that the portfolio has the lowest possible variance (risk) for a given level of expected return. Let's work through the problem using a portfolio with two assets, Stock A and Stock B.
 
 #### 1. **Objective Function: Portfolio Variance**
-The portfolio variance \( \sigma_P^2 \) is a measure of the risk of the portfolio, and it's given by the formula:
+The portfolio variance $\sigma_P^2$ is a measure of the risk of the portfolio, and it's given by the formula:
 
-\[
+$$
 \sigma_P^2 = x_A^2\sigma_A^2 + x_B^2\sigma_B^2 + 2x_Ax_B\sigma_A\sigma_B\rho_{r_A r_B}
-\]
+$$
 
 Where:
-- \( x_A \) and \( x_B \) are the weights of Stock A and Stock B in the portfolio.
-- \( \sigma_A \) and \( \sigma_B \) are the standard deviations (volatility) of Stock A and Stock B.
-- \( \rho_{r_A r_B} \) is the correlation between the returns of Stock A and Stock B.
+- $x_A$ and $x_B$ are the weights of Stock A and Stock B in the portfolio.
+- $\sigma_A$ and $\sigma_B$ are the standard deviations (volatility) of Stock A and Stock B.
+- $\rho_{r_A r_B}$ is the correlation between the returns of Stock A and Stock B.
 
-Our objective is to **minimize** the portfolio variance \( \sigma_P^2 \).
+Our objective is to **minimize** the portfolio variance $\sigma_P^2$.
 
 #### 2. **Constraint**
 The weights of the assets must sum to 1:
 
-\[
+$$
 x_A + x_B = 1
-\]
+$$
 
 This constraint ensures that the entire portfolio is allocated between Stock A and Stock B.
 
 #### 3. **Substitution into the Objective Function**
-We can express \( x_B \) in terms of \( x_A \) using the constraint:
+We can express $x_B$ in terms of $x_A$ using the constraint:
 
-\[
+$$
 x_B = 1 - x_A
-\]
+$$
 
 Substituting this into the objective function:
 
-\[
+$$
 \sigma_P^2 = x_A^2\sigma_A^2 + (1-x_A)^2\sigma_B^2 + 2x_A(1-x_A)\sigma_A\sigma_B\rho_{r_A r_B}
-\]
+$$
 
-This is now a function of a single variable, \( x_A \).
+This is now a function of a single variable, $x_A$.
 
-#### 4. **Finding the Optimal Weight \( x_A \)**
-To find the value of \( x_A \) that minimizes the portfolio variance, we take the derivative of \( \sigma_P^2 \) with respect to \( x_A \) and set it equal to zero:
+#### 4. **Finding the Optimal Weight $x_A$**
+To find the value of $x_A$ that minimizes the portfolio variance, we take the derivative of $\sigma_P^2$ with respect to $x_A$ and set it equal to zero:
 
-\[
+$$
 \frac{\mathrm{d} (\sigma_P^2)}{\mathrm{d} x_A} = 2x_A\sigma_A^2 - 2\sigma_B^2(1-x_A) + 2\sigma_A\sigma_B\rho_{r_A r_B}[-x_A + (1-x_A)]
-\]
+$$
 
 Simplifying:
 
-\[
+$$
 0 = 2x_A\sigma_A^2 + 2\sigma_B^2x_A - 2\sigma_B^2 + 2\sigma_A\sigma_B\rho_{r_A r_B}[1 - 2x_A]
-\]
+$$
 
 Further simplification gives:
 
-\[
+$$
 x_A[\sigma_A^2 + \sigma_B^2 - 2\sigma_A\sigma_B\rho_{r_A r_B}] = \sigma_B^2 - \sigma_A\sigma_B\rho_{r_A r_B}
-\]
+$$
 
-Finally, solving for \( x_A \):
+Finally, solving for $x_A$:
 
-\[
+$$
 x_A = \frac{\sigma_B^2 - \sigma_A\sigma_B\rho_{r_A r_B}}{\sigma_A^2 + \sigma_B^2 - 2\sigma_A\sigma_B\rho_{r_A r_B}}
-\]
+$$
 
-#### 5. **Finding \( x_B \)**
+#### 5. **Finding $x_B$**
 From the constraint:
 
-\[
+$$
 x_B = 1 - x_A
-\]
+$$
 
 This gives us the weight of Stock B in the portfolio.
 
 #### 6. **Expected Portfolio Return**
-If you want to calculate the expected return of the portfolio \( \mu_P \), it can be found using the weighted sum of the individual expected returns:
+If you want to calculate the expected return of the portfolio $\mu_P$, it can be found using the weighted sum of the individual expected returns:
 
-\[
+$$
 \mu_P = \mu_A x_A + \mu_B x_B
-\]
+$$
 
 Where:
-- \( \mu_A \) and \( \mu_B \) are the expected returns of Stock A and Stock B, respectively.
+- $\mu_A$ and $\mu_B$ are the expected returns of Stock A and Stock B, respectively.
 
 #### 7. **Second-Order Condition Check**
-To ensure that the solution for \( x_A \) corresponds to a minimum, you should check the second derivative of the objective function. If the second derivative is positive, then \( x_A \) indeed corresponds to a minimum.
+To ensure that the solution for $x_A$ corresponds to a minimum, you should check the second derivative of the objective function. If the second derivative is positive, then $x_A$ indeed corresponds to a minimum.
 
 ### Visualization Example
 To get an intuitive feel for this, assume specific values:
-- \( \sigma_A = 0.1 \) (standard deviation of Stock A)
-- \( \sigma_B = 0.05 \) (standard deviation of Stock B)
-- \( \rho_{r_A r_B} = 0.25 \) (correlation between Stock A and Stock B returns)
+- $\sigma_A = 0.1$ (standard deviation of Stock A)
+- $\sigma_B = 0.05$ (standard deviation of Stock B)
+- $\rho_{r_A r_B} = 0.25$ (correlation between Stock A and Stock B returns)
 
-Plotting the portfolio variance \( \sigma_P^2 \) as a function of \( x_A \), you'd see a parabolic curve where the lowest point represents the minimum variance and gives you the optimal weights \( x_A \) and \( x_B \).
+Plotting the portfolio variance $\sigma_P^2$ as a function of $x_A$, you'd see a parabolic curve where the lowest point represents the minimum variance and gives you the optimal weights $x_A$ and $x_B$.
 
 ### Conclusion
 This derivation allows you to find the optimal weights for a two-asset portfolio, minimizing the portfolio's risk while considering the relationship between the assets' returns. This approach can be extended to more complex portfolios with multiple assets, using similar principles and more advanced optimization techniques.
@@ -319,75 +319,75 @@ In portfolio optimization, the problem can be formulated in various ways dependi
 
 When setting up a portfolio optimization problem, several constraints are commonly applied:
 
-- **No Short Selling:** If short selling is not allowed, the portfolio weights \( x_i \) must be non-negative. This can be expressed as:
-  \[
+- **No Short Selling:** If short selling is not allowed, the portfolio weights $x_i$ must be non-negative. This can be expressed as:
+  $$
   0 \leq x_i \leq 1, \quad i = 1, 2, \dots, n
-  \]
+  $$
 - **Sector Limits:** You might want to limit the exposure to certain sectors. For instance, if you want to limit investments in the biotech sector, you would impose a constraint like:
-  \[
+  $$
   x_{\text{biotech1}} + x_{\text{biotech2}} + x_{\text{biotech3}} \leq M
-  \]
-  where \( M \) represents the maximum percentage of the portfolio allocated to biotech companies.
+  $$
+  where $M$ represents the maximum percentage of the portfolio allocated to biotech companies.
 - **Constraint on Portfolio Return:** If you aim to achieve a minimum portfolio return, you can add a constraint:
-  \[
+  $$
   \mathbf{x}^\mathrm{T} \mathbf{\mu} \geq r_{\text{min}}
-  \]
-  where \( r_{\text{min}} \) is the minimum acceptable portfolio return.
+  $$
+  where $r_{\text{min}}$ is the minimum acceptable portfolio return.
 
 #### 2. Maximizing Portfolio Return
 
 Instead of minimizing variance, another approach is to maximize portfolio returns. This method makes sense when the goal is to achieve the highest return possible while managing risk by imposing a variance constraint.
 
 - **Objective:**
-  \[
+  $$
   \text{minimize:} \quad -\mathbf{x}^\mathrm{T} \mathbf{\mu}
-  \]
+  $$
 - **Constraint:**
-  \[
+  $$
   \mathbf{x}^\mathrm{T} \mathbf{P}\mathbf{x} \leq p
-  \]
-  where \( p \) is the maximum permissible portfolio variance.
+  $$
+  where $p$ is the maximum permissible portfolio variance.
 
 #### 3. Maximizing Portfolio Return and Minimizing Portfolio Variance
 
-A more comprehensive approach combines both objectives—maximizing returns and minimizing variance—by introducing a tradeoff parameter \( b \).
+A more comprehensive approach combines both objectives—maximizing returns and minimizing variance—by introducing a tradeoff parameter $b$.
 
 - **Objective:**
-  \[
+  $$
   \text{minimize:} \quad -\mathbf{x}^\mathrm{T} \mathbf{\mu} + b\mathbf{x}^\mathrm{T} \mathbf{P}\mathbf{x}
-  \]
-  where \( b \) represents how much return you are willing to sacrifice for each unit of variance you take on.
+  $$
+  where $b$ represents how much return you are willing to sacrifice for each unit of variance you take on.
 
 #### 4. A Math Note: The L2-Norm
 
 The L2-norm, also known as the Euclidean norm, is a way to measure the distance between two vectors. It is calculated as:
-\[
+$$
 d = \sqrt{(a_x - b_x)^2 + (a_y - b_y)^2 + (a_z - b_z)^2} = \left \| \mathbf{a} - \mathbf{b} \right \|_2
-\]
+$$
 In two dimensions, this reduces to the familiar Pythagorean theorem:
-\[
+$$
 d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-\]
+$$
 
 #### 5. Minimizing Distance to a Set of Target Weights
 
-One optimization approach is to minimize the distance between the current portfolio weights and a set of target weights \( \mathbf{x}^* \) using the L2 norm.
+One optimization approach is to minimize the distance between the current portfolio weights and a set of target weights $\mathbf{x}^*$ using the L2 norm.
 
 - **Objective:**
-  \[
+  $$
   \text{minimize:} \quad \left \| \mathbf{x} - \mathbf{x}^* \right \|_2
-  \]
-  where \( \mathbf{x}^* \) represents the target portfolio weights.
+  $$
+  where $\mathbf{x}^*$ represents the target portfolio weights.
 
 #### 6. Tracking an Index
 
-If you want to track an index while minimizing portfolio variance, you can set up an objective function that includes both terms. The tradeoff between tracking the index and minimizing variance is controlled by a parameter \( \lambda \).
+If you want to track an index while minimizing portfolio variance, you can set up an objective function that includes both terms. The tradeoff between tracking the index and minimizing variance is controlled by a parameter $\lambda$.
 
 - **Objective:**
-  \[
+  $$
   \text{minimize:} \quad \mathbf{x}^\mathrm{T}\mathbf{P}\mathbf{x} + \lambda \left \| \mathbf{x} - \mathbf{q} \right \|_2
-  \]
-  where \( \mathbf{q} \) represents the index weights, and \( \lambda \) is the tradeoff parameter.
+  $$
+  where $\mathbf{q}$ represents the index weights, and $\lambda$ is the tradeoff parameter.
 
 These formulations provide a flexible framework for addressing different portfolio optimization problems, allowing you to tailor the setup according to specific objectives and constraints.
 
@@ -419,11 +419,11 @@ Rebalancing isn't free; it incurs costs, including:
 
 To estimate the costs associated with rebalancing, we use the concept of **portfolio turnover**, which measures the total magnitude of change in the portfolio’s holdings. Portfolio turnover is calculated as the sum of the absolute changes in the portfolio weights of all assets between two time periods:
 
-\[
+$$
 \text{Turnover} = \sum_{i=1}^{n} \left| x_i^{\text{new}} - x_i^{\text{old}} \right|
-\]
+$$
 
-Where \( x_i^{\text{new}} \) and \( x_i^{\text{old}} \) are the new and old weights of asset \( i \), respectively.
+Where $x_i^{\text{new}}$ and $x_i^{\text{old}}$ are the new and old weights of asset $i$, respectively.
 
 #### Annualized Turnover
 
@@ -433,11 +433,11 @@ To calculate annualized turnover:
 2. Take the average turnover across all events within the timeframe.
 3. Multiply this average by the number of rebalancing events per year.
 
-\[
+$$
 \text{Annualized Turnover} = \frac{\sum_{k=1}^{m} \text{Turnover}_k}{m} \times \text{Events per year}
-\]
+$$
 
-Where \( m \) is the number of rebalancing events.
+Where $m$ is the number of rebalancing events.
 
 Understanding and managing these costs is essential to maintaining a portfolio's efficiency and ensuring that rebalancing doesn't inadvertently erode the portfolio's returns.
 
@@ -513,7 +513,7 @@ While portfolio optimization is a powerful tool in finance, it has several pract
 #### 3. **Covariance Matrix Estimation Challenges**
 
 - **Complexity**: Estimating a covariance matrix becomes increasingly difficult as the number of assets (n) in the portfolio increases.
-- **Problem Size**: The covariance matrix has \( n \times n \) elements, which means the problem size grows rapidly with the number of assets.
+- **Problem Size**: The covariance matrix has $n \times n$ elements, which means the problem size grows rapidly with the number of assets.
 - **Data Requirements**: A large amount of historical data is required to estimate the covariance matrix accurately. For example, estimating a covariance matrix for 50 assets might require at least five years of daily data.
 - **Noise Handling**: Estimates are noisy, and one way to manage this is by using ranks instead of raw values to focus on relative magnitudes.
 

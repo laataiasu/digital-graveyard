@@ -171,7 +171,7 @@ This timeline highlights critical milestones in the evolution of artificial inte
 - **Objective**: The model learns the relationship between X and Y to make predictions on unseen data.
 - **Training Process**: 
   - Uses both X and Y during training.
-  - Aims to reverse engineer the function \(y = f(x)\).
+  - Aims to reverse engineer the function $y = f(x)$.
   - Adjusts parameters based on available labels to improve prediction accuracy.
 - **Data Requirement**: Requires labeled data, which can be difficult and time-consuming to obtain.
 - **Examples**:

@@ -24,9 +24,9 @@ If you don't develop a solid geometric understanding, the problems might not bec
 
 To illustrate this point, let’s consider an analogy with trigonometry. Imagine if, when first learning about the sine function, you were only shown the infinite series that defines it:
 
-\[
+$$
 \sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots
-\]
+$$
 
 Your homework might involve computing sine by plugging numbers into this series and truncating it at a reasonable point. You might vaguely know this has something to do with triangles, but the connection isn't clear. Later, in a physics course, when everyone else seems to immediately know how to apply sines and cosines, you’d likely feel overwhelmed. It might seem like others are somehow able to do these complex computations in their heads, making you feel slow or unintelligent.
 
@@ -64,11 +64,11 @@ Vectors are fundamental building blocks in linear algebra, and understanding the
 
 When we talk about vectors in linear algebra, it's useful to blend these perspectives. Here’s how:
 
-- **Geometric Interpretation**: Think of a vector as an arrow in a coordinate system, like the \(xy\)-plane. The vector is typically positioned with its tail at the origin (the point \((0, 0)\)).
+- **Geometric Interpretation**: Think of a vector as an arrow in a coordinate system, like the $xy$-plane. The vector is typically positioned with its tail at the origin (the point $(0, 0)$).
   
-  - **Example**: Consider a vector pointing from the origin to the point \((3, 4)\) in the \(xy\)-plane. This vector can be thought of as the arrow starting at \((0, 0)\) and ending at \((3, 4)\).
+  - **Example**: Consider a vector pointing from the origin to the point $(3, 4)$ in the $xy$-plane. This vector can be thought of as the arrow starting at $(0, 0)$ and ending at $(3, 4)$.
   
-- **Numerical Representation**: This vector can also be represented as the list `[3, 4]` in the computer science perspective, where the first number corresponds to the \(x\)-coordinate and the second to the \(y\)-coordinate.
+- **Numerical Representation**: This vector can also be represented as the list `[3, 4]` in the computer science perspective, where the first number corresponds to the $x$-coordinate and the second to the $y$-coordinate.
 
 ### Coordinate Systems and Their Importance
 
@@ -96,29 +96,29 @@ When working with vectors, it's essential to understand how they are represented
 - **Coordinate System Setup**:
   - **X-Axis**: The horizontal line.
   - **Y-Axis**: The vertical line.
-  - **Origin**: The point where the \(x\)-axis and \(y\)-axis intersect, denoted as \((0, 0)\). This is the "root" of all vectors in this space.
+  - **Origin**: The point where the $x$-axis and $y$-axis intersect, denoted as $(0, 0)$. This is the "root" of all vectors in this space.
 
 - **Grid and Tick Marks**:
-  - Choose an arbitrary length to represent one unit, and mark off distances along both axes. These tick marks are used to measure distances along the \(x\)-axis and \(y\)-axis.
+  - Choose an arbitrary length to represent one unit, and mark off distances along both axes. These tick marks are used to measure distances along the $x$-axis and $y$-axis.
   - When representing the entire 2D space, these tick marks can be extended into grid lines, creating a visual guide for positioning vectors.
 
 - **Vector Representation**:
-  - A vector in 2D is represented by a pair of numbers, \([x, y]\), which gives the "instructions" for how to move from the origin to the tip of the vector.
-    - **\(x\)**: Indicates how far to move along the \(x\)-axis.
-      - Positive \(x\) means moving right.
-      - Negative \(x\) means moving left.
-    - **\(y\)**: Indicates how far to move along the \(y\)-axis after moving along the \(x\)-axis.
-      - Positive \(y\) means moving up.
-      - Negative \(y\) means moving down.
+  - A vector in 2D is represented by a pair of numbers, $[x, y]$, which gives the "instructions" for how to move from the origin to the tip of the vector.
+    - **$x$**: Indicates how far to move along the $x$-axis.
+      - Positive $x$ means moving right.
+      - Negative $x$ means moving left.
+    - **$y$**: Indicates how far to move along the $y$-axis after moving along the $x$-axis.
+      - Positive $y$ means moving up.
+      - Negative $y$ means moving down.
   
 - **Notation**:
   - To distinguish vectors from points, vectors are often written vertically with square brackets:
-    \[
+    $$
     \begin{bmatrix}
     x \\
     y
     \end{bmatrix}
-    \]
+    $$
   - This notation highlights the vector's components along each axis.
 
 - **One-to-One Correspondence**:
@@ -128,25 +128,25 @@ When working with vectors, it's essential to understand how they are represented
 #### 2. **Three-Dimensional Space (3D)**
 
 - **Extending to 3D**:
-  - **Z-Axis**: Add a third axis, the \(z\)-axis, which is perpendicular to both the \(x\)-axis and \(y\)-axis. This axis adds depth to our space.
-  - The origin in 3D space is still where all three axes intersect, denoted as \((0, 0, 0)\).
+  - **Z-Axis**: Add a third axis, the $z$-axis, which is perpendicular to both the $x$-axis and $y$-axis. This axis adds depth to our space.
+  - The origin in 3D space is still where all three axes intersect, denoted as $(0, 0, 0)$.
 
 - **Vector Representation**:
-  - A vector in 3D is represented by a triplet of numbers, \([x, y, z]\), which gives the instructions for how to move from the origin to the tip of the vector.
-    - **\(x\)**: How far to move along the \(x\)-axis.
-    - **\(y\)**: How far to move parallel to the \(y\)-axis.
-    - **\(z\)**: How far to move parallel to the \(z\)-axis.
+  - A vector in 3D is represented by a triplet of numbers, $[x, y, z]$, which gives the instructions for how to move from the origin to the tip of the vector.
+    - **$x$**: How far to move along the $x$-axis.
+    - **$y$**: How far to move parallel to the $y$-axis.
+    - **$z$**: How far to move parallel to the $z$-axis.
 
 - **Notation**:
   - In 3D, vectors are typically written as:
-    \[
+    $$
     \begin{bmatrix}
     x \\
     y \\
     z
     \end{bmatrix}
-    \]
-  - This clearly shows the vector's components along the \(x\), \(y\), and \(z\) axes.
+    $$
+  - This clearly shows the vector's components along the $x$, $y$, and $z$ axes.
 
 - **One-to-One Correspondence**:
   - Just like in 2D, each triplet of numbers corresponds to exactly one vector in 3D space.
@@ -154,8 +154,8 @@ When working with vectors, it's essential to understand how they are represented
 
 ### Summary
 
-- **In 2D**: Vectors are represented by pairs of numbers, \([x, y]\), with movements along the \(x\) and \(y\) axes.
-- **In 3D**: Vectors are represented by triplets of numbers, \([x, y, z]\), with movements along the \(x\), \(y\), and \(z\) axes.
+- **In 2D**: Vectors are represented by pairs of numbers, $[x, y]$, with movements along the $x$ and $y$ axes.
+- **In 3D**: Vectors are represented by triplets of numbers, $[x, y, z]$, with movements along the $x$, $y$, and $z$ axes.
 
 These concepts form the foundation for understanding more complex operations in linear algebra, as vectors are the primary objects you'll be working with across various dimensions.
 
@@ -180,13 +180,13 @@ In linear algebra, two fundamental operations are central to everything: **vecto
 
 - **Numerical Example**:
   - Consider two vectors with coordinates:
-    - \(\mathbf{v}_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}\)
-    - \(\mathbf{v}_2 = \begin{bmatrix} 3 \\ -1 \end{bmatrix}\)
+    - $\mathbf{v}_1 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+    - $\mathbf{v}_2 = \begin{bmatrix} 3 \\ -1 \end{bmatrix}$
   - To add these vectors, add their corresponding components:
-    \[
+    $$
     \mathbf{v}_1 + \mathbf{v}_2 = \begin{bmatrix} 1 \\ 2 \end{bmatrix} + \begin{bmatrix} 3 \\ -1 \end{bmatrix} = \begin{bmatrix} 1 + 3 \\ 2 + (-1) \end{bmatrix} = \begin{bmatrix} 4 \\ 1 \end{bmatrix}
-    \]
-  - This process is straightforward: add the \(x\)-components together and the \(y\)-components together to get the resulting vector.
+    $$
+  - This process is straightforward: add the $x$-components together and the $y$-components together to get the resulting vector.
 
 #### 2. **Scalar Multiplication**
 
@@ -194,8 +194,8 @@ In linear algebra, two fundamental operations are central to everything: **vecto
   - **Scalar multiplication** involves multiplying a vector by a number (called a scalar).
   - Examples:
     - Multiplying by 2 doubles the length of the vector.
-    - Multiplying by \( \frac{1}{3} \) shrinks the vector to one-third of its original length.
-    - Multiplying by a negative number like \(-1.8\) flips the vector’s direction and then stretches it by a factor of 1.8.
+    - Multiplying by $\frac{1}{3}$ shrinks the vector to one-third of its original length.
+    - Multiplying by a negative number like $-1.8$ flips the vector’s direction and then stretches it by a factor of 1.8.
 
 - **Concept of Scaling**:
   - The process of stretching, shrinking, or reversing the direction of a vector is known as **scaling**.
@@ -203,13 +203,13 @@ In linear algebra, two fundamental operations are central to everything: **vecto
 
 - **Numerical Example**:
   - Consider a vector:
-    \[
+    $$
     \mathbf{v} = \begin{bmatrix} 2 \\ -3 \end{bmatrix}
-    \]
+    $$
   - If we multiply this vector by a scalar, say 3:
-    \[
+    $$
     3 \times \mathbf{v} = 3 \times \begin{bmatrix} 2 \\ -3 \end{bmatrix} = \begin{bmatrix} 3 \times 2 \\ 3 \times -3 \end{bmatrix} = \begin{bmatrix} 6 \\ -9 \end{bmatrix}
-    \]
+    $$
   - This operation scales the vector by a factor of 3, stretching it while keeping the same direction.
 
 ### Summary
@@ -223,22 +223,22 @@ These operations are fundamental and will recur throughout your study of linear 
 
 #### Key Concepts:
 1. **Vector Coordinates**:
-   - A vector in a 2D space can be described by a pair of numbers, like \((3, -2)\).
+   - A vector in a 2D space can be described by a pair of numbers, like $(3, -2)$.
    - These numbers, or coordinates, are **scalars** that describe how much you stretch or shrink certain vectors.
 
 2. **Basis Vectors**:
    - In the standard Cartesian coordinate system, two special vectors are used:
-     - **\(\hat{i}\)**: A unit vector pointing to the right (in the x-direction).
-     - **\(\hat{j}\)**: A unit vector pointing straight up (in the y-direction).
-   - These vectors \(\hat{i}\) and \(\hat{j}\) form the **basis** of the coordinate system.
+     - **$\hat{i}$**: A unit vector pointing to the right (in the x-direction).
+     - **$\hat{j}$**: A unit vector pointing straight up (in the y-direction).
+   - These vectors $\hat{i}$ and $\hat{j}$ form the **basis** of the coordinate system.
 
 3. **Scaling Vectors**:
-   - The x-coordinate scales the vector \(\hat{i}\) and the y-coordinate scales the vector \(\hat{j}\).
-   - For example, in the vector \((3, -2)\), \(3\) scales \(\hat{i}\) (stretching it three times), and \(-2\) scales \(\hat{j}\) (flipping and stretching it by a factor of two).
+   - The x-coordinate scales the vector $\hat{i}$ and the y-coordinate scales the vector $\hat{j}$.
+   - For example, in the vector $(3, -2)$, $3$ scales $\hat{i}$ (stretching it three times), and $-2$ scales $\hat{j}$ (flipping and stretching it by a factor of two).
 
 4. **Linear Combination**:
    - A **linear combination** of two vectors involves scaling them by scalars and then adding them.
-   - Example: Given vectors \(\mathbf{a}\) and \(\mathbf{b}\), a linear combination could be \(c_1 \mathbf{a} + c_2 \mathbf{b}\), where \(c_1\) and \(c_2\) are scalars.
+   - Example: Given vectors $\mathbf{a}$ and $\mathbf{b}$, a linear combination could be $c_1 \mathbf{a} + c_2 \mathbf{b}$, where $c_1$ and $c_2$ are scalars.
 
 5. **Span of Vectors**:
    - The **span** of two vectors is the set of all possible vectors you can get by taking linear combinations of those vectors.
@@ -247,25 +247,25 @@ These operations are fundamental and will recur throughout your study of linear 
    - If both vectors are zero, the span is just the origin point.
 
 #### Visualization and Understanding:
-- **Fixed Scalars**: If you fix one scalar (say \(c_1\)) and let the other vary (say \(c_2\)), the tip of the resulting vector will trace a line in 2D space.
+- **Fixed Scalars**: If you fix one scalar (say $c_1$) and let the other vary (say $c_2$), the tip of the resulting vector will trace a line in 2D space.
 - **Varying Scalars**: If both scalars are allowed to vary, the tips of the resulting vectors will cover an area in 2D space:
   - If the vectors are not collinear, this area is the entire plane.
   - If they are collinear, the area is just a line.
   
 #### Example:
-Consider vectors \(\mathbf{u} = (2, 3)\) and \(\mathbf{v} = (1, 1)\):
+Consider vectors $\mathbf{u} = (2, 3)$ and $\mathbf{v} = (1, 1)$:
 - A linear combination could be written as:
-  \[
+  $$
   \mathbf{w} = c_1 \mathbf{u} + c_2 \mathbf{v} = c_1 \begin{pmatrix} 2 \\ 3 \end{pmatrix} + c_2 \begin{pmatrix} 1 \\ 1 \end{pmatrix} = \begin{pmatrix} 2c_1 + c_2 \\ 3c_1 + c_2 \end{pmatrix}
-  \]
-- Depending on \(c_1\) and \(c_2\), \(\mathbf{w}\) can represent any vector in the 2D plane if \(\mathbf{u}\) and \(\mathbf{v}\) are not collinear.
+  $$
+- Depending on $c_1$ and $c_2$, $\mathbf{w}$ can represent any vector in the 2D plane if $\mathbf{u}$ and $\mathbf{v}$ are not collinear.
 
 #### Mathematical Representation:
 - **Matrix Form**: A linear combination can be expressed as a matrix equation:
-  \[
+  $$
   \mathbf{w} = c_1 \mathbf{u} + c_2 \mathbf{v} = \begin{pmatrix} \mathbf{u} & \mathbf{v} \end{pmatrix} \begin{pmatrix} c_1 \\ c_2 \end{pmatrix}
-  \]
-  where \(\mathbf{u}\) and \(\mathbf{v}\) are column vectors.
+  $$
+  where $\mathbf{u}$ and $\mathbf{v}$ are column vectors.
 
 This framework of using basis vectors, scaling, and adding them through linear combinations is fundamental in linear algebra and helps build an understanding of vector spaces, transformations, and much more.
 
@@ -287,10 +287,10 @@ This framework of using basis vectors, scaling, and adding them through linear c
    - Adding a third vector can either keep the span within the plane (if the third vector lies on the plane) or extend the span to cover the entire 3D space.
 
 #### **3D Span Visualization**:
-   - **Two Vectors**: Imagine two vectors \(\mathbf{u}\) and \(\mathbf{v}\) in 3D space. Their span forms a flat sheet. If you vary the scalars that scale \(\mathbf{u}\) and \(\mathbf{v}\), the tip of the resulting vector traces out this sheet.
-   - **Adding a Third Vector**: Introduce a third vector \(\mathbf{w}\):
-     - **If \(\mathbf{w}\) lies in the same plane** as \(\mathbf{u}\) and \(\mathbf{v}\)**, the span remains a plane.
-     - **If \(\mathbf{w}\) does not lie in the plane**, the span now covers the entire 3D space.
+   - **Two Vectors**: Imagine two vectors $\mathbf{u}$ and $\mathbf{v}$ in 3D space. Their span forms a flat sheet. If you vary the scalars that scale $\mathbf{u}$ and $\mathbf{v}$, the tip of the resulting vector traces out this sheet.
+   - **Adding a Third Vector**: Introduce a third vector $\mathbf{w}$:
+     - **If $\mathbf{w}$ lies in the same plane** as $\mathbf{u}$ and $\mathbf{v}$**, the span remains a plane.
+     - **If $\mathbf{w}$ does not lie in the plane**, the span now covers the entire 3D space.
 
 #### **Linear Independence and Dependence**:
    - **Linearly Independent Vectors**:
@@ -302,10 +302,10 @@ This framework of using basis vectors, scaling, and adding them through linear c
 
 #### **Mathematical Representation**:
    - **Linear Combination in 3D**:
-     \[
+     $$
      \mathbf{w} = c_1 \mathbf{u} + c_2 \mathbf{v} + c_3 \mathbf{w} 
-     \]
-     - Here, \(\mathbf{w}\) can represent any vector in 3D space if \(\mathbf{u}\), \(\mathbf{v}\), and \(\mathbf{w}\) are linearly independent.
+     $$
+     - Here, $\mathbf{w}$ can represent any vector in 3D space if $\mathbf{u}$, $\mathbf{v}$, and $\mathbf{w}$ are linearly independent.
 
 #### **Puzzle**:
    - **Basis of a Space**:
@@ -347,7 +347,7 @@ This foundation sets the stage for deeper explorations into vector spaces, trans
 
 - **Matrix-Vector Multiplication**: A key insight is that every linear transformation can be represented by a matrix. When you multiply a matrix by a vector, you're performing a linear transformation on that vector.
   - **Example**:
-    - Consider a 2D vector \(\mathbf{v}\) and a 2x2 matrix \(A\). The product \(A \mathbf{v}\) gives a new vector, which is the result of applying the linear transformation represented by \(A\) to \(\mathbf{v}\).
+    - Consider a 2D vector $\mathbf{v}$ and a 2x2 matrix $A$. The product $A \mathbf{v}$ gives a new vector, which is the result of applying the linear transformation represented by $A$ to $\mathbf{v}$.
 
 #### Practical Visualization:
 
@@ -367,44 +367,44 @@ Next, we'll delve into how these transformations specifically relate to matrices
 
 1. **Linear Transformations and Basis Vectors**:
    - A **linear transformation** takes a vector and moves it to a new location in space.
-   - To describe a linear transformation numerically, you only need to know where the **basis vectors** (typically \(\mathbf{i}\) and \(\mathbf{j}\) in 2D space) land after the transformation.
+   - To describe a linear transformation numerically, you only need to know where the **basis vectors** (typically $\mathbf{i}$ and $\mathbf{j}$ in 2D space) land after the transformation.
 
 2. **Tracking Vector Transformations**:
-   - Any vector \(\mathbf{v}\) can be written as a linear combination of \(\mathbf{i}\) and \(\mathbf{j}\), such as:
-     \[
+   - Any vector $\mathbf{v}$ can be written as a linear combination of $\mathbf{i}$ and $\mathbf{j}$, such as:
+     $$
      \mathbf{v} = x \mathbf{i} + y \mathbf{j}
-     \]
-   - After the transformation, \(\mathbf{v}\) will land at a new location determined by the same linear combination of the transformed basis vectors:
-     \[
+     $$
+   - After the transformation, $\mathbf{v}$ will land at a new location determined by the same linear combination of the transformed basis vectors:
+     $$
      \text{New }\mathbf{v} = x (\text{New }\mathbf{i}) + y (\text{New }\mathbf{j})
-     \]
+     $$
 
 3. **Example of a Transformation**:
-   - Suppose you have a vector \(\mathbf{v} = \begin{pmatrix} -1 \\ 2 \end{pmatrix}\), meaning it’s \(-1\) times \(\mathbf{i}\) plus \(2\) times \(\mathbf{j}\).
-   - If the transformation moves \(\mathbf{i}\) to \(\begin{pmatrix} 1 \\ -2 \end{pmatrix}\) and \(\mathbf{j}\) to \(\begin{pmatrix} 3 \\ 0 \end{pmatrix}\), then:
-     \[
+   - Suppose you have a vector $\mathbf{v} = \begin{pmatrix} -1 \\ 2 \end{pmatrix}$, meaning it’s $-1$ times $\mathbf{i}$ plus $2$ times $\mathbf{j}$.
+   - If the transformation moves $\mathbf{i}$ to $\begin{pmatrix} 1 \\ -2 \end{pmatrix}$ and $\mathbf{j}$ to $\begin{pmatrix} 3 \\ 0 \end{pmatrix}$, then:
+     $$
      \text{New }\mathbf{v} = -1 \times \begin{pmatrix} 1 \\ -2 \end{pmatrix} + 2 \times \begin{pmatrix} 3 \\ 0 \end{pmatrix}
-     \]
-     \[
+     $$
+     $$
      \text{New }\mathbf{v} = \begin{pmatrix} -1 \\ 2 \end{pmatrix} + \begin{pmatrix} 6 \\ 0 \end{pmatrix} = \begin{pmatrix} 5 \\ 2 \end{pmatrix}
-     \]
+     $$
 
 4. **Matrix Representation of Linear Transformations**:
-   - The linear transformation is completely described by the new positions of the basis vectors \(\mathbf{i}\) and \(\mathbf{j}\). This is represented by a **2x2 matrix**:
-     \[
+   - The linear transformation is completely described by the new positions of the basis vectors $\mathbf{i}$ and $\mathbf{j}$. This is represented by a **2x2 matrix**:
+     $$
      A = \begin{pmatrix} 1 & 3 \\ -2 & 0 \end{pmatrix}
-     \]
-     - Here, the first column \(\begin{pmatrix} 1 \\ -2 \end{pmatrix}\) shows where \(\mathbf{i}\) lands, and the second column \(\begin{pmatrix} 3 \\ 0 \end{pmatrix}\) shows where \(\mathbf{j}\) lands.
+     $$
+     - Here, the first column $\begin{pmatrix} 1 \\ -2 \end{pmatrix}$ shows where $\mathbf{i}$ lands, and the second column $\begin{pmatrix} 3 \\ 0 \end{pmatrix}$ shows where $\mathbf{j}$ lands.
 
 5. **Matrix-Vector Multiplication**:
-   - To find where any vector \(\mathbf{v} = \begin{pmatrix} x \\ y \end{pmatrix}\) lands after the transformation, you multiply the matrix \(A\) by \(\mathbf{v}\):
-     \[
+   - To find where any vector $\mathbf{v} = \begin{pmatrix} x \\ y \end{pmatrix}$ lands after the transformation, you multiply the matrix $A$ by $\mathbf{v}$:
+     $$
      A\mathbf{v} = \begin{pmatrix} 1 & 3 \\ -2 & 0 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 1x + 3y \\ -2x + 0y \end{pmatrix} = \begin{pmatrix} x + 3y \\ -2x \end{pmatrix}
-     \]
+     $$
    - This gives you the coordinates of the transformed vector.
 
 6. **Summary**:
-   - A **2D linear transformation** can be fully described using a **2x2 matrix**. Each column of the matrix corresponds to where the basis vectors \(\mathbf{i}\) and \(\mathbf{j}\) land after the transformation.
+   - A **2D linear transformation** can be fully described using a **2x2 matrix**. Each column of the matrix corresponds to where the basis vectors $\mathbf{i}$ and $\mathbf{j}$ land after the transformation.
    - By multiplying this matrix by any vector, you can find out where the transformation will move that vector.
 
 Understanding how linear transformations are represented by matrices and how matrix-vector multiplication works is fundamental in linear algebra. This concept is the building block for more advanced topics like eigenvalues, eigenvectors, and more complex transformations.
@@ -414,43 +414,43 @@ Understanding how linear transformations are represented by matrices and how mat
 #### Key Concepts:
 
 1. **General Form of a Matrix**:
-   - A 2D linear transformation can be represented by a matrix with elements \(a\), \(b\), \(c\), and \(d\):
-     \[
+   - A 2D linear transformation can be represented by a matrix with elements $a$, $b$, $c$, and $d$:
+     $$
      A = \begin{pmatrix} a & b \\ c & d \end{pmatrix}
-     \]
-   - The first column \(\begin{pmatrix} a \\ c \end{pmatrix}\) represents where the basis vector \(\mathbf{i}\) lands, and the second column \(\begin{pmatrix} b \\ d \end{pmatrix}\) represents where the basis vector \(\mathbf{j}\) lands after the transformation.
+     $$
+   - The first column $\begin{pmatrix} a \\ c \end{pmatrix}$ represents where the basis vector $\mathbf{i}$ lands, and the second column $\begin{pmatrix} b \\ d \end{pmatrix}$ represents where the basis vector $\mathbf{j}$ lands after the transformation.
 
 2. **Matrix-Vector Multiplication**:
-   - Given a vector \(\mathbf{v} = \begin{pmatrix} x \\ y \end{pmatrix}\), the matrix transformation moves this vector to a new position:
-     \[
+   - Given a vector $\mathbf{v} = \begin{pmatrix} x \\ y \end{pmatrix}$, the matrix transformation moves this vector to a new position:
+     $$
      A\mathbf{v} = \begin{pmatrix} a & b \\ c & d \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} ax + by \\ cx + dy \end{pmatrix}
-     \]
-   - This multiplication represents taking a linear combination of the transformed basis vectors, scaled by the components of \(\mathbf{v}\).
+     $$
+   - This multiplication represents taking a linear combination of the transformed basis vectors, scaled by the components of $\mathbf{v}$.
 
 3. **Interpreting the Matrix as a Transformation**:
-   - Instead of memorizing the formula, think of the matrix columns as where the basis vectors \(\mathbf{i}\) and \(\mathbf{j}\) end up after the transformation.
+   - Instead of memorizing the formula, think of the matrix columns as where the basis vectors $\mathbf{i}$ and $\mathbf{j}$ end up after the transformation.
    - For example:
-     - If \(A = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}\), this matrix represents a **90-degree counterclockwise rotation** because \(\mathbf{i}\) lands at \(\begin{pmatrix} 0 \\ 1 \end{pmatrix}\) and \(\mathbf{j}\) lands at \(\begin{pmatrix} -1 \\ 0 \end{pmatrix}\).
+     - If $A = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}$, this matrix represents a **90-degree counterclockwise rotation** because $\mathbf{i}$ lands at $\begin{pmatrix} 0 \\ 1 \end{pmatrix}$ and $\mathbf{j}$ lands at $\begin{pmatrix} -1 \\ 0 \end{pmatrix}$.
 
 4. **Examples of Specific Transformations**:
    - **Rotation**: Rotating space by 90 degrees counterclockwise gives the matrix:
-     \[
+     $$
      A = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}
-     \]
+     $$
      - This matrix rotates any vector in 2D space by 90 degrees counterclockwise.
-   - **Shear Transformation**: A shear transformation might keep \(\mathbf{i}\) fixed and move \(\mathbf{j}\) to a new position:
-     \[
+   - **Shear Transformation**: A shear transformation might keep $\mathbf{i}$ fixed and move $\mathbf{j}$ to a new position:
+     $$
      A = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}
-     \]
-     - Here, \(\mathbf{i}\) remains at \(\begin{pmatrix} 1 \\ 0 \end{pmatrix}\) while \(\mathbf{j}\) moves to \(\begin{pmatrix} 1 \\ 1 \end{pmatrix}\), resulting in a skewing effect.
+     $$
+     - Here, $\mathbf{i}$ remains at $\begin{pmatrix} 1 \\ 0 \end{pmatrix}$ while $\mathbf{j}$ moves to $\begin{pmatrix} 1 \\ 1 \end{pmatrix}$, resulting in a skewing effect.
 
 5. **Reverse Engineering Transformations**:
-   - Given a matrix \(A = \begin{pmatrix} 1 & 3 \\ 2 & 1 \end{pmatrix}\), you can visualize the transformation by imagining how \(\mathbf{i}\) moves to \(\begin{pmatrix} 1 \\ 2 \end{pmatrix}\) and \(\mathbf{j}\) moves to \(\begin{pmatrix} 3 \\ 1 \end{pmatrix}\).
+   - Given a matrix $A = \begin{pmatrix} 1 & 3 \\ 2 & 1 \end{pmatrix}$, you can visualize the transformation by imagining how $\mathbf{i}$ moves to $\begin{pmatrix} 1 \\ 2 \end{pmatrix}$ and $\mathbf{j}$ moves to $\begin{pmatrix} 3 \\ 1 \end{pmatrix}$.
    - If the columns of the matrix are **linearly dependent** (e.g., one column is a multiple of the other), the transformation **squishes** space onto a line.
 
 6. **Summary**:
    - Linear transformations keep grid lines parallel, evenly spaced, and the origin fixed. 
-   - The matrix representing a transformation contains the coordinates of where the basis vectors \(\mathbf{i}\) and \(\mathbf{j}\) land.
+   - The matrix representing a transformation contains the coordinates of where the basis vectors $\mathbf{i}$ and $\mathbf{j}$ land.
    - Matrix-vector multiplication then tells you where any vector will land after the transformation.
 
 ### Important Takeaways:

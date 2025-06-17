@@ -66,9 +66,9 @@ Thinly traded stocks, like Easyknit International Holdings Limited (1218.HK) on 
   
 One way to quantify the liquidity of a stock is by looking at **turnover**, which is calculated as:
 
-\[
+$$
 \text{Turnover} = \text{Volume} \times \text{Price per Share}
-\]
+$$
 
 This metric represents the total value of money exchanged during the trading period, making it more comparable across different stocks.
 
@@ -372,12 +372,12 @@ Generating trading signals that are robust to outlying data points is crucial to
    - **Trade-off**: The smoothing process introduces a delay in your signals. The larger the window size, the more outliers are averaged out, but the greater the lag in detecting true trends. Finding the right window size is key to balancing outlier mitigation with timely signal generation.
 
    #### Formula for Simple Moving Average (SMA):
-   \[
+   $$
    \text{SMA}(t) = \frac{1}{N} \sum_{i=0}^{N-1} P(t-i)
-   \]
+   $$
    Where:
-   - \( P(t) \) is the price at time \( t \).
-   - \( N \) is the number of periods in the moving average window.
+   - $P(t)$ is the price at time $t$.
+   - $N$ is the number of periods in the moving average window.
 
 ### 2. **Portfolio-Level Signal Aggregation**
    - **Concept**: Instead of basing decisions on individual stock movements, you can base them on the aggregated behavior of a portfolio or sector. This approach dilutes the impact of outliers specific to any single stock.

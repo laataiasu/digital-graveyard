@@ -7,19 +7,19 @@
 #### 2. **Portfolio Variance:**
    - **Two-Stock Portfolio Example:**
      - For a portfolio containing two stocks, the variance of the portfolio can be calculated as:
-     \[
+     $$
      \text{Portfolio Variance} = w_1^2 \cdot \sigma_1^2 + w_2^2 \cdot \sigma_2^2 + 2 \cdot w_1 \cdot w_2 \cdot \text{Cov}(R_1, R_2)
-     \]
-     - Here, \( w_1 \) and \( w_2 \) are the weights of the two stocks in the portfolio, \( \sigma_1^2 \) and \( \sigma_2^2 \) are their variances, and \( \text{Cov}(R_1, R_2) \) is the covariance between their returns.
+     $$
+     - Here, $w_1$ and $w_2$ are the weights of the two stocks in the portfolio, $\sigma_1^2$ and $\sigma_2^2$ are their variances, and $\text{Cov}(R_1, R_2)$ is the covariance between their returns.
 
 #### 3. **Covariance Matrix:**
    - **Large Portfolio Example:**
      - When considering a larger stock market, such as the US market with around 9,000 stocks, the calculation becomes more complex.
      - **Covariance Matrix:** A matrix that contains all the pairwise covariances between the stocks. For 9,000 stocks, this matrix would have 9,000 rows and 9,000 columns, resulting in:
-     \[
+     $$
      9,000 \times 9,000 = 81,000,000 \text{ elements}
-     \]
-     - Due to the symmetric property of the covariance matrix (where \( \text{Cov}(R_i, R_j) = \text{Cov}(R_j, R_i) \)), there are approximately 14.5 million unique elements to estimate, instead of 81 million. Despite this reduction, the number is still overwhelming.
+     $$
+     - Due to the symmetric property of the covariance matrix (where $\text{Cov}(R_i, R_j) = \text{Cov}(R_j, R_i)$), there are approximately 14.5 million unique elements to estimate, instead of 81 million. Despite this reduction, the number is still overwhelming.
 
 #### 4. **Curse of Dimensionality:**
    - **Definition:** The "Curse of Dimensionality" refers to the exponential increase in complexity as the number of dimensions (in this case, the number of stocks) increases. While estimating the returns of a few stocks is manageable, estimating the covariance for a large number of stocks becomes highly complex and impractical.
@@ -44,10 +44,10 @@ By understanding these concepts, we see why the Risk Factor Model is necessary f
      - **Specific Return:** The portion of the stock's return that cannot be explained by the factor (also known as idiosyncratic return or idiosyncratic shock).
 
 #### 3. **Mathematical Representation:**
-   - The return \( R_i \) of stock \( i \) can be expressed as:
-     \[
+   - The return $R_i$ of stock $i$ can be expressed as:
+     $$
      R_i = \text{Factor Exposure} \times \text{Factor Return} + \text{Specific Return}
-     \]
+     $$
    - **Factor Exposure:** Also known as factor loading, factor sensitivity, or factor beta, this represents the stock’s sensitivity to the factor.
    - **Factor Return:** This is the rate of return of the specific factor, often measured as the percent change in the factor.
 
@@ -60,11 +60,11 @@ By understanding these concepts, we see why the Risk Factor Model is necessary f
 #### 6. **Multi-Factor Model:**
    - **Extending the Model:** The single-factor model can be extended to include multiple factors. In this case, the return of the stock is influenced by multiple factors, each contributing to the overall return.
    - **Mathematical Representation:**
-     \[
+     $$
      R_i = \beta_1 F_1 + \beta_2 F_2 + \ldots + \beta_n F_n + \epsilon_i
-     \]
-     - \( \beta_1, \beta_2, \ldots, \beta_n \) are the factor exposures to factors \( F_1, F_2, \ldots, F_n \) respectively.
-     - \( \epsilon_i \) is the specific return (idiosyncratic return) for stock \( i \).
+     $$
+     - $\beta_1, \beta_2, \ldots, \beta_n$ are the factor exposures to factors $F_1, F_2, \ldots, F_n$ respectively.
+     - $\epsilon_i$ is the specific return (idiosyncratic return) for stock $i$.
 
 #### 7. **Portfolio Factor Model:**
    - **Transition to Portfolios:** While this discussion covers the return model for a single stock, the same principles apply to portfolios of stocks. The total portfolio return can be modeled by aggregating the factor contributions and specific returns of all the individual stocks in the portfolio.
@@ -86,35 +86,35 @@ By mastering these concepts, you’ll be well-equipped to analyze how different 
    - **Weighted Average of Factor Exposures:**
      - To calculate a portfolio’s exposure to a specific factor, we take the weighted average of the factor exposures of the individual stocks in the portfolio.
      - **Mathematical Representation:**
-       \[
+       $$
        \text{Portfolio Factor Exposure} = \sum_{i=1}^{n} w_i \cdot \beta_{iF}
-       \]
-       - \( w_i \) is the weight of stock \( i \) in the portfolio.
-       - \( \beta_{iF} \) is the factor exposure (or beta) of stock \( i \) to factor \( F \).
+       $$
+       - $w_i$ is the weight of stock $i$ in the portfolio.
+       - $\beta_{iF}$ is the factor exposure (or beta) of stock $i$ to factor $F$.
      - This is similar to how we calculate a portfolio’s return as the weighted average of the individual stock returns, but here, we are focusing on factor exposures.
 
 #### 4. **Summing Factor Contributions:**
    - Once the portfolio’s exposure to each factor is determined, the contribution of each factor to the portfolio's return can be calculated. 
    - **Total Factor-Based Return:**
      - The total factor-based return of the portfolio is the sum of the contributions from all factors:
-     \[
+     $$
      \text{Total Factor-Based Return} = \sum_{F} \left(\text{Portfolio Exposure to Factor } F \times \text{Factor Return } F\right)
-     \]
+     $$
 
 #### 5. **Calculating Portfolio’s Specific Return:**
    - **Weighted Sum of Specific Returns:**
      - To find the portfolio’s specific return, take the weighted sum of the specific returns of each stock:
-     \[
+     $$
      \text{Portfolio Specific Return} = \sum_{i=1}^{n} w_i \cdot \epsilon_i
-     \]
-     - \( \epsilon_i \) represents the specific return of stock \( i \).
+     $$
+     - $\epsilon_i$ represents the specific return of stock $i$.
 
 #### 6. **Portfolio Return Model:**
    - **Complete Model:**
-     - The portfolio’s total return \( R_p \) can now be expressed as:
-     \[
+     - The portfolio’s total return $R_p$ can now be expressed as:
+     $$
      R_p = \sum_{F} \left(\text{Portfolio Exposure to Factor } F \times \text{Factor Return } F\right) + \text{Portfolio Specific Return}
-     \]
+     $$
    - The goal is to explain most of the portfolio’s return using the common factors, with the specific return ideally being minimal.
 
 #### 7. **Next Steps: Portfolio Variance:**
@@ -131,31 +131,31 @@ By applying the factor model to a portfolio, you can decompose and analyze the s
      - **Specific Risk:** The part of the variance unique to individual stocks, not explained by the factors.
 
 #### 2. **Understanding the Matrices:**
-   - **Covariance Matrix of Factors (\(\Sigma_F\)):**
+   - **Covariance Matrix of Factors ($\Sigma_F$):**
      - Represents the covariances between the factors. Think of it as the main ingredients in a recipe, such as milk and sugar in ice cream making.
    
-   - **Matrix of Factor Exposures (\(B\)):**
+   - **Matrix of Factor Exposures ($B$):**
      - Contains the factor exposures (betas) of the stocks. This can be visualized as the measuring spoons that determine how much of each ingredient (factor) is used.
-     - **Transpose of Factor Exposure Matrix (\(B^T\)):**
+     - **Transpose of Factor Exposure Matrix ($B^T$):**
        - The transpose of the factor exposure matrix is used in matrix multiplication. It’s like the reversed measuring spoons, ensuring the proper proportions are considered from a different angle.
    
-   - **Matrix of Specific Variances (\(\Sigma_\epsilon\)):**
+   - **Matrix of Specific Variances ($\Sigma_\epsilon$):**
      - Represents the variances specific to individual stocks, not explained by the factors. These are like the special ingredients in ice cream, such as pecans or chocolate chips, which give each flavor its unique character.
 
-   - **Matrix of Portfolio Weights (\(W\)):**
+   - **Matrix of Portfolio Weights ($W$):**
      - Contains the weights of each stock in the portfolio. Imagine these as ice cream scoops, determining how much of each flavor (stock) is included in your portfolio (ice cream bowl).
-     - **Transpose of Portfolio Weights Matrix (\(W^T\)):**
+     - **Transpose of Portfolio Weights Matrix ($W^T$):**
        - The transpose is used in calculations, just like flipping the scoop to see it from another perspective.
 
 #### 3. **Portfolio Variance Formula:**
    - **Variance Calculation:**
-     - The portfolio variance \( \sigma_p^2 \) can be calculated by summing the contributions from the factors and the specific risks:
-     \[
+     - The portfolio variance $\sigma_p^2$ can be calculated by summing the contributions from the factors and the specific risks:
+     $$
      \sigma_p^2 = W^T \cdot B \cdot \Sigma_F \cdot B^T \cdot W + W^T \cdot \Sigma_\epsilon \cdot W
-     \]
-     - **First Term:** \( W^T \cdot B \cdot \Sigma_F \cdot B^T \cdot W \)
+     $$
+     - **First Term:** $W^T \cdot B \cdot \Sigma_F \cdot B^T \cdot W$
        - Represents the contribution of factor risks to the portfolio’s variance.
-     - **Second Term:** \( W^T \cdot \Sigma_\epsilon \cdot W \)
+     - **Second Term:** $W^T \cdot \Sigma_\epsilon \cdot W$
        - Represents the contribution of specific risks to the portfolio’s variance.
 
 #### 4. **Conceptual Understanding:**
@@ -177,35 +177,35 @@ Using this framework, the portfolio's variance can be systematically analyzed, h
    - **Analogy:** Think of each stock as a different flavor of ice cream—e.g., butter pecan or mint chocolate chip.
 
 #### 2. **Stock Return Model:**
-   - **Modeling the Return:** The return \( R_i \) of stock \( i \) can be expressed as a linear combination of factor returns plus a specific (idiosyncratic) return:
-     \[
+   - **Modeling the Return:** The return $R_i$ of stock $i$ can be expressed as a linear combination of factor returns plus a specific (idiosyncratic) return:
+     $$
      R_i = \beta_{i1} F_1 + \beta_{i2} F_2 + \epsilon_i
-     \]
-     - \( \beta_{i1}, \beta_{i2} \): Factor exposures (betas) of stock \( i \) to factors \( F_1 \) and \( F_2 \).
-     - \( F_1, F_2 \): Returns of the common risk factors.
-     - \( \epsilon_i \): Specific return (idiosyncratic return) of stock \( i \).
+     $$
+     - $\beta_{i1}, \beta_{i2}$: Factor exposures (betas) of stock $i$ to factors $F_1$ and $F_2$.
+     - $F_1, F_2$: Returns of the common risk factors.
+     - $\epsilon_i$: Specific return (idiosyncratic return) of stock $i$.
 
 #### 3. **Variance Calculation:**
    - **Taking the Variance:** To calculate the variance of the stock’s return, we take the variance of both sides of the equation:
-     \[
+     $$
      \text{Var}(R_i) = \text{Var}(\beta_{i1} F_1 + \beta_{i2} F_2 + \epsilon_i)
-     \]
+     $$
      - **Expanding the Variance:**
-       \[
+       $$
        \text{Var}(R_i) = \beta_{i1}^2 \text{Var}(F_1) + \beta_{i2}^2 \text{Var}(F_2) + 2 \beta_{i1} \beta_{i2} \text{Cov}(F_1, F_2) + \text{Var}(\epsilon_i)
-       \]
-     - **Key Assumption:** The specific return \( \epsilon_i \) is not correlated with the factors, so the covariance terms involving \( \epsilon_i \) drop out.
+       $$
+     - **Key Assumption:** The specific return $\epsilon_i$ is not correlated with the factors, so the covariance terms involving $\epsilon_i$ drop out.
 
 #### 4. **Systematic and Specific Variance:**
    - **Systematic Variance:** The first three terms represent the variance due to the common risk factors, known as systematic variance:
-     \[
+     $$
      \text{Systematic Variance} = \beta_{i1}^2 \text{Var}(F_1) + \beta_{i2}^2 \text{Var}(F_2) + 2 \beta_{i1} \beta_{i2} \text{Cov}(F_1, F_2)
-     \]
+     $$
      - **Analogy:** This is like the main ingredients in the ice cream, such as sugar and milk.
    - **Specific Variance:** The last term is the specific (idiosyncratic) variance:
-     \[
+     $$
      \text{Specific Variance} = \text{Var}(\epsilon_i)
-     \]
+     $$
      - **Analogy:** This is like the unique ingredients in the ice cream, such as the pecans in butter pecan.
 
 #### 5. **Understanding the Variance of One Stock:**
@@ -218,61 +218,61 @@ By understanding these components, we can better manage and predict the risk ass
 
 #### 1. **Understanding Variance:**
    - **Variance Definition:** Variance measures how much the values of a random variable deviate from their mean, and it's calculated as the average of the squared differences from the mean:
-     \[
+     $$
      \text{Var}(X) = \frac{1}{n} \sum_{i=1}^{n} (X_i - \mu)^2
-     \]
-     - Here, \( X_i \) represents the individual data points, and \( \mu \) is the mean of \( X \).
+     $$
+     - Here, $X_i$ represents the individual data points, and $\mu$ is the mean of $X$.
 
 #### 2. **Introducing a Constant:**
-   - **Constant Multiplication:** Consider a random variable \( X \) and a constant \( c \). When we multiply the random variable by a constant, the new variable becomes \( cX \).
+   - **Constant Multiplication:** Consider a random variable $X$ and a constant $c$. When we multiply the random variable by a constant, the new variable becomes $cX$.
    - **Variance of a Constant Times a Variable:**
-     \[
+     $$
      \text{Var}(cX) = \text{Var}(c \times X)
-     \]
+     $$
 
 #### 3. **Taking the Constant Out of the Variance Operator:**
    - **Step-by-Step Process:**
-     - **Substitute into the Variance Formula:** Start by expressing the variance of \( cX \):
-       \[
+     - **Substitute into the Variance Formula:** Start by expressing the variance of $cX$:
+       $$
        \text{Var}(cX) = \frac{1}{n} \sum_{i=1}^{n} (cX_i - c\mu)^2
-       \]
-       - Here, \( cX_i \) is each individual data point after multiplication by the constant, and \( c\mu \) is the mean after multiplication by the constant.
-     - **Factor Out the Constant:** Notice that \( c \) can be factored out of the squared term:
-       \[
+       $$
+       - Here, $cX_i$ is each individual data point after multiplication by the constant, and $c\mu$ is the mean after multiplication by the constant.
+     - **Factor Out the Constant:** Notice that $c$ can be factored out of the squared term:
+       $$
        \text{Var}(cX) = \frac{1}{n} \sum_{i=1}^{n} c^2(X_i - \mu)^2
-       \]
-       - This step shows that \( c^2 \) is a constant multiplier for each term in the variance calculation.
-     - **Final Result:** The variance of \( cX \) simplifies to:
-       \[
+       $$
+       - This step shows that $c^2$ is a constant multiplier for each term in the variance calculation.
+     - **Final Result:** The variance of $cX$ simplifies to:
+       $$
        \text{Var}(cX) = c^2 \times \text{Var}(X)
-       \]
+       $$
      - This demonstrates that when you take a constant out of the variance operator, it must be squared.
 
 #### 4. **Application to Covariance:**
-   - **Covariance Definition:** Covariance measures the joint variability of two random variables \( X \) and \( Y \):
-     \[
+   - **Covariance Definition:** Covariance measures the joint variability of two random variables $X$ and $Y$:
+     $$
      \text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (X_i - \mu_X)(Y_i - \mu_Y)
-     \]
+     $$
    - **Multiplication by a Constant:** Consider multiplying one of the variables by a constant:
-     \[
+     $$
      \text{Cov}(cX, Y)
-     \]
+     $$
    - **Taking the Constant Out:**
-     - Just like with variance, you can factor out the constant \( c \) from the covariance operator:
-       \[
+     - Just like with variance, you can factor out the constant $c$ from the covariance operator:
+       $$
        \text{Cov}(cX, Y) = c \times \text{Cov}(X, Y)
-       \]
+       $$
      - The difference here is that the constant is not squared, as covariance involves a product of deviations rather than a square of deviations.
 
 #### 5. **Summary:**
    - **Variance:** When you have a constant multiplied by a random variable, you can take the constant out of the variance operator, but you must square it:
-     \[
+     $$
      \text{Var}(cX) = c^2 \times \text{Var}(X)
-     \]
+     $$
    - **Covariance:** When taking a constant out of the covariance operator, you don't square the constant:
-     \[
+     $$
      \text{Cov}(cX, Y) = c \times \text{Cov}(X, Y)
-     \]
+     $$
 
 Understanding these rules helps simplify the mathematical manipulation of variance and covariance in financial models, such as when working with factor models of asset returns and risks.
 
@@ -361,14 +361,14 @@ The covariance formula can be simplified by recognizing:
 
 Given this, the covariance between the two stocks can be written as:
 
-\[
+$$
 \text{Cov}(R_1, R_2) = \beta_{11} \beta_{12} \text{Var}(F_1) + \beta_{21} \beta_{22} \text{Var}(F_2) + \beta_{11} \beta_{22} \text{Cov}(F_1, F_2) + \beta_{21} \beta_{12} \text{Cov}(F_2, F_1)
-\]
+$$
 
 Where:
-- \( \beta_{ij} \) represents the exposure of stock \( i \) to factor \( j \).
-- \( \text{Var}(F_1) \) and \( \text{Var}(F_2) \) are the variances of the factors.
-- \( \text{Cov}(F_1, F_2) \) is the covariance between the factors.
+- $\beta_{ij}$ represents the exposure of stock $i$ to factor $j$.
+- $\text{Var}(F_1)$ and $\text{Var}(F_2)$ are the variances of the factors.
+- $\text{Cov}(F_1, F_2)$ is the covariance between the factors.
 
 ### Step 3: Covariance Matrix of Assets
 
@@ -376,18 +376,18 @@ Now that we have the covariance between the two stocks, we can construct the cov
 
 #### Covariance Matrix Construction:
 
-- **Variance of Stock 1**: \( \sigma_{11}^2 \)
-- **Variance of Stock 2**: \( \sigma_{22}^2 \)
-- **Covariance between Stock 1 and Stock 2**: \( \sigma_{12} \)
+- **Variance of Stock 1**: $\sigma_{11}^2$
+- **Variance of Stock 2**: $\sigma_{22}^2$
+- **Covariance between Stock 1 and Stock 2**: $\sigma_{12}$
 
-Thus, the covariance matrix \( \Sigma \) can be represented as:
+Thus, the covariance matrix $\Sigma$ can be represented as:
 
-\[
+$$
 \Sigma = \begin{pmatrix}
 \sigma_{11}^2 & \sigma_{12} \\
 \sigma_{12} & \sigma_{22}^2
 \end{pmatrix}
-\]
+$$
 
 Where each element of the matrix can now be expressed in terms of the common factors.
 
@@ -416,67 +416,67 @@ The portfolio variance formula you've been working with can be directly translat
 
 The portfolio variance in matrix notation is expressed as:
 
-\[
+$$
 \text{Var}(r_p) = \mathbf{X}^T (\mathbf{BFB}^T + \mathbf{S}) \mathbf{X}
-\]
+$$
 
 Let's break down each component:
 
-1. **\(\mathbf{F}\)**: The covariance matrix of the factors. It looks like this:
-   \[
+1. **$\mathbf{F}$**: The covariance matrix of the factors. It looks like this:
+   $$
    \mathbf{F} = \begin{pmatrix}
    \text{Var}(f_1) & \text{Cov}(f_1, f_2) \\
    \text{Cov}(f_2, f_1) & \text{Var}(f_2)
    \end{pmatrix}
-   \]
+   $$
    This matrix captures the variances and covariances between the factors.
 
-2. **\(\mathbf{B}\)**: The matrix of factor loadings for each stock. Each entry \(\beta_{i,j}\) represents the sensitivity of stock \(i\) to factor \(j\):
-   \[
+2. **$\mathbf{B}$**: The matrix of factor loadings for each stock. Each entry $\beta_{i,j}$ represents the sensitivity of stock $i$ to factor $j$:
+   $$
    \mathbf{B} = \begin{pmatrix}
    \beta_{i,1} & \beta_{i,2} \\
    \beta_{j,1} & \beta_{j,2}
    \end{pmatrix}
-   \]
+   $$
 
-3. **\(\mathbf{B}^T\)**: The transpose of matrix \(\mathbf{B}\). This flips the rows and columns:
-   \[
+3. **$\mathbf{B}^T$**: The transpose of matrix $\mathbf{B}$. This flips the rows and columns:
+   $$
    \mathbf{B}^T = \begin{pmatrix}
    \beta_{i,1} & \beta_{j,1} \\
    \beta_{i,2} & \beta_{j,2}
    \end{pmatrix}
-   \]
+   $$
 
-4. **\(\mathbf{S}\)**: The diagonal matrix of specific variances (unique to each stock). The off-diagonal elements are zero, reflecting that the specific variances of different stocks are uncorrelated:
-   \[
+4. **$\mathbf{S}$**: The diagonal matrix of specific variances (unique to each stock). The off-diagonal elements are zero, reflecting that the specific variances of different stocks are uncorrelated:
+   $$
    \mathbf{S} = \begin{pmatrix}
    \text{Var}(s_i) & 0 \\
    0 & \text{Var}(s_j)
    \end{pmatrix}
-   \]
+   $$
 
-5. **\(\mathbf{X}\)**: The vector of portfolio weights, where \(x_i\) and \(x_j\) represent the proportion of the portfolio invested in stock \(i\) and stock \(j\), respectively:
-   \[
+5. **$\mathbf{X}$**: The vector of portfolio weights, where $x_i$ and $x_j$ represent the proportion of the portfolio invested in stock $i$ and stock $j$, respectively:
+   $$
    \mathbf{X} = \begin{pmatrix}
    x_i \\
    x_j
    \end{pmatrix}
-   \]
+   $$
 
-6. **\(\mathbf{X}^T\)**: The transpose of \(\mathbf{X}\), a row vector:
-   \[
+6. **$\mathbf{X}^T$**: The transpose of $\mathbf{X}$, a row vector:
+   $$
    \mathbf{X}^T = \begin{pmatrix}
    x_i & x_j
    \end{pmatrix}
-   \]
+   $$
 
 ### Putting the Pieces Together
 
 Combining all these components, the portfolio variance formula in matrix form is:
 
-\[
+$$
 \text{Var}(r_p) = \begin{pmatrix}x_i & x_j\end{pmatrix} \left(\begin{pmatrix}\beta_{i,1} & \beta_{i,2} \\ \beta_{j,1} & \beta_{j,2}\end{pmatrix} \begin{pmatrix}\text{Var}(f_1) & \text{Cov}(f_1, f_2) \\ \text{Cov}(f_2, f_1) & \text{Var}(f_2)\end{pmatrix} \begin{pmatrix}\beta_{i,1} & \beta_{j,1} \\ \beta_{i,2} & \beta_{j,2}\end{pmatrix} + \begin{pmatrix}\text{Var}(s_i) & 0 \\ 0 & \text{Var}(s_j)\end{pmatrix}\right) \begin{pmatrix}x_i \\ x_j\end{pmatrix}
-\]
+$$
 
 This matrix expression is powerful because it generalizes easily to portfolios with many assets and factors. By structuring the problem in this way, we can efficiently compute the portfolio variance, taking into account both the common factors that affect all assets and the unique risks specific to each asset.
 
@@ -493,10 +493,10 @@ In this session, we're diving into the various types of risk models that are ess
 - **Overview**: CAPM is a foundational risk model that uses the market return as the single risk factor. It assumes that the market return influences the returns of all individual assets.
   
 - **Key Concept**: The model posits that the expected return of an asset is determined by its sensitivity (beta) to the overall market return. The formula is:
-  \[
+  $$
   \text{Expected Return} = R_f + \beta \times (R_m - R_f)
-  \]
-  Where \( R_f \) is the risk-free rate, \( \beta \) is the asset's sensitivity to the market, and \( R_m \) is the expected market return.
+  $$
+  Where $R_f$ is the risk-free rate, $\beta$ is the asset's sensitivity to the market, and $R_m$ is the expected market return.
 
 - **Use Case**: CAPM is often used as a starting point in asset pricing and portfolio management.
 
@@ -505,9 +505,9 @@ In this session, we're diving into the various types of risk models that are ess
 - **Overview**: This model extends CAPM by introducing two additional factors besides the market return: size (SMB - Small Minus Big) and value (HML - High Minus Low).
 
 - **Key Concept**: The Fama-French model considers that small-cap stocks tend to outperform large-cap stocks, and value stocks (with high book-to-market ratios) tend to outperform growth stocks (with low book-to-market ratios). The formula is:
-  \[
+  $$
   \text{Expected Return} = R_f + \beta_1 \times (R_m - R_f) + \beta_2 \times \text{SMB} + \beta_3 \times \text{HML}
-  \]
+  $$
 
 - **Significance**: The Fama-French model is foundational for the development of multifactor models in finance. Many studies on alpha factors trace their methodology back to this model.
 

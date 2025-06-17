@@ -64,7 +64,7 @@
   echo "Today's date is: $(date)"
   ```
 
-This script clears the screen, prompts for user input, and displays a greeting along with the current date. Use backticks \(`\) to capture command output for variables.
+This script clears the screen, prompts for user input, and displays a greeting along with the current date. Use backticks $`$ to capture command output for variables.
 
 ## 2. Shell Script Comparison, Piping, and Redirection Operators
 

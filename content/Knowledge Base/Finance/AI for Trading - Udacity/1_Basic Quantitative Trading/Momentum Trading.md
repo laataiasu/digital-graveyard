@@ -181,9 +181,9 @@ To formulate a momentum-based trading strategy using the S&P 500 stock universe,
 
 ### 3. **Calculate Monthly Log Returns**
    - **Log Returns Formula**: The log return for a stock from one month to the next can be calculated as:
-     \[
+     $$
      \text{Log Return} = \ln\left(\frac{\text{Price}_{\text{end of month}}}{\text{Price}_{\text{beginning of month}}}\right)
-     \]
+     $$
    - **Log Returns Time Series**: Create a time series of these log returns for each stock in your universe.
 
 ### 4. **Rank Stocks by Monthly Performance**
@@ -199,9 +199,9 @@ To formulate a momentum-based trading strategy using the S&P 500 stock universe,
      - **Long Portfolio Return**: Calculate the average return of all stocks in the long portfolio.
      - **Short Portfolio Return**: Calculate the average return of all stocks in the short portfolio.
      - **Combined Portfolio Return**: The overall return for the month is the difference between the long portfolio’s return and the short portfolio’s return:
-       \[
+       $$
        \text{Combined Portfolio Return} = \text{Long Portfolio Return} - \text{Short Portfolio Return}
-       \]
+       $$
 
 ### 6. **Rebalance and Iterate**
    - **Monthly Rebalancing**: At the end of each month, repeat the ranking, selection, and portfolio construction process.
@@ -260,28 +260,28 @@ To evaluate the effectiveness of the trading strategy, we can follow a structure
 ### 1. **Objective**
    - **Goal**: Determine whether the mean monthly return of our long-short portfolio is significantly greater than zero.
    - **Hypotheses**:
-     - **Null Hypothesis (\(H_0\))**: The true mean monthly return is zero or less (\(\mu \leq 0\)).
-     - **Alternative Hypothesis (\(H_1\))**: The true mean monthly return is greater than zero (\(\mu > 0\)).
+     - **Null Hypothesis ($H_0$)**: The true mean monthly return is zero or less ($\mu \leq 0$).
+     - **Alternative Hypothesis ($H_1$)**: The true mean monthly return is greater than zero ($\mu > 0$).
 
 ### 2. **Data Summary**
-   - **Mean Monthly Return (\(\bar{x}\))**: 0.53%
-   - **Number of Observations (\(n\))**: 48 (for a dataset spanning 48 months)
-   - **Degrees of Freedom (\(df\))**: \(n - 1 = 47\)
-   - **Standard Error of the Mean (\(SE_{\bar{x}}\))**: This is calculated as the standard deviation of the returns divided by the square root of the number of observations.
+   - **Mean Monthly Return ($\bar{x}$)**: 0.53%
+   - **Number of Observations ($n$)**: 48 (for a dataset spanning 48 months)
+   - **Degrees of Freedom ($df$)**: $n - 1 = 47$
+   - **Standard Error of the Mean ($SE_{\bar{x}}$)**: This is calculated as the standard deviation of the returns divided by the square root of the number of observations.
 
 ### 3. **Calculating the T-Statistic**
    The t-statistic is calculated using the formula:
-   \[
+   $$
    t = \frac{\bar{x}}{SE_{\bar{x}}}
-   \]
+   $$
    where:
-   - \(\bar{x} = 0.0053\) (mean monthly return in decimal form)
-   - \(SE_{\bar{x}}\) is the standard error of the mean
+   - $\bar{x} = 0.0053$ (mean monthly return in decimal form)
+   - $SE_{\bar{x}}$ is the standard error of the mean
 
-   Assuming the standard deviation of the returns is \(\sigma\), the standard error is given by:
-   \[
+   Assuming the standard deviation of the returns is $\sigma$, the standard error is given by:
+   $$
    SE_{\bar{x}} = \frac{\sigma}{\sqrt{n}}
-   \]
+   $$
 
 ### 4. **Performing the T-Test**
    - **T-Statistic**: Given as approximately 1.618.
@@ -292,10 +292,10 @@ To evaluate the effectiveness of the trading strategy, we can follow a structure
    - **P-Value**: 0.0566
 
 ### 5. **Interpreting the Results**
-   - **Significance Level (\(\alpha\))**: You have set \(\alpha = 0.1\), which means you’re willing to accept a 10% chance of incorrectly rejecting the null hypothesis.
+   - **Significance Level ($\alpha$)**: You have set $\alpha = 0.1$, which means you’re willing to accept a 10% chance of incorrectly rejecting the null hypothesis.
    - **Comparison**:
-     - If \( p \leq \alpha \): Reject the null hypothesis, suggesting that the true mean is likely greater than zero.
-     - If \( p > \alpha \): Fail to reject the null hypothesis, meaning there isn’t enough evidence to say the true mean is greater than zero.
+     - If $p \leq \alpha$: Reject the null hypothesis, suggesting that the true mean is likely greater than zero.
+     - If $p > \alpha$: Fail to reject the null hypothesis, meaning there isn’t enough evidence to say the true mean is greater than zero.
 
    - **Result**: Since the p-value is 0.0566, which is less than 0.1 but greater than 0.05, the result is significant at the 0.1 level but not at the 0.05 level. This suggests that while there’s some evidence to support the alternative hypothesis that the true mean is greater than zero, the evidence is not overwhelmingly strong.
 
@@ -324,7 +324,7 @@ Formulating trading strategies involves several key steps, beginning with the ob
 
 ### 3. **Alpha Research**
    - **Statistical Testing:** Apply statistical analysis to test whether the observed patterns or trading signals could be profitable. This involves:
-     - **Formulating Hypotheses:** For example, the null hypothesis \(H_0\) might be that the pattern does not lead to profit.
+     - **Formulating Hypotheses:** For example, the null hypothesis $H_0$ might be that the pattern does not lead to profit.
      - **Choosing Tests:** Use statistical tests such as t-tests to determine if observed results are statistically significant.
      - **Calculating p-values:** Assess the probability of obtaining test results at least as extreme as the observed results, given that the null hypothesis is true.
 

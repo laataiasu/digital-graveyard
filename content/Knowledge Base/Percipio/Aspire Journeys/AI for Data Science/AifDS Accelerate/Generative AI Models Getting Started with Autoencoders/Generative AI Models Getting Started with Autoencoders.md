@@ -59,7 +59,7 @@ Sure! Here’s a reformatted and streamlined version of the content focused on l
 
 ### Training and Loss Function
 
-- The training objective is to minimize the reconstruction loss \( L(x, \hat{x}) \), where \( x \) is the input and \( \hat{x} \) is the reconstructed output.
+- The training objective is to minimize the reconstruction loss $L(x, \hat{x})$, where $x$ is the input and $\hat{x}$ is the reconstructed output.
 - **Loss Functions**:
   - Mean Squared Error (MSE)
   - Binary Cross Entropy
@@ -354,7 +354,7 @@ Now that we have our utility function for displaying images, we’ll set up the 
 
 We specify three key dimensions for our model:
 
-- **Input Dimensions**: This is the size of each image after flattening, calculated as \(1 \times 28 \times 28 = 784\).
+- **Input Dimensions**: This is the size of each image after flattening, calculated as $1 \times 28 \times 28 = 784$.
 - **Hidden Dimensions**: Set to 256, which can be adjusted based on experimentation.
 - **Latent Dimensions**: Set to 2, allowing for significant compression of the input data.
 
@@ -371,7 +371,7 @@ Before training, we pass the training images through the encoder to obtain rando
 We establish the following parameters for training:
 
 - **Epochs**: 20
-- **Learning Rate**: \(0.001\) (or \(10^{-3}\))
+- **Learning Rate**: $0.001$ (or $10^{-3}$)
 - **Batch Size**: 128
 - **Loss Function**: Mean Squared Error (MSE)
 - **Optimizer**: Adam

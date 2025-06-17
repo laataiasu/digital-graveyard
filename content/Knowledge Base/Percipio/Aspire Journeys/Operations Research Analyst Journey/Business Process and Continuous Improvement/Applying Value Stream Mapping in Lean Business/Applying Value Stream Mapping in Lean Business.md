@@ -51,9 +51,9 @@
 - A process block occurs when **cycle time** exceeds **takt time** (time needed to meet customer demand).
 - **Cycle Time**: Time taken to complete a task.
 - **Takt Time Calculation**:
-  \[
+  $$
   \text{Takt Time} = \frac{\text{Net Operating Time}}{\text{Customer Requirements}}
-  \]
+  $$
 - Use bar charts to compare cycle times to takt times and identify bottlenecks.
 
 ### Pull Systems in Future State Mapping

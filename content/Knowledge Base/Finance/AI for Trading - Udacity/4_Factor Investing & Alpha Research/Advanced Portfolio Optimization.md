@@ -17,20 +17,20 @@ In this session, our focus is on setting up a portfolio optimization problem usi
    - The **predicted portfolio return** needs to be included in the objective function. To calculate this, we take the dot product of the alpha vector (which contains our predictions for each stock) with the portfolio weight vector (which contains the proportion of capital allocated to each stock).
    - This gives us a scalar value representing the total expected return of the portfolio based on our alpha predictions.
 
-   \[
+   $$
    \text{Predicted Portfolio Return} = \alpha^T \cdot w
-   \]
+   $$
 
    Where:
-   - \(\alpha\) is the vector of alpha values for the assets.
-   - \(w\) is the vector of portfolio weights.
+   - $\alpha$ is the vector of alpha values for the assets.
+   - $w$ is the vector of portfolio weights.
 
 4. **Objective Function**:
    - We aim to **maximize** this predicted return. In mathematical optimization, maximization problems are often converted to minimization problems for convenience. Therefore, to maximize the predicted return, we can minimize its negative.
 
-   \[
+   $$
    \text{Objective Function} = -\alpha^T \cdot w
-   \]
+   $$
 
    Here, minimizing the negative of the dot product is equivalent to maximizing the predicted return.
 
@@ -57,28 +57,28 @@ In the previous step, we focused on maximizing portfolio returns using alpha fac
 
 1. **Risk Model and Covariance Matrix**:
    - The **risk model** provides the covariance matrix, which is essential for calculating portfolio variance.
-   - The covariance matrix, denoted as \( \Sigma \), represents the pairwise covariances between all assets in the portfolio.
+   - The covariance matrix, denoted as $\Sigma$, represents the pairwise covariances between all assets in the portfolio.
 
 2. **Portfolio Variance Calculation**:
-   - The **portfolio variance** is calculated using the weight vector \( w \) (which represents the allocation of capital across the assets) and the covariance matrix \( \Sigma \).
-   - Mathematically, the portfolio variance \( \sigma^2_p \) is given by:
+   - The **portfolio variance** is calculated using the weight vector $w$ (which represents the allocation of capital across the assets) and the covariance matrix $\Sigma$.
+   - Mathematically, the portfolio variance $\sigma^2_p$ is given by:
 
-   \[
+   $$
    \sigma^2_p = w^T \Sigma w
-   \]
+   $$
 
    Where:
-   - \( w^T \) is the transpose of the weight vector.
-   - \( \Sigma \) is the covariance matrix.
-   - \( w \) is the weight vector.
+   - $w^T$ is the transpose of the weight vector.
+   - $\Sigma$ is the covariance matrix.
+   - $w$ is the weight vector.
 
 3. **Objective: Limiting Risk**:
    - To manage risk, we set a **constraint** on the portfolio variance, ensuring it stays below a certain threshold.
    - This threshold is a predefined value that represents the maximum tolerable variance for the portfolio.
 
-   \[
+   $$
    \sigma^2_p \leq \text{Variance Limit}
-   \]
+   $$
 
    This constraint ensures that the portfolio's risk is kept within acceptable boundaries.
 
@@ -115,15 +115,15 @@ In our portfolio optimization, we've already set up an objective function that a
 #### Understanding the Regularization Term
 
 1. **L2 Norm of Portfolio Weights**:
-   - The **L2 norm** of a vector is a measure of its length (or magnitude). For our portfolio, this vector is the set of portfolio weights \( w \), which represents the allocation of capital across the assets.
+   - The **L2 norm** of a vector is a measure of its length (or magnitude). For our portfolio, this vector is the set of portfolio weights $w$, which represents the allocation of capital across the assets.
    - The L2 norm is calculated as:
 
-   \[
+   $$
    \|w\|_2 = \sqrt{w_1^2 + w_2^2 + \dots + w_n^2}
-   \]
+   $$
 
    Where:
-   - \( w_1, w_2, \dots, w_n \) are the individual weights assigned to the assets.
+   - $w_1, w_2, \dots, w_n$ are the individual weights assigned to the assets.
 
 2. **Purpose of Regularization**:
    - The regularization term penalizes large weights on individual assets. This discourages the portfolio from becoming too concentrated in a few assets and promotes a more diversified allocation.
@@ -132,34 +132,34 @@ In our portfolio optimization, we've already set up an objective function that a
 3. **Objective Function with Regularization**:
    - The modified objective function now includes the regularization term:
 
-   \[
+   $$
    \text{Objective Function} = -\alpha^T \cdot w + \lambda \|w\|_2^2
-   \]
+   $$
 
    Where:
-   - \( \alpha^T \cdot w \) is the predicted portfolio return (which we want to maximize).
-   - \( \|w\|_2^2 \) is the regularization term (which we want to minimize).
-   - \( \lambda \) is the **regularization parameter** that controls the trade-off between maximizing returns and spreading weights.
+   - $\alpha^T \cdot w$ is the predicted portfolio return (which we want to maximize).
+   - $\|w\|_2^2$ is the regularization term (which we want to minimize).
+   - $\lambda$ is the **regularization parameter** that controls the trade-off between maximizing returns and spreading weights.
 
-#### The Role of the Regularization Parameter (\(\lambda\))
+#### The Role of the Regularization Parameter ($\lambda$)
 
 1. **Balancing Confidence in Alpha Factors**:
-   - The regularization parameter \( \lambda \) acts as a **conviction dial**. It allows you to adjust how much you rely on your alpha factors versus how much you want to enforce diversification.
+   - The regularization parameter $\lambda$ acts as a **conviction dial**. It allows you to adjust how much you rely on your alpha factors versus how much you want to enforce diversification.
 
 2. **Two Extreme Scenarios**:
-   - **Full Confidence in Alpha Factors (\(\lambda = 0\))**:
-     - If you are completely confident in your alpha factors, you would set \( \lambda \) to zero. This would remove the regularization term, allowing the portfolio to concentrate on the assets with the highest predicted returns.
-   - **Maximum Diversification (\(\lambda \rightarrow \infty\))**:
-     - If you have less confidence in the specific magnitudes of your alpha factors (but still trust the direction), you would increase \( \lambda \). As \( \lambda \) increases, the portfolio weights tend to equalize, promoting more diversification.
+   - **Full Confidence in Alpha Factors ($\lambda = 0$)**:
+     - If you are completely confident in your alpha factors, you would set $\lambda$ to zero. This would remove the regularization term, allowing the portfolio to concentrate on the assets with the highest predicted returns.
+   - **Maximum Diversification ($\lambda \rightarrow \infty$)**:
+     - If you have less confidence in the specific magnitudes of your alpha factors (but still trust the direction), you would increase $\lambda$. As $\lambda$ increases, the portfolio weights tend to equalize, promoting more diversification.
 
 3. **Bayesian Interpretation**:
-   - From a Bayesian perspective, \( \lambda \) reflects your level of prior confidence in the alpha factors:
-     - A lower \( \lambda \) indicates strong confidence in the alpha predictions.
-     - A higher \( \lambda \) indicates less confidence, leading to more weight spreading across assets.
+   - From a Bayesian perspective, $\lambda$ reflects your level of prior confidence in the alpha factors:
+     - A lower $\lambda$ indicates strong confidence in the alpha predictions.
+     - A higher $\lambda$ indicates less confidence, leading to more weight spreading across assets.
 
 #### Conclusion
 
-By adding the regularization term to our optimization problem, we introduce a mechanism to balance between aggressively following alpha predictions and maintaining a diversified portfolio. The regularization parameter \( \lambda \) gives you control over this balance, acting as a dial that adjusts the portfolio according to your confidence in the alpha factors.
+By adding the regularization term to our optimization problem, we introduce a mechanism to balance between aggressively following alpha predictions and maintaining a diversified portfolio. The regularization parameter $\lambda$ gives you control over this balance, acting as a dial that adjusts the portfolio according to your confidence in the alpha factors.
 
 This refined objective function is now better equipped to handle real-world uncertainties, helping to manage the trade-off between maximizing returns and controlling risk through diversification.
 
@@ -173,16 +173,16 @@ While we've set up an objective function to maximize returns, control risk, and 
 
 1. **Long-Only Constraint**:
    - **Definition**: A long-only portfolio is one where all positions are positive, meaning you only buy (or hold) assets rather than short-selling them.
-   - **Implementation**: If your trading environment restricts short positions, you'd enforce a long-only constraint by requiring all portfolio weights \( w_i \) to be non-negative:
+   - **Implementation**: If your trading environment restricts short positions, you'd enforce a long-only constraint by requiring all portfolio weights $w_i$ to be non-negative:
 
-   \[
+   $$
    w_i \geq 0 \quad \forall i
-   \]
+   $$
 
    This ensures that the optimization only considers portfolios where you're holding assets, not shorting them.
 
 2. **Long-Short Constraint**:
-   - **Definition**: If you're allowed to take both long and short positions, no such constraint is needed. In this case, weights \( w_i \) can be positive or negative, reflecting long or short positions, respectively.
+   - **Definition**: If you're allowed to take both long and short positions, no such constraint is needed. In this case, weights $w_i$ can be positive or negative, reflecting long or short positions, respectively.
    - **Implementation**: The portfolio weights can freely take any value, allowing the optimizer to short assets when it's beneficial according to the alpha factors.
 
 3. **Market Neutral Constraint**:
@@ -190,35 +190,35 @@ While we've set up an objective function to maximize returns, control risk, and 
    - **Implementation**:
      - **Sum of Weights Equals Zero**: Hedge funds commonly require the sum of the portfolio weights to be zero, ensuring that the capital invested in long positions is exactly offset by the capital in short positions:
 
-     \[
+     $$
      \sum_{i} w_i = 0
-     \]
+     $$
 
      - **Balanced Long-Short Range**: Alternatively, you can control the balance of long to short positions by setting a constraint on the sum of weights to remain within a specific range. For example, you might require:
 
-     \[
+     $$
      L \leq \sum_{i} w_i \leq U
-     \]
+     $$
 
-     Where \( L \) and \( U \) are lower and upper bounds, respectively. This allows some flexibility in the degree of market neutrality.
+     Where $L$ and $U$ are lower and upper bounds, respectively. This allows some flexibility in the degree of market neutrality.
 
 4. **Budget Constraint**:
    - **Definition**: This constraint ensures that the total investment in the portfolio sums to the total available capital (often normalized to 1).
    - **Implementation**: The sum of all portfolio weights should equal 1, representing full investment of the available capital:
 
-   \[
+   $$
    \sum_{i} w_i = 1
-   \]
+   $$
 
 5. **Position Limits**:
    - **Definition**: Sometimes, regulations or risk management guidelines require limiting the weight of any single asset in the portfolio to avoid excessive concentration in one position.
-   - **Implementation**: You can impose upper and lower bounds on each weight \( w_i \):
+   - **Implementation**: You can impose upper and lower bounds on each weight $w_i$:
 
-   \[
+   $$
    l_i \leq w_i \leq u_i \quad \forall i
-   \]
+   $$
 
-   Where \( l_i \) and \( u_i \) are the lower and upper bounds for the weight of asset \( i \).
+   Where $l_i$ and $u_i$ are the lower and upper bounds for the weight of asset $i$.
 
 #### Why Constraints Matter
 
@@ -242,15 +242,15 @@ In portfolio optimization, managing leverage is crucial to ensure that the portf
    - **Leverage** refers to the use of borrowed funds to increase the potential return of an investment. It can involve borrowing cash or short-selling assets to fund additional positions.
    - The **leverage ratio** is defined as:
 
-   \[
+   $$
    \text{Leverage Ratio} = \frac{\sum_{i} |w_i|}{\text{Total Capital}}
-   \]
+   $$
 
-   Where \( |w_i| \) represents the absolute value of the weight of each asset in the portfolio. Since portfolio weights are typically expressed as percentages of total invested capital, the leverage ratio simplifies to:
+   Where $|w_i|$ represents the absolute value of the weight of each asset in the portfolio. Since portfolio weights are typically expressed as percentages of total invested capital, the leverage ratio simplifies to:
 
-   \[
+   $$
    \text{Leverage Ratio} = \sum_{i} |w_i|
-   \]
+   $$
 
    This sum represents the total exposure of the portfolio, considering both long and short positions.
 
@@ -263,11 +263,11 @@ In portfolio optimization, managing leverage is crucial to ensure that the portf
 1. **Constraint Formulation**:
    - To manage leverage, a **leverage constraint** is imposed on the portfolio, limiting the leverage ratio to a maximum value. This constraint is expressed as:
 
-   \[
+   $$
    \sum_{i} |w_i| \leq L_{\text{max}}
-   \]
+   $$
 
-   Where \( L_{\text{max}} \) is the maximum allowable leverage ratio. This ratio is typically set based on risk management policies or regulatory requirements.
+   Where $L_{\text{max}}$ is the maximum allowable leverage ratio. This ratio is typically set based on risk management policies or regulatory requirements.
 
 2. **Why Leverage Constraints Are Important**:
    - **Risk Control**: Leverage amplifies both returns and risk. By limiting leverage, you reduce the potential for extreme losses, especially in volatile markets.
@@ -293,24 +293,24 @@ In addition to managing leverage, portfolio optimization often includes constrai
 
 1. **Understanding Factor Exposure**:
    - **Factor exposure** refers to the sensitivity of the portfolio to various common risk factors, such as sectors, momentum, value, or company size.
-   - The **factor exposure matrix** (denoted as \( B \)) has dimensions of assets by factors. When you multiply the transposed factor exposure matrix \( B^T \) by the portfolio weight vector \( w \), you get a vector that shows the portfolio’s exposure to each factor:
+   - The **factor exposure matrix** (denoted as $B$) has dimensions of assets by factors. When you multiply the transposed factor exposure matrix $B^T$ by the portfolio weight vector $w$, you get a vector that shows the portfolio’s exposure to each factor:
 
-   \[
+   $$
    \text{Factor Exposure Vector} = B^T \cdot w
-   \]
+   $$
 
    Here:
-   - \( B^T \) is the transposed factor exposure matrix (factors by assets).
-   - \( w \) is the portfolio weight vector (assets by 1).
+   - $B^T$ is the transposed factor exposure matrix (factors by assets).
+   - $w$ is the portfolio weight vector (assets by 1).
    - The result is a vector that gives the exposure to each factor.
 
 2. **Imposing Factor Exposure Constraints**:
    - To control the risk associated with individual factors, you can impose constraints on the elements of this factor exposure vector. These constraints limit the portfolio’s exposure to specific factors, ensuring that it does not become overly sensitive to any single factor.
    - A typical constraint might look like:
 
-   \[
+   $$
    \text{Lower Bound} \leq B^T \cdot w \leq \text{Upper Bound}
-   \]
+   $$
 
    - This applies to each factor exposure element individually, setting limits on how much the portfolio can be exposed to any particular factor.
 
@@ -321,15 +321,15 @@ In addition to managing leverage, portfolio optimization often includes constrai
 
 1. **Limiting Individual Asset Weights**:
    - **Position constraints** are limits on the weight that any single asset can have in the portfolio. This ensures that the portfolio does not become overly concentrated in one or a few assets, which would increase risk.
-   - These constraints are applied directly to the weight vector \( w \):
+   - These constraints are applied directly to the weight vector $w$:
 
-   \[
+   $$
    l_i \leq w_i \leq u_i \quad \forall i
-   \]
+   $$
 
    - Here:
-     - \( l_i \) is the lower bound (often zero for long-only portfolios).
-     - \( u_i \) is the upper bound, which limits the maximum weight of any single asset.
+     - $l_i$ is the lower bound (often zero for long-only portfolios).
+     - $u_i$ is the upper bound, which limits the maximum weight of any single asset.
 
 2. **Purpose of Position Constraints**:
    - **Risk Management**: These constraints act as a safeguard against potential errors in the risk model or unforeseen market movements that could disproportionately affect a heavily weighted asset.
@@ -350,24 +350,24 @@ When optimizing a portfolio, one key challenge is estimating the covariance matr
 #### The Problem with Large Covariance Matrices
 
 1. **Size of the Covariance Matrix**:
-   - The covariance matrix for \( n \) assets is an \( n \times n \) matrix. Because covariance matrices are symmetric, only the upper (or lower) triangular part, plus the diagonal, needs to be estimated.
-   - The number of unique elements to estimate in an \( n \times n \) covariance matrix is:
+   - The covariance matrix for $n$ assets is an $n \times n$ matrix. Because covariance matrices are symmetric, only the upper (or lower) triangular part, plus the diagonal, needs to be estimated.
+   - The number of unique elements to estimate in an $n \times n$ covariance matrix is:
 
-   \[
+   $$
    \text{Number of Elements} = \frac{n(n + 1)}{2}
-   \]
+   $$
 
-   - For example, if \( n = 3000 \) (3,000 assets), then:
+   - For example, if $n = 3000$ (3,000 assets), then:
 
-   \[
+   $$
    \text{Number of Elements} = \frac{3000 \times 3001}{2} = 4,501,500
-   \]
+   $$
 
    This means estimating over 4.5 million parameters, which is highly challenging.
 
 2. **Estimation Error**:
    - **Estimation error** occurs when the sample data used to estimate the covariance matrix is not representative of the actual population. This can lead to inaccurate risk assessments.
-   - To estimate the covariance matrix accurately, you need a large amount of data. For \( n \) assets, you typically need more than \( n \) data points (time periods). Ideally, \( t \) (the number of time periods) should be much larger than \( n \) to reduce estimation error.
+   - To estimate the covariance matrix accurately, you need a large amount of data. For $n$ assets, you typically need more than $n$ data points (time periods). Ideally, $t$ (the number of time periods) should be much larger than $n$ to reduce estimation error.
 
 3. **Practical Limitations**:
    - For 3,000 assets, you would need at least 3,000 days of data, equivalent to approximately 12 years. However, financial markets evolve, and data from many years ago might not be relevant for predicting future variance and covariance.
@@ -375,12 +375,12 @@ When optimizing a portfolio, one key challenge is estimating the covariance matr
 #### The Advantage of Factor Models
 
 1. **Reduction in Matrix Size**:
-   - Instead of using an \( n \times n \) covariance matrix for assets, factor models reduce the problem to estimating a much smaller matrix based on factors. 
-   - Common commercial risk models often use around 70 factors, resulting in a \( 70 \times 70 \) covariance matrix. The number of elements to estimate is:
+   - Instead of using an $n \times n$ covariance matrix for assets, factor models reduce the problem to estimating a much smaller matrix based on factors. 
+   - Common commercial risk models often use around 70 factors, resulting in a $70 \times 70$ covariance matrix. The number of elements to estimate is:
 
-   \[
+   $$
    \text{Number of Elements} = \frac{70 \times 71}{2} = 2,485
-   \]
+   $$
 
    - Compared to the 4.5 million elements for 3,000 assets, this is significantly more manageable.
 
@@ -463,10 +463,10 @@ Given the complexity of directly modeling transaction costs, two practical appro
 1. **Turnover as a Penalty Term**:
    - **Softening the Constraint**: Instead of imposing a strict turnover limit, you can introduce a penalty term in the objective function that penalizes excessive turnover. This method allows for some flexibility by balancing the desire to minimize transaction costs with other objectives in the optimization.
    - **Objective Function**:
-     \[
+     $$
      \text{Objective} = \text{Maximize Portfolio Alpha} - \lambda \times \text{Turnover Penalty}
-     \]
-     Here, \(\lambda\) is a tuning parameter that controls the importance of minimizing turnover relative to other goals.
+     $$
+     Here, $\lambda$ is a tuning parameter that controls the importance of minimizing turnover relative to other goals.
 
 2. **Iterative Relaxation**:
    - **Looping Approach**: Another method is to start with a hard turnover constraint and, if the problem becomes infeasible, progressively relax this constraint in an iterative loop until the optimization becomes feasible.

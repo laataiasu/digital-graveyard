@@ -25,9 +25,9 @@ Statistical Arbitrage is a trading strategy where you simultaneously buy and sel
 
 The Signal-to-Noise Ratio (SNR) is often defined as:
 
-\[
+$$
 \text{SNR} = \frac{\text{Variance of the Signal}}{\text{Variance of the Noise}}
-\]
+$$
 
 A low SNR indicates that the variance of the noise is high relative to the signal, making it difficult to extract meaningful patterns from the data.
 
@@ -74,10 +74,10 @@ To visualize a normally distributed random variable, imagine a tennis ball machi
 If your data isn't normally distributed, you can sometimes transform it to approximate a normal distribution:
 
 1. **Log Transformation:** Useful when data is skewed, especially if there are a few large outliers.
-   - Example: Transforming data \(x\) to \(\log(x)\) can help normalize right-skewed data.
+   - Example: Transforming data $x$ to $\log(x)$ can help normalize right-skewed data.
 
 2. **Square Root Transformation:** Works well with count data or data that has a Poisson distribution.
-   - Example: Transforming data \(x\) to \(\sqrt{x}\) can reduce skewness.
+   - Example: Transforming data $x$ to $\sqrt{x}$ can reduce skewness.
 
 3. **Box-Cox Transformation:** A more flexible method that includes log and power transformations as special cases.
    - This method finds the best power transformation to normalize the data.
@@ -94,39 +94,39 @@ In statistics, a **probability distribution** describes how the values of a rand
 
 1. **Probability Density Function (PDF):**
    - The PDF is an equation that provides the probability of a random variable taking on any given value within a certain range. For a continuous random variable, the PDF gives the likelihood (density) of the variable taking on a specific value.
-   - **Mathematical Notation:** If \( X \) is a random variable, and \( D \) is the probability distribution, we denote this as \( X \sim D \). The probability of \( X \) taking a specific value \( x \) given the distribution \( D \) is written as \( P(x|D) \).
+   - **Mathematical Notation:** If $X$ is a random variable, and $D$ is the probability distribution, we denote this as $X \sim D$. The probability of $X$ taking a specific value $x$ given the distribution $D$ is written as $P(x|D)$.
 
-2. **Interpreting \( P(x|D) \):**
-   - Consider \( P(x|D) \) as the probability that the random variable \( X \) takes the value \( x \) under the distribution \( D \).
-   - For example, if you observe the value 2 in your dataset and assume the data follows a normal distribution, \( P(2|D) \) tells you how likely it is that the random variable \( X \) equals 2 under this distribution. The output of \( P(x|D) \) is a probability between 0 and 1.
+2. **Interpreting $P(x|D)$:**
+   - Consider $P(x|D)$ as the probability that the random variable $X$ takes the value $x$ under the distribution $D$.
+   - For example, if you observe the value 2 in your dataset and assume the data follows a normal distribution, $P(2|D)$ tells you how likely it is that the random variable $X$ equals 2 under this distribution. The output of $P(x|D)$ is a probability between 0 and 1.
 
 3. **Standard Normal Distribution:**
-   - The **standard normal distribution** is a special case of the normal distribution with a mean (\( \mu \)) of 0 and a standard deviation (\( \sigma \)) of 1.
-   - The standard normal distribution is often denoted by \( N(0, 1) \).
+   - The **standard normal distribution** is a special case of the normal distribution with a mean ($\mu$) of 0 and a standard deviation ($\sigma$) of 1.
+   - The standard normal distribution is often denoted by $N(0, 1)$.
 
 ### Adjusting Parameters of a Normal Distribution:
 
-Not all normal distributions are centered at zero with a standard deviation of one. To model different normal distributions, you adjust the parameters \( \mu \) (mean) and \( \sigma \) (standard deviation):
+Not all normal distributions are centered at zero with a standard deviation of one. To model different normal distributions, you adjust the parameters $\mu$ (mean) and $\sigma$ (standard deviation):
 
-1. **Mean (\( \mu \)):**
-   - The mean \( \mu \) determines the center of the distribution. If the data has a different mean, you shift the entire distribution along the number line to center it at this mean.
-   - **Example:** If your data has a mean of 10, then \( \mu = 10 \), and the distribution is centered at 10 instead of 0.
+1. **Mean ($\mu$):**
+   - The mean $\mu$ determines the center of the distribution. If the data has a different mean, you shift the entire distribution along the number line to center it at this mean.
+   - **Example:** If your data has a mean of 10, then $\mu = 10$, and the distribution is centered at 10 instead of 0.
 
-2. **Standard Deviation (\( \sigma \)):**
-   - The standard deviation \( \sigma \) determines the spread or width of the distribution. A larger \( \sigma \) results in a wider, flatter distribution, while a smaller \( \sigma \) leads to a narrower, taller distribution.
-   - **Example:** If your data has a standard deviation of 3, then \( \sigma = 3 \), meaning that most data points lie within 3 units of the mean.
+2. **Standard Deviation ($\sigma$):**
+   - The standard deviation $\sigma$ determines the spread or width of the distribution. A larger $\sigma$ results in a wider, flatter distribution, while a smaller $\sigma$ leads to a narrower, taller distribution.
+   - **Example:** If your data has a standard deviation of 3, then $\sigma = 3$, meaning that most data points lie within 3 units of the mean.
 
 ### Practical Application:
 
-When you have a dataset, you often start by calculating its mean (\( \mu \)) and standard deviation (\( \sigma \)). These two parameters can then be used to model the distribution of your data using the normal distribution:
+When you have a dataset, you often start by calculating its mean ($\mu$) and standard deviation ($\sigma$). These two parameters can then be used to model the distribution of your data using the normal distribution:
 
-\[
+$$
 X \sim N(\mu, \sigma^2)
-\]
+$$
 
 Where:
-- \( \mu \) is the mean of the data.
-- \( \sigma^2 \) is the variance (the square of the standard deviation).
+- $\mu$ is the mean of the data.
+- $\sigma^2$ is the variance (the square of the standard deviation).
 
 This equation gives you the normal distribution that best approximates your data, accounting for both its central tendency and variability.
 
@@ -134,16 +134,16 @@ This equation gives you the normal distribution that best approximates your data
 
 Suppose you have a dataset with a mean of 50 and a standard deviation of 5. The normal distribution that models this data is:
 
-\[
+$$
 X \sim N(50, 25)
-\]
+$$
 
 This means the distribution is centered at 50, and most data points are within 5 units of 50.
 
 ### Summary:
 
 - **PDF:** Defines the probability distribution of a random variable.
-- **Parameters \( \mu \) and \( \sigma \):** Adjust the mean and spread of the distribution.
+- **Parameters $\mu$ and $\sigma$:** Adjust the mean and spread of the distribution.
 - **Modeling Data:** By calculating the mean and standard deviation of your data, you can define a normal distribution that approximates the distribution of your data, allowing for more accurate predictions and analysis.
 
 ## 4. Testing For Normalilty
@@ -250,9 +250,9 @@ When dealing with data that is not normally distributed or is heteroskedastic, i
      - **Purpose**: To reshape the data to make it more normally distributed.
      - **How It Works**: The log function compresses the range of the data, reducing the impact of large values and skewness. It is particularly useful for data that exhibits exponential growth or has a long tail.
      - **Application**: Apply the log transformation to your data by taking the natural logarithm of each data point:
-       \[
+       $$
        y' = \log(y)
-       \]
+       $$
      - **Example**: If you have financial data that is highly skewed, applying a log transformation can help make the distribution more symmetric.
 
 ### 2. **Transforming Data for Homoscedasticity**
@@ -260,25 +260,25 @@ When dealing with data that is not normally distributed or is heteroskedastic, i
      - **Purpose**: To stabilize the variance over time, making the data homoscedastic.
      - **How It Works**: Time differencing involves calculating the difference between consecutive observations. This can help to remove trends or other forms of non-stationarity.
      - **Application**: Compute the difference between each period's value and the previous period's value:
-       \[
+       $$
        y_t' = y_t - y_{t-1}
-       \]
+       $$
      - **Rate of Change**: Instead of just differencing, you can calculate the rate of change, which is often used in financial data:
-       \[
+       $$
        r_t = \frac{y_t - y_{t-1}}{y_{t-1}}
-       \]
+       $$
      - **Example**: In financial data, taking the difference or rate of return from one day to the next can help achieve homoscedasticity.
 
 ### 3. **Box-Cox Transformation**
    - **Purpose**: To simultaneously address normality and homoscedasticity.
    - **How It Works**: The Box-Cox transformation applies a power transformation to the data, which can adjust the data distribution to be more normal and stabilize variance.
      - **Transformation Formula**:
-       \[
+       $$
        y' = \begin{cases}
        \frac{y^\lambda - 1}{\lambda}, & \text{if } \lambda \neq 0 \\
        \log(y), & \text{if } \lambda = 0
        \end{cases}
-       \]
+       $$
      - **Lambda (λ)**: The transformation is controlled by a parameter λ. Different values of λ will transform the data differently.
      - **Choosing Lambda**: You can experiment with different values of λ, performing tests for normality and homoscedasticity after each transformation to find the best fit.
      - **Example**: If λ = 0, the Box-Cox transformation simplifies to the log transformation. For other values of λ, the transformation adjusts the data accordingly.
@@ -311,21 +311,21 @@ Linear regression is a fundamental statistical method that allows us to use one 
 Imagine we want to predict the price of a house based on its size. Intuitively, we expect that a larger house will cost more, all other things being equal. We can collect data on the area (in square feet) of various houses and their corresponding prices. The goal is to create a mathematical model that predicts the price based on the area.
 
 #### 2. **The Linear Equation**
-We assume that the relationship between the area (\(X\)) and the price (\(Y\)) is linear. This means we can describe it with the equation of a straight line:
-\[
+We assume that the relationship between the area ($X$) and the price ($Y$) is linear. This means we can describe it with the equation of a straight line:
+$$
 Y = \beta_0 + \beta_1 X
-\]
+$$
 Here:
-- \(Y\) is the dependent variable (house price).
-- \(X\) is the independent variable (house area).
-- \(\beta_0\) is the intercept (the price when the area is zero).
-- \(\beta_1\) is the coefficient that represents how much the price changes with each unit change in area.
+- $Y$ is the dependent variable (house price).
+- $X$ is the independent variable (house area).
+- $\beta_0$ is the intercept (the price when the area is zero).
+- $\beta_1$ is the coefficient that represents how much the price changes with each unit change in area.
 
 #### 3. **Finding the Best Fit Line**
-To find the best values for \(\beta_0\) and \(\beta_1\), we use a method called **Ordinary Least Squares (OLS)**. OLS minimizes the sum of the squared differences between the actual prices and the prices predicted by our model. These differences are known as **residuals** or **errors**:
-\[
+To find the best values for $\beta_0$ and $\beta_1$, we use a method called **Ordinary Least Squares (OLS)**. OLS minimizes the sum of the squared differences between the actual prices and the prices predicted by our model. These differences are known as **residuals** or **errors**:
+$$
 \text{Residual} = Y_{\text{actual}} - Y_{\text{predicted}}
-\]
+$$
 The optimal line is the one where the sum of these squared residuals is as small as possible.
 
 #### 4. **Interpreting Residuals**
@@ -335,15 +335,15 @@ After fitting the regression line, it’s important to analyze the residuals:
 
 #### 5. **Improving the Model: Multiple Regression**
 If one independent variable isn't enough to accurately predict the dependent variable, we can add more independent variables. This approach is called **multiple regression**. The equation becomes:
-\[
+$$
 Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \dots + \beta_n X_n
-\]
-Each \(\beta\) corresponds to a different independent variable, allowing for a more complex and accurate model.
+$$
+Each $\beta$ corresponds to a different independent variable, allowing for a more complex and accurate model.
 
 #### 6. **Evaluating the Model**
 Once the model is built, we need to evaluate its performance:
-- **R-Squared (\(R^2\))**: This metric tells us how much of the variation in the dependent variable is explained by the independent variables. An \(R^2\) of 1 means the model explains all the variation, while 0 means it explains none.
-- **Adjusted R-Squared**: This is a refined version of \(R^2\) that adjusts for the number of independent variables, helping to identify the most relevant ones.
+- **R-Squared ($R^2$)**: This metric tells us how much of the variation in the dependent variable is explained by the independent variables. An $R^2$ of 1 means the model explains all the variation, while 0 means it explains none.
+- **Adjusted R-Squared**: This is a refined version of $R^2$ that adjusts for the number of independent variables, helping to identify the most relevant ones.
 - **F-Test**: This statistical test checks whether the coefficients in the regression equation are significantly different from zero. A p-value of 0.05 or less suggests that the coefficients are meaningful, indicating that the model captures a real relationship.
 
 ### Summary
@@ -357,33 +357,33 @@ In the previous discussion, we covered **multiple regression**, where we use mor
 
 #### 1. **Multiple Regression Recap**
 In multiple regression, you might be using variables like:
-- **Area of the house (\(X_1\))**
-- **Number of rooms (\(X_2\))**
-- **Age of the house (\(X_3\))**
+- **Area of the house ($X_1$)**
+- **Number of rooms ($X_2$)**
+- **Age of the house ($X_3$)**
 
-These independent variables help predict a single dependent variable, such as the **price of the house (\(Y\))**. The general form of the multiple regression equation is:
-\[
+These independent variables help predict a single dependent variable, such as the **price of the house ($Y$)**. The general form of the multiple regression equation is:
+$$
 Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \dots + \beta_n X_n
-\]
+$$
 This allows us to create a more nuanced model by considering multiple factors that influence the house price.
 
 #### 2. **Multivariate Regression**
 Now, let's extend this concept. Suppose you're interested not only in predicting the house price but also in predicting additional outcomes, such as:
-- **Electricity consumption (\(Y_2\))**
-- **Gas consumption (\(Y_3\))**
+- **Electricity consumption ($Y_2$)**
+- **Gas consumption ($Y_3$)**
 
 When you have more than one dependent variable that you want to predict, you're dealing with **multivariate regression**. For instance, the model might look something like this:
-\[
+$$
 \begin{aligned}
 Y_1 & = \beta_{10} + \beta_{11} X_1 + \beta_{12} X_2 + \beta_{13} X_3 + \dots + \beta_{1n} X_n \\
 Y_2 & = \beta_{20} + \beta_{21} X_1 + \beta_{22} X_2 + \beta_{23} X_3 + \dots + \beta_{2n} X_n \\
 Y_3 & = \beta_{30} + \beta_{31} X_1 + \beta_{32} X_2 + \beta_{33} X_3 + \dots + \beta_{3n} X_n
 \end{aligned}
-\]
+$$
 Here:
-- \(Y_1\) is the house price.
-- \(Y_2\) is the electricity consumption.
-- \(Y_3\) is the gas consumption.
+- $Y_1$ is the house price.
+- $Y_2$ is the electricity consumption.
+- $Y_3$ is the gas consumption.
 
 Each equation has its own set of coefficients but uses the same set of independent variables. The goal is to understand how these variables collectively influence multiple dependent variables.
 
@@ -391,18 +391,18 @@ Each equation has its own set of coefficients but uses the same set of independe
 Taking it a step further, when you have **multiple independent variables** and **multiple dependent variables**, you enter the realm of **multivariate multiple regression**. In this scenario, both the inputs (independent variables) and outputs (dependent variables) are multivariate.
 
 To illustrate:
-- **Independent Variables (\(X_1, X_2, \dots, X_n\))**: Area, number of rooms, age of the house, etc.
-- **Dependent Variables (\(Y_1, Y_2, Y_3\))**: Price, electricity consumption, gas consumption.
+- **Independent Variables ($X_1, X_2, \dots, X_n$)**: Area, number of rooms, age of the house, etc.
+- **Dependent Variables ($Y_1, Y_2, Y_3$)**: Price, electricity consumption, gas consumption.
 
 The model would predict each dependent variable using the same set of independent variables but with different coefficients for each outcome:
-\[
+$$
 \mathbf{Y} = \mathbf{X} \mathbf{B} + \mathbf{E}
-\]
+$$
 Where:
-- \(\mathbf{Y}\) is a matrix of dependent variables.
-- \(\mathbf{X}\) is a matrix of independent variables.
-- \(\mathbf{B}\) is a matrix of coefficients.
-- \(\mathbf{E}\) is a matrix of residuals.
+- $\mathbf{Y}$ is a matrix of dependent variables.
+- $\mathbf{X}$ is a matrix of independent variables.
+- $\mathbf{B}$ is a matrix of coefficients.
+- $\mathbf{E}$ is a matrix of residuals.
 
 #### 4. **Applications and Importance**
 While multivariate regression and multivariate multiple regression might seem complex, they are powerful tools, especially in fields like finance, economics, and engineering. These techniques are foundational for more advanced topics like **time series analysis** and **pairs trading**, where understanding multiple variables and their interactions over time is crucial.

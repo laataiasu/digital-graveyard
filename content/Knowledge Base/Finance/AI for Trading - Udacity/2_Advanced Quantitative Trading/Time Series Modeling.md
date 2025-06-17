@@ -33,13 +33,13 @@ In time series analysis, data is said to be non-stationary if its statistical pr
 To simplify analysis, we often transform data to make it stationary. For stock prices, one common transformation is to work with **stock returns** instead of raw prices.
 
 **Stock Return:**  
-\[ \text{Return}_t = \frac{P_t - P_{t-1}}{P_{t-1}} \]
-where \( P_t \) is the price at time \( t \).
+$$ \text{Return}_t = \frac{P_t - P_{t-1}}{P_{t-1}} $$
+where $P_t$ is the price at time $t$.
 
 However, stock returns can still exhibit some non-stationarity. To further stabilize the variance and achieve a more normally distributed dataset, we use **log returns**.
 
 **Log Return:**  
-\[ \text{Log Return}_t = \ln\left(\frac{P_t}{P_{t-1}}\right) = \ln(P_t) - \ln(P_{t-1}) \]
+$$ \text{Log Return}_t = \ln\left(\frac{P_t}{P_{t-1}}\right) = \ln(P_t) - \ln(P_{t-1}) $$
 
 Log returns help in making the time series more stationary and easier to model.
 
@@ -67,30 +67,30 @@ An AR model is a type of linear regression that uses previous values of the time
 
 The general form of an AR model is:
 
-\[ Y_t = c + \phi_1 Y_{t-1} + \phi_2 Y_{t-2} + \dots + \phi_p Y_{t-p} + \epsilon_t \]
+$$ Y_t = c + \phi_1 Y_{t-1} + \phi_2 Y_{t-2} + \dots + \phi_p Y_{t-p} + \epsilon_t $$
 
 Where:
-- \( Y_t \) is the value at time \( t \),
-- \( c \) is the intercept (a constant),
-- \( \phi_1, \phi_2, \dots, \phi_p \) are the coefficients (parameters) for the lagged values,
-- \( p \) is the lag (the number of previous periods used),
-- \( \epsilon_t \) is the error term (random noise that cannot be explained by past values).
+- $Y_t$ is the value at time $t$,
+- $c$ is the intercept (a constant),
+- $\phi_1, \phi_2, \dots, \phi_p$ are the coefficients (parameters) for the lagged values,
+- $p$ is the lag (the number of previous periods used),
+- $\epsilon_t$ is the error term (random noise that cannot be explained by past values).
 
 ### Example: AR(2) Model
 
 Imagine you have daily stock return data for three consecutive days: Monday, Tuesday, and Wednesday. If you want to predict Wednesday's return using the returns from Monday and Tuesday, you would use an **AR(2)** model. The equation would look like this:
 
-\[ Y_{\text{Wednesday}} = c + \phi_1 Y_{\text{Tuesday}} + \phi_2 Y_{\text{Monday}} + \epsilon_{\text{Wednesday}} \]
+$$ Y_{\text{Wednesday}} = c + \phi_1 Y_{\text{Tuesday}} + \phi_2 Y_{\text{Monday}} + \epsilon_{\text{Wednesday}} $$
 
-- Here, \( Y_{\text{Wednesday}} \) is predicted based on \( Y_{\text{Tuesday}} \) and \( Y_{\text{Monday}} \).
+- Here, $Y_{\text{Wednesday}}$ is predicted based on $Y_{\text{Tuesday}}$ and $Y_{\text{Monday}}$.
 
 ### Lags in AR Models
 
-The number of past periods used in the model is called the **lag**. An AR model is denoted as **AR(p)** where \( p \) represents the lag. Examples include:
+The number of past periods used in the model is called the **lag**. An AR model is denoted as **AR(p)** where $p$ represents the lag. Examples include:
 
-- **AR(1):** Uses only the previous period’s value (\( p = 1 \)).
-- **AR(2):** Uses the previous two periods’ values (\( p = 2 \)).
-- **AR(3):** Uses the previous three periods’ values (\( p = 3 \)).
+- **AR(1):** Uses only the previous period’s value ($p = 1$).
+- **AR(2):** Uses the previous two periods’ values ($p = 2$).
+- **AR(3):** Uses the previous three periods’ values ($p = 3$).
 
 Choosing the appropriate lag is crucial for the model’s performance. A common approach is to experiment with different lag values, train the model, and evaluate its performance on test data.
 
@@ -98,7 +98,7 @@ Choosing the appropriate lag is crucial for the model’s performance. A common 
 
 After fitting an AR model, you can evaluate its effectiveness by:
 
-1. **Coefficients:** Check if the coefficients \( \phi_1, \phi_2, \dots, \phi_p \) are significantly different from zero. If they are close to zero, the corresponding lagged values might not contribute much to the prediction.
+1. **Coefficients:** Check if the coefficients $\phi_1, \phi_2, \dots, \phi_p$ are significantly different from zero. If they are close to zero, the corresponding lagged values might not contribute much to the prediction.
 
 2. **Adjusted R-Squared:** This metric helps determine how well the independent variables (the lagged values) explain the variation in the dependent variable (current value).
 
@@ -141,23 +141,23 @@ A **Moving Average (MA) Model** works similarly. It assumes that the time series
 
 The general form of an MA model is:
 
-\[ Y_t = \mu + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + \dots + \theta_q \epsilon_{t-q} + \epsilon_t \]
+$$ Y_t = \mu + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + \dots + \theta_q \epsilon_{t-q} + \epsilon_t $$
 
 Where:
-- \( Y_t \) is the value at time \( t \),
-- \( \mu \) is the average value of the series (similar to the lantern’s path),
-- \( \epsilon_t \) is the residual (error) at time \( t \),
-- \( \theta_1, \theta_2, \dots, \theta_q \) are the coefficients that determine how much past residuals affect the current value,
-- \( q \) is the lag, representing how many past residuals are included in the model.
+- $Y_t$ is the value at time $t$,
+- $\mu$ is the average value of the series (similar to the lantern’s path),
+- $\epsilon_t$ is the residual (error) at time $t$,
+- $\theta_1, \theta_2, \dots, \theta_q$ are the coefficients that determine how much past residuals affect the current value,
+- $q$ is the lag, representing how many past residuals are included in the model.
 
 ### Example: MA(2) Model
 
 If we are working with an **MA(2)** model, the equation would look like this:
 
-\[ Y_t = \mu + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + \epsilon_t \]
+$$ Y_t = \mu + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + \epsilon_t $$
 
 In this case:
-- The value at time \( t \) depends on the average \( \mu \), the residuals from one and two periods ago (\( \epsilon_{t-1} \) and \( \epsilon_{t-2} \)), and the current residual \( \epsilon_t \).
+- The value at time $t$ depends on the average $\mu$, the residuals from one and two periods ago ($\epsilon_{t-1}$ and $\epsilon_{t-2}$), and the current residual $\epsilon_t$.
 
 ### Residuals in Financial Time Series
 
@@ -165,9 +165,9 @@ In financial time series:
 - **Residuals** represent the part of a stock’s return that cannot be predicted using past information. They capture new, unpredictable market information.
 - **Residuals** are the differences between what the model predicted in the past and what actually happened.
 
-### Selecting the Lag \( q \) in MA Models
+### Selecting the Lag $q$ in MA Models
 
-The number of past residuals included in the model is called the **lag** and is denoted by \( q \) in an MA(q) model.
+The number of past residuals included in the model is called the **lag** and is denoted by $q$ in an MA(q) model.
 
 #### Autocorrelation in Time Series
 
@@ -175,7 +175,7 @@ The number of past residuals included in the model is called the **lag** and is 
 
 #### Autocorrelation Plot
 
-An **autocorrelation plot** helps us determine the best lag \( q \) for an MA model. It shows how strongly each lag is correlated with the current value. 
+An **autocorrelation plot** helps us determine the best lag $q$ for an MA model. It shows how strongly each lag is correlated with the current value. 
 
 Steps to use an autocorrelation plot:
 1. **Identify Significant Lags:** Look for lags with strong positive or negative correlations. These lags suggest that past residuals at those time points significantly influence the current value.
@@ -189,7 +189,7 @@ Steps to use an autocorrelation plot:
 ### Summary
 
 - **Moving Average (MA) Models** use past residuals to predict the current value.
-- The **lag \( q \)** in an MA(q) model represents how many past residuals are used.
+- The **lag $q$** in an MA(q) model represents how many past residuals are used.
 - **Autocorrelation plots** help determine the most significant lags to include in the model.
 - MA models focus on capturing the impact of unpredictable, new information on the time series.
 
@@ -207,11 +207,11 @@ Autoregressive (AR) and Moving Average (MA) models capture different aspects of 
 - **MA(q)** models use past residuals (errors) to predict the current value.
 
 An **ARMA(p, q)** model incorporates both:
-\[ Y_t = c + \phi_1 Y_{t-1} + \dots + \phi_p Y_{t-p} + \theta_1 \epsilon_{t-1} + \dots + \theta_q \epsilon_{t-q} + \epsilon_t \]
+$$ Y_t = c + \phi_1 Y_{t-1} + \dots + \phi_p Y_{t-p} + \theta_1 \epsilon_{t-1} + \dots + \theta_q \epsilon_{t-q} + \epsilon_t $$
 
 Where:
-- \( p \) is the lag for the autoregression part,
-- \( q \) is the lag for the moving average part.
+- $p$ is the lag for the autoregression part,
+- $q$ is the lag for the moving average part.
 
 ### Introduction to ARIMA Models
 
@@ -238,23 +238,23 @@ To understand ARIMA, let’s build some intuition using the example of a turtle 
 
 - **Stationary Data**: A time series is stationary if its mean, variance, and autocorrelation structure do not change over time. Stationary data is easier to model and predict.
 
-- **Differencing**: Taking the difference between consecutive time points can help transform non-stationary data into stationary data. For example, if we have a time series \( Y_t \), the differenced series \( \Delta Y_t \) is:
-  \[ \Delta Y_t = Y_t - Y_{t-1} \]
+- **Differencing**: Taking the difference between consecutive time points can help transform non-stationary data into stationary data. For example, if we have a time series $Y_t$, the differenced series $\Delta Y_t$ is:
+  $$ \Delta Y_t = Y_t - Y_{t-1} $$
 
 #### ARIMA Model Components
 
 An **ARIMA(p, d, q)** model has three components:
 1. **Autoregression (AR(p))**: Uses past values of the series.
-2. **Differencing (I(d))**: Makes the series stationary by differencing it \( d \) times.
+2. **Differencing (I(d))**: Makes the series stationary by differencing it $d$ times.
 3. **Moving Average (MA(q))**: Uses past residuals (errors).
 
 The general form of the ARIMA model is:
-\[ \Delta^d Y_t = c + \phi_1 \Delta^d Y_{t-1} + \dots + \phi_p \Delta^d Y_{t-p} + \theta_1 \epsilon_{t-1} + \dots + \theta_q \epsilon_{t-q} + \epsilon_t \]
+$$ \Delta^d Y_t = c + \phi_1 \Delta^d Y_{t-1} + \dots + \phi_p \Delta^d Y_{t-p} + \theta_1 \epsilon_{t-1} + \dots + \theta_q \epsilon_{t-q} + \epsilon_t $$
 
 Where:
-- \( \Delta^d Y_t \) is the series after differencing \( d \) times.
+- $\Delta^d Y_t$ is the series after differencing $d$ times.
 
-#### Determining the Order of Differencing \( d \)
+#### Determining the Order of Differencing $d$
 
 - **Augmented Dickey-Fuller (ADF) Test**: This statistical test checks if a time series is stationary.
   - If the p-value from the ADF test is less than 0.05, the series is considered stationary.
@@ -316,23 +316,23 @@ Let's break down the process:
 
 2. **Predict Step:**
    - The Kalman filter starts by predicting the hidden state for the next time step. This prediction is represented as a probability distribution, capturing the uncertainty in the estimate.
-   - Mathematically, if the state at time \( t-1 \) is \( \mathbf{x}_{t-1} \), the predicted state \( \mathbf{\hat{x}}_t \) at time \( t \) is given by:
-     \[
+   - Mathematically, if the state at time $t-1$ is $\mathbf{x}_{t-1}$, the predicted state $\mathbf{\hat{x}}_t$ at time $t$ is given by:
+     $$
      \mathbf{\hat{x}}_t = \mathbf{F} \cdot \mathbf{x}_{t-1} + \mathbf{u}_{t-1}
-     \]
-     where \( \mathbf{F} \) is the state transition model and \( \mathbf{u}_{t-1} \) is the control input.
+     $$
+     where $\mathbf{F}$ is the state transition model and $\mathbf{u}_{t-1}$ is the control input.
 
 3. **Measurement Update Step:**
    - The filter then takes a new measurement, such as the actual observed stock return, and updates its belief about the hidden state.
    - The update equation is:
-     \[
+     $$
      \mathbf{x}_t = \mathbf{\hat{x}}_t + \mathbf{K}_t \cdot (\mathbf{z}_t - \mathbf{H} \cdot \mathbf{\hat{x}}_t)
-     \]
-     where \( \mathbf{z}_t \) is the measurement at time \( t \), \( \mathbf{H} \) is the measurement model, and \( \mathbf{K}_t \) is the Kalman gain, which adjusts how much we trust the new measurement versus the prediction.
+     $$
+     where $\mathbf{z}_t$ is the measurement at time $t$, $\mathbf{H}$ is the measurement model, and $\mathbf{K}_t$ is the Kalman gain, which adjusts how much we trust the new measurement versus the prediction.
 
 4. **Dynamic Updates:**
    - This process of prediction and update repeats over time. The Kalman filter continuously refines its estimate of the state using new data. 
-   - Importantly, all relevant past information is captured in the current state \( \mathbf{x}_{t-1} \), so there's no need to revisit earlier time periods.
+   - Importantly, all relevant past information is captured in the current state $\mathbf{x}_{t-1}$, so there's no need to revisit earlier time periods.
 
 #### Advantages of Kalman Filters
 - **Noise Handling:** Kalman filters are excellent at filtering out noise and providing a smooth estimate of the true underlying signal.

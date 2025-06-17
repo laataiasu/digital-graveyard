@@ -6,7 +6,7 @@
   
 #### **Vector as a Direction in Space**
 - **Definition**: A vector can also be thought of as a direction and magnitude in space. In this view, a vector is an arrow pointing from the origin to a point in space.
-- **Example**: In 3D space, a vector can be an arrow from the origin \((0,0,0)\) to a point \((x, y, z)\).
+- **Example**: In 3D space, a vector can be an arrow from the origin $(0,0,0)$ to a point $(x, y, z)$.
   
 #### **Transition Between Views**
 - **Importance**: In various applications, especially in analysis methods, you might need to switch between these two perspectives of vectors. Being comfortable with both interpretations is crucial for deeper understanding.
@@ -15,25 +15,25 @@
 
 #### **Basis Vectors and the 2D Plane**
 - **Definition**: In a 2D plane, you can represent any point using coordinates that tell you how far to move along each axis starting from the origin. These movements are guided by **basis vectors**.
-- **Standard Basis**: Typically, the vectors \(\mathbf{i}\) and \(\mathbf{j}\), denoted as \(\mathbf{i} = (1,0)\) and \(\mathbf{j} = (0,1)\), form the standard basis. This means:
-  - \(\mathbf{i}\) represents a move of 1 unit to the right.
-  - \(\mathbf{j}\) represents a move of 1 unit upward.
-- **Example**: The vector \((1,2)\) means moving 1 unit right and 2 units up. It can be written as a linear combination of the basis vectors:
-  \[
+- **Standard Basis**: Typically, the vectors $\mathbf{i}$ and $\mathbf{j}$, denoted as $\mathbf{i} = (1,0)$ and $\mathbf{j} = (0,1)$, form the standard basis. This means:
+  - $\mathbf{i}$ represents a move of 1 unit to the right.
+  - $\mathbf{j}$ represents a move of 1 unit upward.
+- **Example**: The vector $(1,2)$ means moving 1 unit right and 2 units up. It can be written as a linear combination of the basis vectors:
+  $$
   (1, 2) = 1 \cdot (1, 0) + 2 \cdot (0, 1)
-  \]
+  $$
   
 #### **General Basis and PCA**
-- **Different Bases**: The standard basis (\(\mathbf{i}\) and \(\mathbf{j}\)) is not the only possible basis for the 2D plane. You can choose different vectors as basis vectors.
+- **Different Bases**: The standard basis ($\mathbf{i}$ and $\mathbf{j}$) is not the only possible basis for the 2D plane. You can choose different vectors as basis vectors.
 - **Effect on Coordinates**: Choosing different basis vectors changes how you describe the location of points in the plane. For example, using a new set of basis vectors (e.g., vectors in red and blue), the grid would change from squares to parallelograms.
 - **PCA (Principal Component Analysis)**: PCA essentially involves finding a new basis for your data that best represents the variation in the data. This is done by transforming the data to a new coordinate system where the axes (new basis vectors) are aligned with the directions of maximum variance in the data.
   
 #### **Matrix Representation**
 - **Linear Combination**: In matrix terms, any vector in the 2D plane can be expressed as a product of a matrix (composed of the basis vectors) and a vector representing the coefficients:
-  \[
+  $$
   \begin{pmatrix} x \\ y \end{pmatrix} = \textbf{B} \cdot \begin{pmatrix} a \\ b \end{pmatrix}
-  \]
-  Where \(\textbf{B}\) is the matrix whose columns are the basis vectors and \(\begin{pmatrix} a \\ b \end{pmatrix}\) are the coefficients.
+  $$
+  Where $\textbf{B}$ is the matrix whose columns are the basis vectors and $\begin{pmatrix} a \\ b \end{pmatrix}$ are the coefficients.
   
 #### **Translation Between Bases**
 - **Changing Language**: When you change the basis, you're essentially translating the coordinates from one system (language) to another. This is akin to converting between different coordinate grids.
@@ -47,47 +47,47 @@ Understanding these concepts deeply is crucial as they form the foundation for m
 ## 3. Translation Between Bases
 
 #### **Original and New Basis**
-- **Original Basis (\(\mathbf{i}\) and \(\mathbf{j}\))**: In the standard coordinate system, we usually work with the basis vectors \(\mathbf{i} = (1, 0)\) and \(\mathbf{j} = (0, 1)\).
+- **Original Basis ($\mathbf{i}$ and $\mathbf{j}$)**: In the standard coordinate system, we usually work with the basis vectors $\mathbf{i} = (1, 0)$ and $\mathbf{j} = (0, 1)$.
 - **New Basis (Red and Blue Vectors)**: Suppose we have a new set of basis vectors:
-  - The **Red Vector** can be written in the original basis as \((1, 0.5)\), meaning 1 unit of \(\mathbf{i}\) and 0.5 units of \(\mathbf{j}\).
-  - The **Blue Vector** can be written in the original basis as \((-1, 1)\), meaning -1 unit of \(\mathbf{i}\) and 1 unit of \(\mathbf{j}\).
+  - The **Red Vector** can be written in the original basis as $(1, 0.5)$, meaning 1 unit of $\mathbf{i}$ and 0.5 units of $\mathbf{j}$.
+  - The **Blue Vector** can be written in the original basis as $(-1, 1)$, meaning -1 unit of $\mathbf{i}$ and 1 unit of $\mathbf{j}$.
 
 #### **Expressing the New Basis in Terms of the Original Basis**
-- When we express the red and blue vectors in the original basis, we are essentially translating the new basis into the "language" of the old basis. This means understanding how the new vectors are composed of the original basis vectors \(\mathbf{i}\) and \(\mathbf{j}\).
+- When we express the red and blue vectors in the original basis, we are essentially translating the new basis into the "language" of the old basis. This means understanding how the new vectors are composed of the original basis vectors $\mathbf{i}$ and $\mathbf{j}$.
 
-  Mathematically, if we have the red vector as \(\mathbf{r} = (1, 0.5)\) and the blue vector as \(\mathbf{b} = (-1, 1)\), then any vector in the new basis can be expressed as a linear combination of \(\mathbf{r}\) and \(\mathbf{b}\).
+  Mathematically, if we have the red vector as $\mathbf{r} = (1, 0.5)$ and the blue vector as $\mathbf{b} = (-1, 1)$, then any vector in the new basis can be expressed as a linear combination of $\mathbf{r}$ and $\mathbf{b}$.
 
 #### **Translating a Vector Between Bases**
-- Suppose we have a vector \(\mathbf{v}\) that we know how to express in the new basis (using the red and blue vectors). If \(\mathbf{v}\) is written as:
-  \[
+- Suppose we have a vector $\mathbf{v}$ that we know how to express in the new basis (using the red and blue vectors). If $\mathbf{v}$ is written as:
+  $$
   \mathbf{v} = 2\mathbf{b} + 1\mathbf{r}
-  \]
-  To translate this into the original basis, we substitute the expressions for \(\mathbf{r}\) and \(\mathbf{b}\) in terms of \(\mathbf{i}\) and \(\mathbf{j}\):
-  \[
+  $$
+  To translate this into the original basis, we substitute the expressions for $\mathbf{r}$ and $\mathbf{b}$ in terms of $\mathbf{i}$ and $\mathbf{j}$:
+  $$
   \mathbf{v} = 2(-1, 1) + 1(1, 0.5)
-  \]
+  $$
   Simplifying this:
-  \[
+  $$
   \mathbf{v} = (-2, 2) + (1, 0.5) = (-1, 2.5)
-  \]
-  This gives us the vector \(\mathbf{v}\) in the original \(\mathbf{i}, \mathbf{j}\) basis.
+  $$
+  This gives us the vector $\mathbf{v}$ in the original $\mathbf{i}, \mathbf{j}$ basis.
 
 #### **Translating Between Old and New Basis Using Matrices**
-- **Matrix Representation**: To systematically translate between bases, we can use matrices. Suppose the matrix \(\mathbf{M}\) has columns representing the new basis vectors expressed in the old basis:
-  \[
+- **Matrix Representation**: To systematically translate between bases, we can use matrices. Suppose the matrix $\mathbf{M}$ has columns representing the new basis vectors expressed in the old basis:
+  $$
   \mathbf{M} = \begin{pmatrix} 1 & -1 \\ 0.5 & 1 \end{pmatrix}
-  \]
-  If we want to express a vector \(\mathbf{v}\) from the new basis back in the old basis, we multiply the coefficients of the vector in the new basis by \(\mathbf{M}\):
-  \[
+  $$
+  If we want to express a vector $\mathbf{v}$ from the new basis back in the old basis, we multiply the coefficients of the vector in the new basis by $\mathbf{M}$:
+  $$
   \mathbf{v}_{\text{old}} = \mathbf{M} \cdot \mathbf{v}_{\text{new}}
-  \]
-- **Inverse Matrix**: To translate a vector from the old basis to the new basis, we use the inverse of the matrix \(\mathbf{M}\). The inverse matrix \(\mathbf{M}^{-1}\) will allow us to go back from the original basis to the new basis.
+  $$
+- **Inverse Matrix**: To translate a vector from the old basis to the new basis, we use the inverse of the matrix $\mathbf{M}$. The inverse matrix $\mathbf{M}^{-1}$ will allow us to go back from the original basis to the new basis.
 
   The concept here is that if you translate from the old basis to the new basis and then back again, you should end up with the original vector. Mathematically:
-  \[
+  $$
   \mathbf{M} \cdot \mathbf{M}^{-1} = \mathbf{I}
-  \]
-  where \(\mathbf{I}\) is the identity matrix, meaning you get back what you started with.
+  $$
+  where $\mathbf{I}$ is the identity matrix, meaning you get back what you started with.
 
 ### **Key Takeaways**
 - **Basis Translation**: Translating a vector between different bases involves understanding how the new basis vectors are expressed in the old basis and vice versa.
@@ -125,9 +125,9 @@ PCA finds the optimal line by balancing two key aspects:
 
 The key mathematical concept here is the Pythagorean theorem, which tells us that for any data point:
 
-\[
+$$
 \text{(Distance from origin to the point)}^2 = \text{(Distance from origin to projection)}^2 + \text{(Perpendicular distance from projection to the point)}^2
-\]
+$$
 
 When we change the orientation of the line (axis), one of these distances increases while the other decreases. PCA finds the orientation that strikes the best balance, maximizing variance along the axis while minimizing the perpendicular distances (reconstruction error).
 
@@ -153,23 +153,23 @@ PCA transforms data into a new coordinate system where:
 
 Before performing PCA, the first step is **mean centering** the data. Let's explore what this means:
 
-1. **Original Data Points**: Imagine you have a set of data points in a 2D space. Each point has coordinates \((x_i, y_i)\). 
+1. **Original Data Points**: Imagine you have a set of data points in a 2D space. Each point has coordinates $(x_i, y_i)$. 
    
 2. **Calculate the Mean**:
-   - \( \bar{x} \) = Mean of all the \(x\) coordinates
-   - \( \bar{y} \) = Mean of all the \(y\) coordinates
+   - $\bar{x}$ = Mean of all the $x$ coordinates
+   - $\bar{y}$ = Mean of all the $y$ coordinates
    
    These means represent the average position of all data points along the x-axis and y-axis, respectively.
 
 3. **Centering the Data**:
    - To center the data, subtract the mean from each coordinate:
-     \[
+     $$
      x'_i = x_i - \bar{x}
-     \]
-     \[
+     $$
+     $$
      y'_i = y_i - \bar{y}
-     \]
-   - This results in new coordinates \((x'_i, y'_i)\) for each data point.
+     $$
+   - This results in new coordinates $(x'_i, y'_i)$ for each data point.
 
 4. **Centered Data**:
    - After centering, the new dataset has a mean of zero in both dimensions. This means the data is "centered around zero," which is crucial for PCA to work correctly.
@@ -182,13 +182,13 @@ Centering the data ensures that:
 
 #### Visualizing the Process
 
-To help visualize, imagine a 2D plane where your data points form a cluster off to one side. If you don’t center the data, your principal components might be skewed. By centering, you shift the entire cluster so that it’s centered around the origin \((0, 0)\). This adjustment allows PCA to accurately determine the direction where the data varies the most.
+To help visualize, imagine a 2D plane where your data points form a cluster off to one side. If you don’t center the data, your principal components might be skewed. By centering, you shift the entire cluster so that it’s centered around the origin $(0, 0)$. This adjustment allows PCA to accurately determine the direction where the data varies the most.
 
 ### Summary
 
 - **Mean Centering**: The first step in PCA is to subtract the mean of each dimension from the data points, centering them around zero.
 - **Purpose**: This step is essential to ensure that the PCA calculation focuses on the data’s internal structure, not its position in space.
-- **Mathematical Notation**: The centered data points \((x'_i, y'_i)\) are computed by subtracting the mean from each original data point’s coordinates.
+- **Mathematical Notation**: The centered data points $(x'_i, y'_i)$ are computed by subtracting the mean from each original data point’s coordinates.
 
 This sets the stage for the next steps in PCA, where we will mathematically determine the directions (principal components) that capture the most variance in the data.
 
@@ -206,51 +206,51 @@ These vectors form the new coordinate system in which we will describe our origi
 
 #### Representing a Data Point in the New Basis
 
-Let's focus on one mean-centered data point, which we'll call \( \mathbf{X} \).
+Let's focus on one mean-centered data point, which we'll call $\mathbf{X}$.
 
-1. **Original Vector \( \mathbf{X} \)**:
+1. **Original Vector $\mathbf{X}$**:
    - This vector points from the origin to our data point in the original coordinate system.
 
-2. **New Basis Vector \( \mathbf{W} \)**:
+2. **New Basis Vector $\mathbf{W}$**:
    - This is one of the Principal Components (PCs) we obtained from PCA.
 
 3. **Right Triangle Formation**:
    - Imagine a right triangle where:
-     - \( \mathbf{X} \) is the hypotenuse.
-     - The projection of \( \mathbf{X} \) onto \( \mathbf{W} \) forms one of the legs.
-     - The angle between \( \mathbf{X} \) and \( \mathbf{W} \) is \( \theta \).
+     - $\mathbf{X}$ is the hypotenuse.
+     - The projection of $\mathbf{X}$ onto $\mathbf{W}$ forms one of the legs.
+     - The angle between $\mathbf{X}$ and $\mathbf{W}$ is $\theta$.
 
 4. **Finding the New Coordinate**:
-   - We want to express the data point \( \mathbf{X} \) in terms of the new basis. Specifically, we want to find the coordinate of \( \mathbf{X} \) along the direction of \( \mathbf{W} \).
-   - **Projection Formula**: The projection of \( \mathbf{X} \) onto \( \mathbf{W} \) gives us the coordinate of \( \mathbf{X} \) along the direction of \( \mathbf{W} \). This is given by:
-     \[
+   - We want to express the data point $\mathbf{X}$ in terms of the new basis. Specifically, we want to find the coordinate of $\mathbf{X}$ along the direction of $\mathbf{W}$.
+   - **Projection Formula**: The projection of $\mathbf{X}$ onto $\mathbf{W}$ gives us the coordinate of $\mathbf{X}$ along the direction of $\mathbf{W}$. This is given by:
+     $$
      \text{Projection of } \mathbf{X} \text{ onto } \mathbf{W} = \mathbf{X} \cdot \mathbf{W}
-     \]
-     Where \( \mathbf{X} \cdot \mathbf{W} \) is the dot product of \( \mathbf{X} \) and \( \mathbf{W} \).
+     $$
+     Where $\mathbf{X} \cdot \mathbf{W}$ is the dot product of $\mathbf{X}$ and $\mathbf{W}$.
 
 #### Understanding the Dot Product and Projection
 
-The dot product \( \mathbf{X} \cdot \mathbf{W} \) is defined as:
-\[
+The dot product $\mathbf{X} \cdot \mathbf{W}$ is defined as:
+$$
 \mathbf{X} \cdot \mathbf{W} = \|\mathbf{X}\| \cdot \|\mathbf{W}\| \cdot \cos(\theta)
-\]
+$$
 Where:
-- \( \|\mathbf{X}\| \) is the magnitude (length) of vector \( \mathbf{X} \).
-- \( \|\mathbf{W}\| \) is the magnitude (length) of vector \( \mathbf{W} \). Since \( \mathbf{W} \) is a unit vector, \( \|\mathbf{W}\| = 1 \).
-- \( \theta \) is the angle between \( \mathbf{X} \) and \( \mathbf{W} \).
+- $\|\mathbf{X}\|$ is the magnitude (length) of vector $\mathbf{X}$.
+- $\|\mathbf{W}\|$ is the magnitude (length) of vector $\mathbf{W}$. Since $\mathbf{W}$ is a unit vector, $\|\mathbf{W}\| = 1$.
+- $\theta$ is the angle between $\mathbf{X}$ and $\mathbf{W}$.
 
-Given that \( \|\mathbf{W}\| = 1 \), the projection simplifies to:
-\[
+Given that $\|\mathbf{W}\| = 1$, the projection simplifies to:
+$$
 \text{Projection} = \|\mathbf{X}\| \cdot \cos(\theta)
-\]
+$$
 
-This projection represents how far along the direction of \( \mathbf{W} \) the point \( \mathbf{X} \) lies.
+This projection represents how far along the direction of $\mathbf{W}$ the point $\mathbf{X}$ lies.
 
 #### Maximizing the Variance
 
-In PCA, the direction of the new basis (i.e., the direction of \( \mathbf{W} \)) is chosen to maximize the variance of these projections for all data points.
+In PCA, the direction of the new basis (i.e., the direction of $\mathbf{W}$) is chosen to maximize the variance of these projections for all data points.
 
-- **Variance Maximization**: For each data point, we calculate the projection of its vector \( \mathbf{X} \) onto \( \mathbf{W} \). The goal of PCA is to maximize the variance of these projections across all data points.
+- **Variance Maximization**: For each data point, we calculate the projection of its vector $\mathbf{X}$ onto $\mathbf{W}$. The goal of PCA is to maximize the variance of these projections across all data points.
 - **Why Maximize Variance?**: By maximizing the variance, PCA ensures that the first principal component captures the most significant trend or pattern in the data.
 
 #### Summary
@@ -266,71 +266,71 @@ Let's continue exploring PCA by understanding how to mathematically express the 
 #### Variance Formula Recap
 
 The variance of a set of data points is given by:
-\[
+$$
 \text{Variance} = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \mu)^2
-\]
+$$
 Where:
-- \( n \) is the number of data points.
-- \( x_i \) represents each data point.
-- \( \mu \) is the mean of the data points.
+- $n$ is the number of data points.
+- $x_i$ represents each data point.
+- $\mu$ is the mean of the data points.
 
-However, in PCA, we work with mean-centered data, so \( \mu = 0 \). This simplifies the variance formula to:
-\[
+However, in PCA, we work with mean-centered data, so $\mu = 0$. This simplifies the variance formula to:
+$$
 \text{Variance} = \frac{1}{n-1} \sum_{i=1}^{n} x_i^2
-\]
+$$
 
 #### Connecting Variance to PCA
 
-In PCA, the goal is to maximize the variance of the projections of the data points onto the new basis vector \( \mathbf{w} \). This means we want to maximize the expression:
-\[
+In PCA, the goal is to maximize the variance of the projections of the data points onto the new basis vector $\mathbf{w}$. This means we want to maximize the expression:
+$$
 \frac{1}{n-1} \sum_{i=1}^{n} (\mathbf{x}_i \cdot \mathbf{w})^2
-\]
+$$
 Where:
-- \( \mathbf{x}_i \) is the vector representing the \( i \)th data point.
-- \( \mathbf{w} \) is the new basis vector (Principal Component).
+- $\mathbf{x}_i$ is the vector representing the $i$th data point.
+- $\mathbf{w}$ is the new basis vector (Principal Component).
 
-Since \( n-1 \) is a constant, maximizing the variance is equivalent to maximizing:
-\[
+Since $n-1$ is a constant, maximizing the variance is equivalent to maximizing:
+$$
 \sum_{i=1}^{n} (\mathbf{x}_i \cdot \mathbf{w})^2
-\]
+$$
 
 #### Condensed Matrix Notation
 
 To write this in a more compact form, consider the following:
 
-1. **Data Matrix \( \mathbf{X} \)**:
-   - \( \mathbf{X} \) is an \( n \times d \) matrix where:
-     - \( n \) is the number of data points.
-     - \( d \) is the number of dimensions (features).
-     - Each row \( \mathbf{x}_i \) of \( \mathbf{X} \) represents a data point.
+1. **Data Matrix $\mathbf{X}$**:
+   - $\mathbf{X}$ is an $n \times d$ matrix where:
+     - $n$ is the number of data points.
+     - $d$ is the number of dimensions (features).
+     - Each row $\mathbf{x}_i$ of $\mathbf{X}$ represents a data point.
 
-2. **Vector \( \mathbf{w} \)**:
-   - \( \mathbf{w} \) is a \( d \)-dimensional vector representing the direction of the new basis (Principal Component).
+2. **Vector $\mathbf{w}$**:
+   - $\mathbf{w}$ is a $d$-dimensional vector representing the direction of the new basis (Principal Component).
 
 3. **Projection as a Matrix Multiplication**:
-   - The projection of all data points onto \( \mathbf{w} \) can be written as \( \mathbf{X} \mathbf{w} \).
+   - The projection of all data points onto $\mathbf{w}$ can be written as $\mathbf{X} \mathbf{w}$.
    - The variance we want to maximize is then:
-     \[
+     $$
      \|\mathbf{X} \mathbf{w}\|^2 = (\mathbf{X} \mathbf{w})^T (\mathbf{X} \mathbf{w})
-     \]
+     $$
 
 4. **Simplified Expression**:
    - This can be further simplified using matrix algebra to:
-     \[
+     $$
      \|\mathbf{X} \mathbf{w}\|^2 = \mathbf{w}^T (\mathbf{X}^T \mathbf{X}) \mathbf{w}
-     \]
+     $$
 
 #### Rayleigh Quotient
 
-The expression \( \mathbf{w}^T (\mathbf{X}^T \mathbf{X}) \mathbf{w} \) is known as the **Rayleigh quotient**. In PCA, we aim to maximize this Rayleigh quotient to determine the direction \( \mathbf{w} \) of the first principal component.
+The expression $\mathbf{w}^T (\mathbf{X}^T \mathbf{X}) \mathbf{w}$ is known as the **Rayleigh quotient**. In PCA, we aim to maximize this Rayleigh quotient to determine the direction $\mathbf{w}$ of the first principal component.
 
-- **Rayleigh Quotient**: This quantity represents the variance of the data along the direction \( \mathbf{w} \). By maximizing it, we find the direction where the data has the most spread (variance).
+- **Rayleigh Quotient**: This quantity represents the variance of the data along the direction $\mathbf{w}$. By maximizing it, we find the direction where the data has the most spread (variance).
 
 ### Summary
 
-- **Variance and PCA**: In PCA, we maximize the variance of the projections of data points onto a new basis vector \( \mathbf{w} \).
-- **Matrix Form**: The problem of maximizing variance can be expressed as maximizing a Rayleigh quotient, \( \mathbf{w}^T (\mathbf{X}^T \mathbf{X}) \mathbf{w} \).
-- **Rayleigh Quotient**: This quotient is the key mathematical expression that PCA seeks to maximize to determine the principal components. It encapsulates the idea of finding the direction \( \mathbf{w} \) that captures the maximum variance in the data.
+- **Variance and PCA**: In PCA, we maximize the variance of the projections of data points onto a new basis vector $\mathbf{w}$.
+- **Matrix Form**: The problem of maximizing variance can be expressed as maximizing a Rayleigh quotient, $\mathbf{w}^T (\mathbf{X}^T \mathbf{X}) \mathbf{w}$.
+- **Rayleigh Quotient**: This quotient is the key mathematical expression that PCA seeks to maximize to determine the principal components. It encapsulates the idea of finding the direction $\mathbf{w}$ that captures the maximum variance in the data.
 
 By understanding this, you're well-equipped to follow and interpret the more detailed mathematical treatments of PCA that you might encounter in advanced texts or research papers.
 
@@ -342,17 +342,17 @@ Let's summarize the process of Principal Component Analysis (PCA) and how it rel
 
 - **Objective**: The main goal of PCA is to find the directions (called Principal Components) that maximize the variance of the data. The first principal component is the direction along which the data has the highest variance.
   
-- **Mathematical Expression**: The variance of the projections of data points onto a new direction \( \mathbf{w} \) (the first principal component) can be written as:
-  \[
+- **Mathematical Expression**: The variance of the projections of data points onto a new direction $\mathbf{w}$ (the first principal component) can be written as:
+  $$
   \mathbf{w}^T (\mathbf{X}^T \mathbf{X}) \mathbf{w}
-  \]
-  This expression represents the variance up to a constant factor, and \( \mathbf{w} \) is chosen to maximize this variance.
+  $$
+  This expression represents the variance up to a constant factor, and $\mathbf{w}$ is chosen to maximize this variance.
 
 #### Finding the First Principal Component
 
-1. **Maximize Variance**: We find the direction \( \mathbf{w} \) that maximizes the variance of the data projections. This direction is the first principal component.
+1. **Maximize Variance**: We find the direction $\mathbf{w}$ that maximizes the variance of the data projections. This direction is the first principal component.
   
-2. **Projection and Orthogonality**: Once the first principal component is identified, each data vector \( \mathbf{x}_i \) can be decomposed into:
+2. **Projection and Orthogonality**: Once the first principal component is identified, each data vector $\mathbf{x}_i$ can be decomposed into:
    - A component along the direction of the first principal component.
    - A residual component that is orthogonal to this direction.
 
@@ -396,10 +396,10 @@ Now that we've found our principal components (PCs), it's essential to understan
 - **Original Dimensions**: In a dataset, each dimension corresponds to a specific feature or measurement. For example, if you're analyzing stock returns, one dimension might represent the returns of Company A, another the returns of Company B, and so forth.
 
 - **Principal Components as Combinations**: The principal components are linear combinations of the original dimensions. This means each principal component is formed by taking a weighted sum of the original features. Mathematically, each PC can be expressed as:
-  \[
+  $$
   \text{PC}_i = w_{i1} \times \text{Feature}_1 + w_{i2} \times \text{Feature}_2 + \ldots + w_{id} \times \text{Feature}_d
-  \]
-  Where \( w_{ij} \) are the weights that indicate how much each original feature contributes to the principal component.
+  $$
+  Where $w_{ij}$ are the weights that indicate how much each original feature contributes to the principal component.
 
 #### Significance of Principal Components
 
@@ -527,16 +527,16 @@ The end goal is to use this representation in an **optimization problem** aimed 
 #### Matrices and Dimensions
 We deal with several matrices in this factor model, each with specific dimensions that relate to the companies, time points, and factors:
 
-- **Returns Matrix \( R \):** \( n \times T \)  
-  \( n \) = Number of companies  
-  \( T \) = Number of time points
+- **Returns Matrix $R$:** $n \times T$  
+  $n$ = Number of companies  
+  $T$ = Number of time points
 
-- **Factor Exposures Matrix \( F \):** \( n \times k \)  
-  \( k \) = Number of factors
+- **Factor Exposures Matrix $F$:** $n \times k$  
+  $k$ = Number of factors
 
-- **Factor Returns Matrix \( B \):** \( k \times T \)
+- **Factor Returns Matrix $B$:** $k \times T$
 
-- **Specific Risk Matrix \( \epsilon \):** \( n \times T \)
+- **Specific Risk Matrix $\epsilon$:** $n \times T$
 
 #### Applying PCA
 PCA is used to find a new basis for the data. Here's how it works:
@@ -548,13 +548,13 @@ PCA is used to find a new basis for the data. Here's how it works:
    - If we discard some PCs (dimensionality reduction), multiplying the transformed data by the matrix of retained PCs approximately reconstructs the original data.
 
 3. **Factor Model Representation:** This approximation aligns closely with the factor model representation of the returns:
-   \[
+   $$
    R \approx F \cdot B + \epsilon
-   \]
+   $$
    Where:
-   - \( F \) (Factor Exposures) corresponds to the loadings of the retained PCs.
-   - \( B \) (Factor Returns) corresponds to the scores of the retained PCs.
-   - \( \epsilon \) (Specific Risk) represents the residual or error term, capturing what’s left after the PCA-based factor model.
+   - $F$ (Factor Exposures) corresponds to the loadings of the retained PCs.
+   - $B$ (Factor Returns) corresponds to the scores of the retained PCs.
+   - $\epsilon$ (Specific Risk) represents the residual or error term, capturing what’s left after the PCA-based factor model.
 
 #### Conclusion
 By using PCA, we convert a high-dimensional set of stock returns into a factor model that simplifies our understanding and management of risk. The factor model essentially uses the principal components to capture the most significant sources of variance (risk), allowing for more efficient portfolio management and risk minimization.
@@ -565,17 +565,17 @@ By using PCA, we convert a high-dimensional set of stock returns into a factor m
 
 In the context of using Principal Component Analysis (PCA) as a factor model, the key matrices involved are:
 
-1. **Factor Exposures Matrix \( F \):**
+1. **Factor Exposures Matrix $F$:**
    - This matrix represents the coordinates of the principal components (PCs) in the original basis.
    - It can be thought of as the loadings of each stock (or asset) on the principal components.
-   - Since PCA typically results in an orthonormal basis, the inverse of this matrix is simply its transpose: \( F^{-1} = F^T \).
+   - Since PCA typically results in an orthonormal basis, the inverse of this matrix is simply its transpose: $F^{-1} = F^T$.
 
-2. **Factor Returns Matrix \( B \):**
+2. **Factor Returns Matrix $B$:**
    - This matrix is the data transformed into the new coordinate system (the PCA basis).
-   - To calculate the factor returns \( B \), you multiply the original returns matrix \( R \) by the transpose of the factor exposures matrix \( F \):
-     \[
+   - To calculate the factor returns $B$, you multiply the original returns matrix $R$ by the transpose of the factor exposures matrix $F$:
+     $$
      B = F^T \cdot R
-     \]
+     $$
 
 #### Factor Covariance Matrix
 
@@ -583,35 +583,35 @@ Once you have the factor returns, the next step in constructing a risk model is 
 
 - **Orthogonality of Factors:**
   - In PCA, the factors (principal components) are orthogonal, meaning they are uncorrelated with each other.
-  - As a result, the factor covariance matrix \( \Sigma_B \) is diagonal, with the diagonal elements representing the variances of each factor:
-    \[
+  - As a result, the factor covariance matrix $\Sigma_B$ is diagonal, with the diagonal elements representing the variances of each factor:
+    $$
     \Sigma_B = \text{diag}(\text{Var}(B_1), \text{Var}(B_2), \dots, \text{Var}(B_k))
-    \]
+    $$
 
 - **Variance and Annualization:**
   - If the factor returns are based on daily returns, the variances computed are daily variances.
   - To annualize these variances, multiply the entire covariance matrix by an annualization factor (typically 252, the approximate number of trading days in a year):
-    \[
+    $$
     \Sigma_B^{\text{annualized}} = 252 \times \Sigma_B
-    \]
+    $$
   - No square root is needed because we are dealing with variances, not standard deviations.
 
 #### Specific (Idiosyncratic) Risk Matrix
 
-The **specific risk matrix** \( \Sigma_{\epsilon} \) captures the risk that is unique to each asset (i.e., not explained by the factors):
+The **specific risk matrix** $\Sigma_{\epsilon}$ captures the risk that is unique to each asset (i.e., not explained by the factors):
 
 - **Residuals Calculation:**
-  - The residuals \( \epsilon \) are the differences between the original returns and the returns explained by the principal components:
-    \[
+  - The residuals $\epsilon$ are the differences between the original returns and the returns explained by the principal components:
+    $$
     \epsilon = R - F \cdot B
-    \]
+    $$
 
 - **Covariance of Residuals:**
   - The covariance matrix of these residuals gives an estimate of the idiosyncratic risk.
   - However, to simplify the model and focus on the specific risk unique to each asset, we set the off-diagonal elements of this covariance matrix to zero, resulting in a diagonal matrix:
-    \[
+    $$
     \Sigma_{\epsilon} = \text{diag}(\text{Var}(\epsilon_1), \text{Var}(\epsilon_2), \dots, \text{Var}(\epsilon_n))
-    \]
+    $$
 
 #### Interpretation and Limitations
 

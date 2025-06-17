@@ -64,7 +64,7 @@ A **stock split** occurs when a company decides to divide its existing shares in
 The key idea behind a stock split is that while the number of shares increases, the price per share decreases proportionally. This keeps the company's market capitalization the same. 
 
 **Market Capitalization Calculation:**
-\[ \text{Market Capitalization} = \text{Stock Price} \times \text{Total Number of Shares} \]
+$$ \text{Market Capitalization} = \text{Stock Price} \times \text{Total Number of Shares} $$
 
 ##### **Why Split a Stock?**
 - **Increase Liquidity:** Lower-priced stocks are more accessible to a broader range of investors, enhancing liquidity.
@@ -154,7 +154,7 @@ At first glance, it might seem like both stocks have lost value. However, for Co
 To accurately reflect the stock's value after dividends, we adjust the historical prices. This ensures that the price drop on the ex-dividend date doesn't misleadingly appear as a loss.
 
 ##### **Adjusted Price Factor Formula:**
-\[ \text{Adjusted Price Factor} = 1 + \frac{D}{S} \]
+$$ \text{Adjusted Price Factor} = 1 + \frac{D}{S} $$
 Where:
 - **D** = Dividend per share
 - **S** = Stock price at the ex-dividend date
@@ -167,13 +167,13 @@ Where:
 - **Dividend (D):** $1
 - **Stock Price at Ex-Dividend Date (S):** $50
 - **Adjusted Price Factor:** 
-  \[
+  $$
   1 + \frac{1}{50} = 1.02
-  \]
+  $$
 - **Normalized Historical Price (for any day before ex-dividend):**
-  \[
+  $$
   \text{Normalized Price} = \frac{\text{Historical Price}}{1.02}
-  \]
+  $$
 
 By adjusting the prices, you ensure that the historical data reflects the actual financial performance, making it more accurate for analysis.
 
@@ -294,10 +294,10 @@ Handling gaps and irregularities in stock price data is crucial for accurate ana
 #### B. **Normalizing Returns**
    - **Method:** Adjust returns by the actual number of days between two trading dates.
    - **Formula:** 
-     \[
+     $$
      \text{Normalized Return} = \left(\frac{P_{t}}{P_{t-1}}\right)^{\frac{1}{\Delta t}} - 1
-     \]
-     where \( P_t \) is the price at time \( t \) and \( \Delta t \) is the number of days between \( t \) and \( t-1 \).
+     $$
+     where $P_t$ is the price at time $t$ and $\Delta t$ is the number of days between $t$ and $t-1$.
    - **Use Case:** Helps account for the varying time between trades but might reduce genuine large differences.
 
 #### C. **Handling Corporate Actions**
@@ -402,8 +402,8 @@ Survivorship bias is a critical concept to understand, especially when analyzing
 
 ### 5. **Mathematical Insight**
    - Suppose you have two datasets: one that includes all stocks from 2005 (including those that failed) and one that only includes stocks that are still trading today. 
-   - Let’s denote the return of the surviving stocks as \( R_{\text{survivor}} \) and the return of all stocks (including failures) as \( R_{\text{all}} \). 
-   - The observed difference, where \( R_{\text{survivor}} > R_{\text{all}} \), arises because the average in \( R_{\text{all}} \) is pulled down by the negative or zero returns of the failed stocks.
+   - Let’s denote the return of the surviving stocks as $R_{\text{survivor}}$ and the return of all stocks (including failures) as $R_{\text{all}}$. 
+   - The observed difference, where $R_{\text{survivor}} > R_{\text{all}}$, arises because the average in $R_{\text{all}}$ is pulled down by the negative or zero returns of the failed stocks.
 
 ### 6. **Conclusion**
    - **Survivorship Bias:** Creates a false impression of success in historical analysis, leading to potentially disastrous real-world applications.

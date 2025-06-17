@@ -608,7 +608,7 @@ Let's start with the **Precision-Recall Curve**:
   - X-axis represents Recall.
   
 - **Understanding the Curve**: 
-  - Precision is calculated as \( \text{TP} / (\text{TP} + \text{FP}) \), while Recall is \( \text{TP} / (\text{TP} + \text{FN}) \).
+  - Precision is calculated as $\text{TP} / (\text{TP} + \text{FP})$, while Recall is $\text{TP} / (\text{TP} + \text{FN})$.
   - The trade-off between precision and recall is evident in this curve. 
   - A higher threshold (towards 1) results in high precision but low recall, as fewer positive cases are identified.
 

@@ -364,25 +364,25 @@ Cost-benefit analysis (CBA) is a systematic approach to evaluating the strengths
   - If there's a net gain, determine whether it meets your organization’s ROI criteria.
   
 - **Payback Period Calculation:** To further assess viability, calculate the payback period:
-  \[
+  $$
   \text{Payback Period} = \frac{\text{Total Cost}}{\text{Total Benefits}}
-  \]
+  $$
   For instance, if costs are $88,000 and monthly savings are $122,000, you can derive the time until you start seeing a return on investment.
 
 ### Example Calculation
 1. **Cost:** $88,000
 2. **Monthly Savings:** $122,000
 3. **ROI Calculation:** 
-   \[
+   $$
    \text{ROI} = \frac{\text{Total Savings}}{\text{Cost}} = \frac{122,000}{88,000} = 1.39
-   \]
+   $$
    This indicates a return of 139%, meaning significant benefits from the investment.
 
 4. **Days to ROI:**
    - Calculate using:
-   \[
+   $$
    \text{Days to ROI} = 0.72 \times 31 \text{ days} \approx 22 \text{ days}
-   \]
+   $$
    This means after 22 days, the project begins to generate net benefits.
 
 ### Conclusion

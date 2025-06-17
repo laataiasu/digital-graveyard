@@ -41,12 +41,12 @@ Let's illustrate this with a simple comparison between two stocks: **Apple** and
 - **Apple**:
   - On August 3rd, 2018: Price = $208 per share.
   - One year earlier (August 3rd, 2017): Price = $156 per share.
-  - **One-year return** = \(\frac{208 - 156}{156} \approx 0.33\) (or 33%).
+  - **One-year return** = $\frac{208 - 156}{156} \approx 0.33$ (or 33%).
 
 - **NVIDIA**:
   - On August 3rd, 2018: Price = $252 per share.
   - One year earlier (August 3rd, 2017): Price = $166 per share.
-  - **One-year return** = \(\frac{252 - 166}{166} \approx 0.52\) (or 52%).
+  - **One-year return** = $\frac{252 - 166}{166} \approx 0.52$ (or 52%).
 
 So, for August 3rd, 2018:
 - **Apple's factor value** = 0.33
@@ -104,45 +104,45 @@ Imagine three stocks, A, B, and C, with the following raw factor values (e.g., o
 
 **Step 1: De-mean the Values**
 - **Calculate the Mean**: 
-  \[
+  $$
   \text{Mean} = \frac{0.2 + 0.3 + 0.5}{3} = \frac{1.0}{3} \approx 0.333
-  \]
+  $$
 - **De-mean Each Value**:
-  \[
+  $$
   A_{\text{de-meaned}} = 0.2 - 0.333 \approx -0.133
-  \]
-  \[
+  $$
+  $$
   B_{\text{de-meaned}} = 0.3 - 0.333 \approx -0.033
-  \]
-  \[
+  $$
+  $$
   C_{\text{de-meaned}} = 0.5 - 0.333 \approx 0.167
-  \]
+  $$
 
 **Step 2: Re-scale the Values**
 - **Calculate the Scalar**:
-  \[
+  $$
   \text{Scalar} = | -0.133 | + | -0.033 | + | 0.167 | = 0.133 + 0.033 + 0.167 = 0.333
-  \]
+  $$
 - **Re-scale Each Value**:
-  \[
+  $$
   A_{\text{standardized}} = \frac{-0.133}{0.333} \approx -0.4
-  \]
-  \[
+  $$
+  $$
   B_{\text{standardized}} = \frac{-0.033}{0.333} \approx -0.1
-  \]
-  \[
+  $$
+  $$
   C_{\text{standardized}} = \frac{0.167}{0.333} \approx 0.5
-  \]
+  $$
 
 **Step 3: Verify the Results**
 - **Sum of Standardized Values**:
-  \[
+  $$
   -0.4 + (-0.1) + 0.5 = 0
-  \]
+  $$
 - **Sum of Absolute Values**:
-  \[
+  $$
   | -0.4 | + | -0.1 | + | 0.5 | = 1.0
-  \]
+  $$
 
 With these steps, you've successfully standardized the raw factor values, making them suitable for further analysis and comparison with other factors.
 
@@ -281,19 +281,19 @@ In this section, we'll explore the double-edged nature of leverage—its potenti
 - **Leverage Ratio Calculation**:
   - The leverage ratio measures the total exposure of a portfolio relative to its initial capital (notional).
   - **Formula**: 
-    \[
+    $$
     \text{Leverage Ratio} = \frac{\text{Sum of Absolute Values of Long and Short Positions}}{\text{Notional (Initial Capital)}}
-    \]
+    $$
   
   - **Example**:
     - If a portfolio has $1 million in long positions and no shorts, with an initial capital of $1 million, the leverage ratio is:
-      \[
+      $$
       \text{Leverage Ratio} = \frac{1,000,000}{1,000,000} = 1
-      \]
+      $$
     - If the portfolio instead has $2 million in longs and $1 million in shorts with the same initial capital, the leverage ratio is:
-      \[
+      $$
       \text{Leverage Ratio} = \frac{2,000,000 + 1,000,000}{1,000,000} = 3
-      \]
+      $$
 
 #### **3. Rescaling Weights to Achieve a Leverage Ratio of 1**
 - **Rescaling Process**:
@@ -304,18 +304,18 @@ In this section, we'll explore the double-edged nature of leverage—its potenti
 
   - **Example**:
     - Consider a portfolio with weights of -0.5, 0.3, and 0.2. The sum of absolute values is:
-      \[
+      $$
       | -0.5 | + | 0.3 | + | 0.2 | = 1
-      \]
+      $$
       The leverage ratio is 1, so no rescaling is needed.
     - If the weights are -1, 0.6, and 0.4, the sum of absolute values is:
-      \[
+      $$
       | -1 | + | 0.6 | + | 0.4 | = 2
-      \]
+      $$
       To achieve a leverage ratio of 1, divide each weight by 2:
-      \[
-      \text{Rescaled Weights} = \left[ \frac{-1}{2}, \frac{0.6}{2}, \frac{0.4}{2} \right] = [-0.5, 0.3, 0.2]
-      \]
+      $$
+\text{Rescaled Weights} = \left[ \frac{-1}{2}, \frac{0.6}{2}, \frac{0.4}{2} \right] = [-0.5, 0.3, 0.2]
+$$
 
 ### **Conclusion**
 By rescaling weights to ensure the leverage ratio equals 1, you balance the portfolio's exposure relative to its initial capital. This controlled use of leverage allows you to manage risk while optimizing potential returns, striking a balance between risk and reward.
@@ -324,80 +324,80 @@ By rescaling weights to ensure the leverage ratio equals 1, you balance the port
 
 ### 1. **De-mean the Factor Values (Dollar Neutrality)**
 
-Given a vector of factor values \( f = [f_1, f_2, \dots, f_n] \) for \( n \) stocks:
+Given a vector of factor values $f = [f_1, f_2, \dots, f_n]$ for $n$ stocks:
 
 1. **Calculate the Mean**:
-   \[
+   $$
    \mu = \frac{1}{n} \sum_{i=1}^{n} f_i
-   \]
+   $$
    This is the average of the factor values.
 
 2. **Subtract the Mean**:
-   \[
+   $$
    f'_i = f_i - \mu \quad \text{for all } i = 1, 2, \dots, n
-   \]
-   The new vector \( f' = [f'_1, f'_2, \dots, f'_n] \) will have a mean of zero:
-   \[
+   $$
+   The new vector $f' = [f'_1, f'_2, \dots, f'_n]$ will have a mean of zero:
+   $$
    \sum_{i=1}^{n} f'_i = 0
-   \]
+   $$
    This ensures that the portfolio is dollar neutral.
 
 ### 2. **Rescale the Factor Values (Leverage Ratio of One)**
 
-Given the de-meaned factor values \( f' \):
+Given the de-meaned factor values $f'$:
 
 1. **Calculate the Sum of Absolute Values**:
-   \[
+   $$
    S = \sum_{i=1}^{n} |f'_i|
-   \]
+   $$
    This is the total magnitude of all the positions.
 
 2. **Rescale the Factor Values**:
-   \[
+   $$
    w_i = \frac{f'_i}{S} \quad \text{for all } i = 1, 2, \dots, n
-   \]
-   The new vector \( w = [w_1, w_2, \dots, w_n] \) is now scaled so that:
-   \[
+   $$
+   The new vector $w = [w_1, w_2, \dots, w_n]$ is now scaled so that:
+   $$
    \sum_{i=1}^{n} |w_i| = 1
-   \]
+   $$
    This ensures that the portfolio's leverage ratio is one.
 
 ### Example
 
 Let's say we have 3 stocks with the following factor values:
 
-\[
+$$
 f = [0.4, 0.2, -0.1]
-\]
+$$
 
 1. **Calculate the Mean**:
-   \[
+   $$
    \mu = \frac{0.4 + 0.2 - 0.1}{3} = \frac{0.5}{3} \approx 0.1667
-   \]
+   $$
 
 2. **Subtract the Mean**:
-   \[
-   f' = [0.4 - 0.1667, 0.2 - 0.1667, -0.1 - 0.1667] = [0.2333, 0.0333, -0.2667]
-   \]
+   $$
+f' = [0.4 - 0.1667, 0.2 - 0.1667, -0.1 - 0.1667] = [0.2333, 0.0333, -0.2667]
+$$
 
 3. **Calculate the Sum of Absolute Values**:
-   \[
+   $$
    S = |0.2333| + |0.0333| + |-0.2667| = 0.2333 + 0.0333 + 0.2667 = 0.5333
-   \]
+   $$
 
 4. **Rescale the Factor Values**:
-   \[
-   w = \left[\frac{0.2333}{0.5333}, \frac{0.0333}{0.5333}, \frac{-0.2667}{0.5333}\right] = [0.4375, 0.0625, -0.5]
-   \]
+   $$
+w = \left[\frac{0.2333}{0.5333}, \frac{0.0333}{0.5333}, \frac{-0.2667}{0.5333}\right] = [0.4375, 0.0625, -0.5]
+$$
 
    These weights now satisfy:
-   \[
+   $$
    \sum_{i=1}^{3} |w_i| = |0.4375| + |0.0625| + |-0.5| = 1
-   \]
+   $$
    And:
-   \[
+   $$
    \sum_{i=1}^{3} w_i = 0.4375 + 0.0625 - 0.5 = 0
-   \]
+   $$
    
 This example shows how to convert raw factor values into standardized portfolio weights that are dollar neutral and have a leverage ratio of one.
 
@@ -487,22 +487,22 @@ A pipeline can include **screens**, **factors**, and **filters**.
 ### **Math Explanation**
 
 #### 1. **Screening Stocks**: 
-   - **Top \( n \) stocks by average dollar volume**:
-     \[
+   - **Top $n$ stocks by average dollar volume**:
+     $$
      \text{Top Stocks} = \text{sort}( \frac{1}{T} \sum_{t=1}^{T} \text{Volume}(t) \times \text{Price}(t) ) \text{, take top } n
-     \]
+     $$
 
 #### 2. **Factor (Simple Moving Average)**:
    - **SMA of 15 days** for closing prices:
-     \[
+     $$
      \text{SMA}_{15}(i) = \frac{1}{15} \sum_{t=0}^{14} \text{Close Price}(i, t)
-     \]
+     $$
 
 #### 3. **Filter (Price Threshold)**:
    - **Boolean Filter**:
-     \[
+     $$
      \text{Price Filter} = \text{True if } \text{SMA}_{15}(i) > 100, \text{ else False}
-     \]
+     $$
 
 ### **Conclusion**
 

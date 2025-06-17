@@ -13,9 +13,9 @@ In this lesson, we'll explore two key properties of financial assets: **mean rev
 **Example**:
 - Suppose a stock typically trades around $50, but due to some market fluctuations, it drops to $40. If the stock is mean-reverting, you might expect it to eventually climb back toward $50.
   
-  \[
+  $$
   \text{Expected Price Movement} = \text{Current Price} + \left( \text{Mean Price} - \text{Current Price} \right)
-  \]
+  $$
 
 However, there is always a risk:
 - The stock may not revert to its historical mean and could instead settle at a new lower price or continue to decline.
@@ -87,39 +87,39 @@ Now let's translate this analogy into a mathematical model.
 
 The **Drift and Volatility model** can be represented as follows:
 
-\[
+$$
 dp_t = a \cdot p_t \cdot dt + \sigma \cdot p_t \cdot \epsilon \cdot \sqrt{dt}
-\]
+$$
 
 Where:
 
-- \( dp_t \) is the change in the stock price over a small time interval \( t \).
-- \( p_t \) is the current stock price at time \( t \).
-- \( a \) is the **drift coefficient**, representing the long-term average rate of return.
-- \( dt \) is the small change in time.
-- \( \sigma \) is the **volatility coefficient**, representing the standard deviation of the stock's returns.
-- \( \epsilon \) is a random noise factor that represents the random bumps (like fish or whales) the boat encounters.
-- \( \sqrt{dt} \) accounts for the fact that volatility increases with the square root of time.
+- $dp_t$ is the change in the stock price over a small time interval $t$.
+- $p_t$ is the current stock price at time $t$.
+- $a$ is the **drift coefficient**, representing the long-term average rate of return.
+- $dt$ is the small change in time.
+- $\sigma$ is the **volatility coefficient**, representing the standard deviation of the stock's returns.
+- $\epsilon$ is a random noise factor that represents the random bumps (like fish or whales) the boat encounters.
+- $\sqrt{dt}$ accounts for the fact that volatility increases with the square root of time.
 
 #### Breaking Down the Equation
 
-1. **Drift Term (\( a \cdot p_t \cdot dt \)):**
+1. **Drift Term ($a \cdot p_t \cdot dt$):**
    - This term represents the long-term, average direction of the stock price movement. It's like the ocean current that moves the boat steadily over time.
-   - The drift depends on the current price \( p_t \) and the time interval \( dt \).
+   - The drift depends on the current price $p_t$ and the time interval $dt$.
    - It indicates a predictable, slow change in the stock price.
 
-2. **Volatility Term (\( \sigma \cdot p_t \cdot \epsilon \cdot \sqrt{dt} \)):**
+2. **Volatility Term ($\sigma \cdot p_t \cdot \epsilon \cdot \sqrt{dt}$):**
    - This term represents the random, unpredictable changes in the stock price, much like the bumps from fish, dolphins, or whales.
    - The volatility term depends on:
-     - **Current Price \( p_t \)**: Higher prices can lead to larger absolute changes.
-     - **Standard Deviation \( \sigma \)**: Measures the magnitude of the random changes.
-     - **Random Noise \( \epsilon \)**: Captures the randomness of the market.
-     - **Square Root of Time \( \sqrt{dt} \)**: Reflects how randomness accumulates over time.
+     - **Current Price $p_t$**: Higher prices can lead to larger absolute changes.
+     - **Standard Deviation $\sigma$**: Measures the magnitude of the random changes.
+     - **Random Noise $\epsilon$**: Captures the randomness of the market.
+     - **Square Root of Time $\sqrt{dt}$**: Reflects how randomness accumulates over time.
 
 ### Intuition Behind the Model
 
-- **Calm Market (Small \( \sigma \)):** When the market is calm, the bumps (volatility) are small—like encountering a few fish. The boat (stock price) drifts smoothly along the current (drift term).
-- **Volatile Market (Large \( \sigma \)):** In a volatile market, the bumps are larger—like encountering whales. The stock price experiences larger, more erratic changes.
+- **Calm Market (Small $\sigma$):** When the market is calm, the bumps (volatility) are small—like encountering a few fish. The boat (stock price) drifts smoothly along the current (drift term).
+- **Volatile Market (Large $\sigma$):** In a volatile market, the bumps are larger—like encountering whales. The stock price experiences larger, more erratic changes.
 
 ### Conclusion
 
@@ -182,18 +182,18 @@ To effectively manage a pairs trade, traders need to calculate two important met
   
 **Calculation Methods**:
 1. **Price Ratio Method**: 
-   \[
+   $$
    \text{Hedge Ratio} = \frac{\text{Price of Stock B}}{\text{Price of Stock A}}
-   \]
+   $$
 
 2. **Linear Regression Method**:
    - Run a regression with Stock A as the independent variable (X) and Stock B as the dependent variable (Y). The **regression coefficient** gives the hedge ratio. This method accounts for historical price movements and may provide a more stable hedge ratio than the price ratio method.
 
 **Spread Calculation**:
 - Once the hedge ratio is determined, the **spread** between the two stocks can be calculated as:
-  \[
+  $$
   \text{Spread} = \text{Price of Stock B} - (\text{Hedge Ratio} \times \text{Price of Stock A})
-  \]
+  $$
 
 This spread is analogous to the **residual** in regression analysis, representing the difference between the observed price of Stock B and its expected price based on Stock A's price.
 
@@ -247,9 +247,9 @@ Once you've identified a pair of stocks based on their economic links, the next 
 
 **Spread Calculation:**
 - As previously discussed, the spread is calculated as:
-  \[
+  $$
   \text{Spread} = \text{Price of Stock B} - (\text{Hedge Ratio} \times \text{Price of Stock A})
-  \]
+  $$
 - The hedge ratio can be determined using the price ratio or linear regression method.
 
 **Stationarity of the Spread:**
@@ -283,15 +283,15 @@ First, let's clarify what it means for a time series to be "integrated of order 
 
 Now, let's move on to cointegration. Imagine two stocks, X and Y, that are economically linked. If we subtract the price of one stock from the other, we might obtain a new series called the **spread**. If this spread is stationary, we say that X and Y are cointegrated. 
 
-Mathematically, this involves a **hedge ratio** (let's denote it as \(\beta\)). The hedge ratio can be obtained through regression:
+Mathematically, this involves a **hedge ratio** (let's denote it as $\beta$). The hedge ratio can be obtained through regression:
 
-\[
+$$
 Y_t = \alpha + \beta X_t + \epsilon_t
-\]
+$$
 
-Here, \(Y_t\) is the price of stock Y at time \(t\), \(X_t\) is the price of stock X at time \(t\), \(\alpha\) is the intercept, \(\beta\) is the hedge ratio, and \(\epsilon_t\) is the error term (spread). The spread \(\epsilon_t = Y_t - \beta X_t\) is what we check for stationarity.
+Here, $Y_t$ is the price of stock Y at time $t$, $X_t$ is the price of stock X at time $t$, $\alpha$ is the intercept, $\beta$ is the hedge ratio, and $\epsilon_t$ is the error term (spread). The spread $\epsilon_t = Y_t - \beta X_t$ is what we check for stationarity.
 
-If \(\epsilon_t\) (the spread) is stationary, then X and Y are cointegrated. This means that, even if X and Y individually wander over time, their linear combination remains stable, indicating a long-term equilibrium relationship.
+If $\epsilon_t$ (the spread) is stationary, then X and Y are cointegrated. This means that, even if X and Y individually wander over time, their linear combination remains stable, indicating a long-term equilibrium relationship.
 
 #### Cointegration vs. Correlation
 
@@ -307,9 +307,9 @@ For example, suppose you invest $100 in both stock A and stock B. If these stock
 
 To test if two stocks are cointegrated, we use the **Engle-Granger Test**. This involves two key steps:
 
-1. **Find the Hedge Ratio**: Perform a regression analysis to estimate the hedge ratio (\(\beta\)).
+1. **Find the Hedge Ratio**: Perform a regression analysis to estimate the hedge ratio ($\beta$).
    
-2. **Test the Spread for Stationarity**: Calculate the spread (\(\epsilon_t = Y_t - \beta X_t\)) and use the **Augmented Dickey-Fuller (ADF) Test** to check for stationarity.
+2. **Test the Spread for Stationarity**: Calculate the spread ($\epsilon_t = Y_t - \beta X_t$) and use the **Augmented Dickey-Fuller (ADF) Test** to check for stationarity.
 
 The ADF test provides a **p-value**. If the p-value is small (typically 0.05 or less), we can reject the null hypothesis of a unit root and conclude that the spread is stationary. Thus, the two stocks are cointegrated.
 
@@ -334,63 +334,63 @@ Understanding these concepts can help you make more informed decisions in tradin
 
 The **Augmented Dickey-Fuller (ADF) test** is commonly described as a test for the presence of a **unit root** in a time series. To delve deeper into the math, let's start with the concept of an **AR(p) model**:
 
-\[
+$$
 y_t = \beta_1 y_{t-1} + \beta_2 y_{t-2} + \dots + \beta_p y_{t-p} + \epsilon_t
-\]
+$$
 
-Here, \(y_t\) represents the value of the series at time \(t\), and \(\epsilon_t\) is white noise (random error).
+Here, $y_t$ represents the value of the series at time $t$, and $\epsilon_t$ is white noise (random error).
 
 #### The Characteristic Equation
 
-We can rearrange this AR(p) model by moving all terms involving \(y\) to the left side:
+We can rearrange this AR(p) model by moving all terms involving $y$ to the left side:
 
-\[
+$$
 y_t - \beta_1 y_{t-1} - \beta_2 y_{t-2} - \dots - \beta_p y_{t-p} = \epsilon_t
-\]
+$$
 
-Next, we set \(\epsilon_t = 0\) to obtain what is known as the **characteristic equation**:
+Next, we set $\epsilon_t = 0$ to obtain what is known as the **characteristic equation**:
 
-\[
+$$
 y_t - \beta_1 y_{t-1} - \beta_2 y_{t-2} - \dots - \beta_p y_{t-p} = 0
-\]
+$$
 
 #### Backward Shift Notation
 
 To solve for the roots of the characteristic equation, we introduce **backward shift notation**:
 
-\[
+$$
 B^n y_t = y_{t-n}
-\]
+$$
 
-For example, \(y_{t-1}\) can be replaced with \(B^1 y_t\), and \(y_{t-2}\) with \(B^2 y_t\). Rewriting the characteristic equation using backward shift notation:
+For example, $y_{t-1}$ can be replaced with $B^1 y_t$, and $y_{t-2}$ with $B^2 y_t$. Rewriting the characteristic equation using backward shift notation:
 
-\[
+$$
 y_t - \beta_1 B y_t - \beta_2 B^2 y_t - \dots - \beta_p B^p y_t = 0
-\]
+$$
 
-Now, we can factor out \(y_t\):
+Now, we can factor out $y_t$:
 
-\[
+$$
 y_t (1 - \beta_1 B - \beta_2 B^2 - \dots - \beta_p B^p) = 0
-\]
+$$
 
 The term inside the parentheses is the characteristic polynomial, and the roots of this polynomial tell us about the stationarity of the series.
 
 #### Examples
 
-1. **Random Walk (AR(1) Model with \(\beta = 1\))**:
-   - Consider an AR(1) model: \( y_t = y_{t-1} + \epsilon_t \)
-   - The characteristic equation is: \( y_t - y_{t-1} = 0 \)
-   - Using backward shift notation: \( y_t - B y_t = 0 \)
-   - Factor out \(y_t\): \( y_t(1 - B) = 0 \)
-   - The root is \( B = 1 \), which indicates a unit root, meaning the series is **not stationary**.
+1. **Random Walk (AR(1) Model with $\beta = 1$)**:
+   - Consider an AR(1) model: $y_t = y_{t-1} + \epsilon_t$
+   - The characteristic equation is: $y_t - y_{t-1} = 0$
+   - Using backward shift notation: $y_t - B y_t = 0$
+   - Factor out $y_t$: $y_t(1 - B) = 0$
+   - The root is $B = 1$, which indicates a unit root, meaning the series is **not stationary**.
 
-2. **Stationary AR(1) Model with \(\beta = \frac{1}{2}\)**:
-   - The model is: \( y_t = \frac{1}{2} y_{t-1} + \epsilon_t \)
-   - The characteristic equation is: \( y_t - \frac{1}{2} y_{t-1} = 0 \)
-   - In backward shift notation: \( y_t - \frac{1}{2} B y_t = 0 \)
-   - Factor out \(y_t\): \( y_t(1 - \frac{1}{2} B) = 0 \)
-   - Solving for \(B\): \( B = 2 \), which is greater than 1, indicating the series is **stationary**.
+2. **Stationary AR(1) Model with $\beta = \frac{1}{2}$**:
+   - The model is: $y_t = \frac{1}{2} y_{t-1} + \epsilon_t$
+   - The characteristic equation is: $y_t - \frac{1}{2} y_{t-1} = 0$
+   - In backward shift notation: $y_t - \frac{1}{2} B y_t = 0$
+   - Factor out $y_t$: $y_t(1 - \frac{1}{2} B) = 0$
+   - Solving for $B$: $B = 2$, which is greater than 1, indicating the series is **stationary**.
 
 For series with more than one lag (higher-order AR models), there can be multiple roots. If all roots are greater than 1, the series is stationary.
 
@@ -407,13 +407,13 @@ The **Engle-Granger Test** is used to determine if two time series are cointegra
 
 1. **Calculating the Hedge Ratio**: Run a regression of one series on the other:
 
-   \[
+   $$
    y_t = \beta x_t + \epsilon_t
-   \]
+   $$
 
-   Here, \(\beta\) is the hedge ratio.
+   Here, $\beta$ is the hedge ratio.
 
-2. **Testing for Stationarity**: Compute the residuals \( z_t = y_t - \beta x_t \) and apply the ADF test to check if \(z_t\) is stationary. If it is, the series \(x_t\) and \(y_t\) are cointegrated.
+2. **Testing for Stationarity**: Compute the residuals $z_t = y_t - \beta x_t$ and apply the ADF test to check if $z_t$ is stationary. If it is, the series $x_t$ and $y_t$ are cointegrated.
 
 Understanding these concepts requires a solid grasp of both time series analysis and the underlying mathematics. However, the key takeaway is that the ADF test is a tool to determine whether a series is stationary by examining the roots of its characteristic equation, and the Engle-Granger Test helps identify cointegration between two series by checking the stationarity of their spread.
 
@@ -495,9 +495,9 @@ In pairs trading, determining when two stocks are diverging from their typical s
    - **What is a Z-Score?**
      - The Z-score is a statistical measure that describes how far a data point is from the mean in terms of standard deviations. For pairs trading, it helps in quantifying how much the current spread deviates from its historical average.
      - **Formula**: 
-       \[
+       $$
        Z\text{-score} = \frac{\text{Current Spread} - \text{Mean Spread}}{\text{Standard Deviation of Spread}}
-       \]
+       $$
      - **Interpretation**:
        - A Z-score of +1 indicates that the spread is one standard deviation above the mean.
        - A Z-score of -1 indicates that the spread is one standard deviation below the mean.
@@ -534,31 +534,31 @@ The Johansen Test is a statistical method used to determine whether a group of s
 #### 1. **Vector Autoregression (VAR)**
    - In time series analysis, a Vector Autoregression (VAR) model helps describe how a stock’s current value depends not only on its past values but also on the past values of other stocks.
    - For two stocks, IBM and GE, the VAR model can be written as:
-     \[
+     $$
      \text{IBM}_t = \mu_{\text{IBM}} + \beta_{1,1} \times \text{IBM}_{t-1} + \beta_{1,2} \times \text{GE}_{t-1} + e_{1,t}
-     \]
-     \[
+     $$
+     $$
      \text{GE}_t = \mu_{\text{GE}} + \beta_{2,1} \times \text{IBM}_{t-1} + \beta_{2,2} \times \text{GE}_{t-1} + e_{2,t}
-     \]
+     $$
    - Using matrix notation, this can be simplified to:
-     \[
+     $$
      \begin{bmatrix}\text{IBM}_t\\ \text{GE}_t\end{bmatrix} = \begin{bmatrix}\mu_{\text{IBM}} \\ \mu_{\text{GE}}\end{bmatrix} + \begin{bmatrix}\beta_{1,1} & \beta_{1,2}\\ \beta_{2,1} & \beta_{2,2} \end{bmatrix}\begin{bmatrix}\text{IBM}_{t-1}\\ \text{GE}_{t-1}\end{bmatrix} + \begin{bmatrix}e_{1,t}\\ e_{2,t}\end{bmatrix}
-     \]
+     $$
    - For ease, we denote the matrix of coefficients as **B** and the vector of stock prices as **x**. The model becomes:
-     \[
+     $$
      x_t = \mu + B x_{t-1} + e_t
-     \]
+     $$
 
 #### 2. **Vector Error Correction Model (VECM)**
    - To make the series stationary (removing trends over time), we look at the timewise difference:
-     \[
+     $$
      \Delta x_t = x_t - x_{t-1}
-     \]
+     $$
    - The VECM is then expressed as:
-     \[
+     $$
      \Delta x_t = \mu + B x_{t-1} + C_1 \Delta x_{t-1} + \dots + C_p \Delta x_{t-p} + e_t
-     \]
-   - Here, \( B x_{t-1} \) captures the long-term relationship between the stocks, while the other terms describe short-term dynamics.
+     $$
+   - Here, $B x_{t-1}$ captures the long-term relationship between the stocks, while the other terms describe short-term dynamics.
 
 #### 3. **Rank of Matrix B**
    - The Johansen Test examines the rank of the matrix **B**:
@@ -569,9 +569,9 @@ The Johansen Test is a statistical method used to determine whether a group of s
 
 #### 4. **Using the Johansen Test Results**
    - The Johansen Test provides the eigenvector corresponding to the largest eigenvalue, which gives the weights to use in forming the spread:
-     \[
+     $$
      w_1 \times \text{stock}_1 + w_2 \times \text{stock}_2 + w_3 \times \text{stock}_3 = \text{spread}
-     \]
+     $$
    - These weights determine the proportion of each stock in the spread. You track this spread to identify opportunities for pairs trading based on temporary deviations from its historical mean.
 
 #### 5. **Summary**

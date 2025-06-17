@@ -37,18 +37,18 @@
 ### **Market Capitalization (Market Cap)**
    - **Definition**: Market capitalization, or market cap, is the total market value of a company's outstanding shares. It is calculated by multiplying the number of shares outstanding by the current share price.
    - **Formula**:
-     \[
+     $$
      \text{Market Cap} = \text{Number of Shares Outstanding} \times \text{Price per Share}
-     \]
+     $$
    - **Categories**:
      - **Large-Cap**: Companies with a large market cap, typically over $10 billion. These are often established companies with a stable market presence.
      - **Mid-Cap**: Companies with a market cap between $2 billion and $10 billion. They might be in a growth phase but are more established than small-cap companies.
      - **Small-Cap**: Companies with a market cap under $2 billion. These are often newer companies with higher growth potential but also higher risk.
 
    **Example**: If a company has 50 million shares outstanding, and each share is priced at $20, the market cap is:
-   \[
+   $$
    \text{Market Cap} = 50,000,000 \times 20 = \$1,000,000,000
-   \]
+   $$
    This company would be classified as a mid-cap company.
 
 ### **Growth vs. Value Stocks**
@@ -65,23 +65,23 @@
 
    - **Price-to-Earnings (P/E) Ratio**:
      - **Formula**: 
-       \[
+       $$
        \text{P/E Ratio} = \frac{\text{Price per Share}}{\text{Earnings per Share (EPS)}}
-       \]
+       $$
      - **Interpretation**: A high P/E ratio suggests that investors expect high growth in the future, typical of growth stocks. A lower P/E ratio might indicate a value stock, which could be undervalued relative to its earnings.
 
    - **Price-to-Sales (P/S) Ratio**:
      - **Formula**:
-       \[
+       $$
        \text{P/S Ratio} = \frac{\text{Price per Share}}{\text{Sales per Share}}
-       \]
+       $$
      - **Interpretation**: This ratio helps assess how much investors are willing to pay for each dollar of the company’s sales. Growth stocks usually have higher P/S ratios.
 
    - **Price-to-Book (P/B) Ratio**:
      - **Formula**:
-       \[
+       $$
        \text{P/B Ratio} = \frac{\text{Price per Share}}{\text{Book Value per Share}}
-       \]
+       $$
      - **Book Value**: The book value is the net value of a company's assets (assets minus liabilities). It represents the company’s intrinsic value.
      - **Interpretation**: A high P/B ratio may indicate that investors expect high growth, while a lower P/B ratio could suggest a value stock that might be undervalued by the market.
 
@@ -160,12 +160,12 @@ When an index like the S&P 500 undergoes changes due to adding or removing compa
 - Suppose the S&P 500 index value was 2500 before the replacement.
 - The market cap change is from $50 billion to $30 billion, which is a 40% decrease.
 - The new index value would be calculated by multiplying the previous index value by the percentage change:
-  \[
+  $$
   \text{New Index Value} = \text{Previous Index Value} \times \left(1 - \frac{50 \text{ billion} - 30 \text{ billion}}{50 \text{ billion}}\right)
-  \]
-  \[
+  $$
+  $$
   \text{New Index Value} = 2500 \times \left(1 - 0.4\right) = 2500 \times 0.6 = 1500
-  \]
+  $$
 - The index would now reflect this change in the market composition and provide a new number that incorporates the impact of replacing Monsanto with [[Twitter]].
 
 ### **Investment Funds**
@@ -271,9 +271,9 @@ Consider this question:
 
 - **Definition**: The value of a fund's share, calculated as:
   - **NAV Formula**:
-    \[
+    $$
     \text{NAV} = \frac{\text{Assets Under Management (AUM)} - \text{Expenses}}{\text{Number of Shares}}
-    \]
+    $$
   - **Components**:
     - **Assets Under Management (AUM)**: Total value of investments.
     - **Expenses**: Costs of running the fund (e.g., salaries, transaction costs, taxes).
@@ -318,9 +318,9 @@ Consider this question:
 2. **Calculating Total Return**
    - Weighted average return is calculated based on the proportion of assets in different investments.
    - Calculation:
-     - Return from equities: \( 0.5 \times 10\% = 5\% \)
-     - Return from cash: \( 0.5 \times 2\% = 1\% \)
-     - Total return: \( 5\% + 1\% = 6\% \)
+     - Return from equities: $0.5 \times 10\% = 5\%$
+     - Return from cash: $0.5 \times 2\% = 1\%$
+     - Total return: $5\% + 1\% = 6\%$
 
    - The total return of the fund is 6%, which is lower than the 10% return from equities alone.
 

@@ -24,7 +24,7 @@ The major difference between supervised learning and reinforcement learning lies
 
 ### Understanding Data in Supervised Learning
 
-Let’s look at the data used in supervised learning. For example, in image classification, you need a label for every input in your training set. If you have an image of a dog, there must be a corresponding label that says "dog." If you have an image of a cat, the label should say "cat." For every input \( X \), there must be a corresponding output \( Y \).
+Let’s look at the data used in supervised learning. For example, in image classification, you need a label for every input in your training set. If you have an image of a dog, there must be a corresponding label that says "dog." If you have an image of a cat, the label should say "cat." For every input $X$, there must be a corresponding output $Y$.
 
 It’s crucial to remember that these labeled datasets are created by humans. Some students might think that we could automate the creation of labeled datasets, but if we could do that, we would have already solved machine learning. After all, the goal is to build computers that can perfectly label data. If such computers already existed, there would be no need to build them.
 
@@ -113,11 +113,11 @@ In this guide, we'll explore how to encode and implement states, actions, and re
   - **Example**: The exact position and velocity of a car driving on a road can be described as a continuous state.
 
 ##### **Mathematical Representation**:
-- **Discrete State Space**: \(\mathcal{S} = \{s_1, s_2, \dots, s_n\}\)  
-  - Here, \(\mathcal{S}\) is a set of discrete states.
+- **Discrete State Space**: $\mathcal{S} = \{s_1, s_2, \dots, s_n\}$  
+  - Here, $\mathcal{S}$ is a set of discrete states.
   
-- **Continuous State Space**: \(\mathcal{S} \subseteq \mathbb{R}^n\)  
-  - Continuous states lie within an \(n\)-dimensional real-valued space.
+- **Continuous State Space**: $\mathcal{S} \subseteq \mathbb{R}^n$  
+  - Continuous states lie within an $n$-dimensional real-valued space.
 
 #### 2. **Encoding States in Code**
 
@@ -145,11 +145,11 @@ In this guide, we'll explore how to encode and implement states, actions, and re
 - A policy is a rule or function that an agent uses to select an action based on the current state. It defines the agent's behavior and is crucial for decision-making in RL.
 
 ##### **Mathematical Representation**:
-- **Deterministic Policy**: \(\pi(s) = a\)  
-  - Given a state \(s\), the policy returns a specific action \(a\).
+- **Deterministic Policy**: $\pi(s) = a$  
+  - Given a state $s$, the policy returns a specific action $a$.
   
-- **Stochastic Policy**: \(\pi(a|s) = P(A = a | S = s)\)  
-  - Given a state \(s\), the policy returns a probability distribution over actions, from which an action is sampled.
+- **Stochastic Policy**: $\pi(a|s) = P(A = a | S = s)$  
+  - Given a state $s$, the policy returns a probability distribution over actions, from which an action is sampled.
 
 #### 2. **Representing Policies in Code**
 
@@ -192,7 +192,7 @@ In this guide, we'll explore how to encode and implement states, actions, and re
   ```
 
 - **Epsilon-Greedy Method**:  
-  - This method introduces randomness by occasionally choosing a random action with probability \(\epsilon\), promoting exploration even in deterministic policies.
+  - This method introduces randomness by occasionally choosing a random action with probability $\epsilon$, promoting exploration even in deterministic policies.
   
   ```python
   def epsilon_greedy_policy(state, epsilon=0.1):
@@ -260,16 +260,16 @@ The **Markov assumption** is central to RL and is often discussed in the context
 ### 3. **Markov Decision Process (MDP)**
 
 RL problems are often modeled as **Markov Decision Processes (MDPs)**. An MDP is defined by:
-- A set of states \( S \)
-- A set of actions \( A \)
-- A state transition probability \( P(s' | s, a) \)
-- A reward function \( R(s, a, s') \)
+- A set of states $S$
+- A set of actions $A$
+- A state transition probability $P(s' | s, a)$
+- A reward function $R(s, a, s')$
 
-The state transition probability \( P(s' | s, a) \) represents the likelihood of moving to state \( s' \) after taking action \( a \) in state \( s \). 
+The state transition probability $P(s' | s, a)$ represents the likelihood of moving to state $s'$ after taking action $a$ in state $s$. 
 
 #### Mathematical Representation:
-- **State Transition Probability**: \( P(s' | s, a) \) 
-- **Reward Function**: \( R(s, a, s') \) or simplified \( R(s, a) \)
+- **State Transition Probability**: $P(s' | s, a)$ 
+- **Reward Function**: $R(s, a, s')$ or simplified $R(s, a)$
 
 ### 4. **Why the Markov Assumption and MDP are Useful**
 
@@ -282,17 +282,17 @@ Even though the Markov assumption might seem restrictive, it provides a powerful
 ### 5. **Agent and Environment Interaction**
 
 In an MDP, the interaction between the agent and the environment is cyclical:
-1. The agent observes the current state \( s \).
-2. The agent takes action \( a \) based on its policy \( \pi(a | s) \).
-3. The environment transitions to a new state \( s' \) and provides a reward \( r \).
+1. The agent observes the current state $s$.
+2. The agent takes action $a$ based on its policy $\pi(a | s)$.
+3. The environment transitions to a new state $s'$ and provides a reward $r$.
 4. This cycle repeats.
 
 ### 6. **Mathematical Framework for Solutions**
 
-By representing both the agent's policy \( \pi(a | s) \) and the environment's dynamics \( P(s', r | s, a) \) probabilistically, we can mathematically describe and solve RL problems.
+By representing both the agent's policy $\pi(a | s)$ and the environment's dynamics $P(s', r | s, a)$ probabilistically, we can mathematically describe and solve RL problems.
 
-- **State Transition Probability**: \( P(s', r | s, a) \)
-- **Agent Policy**: \( \pi(a | s) \)
+- **State Transition Probability**: $P(s', r | s, a)$
+- **Agent Policy**: $\pi(a | s)$
 
 ### 7. **Conclusion: The Importance of a Well-Defined Problem**
 
@@ -322,28 +322,28 @@ The main objective of an agent in reinforcement learning (RL) is to **maximize t
 
 ### **Defining the Return**
 
-In RL, we refer to the **sum of future rewards** as the **return**. Mathematically, the return at a specific time \( t \) is defined as:
+In RL, we refer to the **sum of future rewards** as the **return**. Mathematically, the return at a specific time $t$ is defined as:
 
-\[
+$$
 G_t = R_{t+1} + R_{t+2} + \dots + R_T = \sum_{k=t+1}^{T} R_k
-\]
+$$
 
 Where:
-- \( G_t \) is the return at time \( t \).
-- \( R_k \) is the reward received at time step \( k \).
-- \( T \) is the terminal time, marking the end of the episode.
+- $G_t$ is the return at time $t$.
+- $R_k$ is the reward received at time step $k$.
+- $T$ is the terminal time, marking the end of the episode.
 
 ### **Dealing with Infinite Horizon: Discounting**
 
 If the task doesn't have a natural endpoint (infinite horizon), summing all future rewards might lead to an infinite return. To handle this, we introduce the concept of **discounting**:
 
-\[
+$$
 G_t = R_{t+1} + \gamma R_{t+2} + \gamma^2 R_{t+3} + \dots = \sum_{k=0}^{\infty} \gamma^k R_{t+k+1}
-\]
+$$
 
-Here, \( \gamma \) (Gamma) is the **discount factor**, a value between 0 and 1 that determines how much we care about future rewards compared to immediate rewards.
+Here, $\gamma$ (Gamma) is the **discount factor**, a value between 0 and 1 that determines how much we care about future rewards compared to immediate rewards.
 
-- **Gamma (\(\gamma\))**: If \( \gamma \) is close to 1 (e.g., 0.99), future rewards are nearly as important as immediate rewards. If \( \gamma \) is much less than 1, immediate rewards are prioritized much higher than future ones.
+- **Gamma ($\gamma$)**: If $\gamma$ is close to 1 (e.g., 0.99), future rewards are nearly as important as immediate rewards. If $\gamma$ is much less than 1, immediate rewards are prioritized much higher than future ones.
 
 ### **Analogy: Present Value of Money**
 - **Money Example**: Similar to preferring $100 today over $100 ten years from now, the agent prefers immediate rewards over those in the distant future.
@@ -351,13 +351,13 @@ Here, \( \gamma \) (Gamma) is the **discount factor**, a value between 0 and 1 t
 
 ### **Recursive Definition of Return**
 
-One powerful feature of the return \( G_t \) is that it can be defined **recursively**:
+One powerful feature of the return $G_t$ is that it can be defined **recursively**:
 
-\[
+$$
 G_t = R_{t+1} + \gamma G_{t+1}
-\]
+$$
 
-This means that the return at time \( t \) depends on the immediate reward \( R_{t+1} \) plus the discounted return from the next time step.
+This means that the return at time $t$ depends on the immediate reward $R_{t+1}$ plus the discounted return from the next time step.
 
 ---
 
@@ -377,65 +377,65 @@ Let's break down the lecture into key concepts, explain them more systematically
 The expected value (or mean) of a random variable is a fundamental concept in probability theory. It represents the "average" outcome if we were to repeat an experiment infinitely many times.
 
 #### **Mathematical Definition:**
-For a discrete random variable \(X\) with possible values \(x_1, x_2, \dots, x_n\) and corresponding probabilities \(P(x_1), P(x_2), \dots, P(x_n)\), the expected value \(E[X]\) is given by:
-\[
+For a discrete random variable $X$ with possible values $x_1, x_2, \dots, x_n$ and corresponding probabilities $P(x_1), P(x_2), \dots, P(x_n)$, the expected value $E[X]$ is given by:
+$$
 E[X] = \sum_{i=1}^{n} x_i \cdot P(x_i)
-\]
+$$
 
 #### **Example 1: Gaussian Distribution**
 If you measure the heights of 1,000 students and find an average height of 70 inches with a standard deviation of 4 inches, the expected value (mean) is 70 inches.
 
 #### **Example 2: Coin Flip**
-Consider a coin flip with outcomes 0 (tails) and 1 (heads), each with a probability of 0.5. The expected value \(E[X]\) for this random variable is:
-\[
+Consider a coin flip with outcomes 0 (tails) and 1 (heads), each with a probability of 0.5. The expected value $E[X]$ for this random variable is:
+$$
 E[X] = 0 \times 0.5 + 1 \times 0.5 = 0.5
-\]
+$$
 This means that over many flips, the average result would be 0.5, even though you never actually see 0.5 in a single flip.
 
 ### 2. **Expected Value in Reinforcement Learning**
 In reinforcement learning, rewards and returns are treated as random variables because both the environment and the policy (agent's decision-making strategy) introduce uncertainty. 
 
 #### **Value Function:**
-The expected return, or the value function \(V(s)\), is the expected sum of future rewards starting from a particular state \(s\). Mathematically:
-\[
+The expected return, or the value function $V(s)$, is the expected sum of future rewards starting from a particular state $s$. Mathematically:
+$$
 V(s) = E\left[\sum_{t=0}^{\infty} \gamma^t R_{t+1} \mid S_0 = s\right]
-\]
+$$
 Where:
-- \(R_{t+1}\) is the reward received at time step \(t+1\).
-- \(\gamma\) is the discount factor (a number between 0 and 1 that reduces the importance of future rewards).
+- $R_{t+1}$ is the reward received at time step $t+1$.
+- $\gamma$ is the discount factor (a number between 0 and 1 that reduces the importance of future rewards).
 
 ### 3. **Bellman Equation**
 The Bellman equation is a recursive formula that expresses the value function in terms of the expected immediate reward plus the discounted value of the next state. It forms the foundation for many reinforcement learning algorithms.
 
 #### **Mathematical Formulation:**
-For a given policy \(\pi\) and state \(s\), the Bellman equation is:
-\[
+For a given policy $\pi$ and state $s$, the Bellman equation is:
+$$
 V^\pi(s) = \sum_{a} \pi(a|s) \sum_{s'} P(s'|s, a) \left[ R(s, a, s') + \gamma V^\pi(s') \right]
-\]
+$$
 Where:
-- \(\pi(a|s)\) is the probability of taking action \(a\) in state \(s\) under policy \(\pi\).
-- \(P(s'|s, a)\) is the probability of transitioning to state \(s'\) from state \(s\) by taking action \(a\).
-- \(R(s, a, s')\) is the reward received after transitioning from state \(s\) to state \(s'\) by taking action \(a\).
+- $\pi(a|s)$ is the probability of taking action $a$ in state $s$ under policy $\pi$.
+- $P(s'|s, a)$ is the probability of transitioning to state $s'$ from state $s$ by taking action $a$.
+- $R(s, a, s')$ is the reward received after transitioning from state $s$ to state $s'$ by taking action $a$.
 
 ### 4. **Physical Interpretation**
-- \(\pi(a|s)\) represents the policy, which is the agent's decision-making strategy. It can be thought of as the "animal" in the environment.
-- \(P(s'|s, a)\) represents the state transition probability, which is determined by the environment dynamics. It can be thought of as the "world."
+- $\pi(a|s)$ represents the policy, which is the agent's decision-making strategy. It can be thought of as the "animal" in the environment.
+- $P(s'|s, a)$ represents the state transition probability, which is determined by the environment dynamics. It can be thought of as the "world."
 
 ### 5. **Linear Equations and the Prediction Problem**
-If the policy \(\pi\) and the environment dynamics \(P(s'|s, a)\) are known, the Bellman equation becomes a system of linear equations, which can be solved using linear algebra methods.
+If the policy $\pi$ and the environment dynamics $P(s'|s, a)$ are known, the Bellman equation becomes a system of linear equations, which can be solved using linear algebra methods.
 
 #### **Example: Simple Grid World**
 Assume a grid world with three states. The Bellman equation for each state might look like:
-\[
+$$
 V(s_1) = b_{11} + \gamma V(s_2)
-\]
-\[
+$$
+$$
 V(s_2) = b_{21} + \gamma V(s_3)
-\]
-\[
+$$
+$$
 V(s_3) = b_{31} + \gamma V(s_1)
-\]
-Where \(b_{11}, b_{21}, b_{31}\) are constants derived from the known probabilities.
+$$
+Where $b_{11}, b_{21}, b_{31}$ are constants derived from the known probabilities.
 
 ### 6. **Conclusion:**
 The Bellman equation provides a framework for evaluating policies by defining the value function, which measures the expected return. By solving this equation, we can assess how good a policy is and, ultimately, find optimal policies that maximize rewards in a reinforcement learning problem.
@@ -446,44 +446,44 @@ The Bellman equation provides a framework for evaluating policies by defining th
 
 In reinforcement learning (RL), the process of learning revolves around two main tasks:
 
-1. **Prediction Problem:** Given a policy \(\pi\), find the associated value function \(V^\pi(s)\).
-2. **Control Problem:** Find the optimal policy \(\pi^*\) that maximizes the value function \(V^*(s)\).
+1. **Prediction Problem:** Given a policy $\pi$, find the associated value function $V^\pi(s)$.
+2. **Control Problem:** Find the optimal policy $\pi^*$ that maximizes the value function $V^*(s)$.
 
 ### Value Functions: State Value vs. Action Value
 
-#### State Value Function \(V^\pi(s)\)
-- **Definition:** The value of being in state \(s\) and following policy \(\pi\) thereafter. It represents the expected sum of future rewards from state \(s\) under policy \(\pi\).
+#### State Value Function $V^\pi(s)$
+- **Definition:** The value of being in state $s$ and following policy $\pi$ thereafter. It represents the expected sum of future rewards from state $s$ under policy $\pi$.
 
-#### Action Value Function \(Q^\pi(s, a)\)
-- **Definition:** The value of being in state \(s\), taking action \(a\), and then following policy \(\pi\) thereafter. It adds an extra dimension, conditioning on the action \(a\) as well as the state \(s\).
+#### Action Value Function $Q^\pi(s, a)$
+- **Definition:** The value of being in state $s$, taking action $a$, and then following policy $\pi$ thereafter. It adds an extra dimension, conditioning on the action $a$ as well as the state $s$.
 
 ### Storage Requirements
 
-- **State Value Function \(V^\pi(s)\):** If there are \(N\) states, storing \(V^\pi(s)\) requires an array of size \(N\).
-- **Action Value Function \(Q^\pi(s, a)\):** If there are \(N\) states and \(M\) actions, storing \(Q^\pi(s, a)\) requires a 2D array of size \(N \times M\).
+- **State Value Function $V^\pi(s)$:** If there are $N$ states, storing $V^\pi(s)$ requires an array of size $N$.
+- **Action Value Function $Q^\pi(s, a)$:** If there are $N$ states and $M$ actions, storing $Q^\pi(s, a)$ requires a 2D array of size $N \times M$.
 
 ### Optimal Policy and Value Functions
 
-#### Optimal State Value Function \(V^*(s)\)
-- **Definition:** The maximum value function over all possible policies. This is the best possible value you can get starting from state \(s\).
+#### Optimal State Value Function $V^*(s)$
+- **Definition:** The maximum value function over all possible policies. This is the best possible value you can get starting from state $s$.
 
-#### Optimal Action Value Function \(Q^*(s, a)\)
-- **Definition:** The maximum action value over all possible policies. It represents the value of taking action \(a\) in state \(s\) and then following the optimal policy \(\pi^*\) thereafter.
+#### Optimal Action Value Function $Q^*(s, a)$
+- **Definition:** The maximum action value over all possible policies. It represents the value of taking action $a$ in state $s$ and then following the optimal policy $\pi^*$ thereafter.
 
-#### Relationship Between \(Q^*(s, a)\) and \(V^*(s)\)
+#### Relationship Between $Q^*(s, a)$ and $V^*(s)$
 - **Mathematical Expression:** 
-\[ V^*(s) = \max_a Q^*(s, a) \]
-- **Interpretation:** The optimal state value is the maximum value of taking any action \(a\) in state \(s\), assuming the best policy is followed afterward.
+$$ V^*(s) = \max_a Q^*(s, a) $$
+- **Interpretation:** The optimal state value is the maximum value of taking any action $a$ in state $s$, assuming the best policy is followed afterward.
 
 ### Finding the Optimal Policy: The Control Problem
 
 #### Naive Search Approach
 1. **Enumerate All Possible Policies:** For a finite state and action space, list all possible policies.
-2. **Evaluate Each Policy:** Compute the value function \(V^\pi(s)\) for each policy.
-3. **Compare and Select the Best Policy:** Choose the policy with the highest value function as the optimal policy \(\pi^*\).
+2. **Evaluate Each Policy:** Compute the value function $V^\pi(s)$ for each policy.
+3. **Compare and Select the Best Policy:** Choose the policy with the highest value function as the optimal policy $\pi^*$.
 
 #### Practical Considerations
-- **Evaluate Function:** Finding \(V^\pi(s)\) for a given policy \(\pi\) can be done by solving a system of linear equations, provided you know the policy distribution and environment dynamics.
+- **Evaluate Function:** Finding $V^\pi(s)$ for a given policy $\pi$ can be done by solving a system of linear equations, provided you know the policy distribution and environment dynamics.
 - **Enumeration Impracticality:** While conceptually simple, enumerating all policies is computationally infeasible for anything but trivial problems due to the exponential growth in the number of possible policies.
 
 ### Conclusion
@@ -526,15 +526,15 @@ In reinforcement learning:
 
 Monte Carlo methods involve running simulations (episodes) to collect samples of returns. Here's how we can apply it to solve the prediction problem:
 
-1. **Play an Episode:** This involves navigating through a sequence of states and rewards (denoted as \(S_1, S_2, \ldots, S_T\) and \(R_1, R_2, \ldots, R_T\)).
+1. **Play an Episode:** This involves navigating through a sequence of states and rewards (denoted as $S_1, S_2, \ldots, S_T$ and $R_1, R_2, \ldots, R_T$).
 
 2. **Calculate Returns:**
-   - **Return at Terminal State:** The return is the sum of future rewards. For a terminal state, there are no future rewards, so the return \(G_T\) is zero.
-   - **Recursive Calculation:** For each prior state, the return \(G_t\) can be calculated using the recursive formula:
-     \[
+   - **Return at Terminal State:** The return is the sum of future rewards. For a terminal state, there are no future rewards, so the return $G_T$ is zero.
+   - **Recursive Calculation:** For each prior state, the return $G_t$ can be calculated using the recursive formula:
+     $$
      G_t = R_{t+1} + \gamma \times G_{t+1}
-     \]
-     where \(\gamma\) is the discount factor.
+     $$
+     where $\gamma$ is the discount factor.
 
 3. **Pseudo Code Outline:**
    - **Initialization:**
@@ -592,24 +592,24 @@ In summary, Monte Carlo methods allow us to estimate the value function in envir
 In reinforcement learning, two major problems often arise: **prediction** and **control**.
 
 1. **Prediction Problem (Value Function Estimation)**:
-   - The goal is to estimate the **value function** \(V(s)\), which predicts the expected sum of future rewards starting from state \(s\).
+   - The goal is to estimate the **value function** $V(s)$, which predicts the expected sum of future rewards starting from state $s$.
    - This helps in understanding how good it is to be in a particular state.
 
 2. **Control Problem (Optimal Policy)**:
    - The goal is to find the **optimal policy** by maximizing the expected sum of future rewards.
-   - The focus is on estimating the **action-value function** \(Q(s, a)\), which predicts the expected future rewards given a state \(s\) and action \(a\).
-   - From \(Q(s, a)\), we can determine the best action to take by selecting the action \(a\) that maximizes \(Q(s, a)\) for any given state \(s\).
+   - The focus is on estimating the **action-value function** $Q(s, a)$, which predicts the expected future rewards given a state $s$ and action $a$.
+   - From $Q(s, a)$, we can determine the best action to take by selecting the action $a$ that maximizes $Q(s, a)$ for any given state $s$.
 
 ### The Loop of Policy Iteration and Improvement
 
 Policy iteration is a fundamental approach to solving the control problem. It consists of two main steps:
 
 1. **Policy Evaluation**:
-   - Given a policy, evaluate its value function (either state-value \(V(s)\) or action-value \(Q(s, a)\)).
+   - Given a policy, evaluate its value function (either state-value $V(s)$ or action-value $Q(s, a)$).
    - This involves calculating expected returns for each state (or state-action pair) under the current policy.
 
 2. **Policy Improvement**:
-   - Given the evaluated value function \(Q(s, a)\), improve the policy by choosing the action that maximizes \(Q(s, a)\) for each state.
+   - Given the evaluated value function $Q(s, a)$, improve the policy by choosing the action that maximizes $Q(s, a)$ for each state.
    - This produces a new policy that is at least as good as the previous one.
 
 This process repeats in a loop, with each iteration potentially improving the policy until it converges to the optimal policy.
@@ -619,21 +619,21 @@ This process repeats in a loop, with each iteration potentially improving the po
 Monte Carlo methods are used to evaluate and improve the policy by sampling returns over episodes of the environment. Here's a basic outline of how it works:
 
 1. **Initialize**:
-   - Start with a random action-value function \(Q(s, a)\) and a random policy.
+   - Start with a random action-value function $Q(s, a)$ and a random policy.
 
 2. **Monte Carlo Policy Evaluation**:
    - Run episodes to sample states, actions, and rewards.
-   - For each state-action pair encountered in the episode, update \(Q(s, a)\) based on the returns observed.
+   - For each state-action pair encountered in the episode, update $Q(s, a)$ based on the returns observed.
 
 3. **Policy Improvement**:
-   - Update the policy by choosing actions that maximize \(Q(s, a)\) for each state \(s\).
+   - Update the policy by choosing actions that maximize $Q(s, a)$ for each state $s$.
 
 ### Efficiency Challenges and Value Iteration
 
 The naive approach to Monte Carlo control involves a nested loop: one loop to improve the policy and another to evaluate it using multiple episodes. This can be inefficient because:
 
-- **Storage**: \(Q(s, a)\) requires storing more values compared to \(V(s)\).
-- **Sample Requirements**: More samples are needed to estimate \(Q(s, a)\) accurately.
+- **Storage**: $Q(s, a)$ requires storing more values compared to $V(s)$.
+- **Sample Requirements**: More samples are needed to estimate $Q(s, a)$ accurately.
 - **Computation**: The number of required episodes grows quickly, leading to inefficiency.
 
 #### Value Iteration Approach
@@ -641,18 +641,18 @@ The naive approach to Monte Carlo control involves a nested loop: one loop to im
 A more efficient method, **value iteration**, reduces the need for multiple episodes per policy evaluation step:
 
 1. **Single Episode Evaluation**:
-   - Instead of playing multiple episodes to estimate \(Q(s, a)\), play a single episode and update \(Q(s, a)\) immediately based on the observed returns.
+   - Instead of playing multiple episodes to estimate $Q(s, a)$, play a single episode and update $Q(s, a)$ immediately based on the observed returns.
    - This allows for faster convergence.
 
 2. **Sample Mean Optimization**:
-   - Instead of recalculating the sample mean every time a new sample is collected, use a running average. The update rule for \(Q(s, a)\) becomes:
-     \[
-     Q(s, a) \leftarrow Q(s, a) + \alpha \times \left[ \text{Return} - Q(s, a) \right]
-     \]
-     where \(\alpha\) is a constant learning rate. This method gives more weight to recent experiences, ensuring that the policy adapts quickly to new information.
+   - Instead of recalculating the sample mean every time a new sample is collected, use a running average. The update rule for $Q(s, a)$ becomes:
+     $$
+Q(s, a) \leftarrow Q(s, a) + \alpha \times \left[ \text{Return} - Q(s, a) \right]
+$$
+     where $\alpha$ is a constant learning rate. This method gives more weight to recent experiences, ensuring that the policy adapts quickly to new information.
 
 3. **Exponential Decay**:
-   - Use an exponentially decaying average for updating \(Q(s, a)\). This ensures that older experiences have less influence on the value function, which is especially important when the policy is continually changing.
+   - Use an exponentially decaying average for updating $Q(s, a)$. This ensures that older experiences have less influence on the value function, which is especially important when the policy is continually changing.
 
 ### Conclusion
 
@@ -690,8 +690,8 @@ If you always choose the action (slot machine) with the highest estimated reward
 A common strategy to balance exploration and exploitation is the **epsilon-greedy** algorithm:
 
 - **Epsilon (ε)**: A small probability (e.g., 0.1) that determines how often you should explore.
-- **Greedy Action**: With probability \(1 - \epsilon\), you exploit by choosing the action with the highest estimated reward.
-- **Random Action**: With probability \(\epsilon\), you explore by choosing a random action, regardless of the estimated rewards.
+- **Greedy Action**: With probability $1 - \epsilon$, you exploit by choosing the action with the highest estimated reward.
+- **Random Action**: With probability $\epsilon$, you explore by choosing a random action, regardless of the estimated rewards.
 
 ### Pseudocode for Epsilon-Greedy
 
@@ -712,10 +712,10 @@ def epsilon_greedy(Q, state, epsilon):
 
 ### Why Balance is Important
 
-- **Too Much Exploration**: If \(\epsilon\) is too high, you'll spend too much time exploring, which can be costly and inefficient.
-- **Too Much Exploitation**: If \(\epsilon\) is too low, you might miss out on discovering better actions that could yield higher rewards.
+- **Too Much Exploration**: If $\epsilon$ is too high, you'll spend too much time exploring, which can be costly and inefficient.
+- **Too Much Exploitation**: If $\epsilon$ is too low, you might miss out on discovering better actions that could yield higher rewards.
 
-The key is to strike a balance, gradually decreasing \(\epsilon\) over time as the agent becomes more confident in its Q-value estimates.
+The key is to strike a balance, gradually decreasing $\epsilon$ over time as the agent becomes more confident in its Q-value estimates.
 
 ### Conclusion
 
@@ -749,18 +749,18 @@ The explore-exploit dilemma highlights the trade-off between gathering informati
 
 ### **4. Temporal Difference (TD) Learning**
 - **Recursive Return Definition:**
-  - The return \( G_t \) at time \( t \) can be defined recursively:
-    \[
+  - The return $G_t$ at time $t$ can be defined recursively:
+    $$
     G_t = R_{t+1} + \gamma G_{t+1}
-    \]
-  - Here, \( \gamma \) is the discount factor.
+    $$
+  - Here, $\gamma$ is the discount factor.
   
 - **TD Method:**
   - **Estimate Returns:** Instead of waiting until the end of an episode, estimate returns using the value of the next state:
-    \[
-    V(S_t) \leftarrow V(S_t) + \alpha \left[ R_{t+1} + \gamma V(S_{t+1}) - V(S_t) \right]
-    \]
-    - \( \alpha \) is the learning rate.
+    $$
+V(S_t) \leftarrow V(S_t) + \alpha \left[ R_{t+1} + \gamma V(S_{t+1}) - V(S_t) \right]
+$$
+    - $\alpha$ is the learning rate.
     - This allows for updates after each step rather than waiting for the episode to finish.
   
 - **Gradient Descent Analogy:**
@@ -768,19 +768,19 @@ The explore-exploit dilemma highlights the trade-off between gathering informati
 
 ### **5. Q-Learning Algorithm**
 - **Control via Q-Learning:**
-  - Q-learning updates a **Q-table** instead of a value function. The Q-value \( Q(s, a) \) represents the expected return of taking action \( a \) in state \( s \) and following the optimal policy afterward.
+  - Q-learning updates a **Q-table** instead of a value function. The Q-value $Q(s, a)$ represents the expected return of taking action $a$ in state $s$ and following the optimal policy afterward.
   
 - **Epsilon-Greedy Policy:**
   - To balance exploration and exploitation, use the epsilon-greedy policy:
-    - With probability \( \epsilon \), choose a random action.
-    - With probability \( 1 - \epsilon \), choose the action with the highest Q-value.
+    - With probability $\epsilon$, choose a random action.
+    - With probability $1 - \epsilon$, choose the action with the highest Q-value.
   
 - **Q-Value Update:**
   - The Q-learning update rule:
-    \[
-    Q(S_t, A_t) \leftarrow Q(S_t, A_t) + \alpha \left[ R_{t+1} + \gamma \max_a Q(S_{t+1}, a) - Q(S_t, A_t) \right]
-    \]
-    - Here, \( \max_a Q(S_{t+1}, a) \) assumes the agent will act optimally in the next state.
+    $$
+Q(S_t, A_t) \leftarrow Q(S_t, A_t) + \alpha \left[ R_{t+1} + \gamma \max_a Q(S_{t+1}, a) - Q(S_t, A_t) \right]
+$$
+    - Here, $\max_a Q(S_{t+1}, a)$ assumes the agent will act optimally in the next state.
   
 - **Off-Policy Learning:**
   - Q-learning is an off-policy method. The Q-values are updated as if the agent is always acting greedily, even if it explores randomly during learning.
@@ -829,7 +829,7 @@ Let's start by considering a data frame with SPY closing prices, along with fast
 
 #### Example Scenario
 
-Suppose we're at time \( t \) and we’re not currently invested. Today, the fast MA crosses above the slow MA, indicating a buy signal. We buy at today’s closing price, but the return we get is for tomorrow (time \( t+1 \)). This action brings us to the next day, and the reward for this action is the return at time \( t+1 \). This is an example of a Markov Decision Process (MDP) transition: we move from state \( S_t \) to \( S_{t+1} \) and receive a reward \( R_{t+1} \).
+Suppose we're at time $t$ and we’re not currently invested. Today, the fast MA crosses above the slow MA, indicating a buy signal. We buy at today’s closing price, but the return we get is for tomorrow (time $t+1$). This action brings us to the next day, and the reward for this action is the return at time $t+1$. This is an example of a Markov Decision Process (MDP) transition: we move from state $S_t$ to $S_{t+1}$ and receive a reward $R_{t+1}$.
 
 ### Actions, States, and Rewards
 
@@ -994,9 +994,9 @@ However, there's a challenge. Returns are continuous variables, meaning there ar
 One simple solution is **binning**. Here's how it works:
 
 1. **Define Bins:** Suppose we have three bins:
-   - Bin 1: Values from \(-\infty\) to 0
+   - Bin 1: Values from $-\infty$ to 0
    - Bin 2: Values from 0 to 1
-   - Bin 3: Values from 1 to \(+\infty\)
+   - Bin 3: Values from 1 to $+\infty$
 
 2. **Assign Values to Bins:** This process transforms an infinite number of possible returns into a finite number of bins.
 
@@ -1071,7 +1071,7 @@ First, we'll import the necessary libraries: Pandas, NumPy, Matplotlib, and some
 4. **Split Data**: We split the data into training and testing sets using the returns DataFrame.
 5. **Select Input Features**: We specify that our input features will be Apple, Microsoft, and Amazon.
 
-It's important to note that because we're using binning, the state space will grow exponentially. For instance, if each column has 10 bins and we have three columns, the total number of unique bins is \(10 \times 10 \times 10 = 1000\). With more features, the state space grows exponentially, leading to increased time and space requirements.
+It's important to note that because we're using binning, the state space will grow exponentially. For instance, if each column has 10 bins and we have three columns, the total number of unique bins is $10 \times 10 \times 10 = 1000$. With more features, the state space grows exponentially, leading to increased time and space requirements.
 
 #### The `Environment` Class
 
@@ -1097,9 +1097,9 @@ This is likely the most complex part of the script and relies heavily on the the
   - **Step 8**: Loop through each dimension:
     - For each column, initialize an empty list `current_bin` to store the boundaries.
     - Loop `bins` times to calculate the boundaries using the formula: 
-      \[
+      $$
       \text{Boundary} = \frac{n\_samples}{n\_bins} \times (k + 0.5)
-      \]
+      $$
       This ensures centered bin boundaries. Plugging in example numbers can help clarify the logic.
 
 - **Transform Function**: This function converts a continuous state vector into the corresponding bin tuple:

@@ -176,16 +176,16 @@ Understanding the nuances in the dataset and methodology allows for more accurat
 
 ### 1. **Understanding Overnight Returns**
    - **Overnight Return** is defined as the return from the previous day's close price to the current day's open price. Mathematically, it can be expressed as:
-     \[
+     $$
      \text{Overnight Return} = \frac{\text{Open Price}_{\text{today}} - \text{Close Price}_{\text{yesterday}}}{\text{Close Price}_{\text{yesterday}}}
-     \]
+     $$
    - For a given stock, you can calculate this return on a daily basis and then aggregate these daily overnight returns to get a **weekly overnight return**.
 
 ### 2. **Calculating Weekly Overnight Returns**
    - To calculate the **Weekly Overnight Returns**, you'll sum up the daily overnight returns for each week:
-     \[
+     $$
      \text{Weekly Overnight Return} = \sum_{i=1}^{5} \text{Overnight Return}_{i}
-     \]
+     $$
    - In Python, this can be done using a rolling sum over the daily overnight returns:
 
    ```python
@@ -241,21 +241,21 @@ Let's imagine two stocks, which we'll call **Stock Tortoise** and **Stock Rabbit
    - It follows a **linear trajectory**—growing steadily and consistently over the year.
    - Its growth might look like this on a graph:
 
-   \[
-   \text{Stock Tortoise: } y = 0.2x \quad \text{(where \( x \) is time, and \( y \) is the return)}
-   \]
+   $$
+   \text{Stock Tortoise: } y = 0.2x \quad \text{(where $x$ is time, and $y$ is the return)}
+   $$
 
 2. **Stock Rabbit**:
    - It has a more **volatile path**. Let's say it jumps to **+40%** midway through the year but then drops by **50%**, leading to an overall return of **+20%**.
    - The trajectory here might resemble:
 
-   \[
+   $$
    \text{Stock Rabbit: } y = 
    \begin{cases} 
    0.4 & \text{(first half)} \\
    -0.5 \times 0.4 + 0.2 & \text{(second half)} 
    \end{cases}
-   \]
+   $$
 
    Essentially, Stock Rabbit experiences a rapid rise followed by a sharp fall.
 
@@ -286,22 +286,22 @@ The paper titled "The Formation Process of Winners and Losers in Momentum Invest
 1. **Accelerated Gains**:
    - When a stock shows **recently higher returns**, it is experiencing **accelerated gains**.
    - The trajectory of an accelerated gain is **convex**.
-   - Example: The function \( y = x^2 \) represents a convex shape, where the rate of increase is accelerating over time.
+   - Example: The function $y = x^2$ represents a convex shape, where the rate of increase is accelerating over time.
 
 2. **Decelerated Gains**:
    - When a stock shows **minimal positive returns**, it is experiencing **decelerated gains**.
    - The trajectory of a decelerated gain is **concave**.
-   - Example: The function \( y = \sqrt{x} \) represents a concave shape, where the rate of increase is slowing down over time.
+   - Example: The function $y = \sqrt{x}$ represents a concave shape, where the rate of increase is slowing down over time.
 
 3. **Accelerated Losses**:
    - When a stock shows **recently higher losses**, it is experiencing **accelerated losses**.
    - The trajectory of an accelerated loss is **concave**.
-   - Example: The function \( y = -x^2 \) represents a concave shape, where the rate of loss is accelerating.
+   - Example: The function $y = -x^2$ represents a concave shape, where the rate of loss is accelerating.
 
 4. **Decelerated Losses**:
    - When a stock shows **slower or diminishing losses**, it is experiencing **decelerated losses**.
    - The trajectory of a decelerated loss is **convex**.
-   - Example: The function \( y = -\sqrt{x} \) represents a convex shape, where the rate of loss is slowing down.
+   - Example: The function $y = -\sqrt{x}$ represents a convex shape, where the rate of loss is slowing down.
 
 #### Investment Strategies Based on Trajectories
 
@@ -337,14 +337,14 @@ In the context of momentum investing, understanding how to numerically represent
 
 A basic polynomial that can approximate the stock's price trajectory is:
 
-\[
+$$
 y = \text{gain} \times t + \text{accelerate} \times t^2
-\]
+$$
 
 Where:
-- **\( t \)** represents time (e.g., number of days from the start of the stock's trajectory).
-- **gain** (\(\beta\)) is the coefficient for \( t \) and indicates the linear change (slope) over time.
-- **accelerate** (\(\gamma\)) is the coefficient for \( t^2 \) and represents the curvature of the trajectory.
+- **$t$** represents time (e.g., number of days from the start of the stock's trajectory).
+- **gain** ($\beta$) is the coefficient for $t$ and indicates the linear change (slope) over time.
+- **accelerate** ($\gamma$) is the coefficient for $t^2$ and represents the curvature of the trajectory.
 
 #### Understanding the Coefficients
 
@@ -406,39 +406,39 @@ In momentum investing, understanding whether to go long (buy) or short (sell) on
 
 Let's recall the basic polynomial used to approximate a stock's price trajectory:
 
-\[
+$$
 y = \text{gain} \times t + \text{accelerate} \times t^2
-\]
+$$
 
 Where:
-- **Gain** (\( \beta \)): Linear coefficient indicating the overall direction (upward or downward slope).
-- **Accelerate** (\( \gamma \)): Quadratic coefficient indicating the curvature (convexity or concavity).
+- **Gain** ($\beta$): Linear coefficient indicating the overall direction (upward or downward slope).
+- **Accelerate** ($\gamma$): Quadratic coefficient indicating the curvature (convexity or concavity).
 
 #### Investment Decisions Based on Gain and Accelerate Coefficients
 
 Consider the following scenarios for deciding whether to go long or short on a stock:
 
 1. **Stock A**:
-   - Gain coefficient: \( +10 \)
-   - Accelerate coefficient: \( +2 \)
+   - Gain coefficient: $+10$
+   - Accelerate coefficient: $+2$
    - **Trajectory**: Accelerated gain (convex, upward-sloping).
    - **Decision**: Prefer to go long, with more weight on this stock due to its strong positive momentum.
 
 2. **Stock B**:
-   - Gain coefficient: \( +10 \)
-   - Accelerate coefficient: \( -2 \)
+   - Gain coefficient: $+10$
+   - Accelerate coefficient: $-2$
    - **Trajectory**: Decelerated gain (concave, upward-sloping).
    - **Decision**: Still go long, but with less weight compared to Stock A due to slower momentum.
 
 3. **Stock C**:
-   - Gain coefficient: \( -10 \)
-   - Accelerate coefficient: \( +2 \)
+   - Gain coefficient: $-10$
+   - Accelerate coefficient: $+2$
    - **Trajectory**: Decelerated loss (convex, downward-sloping).
    - **Decision**: Go short, but with less weight due to the slower pace of decline.
 
 4. **Stock D**:
-   - Gain coefficient: \( -10 \)
-   - Accelerate coefficient: \( -2 \)
+   - Gain coefficient: $-10$
+   - Accelerate coefficient: $-2$
    - **Trajectory**: Accelerated loss (concave, downward-sloping).
    - **Decision**: Prefer to go short, with more weight due to the rapid decline.
 
@@ -560,47 +560,47 @@ Let's break down the math behind skewness and see how it relates to the concepts
 
 ### 1. Mathematical Definition of Skewness
 
-**Skewness** is a statistical measure that quantifies the asymmetry of a distribution. The formula for skewness \( S \) of a dataset with \( n \) observations is given by:
+**Skewness** is a statistical measure that quantifies the asymmetry of a distribution. The formula for skewness $S$ of a dataset with $n$ observations is given by:
 
-\[
+$$
 S = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left(\frac{x_i - \bar{x}}{\sigma}\right)^3
-\]
+$$
 
 Where:
-- \( x_i \) is each individual observation.
-- \( \bar{x} \) is the mean of the observations.
-- \( \sigma \) is the standard deviation of the observations.
-- \( n \) is the number of observations.
+- $x_i$ is each individual observation.
+- $\bar{x}$ is the mean of the observations.
+- $\sigma$ is the standard deviation of the observations.
+- $n$ is the number of observations.
 
 This formula tells us how much the distribution of data deviates from the mean and in which direction.
 
-- **Positive skewness**: When \( S > 0 \), the distribution has a longer tail on the right.
-- **Negative skewness**: When \( S < 0 \), the distribution has a longer tail on the left.
+- **Positive skewness**: When $S > 0$, the distribution has a longer tail on the right.
+- **Negative skewness**: When $S < 0$, the distribution has a longer tail on the left.
 
 ### 2. Computing Skewness: Example
 
 Let's say we have a small set of daily returns for a stock over five days:
 
-\[
+$$
 \text{Returns} = [0.02, 0.03, -0.01, 0.01, 0.05]
-\]
+$$
 
 Here's how you would compute the skewness:
 
-1. **Calculate the mean (\( \bar{x} \))**:
-   \[
+1. **Calculate the mean ($\bar{x}$)**:
+   $$
    \bar{x} = \frac{0.02 + 0.03 - 0.01 + 0.01 + 0.05}{5} = 0.02
-   \]
+   $$
 
-2. **Calculate the standard deviation (\( \sigma \))**:
-   \[
+2. **Calculate the standard deviation ($\sigma$)**:
+   $$
    \sigma = \sqrt{\frac{(0.02-0.02)^2 + (0.03-0.02)^2 + (-0.01-0.02)^2 + (0.01-0.02)^2 + (0.05-0.02)^2}{5-1}} \approx 0.0212
-   \]
+   $$
 
-3. **Calculate the skewness ( \( S \) )**:
-   \[
+3. **Calculate the skewness ( $S$ )**:
+   $$
    S = \frac{5}{(5-1)(5-2)} \sum_{i=1}^{5} \left(\frac{x_i - 0.02}{0.0212}\right)^3
-   \]
+   $$
 
    After calculating the cubic deviations, you'll sum them up and multiply by the coefficient to get the skewness.
 
@@ -611,9 +611,9 @@ In the context of the alpha factor discussed, we're using the **maximum daily re
 - This is much simpler to calculate and aligns with investor psychology: if a stock has a very high return on a single day within this period, it might signal to some investors that the stock is a strong performer (FOMO), potentially leading to a skewed perception of its future performance.
 
 - **Mathematically**:
-  \[
+  $$
   \text{Skewness Proxy} = \max(\text{Daily Returns})
-  \]
+  $$
   where "Daily Returns" are the returns over the past 20 trading days.
 
 This proxy is used because it is easily observable and can signal when a stock might be overbought and due for a reversal.
@@ -711,9 +711,9 @@ In this section, we'll go through the steps to create a **conditional alpha fact
 
 Once both momentum and skewness are ranked, we combine them to create the conditional factor:
 
-\[
+$$
 \text{Conditional Factor} = \text{Rank of Momentum} \times \text{Reverse Rank of Skewness}
-\]
+$$
 
 - **Why this works**:
   - **High Momentum, Low Skew**: If a stock has high momentum (rank close to 100) and low skew (reverse rank close to 100), the product will be large, indicating a strong candidate for a **long position**.
@@ -732,17 +732,17 @@ Let’s say we have three stocks with the following ranks:
 - **Stock A**:
   - **Momentum Rank**: 90
   - **Reverse Skew Rank**: 10
-  - **Conditional Factor**: \( 90 \times 10 = 900 \)
+  - **Conditional Factor**: $90 \times 10 = 900$
 
 - **Stock B**:
   - **Momentum Rank**: 20
   - **Reverse Skew Rank**: 80
-  - **Conditional Factor**: \( 20 \times 80 = 1600 \)
+  - **Conditional Factor**: $20 \times 80 = 1600$
 
 - **Stock C**:
   - **Momentum Rank**: 50
   - **Reverse Skew Rank**: 50
-  - **Conditional Factor**: \( 50 \times 50 = 2500 \)
+  - **Conditional Factor**: $50 \times 50 = 2500$
 
 In this case:
 - **Stock A** would likely be a candidate for a **short position** due to its relatively low conditional factor.

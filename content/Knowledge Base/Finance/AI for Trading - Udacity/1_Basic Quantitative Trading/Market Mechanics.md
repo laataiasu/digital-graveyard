@@ -16,12 +16,12 @@ Let's break down the conversation with Betty and learn how she decides on the pr
 
    This adjustment is a reflection of the **law of demand**: as the price of a good increases, the quantity demanded typically decreases, and vice versa.
 
-   \[
+   $$
    \text{If demand increases} \Rightarrow \text{Increase price}
-   \]
-   \[
+   $$
+   $$
    \text{If demand decreases} \Rightarrow \text{Decrease price}
-   \]
+   $$
 
 ### 3. **Negotiation and Market Competition**
    - **Bargaining**: Betty often negotiates with customers who want to pay less. They agree on a price that both find acceptable, which is somewhere between the initial price and the price the customer offers.
@@ -29,16 +29,16 @@ Let's break down the conversation with Betty and learn how she decides on the pr
 
    This leads to a situation where the price is determined by both what buyers are willing to pay (demand) and what sellers are willing to accept (supply).
 
-   \[
+   $$
    \text{Market Price} = \text{Price determined by negotiation and competition}
-   \]
+   $$
 
 ### 4. **Market Equilibrium**
    - The price Betty ends up selling at is close to what economists call the **market equilibrium price**. This is the point where the quantity of oranges buyers want to buy equals the quantity sellers want to sell, at a given price.
 
-   \[
+   $$
    \text{Equilibrium Price} = \text{Price where quantity demanded} = \text{quantity supplied}
-   \]
+   $$
 
 ### Conclusion
 Betty's pricing strategy is a dynamic process influenced by her costs, the demand from customers, competition in the market, and direct negotiation. This is a practical example of how prices are often set in real-life markets.
@@ -71,7 +71,7 @@ Betty's pricing strategy is a dynamic process influenced by her costs, the deman
      - This means they are willing to sell Netflix shares for at least $179.90.
    - Since the selling price ($179.90) is lower than your buying price ($180), the trade is executed.
      - You buy 2 shares: 1 share at $179.90 and the other at $179.80.
-     - The **average price** you paid is \(\frac{179.90 + 179.80}{2} = 179.85\).
+     - The **average price** you paid is $\frac{179.90 + 179.80}{2} = 179.85$.
 
 #### 5. **The Auction-Like Nature of Stock Trading**
    - The process of matching buy and sell orders resembles an auction:
@@ -288,15 +288,15 @@ Volume is a vital metric in stock trading that reflects the number of shares bei
   
   Consider you are calculating the average number of transactions per hour. If you do not account for the market being closed:
   
-  \[
+  $$
   \text{Average Transactions Per Hour} = \frac{\text{Total Transactions}}{\text{Number of Hours in the Day (24)}}
-  \]
+  $$
   
   But if the market is only open for 6.5 hours (9:30 AM to 4:00 PM), the correct calculation should be:
   
-  \[
+  $$
   \text{Average Transactions Per Hour} = \frac{\text{Total Transactions}}{6.5}
-  \]
+  $$
   
   Ignoring the actual trading hours leads to a much lower transaction rate than in reality.
 
