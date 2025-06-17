@@ -95,20 +95,20 @@ Let's start by discussing **standard deviation**, a fundamental statistical meas
 **Definition and Calculation**:
 
 1. **Mean Calculation**: 
-   \[
+   $$
    \bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
-   \]
-   where \( \bar{x} \) is the mean of the data, \( x_i \) are the individual observations, and \( n \) is the total number of observations.
+   $$
+   where $\bar{x}$ is the mean of the data, $x_i$ are the individual observations, and $n$ is the total number of observations.
 
 2. **Variance Calculation**:
-   \[
+   $$
    \text{Variance} = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2
-   \]
+   $$
 
 3. **Standard Deviation Calculation**:
-   \[
+   $$
    \sigma = \sqrt{\text{Variance}}
-   \]
+   $$
 
 The standard deviation measures how much each observation deviates from the mean, with larger deviations being given more weight because the deviations are squared in the variance calculation.
 
@@ -120,17 +120,17 @@ Many people mistakenly believe that standard deviation is simply the average amo
 
 Consider a dataset where most values are zero except for one value that is very large (e.g., 1,000,000), and the rest are zero:
 
-- **Data**: \( \{0, 0, \ldots, 0, 1,000,000\} \) (with 1,000,000 observations, only one being 1,000,000)
+- **Data**: $\{0, 0, \ldots, 0, 1,000,000\}$ (with 1,000,000 observations, only one being 1,000,000)
 
   - **Standard Deviation**: 
-    \[
+    $$
     \sigma = \sqrt{\frac{1}{n} \left( (1,000,000 - \bar{x})^2 \right)} \approx 1,000
-    \]
+    $$
   
   - **Mean Absolute Deviation (MAD)**: 
-    \[
+    $$
     \text{MAD} = \frac{1}{n} \sum_{i=1}^{n} |x_i - \bar{x}|
-    \]
+    $$
     For this dataset, MAD is significantly smaller.
 
 The standard deviation can be disproportionately large compared to the mean absolute deviation because squaring the deviations emphasizes larger deviations more heavily.
@@ -140,15 +140,15 @@ The standard deviation can be disproportionately large compared to the mean abso
 **Definition and Calculation**:
 
 1. **Covariance**:
-   \[
+   $$
    \text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})
-   \]
+   $$
 
 2. **Correlation Coefficient**:
-   \[
+   $$
    \rho_{X,Y} = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y}
-   \]
-   where \( \sigma_X \) and \( \sigma_Y \) are the standard deviations of \( X \) and \( Y \), respectively.
+   $$
+   where $\sigma_X$ and $\sigma_Y$ are the standard deviations of $X$ and $Y$, respectively.
 
 **Misunderstandings**:
 
@@ -156,11 +156,11 @@ People often think of correlation in terms of linear relationships between varia
 
 In the context of Gaussian distributions, the ratio of standard deviation to mean absolute deviation (MAD) is:
 
-\[
+$$
 \frac{\sigma}{\text{MAD}} = \sqrt{\frac{\phi}{2}} \approx 1.25
-\]
+$$
 
-where \(\phi\) is the Gaussian distribution parameter. This ratio increases for distributions with fat tails.
+where $\phi$ is the Gaussian distribution parameter. This ratio increases for distributions with fat tails.
 
 #### **Conclusion**
 
@@ -183,12 +183,12 @@ Welcome back to our series on statistics and probability, with a special focus o
 #### **Example of a Fat-Tailed Distribution**
 
 Consider a dataset where most values are zero except for one extreme value. For instance:
-- **Data**: \( \{0, 0, \ldots, 0, 1,000,000\} \) (with 1,000,000 observations, where one value is 1,000,000)
+- **Data**: $\{0, 0, \ldots, 0, 1,000,000\}$ (with 1,000,000 observations, where one value is 1,000,000)
 
 **Average Calculation**:
-\[
+$$
 \text{Mean} = \frac{1}{1,000,000} \left( \sum_{i=1}^{999,999} 0 + 1,000,000 \right) = \frac{1,000,000}{1,000,000} = 1
-\]
+$$
 The mean is 1, but most of the data is concentrated in the extreme value.
 
 **Impact**: In real-world scenarios, this is similar to having billions of people with negligible wealth and a few billionaires whose wealth skews the average.
@@ -197,7 +197,7 @@ The mean is 1, but most of the data is concentrated in the extreme value.
 
 Let’s compare the normal distribution (Gaussian distribution) with a fat-tailed distribution:
 
-- **Normal Distribution**: For a normal distribution, about 68% of observations lie within one standard deviation (\(\sigma\)) from the mean, and 95% lie within two standard deviations.
+- **Normal Distribution**: For a normal distribution, about 68% of observations lie within one standard deviation ($\sigma$) from the mean, and 95% lie within two standard deviations.
 
 - **Fat-Tailed Distribution**: In a fat-tailed distribution, extreme values (beyond one standard deviation) become less frequent, but those that do occur have a significant impact. This means:
 
@@ -228,15 +228,15 @@ The Law of Large Numbers is a foundational principle in probability and statisti
 
 #### **Formal Definition**
 
-Let \( X_1, X_2, \ldots, X_n \) be a sequence of independent and identically distributed (i.i.d.) random variables with a finite mean \( \mu \). The Law of Large Numbers states that the sample average \( \bar{X}_n \) converges to the true mean \( \mu \) as \( n \) approaches infinity:
+Let $X_1, X_2, \ldots, X_n$ be a sequence of independent and identically distributed (i.i.d.) random variables with a finite mean $\mu$. The Law of Large Numbers states that the sample average $\bar{X}_n$ converges to the true mean $\mu$ as $n$ approaches infinity:
 
-\[
+$$
 \bar{X}_n = \frac{1}{n} \sum_{i=1}^{n} X_i
-\]
+$$
 
-\[
+$$
 \lim_{n \to \infty} \bar{X}_n = \mu
-\]
+$$
 
 #### **Why is LLN Important?**
 
@@ -247,27 +247,27 @@ Let \( X_1, X_2, \ldots, X_n \) be a sequence of independent and identically dis
 
 Consider a simple example of tossing a fair coin:
 
-- **Single Toss**: The outcome is either 0 (tails) or 1 (heads), with a probability \( p = 0.5 \).
+- **Single Toss**: The outcome is either 0 (tails) or 1 (heads), with a probability $p = 0.5$.
 
-- **Expectation**: The expected value for each toss is \( \mu = 0.5 \).
+- **Expectation**: The expected value for each toss is $\mu = 0.5$.
 
 - **Average of Tosses**: If you toss the coin many times and calculate the average number of heads, this average will get closer to 0.5 as the number of tosses increases.
 
   **Calculations**:
   - **For a small number of tosses (e.g., 2)**:
-    \[
+    $$
     \text{Possible Outcomes} = \{0, 1, 2\}
-    \]
+    $$
   - **Standard Deviation**:
-    \[
+    $$
     \text{SD} = \sqrt{p(1 - p)} = \sqrt{0.5 \times 0.5} = 0.5
-    \]
+    $$
   - **For a large number of tosses**:
-    \[
+    $$
     \text{Standard Deviation} = \frac{\text{SD}}{\sqrt{n}} = \frac{0.5}{\sqrt{n}}
-    \]
+    $$
 
-As \( n \) increases, the standard deviation of the average decreases, meaning the average becomes more stable.
+As $n$ increases, the standard deviation of the average decreases, meaning the average becomes more stable.
 
 #### **Fat Tails and Limitations**
 
@@ -281,10 +281,10 @@ While the LLN works well for many distributions, it can be problematic in the pr
 #### **Comparing Distributions**
 
 **Gaussian Distribution**:
-- **Standard Deviation Drop**: For a normal distribution, the standard deviation of the sample mean decreases as \( \sqrt{n} \), making the sample mean more stable with more observations.
+- **Standard Deviation Drop**: For a normal distribution, the standard deviation of the sample mean decreases as $\sqrt{n}$, making the sample mean more stable with more observations.
 
 **Pareto Distribution**:
-- **Mean Deviation**: In a Pareto distribution, the mean deviation does not decrease at the same rate. You may need an enormous number of observations (e.g., \( 10^{13} \)) to achieve similar stability to that of a Gaussian distribution with fewer observations.
+- **Mean Deviation**: In a Pareto distribution, the mean deviation does not decrease at the same rate. You may need an enormous number of observations (e.g., $10^{13}$) to achieve similar stability to that of a Gaussian distribution with fewer observations.
 
 #### **Summary**
 
@@ -303,15 +303,15 @@ Welcome back! In this lesson, we'll cover the **Central Limit Theorem (CLT)**—
 The Central Limit Theorem states that when you take the sum (or average) of a large number of independent and identically distributed (i.i.d.) random variables, the distribution of the sum (or average) approaches a normal (Gaussian) distribution, regardless of the shape of the original distribution, provided that the original distribution has a finite variance.
 
 **Formally:**
-- **If** \( X_1, X_2, \ldots, X_n \) are i.i.d. random variables with mean \( \mu \) and variance \( \sigma^2 \),
-- **Then** the distribution of the sample mean \( \bar{X}_n = \frac{1}{n} \sum_{i=1}^{n} X_i \) approaches a normal distribution as \( n \) becomes large.
+- **If** $X_1, X_2, \ldots, X_n$ are i.i.d. random variables with mean $\mu$ and variance $\sigma^2$,
+- **Then** the distribution of the sample mean $\bar{X}_n = \frac{1}{n} \sum_{i=1}^{n} X_i$ approaches a normal distribution as $n$ becomes large.
 
 **Mathematically:**
-\[
+$$
 \bar{X}_n \approx \mathcal{N} \left(\mu, \frac{\sigma^2}{n}\right)
-\]
+$$
 
-where \( \mathcal{N} \) denotes the normal distribution.
+where $\mathcal{N}$ denotes the normal distribution.
 
 #### **Why is CLT Important?**
 
@@ -327,7 +327,7 @@ Let’s start with the simplest case—a uniform distribution:
 
 - **Uniform Distribution**: All outcomes are equally likely in a given range. For instance, if we have a discrete uniform distribution between 0 and 10, each integer in this range is equally likely.
 
-  - **Example**: Suppose we have 10 random variables \( X_1, X_2, \ldots, X_{10} \) uniformly distributed between 0 and 10. When we sum these variables:
+  - **Example**: Suppose we have 10 random variables $X_1, X_2, \ldots, X_{10}$ uniformly distributed between 0 and 10. When we sum these variables:
 
     - **Single Observation**: Flat distribution.
     - **Sum of Two Observations**: Results in a triangular distribution.
@@ -339,11 +339,11 @@ Let’s start with the simplest case—a uniform distribution:
 
 Now consider a binomial distribution, which results from a series of Bernoulli trials (e.g., coin tosses):
 
-- **Bernoulli Trials**: Outcomes are either 0 or 1 (e.g., heads or tails), with a probability \( p \) for heads.
+- **Bernoulli Trials**: Outcomes are either 0 or 1 (e.g., heads or tails), with a probability $p$ for heads.
 
   - **Example**: If you sum 10 Bernoulli trials, the resulting distribution starts to resemble a normal distribution.
 
-  **Visual**: Adding more trials refines the bell curve shape, demonstrating how the binomial distribution approximates a normal distribution as \( n \) increases.
+  **Visual**: Adding more trials refines the bell curve shape, demonstrating how the binomial distribution approximates a normal distribution as $n$ increases.
 
 **3. Pareto Distribution**
 
@@ -372,54 +372,54 @@ Welcome back! Today, we're diving into the concept of **correlation**. While it'
 
 #### 1. **What is Correlation?**
 
-Correlation measures the linear relationship between two variables, \(X\) and \(Y\). It quantifies how changes in one variable are associated with changes in another. Mathematically, the Pearson correlation coefficient \(\rho\) between two variables \(X\) and \(Y\) is defined as:
+Correlation measures the linear relationship between two variables, $X$ and $Y$. It quantifies how changes in one variable are associated with changes in another. Mathematically, the Pearson correlation coefficient $\rho$ between two variables $X$ and $Y$ is defined as:
 
-\[
+$$
 \rho_{XY} = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y} = \frac{\mathbb{E}[(X - \mu_X)(Y - \mu_Y)]}{\sqrt{\mathbb{E}[(X - \mu_X)^2]} \cdot \sqrt{\mathbb{E}[(Y - \mu_Y)^2]}}
-\]
+$$
 
 Where:
-- \(\mathbb{E}\) is the expectation operator.
-- \(\mu_X\) and \(\mu_Y\) are the means of \(X\) and \(Y\), respectively.
-- \(\sigma_X\) and \(\sigma_Y\) are the standard deviations of \(X\) and \(Y\).
-- \(\text{Cov}(X, Y)\) is the covariance of \(X\) and \(Y\).
+- $\mathbb{E}$ is the expectation operator.
+- $\mu_X$ and $\mu_Y$ are the means of $X$ and $Y$, respectively.
+- $\sigma_X$ and $\sigma_Y$ are the standard deviations of $X$ and $Y$.
+- $\text{Cov}(X, Y)$ is the covariance of $X$ and $Y$.
 
 #### 2. **Correlation vs. Dependence**
 
 A common misconception is that correlation fully captures the dependence between two variables. However, correlation only measures linear dependence. There are cases where two variables are highly dependent, but their correlation is zero. Consider the following example:
 
 - **Example: Non-linear Dependence**
-    - If \(Y = X\) for \(X \geq 0\) and \(Y = -X\) for \(X < 0\), the correlation \(\rho_{XY} = 0\). However, \(X\) and \(Y\) are perfectly dependent in a non-linear way.
+    - If $Y = X$ for $X \geq 0$ and $Y = -X$ for $X < 0$, the correlation $\rho_{XY} = 0$. However, $X$ and $Y$ are perfectly dependent in a non-linear way.
 
 This shows that while correlation is useful in simple, linear models, it fails to capture more complex dependencies.
 
 #### 3. **Where Does Correlation Work?**
 
-Correlation is effective in simple, linear models where \(Y\) can be expressed as a linear function of \(X\):
+Correlation is effective in simple, linear models where $Y$ can be expressed as a linear function of $X$:
 
-\[
+$$
 Y = \beta X + \epsilon
-\]
+$$
 
-Here, \(\beta\) is a constant, and \(\epsilon\) is noise. If we normalize the variables (subtract the mean and divide by the standard deviation), the correlation \(\rho\) corresponds to \(\beta\).
+Here, $\beta$ is a constant, and $\epsilon$ is noise. If we normalize the variables (subtract the mean and divide by the standard deviation), the correlation $\rho$ corresponds to $\beta$.
 
-However, this measure becomes less informative as the noise increases or the relationship between \(X\) and \(Y\) becomes non-linear.
+However, this measure becomes less informative as the noise increases or the relationship between $X$ and $Y$ becomes non-linear.
 
 #### 4. **Correlation is Not Additive**
 
-Another critical limitation of correlation is its non-additivity. Suppose you have two variables, \(X\) and \(Y\), with a correlation of 0.5 (\(\rho_{XY} = 0.5\)). If you break down the correlation within specific quadrants (e.g., when both \(X\) and \(Y\) are positive), the local correlations can be very different from the global correlation. This subadditivity can lead to misinterpretations.
+Another critical limitation of correlation is its non-additivity. Suppose you have two variables, $X$ and $Y$, with a correlation of 0.5 ($\rho_{XY} = 0.5$). If you break down the correlation within specific quadrants (e.g., when both $X$ and $Y$ are positive), the local correlations can be very different from the global correlation. This subadditivity can lead to misinterpretations.
 
 - **Example: Correlation in Quadrants**
-    - Imagine \(X\) and \(Y\) are both positive or both negative. The local correlation might be 0.26, but this does not simply add up to the global correlation of 0.5. This non-additivity is a significant limitation when using correlation in more complex scenarios.
+    - Imagine $X$ and $Y$ are both positive or both negative. The local correlation might be 0.26, but this does not simply add up to the global correlation of 0.5. This non-additivity is a significant limitation when using correlation in more complex scenarios.
 
 #### 5. **Visualizing Correlation**
 
 To truly understand correlation, it's often better to visualize the data. Let's look at how correlation changes with different values:
 
-- **Zero Correlation (\(\rho = 0\))**: Points are scattered with no clear linear pattern.
-- **Moderate Correlation (\(\rho = 0.5\))**: A weak linear trend begins to appear.
-- **High Correlation (\(\rho = 0.8\))**: A strong linear pattern is visible, but still, it's not perfect.
-- **Perfect Correlation (\(\rho = 1\))**: Points lie exactly on a straight line.
+- **Zero Correlation ($\rho = 0$)**: Points are scattered with no clear linear pattern.
+- **Moderate Correlation ($\rho = 0.5$)**: A weak linear trend begins to appear.
+- **High Correlation ($\rho = 0.8$)**: A strong linear pattern is visible, but still, it's not perfect.
+- **Perfect Correlation ($\rho = 1$)**: Points lie exactly on a straight line.
 
 Interestingly, a correlation of 0.5 is closer to 0 than it is to 1, indicating that even moderate correlations don't imply a strong linear relationship.
 
@@ -430,11 +430,11 @@ For non-linear relationships, **mutual information** is a more powerful metric. 
 - **Mutual Information Definition**:
     - Mutual information measures the amount of information obtained about one random variable through another. It's based on the concept of entropy and is calculated as:
 
-    \[
+    $$
     I(X; Y) = \sum_{y \in Y} \sum_{x \in X} p(x, y) \log \left(\frac{p(x, y)}{p(x)p(y)}\right)
-    \]
+    $$
 
-    Where \(p(x, y)\) is the joint probability distribution of \(X\) and \(Y\), and \(p(x)\), \(p(y)\) are the marginal distributions.
+    Where $p(x, y)$ is the joint probability distribution of $X$ and $Y$, and $p(x)$, $p(y)$ are the marginal distributions.
 
 Mutual information is particularly useful in fields like genetics, where complex, non-linear relationships are common.
 
@@ -455,14 +455,14 @@ This lecture dives into two major points regarding how people are often misled b
 
 ### 1. **Metrics as Random Variables**
    - **Metrics Aren't Deterministic**: Metrics like correlation aren't fixed values but random variables that can vary with each sample. This randomness means that what you observe might not represent the true relationship between variables.
-   - **Example with Correlation**: Consider two independent, uncorrelated variables \( X \) and \( Y \). If you repeatedly sample these and calculate the Pearson correlation, you'll find it varies widely from sample to sample, even though the true correlation is zero. This variability can lead to false confidence in a relationship that doesn't actually exist.
+   - **Example with Correlation**: Consider two independent, uncorrelated variables $X$ and $Y$. If you repeatedly sample these and calculate the Pearson correlation, you'll find it varies widely from sample to sample, even though the true correlation is zero. This variability can lead to false confidence in a relationship that doesn't actually exist.
 
 ### 2. **Gaming Metrics**
    - **Exploiting the Upper Bound**: Researchers might exploit the randomness of metrics by cherry-picking the highest correlation out of many tests. This is especially problematic when dealing with a large number of variables (high dimensionality), where the chance of finding a seemingly significant correlation purely by chance increases.
    - **Example with Spurious Correlations**: The lecture provides humorous but serious examples, like correlating the number of films Nicolas Cage appeared in with the number of people who drowned in pools. Such spurious correlations arise when researchers, knowingly or unknowingly, pick the highest correlations from a large set of data, mistaking noise for meaningful relationships.
 
 ### **Real-World Implications**
-   - **Dimensionality Problem**: As the number of variables \( P \) increases, the number of possible correlations grows quadratically (approximately \( P^2/2 \)). This explosion in possible correlations increases the likelihood of finding spurious relationships unless the sample size \( N \) is sufficiently large to mitigate this effect.
+   - **Dimensionality Problem**: As the number of variables $P$ increases, the number of possible correlations grows quadratically (approximately $P^2/2$). This explosion in possible correlations increases the likelihood of finding spurious relationships unless the sample size $N$ is sufficiently large to mitigate this effect.
    - **Misleading Research**: Fields like psychology or political science, which often rely on observational data, can produce misleading results when they fail to account for the randomness and spuriousness inherent in their metrics. The lecture suggests that many studies in these fields might be based on shaky statistical grounds, leading to "garbage" results.
 
 ### **Conclusion**
@@ -478,7 +478,7 @@ This lecture tackles the concept of the p-value, highlighting its limitations an
    - **Stochastic Nature of P-Values**: P-values are random variables, which means they can vary significantly with different samples, even when the underlying conditions are the same. This variability implies that a single p-value from one experiment may not reliably indicate the true probability of observing the result by chance.
 
 ### **2. The Illusion of Determinism**
-   - **Misunderstanding Sample Size**: When calculating a statistic like the mean, researchers often assume that the sample size \( n \) accounts for all uncertainties, especially when using metrics like the z-score. However, this isn't true. The scaling by the square root of \( n \) doesn't eliminate all the subtleties, and the resulting p-value can still be highly variable.
+   - **Misunderstanding Sample Size**: When calculating a statistic like the mean, researchers often assume that the sample size $n$ accounts for all uncertainties, especially when using metrics like the z-score. However, this isn't true. The scaling by the square root of $n$ doesn't eliminate all the subtleties, and the resulting p-value can still be highly variable.
    - **False Confidence**: The lecture emphasizes that p-values can create an illusion of certainty. For instance, even if the true p-value is 0.11 (indicating a weak result), running multiple experiments might yield a p-value of 0.01 by chance, leading researchers to falsely believe they have found something significant.
 
 ### **3. Gaming P-Values**
@@ -526,10 +526,10 @@ The lecture provides an overview of power laws, the Pareto distribution, and the
   - The expected value conditional on exceeding a threshold remains a multiple of that threshold.
 
 ### **4. Mathematical Representation of Power Laws**
-- **Formula**: The probability of exceeding a value \( x \) in a power law is proportional to \( x^{-\alpha} \).
-  - Log-log plots of these distributions yield a straight line with a slope of \( -\alpha \).
-  - The lower the \( \alpha \), the fatter the tail of the distribution.
-  - Special cases: \( \alpha = 1 \) (no mean), \( \alpha = 2 \) (no variance).
+- **Formula**: The probability of exceeding a value $x$ in a power law is proportional to $x^{-\alpha}$.
+  - Log-log plots of these distributions yield a straight line with a slope of $-\alpha$.
+  - The lower the $\alpha$, the fatter the tail of the distribution.
+  - Special cases: $\alpha = 1$ (no mean), $\alpha = 2$ (no variance).
 
 ### **5. Implications for Statistics and Real-World Applications**
 - Traditional statistical measures like mean, variance, and kurtosis lose their significance in power law distributions.
@@ -573,42 +573,42 @@ When we say a phenomenon has "fat tails," it means that rare events play a signi
 
 A common way to describe fat-tailed distributions is through **power laws**. The power law is often represented as:
 
-\[ P(X > x) \propto x^{-\alpha} \]
+$$ P(X > x) \propto x^{-\alpha} $$
 
-Here, \(\alpha\) is a crucial parameter:
-- The **smaller** the \(\alpha\), the **fatter** the tail.
+Here, $\alpha$ is a crucial parameter:
+- The **smaller** the $\alpha$, the **fatter** the tail.
 - The fatter the tail, the more significant the contribution of rare events.
 
 ### 3. **Survival Function and Its Importance**
 
-The **survival function** (also known as the **tail distribution function**) tells us the probability that a value exceeds a certain threshold \(K\). For a power law distribution, the survival function \(S(x)\) is given by:
+The **survival function** (also known as the **tail distribution function**) tells us the probability that a value exceeds a certain threshold $K$. For a power law distribution, the survival function $S(x)$ is given by:
 
-\[ S(x) = \left(\frac{K}{x}\right)^\alpha \]
+$$ S(x) = \left(\frac{K}{x}\right)^\alpha $$
 
 Where:
-- \(K\) is the threshold value.
-- \(x\) is the value above the threshold.
-- \(\alpha\) is the power law exponent.
+- $K$ is the threshold value.
+- $x$ is the value above the threshold.
+- $\alpha$ is the power law exponent.
 
 This function helps us understand how likely it is to observe extreme events.
 
 ### 4. **Inverse Survival Function**
 
-One powerful property of power laws is that we can **invert** the survival function to find thresholds for given probabilities. The inverse survival function \(K(p)\) gives us the value of \(x\) such that the probability of exceeding it is \(p\):
+One powerful property of power laws is that we can **invert** the survival function to find thresholds for given probabilities. The inverse survival function $K(p)$ gives us the value of $x$ such that the probability of exceeding it is $p$:
 
-\[ K(p) = \left(\frac{1}{p}\right)^{1/\alpha} \]
+$$ K(p) = \left(\frac{1}{p}\right)^{1/\alpha} $$
 
 ### 5. **Practical Application: The 80/20 Rule**
 
 A well-known principle, the **80/20 rule** (Pareto Principle), states that 20% of the causes lead to 80% of the effects. We can model this with a power law distribution.
 
 For example:
-- If \(\alpha = 1.5\), then approximately 20% of the population holds 80% of the wealth.
+- If $\alpha = 1.5$, then approximately 20% of the population holds 80% of the wealth.
 - Similarly, a much smaller fraction, say 0.1%, could hold a significantly larger portion of the wealth.
 
-Using the survival function and its inverse, we can compute specific values. For instance, let's compute for \(\alpha = 1.5\):
-- \(P(X > x)\) where \(x = 1\%\) of the population.
-- If \( \alpha = 1.5 \), 1% of the population might control about 55% of the wealth.
+Using the survival function and its inverse, we can compute specific values. For instance, let's compute for $\alpha = 1.5$:
+- $P(X > x)$ where $x = 1\%$ of the population.
+- If $\alpha = 1.5$, 1% of the population might control about 55% of the wealth.
 
 ### 6. **Financial Markets Example**
 
@@ -625,13 +625,13 @@ Fat-tailed distributions and power laws highlight the importance of rare events 
 ### Key Equations Summary
 
 1. **Power Law Distribution:**
-   \[ P(X > x) \propto x^{-\alpha} \]
+   $$ P(X > x) \propto x^{-\alpha} $$
 
 2. **Survival Function:**
-   \[ S(x) = \left(\frac{K}{x}\right)^\alpha \]
+   $$ S(x) = \left(\frac{K}{x}\right)^\alpha $$
 
 3. **Inverse Survival Function:**
-   \[ K(p) = \left(\frac{1}{p}\right)^{1/\alpha} \]
+   $$ K(p) = \left(\frac{1}{p}\right)^{1/\alpha} $$
 
 These concepts are critical in fields such as finance, economics, and risk management, where understanding the impact of rare events can be the difference between success and failure.
 
@@ -743,8 +743,8 @@ If you combine these groups without considering the age factor, you might get a 
 - **Total Unvaccinated**: 11,000 people with 32 deaths.
 
 **Mortality Rate**:
-- Vaccinated: \( \frac{201}{21,000} \approx 0.96\% \)
-- Unvaccinated: \( \frac{32}{11,000} \approx 0.29\% \)
+- Vaccinated: $\frac{201}{21,000} \approx 0.96\%$
+- Unvaccinated: $\frac{32}{11,000} \approx 0.29\%$
 
 This combined data wrongly suggests that vaccinated individuals have a higher mortality rate, ignoring the fact that the vaccinated group has more older individuals who are at a higher risk of death due to age, not the vaccine.
 
@@ -842,16 +842,16 @@ Logarithms address the problems with percentage calculations:
 
 1. **Continuous Compounding:**
    - When you model returns over time with continuous compounding, the formula becomes:
-     \[
+     $$
      S(t) = S(0) \cdot e^{rt}
-     \]
-     where \(S(t)\) is the value at time \(t\), \(S(0)\) is the initial value, \(r\) is the continuous return, and \(e\) is the base of the natural logarithm.
+     $$
+     where $S(t)$ is the value at time $t$, $S(0)$ is the initial value, $r$ is the continuous return, and $e$ is the base of the natural logarithm.
 
 2. **Additivity:**
-   - Taking the logarithm of returns ensures that they are additive. If \(S(t) = S(0) \cdot e^{rt}\), then:
-     \[
+   - Taking the logarithm of returns ensures that they are additive. If $S(t) = S(0) \cdot e^{rt}$, then:
+     $$
      \log\left(\frac{S(t)}{S(0)}\right) = rt
-     \]
+     $$
      This form allows for straightforward summation and comparison of returns over different periods.
 
 ### Application to Maximum Drawdown
@@ -859,9 +859,9 @@ Logarithms address the problems with percentage calculations:
 When calculating maximum drawdown using logarithms:
 
 - **Logarithmic Drawdown:**
-  \[
+  $$
   \text{Logarithmic Drawdown} = \log\left(\frac{\text{Peak Value}}{\text{Trough Value}}\right)
-  \]
+  $$
 - This ensures that the drawdowns are comparable and correctly represent the risk over different periods.
 
 ### Summary
@@ -966,38 +966,38 @@ In our work on violence and related topics, Professor Cherilo and I developed a 
 
 ### Power Laws and Their Limits
 A true power law has the form:
-\[ P(x) \propto x^{-\alpha} \]
-where \( \alpha \) is the exponent. However, real-world data may not always fit this ideal. For example, a distribution with lower bound \( l \) and upper bound \( h \) might have a power-law-like tail but is not strictly a power law. 
+$$ P(x) \propto x^{-\alpha} $$
+where $\alpha$ is the exponent. However, real-world data may not always fit this ideal. For example, a distribution with lower bound $l$ and upper bound $h$ might have a power-law-like tail but is not strictly a power law. 
 
 ### The Transformation Function
-To address this, we use a transformation function \( y = f(x) \) to map the original data \( x \) into a new variable \( y \) with different support:
-\[ f(x) = l - (h - l) \frac{\log(\log(h - x))}{\log(h - l)} \]
+To address this, we use a transformation function $y = f(x)$ to map the original data $x$ into a new variable $y$ with different support:
+$$ f(x) = l - (h - l) \frac{\log(\log(h - x))}{\log(h - l)} $$
 where:
-- \( l \) is the lower bound.
-- \( h \) is the upper bound.
-- \( \log \) denotes the logarithm function, and it can use any base.
+- $l$ is the lower bound.
+- $h$ is the upper bound.
+- $\log$ denotes the logarithm function, and it can use any base.
 
 ### Example with Population Data
 Consider the population of the world, which is approximately 7 billion. If we apply the transformation:
-- For values up to about 3 billion, the function \( f(x) \) will approximate the population distribution.
-- As \( x \) approaches \( h \), the function \( f(x) \) approaches infinity.
+- For values up to about 3 billion, the function $f(x)$ will approximate the population distribution.
+- As $x$ approaches $h$, the function $f(x)$ approaches infinity.
 
 ### Relation to Log-Normal Distribution
 The approach is similar to the log-normal distribution used in finance:
 - **Stock Price Transformation**: Logarithmic returns of stock prices are often modeled using a normal distribution.
 
-For a random variable \( x \) following a normal distribution \( N(\mu, \sigma^2) \):
-- The log return is often used to model \( x \), which also follows a normal distribution but with different parameters.
+For a random variable $x$ following a normal distribution $N(\mu, \sigma^2)$:
+- The log return is often used to model $x$, which also follows a normal distribution but with different parameters.
 
 ### Parameter Interpretation
-For the transformed variable \( y \):
-- The mean \( \mu_y \) of \( y \) is given by:
-\[ \mu_y = e^{\mu + \frac{1}{2}\sigma^2} \]
-- The variance \( \sigma_y^2 \) is an exponential function of \( \sigma^2 \) with some shift.
+For the transformed variable $y$:
+- The mean $\mu_y$ of $y$ is given by:
+$$ \mu_y = e^{\mu + \frac{1}{2}\sigma^2} $$
+- The variance $\sigma_y^2$ is an exponential function of $\sigma^2$ with some shift.
 
 ### Fitting Power Laws
-By fitting the power law to the transformed variable \( y \), we obtain a model that approximates the power law more accurately for large values:
-- The analytics performed on \( y \) are similar to those on \( x \), but with adjustments for the transformed support.
+By fitting the power law to the transformed variable $y$, we obtain a model that approximates the power law more accurately for large values:
+- The analytics performed on $y$ are similar to those on $x$, but with adjustments for the transformed support.
 
 ### Summary
 The dual distribution method allows us to handle distributions that approximate power laws but have finite bounds. The transformation helps map one distribution to another, making it possible to analyze and compare them effectively. The conditions for this transformation to work were thoroughly examined to ensure accuracy.
@@ -1093,19 +1093,19 @@ Consider a fair coin toss with two possible outcomes: Heads (H) and Tails (T).
 
 - **Entropy (H)** for a discrete distribution is defined as:
   
-  \[
+  $$
   H(P) = -\sum_{i} p_i \log p_i
-  \]
+  $$
 
 - For a fair coin:
   
-  \[
+  $$
   P(H) = P(T) = 0.5
-  \]
+  $$
   
-  \[
-  H(P) = -[0.5 \log 0.5 + 0.5 \log 0.5] = \log 2
-  \]
+  $$
+H(P) = -[0.5 \log 0.5 + 0.5 \log 0.5] = \log 2
+$$
 
 This distribution maximizes entropy, representing maximum uncertainty or ignorance given the constraint that the probabilities sum to 1.
 
@@ -1126,23 +1126,23 @@ Imagine a surgeon performing 60 transplant surgeries. Without prior data, we aim
    
    Assume the number of errors follows a **Binomial Distribution**:
    
-   \[
+   $$
    X \sim \text{Binomial}(n=60, p)
-   \]
+   $$
    
-   where \( p \) is the error rate.
+   where $p$ is the error rate.
 
 2. **Determine the Fair Error Rate:**
    
-   To find a probability \( p \) such that there's a 50% chance the true error rate is above or below \( p \), we seek the **median** of the binomial distribution.
+   To find a probability $p$ such that there's a 50% chance the true error rate is above or below $p$, we seek the **median** of the binomial distribution.
 
-   Mathematically, find \( p \) where:
+   Mathematically, find $p$ where:
    
-   \[
+   $$
    P(X \leq k) = 0.5
-   \]
+   $$
    
-   where \( k \) is the observed number of errors.
+   where $k$ is the observed number of errors.
 
 3. **Connecting to Bayesian Probability:**
    
@@ -1154,18 +1154,18 @@ Imagine a surgeon performing 60 transplant surgeries. Without prior data, we aim
 
 The probability mass function (PMF) of a binomial distribution is:
 
-\[
+$$
 P(X = k) = \binom{n}{k} p^k (1 - p)^{n - k}
-\]
+$$
 
 where:
-- \( n \) = number of trials (e.g., surgeries)
-- \( k \) = number of successes (e.g., errors)
-- \( p \) = probability of success on a single trial
+- $n$ = number of trials (e.g., surgeries)
+- $k$ = number of successes (e.g., errors)
+- $p$ = probability of success on a single trial
 
 #### Finding the Median Probability
 
-To find the median probability \( p \) such that \( P(X \leq k) = 0.5 \), we typically use numerical methods or inverse functions, as closed-form solutions are rare.
+To find the median probability $p$ such that $P(X \leq k) = 0.5$, we typically use numerical methods or inverse functions, as closed-form solutions are rare.
 
 **Relation to Beta Distribution:**
 
@@ -1189,29 +1189,29 @@ Suppose a surgeon has performed 60 surgeries with zero errors observed.
 
 1. **Define the Objective:**
    
-   Find \( p \) such that:
+   Find $p$ such that:
    
-   \[
+   $$
    P(X = 0) = (1 - p)^{60} = 0.5
-   \]
+   $$
 
-2. **Solve for \( p \):**
+2. **Solve for $p$:**
    
-   \[
+   $$
    (1 - p)^{60} = 0.5
-   \]
+   $$
    
-   \[
+   $$
    \ln(1 - p) = \frac{\ln(0.5)}{60}
-   \]
+   $$
    
-   \[
+   $$
    1 - p = e^{\frac{\ln(0.5)}{60}} \approx e^{-0.01155} \approx 0.9885
-   \]
+   $$
    
-   \[
+   $$
    p \approx 1 - 0.9885 = 0.0115 \text{ or } 1.15\%
-   \]
+   $$
 
 This **fair error rate** of 1.15% is neither zero (as naive frequency would suggest) nor based on an arbitrary Bayesian prior, but rather derived from the principle of maximum ignorance.
 
@@ -1229,7 +1229,7 @@ The exploration of maximum ignorance probability has influenced Bayesian approac
 
 #### Example: Bayesian Coverage
 
-A Bayesian might use a Beta prior to model the error rate \( p \). The posterior distribution, given observed data, allows for the construction of credible intervals with desired coverage properties.
+A Bayesian might use a Beta prior to model the error rate $p$. The posterior distribution, given observed data, allows for the construction of credible intervals with desired coverage properties.
 
 ### 7. Practical Example: Estimating Die Probabilities
 
@@ -1244,11 +1244,11 @@ Determine the most likely probability distribution for the die's outcomes based 
 1. **Define Constraints:**
    
    - The die has outcomes 1 through 6.
-   - The expected value \( E[X] = 4.5 \).
+   - The expected value $E[X] = 4.5$.
 
 2. **Maximize Entropy:**
    
-   Use the maximum entropy principle to find the distribution \( P(X = x) \) that maximizes entropy subject to the given constraints.
+   Use the maximum entropy principle to find the distribution $P(X = x)$ that maximizes entropy subject to the given constraints.
 
 3. **Resulting Distribution:**
    
@@ -1303,15 +1303,16 @@ Let me try to break down the key points more clearly:
 
 ### 1. **Positive Definite Matrices for Simulation**
    - **Purpose**: Positive definite matrices are crucial for simulations, especially in generating data for Monte Carlo simulations. These matrices are often used to represent correlation or covariance structures between variables.
-   - **Challenge**: As the dimensionality of the matrix increases (i.e., the number of variables, \( n \), becomes large), constructing and calibrating these matrices becomes more difficult.
+   - **Challenge**: As the dimensionality of the matrix increases (i.e., the number of variables, $n$, becomes large), constructing and calibrating these matrices becomes more difficult.
 
 ### 2. **Impact of Sample Size on Correlation**
-   - **Small Sample Size**: When the sample size is small, the observed correlations between variables can be highly variable, even if the true correlation is zero. This variability is more pronounced when the sample size is very small (e.g., \( n = 10 \)).
-   - **Large Sample Size**: As the sample size increases (e.g., \( n = 50 \), \( n = 100 \)), the variability in the observed correlations decreases, and they start to converge towards the true correlation, which could be zero for uncorrelated variables. In the limit, as the sample size approaches infinity, the observed correlations for uncorrelated variables approach zero.
+   - **Small Sample Size**: When the sample size is small, the observed correlations between variables can be highly variable, even if the true correlation is zero. This variability is more pronounced when the sample size is very small (e.g., $n = 10$).
+   - **Large Sample Size**: As the sample size increases (e.g., $n = 50$, $n = 100$), the variability in the observed correlations decreases, and they start to converge towards the true correlation, which could be zero for uncorrelated variables. In the limit, as the sample size approaches infinity, the observed correlations for uncorrelated variables approach zero.
 
 ### 3. **Constructing a Positive Definite Matrix**
    - **Method**: One approach you mentioned is to generate a matrix using samples from a distribution with high variance and fat tails, such as a chi-square distribution, which is related to the Student's t-distribution with a low degree of freedom.
-   - **Checking Positive Definiteness**: After generating the matrix, you check if it is positive definite. If it is, you analyze its dimensionality using Principal Component Analysis (PCA).
+   - **Checking Positive Definiteness**: After generating the matrix, you check if it is positive 
+   . If it is, you analyze its dimensionality using Principal Component Analysis (PCA).
 
 ### 4. **Dimensionality and PCA**
    - **PCA and Variance**: When you perform PCA on the matrix, the first principal component (PC) often explains a significant portion of the variance. In your example, the first PC explains 55% of the variance, which might indicate low dimensionality.
@@ -1348,7 +1349,7 @@ The "precautionary principle" and the dangers of genetic modification, particula
 ### 5. **Speed and Harm: The Risk of Fast Change**
    You touched on a mathematical idea where speed is related to harm in a **non-linear** way.
 
-   - Let's say we use a variable \( x \) to represent **speed** and \( f(x) \) to represent **harm**. As speed increases, the risk of harm doesn't just increase gradually—it **explodes exponentially**. For example:
+   - Let's say we use a variable $x$ to represent **speed** and $f(x)$ to represent **harm**. As speed increases, the risk of harm doesn't just increase gradually—it **explodes exponentially**. For example:
      - If you double your speed, your risk increases much more than twofold.
      - At a certain point, your risk becomes almost **certain** (probability = 1).
    
@@ -1379,24 +1380,28 @@ Bitcoin may evolve, but its current form presents unique challenges in pricing a
 
 #### Fundamental Concept
 
-In a rational market, the price of a security at time \( t \) can be calculated using the following formula:
+In a rational market, the price of a security at time $t$ can be calculated using the following formula:
 
-\[ P_t = \frac{C_{t+1} + E[P_{t+2}]}{1 + r_d} \]
+$$
+P_t = \frac{C_{t+1} + E[P_{t+2}]}{1 + r_d}
+$$
 
 Where:
-- \( C_{t+1} \) is the cash flow at time \( t+1 \)
-- \( E[P_{t+2}] \) is the expected price at time \( t+2 \)
-- \( r_d \) is the discount rate
+- $C_{t+1}$ is the cash flow at time $t+1$
+- $E[P_{t+2}]$ is the expected price at time $t+2$
+- $r_d$ is the discount rate
 
 This process involves recursively evaluating the security's future cash flows and discounting them to the present value.
 
 #### Rational Expectations
 
-Rational market participants would use a similar model to evaluate securities at future periods. For instance, at \( t+1 \):
+Rational market participants would use a similar model to evaluate securities at future periods. For instance, at $t+1$:
 
-\[ P_{t+1} = \frac{C_{t+2} + E[P_{t+3}]}{1 + r_d} \]
+$$
+P_{t+1} = \frac{C_{t+2} + E[P_{t+3}]}{1 + r_d}
+$$
 
-This implies that the price at \( t \) is essentially the discounted sum of expected future cash flows.
+This implies that the price at $t$ is essentially the discounted sum of expected future cash flows.
 
 ### Bitcoin's Unique Situation
 
@@ -1408,13 +1413,13 @@ Bitcoin presents a special case. It does not generate cash flows or dividends, a
 
 When considering an absorption barrier, the valuation model adjusts as follows:
 
-1. **Discount Rate Adjustment:** The discount rate \( r_d \) is modified to account for the probability of failure \( \pi \). The adjusted rate becomes:
+1. **Discount Rate Adjustment:** The discount rate $r_d$ is modified to account for the probability of failure $\pi$. The adjusted rate becomes:
 
-   \[ \frac{1 - \pi}{1 + r_d} \]
+   $$ \frac{1 - \pi}{1 + r_d} $$
 
-2. **Price Dynamics:** For Bitcoin's price \( P_t \) to remain positive, it must grow at a rate higher than \( r_d \), specifically at:
+2. **Price Dynamics:** For Bitcoin's price $P_t$ to remain positive, it must grow at a rate higher than $r_d$, specifically at:
 
-   \[ \text{Growth Rate} = 1 + r_d + \pi \]
+   $$ \text{Growth Rate} = 1 + r_d + \pi $$
 
    If Bitcoin's growth plateaus, it risks failing due to the inherent probability of technological or market shifts.
 
