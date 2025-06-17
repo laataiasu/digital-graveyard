@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 # [**Retirement accounts: IRAs and 401ks**](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/ira-401ks/v/traditional-iras)

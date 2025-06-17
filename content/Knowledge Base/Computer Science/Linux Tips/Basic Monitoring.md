@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 Basic monitoring in Linux involves keeping an eye on system resources, services, and logs to ensure the system is running smoothly. Here are some essential monitoring tasks and tools:

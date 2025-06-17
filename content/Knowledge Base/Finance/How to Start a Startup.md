@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 # Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)

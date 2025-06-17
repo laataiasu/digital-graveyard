@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 tags: economics
 ---
 The U.S. Dollar Index (DXY) is calculated using a weighted geometric mean of the dollar's value relative to a basket of six major currencies. Here's the detailed mathematical formula used to calculate the DXY:

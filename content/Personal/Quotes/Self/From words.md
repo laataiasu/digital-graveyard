@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 - Lebih baik menodongkan pisau ke arahku daripada bersikap seperti ini, karena hal paling buruk di dunia adalah memanfaatkan ketulusan hati orang lain

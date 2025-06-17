@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 1. **Bitcoin (BTC):** the original. According to the creator (or creators?) Satoshi Nakamoto, it was created to allow “online payments to be sent directly from one party to another without going through a financial institution.”

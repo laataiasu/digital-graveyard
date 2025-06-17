@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 # Manage Pod Scheduling in a Kubernetes Cluster by Using Taints and Tolerations (Guided)

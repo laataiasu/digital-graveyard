@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import re
 
-MIN_DATE = "1970-01-01T00:00:00Z"
+MIN_DATE = "1970-01-01"
 
 def process_markdown_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:

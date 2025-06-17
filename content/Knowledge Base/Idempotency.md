@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 **Idempotency** is a fundamental concept in [[Distributed Systems]], APIs, and fault-tolerant computing. Here's what it means and why it matters:

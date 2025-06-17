@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 # BLOCKCON - Day 2 (Oct 11) - Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant

@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 tags: economics
 ---
 SOFR, or the Secured Overnight Financing Rate, is a benchmark interest rate for dollar-denominated derivatives and loans. It is based on the cost of borrowing cash overnight collateralized by Treasury securities and is published by the Federal Reserve Bank of New York. Here are some key points about SOFR:

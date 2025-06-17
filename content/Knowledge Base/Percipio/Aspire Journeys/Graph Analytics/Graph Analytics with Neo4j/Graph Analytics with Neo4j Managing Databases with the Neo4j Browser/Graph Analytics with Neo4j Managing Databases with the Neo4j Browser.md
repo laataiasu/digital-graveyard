@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01T00:00:00Z
+date: 1970-01-01
 ---
 
 # Graph Analytics with Neo4j Managing Databases with the Neo4j Browser
