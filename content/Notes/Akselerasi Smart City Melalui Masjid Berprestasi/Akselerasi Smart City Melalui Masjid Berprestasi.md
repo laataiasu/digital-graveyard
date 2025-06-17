@@ -31,7 +31,7 @@ Pembuatan [[Social Credit System]] di tingkat individu dan Sistem Organisasi Mas
 
 #### Alur Diagram Sederhana
 
-![flow_chart.png](Akselerasi%20Smart%20City%20Melalui%20Masjid%20Berprestasi/flow_chart.png)
+![flow_chart](flow_chart.png)
 
 Penjelasan:
 
