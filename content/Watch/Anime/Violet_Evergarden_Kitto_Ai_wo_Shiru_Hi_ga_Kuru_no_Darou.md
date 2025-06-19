@@ -21,7 +21,7 @@ my_rewatching_ep: "0"
 my_discuss: "1"
 my_sns: "default"
 update_on_import: "0"
-title: "Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou"
+title: "Violet Evergarden: Kitto Ai wo Shiru Hi ga Kuru no Darou"
 date: "0000-00-00"
 ---
 
