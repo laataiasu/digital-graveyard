@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 Result from compounding interest = Modal (1+ bunga )^tahun

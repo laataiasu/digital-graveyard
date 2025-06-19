@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 1. “Kalau mau saling mengerti, lakukan saja setelah membuat lawan mengalami hal yang sama” (Yahiko, chapter 372)

@@ -1,5 +1,5 @@
 ---
-title: "Korupsi dalam Perspektif Pancasila"
+title: "Corruption from the Perspective of Pancasila"
 date: 2019-01-01
 tags: ["philosophy", "ethics", "corruption", "ideology"]
 ---

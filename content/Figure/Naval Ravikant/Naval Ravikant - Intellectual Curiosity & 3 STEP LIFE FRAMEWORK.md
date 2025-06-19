@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 # Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK

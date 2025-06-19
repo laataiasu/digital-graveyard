@@ -1,5 +1,5 @@
 ---
-title: "Apresiasi Film Logan"
+title: "Film Appreciation: Logan"
 date: 2020-01-01
 tags: ["film", "media"]
 ---

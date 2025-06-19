@@ -1,5 +1,5 @@
 ---
-title: "Isu Cloud computing pada Pembelajaran Jarak Jauh (PJJ)"
+title: "Cloud Computing Issues in Distance Learning (PJJ)"
 date: 2021-01-01
 tags: ["education", "cloud", "technology"]
 ---

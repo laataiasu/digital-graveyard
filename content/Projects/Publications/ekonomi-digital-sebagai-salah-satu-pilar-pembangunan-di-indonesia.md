@@ -1,5 +1,5 @@
 ---
-title: "Ekonomi Digital sebagai Salah Satu Pilar Pembangunan di Indonesia"
+title: "Digital Economy as One of the Pillars of Development in Indonesia"
 date: 2019-01-01
 tags: ["economy", "technology", "digital"]
 ---

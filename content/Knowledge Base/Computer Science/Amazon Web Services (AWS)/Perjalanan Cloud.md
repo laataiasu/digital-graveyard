@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 AWS Well-Architected Framework adalah layanan untuk mengevaluasi arsitektur yang Anda bangun terhadap keunggulan pada beberapa kategori atau disebut dengan pilar, di antaranya:

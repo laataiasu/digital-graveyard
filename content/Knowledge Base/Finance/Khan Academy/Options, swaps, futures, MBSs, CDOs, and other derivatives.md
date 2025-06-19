@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 # [**Forward and futures contracts**](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction)

@@ -1,5 +1,5 @@
 ---
-title: "Manajemen Layanan TI pada PT Tokopedia"
+title: "IT Service Management at PT Tokopedia"
 date: 2022-01-01
 tags: ["it management", "case study"]
 ---

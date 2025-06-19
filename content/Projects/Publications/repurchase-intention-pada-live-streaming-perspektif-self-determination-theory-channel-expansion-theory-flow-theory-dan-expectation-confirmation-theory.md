@@ -1,5 +1,5 @@
 ---
-title: "Repurchase Intention pada Live Streaming-Perspektif Self Determination Theory, Channel Expansion Theory, Flow Theory, dan Expectation Confirmation Theory"
+title: "Repurchase Intention in Live Streaming – Perspectives from Self-Determination Theory, Channel  Theory"
 date: 2021-01-01
 tags: ["ecommerce", "media", "marketing"]
 ---

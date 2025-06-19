@@ -1,5 +1,5 @@
 ---
-title: "Iceberg Phenoment pada Kasus Penanaman Ganja di Aceh "
+title: "The Iceberg Phenomenon in the Cannabis Cultivation Case in Aceh"
 date: 2020-01-01
 tags: ["drugs", "law"]
 ---

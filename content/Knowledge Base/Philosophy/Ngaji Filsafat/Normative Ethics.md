@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 publish_external: true
 ---
 [[Deontological Ethics]] : tindakan dinilai baik atau buruk berdasarkan apakah tindakan itu sesuai atau tidak dengan kewajiban (hukum)

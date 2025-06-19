@@ -5,7 +5,8 @@ tags:
 - essay
 title: After Arsjad Rasyid Endgame Podcast
 ---
-i imagine myself, goes traveling through all Indonesia. selfies.
+
+>insert my photos in all cities landmark in indonesia
 
 this why i prefer cities human-made more than natures god-made
 
@@ -16,7 +17,7 @@ this why i prefer cities human-made more than natures god-made
 - city has so much diversity. some accept it some dont. individuality is embraced.
 
 - [[Benoit Mandelbrot]]'s [[Fractal|fractalian]] at first is elegant, but some degraded or devaluing the human part of development. 
-- 2-bit, square, aristotlian, minecraft graphic is perfect. surely cloud <is not sphered>, ** and so on. but god-made is already perfect. they lack of appreciation to the process. 
+- 2-bit, square, aristotlian, minecraft graphic is perfect. surely cloud is not sphered, ** and so on. but god-made is already perfect. they lack of appreciation to the process. 
 - al ghazali scepticism to science at that time is comprehensible, since at that time they follow blindly science, not realize that science is as capacable as lying as religion. science itself is religion. but to say that there's no cause and effect except from god is somehow uncomprehensible by the limitation of human mind.  
 - ** ghibli, some say farm nature is beauty, but it is human made.
 - square, vertical, efficient building is just as beauty as the complexity mountain or line beach, or anything inside human organs. 
@@ -37,9 +38,8 @@ but i prefer follow instruktur senam arruhul jaddid.
 
 quraish shihab udah belajar tafsir puluhan tahun ttp ngerasa ga ngerti cok
 
-https://www.youtube.com/watch?v=r3utIP6xxxI
 
----
+![[https://youtu.be/r3utIP6xxxI?si=Y3yt-bPHYm5Y11w8]]
 
  I despise geniuses. They lack the beauty of accumulated effort.
 —Lügner to Graf Granat, in Chapter 17 [[Frieren]]

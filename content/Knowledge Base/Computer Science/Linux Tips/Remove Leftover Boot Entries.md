@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 If you have leftover boot entries from old OS installations (like Windows, another Linux distro, etc.), you can clean them up in Linux by following these steps:

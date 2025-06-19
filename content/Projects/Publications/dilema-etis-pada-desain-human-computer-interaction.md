@@ -1,5 +1,5 @@
 ---
-title: "Dilema Etis pada Desain Human-computer Interaction"
+title: "Ethical Dilemma in Human-Computer Interaction Design"
 date: 2021-01-01
 tags: ["general"]
 ---

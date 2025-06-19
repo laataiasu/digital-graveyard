@@ -1,5 +1,5 @@
 ---
-date: 1970-01-01
+date: 2001-01-01
 ---
 
 Sure! Here’s a more organized and concise version of the content, focusing on key points and themes for better learning.
