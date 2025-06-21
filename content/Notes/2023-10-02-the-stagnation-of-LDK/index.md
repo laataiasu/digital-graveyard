@@ -26,7 +26,7 @@ Instead of doing things they don't understand like collecting donations or organ
 
 - How do you define the success metrics for a lot of public places of worship? 
 - Is it only in terms of religious aspects, like the grandeur and quantity of places of worship?
-- Could they contribute on a more fundamental level, like combating poverty, fighting [[Gambling|gambling]] and destructive lending practices, or tackling social media [[[[Addiction|Addiction]]|addiction]]? 
+- Could they contribute on a more fundamental level, like combating poverty, fighting [[Gambling|gambling]] and destructive lending practices, or tackling social media [[Addiction|addiction]]? 
 - What kind of things can we contribute to this process?
 
 Most Muslim tech enthusiasts could advocate and pressure the government to OPEN SOURCE the process of building. To integrate, because we'd like to know which areas are still lagging behind, not self-sufficient, and are facing hunger or are filled with criminal activity.

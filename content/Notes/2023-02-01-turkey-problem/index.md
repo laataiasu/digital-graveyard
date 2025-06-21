@@ -15,7 +15,7 @@ There is something known as the "turkey problem." We often place our trust in in
 
 Why does this happen?
 
-If we examine [[[[Addiction|Addiction]]|addiction]] from a researcher's "hammer" perspective, it provides some insights. 
+If we examine [[Addiction|addiction]] from a researcher's "hammer" perspective, it provides some insights. 
 
 ![[https://youtu.be/66cYcSak6nE]]
 
@@ -33,7 +33,7 @@ The main problem lies in the incentives, whether they lean towards [[Social Proo
 
 The art of clear thinking, personal bias, and mental models are never taught in schools. The reasons behind this could be subject to further research.
 
-Consider the incentives for teachers and doctors. It all began with a simple conspiracy like the Gold Reserve Act in <?>, which led all countries to rely on the US for borrowing. This resulted in the current state of affairs and libertarian ideologies.
+Consider the incentives for teachers and doctors. It all began with a simple conspiracy like the [[Gold Reserve Act]] in 1934, which led all countries to rely on the US for borrowing. This resulted in the current state of affairs and libertarian ideologies.
 
 So, how do we educate children?
 
@@ -92,7 +92,7 @@ orang2 punya resource, maka ekonomi yg pertama dikuasai, setelahnya? informasi..
 
 art of clear thingking, personal bias, mental model, ga pernah diajarin di sekolah. alasannya kenapa? mungkin bisa diteliti lebih lanjut.
 
-liat aja insentif guru dan dokter, awalnya sesimpel konspirasi gold reserve act pada tahun <?>, yg secara sederhana mengakibatkan semua negara pada kiblat ke US untuk berhutang, dan ya gini2 aja, jadi libertarian retard...
+liat aja insentif guru dan dokter, awalnya sesimpel konspirasi gold reserve act pada tahun 1934, yg secara sederhana mengakibatkan semua negara pada kiblat ke US untuk berhutang, dan ya gini2 aja, jadi libertarian retard...
 
 terus gimana cara educate anak?
 

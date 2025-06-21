@@ -51,7 +51,7 @@ What about an art form, like a game, that defies easy quantification?
 
 Fuck art. Art is resilient. It inherently discovers its unique space, enriched in its own distinctive ways.
 
-> insert equilibrium graph: game company success vs player game [[[[Addiction|Addiction]]|addiction]]
+> insert equilibrium graph: game company success vs player game [[Addiction|addiction]]
 
 Sistem kredit sosial di tingkat individu juga dapat membatasi individu untuk bermain dan mengejar cheap happiness lainnya.
 

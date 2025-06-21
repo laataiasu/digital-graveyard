@@ -14,8 +14,9 @@ date: 2001-01-01
 
 [[Alcatel Flash 2]]
 
+[[Asus Zenfone Max Pro M2]]
+
 [[Xiaomi Redmi Note 11]]
 
 [[Huawei Band 8]]
 
-[[Asus Zenfone Max Pro M2]]

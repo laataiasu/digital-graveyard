@@ -6,3 +6,5 @@ date: 2001-01-01
 
 [[Intro to Streaming API Development and Documentation]]
 [[Streaming Dataframes, Views, and Spark SQL]]
+[[Spark Joins and JSON]]
+[[Redis, Base64, and JSON]]

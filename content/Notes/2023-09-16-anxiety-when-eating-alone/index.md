@@ -72,7 +72,7 @@ happiness is only for [[Woman|woman]], and for high level director, because they
 
 i can't never empathize with [[Woman|woman]]. like i cant imagine every month i should change diaper, and one day i should bring life to this hell. i cant empathize with it, with [[Woman|woman]], or high level ceo, the leaders, big people. so its understandable that [[Woman|woman]] should be happy.
 
-but for little man like me who is lacking of pain, they must find it the pain, they must suffer. there's no one aprreciate your lumber, the builder of link under the sea, bringing sampah and others. a man can only appreiate themself. one who cannot appreciate themself falls into [[Depression]], [[[[Addiction|Addiction]]|addiction]], or even [[Suicide]], they they bare too much pain, forgot how to be a [[Woman|woman]]. 
+but for little man like me who is lacking of pain, they must find it the pain, they must suffer. there's no one aprreciate your lumber, the builder of link under the sea, bringing sampah and others. a man can only appreiate themself. one who cannot appreciate themself falls into [[Depression]], [[Addiction|addiction]], or even [[Suicide]], they they bare too much pain, forgot how to be a [[Woman|woman]]. 
 
 its not that im anti of happiness, happiness is needed for enjoyment of long life, but its more like by product of action, not the output you'd like to pursue.
 

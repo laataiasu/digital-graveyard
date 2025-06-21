@@ -520,7 +520,6 @@ Optional Long Walkthroughs with Troubleshooting
   * **Spark is running** if you see **two Java processes** involving `org.apache.spark.deploy.master.Master` and `org.apache.spark.deploy.worker.Worker`
   * **Only one correct response** expected in quiz scenario
 
-
 ## Lesson Review
 
 Lesson Review
