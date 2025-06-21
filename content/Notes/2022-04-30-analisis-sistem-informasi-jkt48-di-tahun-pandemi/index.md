@@ -3,13 +3,13 @@ date: '2022-04-30T00:00:00Z'
 tags:
 - ngidol
 - business
-- ''
 - essay
 title: Analisis Sistem Informasi JKT48 di Tahun Pandemi
+publish_external: true
 ---
 ![odd taxi](https://catatankemalasan.files.wordpress.com/2022/07/shun-imai-odd-taxi.jpg?resize=214%2C214)
 
-### Analisis Sistem Informasi JKT48 di Tahun Pandemi
+### Analisis [[Information System|Sistem Informasi]] JKT48 di Tahun Pandemi
 
 Sekian lama tidak mengidol hingga akhirnya terdapat cuplikan Zee yang menggumam YNTKS. Saya kira hal itu merupakan daya tarik tersendiri yang menemani kegabutan di masa pandemi, apalagi saat diri sedang di masa terjebak dengan tujuan yang tidak tahu akan dipertahankan atau tidak. Visi misi itu katanya tetap, tetapi itu hanya berlaku bagi organisasi yang stabil. Namun, kestabilan itu hal yang membosankan sehingga membuat visi dan misi perseorangan yang merindukan petualangan menjadi fluktuatif dan inkonsisten.
 
@@ -17,11 +17,12 @@ Dari Zee saya mengeksplor apa yang berbeda dari jeketi di tahun pandemi ini diba
 
 Apabila dahulu jeketi hanya berfokus pada fisik, nyanyian, dan tarian, mungkin JOT sudah menyadari bahwa hal itu tidak memiliki *competitive advantage* lagi dibandingkan dengan grup idola atau girlband lainnya. Perkembangan teknologi dan masa pandemi memiliki hubungan yang kompleks yang salah satunya merupakan angin segar bagi pihak JOT untuk merestrukturisasi anggota jeketi yang kurang memberikan *profit* maksimal pada mereka. Bisnis katanya jahat, tetapi setiap manusia tidak mungkin tidak berbicara mengenai nilai, dan **secara kebetulan bisnislah yang paling banyak membahas tentang nilai**.
 
-Restrukturisasi mirip dengan pengurangan pegawai akibat automasi di dunia bisnis akibat perkembangan teknologi. Dengan sumber daya yang minim, organisasi dapat mencapai *profit* tertingginya. Bahwa orang-orang dengan privilese yang kebutuhan dasarnya sudah terpenuhi tentu membuatnya dapat memikirkan sesuatu yang lebih gila. Dan hal itulah yang menjadikan Zee sebagai primadona jeketi di tahun pandemi, dengan ocehan sok polosnya, "Kok kalian gabut banget sih nontonin kita". Berbeda dengan member yang sudah tertendang, yang memimpilkan menjadi idol yang dapat menginspirasi banyak orang, tetapi nyatanya ia tidak bisa memutar otak sehingga output yang dihasilkan tidak berbeda dari member-member pengisi canvas teater dahulu yang entah sekarang apa kabarnya. 
+Restrukturisasi mirip dengan pengurangan pegawai akibat automasi di dunia bisnis akibat perkembangan teknologi. Dengan sumber daya yang minim, organisasi dapat mencapai *profit* tertingginya. Bahwa orang-orang dengan privilese yang kebutuhan dasarnya sudah terpenuhi tentu membuatnya dapat memikirkan sesuatu yang lebih gila. Dan hal itulah yang menjadikan Zee sebagai primadona jeketi di tahun pandemi, dengan ocehan sok polosnya, "Kok kalian gabut banget sih nontonin kita". Berbeda dengan member yang sudah tertendang, yang memimpikan menjadi idol yang dapat menginspirasi banyak orang, tetapi nyatanya ia tidak bisa memutar otak sehingga output yang dihasilkan tidak berbeda dari member-member pengisi canvas teater dahulu yang entah sekarang apa kabarnya. 
 
 Ya, tentunya karena mereka masih perlu memenuhi kebutuhan dasarnya sebelum dapat bertingkah seperti anak-anak rumahan berprivilese yang dapat memikirkan tentang hal melampaui batas lainnya. 
 
 > "The result for the rich is isolation and [[Suicide]], for the poor, envy and murder."
+> [[Fyodor Dostoevsky]]
 
 Begitu cerdiknya pihak JOT, mungkin mereka sebagian mereka membaca The Prince, The Art of War, dan buku-buku sengklek lainnya yang mengajarkan cara memenangkan pertempuran dengan keuntungan sebesar-sebesarnya pada pihak mereka. Apabila jeketi diisi oleh hanya member berprivilese saja, maka hal itu tentunya akan membuat organisasinya di demo besar-besaran oleh serikat buruh yang memperjuangkan kesetaraan, dan mereka tidak mau hal itu terjadi. Maka disisakannya anggota-anggota yang tidak terlalu berprivilese tetapi memiliki cukup potensi untuk dapat bertahan dan berkembang. 
 

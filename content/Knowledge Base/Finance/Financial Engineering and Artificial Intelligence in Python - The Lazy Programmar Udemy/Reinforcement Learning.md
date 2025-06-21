@@ -810,7 +810,7 @@ $$
 
 **4. Challenges in Implementation:**
    - **Difficulty of Implementation:** Even experienced programmers find RL challenging to implement correctly due to the potential for subtle bugs. It's common for experts to spend weeks or even months getting RL algorithms to work properly.
-   - **Expert Challenges:** Even top researchers like Andrej Karpathy face significant challenges. For example, it took him six weeks to get policy gradients working, despite having access to advanced technology and support from peers.
+   - **Expert Challenges:** Even top researchers like [[Andrej Karpathy]] face significant challenges. For example, it took him six weeks to get policy gradients working, despite having access to advanced technology and support from peers.
 
 **5. Key Takeaway:**
    - **Prepare for a Long Journey:** Learning RL is a demanding process that requires perseverance, especially during the implementation phase. Expect to invest significant time and effort, as the learning curve is steep even for experts.
