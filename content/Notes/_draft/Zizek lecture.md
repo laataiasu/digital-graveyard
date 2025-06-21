@@ -35,7 +35,7 @@ draft: true
 - Impressionism introduced negation and abstraction into art, challenging the traditional depiction of objects and subjects.
 - The true master is the one who acts so freely that others recognize their own freedom.
 
-## [[One piece]] :v
+## [[One_piece]] :v
 - Luffy from the manga series "One Piece" exemplifies the Hegelian master, setting others free through his absolute freedom and indifference to societal norms.
 - Freedom is contagious, and when we act autonomously and freely, we inspire others to do the same.
 - Freedom is not about being better or more successful than others but about doing something that sets others free.
