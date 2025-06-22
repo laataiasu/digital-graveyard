@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import os
 import shutil
+from utils import sanitize_filename
 
 def to_df(xml_file, pattern):
     tree = ET.parse(xml_file)
@@ -14,11 +15,8 @@ def to_df(xml_file, pattern):
         data_list.append(dct)
     return pd.DataFrame(data_list)
 
-animelist = to_df(xml_file='/home/al/Downloads/animelist_1750343730_-_13701088.xml', pattern='anime')
-mangalist = to_df(xml_file='/home/al/Downloads/mangalist_1750343733_-_13701088.xml', pattern='manga')
-
-def sanitize_filename(name):
-    return "".join(c for c in str(name) if c.isalnum() or c in (' ', '-', '_')).rstrip().replace(' ', '_')
+animelist = to_df(xml_file='animelist.xml', pattern='anime')
+mangalist = to_df(xml_file='mangalist.xml', pattern='manga')
 
 def write_markdown(folder, title, date, frontmatter_dict, content=""):
     if pd.isna(title) or not title:

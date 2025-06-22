@@ -1,6 +1,7 @@
 import os
 import shutil
 import pandas as pd
+from utils import sanitize_filename
 
 # Read and split title/type
 df = pd.read_csv("drama.csv", quoting=1, engine='python')
@@ -19,7 +20,7 @@ df_selected = df[cols]
 # Write markdown files
 for _, row in df_selected.iterrows():
     # Sanitize filename
-    filename = "".join([c if c.isalnum() or c in " ._-" else "_" for c in row['Title']]).strip()
+    filename = sanitize_filename(row['Title'])
     filepath = os.path.join(output_dir, f"{filename}.md")
     
     # Frontmatter and content

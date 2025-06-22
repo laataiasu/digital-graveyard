@@ -6,4 +6,4 @@ tags: [technology, economics]
 
 influenced by [[Friedrich Nietzsche]]
 
-[[Zero to One]]
+[[Review Zero to One]]

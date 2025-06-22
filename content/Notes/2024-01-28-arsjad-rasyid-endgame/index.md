@@ -42,4 +42,4 @@ quraish shihab udah belajar tafsir puluhan tahun ttp ngerasa ga ngerti cok
 ![[https://youtu.be/r3utIP6xxxI?si=Y3yt-bPHYm5Y11w8]]
 
  I despise geniuses. They lack the beauty of accumulated effort.
-—Lügner to Graf Granat, in Chapter 17 [[Frieren]]
+—Lügner to Graf Granat, in Chapter 17 [[Sousou no Frieren]]

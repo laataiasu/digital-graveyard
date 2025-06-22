@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import shutil
+from utils import sanitize_filename
 
 # Load data
 df = pd.read_csv('ratings.csv', parse_dates=['Date'])
@@ -13,7 +14,7 @@ os.makedirs('Letterboxd', exist_ok=True)
 # Generate markdown files
 for idx, row in df.iterrows():
     # Sanitize filename
-    filename = f"{row['Name'].replace('/', '_').replace(':', '-')}.md"
+    filename = f"{sanitize_filename(row['Name'])}.md"
     filepath = os.path.join('Letterboxd', filename)
 
     # Prepare frontmatter

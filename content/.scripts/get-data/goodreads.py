@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import re
 import shutil
+import string
+from utils import sanitize_filename
 
 # Load and clean the CSV
 def clean_isbn(val):
@@ -13,13 +15,9 @@ def sanitize_text(text):
         return ""
     return str(text).strip()
 
-def sanitize_filename(name):
-    name = re.sub(r'[\\/*?:"<>|]', "", name)
-    name = re.sub(r'\s+', '_', name)
-    return name[:100]  # Limit length
 
 # Read and clean CSV
-df = pd.read_csv("goodreads_library_export.csv", dtype=str)
+df = pd.read_csv("goodreads.csv", dtype=str)
 df.columns = [col.strip() for col in df.columns]
 df['ISBN'] = df['ISBN'].apply(clean_isbn)
 df['ISBN13'] = df['ISBN13'].apply(clean_isbn)

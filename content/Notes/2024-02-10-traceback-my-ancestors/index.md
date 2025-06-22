@@ -32,7 +32,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 ### 💼 [[Business, Economy & Finance]]
 
 * [[Rich Dad Poor Dad]] — by Robert Kiyosaki \~ #SMP #SMA
-* [[Zero to One]] — by [[Peter Thiel]] \~ #Kuliah
+* [[Review Zero to One]] — by [[Peter Thiel]] \~ #Kuliah
 * [[The Big Short]] — by Michael Lewis \~ #Kuliah
 * [[AI for Trading (Udacity)]] \~ #covid-era
 * [[Khan Academy: Microeconomics]] \~ #2022
@@ -117,7 +117,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 * [[George Orwell]] — 1984, Animal Farm \~ #SMA
 * [[Bo Burnham]] — introspective comedy \~ #covid-era
 * [[Fyodor Dostoevsky]], [[Emil Cioran]] — existential literature \~ #Kuliah
-* [[Kino no Tabi]], [[Frieren]] / [[MyAnimeList Picks]] \~ #Kuliah
+* [[Kino no Tabi The Beautiful World|Kino no Tabi]], [[Sousou no Frieren]] / [[MyAnimeList Picks]] \~ #Kuliah
 
 ---
 
@@ -144,7 +144,7 @@ Use in each file:
 women i love:
 
 - [[Serial Experiments Lain]] (anime)
-- [[Kino no Tabi]] (anime)
+- [[Kino no Tabi The Beautiful World|Kino no Tabi]] (anime)
 - [[Karen Armstrong]] (historian)
 - [[Ayn Rand]] (philosopher)
 - [[Faye Wong]] (movie)

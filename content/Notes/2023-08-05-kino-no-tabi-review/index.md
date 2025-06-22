@@ -8,7 +8,7 @@ tags:
 title: Kino no Tabi, Job Hopping and The Modern Nomad
 publish_external: true
 ---
-Job hopping resembles the traveler's journey in Kino's travels in "[[Kino no Tabi]]". Traveling seems to be a dream shared by many, akin to creating a legacy like [[Ibn Battuta]] and others did in previous generations. However, this notion appears outdated now due to the advent of tools like Google Maps. While such tools cover most places, some areas remain uncharted, and they fail to capture the true ambiance and local behavior, or in a places like [[China]] might lack comprehensive map reviews due to strict government policies.
+Job hopping resembles the traveler's journey in Kino's travels in "[[Kino no Tabi The Beautiful World|Kino no Tabi]]". Traveling seems to be a dream shared by many, akin to creating a legacy like [[Ibn Battuta]] and others did in previous generations. However, this notion appears outdated now due to the advent of tools like Google Maps. While such tools cover most places, some areas remain uncharted, and they fail to capture the true ambiance and local behavior, or in a places like [[China]] might lack comprehensive map reviews due to strict government policies.
 
 I recall [[Mark Manson]]'s stories that suggest reaching a stage where being a traveler is perceived as aimless, a way to escape from dealing with issues or challenges. Such travelers wander around cities and renowned tourist spots, as advertised by agencies, without any specific goal.
 

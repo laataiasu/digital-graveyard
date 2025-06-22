@@ -2,6 +2,8 @@
 date: 2001-01-01
 ---
 
+[[Thinking Fast and Slow]]
+
 System one and system 2:
 Fast and automatic vs slow and logic
 2.
