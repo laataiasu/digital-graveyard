@@ -3,8 +3,8 @@ title: 'Curse of Knowledge Bias: My Love-Hate Relationship with Project Manageme
 date: 2024-02-18
 tags:
 - english
-- project management
-- information systems
+- project-management
+- information-system
 hideSummary: true
 draft: false
 ---

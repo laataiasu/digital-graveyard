@@ -3,7 +3,7 @@ title: SQL Null Values Ruin My Life
 date: 2024-02-13
 tags:
 - english
-- data engineering
+- data-engineering
 - dbt
 - bigquery
 - sql
