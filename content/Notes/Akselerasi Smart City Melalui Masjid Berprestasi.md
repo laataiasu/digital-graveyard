@@ -31,7 +31,7 @@ Pembuatan [[Social Credit System]] di tingkat individu dan Sistem Organisasi Mas
 
 #### Alur Diagram Sederhana
 
-![flow_chart](flow_chart.png)
+![flow_chart](diagram_siom.png)
 
 Penjelasan:
 

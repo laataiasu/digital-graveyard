@@ -4,6 +4,7 @@ tags:
 - story
 - essay
 title: After Arsjad Rasyid Endgame Podcast
+publish_external: true
 ---
 
 >insert my photos in all cities landmark in indonesia
@@ -36,10 +37,15 @@ this why i prefer cities human-made more than natures god-made
 you may prefer cities or nature.
 but i prefer follow instruktur senam arruhul jaddid. 
 
-quraish shihab udah belajar tafsir puluhan tahun ttp ngerasa ga ngerti cok
+![[https://www.youtu.be/5Bp7Vl93qlk]]
 
+---
+
+quraish shihab udah belajar tafsir puluhan tahun ttp ngerasa ga ngerti wtf
 
 ![[https://youtu.be/r3utIP6xxxI?si=Y3yt-bPHYm5Y11w8]]
 
- I despise geniuses. They lack the beauty of accumulated effort.
+> I despise geniuses. They lack the beauty of accumulated effort.
 —Lügner to Graf Granat, in Chapter 17 [[Sousou no Frieren]]
+
+[[Gita Wirjawan]]
