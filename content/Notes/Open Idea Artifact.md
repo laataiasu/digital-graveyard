@@ -27,7 +27,7 @@ I think the future will be both incredible and a little eerie.
 
 So here’s my list of what I wish existed in this world:
 
-### Mosque Social Credit System
+### Pahala Credit System
 
 This is something I wrote in college and tried to share with some friends, but I don’t think anyone read it—most probably didn’t feel it was relevant.
 

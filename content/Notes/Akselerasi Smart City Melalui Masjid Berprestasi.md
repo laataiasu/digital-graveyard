@@ -31,7 +31,7 @@ Pembuatan [[Social Credit System]] di tingkat individu dan Sistem Organisasi Mas
 
 #### Alur Diagram Sederhana
 
-![flow_chart](diagram_siom.png)
+![pahala-credit-system](https://catatankemalasan.wordpress.com/wp-content/uploads/2025/06/diagram_siom.png)
 
 Penjelasan:
 

@@ -1,6 +1,6 @@
 ---
 date: 2001-01-01
-title: 🪦 Digital Graveyard
+title: About
 publish_external: true
 ---
 
