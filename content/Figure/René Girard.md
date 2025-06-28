@@ -4,3 +4,4 @@ tags: [philosophy, literature]
 ---
 # René Girard
 
+[[Mimetic Desire]]
