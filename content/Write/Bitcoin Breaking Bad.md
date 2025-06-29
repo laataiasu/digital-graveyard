@@ -15,15 +15,15 @@ title: Bitcoin & Breaking Bad
 
 TLDR Breaking Bad Synopsis:
 
-Walter, a chemistry teacher and part timer at a car washer, is diagnosed with cancer and because he is poor, he didn't want to burden his [[Family|family]] with the treatment for his cancer. As I have mentioned in the previous article, the feeling of weakness is pretty bad. It is caused a lot of evils and will to power is what is good for ordinary people. And unfortunately, Walter is ordinary person who hates weakness.
+Walter, a chemistry teacher and part timer at a car washer, is diagnosed with cancer and because he is poor, he didn't want to burden his Family with the treatment for his cancer. As I have mentioned in the previous article, the feeling of weakness is pretty bad. It is caused a lot of evils and will to power is what is good for ordinary people. And unfortunately, Walter is ordinary person who hates weakness.
 
 He tried to find any other resources to fund his treatment for his cancer. The plot continues, he is faced with a drug dealer accidentally which apparently is his former student. Then he talks with him that he wants to "cook", then both of them somehow agree and then they try to sell the drugs, a perfect crystal methamphetamine.
 
-The selling is easy, but the problem is how he spends his money so that his [[Family|family]] doesn't know that he can afford the treatment. Moreover, he didn't know how to make sure that the money was transferred and accepted by his [[Family|family]].
+The selling is easy, but the problem is how he spends his money so that his Family doesn't know that he can afford the treatment. Moreover, he didn't know how to make sure that the money was transferred and accepted by his Family.
 
 ---
 
-Imagine if at that moment there is a smart contract or bitcoin to transfer money transparently easily. If that's so, Walter didn't need to think hard about how to transfer his wealth from the selling. He can compromise with his [[Family|family]] that the money used for the cancer treatment is from donation or something.
+Imagine if at that moment there is a smart contract or bitcoin to transfer money transparently easily. If that's so, Walter didn't need to think hard about how to transfer his wealth from the selling. He can compromise with his Family that the money used for the cancer treatment is from donation or something.
 
 Actually, the primary thing that I want to talk about is cryptocurrency development nowadays. There's a huge demand for bitcoin and any other cryptocurrency now. The white paper from a lot of coins is pretty comprehensive for the top cryptocurrency which is built by the [[Blockchain]] system by relying on complicated math such as cryptography and any other methods (for a basic definition you could check <https://academy.binance.com/> ).
 
@@ -33,9 +33,9 @@ Or in short, if cryptocurrency is used by most people in the world, any nation's
 
 What they are offering is very rational and really useful for a lot of aspects in the world. They are offering some kind of security, fastness, and etc (you could see a lot of resources in google for more information). The concept is like the concept of gold in which the supply is maintained at 21 million bitcoin and can be mining and there's a term like halving when bitcoin is over demand.
 
-Is it cool if you could see the development of all coins with the usefulness they're offering to the world. Problems like Walter which wanted to transfer money to his [[Family|family]] by his drug selling could be done anonymously. Even if he died, he could use a smart contract so that when an event is triggered, the money which he owned can be transferred securely.
+Is it cool if you could see the development of all coins with the usefulness they're offering to the world. Problems like Walter which wanted to transfer money to his Family by his drug selling could be done anonymously. Even if he died, he could use a smart contract so that when an event is triggered, the money which he owned can be transferred securely.
 
-It's funny for me because I imagine as a Muslim, it could make the process of Warith could be done easily without custodian or testifier. If the system is really developed and combines it with the body such as the primary key from the fingerprint or retina eye and system to check whether a human is still alive or not. And if not, it can transfer the assets and legal aspects from who's death to his [[Family|family]] by Islamic regulation. Even it is a silly idea because if someone is killed it is hard to trace the killer and so on.
+It's funny for me because I imagine as a Muslim, it could make the process of Warith could be done easily without custodian or testifier. If the system is really developed and combines it with the body such as the primary key from the fingerprint or retina eye and system to check whether a human is still alive or not. And if not, it can transfer the assets and legal aspects from who's death to his Family by Islamic regulation. Even it is a silly idea because if someone is killed it is hard to trace the killer and so on.
 
 But still, this technology could change a lot of aspects from this world. Even there's something I kind of skeptic about this, same as a lot of technology that has been developed.
 
@@ -61,7 +61,7 @@ The example is like developing drug selling networking and you monopolize everyt
 
 It's still easy when only about drugs, but when it comes to dangerous weapons like chemistry or biological weapons, or developing technology which manipulates everything so you could benefit only yourself, it could lead to dystopian where everything is chaotic.
 
-But if the revolution is running smoothly, accompanied by responsible freedom, I believe, the world without governments is like a promising world if everyone can do anything responsibly. And of course, come again to the first, good intention is not enough. Walter has good intentions not to burden his [[Family|family]] by selling drugs, the intention is realized but he ends up his life anxiously and miserably. So, good intentions are never enough.<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed">
+But if the revolution is running smoothly, accompanied by responsible freedom, I believe, the world without governments is like a promising world if everyone can do anything responsibly. And of course, come again to the first, good intention is not enough. Walter has good intentions not to burden his Family by selling drugs, the intention is realized but he ends up his life anxiously and miserably. So, good intentions are never enough.<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed">
 
 ![father](https://i.pinimg.com/originals/4c/0e/d8/4c0ed845a5d91f9ae34d0283fb266209.jpg)
   

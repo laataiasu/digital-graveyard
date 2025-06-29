@@ -10,13 +10,13 @@ If someone automates [[Instagram]] to like every account they follow, reply, and
 
 Humans are not multitaskers, but with computers, they can be. Computers resemble the Jutsu of a thousand shadows from Naruto. And if you interact with their shadow, would you find it unethical or consider it disrespectful, or not prioritizing yourself?
 
-This is something I learned from Yudkowsky.
+This is something I learned from [[Eliezer Yudkowsky]].
 
 The dilemma between thinking for the future, going one step beyond everyone, and ending up overanalyzing and making assumptions, or simply enjoying the present 'carpe diem' moment, where you might end up like any turkey problems.
 
-![Alt text](Notes/post/2023-10-14-trash-your-ethics/image.png)
+![Alt text](image.png)
 
-To be truly balanced does not exist. We often create an illusion of balance while making choices about our careers, the friends we choose, and the [[Family|family]] we keep, even though there are always better and worse options.
+To be truly balanced does not exist. We often create an illusion of balance while making choices about our careers, the friends we choose, and the Family we keep, even though there are always better and worse options.
 
 Someone who strives for balance may end up with nothing, which is why one must pick a side and defend it, no matter what happens, to avoid cognitive dissonance.
 

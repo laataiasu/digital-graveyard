@@ -14,7 +14,7 @@ Like I don't want to follow something I can't enjoy. Human must pick their enjoy
 
 For me, the word arrogance itself should be removed from any dictionary. I mean, it's very temporary the definition of arrogant. When you died, how can you be an arrogant? Many people said we need to be grateful, but that's the same case with arrogant in a few perspective of people. 
 
-Let's say you got friend or a perfect [[Family|family]], you share your story to everyone that you are grateful about. Or you visit an expensive restaurant, go around the world, by the fastest car in the world, fly with parachute, take a photo with komodo, etc etc you grateful about. 
+Let's say you got friend or a perfect Family, you share your story to everyone that you are grateful about. Or you visit an expensive restaurant, go around the world, by the fastest car in the world, fly with parachute, take a photo with komodo, etc etc you grateful about. 
 
 For a jealousy people, your act it's a kind of an vanity, conceit, pride, arrogant. You make that jealousy people compare themself with you and make feel them miserable, or questioning their existence. Some of not jealousy people think that as a challenge, strive something the same, to keep their delusional social hierarchy. 
 

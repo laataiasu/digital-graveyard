@@ -125,7 +125,7 @@ Here’s a concise summary highlighting the essential points about angel investi
 2. **Core Components of Investing**:
    - **Deal Flow**: The number of opportunities available.
    - **Judgment**: The ability to assess opportunities wisely.
-   - **Capital**: The financial resources to invest. This is often the most challenging aspect, as many top investors start with significant [[Family|family]] wealth or connections.
+   - **Capital**: The financial resources to invest. This is often the most challenging aspect, as many top investors start with significant Family wealth or connections.
 
 3. **Access vs. Deal Flow**:
    - Simply having access to deals (e.g., through platforms like AngelList) doesn’t guarantee the ability to invest on favorable terms.

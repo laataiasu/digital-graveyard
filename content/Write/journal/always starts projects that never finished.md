@@ -10,11 +10,11 @@ title: 2024-04-08
 i knew something wrong with me,
 
 its just a simple choice, but i cant make a simple choice that really worth it. like when i imagine after i quit my job. its just a matter of choice, when
-i meet with my [[Family|family]] again, when i not met my father for a year because he works at another country. i can choose smile at them to my [[Family|family]], bring a positive
+i meet with my Family again, when i not met my father for a year because he works at another country. i can choose smile at them to my Family, bring a positive
 happy little vibe, but its hard. i can easily lie to anyone, but why is it so hard to lie to myself. some things i can lie about but not other things. 
-i can lie about how i behave when in front off someone, but i feel that there's something off. i imagine myself talk honestly with smile to my [[Family|family]]. 
+i can lie about how i behave when in front off someone, but i feel that there's something off. i imagine myself talk honestly with smile to my Family. 
 but as i see mother still believe that i have the same believe as her, my intention to try to talk honestly is broken. 
-its too hard for me to disappoint her, and i know i do that things not because i love her. its a lie, that i care about my [[Family|family]], everyhting is just a lie. 
+its too hard for me to disappoint her, and i know i do that things not because i love her. its a lie, that i care about my Family, everyhting is just a lie. 
 everything is because of me. because im just too afraid, im too coward to tell honestly about what ive been through. bygone i want to be understood, 
 but now it seems understanding is beyond human capabilities. what we can is only try. 
 

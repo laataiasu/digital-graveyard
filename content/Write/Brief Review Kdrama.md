@@ -33,7 +33,7 @@ Well I thought that this is a horror series because the title, but after I watch
 
 ### Defendant
 
-Series about the an attorney who killed his wife and lose his memories because strive for justice and the truth, that makes the antagonist hunt and hurt him and his [[Family|family]]. After watching this, I want to be an attorney lol
+Series about the an attorney who killed his wife and lose his memories because strive for justice and the truth, that makes the antagonist hunt and hurt him and his Family. After watching this, I want to be an attorney lol
 
 ### Signal
 
@@ -57,7 +57,7 @@ Divinity comedy that really fun to watch about a hard workman that accidentally 
 
 ### Reply 1988
 
-It is boring and the comedy is "receh" seriously. But the story made me retrace my childhood because even I was born in 2001, I can really connected to my past memories with friends and neighbor and [[Family|family]] . And the Jung-Pal sad story related with me where even know they like each other, he doesn't have a brave to tell her. And thats the…. hmm FFFFFF
+It is boring and the comedy is "receh" seriously. But the story made me retrace my childhood because even I was born in 2001, I can really connected to my past memories with friends and neighbor and Family . And the Jung-Pal sad story related with me where even know they like each other, he doesn't have a brave to tell her. And thats the…. hmm FFFFFF
 
 ### [[Because This Is My First Life]]
 

@@ -6,7 +6,7 @@ title: Just Pretend
 ---
 Try to be funny. No longer funny any more. Try to be sad and regret. But it's just a drama and an act. When I'm blaming, that's the real me. At least that's what I thought, until I get accused. Then I blame something. It turns out I never know. What is the real me. Who is the real me.
 
-When you're little, if you grow up in a good [[Family|family]], there must be a time where your mother leaves you without telling you. At the first time, you might be confused, feel so empty, afraid, scared, and then crying. You were screaming, "Where are you mother? Why don't you tell?". You know it's a useless act, screaming at someone that doesn't exist at that time, blaming them who are leaving you without telling. Yeah, you know at that time what you're doing is futile. But still, you did that at the first time, because you're normal, that you're afraid of being alone. 
+When you're little, if you grow up in a good Family, there must be a time where your mother leaves you without telling you. At the first time, you might be confused, feel so empty, afraid, scared, and then crying. You were screaming, "Where are you mother? Why don't you tell?". You know it's a useless act, screaming at someone that doesn't exist at that time, blaming them who are leaving you without telling. Yeah, you know at that time what you're doing is futile. But still, you did that at the first time, because you're normal, that you're afraid of being alone. 
 
 Then someone you're missing came back, and you were relieved. You get a similar experience again the day after that happened. Maybe you're still mad, that your mother didn't tell you where she went. Maybe you still want to cry. But then it happens a lot, and you might get used to it. 
 

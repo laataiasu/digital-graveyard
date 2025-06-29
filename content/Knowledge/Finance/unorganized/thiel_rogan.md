@@ -502,7 +502,7 @@ This format emphasizes key themes and ideas, making it easier to absorb the mate
   - Global Patterns: Countries like [[Iran]], [[Italy]], and [[South Korea]] also report low birth rates.
 
 #### Economic Considerations
-- **Housing Affordability**: Economic constraints affect [[Family|family]] planning decisions.
+- **Housing Affordability**: Economic constraints affect Family planning decisions.
 - **Cultural Expectations**: In some societies, peer pressure influences childbearing; e.g., younger women in Israel feel social pressure to have children.
 
 #### Long-Term Implications

@@ -20,7 +20,7 @@ you try to keep it up, try to focus on data engineering. but the things it you d
 
 maybe someday you might find enjoyment in it, but not with people tell you need to do something. you fucking hate user so much. they are scum stupid people fucking lazy to read and to learn, so they are just fucking asking everything while it s so ffcking obvious. you hate all those creators, all users, you hate much of those. 
 
-you want to work with someone you admire. none of it you admire. what is the impact for society, they are just scum who fall for american dream and just build a happy [[Family|family]]. their [[Family|family]] are superficial, their kids are stupid. they tell their kids to memorizing random arabian words what for? to show their stupid friends that their kids is fucking religious. it's moron you know, memorizing something you don't understand, and you believe it will make a goodness to you. but yes, it is goodness, you pretend that it is good, then it will become good in the end. fake it till you make it my ass.
+you want to work with someone you admire. none of it you admire. what is the impact for society, they are just scum who fall for american dream and just build a happy Family. their Family are superficial, their kids are stupid. they tell their kids to memorizing random arabian words what for? to show their stupid friends that their kids is fucking religious. it's moron you know, memorizing something you don't understand, and you believe it will make a goodness to you. but yes, it is goodness, you pretend that it is good, then it will become good in the end. fake it till you make it my ass.
 
 would you continue pursuing data engineer or industrial clerk in general my friends? i believe you dont want. 
 

@@ -26,7 +26,7 @@ Let's connect to this modern world.
 
 From the [[Japan]] cases where everything is so manipulative, we can see that there is irony about that.
 
-The infrastructure, facility, and everything seems so developed and beautiful. But there is a high number of [[Suicide]] rate, prostitution, and any kind which leads to question of irony of what seems developed. Everything is manipulated, renting a girlfriend, renting a [[Family|family]], Hikkikomori, living with 2D, and so on.
+The infrastructure, facility, and everything seems so developed and beautiful. But there is a high number of [[Suicide]] rate, prostitution, and any kind which leads to question of irony of what seems developed. Everything is manipulated, renting a girlfriend, renting a Family, Hikkikomori, living with 2D, and so on.
 
 ![[https://youtu.be/Jag6iyrSjsI]]
 ![[https://youtu.be/oFgWy2ifX5s]]

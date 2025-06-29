@@ -11,7 +11,7 @@ title: First Day I Missed My Prayer
 
 **I wish Depok had public transportation and a night climate like Jakarta, or even Cimahi.** A couple of months ago, I went to Kuningan, and the air felt so fresh. I could sleep comfortably there without air conditioning. Here in Depok, I struggle to fall asleep. I make a schedule to sleep by 9 PM, but I end up scrolling through [[Twitter]] or [[Instagram]] and fall asleep at 1 or 2 AM.  
 
-**I'm lost and need help creating a routine.**  I want to have a routine like a Muslim, doing Tahajjud and going to the mosque for each prayer, even though I don't know the specifics.  If God exists, the only thing I would pray for is for my [[Family|family]] to forget me, to not have to remember they have a devilish youngest son, so I wouldn't feel pressured to live a lie. 
+**I'm lost and need help creating a routine.**  I want to have a routine like a Muslim, doing Tahajjud and going to the mosque for each prayer, even though I don't know the specifics.  If God exists, the only thing I would pray for is for my Family to forget me, to not have to remember they have a devilish youngest son, so I wouldn't feel pressured to live a lie. 
 
 **I don't have the same desires as most people.**  I convince myself that I just want the truth, that I don't care about happiness (of others or myself), and that I don't need to be happy.  I hate pretending to laugh when someone tells a joke I don't understand, but at the same time, I do it so they at least feel like they can make someone happy. It bothers me that I have to force myself to laugh at dark jokes about disabled people, poor people, or people in war zones. I only want to laugh when I genuinely find something funny. 
 

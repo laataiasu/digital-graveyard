@@ -6,7 +6,7 @@ title: Physics Envy
 ---
 # Want to be a physicists
 
-I always pray that my [[Family|family]] always be moderate, don't really need to be rich but enough to fill any physical needs.
+I always pray that my Family always be moderate, don't really need to be rich but enough to fill any physical needs.
 
 I always jealous to who can really enjoy solitude, out of the culture or civilization, in order to try to understand what lies behind the truth.
 

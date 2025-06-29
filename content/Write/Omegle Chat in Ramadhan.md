@@ -112,7 +112,7 @@ You: you need to be grateful
 
 Stranger: What's your zodiac sign ?
 
-You: if you have supporting [[Family|family]]
+You: if you have supporting Family
 
 You: im taurus but i want to kill animals
 
@@ -320,7 +320,7 @@ Stranger: Ok
 
 Stranger: I don't know many Asian names
 
-You: my [[Family|family]] hate jews so much
+You: my Family hate jews so much
 
 You: can you guess my religion?
 

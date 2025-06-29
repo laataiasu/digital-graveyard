@@ -20,7 +20,7 @@ some complaint someone about being too greedy, or too arrogant, is just inferior
 
 how can someone measure the things become grateful or arrogant? there's no absolute measure, only relative to who you are compare to.
 
-thats why to show off is a must, to share that you have good foods, companies, places, friends, [[Family|family]]. show all your works and your result, even your dumbest  idea. there's always a room for sharing.
+thats why to show off is a must, to share that you have good foods, companies, places, friends, Family. show all your works and your result, even your dumbest  idea. there's always a room for sharing.
 
 gaps in social economy is never problem in [[Islam]]. the problem is occured when some can't afford the basic needs for survival so they suffered with no potential to growth. if there's no problem about that, then no problem at all.
 

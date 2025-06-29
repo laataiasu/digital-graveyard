@@ -5,7 +5,7 @@ tags:
 - journal
 - review
 - film
-title: '[[Islam]] and the Data Scientist''s Quest: Seeking Insights Amidst Biases
+title: 'Islam and the Data Scientist''s Quest: Seeking Insights Amidst Biases
   and Mental Models'
 ---
 ![data-science.jpg](https://catatankemalasan.files.wordpress.com/2023/07/data-science.jpg)

@@ -12,7 +12,7 @@ title: Machiavellianism in Any Educational System
 
 Machiavellianism believes that every activity that is aimed at the stability of the country or the government is good, even if it ignores some aspects that give chaos, the act to reduce that chaos is considered 'right' as long as that act is aimed to stabilize its power.
 
-Every individual is the government of themselves. So based on Machiavellianism, it doesn't care about the morality or in the long term which influenced the existence of any government or in the scope individual are other people, friends, [[Family|family]], or anyone, as long as they don't bother the stability of the individual government, the individuals didn't care because it only cares about its government.
+Every individual is the government of themselves. So based on Machiavellianism, it doesn't care about the morality or in the long term which influenced the existence of any government or in the scope individual are other people, friends, Family, or anyone, as long as they don't bother the stability of the individual government, the individuals didn't care because it only cares about its government.
 
 So it is the concept which Indonesia or those who glorify about nationalism taught to its people. They educated their people, that they should stabilize their country and themselves and don't care about the long term of what they're doing to any other than themselves.
 

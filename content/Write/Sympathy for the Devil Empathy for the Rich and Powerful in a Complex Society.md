@@ -8,7 +8,7 @@ title: 'Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex S
 ---
 Flexing, greed, pride, arrogance, and vanity are merely perceptions projected by those who feel inferior and envious. In the words of Charlie Munger, the world is driven by envy, not greed.
 
-Every advantage should be appreciated. When does gratitude become excessive? It is only those who envy that impose limits on gratitude. One form of gratitude is sharing fortune and abundance, being free from hunger, having positive relationships with [[Family|family]] and friends, possessing material and physical advantages, embodying good morals and spirituality, showcasing talents and creations, and more.
+Every advantage should be appreciated. When does gratitude become excessive? It is only those who envy that impose limits on gratitude. One form of gratitude is sharing fortune and abundance, being free from hunger, having positive relationships with Family and friends, possessing material and physical advantages, embodying good morals and spirituality, showcasing talents and creations, and more.
 
 Those deemed greedy will never realize their own greed. Figures like [[Jeff Bezos]], [[Elon Musk]], [[Mark Zuckerberg]], and [[Bill Gates]], with their immense wealth, believe that paying taxes is sufficient contribution to society, allowing them to pursue other exciting ventures.
 

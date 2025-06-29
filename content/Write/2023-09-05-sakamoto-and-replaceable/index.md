@@ -11,7 +11,7 @@ Man is mortal; thus, every man is replaceable.
 
 Dependency is something I never force onto someone or any system. If I am somehow needed by someone, I try to help, but not to make them dependent on me. I want everything to be loosely coupled. I want to give every beautiful thing I have and then perish.
 
-For a company, organization, or [[Family|family]], I don't want to be seen as irreplaceable. Another must replace me, another must replace me, even if it means letting go of me, to ensure everything remains loosely coupled.
+For a company, organization, or Family, I don't want to be seen as irreplaceable. Another must replace me, another must replace me, even if it means letting go of me, to ensure everything remains loosely coupled.
 
 I want everything to be light, so there's always room to grow for anyone. A system can't fly if it's burdened by manipulation and exaggeration.
 
@@ -29,9 +29,9 @@ In [[Islam]], the best jihad is to fight tyrannical figures.
 
 But I rarely find this in most Muslims. Instead, they do just as I do: engage in something that feels good, and then others exploit their work, and they act as if they're okay with it. They never take the bait of the abuser.
 
-And you find your justification, 'just be grateful,' 'Gusti [[Allah]] mboten sare,' 'karma is real,' and so on.
+And most find their justification, "Just be grateful", "Gusti [[Allah]] mboten sare", 'Karma is real", etc.
 
-You allow all the abusers to be comfortable with their actions. I act as if I were blind, not to see all the tyrannical things, and hope that nature could seek revenge for us.
+We allow all the abusers to be comfortable with their actions. We act as if we were blind, not to see all the tyrannical things, and hope that nature could seek revenge for us.
 
 But that's not the Sakamoto way. Sakamoto rationalizes and sharpens his intuition; he is neither the nice kid nor the good guy. He is aware of what others are capable of, so he acts in a beautiful way, without complaint or fostering hatred. He simply wants to disillusion all the tyrants to behave as beautifully as he does, to ignore and surpass anyone's expectations.
 
@@ -39,4 +39,4 @@ In doing so, he both helps and challenges the tyrants, making them realize that 
 
 While most people don't reach that level, instead, they let the abusers continue without remorse for what they do, allowing them to fall into a state of delusion. They try to find cheap pleasure to suppress their malicious hearts. 
 
-But I must say, one must rise above Sakamoto.
+But I must say, one must rise above [[Sakamoto desu ga|Sakamoto]].

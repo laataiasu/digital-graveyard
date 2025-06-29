@@ -98,7 +98,7 @@ date: 2001-01-01
 
 ### **S&P Index Categories: Market Cap and Growth vs. Value Classification**
    - **Market Cap-Based Indices**: 
-     - The S&P [[Family|family]] includes different indices based on market capitalization:
+     - The S&P Family includes different indices based on market capitalization:
        - **S&P 500**: Contains large-cap stocks like Lockheed Martin.
        - **S&P MidCap 400**: Includes mid-cap stocks such as Delphi Technologies.
        - **S&P SmallCap 600**: Consists of small-cap stocks like The New York Times.

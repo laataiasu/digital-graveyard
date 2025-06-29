@@ -187,7 +187,7 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
     - City transfers title of the land to the developer in 1950.
     - Recording of the transfer is done through filing a deed with the county.
 - **Successive Ownership Changes:**
-    - Developer and [[Family|family]] live in the house until their passing in 1970.
+    - Developer and Family live in the house until their passing in 1970.
     - Property then legally transferred to the developer's brother-in-law, documented by a second deed.
 - **Title Transfer in 2000:**
     - In the year 2000, the brother-in-law decides to sell the house.

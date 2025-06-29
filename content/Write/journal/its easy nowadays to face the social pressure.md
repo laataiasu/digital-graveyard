@@ -11,7 +11,7 @@ when your not in survival mode, i really suggest you to get out of something you
 
 diversification is only works for something follows normal distribution. in living our life, there's too many chaos, and diversification is not option, sometimes you have to gamble, sometimes you have to all in for something you really hope for. and this day is so easy to face peer pressure. 
 
-if youre looked not having a job, or asked by your neighbor or [[Family|family]], you can just simply you work online, if money is not an issue. of course you have to have a proper margin of safety first. and by this you can really try for something you really want to pursue. 
+if youre looked not having a job, or asked by your neighbor or Family, you can just simply you work online, if money is not an issue. of course you have to have a proper margin of safety first. and by this you can really try for something you really want to pursue. 
 
 if they ask about the detail, just simply answer, i do something like managing portfolio, yes, you perhaps managing only $100 [[Meme]] coin or something, but it still called manaing portfolio, you can make this up.
 
