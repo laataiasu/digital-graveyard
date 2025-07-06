@@ -21,9 +21,9 @@ def clean_destination():
 
 def is_asset_file(filename):
     # File extensions to exclude (common for content files)
-    EXCLUDE_EXTENSIONS = {'.md', '.markdown'}
+    INCLUDE_EXTENSIONS = {'.png', '.jpeg', '.jpg'}
     _, ext = os.path.splitext(filename)
-    return ext.lower() not in EXCLUDE_EXTENSIONS
+    return ext.lower() in INCLUDE_EXTENSIONS
 
 def sync_assets(src_dir, dest_dir):
     for root, dirs, files in os.walk(src_dir):

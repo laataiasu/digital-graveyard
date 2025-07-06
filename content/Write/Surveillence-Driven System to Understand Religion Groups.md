@@ -7,7 +7,8 @@ tags:
 title: Building Surveillence-Driven System to Understand More about Religion Groups
 publish_external: true
 ---
-![random_solawatan nongol di youtube aing -_-](../random_solawatan.png)
+
+![random_solawatan](random_solawatan.png)
 
 I simply want to know what makes people enjoy this.
 
@@ -63,7 +64,7 @@ Anyone who is passionate about building data-intensive applications has a voyeur
 
 But we can always gaslight ourselves. Giving our data is part of sodaqoh and charity in [[Islam]]. And we trust others perfectly as we have faith in [[Allah]], especially businessmen, that we believe they will hide our aib if we have. And by that we can have ihsan attitude (where you always feel watched over by God so that you always behave in a commendable manner).
 
-![designing surveillance app](<../designing surveillance app.png>)
+![designing surveillance app](<designing surveillance app.png>)
 
 Everything that exists to create value is a business. An organization is a business. A country is a business. Religion is a business.
 
