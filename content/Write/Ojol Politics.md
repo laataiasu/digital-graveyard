@@ -2,8 +2,7 @@
 title: Ojol Politics
 date: 2024-02-12
 tags:
-- english
-- pemilu
+  - pemilu
 hideSummary: true
 draft: false
 ---

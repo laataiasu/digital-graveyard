@@ -17,4 +17,4 @@ Last edited time: 2024-05-06T06:33
 [[[[Massachusetts Institute of Technology|MIT]] Applied Math]]
 [[MITx- Mathematical Methods for Quantitative Finance]]
   
-[[Political science curriculum]]
+[[Political Science]]

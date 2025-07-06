@@ -60,7 +60,7 @@ date: 2001-01-01
 [[Language]]
 [[Metaphysics]]
   
-[[Bias, Fallacy, Paradox/index]]
+[[Bias, Fallacy, Paradox]]
 
 
 [[Percipio]]

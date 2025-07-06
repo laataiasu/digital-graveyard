@@ -12,7 +12,7 @@ ke dunia bacaan, sebenrnya masih seidkit sih tapi dari dikit itu jujur aja nguba
 isinya tentang random thought of me, yakni gua berkarya untuk gua sendiri. untuk kenalan lebih jauh tentang gw sendiri dan pandangan gua terhadap dunia masa kini  
 dan karena background gw ada sedikit agama, filsafat, writing dan science khususnya computer science, gua akan mencoba menuliskan sesuatu berdasarkan terus karena  
 skill bahasa inggris gw kecil gua juga pengen belajar komunikasi using inggris di di podcast gw Awalnya sih gua ingin  
-bikin semacam video bahasa indo kaya channel like stories of old. tapi gw males belajar skill eidting video. Dan makanya podcast ini berisi tentang hal-hal kaya gitu  
+bikin semacam video bahasa indo kaya channel [[Like Stories of Old]]. tapi gw males belajar skill eidting video. Dan makanya podcast ini berisi tentang hal-hal kaya gitu  
 So, karena ini memang buat lu jadi nikmatin aja sendiri, ihsan, haha  
 1. travelling alone in gunung api nlanggeran
 2. computer science

@@ -560,7 +560,7 @@ And then after that, print the queue, print the len of queue, and then print an 
 queue.push('Alice')
 queue.push('Bob')
 queue.push('James')
-#queue.push('Sally')
+queue.push('Sally')
 print(queue)
 print(len(queue))
 print()

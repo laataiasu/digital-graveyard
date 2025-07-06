@@ -3,8 +3,9 @@ title: "Template"
 date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
 draft: true
 tags: []
-description: "{{description}}"
+description: ""
 toc: false
+publish_external: false
 ---
 
 # {{title}}

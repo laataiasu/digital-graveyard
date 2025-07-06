@@ -19,11 +19,11 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 * [[Mohammad Hatta]] — biography, thoughts \~ #SMA
 * [[Pramoedya Ananta Toer]] — literature and activism \~ #SMA
 * [[Noam Chomsky]] — linguistics and politics \~ #SMA
-* [[School of Life]] — curated essays by [[Alain de Botton]] \~ #covid-era
-* [[TED Talks]] — curated topics \~ #covid-era
-* [[Jordan Peterson]], [[Gabor Maté]], [[Andrew Huberman]] — psychology, meaning \~ #covid-era
-* [[Man’s Search for Meaning]] — by [[Viktor Frankl]] \~ #covid-era
-* [[Ngaji Filsafat]] — by Fahruddin Faiz, Indonesian philosophical reflections \~ #covid-era–present
+* [[School of Life]] — curated essays by [[Alain de Botton]] \~ 2020-2022
+* [[TED Talks]] — curated topics \~ 2020-2022
+* [[Jordan Peterson]], [[Gabor Maté]], [[Andrew Huberman]] — psychology, meaning \~ 2020-2022
+* [[Man’s Search for Meaning]] — by [[Viktor Frankl]] \~ 2020-2022
+* [[Ngaji Filsafat]] — by Fahruddin Faiz, Indonesian philosophical reflections \~ 2020-2022–present
 * [[Slavoj Žižek]] — cultural commentary \~ #SMP–2022
 * [[Nassim Nicholas Taleb]] & [[Benoit Mandelbrot]] — risk, complexity \~ #2023
 
@@ -32,20 +32,20 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 ### 💼 [[Business, Economy & Finance]]
 
 * [[Rich Dad Poor Dad]] — by Robert Kiyosaki \~ #SMP #SMA
-* [[Review Zero to One]] — by [[Peter Thiel]] \~ #Kuliah
-* [[The Big Short]] — by Michael Lewis \~ #Kuliah
-* [[AI for Trading (Udacity)]] \~ #covid-era
+* [[Review Zero to One]] — by [[Peter Thiel]] \~ 2019-2023
+* [[The Big Short]] — by Michael Lewis \~ 2019-2023
+* [[AI for Trading (Udacity)]] \~ 2020-2022
 * [[Khan Academy: Microeconomics]] \~ #2022
 * [[Khan Academy: Macroeconomics]] \~ #2022
 * [[Khan Academy: Capital Markets]] \~ #2022–present
-* [[Charlie Munger]] & [[Warren Buffett]] \~ #Kuliah
+* [[Charlie Munger]] & [[Warren Buffett]] \~ 2019-2023
 
 ---
 
 ### 🕌 [[Islam]]
 
 * [[Abu Takeru]] — Islamic perspectives \~ #SMA
-* [[Khalid Basalamah]] — lectures \~ #covid-era
+* [[Khalid Basalamah]] — lectures \~ 2020-2022
 
 ---
 
@@ -54,42 +54,42 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 #### 📊 [[Business / System Analysis]]
 
 * [[Unknown Black YouTuber (BA content)]] \~ #pre-COVID
-* [[Udacity Business Analytics Nanodegree]] \~ #covid-era
-* [[Udacity Business Analyst Nanodegree]] \~ #covid-era
+* [[Udacity Business Analytics Nanodegree]] \~ 2020-2022
+* [[Udacity Business Analyst Nanodegree]] \~ 2020-2022
 
 #### 🔗 [[Blockchain]]
 
-* [[MIT 15.S12 Blockchain and Money]] \~ #covid-era
+* [[MIT 15.S12 Blockchain and Money]] \~ 2020-2022
 
 [[Massachusetts Institute of Technology]]
 
-* [[Web3 Fundamentals by Bill Laboon]] \~ #covid-era
-* [[Blockchain at Berkeley]] \~ #covid-era
-* [[Vitalik Buterin]], [[Gavin Wood]], [[Charles Hoskinson]] \~ #covid-era
+* [[Web3 Fundamentals by Bill Laboon]] \~ 2020-2022
+* [[Blockchain at Berkeley]] \~ 2020-2022
+* [[Vitalik Buterin]], [[Gavin Wood]], [[Charles Hoskinson]] \~ 2020-2022
 
 #### ☁️ [[Cloud & DevOps]]
 
-* [[Udacity Cloud DevOps Nanodegree]] \~ #covid-era
+* [[Udacity Cloud DevOps Nanodegree]] \~ 2020-2022
 * [[Linus Torvalds]] — open source figure
-* [[OSS YouTube Channel]] \~ #covid-era
+* [[OSS YouTube Channel]] \~ 2020-2022
 
 #### 📦 [[Data Engineering]]
 
-* [[Udacity Data Engineering Nanodegree]] \~ #covid-era
+* [[Udacity Data Engineering Nanodegree]] \~ 2020-2022
 * [[DWE Internship @ Traveloka]] \~ #2022
 
 #### 📈 [[Data Science]]
 
-* [[Udacity NLP Nanodegree]] \~ #covid-era
+* [[Udacity NLP Nanodegree]] \~ 2020-2022
 * [[Research Internship (2023)]]
 
 #### 🏗️ [[System Architect]]
 
-* [[Programmer Zaman Now]] — Indonesian dev content \~ #covid-era
+* [[Programmer Zaman Now]] — Indonesian dev content \~ 2020-2022
 
 #### 🌐 [[Web Development]]
 
-* [[Corey Schafer]] tutorials \~ #2019–2020
+* [[Corey Schafer]] tutorials \~ 2020-2022
 * [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] Campus Dev Team \~ #2020–2021
 
 #### ✅ [[Quality Assurance]]
@@ -115,9 +115,9 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 * [[Peaky Blinders]] \~ #SMA
 * [[Cosmos]] — [[Carl Sagan]] / Neil Tyson \~ #SMA
 * [[George Orwell]] — 1984, Animal Farm \~ #SMA
-* [[Bo Burnham]] — introspective comedy \~ #covid-era
-* [[Fyodor Dostoevsky]], [[Emil Cioran]] — existential literature \~ #Kuliah
-* [[Kino no Tabi The Beautiful World|Kino no Tabi]], [[Sousou no Frieren]] / [[MyAnimeList Picks]] \~ #Kuliah
+* [[Bo Burnham]] — introspective comedy \~ 2020-2022
+* [[Fyodor Dostoevsky]], [[Emil Cioran]] — existential literature \~ 2019-2023
+* [[Kino no Tabi The Beautiful World|Kino no Tabi]], [[Sousou no Frieren]] / [[MyAnimeList Picks]] \~ 2019-2023
 
 ---
 
@@ -126,7 +126,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 Use in each file:
 
 ```
-#digital-garden #[[Phase:SMP]] #[[Phase:SMA]] #[[Phase:Kuliah]] #covid-era #book #course #anime #literature #internship
+#digital-garden #[[Phase:SMP]] #[[Phase:SMA]] #[[Phase:Kuliah]] 2020-2022 #book #course #anime #literature #internship
 ```
 
 ## 📁 Suggested Folders
