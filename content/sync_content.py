@@ -19,6 +19,24 @@ def clean_destination():
         shutil.rmtree(DEST_DIR)
     os.makedirs(DEST_DIR, exist_ok=True)
 
+def is_asset_file(filename):
+    # File extensions to exclude (common for content files)
+    EXCLUDE_EXTENSIONS = {'.md', '.markdown'}
+    _, ext = os.path.splitext(filename)
+    return ext.lower() not in EXCLUDE_EXTENSIONS
+
+def sync_assets(src_dir, dest_dir):
+    for root, dirs, files in os.walk(src_dir):
+        for file in files:
+            if is_asset_file(file):
+                src_path = os.path.join(root, file)
+                rel_path = os.path.relpath(src_path, src_dir)
+                dest_path = os.path.join(dest_dir, rel_path)
+
+                os.makedirs(os.path.dirname(dest_path), exist_ok=True)
+                shutil.copy2(src_path, dest_path)
+                print(f"Copied: {src_path} -> {dest_path}")
+
 def sync_content():
     clean_destination()
 
@@ -57,3 +75,4 @@ def sync_content():
 
 if __name__ == "__main__":
     sync_content()
+    sync_assets(SOURCE_DIR, DEST_DIR)
