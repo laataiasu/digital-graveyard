@@ -9,13 +9,14 @@ showToc: true
 UseHugoToc: true
 publish_external: true
 ---
+
 since i ~~jobless~~ have free time, i distro hopping and here's my review:
 
 ## fedora
 
 nice, but i am not familiar with dnf
 
-![fedora](../fedora.png)
+![fedora](fedora.png)
 
 ## ubuntu 22.04.3 LTS 
 
@@ -57,7 +58,7 @@ i use arch btw 💀
 
 can't believe [[Pacman]] & yay is perfect
 
-![arch](../arch.png)
+![arch](arch.png)
 
 i love gnome <3
 
