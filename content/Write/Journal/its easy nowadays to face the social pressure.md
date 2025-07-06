@@ -1,5 +1,5 @@
 ---
-date: unknown
+date: 2024-06-07
 tags:
 - journal
 title: its easy nowadays to face the social pressure

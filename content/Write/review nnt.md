@@ -1,11 +1,11 @@
 ---
-title: "2025-06-17"
-date: 2025-06-17T11:15:15+07:00
+title: "review nnt"
+date: 2024-06-17T11:15:15+07:00
 tags: ["journal"]
 ---
 ## My Review
 
-  
+[[Nassim Nicholas Taleb]]
 
 titik balik ga? gatau anying hoream, masih banyak downsidenya dibanding upside, masih coward, mau ttp diteken apa jadi asshole? gatau aokwoakwoakwok idiot sumpah ini asshole [[Nassim Nicholas Taleb|nikolas taleb]].
 

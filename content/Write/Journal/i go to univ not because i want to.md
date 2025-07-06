@@ -1,5 +1,5 @@
 ---
-date: unknown
+date: 2024-06-08
 tags:
 - journal
 title: i go to univ not because i want to
