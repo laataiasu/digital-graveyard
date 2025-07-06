@@ -5,19 +5,17 @@ tags:
 - literature
 title: Senja
 ---
-
-```text
-Biru yang mulai memerah
-Angin dingin mulai menyergap
-Menguasai pikiran tersesat
-
-Tak ada kicauan burung
-Hanya ada kepakan sayap
-
-Disini aku termenung
-Terisak dan merayap
-
-Dengan perasaan meluap
-Yang tak pernah terucap
-Tinta jahat yang terus bergerak
-```
+  
+Biru yang mulai memerah  
+Angin dingin mulai menyergap  
+Menguasai pikiran tersesat  
+  
+Tak ada kicauan burung  
+Hanya ada kepakan sayap  
+  
+Disini aku termenung  
+Terisak dan merayap  
+  
+Dengan perasaan meluap  
+Yang tak pernah terucap  
+Tinta jahat yang terus bergerak  

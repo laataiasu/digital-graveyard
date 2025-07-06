@@ -22,6 +22,6 @@ my_discuss: "1"
 my_sns: "default"
 update_on_import: "0"
 title: "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku."
-date: "0000-00-00"
+date: "2016-01-01"
 ---
 

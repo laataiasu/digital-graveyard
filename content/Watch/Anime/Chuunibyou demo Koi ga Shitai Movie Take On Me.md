@@ -22,6 +22,6 @@ my_discuss: "1"
 my_sns: "default"
 update_on_import: "0"
 title: "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
-date: "0000-00-00"
+date: "2016-01-01"
 ---
 

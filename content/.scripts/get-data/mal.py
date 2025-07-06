@@ -41,7 +41,7 @@ for folder, df, title_col in [
     os.makedirs(folder, exist_ok=True)
     for _, row in df.iterrows():
         title = row.get(title_col, '').replace('"', '')
-        date = row.get('my_finish_date', '')
+        date = '2016-01-01'
         frontmatter_dict = {col: row[col] for col in df.columns if col != title_col}
         frontmatter_dict['title'] = title
         frontmatter_dict['date'] = date

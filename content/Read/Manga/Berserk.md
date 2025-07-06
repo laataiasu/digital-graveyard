@@ -22,6 +22,6 @@ my_discuss: "YES"
 my_sns: "default"
 update_on_import: "0"
 title: "Berserk"
-date: "0000-00-00"
+date: "2016-01-01"
 ---
 
