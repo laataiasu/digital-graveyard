@@ -1,5 +1,6 @@
 ---
 date: 2001-01-01
+publish_external: false
 ---
 
 [[Personal Home]]
@@ -20,5 +21,7 @@ date: 2001-01-01
 [[First Day of Accenture]]
 
 [[Last Day at Telkomsel DQM Project]]
+
+First Day [[Tennis]]
 
 [[Flexi Muslim]][[Lenovo A390]][[Samsung S3 Mini]][[Alcatel Flash 2]]

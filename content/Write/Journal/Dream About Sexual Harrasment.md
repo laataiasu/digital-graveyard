@@ -16,4 +16,4 @@ I graduated from a CS degree at a top university in my country, even though I wa
 
 Even so, I don't know where to go, I don't have a goal, It feels very lonely. I always listen to the song "Priscilla Ahn – Fine On The Outside". I don't know what's wrong with me, what sins I committed to end up like this. on the one hand I want to improve myself, on the other hand I can accept this loneliness because it means I can do anything freely.
 
-I don't know when I will die, I think I will die like Paul Mescal in the movie "All of Us Strangers". or I try to die like a cat, disappear suddenly without a trace. But I don't need to be like a cat who suddenly disappears, because even if I don't disappear, no one will look for me. i'm probably gonna die alone.
+I don't know when I will die, I think I will die like Paul Mescal in the movie [[All of Us Strangers]]. or I try to die like a cat, disappear suddenly without a trace. But I don't need to be like a cat who suddenly disappears, because even if I don't disappear, no one will look for me. i'm probably gonna die alone.

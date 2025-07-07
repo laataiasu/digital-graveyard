@@ -1,4 +1,8 @@
 ---
-date: 2021-06-20T13:33
+date: 2025-07-07T15:45:14+07:00
 Meaning: place to treat TBC / mental illness patient
+title: Sanatorium - Asylum
+tags:
+  - interesting-terms
+publish_external: true
 ---

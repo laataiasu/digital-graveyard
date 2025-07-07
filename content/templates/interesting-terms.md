@@ -1,6 +1,6 @@
 ---
-title: "Cotard's syndrome"
-date: 2025-07-07T15:45:08+07:00
+title: "{{title}}"
+date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
 tags: ["interesting-terms"]
 publish_external: true
 ---
