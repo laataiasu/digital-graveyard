@@ -2,6 +2,7 @@
 title: "How Do You Live?"
 author: "Genzaburo Yoshino"
 date: "2023/12/10"
+tags: ["book"]
 ---
 
 # How Do You Live?

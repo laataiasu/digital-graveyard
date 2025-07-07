@@ -2,6 +2,7 @@
 title: "Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)"
 author: "ابن تيمية"
 date: "2022/01/09"
+tags: ["book"]
 ---
 
 # Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)

@@ -5,6 +5,7 @@ year: 2015
 type: "Korean Drama"
 score: 6.5
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # Who Are You: School 2015

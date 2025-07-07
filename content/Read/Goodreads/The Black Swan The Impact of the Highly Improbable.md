@@ -2,6 +2,7 @@
 title: "The Black Swan: The Impact of the Highly Improbable"
 author: "Nassim Nicholas Taleb"
 date: "2023/01/26"
+tags: ["book"]
 ---
 
 # The Black Swan: The Impact of the Highly Improbable

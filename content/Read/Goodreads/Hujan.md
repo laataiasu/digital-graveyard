@@ -2,6 +2,7 @@
 title: "Hujan"
 author: "Tere Liye"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # Hujan

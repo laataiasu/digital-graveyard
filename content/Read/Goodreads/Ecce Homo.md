@@ -2,6 +2,7 @@
 title: "Ecce Homo"
 author: "Friedrich Nietzsche"
 date: "2024/05/04"
+tags: ["book"]
 ---
 
 # Ecce Homo

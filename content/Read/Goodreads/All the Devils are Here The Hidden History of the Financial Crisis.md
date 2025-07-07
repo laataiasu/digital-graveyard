@@ -2,6 +2,7 @@
 title: "All the Devils are Here: The Hidden History of the Financial Crisis"
 author: "Bethany McLean"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # All the Devils are Here: The Hidden History of the Financial Crisis

@@ -40,6 +40,7 @@ for _, row in df.iterrows():
 title: "{row['Title']}"
 author: "{row['Author']}"
 date: "{row['Date Added']}"
+tags: ["book"]
 ---
 
 # {row['Title']}

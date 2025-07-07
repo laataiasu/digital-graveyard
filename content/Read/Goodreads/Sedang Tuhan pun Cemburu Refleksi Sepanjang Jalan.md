@@ -2,6 +2,7 @@
 title: "Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan"
 author: "Emha Ainun Nadjib"
 date: "2018/08/19"
+tags: ["book"]
 ---
 
 # Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan

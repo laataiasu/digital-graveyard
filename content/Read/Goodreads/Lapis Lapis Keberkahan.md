@@ -2,6 +2,7 @@
 title: "Lapis-Lapis Keberkahan"
 author: "Salim Akhukum Fillah"
 date: "2021/08/25"
+tags: ["book"]
 ---
 
 # Lapis-Lapis Keberkahan

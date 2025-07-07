@@ -2,6 +2,7 @@
 title: "Muhammad Al-Fatih 1453"
 author: "Felix Y. Siauw"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # Muhammad Al-Fatih 1453

@@ -2,6 +2,7 @@
 title: "Sunshine Becomes You"
 author: "Ilana Tan"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # Sunshine Becomes You

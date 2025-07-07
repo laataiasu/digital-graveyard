@@ -2,6 +2,7 @@
 title: "Demokrasi Kita: Idealisme dan Realitas Serta Unsur yang memperkuatnya"
 author: "Mohammad Hatta"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Demokrasi Kita: Idealisme dan Realitas Serta Unsur yang memperkuatnya

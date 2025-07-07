@@ -2,6 +2,7 @@
 title: "Sapiens: A Brief History of Humankind"
 author: "Yuval Noah Harari"
 date: "2020/07/06"
+tags: ["book"]
 ---
 
 # Sapiens: A Brief History of Humankind

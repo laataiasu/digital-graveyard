@@ -5,6 +5,7 @@ year: 2012
 type: "Korean Drama"
 score: 4.0
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # Dream High Season 2

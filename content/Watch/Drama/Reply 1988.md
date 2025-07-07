@@ -5,6 +5,7 @@ year: 2015
 type: "Korean Drama"
 score: 8.5
 progress: "20/20"
+tags: ["film", "drama"]
 ---
 
 # Reply 1988

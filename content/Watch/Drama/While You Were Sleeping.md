@@ -5,6 +5,7 @@ year: 2017
 type: "Korean Drama"
 score: 6.0
 progress: "32/32"
+tags: ["film", "drama"]
 ---
 
 # While You Were Sleeping

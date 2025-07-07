@@ -2,6 +2,7 @@
 title: "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
 author: "Randall Munroe"
 date: "2022/07/25"
+tags: ["book"]
 ---
 
 # What If?: Serious Scientific Answers to Absurd Hypothetical Questions

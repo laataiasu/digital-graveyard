@@ -2,6 +2,7 @@
 title: "The DAO of Capital: Austrian Investing in a Distorted World"
 author: "Mark Spitznagel"
 date: "2025/04/28"
+tags: ["book"]
 ---
 
 # The DAO of Capital: Austrian Investing in a Distorted World

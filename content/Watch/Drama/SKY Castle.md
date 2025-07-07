@@ -5,6 +5,7 @@ year: 2018
 type: "Korean Drama"
 score: 8.0
 progress: "20/20"
+tags: ["film", "drama"]
 ---
 
 # SKY Castle

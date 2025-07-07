@@ -5,6 +5,7 @@ year: 2011
 type: "Korean Special"
 score: 5.0
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # Secret Garden Special

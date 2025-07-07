@@ -5,6 +5,7 @@ year: 2021
 type: "Korean Drama"
 score: 8.0
 progress: "10/10"
+tags: ["film", "drama"]
 ---
 
 # Move to Heaven

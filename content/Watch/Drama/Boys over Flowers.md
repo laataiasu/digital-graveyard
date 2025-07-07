@@ -5,6 +5,7 @@ year: 2009
 type: "Korean Drama"
 score: 5.0
 progress: "25/25"
+tags: ["film", "drama"]
 ---
 
 # Boys over Flowers

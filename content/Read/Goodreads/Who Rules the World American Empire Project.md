@@ -2,6 +2,7 @@
 title: "Who Rules the World? (American Empire Project)"
 author: "Noam Chomsky"
 date: "2020/07/03"
+tags: ["book"]
 ---
 
 # Who Rules the World? (American Empire Project)

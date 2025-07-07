@@ -2,6 +2,7 @@
 title: "Thinking, Fast and Slow"
 author: "Daniel Kahneman"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # Thinking, Fast and Slow

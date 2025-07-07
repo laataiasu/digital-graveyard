@@ -2,6 +2,7 @@
 title: "9 Summers 10 Autumns"
 author: "Iwan Setyawan"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # 9 Summers 10 Autumns

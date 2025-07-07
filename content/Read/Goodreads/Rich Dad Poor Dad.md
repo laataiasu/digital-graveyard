@@ -2,6 +2,7 @@
 title: "Rich Dad, Poor Dad"
 author: "Robert T. Kiyosaki"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Rich Dad, Poor Dad

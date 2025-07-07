@@ -2,6 +2,7 @@
 title: "The da Vinci Code (Robert Langdon, #2)"
 author: "Dan    Brown"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # The da Vinci Code (Robert Langdon, #2)

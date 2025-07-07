@@ -2,6 +2,7 @@
 title: "Hujan Bulan Juni"
 author: "Sapardi Djoko Damono"
 date: "2019/07/19"
+tags: ["book"]
 ---
 
 # Hujan Bulan Juni

@@ -2,6 +2,7 @@
 title: "Mati Ketawa ala Refotnasi"
 author: "Emha Ainun Nadjib"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Mati Ketawa ala Refotnasi

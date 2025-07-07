@@ -2,6 +2,7 @@
 title: "Deep Simplicity: Bringing Order to Chaos and Complexity"
 author: "John Gribbin"
 date: "2023/01/04"
+tags: ["book"]
 ---
 
 # Deep Simplicity: Bringing Order to Chaos and Complexity

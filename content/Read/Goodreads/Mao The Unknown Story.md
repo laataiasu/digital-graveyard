@@ -2,6 +2,7 @@
 title: "Mao: The Unknown Story"
 author: "Jung Chang"
 date: "2025/01/17"
+tags: ["book"]
 ---
 
 # Mao: The Unknown Story

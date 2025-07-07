@@ -2,6 +2,7 @@
 title: "The Catcher in the Rye"
 author: "J.D. Salinger"
 date: "2019/07/08"
+tags: ["book"]
 ---
 
 # The Catcher in the Rye

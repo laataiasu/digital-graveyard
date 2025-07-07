@@ -2,6 +2,7 @@
 title: "The Brothers Karamazov"
 author: "Fyodor Dostoevsky"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # The Brothers Karamazov

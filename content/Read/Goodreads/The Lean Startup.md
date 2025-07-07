@@ -2,6 +2,7 @@
 title: "The Lean Startup"
 author: "Eric Ries"
 date: "2022/07/25"
+tags: ["book"]
 ---
 
 # The Lean Startup

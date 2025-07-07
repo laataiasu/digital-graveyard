@@ -2,6 +2,7 @@
 title: "The Secret History of the World"
 author: "Jonathan  Black"
 date: "2020/07/03"
+tags: ["book"]
 ---
 
 # The Secret History of the World

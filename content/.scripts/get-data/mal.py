@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import shutil
 from utils import sanitize_filename
+import yaml
 
 def to_df(xml_file, pattern):
     tree = ET.parse(xml_file)
@@ -21,13 +22,18 @@ mangalist = to_df(xml_file='mangalist.xml', pattern='manga')
 def write_markdown(folder, title, date, frontmatter_dict, content=""):
     if pd.isna(title) or not title:
         return
+
     filename = sanitize_filename(title) + ".md"
     filepath = os.path.join(folder, filename)
-    frontmatter = "---\n"
-    for k, v in frontmatter_dict.items():
-        frontmatter += f"{k}: \"{v}\"\n"
-    frontmatter += "---\n\n"
-    frontmatter += content
+
+    # Ensure date is included in frontmatter if provided
+    if date and "date" not in frontmatter_dict:
+        frontmatter_dict["date"] = str(date)
+
+    # Use yaml.dump to handle various value types safely
+    frontmatter_yaml = yaml.dump(frontmatter_dict, sort_keys=False, allow_unicode=True).strip()
+    frontmatter = f"---\n{frontmatter_yaml}\n---\n\n{content}"
+
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(frontmatter)
 
@@ -45,6 +51,12 @@ for folder, df, title_col in [
         frontmatter_dict = {col: row[col] for col in df.columns if col != title_col}
         frontmatter_dict['title'] = title
         frontmatter_dict['date'] = date
+
+        if folder == 'Anime':
+            tag = ["anime", "film"]
+        elif folder == 'Manga':
+            tag = ["manga", "book"]
+        frontmatter_dict['tags'] = tag
         write_markdown(folder, title, date, frontmatter_dict)
 
 # Move to BLOG_PATH if set, idempotently

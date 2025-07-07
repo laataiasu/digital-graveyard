@@ -2,6 +2,7 @@
 title: "The (Mis)Behavior of Markets"
 author: "Benoît B. Mandelbrot"
 date: "2023/03/28"
+tags: ["book"]
 ---
 
 # The (Mis)Behavior of Markets

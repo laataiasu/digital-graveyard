@@ -2,6 +2,7 @@
 title: "The Gift"
 author: "Hafez"
 date: "2024/03/14"
+tags: ["book"]
 ---
 
 # The Gift

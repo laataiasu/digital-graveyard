@@ -5,6 +5,7 @@ year: 2016
 type: "Korean Movie"
 score: 4.5
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # My New Sassy Girl

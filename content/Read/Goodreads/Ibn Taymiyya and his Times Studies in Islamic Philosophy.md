@@ -2,6 +2,7 @@
 title: "Ibn Taymiyya and his Times (Studies in Islamic Philosophy)"
 author: "Yossef Rapoport"
 date: "2022/01/09"
+tags: ["book"]
 ---
 
 # Ibn Taymiyya and his Times (Studies in Islamic Philosophy)

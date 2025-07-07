@@ -2,6 +2,7 @@
 title: "Bumi Manusia (Tetralogi Buru, #1)"
 author: "Pramoedya Ananta Toer"
 date: "2018/09/17"
+tags: ["book"]
 ---
 
 # Bumi Manusia (Tetralogi Buru, #1)

@@ -5,6 +5,7 @@ year: 2004
 type: "Korean Drama"
 score: 5.0
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # Full House 

@@ -5,6 +5,7 @@ year: 2022
 type: "Korean Drama"
 score: 8.0
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # Twenty-Five Twenty-One

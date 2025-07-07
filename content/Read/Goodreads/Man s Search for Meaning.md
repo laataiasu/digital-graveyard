@@ -2,6 +2,7 @@
 title: "Man's Search for Meaning"
 author: "Viktor E. Frankl"
 date: "2022/02/09"
+tags: ["book"]
 ---
 
 # Man's Search for Meaning

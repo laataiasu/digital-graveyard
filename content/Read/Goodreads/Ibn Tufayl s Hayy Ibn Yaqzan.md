@@ -2,6 +2,7 @@
 title: "Ibn Tufayl's Hayy Ibn Yaqzan"
 author: "Ibn Tufail"
 date: "2021/07/15"
+tags: ["book"]
 ---
 
 # Ibn Tufayl's Hayy Ibn Yaqzan

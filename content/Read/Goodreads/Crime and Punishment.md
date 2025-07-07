@@ -2,6 +2,7 @@
 title: "Crime and Punishment"
 author: "Fyodor Dostoevsky"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Crime and Punishment

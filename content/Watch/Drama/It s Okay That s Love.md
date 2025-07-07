@@ -5,6 +5,7 @@ year: 2014
 type: "Korean Drama"
 score: 7.5
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # It's Okay, That's Love

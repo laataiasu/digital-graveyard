@@ -1,6 +1,9 @@
 ---
 date: 2001-01-01
-tags: [productivity, android-app]
+tags:
+- android-app
+- productivity
+- software
 ---
 # Forest App
 

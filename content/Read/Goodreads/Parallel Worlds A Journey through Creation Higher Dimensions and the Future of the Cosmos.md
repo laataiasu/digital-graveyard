@@ -2,6 +2,7 @@
 title: "Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos"
 author: "Michio Kaku"
 date: "2020/10/29"
+tags: ["book"]
 ---
 
 # Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos

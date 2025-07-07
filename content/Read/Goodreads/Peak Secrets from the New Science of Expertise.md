@@ -2,6 +2,7 @@
 title: "Peak: Secrets from the New Science of Expertise"
 author: "K. Anders Ericsson"
 date: "2021/02/20"
+tags: ["book"]
 ---
 
 # Peak: Secrets from the New Science of Expertise

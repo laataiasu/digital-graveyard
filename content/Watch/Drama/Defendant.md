@@ -5,6 +5,7 @@ year: 2017
 type: "Korean Drama"
 score: 8.0
 progress: "18/18"
+tags: ["film", "drama"]
 ---
 
 # Defendant

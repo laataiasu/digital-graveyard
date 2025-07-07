@@ -2,6 +2,7 @@
 title: "Thus Spoke Zarathustra"
 author: "Friedrich Nietzsche"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # Thus Spoke Zarathustra

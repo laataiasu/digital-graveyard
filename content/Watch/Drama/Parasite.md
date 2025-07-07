@@ -5,6 +5,7 @@ year: 2019
 type: "Korean Movie"
 score: 9.0
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # Parasite

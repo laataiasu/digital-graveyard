@@ -2,6 +2,7 @@
 title: "The Three-Body Problem (Remembrance of Earth’s Past, #1)"
 author: "Liu Cixin"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # The Three-Body Problem (Remembrance of Earth’s Past, #1)

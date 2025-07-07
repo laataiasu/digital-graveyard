@@ -5,6 +5,7 @@ year: 2009
 type: "Korean Drama"
 score: 5.0
 progress: "28/28"
+tags: ["film", "drama"]
 ---
 
 # Shining Inheritance

@@ -2,6 +2,7 @@
 title: "The Rubáiyát of Omar Khayyám and Other Writings"
 author: "Omar Khayyám"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # The Rubáiyát of Omar Khayyám and Other Writings

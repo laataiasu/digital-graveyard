@@ -2,6 +2,7 @@
 title: "Animal Farm"
 author: "George Orwell"
 date: "2020/11/23"
+tags: ["book"]
 ---
 
 # Animal Farm

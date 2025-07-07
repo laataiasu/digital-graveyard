@@ -2,6 +2,7 @@
 title: "The True Believer: Thoughts on the Nature of Mass Movements"
 author: "Eric Hoffer"
 date: "2025/04/30"
+tags: ["book"]
 ---
 
 # The True Believer: Thoughts on the Nature of Mass Movements

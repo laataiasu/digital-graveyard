@@ -4,4 +4,5 @@ date: 2024-06-29
 year: 2023
 letterboxd_uri: https://boxd.it/ipeM
 rating: 3.5
+tags: ["film"]
 ---

@@ -2,6 +2,7 @@
 title: "The Metamorphosis"
 author: "Franz Kafka"
 date: "2022/06/23"
+tags: ["book"]
 ---
 
 # The Metamorphosis

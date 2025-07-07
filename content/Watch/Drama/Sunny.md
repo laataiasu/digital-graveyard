@@ -5,6 +5,7 @@ year: 2011
 type: "Korean Movie"
 score: 8.0
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # Sunny

@@ -2,6 +2,7 @@
 title: "Oliver Twist"
 author: "Charles Dickens"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Oliver Twist

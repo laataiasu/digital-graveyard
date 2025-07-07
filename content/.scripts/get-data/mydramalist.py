@@ -32,6 +32,7 @@ for _, row in df_selected.iterrows():
         f"type: \"{row['Type']}\"\n"
         f"score: {row['Score']}\n"
         f"progress: \"{row['Progress']}\"\n"
+        'tags: ["film", "drama"]\n'
         "---\n"
     )
 

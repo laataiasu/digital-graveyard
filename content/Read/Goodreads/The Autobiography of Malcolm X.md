@@ -2,6 +2,7 @@
 title: "The Autobiography of Malcolm X"
 author: "Malcolm X"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # The Autobiography of Malcolm X

@@ -2,6 +2,7 @@
 title: "A History of God: The 4000-Year Quest of Judaism, Christianity and Islam"
 author: "Karen Armstrong"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # A History of God: The 4000-Year Quest of Judaism, Christianity and Islam

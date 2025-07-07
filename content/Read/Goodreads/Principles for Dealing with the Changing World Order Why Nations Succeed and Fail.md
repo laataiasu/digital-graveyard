@@ -2,6 +2,7 @@
 title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
 author: "Ray Dalio"
 date: "2024/11/30"
+tags: ["book"]
 ---
 
 # Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail

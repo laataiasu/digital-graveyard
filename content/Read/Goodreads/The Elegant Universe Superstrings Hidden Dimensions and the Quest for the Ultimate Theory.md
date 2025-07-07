@@ -2,6 +2,7 @@
 title: "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
 author: "Brian Greene"
 date: "2022/07/11"
+tags: ["book"]
 ---
 
 # The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory

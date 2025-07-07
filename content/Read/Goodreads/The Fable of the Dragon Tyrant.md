@@ -2,6 +2,7 @@
 title: "The Fable of the Dragon-Tyrant"
 author: "Nick Bostrom"
 date: "2023/01/05"
+tags: ["book"]
 ---
 
 # The Fable of the Dragon-Tyrant

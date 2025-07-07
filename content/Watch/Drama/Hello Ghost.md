@@ -5,6 +5,7 @@ year: 2010
 type: "Korean Movie"
 score: 8.5
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # Hello Ghost

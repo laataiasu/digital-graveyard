@@ -4,4 +4,5 @@ date: 2023-03-10
 year: 2021
 letterboxd_uri: https://boxd.it/oyws
 rating: 3.5
+tags: ["film"]
 ---

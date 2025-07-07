@@ -2,6 +2,7 @@
 title: "Guns, Germs, and Steel: The Fates of Human Societies"
 author: "Jared Diamond"
 date: "2022/01/09"
+tags: ["book"]
 ---
 
 # Guns, Germs, and Steel: The Fates of Human Societies

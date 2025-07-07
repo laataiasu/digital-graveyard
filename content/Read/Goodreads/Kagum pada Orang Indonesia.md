@@ -2,6 +2,7 @@
 title: "Kagum pada Orang Indonesia"
 author: "Emha Ainun Nadjib"
 date: "2022/06/23"
+tags: ["book"]
 ---
 
 # Kagum pada Orang Indonesia

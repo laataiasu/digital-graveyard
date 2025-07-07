@@ -2,6 +2,7 @@
 title: "Tahafut Al-Tahafut (the Incoherence of the Incoherence)"
 author: "ibn Rushd"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Tahafut Al-Tahafut (the Incoherence of the Incoherence)

@@ -2,6 +2,7 @@
 title: "Sophie’s World"
 author: "Jostein Gaarder"
 date: "2020/07/03"
+tags: ["book"]
 ---
 
 # Sophie’s World

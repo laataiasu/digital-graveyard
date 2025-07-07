@@ -1,6 +1,10 @@
 ---
 date: 2001-01-01
-tags: [productivity, health, android-app]
+tags:
+- android-app
+- health
+- productivity
+- software
 ---
 # HUAWEI Health
 

@@ -2,6 +2,7 @@
 title: "Garis Waktu"
 author: "Fiersa Besari"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Garis Waktu

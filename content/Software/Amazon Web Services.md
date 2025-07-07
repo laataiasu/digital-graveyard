@@ -1,4 +1,6 @@
 ---
 aliases:
-  - AWS
+- AWS
+tags:
+- software
 ---

@@ -2,6 +2,7 @@
 title: "Twilight of the Idols / The Anti-Christ"
 author: "Friedrich Nietzsche"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Twilight of the Idols / The Anti-Christ

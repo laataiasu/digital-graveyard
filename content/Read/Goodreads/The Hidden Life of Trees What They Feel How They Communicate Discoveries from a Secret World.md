@@ -2,6 +2,7 @@
 title: "The Hidden Life of Trees: What They Feel, How They Communicate: Discoveries from a Secret World"
 author: "Peter Wohlleben"
 date: "2022/10/07"
+tags: ["book"]
 ---
 
 # The Hidden Life of Trees: What They Feel, How They Communicate: Discoveries from a Secret World

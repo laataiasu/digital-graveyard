@@ -25,6 +25,7 @@ for idx, row in df.iterrows():
         f"year: {row['Year']}\n"
         f"letterboxd_uri: {row['Letterboxd URI']}\n"
         f"rating: {row['Rating']}\n"
+        'tags: ["film"]\n'
         f"---\n"
     )
 

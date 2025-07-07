@@ -2,6 +2,7 @@
 title: "Jalan Sunyi Emha"
 author: "Ian L. Betts"
 date: "2022/09/18"
+tags: ["book"]
 ---
 
 # Jalan Sunyi Emha

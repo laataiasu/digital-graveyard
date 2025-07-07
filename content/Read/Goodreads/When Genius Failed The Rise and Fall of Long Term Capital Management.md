@@ -2,6 +2,7 @@
 title: "When Genius Failed: The Rise and Fall of Long-Term Capital Management"
 author: "Roger Lowenstein"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # When Genius Failed: The Rise and Fall of Long-Term Capital Management

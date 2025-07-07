@@ -5,6 +5,7 @@ year: 2011
 type: "Korean Drama"
 score: 8.5
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # Dream High

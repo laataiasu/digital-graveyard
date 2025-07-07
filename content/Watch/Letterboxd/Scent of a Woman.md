@@ -4,4 +4,5 @@ date: 2020-04-25
 year: 1992
 letterboxd_uri: https://boxd.it/1YAu
 rating: 3.5
+tags: ["film"]
 ---

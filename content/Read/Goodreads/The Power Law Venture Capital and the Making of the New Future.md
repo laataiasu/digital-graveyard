@@ -2,6 +2,7 @@
 title: "The Power Law: Venture Capital and the Making of the New Future"
 author: "Sebastian Mallaby"
 date: "2025/04/30"
+tags: ["book"]
 ---
 
 # The Power Law: Venture Capital and the Making of the New Future

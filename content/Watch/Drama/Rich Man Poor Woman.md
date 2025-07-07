@@ -5,6 +5,7 @@ year: 2012
 type: "Japanese Drama"
 score: 5.5
 progress: "11/11"
+tags: ["film", "drama"]
 ---
 
 # Rich Man, Poor Woman

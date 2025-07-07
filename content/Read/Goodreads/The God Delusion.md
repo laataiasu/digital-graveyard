@@ -2,6 +2,7 @@
 title: "The God Delusion"
 author: "Richard Dawkins"
 date: "2022/06/25"
+tags: ["book"]
 ---
 
 # The God Delusion

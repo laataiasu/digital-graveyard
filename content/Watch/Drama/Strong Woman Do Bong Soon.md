@@ -5,6 +5,7 @@ year: 2017
 type: "Korean Drama"
 score: 5.5
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # Strong Woman Do Bong Soon

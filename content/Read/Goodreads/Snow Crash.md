@@ -2,6 +2,7 @@
 title: "Snow Crash"
 author: "Neal Stephenson"
 date: "2021/10/23"
+tags: ["book"]
 ---
 
 # Snow Crash

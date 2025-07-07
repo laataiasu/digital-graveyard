@@ -5,6 +5,7 @@ year: 2009
 type: "Japanese Movie"
 score: 6.5
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # Crows Zero 2

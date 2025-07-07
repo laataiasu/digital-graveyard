@@ -2,6 +2,7 @@
 title: "To Kill a Mockingbird"
 author: "Harper Lee"
 date: "2020/07/03"
+tags: ["book"]
 ---
 
 # To Kill a Mockingbird

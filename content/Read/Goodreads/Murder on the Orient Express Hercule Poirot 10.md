@@ -2,6 +2,7 @@
 title: "Murder on the Orient Express (Hercule Poirot, #10)"
 author: "Agatha Christie"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Murder on the Orient Express (Hercule Poirot, #10)

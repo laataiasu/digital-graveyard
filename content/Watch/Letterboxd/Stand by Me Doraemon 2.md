@@ -4,4 +4,5 @@ date: 2021-10-15
 year: 2020
 letterboxd_uri: https://boxd.it/rkrO
 rating: 2.0
+tags: ["film"]
 ---

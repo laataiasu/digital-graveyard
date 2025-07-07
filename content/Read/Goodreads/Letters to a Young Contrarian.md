@@ -2,6 +2,7 @@
 title: "Letters to a Young Contrarian"
 author: "Christopher Hitchens"
 date: "2022/11/18"
+tags: ["book"]
 ---
 
 # Letters to a Young Contrarian

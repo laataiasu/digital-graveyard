@@ -2,6 +2,7 @@
 title: "Mortality"
 author: "Christopher Hitchens"
 date: "2023/11/06"
+tags: ["book"]
 ---
 
 # Mortality

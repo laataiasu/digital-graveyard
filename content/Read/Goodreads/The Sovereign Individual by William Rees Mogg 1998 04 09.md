@@ -2,6 +2,7 @@
 title: "The Sovereign Individual by William Rees-Mogg (1998-04-09)"
 author: "James Dale Davidson"
 date: "2025/04/30"
+tags: ["book"]
 ---
 
 # The Sovereign Individual by William Rees-Mogg (1998-04-09)

@@ -2,6 +2,7 @@
 title: "Things Hidden Since the Foundation of the World"
 author: "René Girard"
 date: "2025/04/30"
+tags: ["book"]
 ---
 
 # Things Hidden Since the Foundation of the World

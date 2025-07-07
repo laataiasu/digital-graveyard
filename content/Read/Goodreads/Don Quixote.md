@@ -2,6 +2,7 @@
 title: "Don Quixote"
 author: "Miguel de Cervantes Saavedra"
 date: "2022/06/30"
+tags: ["book"]
 ---
 
 # Don Quixote

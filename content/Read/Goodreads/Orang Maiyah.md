@@ -2,6 +2,7 @@
 title: "Orang Maiyah"
 author: "Emha Ainun Nadjib"
 date: "2020/08/23"
+tags: ["book"]
 ---
 
 # Orang Maiyah

@@ -5,6 +5,7 @@ year: 2001
 type: "Korean Movie"
 score: 5.0
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # My Sassy Girl

@@ -5,6 +5,7 @@ year: 2022
 type: "Korean Drama"
 score: 6.5
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # My Liberation Notes

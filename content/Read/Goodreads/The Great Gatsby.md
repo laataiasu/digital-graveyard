@@ -2,6 +2,7 @@
 title: "The Great Gatsby"
 author: "F. Scott Fitzgerald"
 date: "2018/09/17"
+tags: ["book"]
 ---
 
 # The Great Gatsby

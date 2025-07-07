@@ -2,6 +2,7 @@
 title: "Ronggeng Dukuh Paruk"
 author: "Ahmad Tohari"
 date: "2023/01/09"
+tags: ["book"]
 ---
 
 # Ronggeng Dukuh Paruk

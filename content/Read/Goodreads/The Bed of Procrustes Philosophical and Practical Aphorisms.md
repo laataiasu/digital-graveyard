@@ -2,6 +2,7 @@
 title: "The Bed of Procrustes: Philosophical and Practical Aphorisms"
 author: "Nassim Nicholas Taleb"
 date: "2023/01/08"
+tags: ["book"]
 ---
 
 # The Bed of Procrustes: Philosophical and Practical Aphorisms

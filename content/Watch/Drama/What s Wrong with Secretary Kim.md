@@ -5,6 +5,7 @@ year: 2018
 type: "Korean Drama"
 score: 6.0
 progress: "16/16"
+tags: ["film", "drama"]
 ---
 
 # What's Wrong with Secretary Kim

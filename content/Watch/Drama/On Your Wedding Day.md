@@ -5,6 +5,7 @@ year: 2018
 type: "Korean Movie"
 score: 7.0
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # On Your Wedding Day

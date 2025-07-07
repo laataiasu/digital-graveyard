@@ -2,6 +2,7 @@
 title: "The Protocols: The Elders of Zion"
 author: "Sergei Nilus"
 date: "2021/10/23"
+tags: ["book"]
 ---
 
 # The Protocols: The Elders of Zion

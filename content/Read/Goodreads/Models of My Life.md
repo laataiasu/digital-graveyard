@@ -2,6 +2,7 @@
 title: "Models of My Life"
 author: "Herbert A. Simon"
 date: "2023/01/04"
+tags: ["book"]
 ---
 
 # Models of My Life

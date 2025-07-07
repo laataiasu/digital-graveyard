@@ -5,6 +5,7 @@ year: 2010
 type: "Korean Drama"
 score: 7.5
 progress: "30/30"
+tags: ["film", "drama"]
 ---
 
 # Bread, Love and Dreams

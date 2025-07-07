@@ -2,6 +2,7 @@
 title: "The Alchemist"
 author: "Paulo Coelho"
 date: "2018/09/16"
+tags: ["book"]
 ---
 
 # The Alchemist

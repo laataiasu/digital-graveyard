@@ -2,6 +2,7 @@
 title: "No Longer Human"
 author: "Osamu Dazai"
 date: "2022/07/25"
+tags: ["book"]
 ---
 
 # No Longer Human

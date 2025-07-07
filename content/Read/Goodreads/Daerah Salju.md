@@ -2,6 +2,7 @@
 title: "Daerah Salju"
 author: "Yasunari Kawabata"
 date: "2019/07/08"
+tags: ["book"]
 ---
 
 # Daerah Salju

@@ -2,6 +2,7 @@
 title: "Filosofi Cinta KAHLIL GIBRAN"
 author: "Fahruddin Faiz"
 date: "2022/10/22"
+tags: ["book"]
 ---
 
 # Filosofi Cinta KAHLIL GIBRAN

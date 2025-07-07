@@ -2,6 +2,7 @@
 title: "Norwegian Wood"
 author: "Haruki Murakami"
 date: "2019/07/08"
+tags: ["book"]
 ---
 
 # Norwegian Wood

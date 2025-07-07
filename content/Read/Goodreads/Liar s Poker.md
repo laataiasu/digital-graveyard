@@ -2,6 +2,7 @@
 title: "Liar's Poker"
 author: "Michael   Lewis"
 date: "2021/08/23"
+tags: ["book"]
 ---
 
 # Liar's Poker

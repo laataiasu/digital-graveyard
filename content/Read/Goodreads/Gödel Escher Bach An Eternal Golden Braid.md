@@ -2,6 +2,7 @@
 title: "Gödel, Escher, Bach: An Eternal Golden Braid"
 author: "Douglas R. Hofstadter"
 date: "2025/05/19"
+tags: ["book"]
 ---
 
 # Gödel, Escher, Bach: An Eternal Golden Braid

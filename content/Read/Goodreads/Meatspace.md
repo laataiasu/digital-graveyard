@@ -2,6 +2,7 @@
 title: "Meatspace"
 author: "Nikesh Shukla"
 date: "2019/07/08"
+tags: ["book"]
 ---
 
 # Meatspace

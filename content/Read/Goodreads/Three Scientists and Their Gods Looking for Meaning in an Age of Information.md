@@ -2,6 +2,7 @@
 title: "Three Scientists and Their Gods: Looking for Meaning in an Age of Information"
 author: "Robert Wright"
 date: "2023/01/04"
+tags: ["book"]
 ---
 
 # Three Scientists and Their Gods: Looking for Meaning in an Age of Information

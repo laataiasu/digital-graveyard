@@ -5,6 +5,7 @@ year: 2008
 type: "Korean Movie"
 score: 7.0
 progress: "1/1"
+tags: ["film", "drama"]
 ---
 
 # Baby & I
