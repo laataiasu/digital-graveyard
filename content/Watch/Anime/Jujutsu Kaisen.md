@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '40748'
+series_title: Jujutsu Kaisen
 series_type: TV
 series_episodes: '24'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Jujutsu Kaisen
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

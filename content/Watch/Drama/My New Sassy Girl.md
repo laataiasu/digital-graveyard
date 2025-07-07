@@ -1,12 +1,16 @@
 ---
-title: "My New Sassy Girl"
-country: "South Korea"
+title: My New Sassy Girl
+country: South Korea
 year: 2016
-type: "Korean Movie"
+type: Korean Movie
 score: 4.5
-progress: "1/1"
-tags: ["film", "drama"]
+progress: 1/1
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # My New Sassy Girl
 

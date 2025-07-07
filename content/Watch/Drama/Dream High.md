@@ -1,12 +1,16 @@
 ---
-title: "Dream High"
-country: "South Korea"
+title: Dream High
+country: South Korea
 year: 2011
-type: "Korean Drama"
+type: Korean Drama
 score: 8.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Dream High
 

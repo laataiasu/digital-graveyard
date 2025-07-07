@@ -1,12 +1,16 @@
 ---
-title: "Train to Busan"
-country: "South Korea"
+title: Train to Busan
+country: South Korea
 year: 2016
-type: "Korean Movie"
+type: Korean Movie
 score: 8.0
-progress: "1/1"
-tags: ["film", "drama"]
+progress: 1/1
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Train to Busan
 

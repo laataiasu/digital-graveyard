@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '13'
+manga_title: One Piece
 manga_volumes: '0'
 manga_chapters: '0'
 my_id: '113701506'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: One Piece
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

@@ -1,12 +1,16 @@
 ---
-title: "Secret Garden Special"
-country: "South Korea"
+title: Secret Garden Special
+country: South Korea
 year: 2011
-type: "Korean Special"
+type: Korean Special
 score: 5.0
-progress: "1/1"
-tags: ["film", "drama"]
+progress: 1/1
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Secret Garden Special
 

@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '1689'
+series_title: Byousoku 5 Centimeter
 series_type: Movie
 series_episodes: '3'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Byousoku 5 Centimeter
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

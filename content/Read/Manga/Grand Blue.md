@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '70345'
+manga_title: Grand Blue
 manga_volumes: '0'
 manga_chapters: '0'
 my_id: '113701516'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: Grand Blue
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

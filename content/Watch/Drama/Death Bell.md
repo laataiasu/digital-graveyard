@@ -1,12 +1,16 @@
 ---
-title: "Death Bell"
-country: "South Korea"
+title: Death Bell
+country: South Korea
 year: 2008
-type: "Korean Movie"
+type: Korean Movie
 score: 5.0
-progress: "1/1"
-tags: ["film", "drama"]
+progress: 1/1
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Death Bell
 

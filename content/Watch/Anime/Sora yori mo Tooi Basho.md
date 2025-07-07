@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '35839'
+series_title: Sora yori mo Tooi Basho
 series_type: TV
 series_episodes: '13'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Sora yori mo Tooi Basho
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

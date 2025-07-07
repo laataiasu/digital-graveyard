@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '35466'
+series_title: 'ReLIFE: Kanketsu-hen'
 series_type: Special
 series_episodes: '4'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 'ReLIFE: Kanketsu-hen'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

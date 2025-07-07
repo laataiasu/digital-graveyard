@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '35459'
+manga_title: My Heart Is Beating
 manga_volumes: '3'
 manga_chapters: '30'
 my_id: '125165062'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: My Heart Is Beating
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

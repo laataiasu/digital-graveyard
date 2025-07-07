@@ -1,12 +1,16 @@
 ---
-title: "Itaewon Class"
-country: "South Korea"
+title: Itaewon Class
+country: South Korea
 year: 2020
-type: "Korean Drama"
+type: Korean Drama
 score: 8.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Itaewon Class
 

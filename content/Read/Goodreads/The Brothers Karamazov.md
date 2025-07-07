@@ -1,9 +1,32 @@
 ---
-title: "The Brothers Karamazov"
-author: "Fyodor Dostoevsky"
-date: "2020/08/23"
-tags: ["book"]
+title: The Brothers Karamazov
+author: Fyodor Dostoevsky
+date: '2020-08-23'
+author_lf: Dostoevsky, Fyodor
+additional_authors: Richard Pevear, Larissa Volokhonsky
+isbn: 0374528373
+isbn13: '9780374528379'
+publisher: Farrar, Straus and Giroux
+binding: Paperback
+pages: '796'
+year_published: '2002'
+original_publication_year: '1880'
+date_read: ''
+date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
+- 1598140800000000000
+- null
+- null
+- 10
+my_rating: '0'
+average_rating: '4.38'
+bookshelves: to-read
+exclusive_shelf: to-read
+read_count: '0'
+owned_copies: '0'
+tags:
+- book
 ---
+
 
 # The Brothers Karamazov
 
@@ -11,26 +34,6 @@ tags: ["book"]
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
-
-- author_lf: "Dostoevsky, Fyodor"
-- additional_authors: "Richard Pevear, Larissa Volokhonsky"
-- isbn: "0374528373"
-- isbn13: "9780374528379"
-- publisher: "Farrar, Straus and Giroux"
-- binding: "Paperback"
-- pages: 796
-- year_published: 2002
-- original_publication_year: 1880
-- date_read: ""
-- date_added: "2020/08/23"
-- my_rating: 0
-- average_rating: 4.38
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
 
 ## Review
 

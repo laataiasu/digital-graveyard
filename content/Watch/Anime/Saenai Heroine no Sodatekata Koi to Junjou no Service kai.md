@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '35338'
+series_title: 'Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai'
 series_type: Special
 series_episodes: '1'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 'Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

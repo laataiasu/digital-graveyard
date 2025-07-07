@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '32542'
+series_title: Sakamoto desu ga?
 series_type: TV
 series_episodes: '12'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Sakamoto desu ga?
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

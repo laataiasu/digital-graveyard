@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '113138'
+manga_title: Jujutsu Kaisen
 manga_volumes: '30'
 manga_chapters: '272'
 my_id: '113701530'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: Jujutsu Kaisen
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

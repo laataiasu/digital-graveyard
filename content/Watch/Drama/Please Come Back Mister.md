@@ -1,12 +1,16 @@
 ---
-title: "Please Come Back, Mister"
-country: "South Korea"
+title: Please Come Back, Mister
+country: South Korea
 year: 2016
-type: "Korean Drama"
+type: Korean Drama
 score: 7.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Please Come Back, Mister
 

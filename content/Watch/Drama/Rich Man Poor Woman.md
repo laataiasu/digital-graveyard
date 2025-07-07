@@ -1,12 +1,16 @@
 ---
-title: "Rich Man, Poor Woman"
-country: "Japan"
+title: Rich Man, Poor Woman
+country: Japan
 year: 2012
-type: "Japanese Drama"
+type: Japanese Drama
 score: 5.5
-progress: "11/11"
-tags: ["film", "drama"]
+progress: 11/11
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Rich Man, Poor Woman
 

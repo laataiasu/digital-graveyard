@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '31646'
+series_title: 3-gatsu no Lion
 series_type: TV
 series_episodes: '22'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 3-gatsu no Lion
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

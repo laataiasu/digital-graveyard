@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '35110'
+series_title: 'Haikyuu!! Movie 3: Sainou to Sense'
 series_type: Movie
 series_episodes: '1'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 'Haikyuu!! Movie 3: Sainou to Sense'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

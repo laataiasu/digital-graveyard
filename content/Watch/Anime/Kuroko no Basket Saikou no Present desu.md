@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '31051'
+series_title: 'Kuroko no Basket: Saikou no Present desu'
 series_type: Special
 series_episodes: '1'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 'Kuroko no Basket: Saikou no Present desu'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

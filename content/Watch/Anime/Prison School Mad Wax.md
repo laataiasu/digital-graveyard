@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '32485'
+series_title: 'Prison School: Mad Wax'
 series_type: OVA
 series_episodes: '1'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 'Prison School: Mad Wax'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

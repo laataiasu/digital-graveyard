@@ -1,5 +1,7 @@
 ---
 series_animedb_id: '46431'
+series_title: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki
+  wa Owarazu ni, Seishun wa Tsuzuiteiku.'
 series_type: OVA
 series_episodes: '1'
 my_id: '0'
@@ -23,9 +25,9 @@ my_sns: default
 update_on_import: '0'
 title: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki
   wa Owarazu ni, Seishun wa Tsuzuiteiku.'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

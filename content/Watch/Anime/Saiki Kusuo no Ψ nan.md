@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '33255'
+series_title: Saiki Kusuo no Ψ-nan
 series_type: TV
 series_episodes: '120'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Saiki Kusuo no Ψ-nan
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

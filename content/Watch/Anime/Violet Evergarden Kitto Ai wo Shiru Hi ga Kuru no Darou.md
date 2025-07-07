@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '37095'
+series_title: 'Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou'
 series_type: Special
 series_episodes: '1'
 my_id: '0'
@@ -21,10 +22,10 @@ my_rewatching_ep: '0'
 my_discuss: '1'
 my_sns: default
 update_on_import: '0'
-title: 'Violet Evergarden: Kitto Ai wo Shiru Hi ga Kuru no Darou'
-date: '2016-01-01'
+title: 'Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '22535'
+series_title: 'Kiseijuu: Sei no Kakuritsu'
 series_type: TV
 series_episodes: '24'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: 'Kiseijuu: Sei no Kakuritsu'
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

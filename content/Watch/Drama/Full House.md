@@ -1,12 +1,16 @@
 ---
-title: "Full House "
-country: "South Korea"
+title: 'Full House '
+country: South Korea
 year: 2004
-type: "Korean Drama"
+type: Korean Drama
 score: 5.0
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Full House 
 

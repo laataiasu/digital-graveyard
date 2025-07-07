@@ -1,12 +1,16 @@
 ---
-title: "Fated to Love You"
-country: "South Korea"
+title: Fated to Love You
+country: South Korea
 year: 2014
-type: "Korean Drama"
+type: Korean Drama
 score: 8.5
-progress: "20/20"
-tags: ["film", "drama"]
+progress: 20/20
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Fated to Love You
 

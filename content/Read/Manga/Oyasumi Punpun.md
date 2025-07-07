@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '4632'
+manga_title: Oyasumi Punpun
 manga_volumes: '13'
 manga_chapters: '147'
 my_id: '113701513'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: Oyasumi Punpun
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

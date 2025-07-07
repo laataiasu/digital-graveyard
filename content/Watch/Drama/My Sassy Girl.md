@@ -1,12 +1,16 @@
 ---
-title: "My Sassy Girl"
-country: "South Korea"
+title: My Sassy Girl
+country: South Korea
 year: 2001
-type: "Korean Movie"
+type: Korean Movie
 score: 5.0
-progress: "1/1"
-tags: ["film", "drama"]
+progress: 1/1
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # My Sassy Girl
 

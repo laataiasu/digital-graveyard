@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '15'
+series_title: Eyeshield 21
 series_type: TV
 series_episodes: '145'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Eyeshield 21
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

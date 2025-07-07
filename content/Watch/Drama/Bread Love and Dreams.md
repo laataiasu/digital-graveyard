@@ -1,12 +1,16 @@
 ---
-title: "Bread, Love and Dreams"
-country: "South Korea"
+title: Bread, Love and Dreams
+country: South Korea
 year: 2010
-type: "Korean Drama"
+type: Korean Drama
 score: 7.5
-progress: "30/30"
-tags: ["film", "drama"]
+progress: 30/30
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Bread, Love and Dreams
 

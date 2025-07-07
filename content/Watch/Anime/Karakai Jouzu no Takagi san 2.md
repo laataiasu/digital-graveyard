@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '38993'
+series_title: Karakai Jouzu no Takagi-san 2
 series_type: TV
 series_episodes: '12'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Karakai Jouzu no Takagi-san 2
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

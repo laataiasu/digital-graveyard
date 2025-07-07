@@ -1,12 +1,16 @@
 ---
-title: "Boys over Flowers"
-country: "South Korea"
+title: Boys over Flowers
+country: South Korea
 year: 2009
-type: "Korean Drama"
+type: Korean Drama
 score: 5.0
-progress: "25/25"
-tags: ["film", "drama"]
+progress: 25/25
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Boys over Flowers
 

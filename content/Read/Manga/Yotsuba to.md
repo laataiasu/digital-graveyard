@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '104'
+manga_title: Yotsuba to!
 manga_volumes: '0'
 manga_chapters: '0'
 my_id: '125893866'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: Yotsuba to!
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '23390'
+manga_title: Shingeki no Kyojin
 manga_volumes: '34'
 manga_chapters: '141'
 my_id: '125893586'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: Shingeki no Kyojin
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

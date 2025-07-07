@@ -1,12 +1,16 @@
 ---
-title: "Who Are You: School 2015"
-country: "South Korea"
+title: 'Who Are You: School 2015'
+country: South Korea
 year: 2015
-type: "Korean Drama"
+type: Korean Drama
 score: 6.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Who Are You: School 2015
 

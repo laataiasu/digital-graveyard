@@ -1,12 +1,16 @@
 ---
-title: "Reply 1988"
-country: "South Korea"
+title: Reply 1988
+country: South Korea
 year: 2015
-type: "Korean Drama"
+type: Korean Drama
 score: 8.5
-progress: "20/20"
-tags: ["film", "drama"]
+progress: 20/20
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Reply 1988
 

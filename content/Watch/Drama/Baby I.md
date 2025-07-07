@@ -1,12 +1,16 @@
 ---
-title: "Baby & I"
-country: "South Korea"
+title: Baby & I
+country: South Korea
 year: 2008
-type: "Korean Movie"
+type: Korean Movie
 score: 7.0
-progress: "1/1"
-tags: ["film", "drama"]
+progress: 1/1
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Baby & I
 

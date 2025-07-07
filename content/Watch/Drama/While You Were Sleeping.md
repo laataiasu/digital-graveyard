@@ -1,12 +1,16 @@
 ---
-title: "While You Were Sleeping"
-country: "South Korea"
+title: While You Were Sleeping
+country: South Korea
 year: 2017
-type: "Korean Drama"
+type: Korean Drama
 score: 6.0
-progress: "32/32"
-tags: ["film", "drama"]
+progress: 32/32
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # While You Were Sleeping
 

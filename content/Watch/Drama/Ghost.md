@@ -1,12 +1,16 @@
 ---
-title: "Ghost"
-country: "South Korea"
+title: Ghost
+country: South Korea
 year: 2012
-type: "Korean Drama"
+type: Korean Drama
 score: 8.0
-progress: "20/20"
-tags: ["film", "drama"]
+progress: 20/20
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Ghost
 

@@ -1,12 +1,16 @@
 ---
-title: "My Liberation Notes"
-country: "South Korea"
+title: My Liberation Notes
+country: South Korea
 year: 2022
-type: "Korean Drama"
+type: Korean Drama
 score: 6.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # My Liberation Notes
 

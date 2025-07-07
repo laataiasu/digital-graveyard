@@ -1,12 +1,16 @@
 ---
-title: "Descendants of the Sun"
-country: "South Korea"
+title: Descendants of the Sun
+country: South Korea
 year: 2016
-type: "Korean Drama"
+type: Korean Drama
 score: 8.0
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Descendants of the Sun
 

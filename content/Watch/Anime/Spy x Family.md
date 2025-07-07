@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '50265'
+series_title: Spy x Family
 series_type: TV
 series_episodes: '12'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Spy x Family
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '52991'
+series_title: Sousou no Frieren
 series_type: TV
 series_episodes: '28'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Sousou no Frieren
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: "Get Out"
-date: 2020-04-25
+title: Get Out
+date: '2020-04-25'
 year: 2017
 letterboxd_uri: https://boxd.it/eOCm
 rating: 4.0
-tags: ["film"]
+tags:
+- film
 ---
+

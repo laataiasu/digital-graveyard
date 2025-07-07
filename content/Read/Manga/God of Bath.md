@@ -1,5 +1,6 @@
 ---
 manga_mangadb_id: '41961'
+manga_title: God of Bath
 manga_volumes: '3'
 manga_chapters: '30'
 my_id: '125165048'
@@ -22,9 +23,9 @@ my_discuss: 'YES'
 my_sns: default
 update_on_import: '0'
 title: God of Bath
-date: '2016-01-01'
 tags:
 - manga
 - book
+date: '2016-01-01'
 ---
 

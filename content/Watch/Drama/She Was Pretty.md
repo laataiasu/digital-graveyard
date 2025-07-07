@@ -1,12 +1,16 @@
 ---
-title: "She Was Pretty"
-country: "South Korea"
+title: She Was Pretty
+country: South Korea
 year: 2015
-type: "Korean Drama"
+type: Korean Drama
 score: 7.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # She Was Pretty
 

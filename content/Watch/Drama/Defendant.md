@@ -1,12 +1,16 @@
 ---
-title: "Defendant"
-country: "South Korea"
+title: Defendant
+country: South Korea
 year: 2017
-type: "Korean Drama"
+type: Korean Drama
 score: 8.0
-progress: "18/18"
-tags: ["film", "drama"]
+progress: 18/18
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # Defendant
 

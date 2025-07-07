@@ -1,5 +1,6 @@
 ---
 series_animedb_id: '16498'
+series_title: Shingeki no Kyojin
 series_type: TV
 series_episodes: '25'
 my_id: '0'
@@ -22,9 +23,9 @@ my_discuss: '1'
 my_sns: default
 update_on_import: '0'
 title: Shingeki no Kyojin
-date: '2016-01-01'
 tags:
 - anime
 - film
+date: '2016-01-01'
 ---
 

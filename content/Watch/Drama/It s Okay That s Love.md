@@ -1,12 +1,16 @@
 ---
-title: "It's Okay, That's Love"
-country: "South Korea"
+title: It's Okay, That's Love
+country: South Korea
 year: 2014
-type: "Korean Drama"
+type: Korean Drama
 score: 7.5
-progress: "16/16"
-tags: ["film", "drama"]
+progress: 16/16
+tags:
+- film
+- drama
+date: '2016-01-01'
 ---
+
 
 # It's Okay, That's Love
 
