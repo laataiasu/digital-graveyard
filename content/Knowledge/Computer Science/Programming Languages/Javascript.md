@@ -72,7 +72,7 @@ typeof
 // in hanya ngecek property
 in 
 // Nullish coalescing
-data = parameter ?? "Nilai default"
+data = parameter?? "Nilai default"
 // optional chaining
 let country = person?.address?.country
 ```

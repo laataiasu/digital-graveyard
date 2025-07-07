@@ -13,14 +13,14 @@ Neraka padahal manis,
 Juga harum,  
 Kaya ketek aku  
 Tapi kenapa ga pada mau,  
-Nyium ketek aku ?  
+Nyium ketek aku?  
   
 Seterusnya surga,  
-duh apa bentuk rasanya yah ?  
+duh apa bentuk rasanya yah?  
   
-Ga ada rasanya ?  
-Belum kerasa ?  
-Atau ga pernah kerasa ?  
+Ga ada rasanya?  
+Belum kerasa?  
+Atau ga pernah kerasa?  
   
 Surga bisa jadi,  
 Kepala perut kaki  

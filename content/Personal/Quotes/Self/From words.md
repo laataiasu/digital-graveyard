@@ -30,7 +30,7 @@ date: 2001-01-01
 - Listen, Im a nice person. So if I treat you bad, you need ask yourself why
 - Tak ada yang tahu sesulit, semenakutkan, semenyedihkan apa yang harus dihadapi seorang ayah
 - Teori hanyalah kata2 untuk mengacaukan pikiran, beranilah percaya dengan apa yang kau lihat -SG
-- Orang2 mengisi kehidupannya dengan kebohongan. Berpura2 bersikap baik, padahal tidak. Berpura2 tidak suka padahal suka. Berpura2 keren padahal jauh dari kata keren. Apa kau tahu dimana orang seperti itu bisa jadi jujur ? Tepat di depan komputer mereka -Ghost
+- Orang2 mengisi kehidupannya dengan kebohongan. Berpura2 bersikap baik, padahal tidak. Berpura2 tidak suka padahal suka. Berpura2 keren padahal jauh dari kata keren. Apa kau tahu dimana orang seperti itu bisa jadi jujur? Tepat di depan komputer mereka -Ghost
 - Aku percaya dengan mesin, dan secara objektif aku juga seorang pengurung diri, Tapi jika kau berpikir itu suatu penghinaan aku tidak bisa bayangkan sesakit apa otakmu - Sakuraso
 - Celana dalam tidak dapat menyelesaikan masalah ini
 - Tapi aku percaya pada celana dalam
@@ -46,31 +46,31 @@ date: 2001-01-01
 - Harapan kamu ke aku itu kaya led notification, idup mati idup mati
 - Kamu itu kaya waze, penunjuk jalan hidup aku. Kalo tersesat ujung ujungnya aku balik ke kamu
 - Ingin deh jadi pokemon go, tiap saat diliatin kamu, meski akhirnya cuman dimainin
-- Kamu baru merasakan dan menjalani hidup 1 per sekian persen tapi kamu sudah berkata dunia itu sempit dan membosankan ?
+- Kamu baru merasakan dan menjalani hidup 1 per sekian persen tapi kamu sudah berkata dunia itu sempit dan membosankan?
 - Jangan terlalu banyak mengonsumsi informasi. media mencari popularitas dan rating, bukan kebenaran dari berita yang layak
 - Jangan main api kalo takut kebakar, jangan main cinta kalo takut patah hati
 - Jangan pernah biarkan kemalasan bersemayam dalam diri, sebab kemalasan hanya jadi dinding penghalang bagi mreka yg ingin berjuang. [[Twitter]]
 - Peduli itu bagus tapi sesuatu yang berlebihan itu menjijikan
 - I have hopes that someday introverts explain their mind and extroverts keep their mouth
-- Kalau kamu tidak melakukan hal gila sekarang, apa yang akan kamu tertawakan saat tua nanti ? Mungkin kita bisa tertawa saat tua nanti, tapi apakah kita akan tertawa di akhirat kelak ? Atau orang tua yg menanggung dosa kita bisa tertawa kelak ?
+- Kalau kamu tidak melakukan hal gila sekarang, apa yang akan kamu tertawakan saat tua nanti? Mungkin kita bisa tertawa saat tua nanti, tapi apakah kita akan tertawa di akhirat kelak? Atau orang tua yg menanggung dosa kita bisa tertawa kelak?
 - Ada perbedaan antara boss dengan pemimpin.. Boss membuat jarak dengan para anggotanya, menganggap dirinya lebih tinggi dari anggota nya.. Sedangkan pemimpin mengajak anggotanya untuk bersama2 menjaga dan membawa kelompoknya menjadi lebih baik..
 - Siapa yang butuh anjing saat manusia bnyk yg menyerupai anjing
-- Katanya jangan berpolitik dengan agama, lah situ emang mempertahanin posisi di perpolitikan dengan mencaci yang berpolitik dengan agama pake apa ?
+- Katanya jangan berpolitik dengan agama, lah situ emang mempertahanin posisi di perpolitikan dengan mencaci yang berpolitik dengan agama pake apa?
 - Jangan pernah merasa cukup
 - Puas tak pernah serakah tak sadar
 - Bila buku buku punya perasaan, mungkin mereka kecewa karena hanya dijadikan pelarianku disaat bosan
 - Jika kesenangan membutakan dan keyakinan membodohkan, maka keraguraguan selalu berada ditengahnya
-- Mengapa drama disukai manusia ? Karena ia mengimplementasikan fantasi yang sebenarnya dari perasaan manusia yang berlawanan dari realitas kehidupan mereka yang kejam
+- Mengapa drama disukai manusia? Karena ia mengimplementasikan fantasi yang sebenarnya dari perasaan manusia yang berlawanan dari realitas kehidupan mereka yang kejam
 - Solatbdi luar bumi
 - Mayat dikrekasi
 - Nuklir limbah diledakkan di luar angkasa
 - Menghapus dinding bukan berarti menghapus kesepian, saat menemukan kehidupan liar yg tak bisakau jinakan, kesepian kau rasakan makin dalam
 - Bukan ayahmu yang miskin, hati miskinmu yg tak bisa menerima kesederhanaan
-- Jika hidup yg manusia idamkan adalah yg penuh kebahagiaan keadilan dan perdamaian, lalu siapa yg akan memenuhi hasrat tuhan, dengan rencana abraham mengurbankan anaknya kah? pengorbanan yesus kah ? Umat yg edan yg menimpa muhammad kah ? Atau kesedihan dan ketidakadilan yg dirasakan seluruh umat manusia ?
-- Saat perlgbtan marak di dunia, perlukah saya poligami, poliatomik, maupun poliklinik ?
+- Jika hidup yg manusia idamkan adalah yg penuh kebahagiaan keadilan dan perdamaian, lalu siapa yg akan memenuhi hasrat tuhan, dengan rencana abraham mengurbankan anaknya kah? pengorbanan yesus kah? Umat yg edan yg menimpa muhammad kah? Atau kesedihan dan ketidakadilan yg dirasakan seluruh umat manusia?
+- Saat perlgbtan marak di dunia, perlukah saya poligami, poliatomik, maupun poliklinik?
 - Puas jangan, bersyukur teing
 - Pemandangan terindah ada di balik jendela, km bisa melihat orang yang tidak kamu kenal berbondong2 mencari keuntngan dan keberuntungan dunia meski tahu hidup di dunia tidak selamanya
-- Apa yang salah dengan khalifah ?
+- Apa yang salah dengan khalifah?
 - Aku pernah mengalami seluruh kepahitan di dunia ini dan yang paling pahit adalah berharap kepada makhluk
 - -Ali Bin Abi Thalib-
 - Yang paling sulit bukanlah mencari kebenaran tapi tetap di jalan kebenaran
@@ -84,7 +84,7 @@ date: 2001-01-01
 - Life is the coffee, the jobs money and position in society are the cups. They are just tools to hold and contain life, and the type of cup we have does not define,nor change the quality of life. Sometimes, by concentrating only on the cup, we fail to enjoy the coffe. Savor the coffe, not the cups. The happiest people dont have the best of everything. They just make the best of everything. Live simply, love generously, care deeply, speak kindly
 - Tidak ada orang bodoh, yang ada hanyalah orang yang belum menemukan bakatnya
 - Saat kecil, menipu hanya digunakan untuk kesenangan. Saat besar, menipu digunakan untuk mencari uang, kekuasaan, kesenangan dan menyembunyikannya dibalik kekhilafan / kesalahan wajar manusia. Dimulai dari bercanda, lalu terbiasa. Dan akhirnya serius membawa kesenangan tanpa sadar membawa kepada penyesalan. Proses menipu sama cinta ga beda jauh. Jadi kalo ada laki yang bilang serius cinta sm anda jangan percaya, itu cuman tipuan. Da laki mah kalo udah di surga dikasih bidadari juga diembat, boro2 inget kamu, inget tuhan aja ga akan. hehe
-- Besar mana 5 atau 1 ?
+- Besar mana 5 atau 1?
 - Saat yang plng buruk adalah saat anda menyadari bhw kebahagiaan yg anda rasakan skrng hanyalah ilusi dunia
 - Takdir hanyalah buatan manusia untuk membuatnya tidak merasakan kecewa setelah gagal melakukan sesuatu yang mereka anggap sungguh2
 - The greatest trick the devil ever pulled was convincing the world he didn't exist . And like that, poof. He's gone
@@ -100,13 +100,13 @@ date: 2001-01-01
 - Dibalik pengalihan ada kejujuran yang tak ingin diungkap
 - Kita dituntut untuk menjadi fisikawan, kimiawan, sejarawan, sastrawan saat meninggalkan sma namun yang benar2 terjadi saat meninggalkan bangku perkuliahan kita hanyalah menjadi karyawan
 - With no words i said
-- Bukan kehilangan sst yg membuatmu kehilangan semuanya melainkan percaya trhdp sesuatu yg membuatku kehilangan sst yg lain, jika tuhan maha kuasa, kuasakah ia membuat hidup yang tidak bisa dikendalikannya ?
+- Bukan kehilangan sst yg membuatmu kehilangan semuanya melainkan percaya trhdp sesuatu yg membuatku kehilangan sst yg lain, jika tuhan maha kuasa, kuasakah ia membuat hidup yang tidak bisa dikendalikannya?
 - Sebagian menikmati hidup, sebagian mencari tujuan hidup, sebagian merusak hidup, sebagian pasrah hidup, semua hidup untuk hidup
 - Hanya kematian yang bisa menjawab pertanyaan yg belum terjawabkam
 - Hal yangkita perjuangkan dari luar menghancurkan sendiri dari dalam
 - Dan pemikirandengan kesombongannya selalu mengalahkan firman dari tuhannya
 - Tak perlu mencari arti hanya perlu jalani
-- Jika para filsuf panteisme diperlihtkan kitab suci lengkap dengan tafsirannya, apakah mereka akan beriman ? Tentu tidak. Yg menyebabkan mereka tidak beriman kesombongan pemikirannya atau kehendak tuhan ? Jika segalanya adalah kehendak tuhan, mengapa mengenai ketuhanan segalanya perlu dipertanggung jawabkan ?
+- Jika para filsuf panteisme diperlihtkan kitab suci lengkap dengan tafsirannya, apakah mereka akan beriman? Tentu tidak. Yg menyebabkan mereka tidak beriman kesombongan pemikirannya atau kehendak tuhan? Jika segalanya adalah kehendak tuhan, mengapa mengenai ketuhanan segalanya perlu dipertanggung jawabkan?
 - I like [[Music]] with no lyric because its just like my lifes no meaning but it feels good
 - Disetiap kecanggungan selalu ada keistimewaan yang membuatku merasa nyaman dan sikap baikmu merusak sudut pandangku sebatas teman, karenanya aku benci orang yang mudah tersenyum saat berhadapan denganku
 - Jika ketidakadilan menurut manusia merupakan keadilan menurut tuhan lantas
@@ -116,14 +116,14 @@ date: 2001-01-01
 - Ketidaktahuan yang ditahutahukan, persandiwaraan meningkatkan status sosial dihadapan orng lan tapi merendahkan sang kuasa atas dirinya sendiri
 - Adalah merupakan kekejaman untuk meletakkan hakikat manusia yang bersifat khas dan individualis dibawah tirani pengetahuan yang bersifat umu
 - Ingin mengkritik kemanusiaan dengan tindakan ketidamanusiaan
-- Siapa tuhan, siapa manusia. Berapa banyak orang terbunuh karena pertanyaan ini ?
+- Siapa tuhan, siapa manusia. Berapa banyak orang terbunuh karena pertanyaan ini?
 - Pikiran melihat apa yang ingin dilihatnya
 - Kamu Ibarat gula yang diaduk dalam teh bohay, kupikir setelah diaduk kamu menghilang, namun ternyata kau menyatu dan memaniskan kehidupanku
 - Hidupku itu kaya pare, walau pait tetap aja enak dan bergizi
 - Ketunggalan adalah sesuatu yang abadi, buat apa menyelamatkan sesuatu yang ditakdirkan untuk musnah
 - Jadilah orang yang tidak pernah pernah diperhatikan, jadi saat anda dilupakan, anda tidak pernah merasa sakit
 - Menanam mudah yg sulitmerawatnya
-- Puas? Jangan bersyukur ? Harus
+- Puas? Jangan bersyukur? Harus
 - Yang aku benci setelah membaca beberapa kata adalah aku merasa lebih dari yang lain
 - Orang biasa dengan segala hal yang telah dilaluinya tetaplah menjadi orang biasa
 - Yang berkepentingan pribadi masih mempekerjakan ilmuwannya sendiri untuk mengaburkan isu yang ada tapi pada akhirnya, alam tak pernah bohong
@@ -207,4 +207,4 @@ date: 2001-01-01
 - Sehingga tak ada lagi rasa spesial
 - Organisasi hanyalah tempat dimana orang sok keren berkumpul dan menyampaikan gagasan yang dianggapnya keren
 - Buku yang ditujukan hanya untuk diri sendiri ntah saat dibaca orang lain akan bermanfaat atau tidak, ntah memutus sel kanker atau makin membiakannya
-- Hal paling tidak nyata yang paling menyenangkan apakah yang pernah km rasakan ? Cinta
+- Hal paling tidak nyata yang paling menyenangkan apakah yang pernah km rasakan? Cinta

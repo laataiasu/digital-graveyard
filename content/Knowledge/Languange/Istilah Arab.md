@@ -27,7 +27,7 @@ berikut ini adalah istilah-istilah singkat yang biasa digunakan oleh para penunt
 - Barakallah fikum = semoga ALLAH memberi kalian berkah
 - Wa iyyak = sama-sama
 - Wa anta kadzalik = begitu jg antum
-- Ayyul khidmah = ada yg bisa dibantu ?
+- Ayyul khidmah = ada yg bisa dibantu?
 - Nas-alullaha asSalamah wal afiah = kita memohon kepada ALLAH keselamatan dan kebaikan
 - Jazakumullah khayran = semoga ALLAH memmbalas kalian dengan lebih baik
 - Jazaakallahu khayran = semoga ALLAH membalasmu (laki2) dengan lebih baik
@@ -50,13 +50,13 @@ berikut ini adalah istilah-istilah singkat yang biasa digunakan oleh para penunt
 - ya ukhti = wahai saudaraku ([[Woman|perempuan]])
 - Akhi fillah = saudaraku seiman (kepada Allah)
 maksudnya
-==> Kaifa haluk = apa kabar- kalau untuk kepada kamu laki2= kaifa haluka ? ;
+==> Kaifa haluk = apa kabar- kalau untuk kepada kamu laki2= kaifa haluka? ;
 - Kalau kepada kamu [[Woman|perempuan]] : kaifa haluki?)
 - antum = kum = kalian laki2
 - antunna = kunn = kalian prempuan
 - huwa = hu = dia laki2
-- hiya = ha = dia prempuan - mazata'malu ? = apa yg sedang kamu kerjakan ?
-- mazata'maluna ? = apa yg sedang kalian kerjakan ?
+- hiya = ha = dia prempuan - mazata'malu? = apa yg sedang kamu kerjakan?
+- mazata'maluna? = apa yg sedang kalian kerjakan?
 - ana ata'allamu = saya sedang belajar
 - nahnu nata'allamu = kami sedang belajar al idhofatu = sandaran
 contoh:

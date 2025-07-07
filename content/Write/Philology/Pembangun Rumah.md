@@ -7,7 +7,7 @@ title: Pembangun Rumah
 ---
   
 Apabila aku ditanya,  
-"Kau belajar dan bekerja keras untuk apa ?"  
+"Kau belajar dan bekerja keras untuk apa?"  
 Jawabannya adalah…  
 UNTUK MENGHINDARI NERAKA.  
 .  
@@ -28,8 +28,8 @@ Dan setiap orang pintar pandai menipu
 Sungguh yang dikatakannya adalah kebohongan  
   
 Memangnya jika sudah bertemu pembangun rumah,  
-apa yang akan mereka lakukan ?  
-Berbincang selama-lamanya ?  
+apa yang akan mereka lakukan?  
+Berbincang selama-lamanya?  
 Sungguh membosankan  
   
 Bila memang berkeinginan begitu pun,  

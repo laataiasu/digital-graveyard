@@ -109,17 +109,17 @@ memfokuskan diri pada dunia, bertahan hidup, bahagia pada hal-hal kecil,
 dan terlena dalam keduniaan adalah bentuk ketidaksadaran pada dunia yang
 mengakibatkan ia tidak akan mencapai kebahagiaan abadi.
 
-Apakah perasaan dan prasangka semacam ini adalah hal benar ? Apa hakikat
+Apakah perasaan dan prasangka semacam ini adalah hal benar? Apa hakikat
 kenyataan, bagaimana ia mengendalikan kesadaran pada otak kita dan
 memproyeksikannya menjadi hal yang kita anggap nyata dan benar, mengapa
-kenyataan bisa terbentuk dalam bayangan memori otak ? Paradoks yang tak
+kenyataan bisa terbentuk dalam bayangan memori otak? Paradoks yang tak
 pernah terselesaikan, metafisika yang begitu buruk, lemahnya keimanan
 karena keragua-raguan yang berdasar dan perasaan ingin menyalahkan yang
 selalu ada. Namun bagaimana ingin menyalahkan apabila variabel kenyataan
-tidak pernah bisa dicari akar-akar penyelesaiannya ?
+tidak pernah bisa dicari akar-akar penyelesaiannya?
 
 Mungkin penyelesaiannya adalah bertindak manusiawi, tak perlu sadar akan
-perbuatan, toh siapa yang benar-benar tahu akan kenyataan ? Bertindak
+perbuatan, toh siapa yang benar-benar tahu akan kenyataan? Bertindak
 diluar dari manusiawi selalu membentuk subjek sebelumnya menjadi angkuh,
 Penuh perasaan bersalah atau menyalahkan, ragu-ragu akan sebuah
 kepastian. Jadi siapa yang tidak ingin menjadi manusia hanya karena
@@ -128,7 +128,7 @@ manusia pun pertanyaan tak akan dijawab dengan sebaik-baiknya. Oleh
 karenya, tidak ada yang benar-benar memenangkan dunia. Para pencari
 kebenaran bukanlah manusia, Orang-orang yang mempertanyakan
 keragu-raguan juga bukanlah manusia. Entah ia manusia atau bukan,
-bukankah tidak ada yang benar-benar tahu akan kenyataan ? Aku dan kami
+bukankah tidak ada yang benar-benar tahu akan kenyataan? Aku dan kami
 ada bukan untuk menyimpangkan, melainkan aku dan kami ada untuk menguji
 keimanan dan mempertanyakan engkau manusia atau bukan..
 
@@ -189,9 +189,9 @@ Kebaikan dan kejahatan sekarang pun sama-sama semuanya, kawakan dan
 tidak sejati. Karena kesejatian sejatinya tidak perlu dihargai. Ia dalam
 dan luas dengan caranya sendiri, tidak seperti ketidaksejatian yang
 membutuhkan eksistensi, ia tidak ada karena ia lebih dari ada. Toh apa
-susahnya sih menerima si sejati ini ? dengan menolak segala yang mereka
+susahnya sih menerima si sejati ini? dengan menolak segala yang mereka
 anggap sebagai kenegatifan seperti keburukan, kesalahan, kejahatan,
-penyimpangan ? Tidak mungkin, si sejati ini tidak rendah seperti yang
+penyimpangan? Tidak mungkin, si sejati ini tidak rendah seperti yang
 kalian kira. Si sejati ini bahkan menolak segala “anggap-anggapan”,
 Kebaikan, kebenaran, keadilan, kesetaraan, atau apalah. Ia mungkin
 memang rendah, tapi kerendahannya digunakan untuk menininggi,
@@ -202,7 +202,7 @@ bahwa yang namanya kesejatian itu TIDAK ADA. Ia malu-malu menampakan
 dirinya seperti penyendiri sejati, ia pikir manusia-manusia itu harus
 berjuang dengan caranya sendiri. Lagian berjuang untuk apa para manusia
 itu yang menginginkan kesejatian, apa yang mereka inginkan setelah
-mendapat kesejatian ? Sejatinya mereka setelah tahu tentang kesejatian
+mendapat kesejatian? Sejatinya mereka setelah tahu tentang kesejatian
 akan merengek dan mengeluh “BAJINGAN !!! segala yang aku cari ternyata
 sia-sia, ia lebih sederhana daripada yang aku kira. HAHAHA” setelah ia
 mendapatkan si sejati ini, manusia itu berakhir lebih tercerahkan. Ia
@@ -324,7 +324,7 @@ si miskin apa yang tak dipunyanya dan yang dibutuhkan si miskin, tapi si
 ganteng ini tidak tahu apa tanggung jawabnya terhadap si jelek, maka ia
 beri adalah simpati. Tanggung jawab ini ialah sesuatu yang membodohi.
 
-Yahuu dimana ini ? begitu hangat. Hangatnya bisa kurasakan dari ekor dan
+Yahuu dimana ini? begitu hangat. Hangatnya bisa kurasakan dari ekor dan
 kepalaku. Tapi disini semuanya gelap, gelap merah darah, ada juga yang
 pink sangat lucu tapi tidak banyak. Aku meluncur di air yang dangkal
 ini, bisa kurasakan tekstur dari terowongan ini. Begitu lembut, begitu
@@ -333,8 +333,8 @@ ini berubah, semakin dalam semakin panas. Lagian tidak masalah, malah
 kehangatan ini, kepanasan ini, membuatku kecanduan dan penasaran, dan
 oleh karena perasaan aku lagi-lagi merasakan kehangatan.
 
-Tapi aku hanya sendiri disini, ehh sendiri itu apa ? kenapa aku bisa tau
-sendiri ? dimana sebelumnya aku ? siapa aku ? mengapa aku ada ?
+Tapi aku hanya sendiri disini, ehh sendiri itu apa? kenapa aku bisa tau
+sendiri? dimana sebelumnya aku? siapa aku? mengapa aku ada?
 
 ----------------------------------------------------------------
 

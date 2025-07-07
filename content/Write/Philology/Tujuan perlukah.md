@@ -3,7 +3,7 @@ date: '2018-06-30T04:46:00Z'
 modified_time: '2020-07-29T01:48:37.474-07:00'
 tags:
 - literature
-title: Tujuan, perlukah ?
+title: Tujuan, perlukah?
 ---
   
 17 tahun  
@@ -24,7 +24,7 @@ Doakan aku ya
   
   
   
-Lah, kok aku dimarahin gini ?  
+Lah, kok aku dimarahin gini?  
 Bukannya kalian bilang semua itu harus punya tujuan?  
 Kok tujuan aku direndahkan  
 Katanya harus selalu ada tujuan  
@@ -47,7 +47,7 @@ Mengapa kau rendahkan tujuan hidup dari banyak orang
 Yang tak sesuai tujuan kalian  
 Kok bisa-bisanya kalian merendahkan tujuan  
 Bukankah itu sama dengan kalian merendahkan tujuan kalian sendiri  
-Di pandangan orang yang kalian rendahkan tujuan hidupnya ?  
+Di pandangan orang yang kalian rendahkan tujuan hidupnya?  
   
 Dan mengapa  
 Kesamaan tujuan itu harus selalu diperjuangkan  

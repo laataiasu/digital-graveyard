@@ -110,7 +110,7 @@ Stranger: Yea?
 
 You: you need to be grateful
 
-Stranger: What's your zodiac sign ?
+Stranger: What's your zodiac sign?
 
 You: if you have supporting Family
 
@@ -256,7 +256,7 @@ Stranger: Nope
 
 You: why not
 
-Stranger: Are you ?
+Stranger: Are you?
 
 Stranger: Because I'm waiting to marry you
 
@@ -280,7 +280,7 @@ You: pasta is like shit
 
 Stranger: Ok
 
-Stranger: Don't like pizza either ?
+Stranger: Don't like pizza either?
 
 You: do you need school in order to be a chef
 
@@ -358,7 +358,7 @@ You: no im not
 
 You: does american always rough like that?
 
-Stranger: Are we always mean ?
+Stranger: Are we always mean?
 
 Stranger: I think everywhere people are mean
 
