@@ -25,7 +25,7 @@ publish_external: true
 
 ## cara orang hoream milih
 
-screening kriteria > OSINT satu-satu > hitung kancing
+screening kriteria > [[Open Source Intelligence|OSINT]] satu-satu > hitung kancing
 
 ![infopemilu-kpu](infopemilu-kpu.png)
 

@@ -36,7 +36,7 @@ I think crypto is serve as transparent way to show the world. If you familiar wi
 16. Urban development and becoming a city mayor
 17. Work in a religious ministry to fulfill a dream of becoming a mosque marbot (caretaker)
 18. Write novels or stories
-19. OSINT (Open Source Intelligence) specialist
+19. OSINT ([[Open Source Intelligence]]) specialist
 20. Hydroponics and general farmer
 21. Lecturer or teacher
 22. Comedian
