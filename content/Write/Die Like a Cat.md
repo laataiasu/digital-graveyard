@@ -30,3 +30,24 @@ I don't want to be buried in a grave when I die. I want my body to be thrown int
 
 I aspire to live in the most cowardly way, like the great coward. 
 
+
+
+---
+
+| Lens                                  | Short sketch                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **[[Daoist wu‑wei]]**                 | Effortless action that leaves no sticky fingerprints. Rivers don’t brag about carving valleys.         |
+| **Gita’s [[nishkāma karma]]**         | Work without clinging to the fruit. The deed is clean; outcomes ­belong to the universe.               |
+| **[[Zen kōan]]**                      | “The wild geese do not intend to cast their reflection; the water has no mind to receive their image.” |
+| **“great contempt” & “dancing star”** | Throw off borrowed purposes, dive into chaos, transmute it into light.                                 |
+
+### . Living now, in practice
+
+- **Calendar amnesia** – Plan enough to meet obligations, but puncture the timeline frequently: silent walks, techless evenings, meals eaten without media.
+    
+- **Rotate identities** – Use pseudonyms, change avatars, refuse long‑term ladders of recognition.
+    
+- **Rituals of erasure** – At intervals, destroy notes, drafts, even prized objects. Each deletion rehearses non‑attachment.
+    
+- **Skillful selfishness** – When you cook, write, code, lift, do so because the muscles themselves are singing. Whoever happens to benefit can lap it up like rainwater in the gutter.
+
