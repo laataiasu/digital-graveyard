@@ -1,5 +1,7 @@
 ---
-alias: CSGE603291
+aliases:
+  - CSGE603291
+  - MPPI
 date: 2021-02-01
 publish_external: true
 ---

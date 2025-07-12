@@ -3,6 +3,7 @@ date: '2023-04-07T00:00:00Z'
 tags:
 - literature
 title: Anakku
+publish_external: true
 ---
   
 anakku, kamu adalah kutukanku  
