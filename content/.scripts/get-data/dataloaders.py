@@ -10,6 +10,7 @@ def load_goodreads_data(file_path):
     df['ISBN13'] = df['ISBN13'].apply(clean_isbn)
     # Convert date column and handle potential errors
     df['Date Added'] = pd.to_datetime(df['Date Added'], errors='coerce')
+    df['Date Added'] = df['Date Added'].fillna(pd.Timestamp.min)
     for col in df.columns:
         if col != 'Date Added':
             df[col] = df[col].apply(sanitize_text)
