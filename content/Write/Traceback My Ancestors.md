@@ -32,7 +32,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 ### 💼 [[Business, Economy & Finance]]
 
 * [[Rich Dad Poor Dad]] — by Robert Kiyosaki \~ #SMP #SMA
-* [[Review Zero to One]] — by [[Peter Thiel]] \~ 2019-2023
+* [[Review Zero to One]] — by [[Tags/Figure/Peter Thiel]] \~ 2019-2023
 * [[The Big Short]] — by Michael Lewis \~ 2019-2023
 * [[AI for Trading (Udacity)]] \~ 2020-2022
 * [[Khan Academy: Microeconomics]] \~ #2022

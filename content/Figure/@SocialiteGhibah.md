@@ -1,4 +1,0 @@
----
-aliases:
-  - '"Gordon Geckoleon"'
----

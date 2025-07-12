@@ -48,7 +48,7 @@ date: 2001-01-01
 [[Finance]]
 
 [[Nassim Taleb]]
-[[Figure/Naval Ravikant]]
+[[Naval Ravikant]]
 [[David Deutsch]]
 [[Dimitri Bianco]]
 [[Dan Koe]]

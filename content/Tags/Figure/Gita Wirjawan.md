@@ -1,0 +1,6 @@
+---
+tags:
+- figure
+---
+# Gita Wirjawan
+

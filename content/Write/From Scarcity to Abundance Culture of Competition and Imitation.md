@@ -8,7 +8,7 @@ title: From Scarcity to Abundance, Culture of Competition and Imitation
 
 We are constantly engaged in competition, but often it yields no real value.
 
-Our actions are driven by jealousy and the instinct for survival, echoing [[Peter Thiel]]'s statement that "Competition is for losers." In my opinion, true innovation cannot be achieved by simply imitating others.
+Our actions are driven by jealousy and the instinct for survival, echoing [[Tags/Figure/Peter Thiel]]'s statement that "Competition is for losers." In my opinion, true innovation cannot be achieved by simply imitating others.
 
 Many educational institutions imitate one another, driven by the fear of missing out on certain organizations or events. Peer pressure pushes individuals to compete in embellishing their resumes with extravagant experiences and internships.
 

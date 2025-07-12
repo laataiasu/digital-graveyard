@@ -1,0 +1,6 @@
+---
+tags:
+- figure
+---
+# Ibn Battuta
+

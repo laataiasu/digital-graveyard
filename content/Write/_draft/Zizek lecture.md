@@ -101,15 +101,15 @@ draft: true
 
 ---
 
-# Please compare [[Slavoj Žižek]] with [[Peter Thiel]], each advantage and disadvantages. What things they are agreed on or disagreed.
+# Please compare [[Slavoj Žižek]] with [[Tags/Figure/Peter Thiel]], each advantage and disadvantages. What things they are agreed on or disagreed.
 
-Hello, dear readers! Today I want to talk about two fascinating and influential thinkers who have very different views on the world: Slavoj Žižek and [[Peter Thiel]]. You may have heard of them, or you may not, but I assure you they are worth your attention. In this blog post, I will compare and contrast their ideas, their strengths and weaknesses, and their points of agreement and disagreement. Let's get started!
+Hello, dear readers! Today I want to talk about two fascinating and influential thinkers who have very different views on the world: Slavoj Žižek and [[Tags/Figure/Peter Thiel]]. You may have heard of them, or you may not, but I assure you they are worth your attention. In this blog post, I will compare and contrast their ideas, their strengths and weaknesses, and their points of agreement and disagreement. Let's get started!
 
 ## Who are they?
 
 Slavoj Žižek is a Slovenian philosopher and cultural theorist who is known for his provocative and often controversial analyses of ideology, politics, culture, psychoanalysis, and pop culture. He is a self-proclaimed Marxist and a critic of capitalism, liberalism, identity politics, and authoritarianism. He has written dozens of books on topics ranging from violence, the global financial crisis, September 11, Christianity, and the pandemic. He is also a popular speaker who has debated with figures such as [[Jordan Peterson]], [[Richard Dawkins]], and Julian Assange.
 
-[[Peter Thiel]] is an American entrepreneur and investor who co-founded PayPal and was an early investor in [[Facebook]]. He is also a founder of Palantir Technologies, a [[Data]] analytics company that works with governments and corporations. He is a billionaire with an estimated net worth of nearly $3 billion. He is a political activist who has donated large sums to politicians such as Donald Trump and Ted Cruz. He is a supporter of libertarianism, transhumanism, seasteading, and the Singularity. He is also a controversial figure who has been accused of undermining democracy, journalism, and human rights.
+[[Tags/Figure/Peter Thiel]] is an American entrepreneur and investor who co-founded PayPal and was an early investor in [[Facebook]]. He is also a founder of Palantir Technologies, a [[Data]] analytics company that works with governments and corporations. He is a billionaire with an estimated net worth of nearly $3 billion. He is a political activist who has donated large sums to politicians such as Donald Trump and Ted Cruz. He is a supporter of libertarianism, transhumanism, seasteading, and the Singularity. He is also a controversial figure who has been accused of undermining democracy, journalism, and human rights.
 
 ## What are their advantages?
 

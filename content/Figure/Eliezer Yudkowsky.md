@@ -1,2 +1,0 @@
-# Eliezer Yudkowsky
-

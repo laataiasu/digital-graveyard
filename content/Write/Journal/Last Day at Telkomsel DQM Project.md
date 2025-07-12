@@ -16,7 +16,7 @@ i dont know what i want. reading [[René Girard|rene girard]] and [[Slavoj Žiž
 
 i simply a man who got nothing. perhaps i need new hobbies. but when i try, i am sort of feeling there's always a hole. maybe my dopamine sytem is fucked up because of too much doom scrolling and [[Porn]]. but here i am. 
 
-so i just need to keep going, hoping what is best for me. just try to look something in [[ChatGPT]], the roadmap to be [[Peter Thiel]]. perhaps tomorrow i try naval ravikant. but everything seems need effort. im lazy, and i pray i could kill this laziness. 
+so i just need to keep going, hoping what is best for me. just try to look something in [[ChatGPT]], the roadmap to be [[Tags/Figure/Peter Thiel]]. perhaps tomorrow i try naval ravikant. but everything seems need effort. im lazy, and i pray i could kill this laziness. 
 
 god, most higher order things, i dont know but i think i could achieve that. as long as i true to myself. but even when im giving feedback to others. i often give them what they want to hear. not what they need. sometimes i dont know why i do that. radical honestly, radical candor perhaps, its not working for me. its just i dont care what happens to others. they somehow really like what they do. they dont care about the meaninglessness. 
 

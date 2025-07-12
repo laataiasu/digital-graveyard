@@ -1,0 +1,26 @@
+---
+date: 2001-01-01
+tags:
+- figure
+- philosophy
+- spirituality
+---
+# Muhammad Iqbal
+
+YANG MEMPENGARUHI:Sir Thomas Walker Arnold, Jalaluddin Rumi, Sayyid Ahmad Khan, Friedrich Nietzsche, Henry Bergson and Goethe
+  
+EKSISTENSIALISME TEISTIK VS EKSISTENSIALISME ATEISTIK
+  
+ANTI-ESENSIALISME IQBAL
+  
+## Ego
+SELF-RELIANCE (PERCAYA DIRI)  
+SELF-RESPECT (MENGHARGAI DIRI)  
+SELF-CONFIDENCE (YAKIN PADA DIRI)  
+SELF-PRESERVATION (MENJAGA DIRI)  
+SELF-ASSERTION (PENEGASAN DIRI)  
+  
+  
+# Insan Kamil
+ijtihad mujahadah jihad
+
