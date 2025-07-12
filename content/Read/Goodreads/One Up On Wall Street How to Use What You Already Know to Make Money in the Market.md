@@ -3,27 +3,6 @@ title: 'One Up On Wall Street: How to Use What You Already Know to Make Money in
   Market'
 author: Peter Lynch
 date: '2022-06-25'
-author_lf: Lynch, Peter
-additional_authors: ''
-isbn: '0743200403'
-isbn13: '9780743200400'
-publisher: Simon & Schuster
-binding: Paperback
-pages: '304'
-year_published: '2000'
-original_publication_year: '1988'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656115200000000000
-- null
-- null
-- 10
-my_rating: '3'
-average_rating: '4.28'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -35,6 +14,24 @@ tags:
 **My Rating:** 3  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 0743200403  
+**ISBN13:** 9780743200400  
+**Publisher:** Simon & Schuster  
+**Binding:** Paperback  
+**Number of Pages:** 304  
+**Year Published:** 2000  
+**Original Publication Year:** 1988  
+**Date Read:**   
+**Date Added:** 2022-06-25 00:00:00  
+**My Rating:** 3  
+**Average Rating:** 4.28  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

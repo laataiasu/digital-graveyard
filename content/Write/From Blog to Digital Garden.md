@@ -1,10 +1,12 @@
 ---
-title: 2025-07-12
+title: From Blog to Digital Garden
 date: 2025-07-12T09:05:52+07:00
 tags:
   - journal
 publish_external: true
 ---
+
+![obsidian_graph](obsidian_graph.png)
 
 when i were in school there lots of story about people make money by ads and blogs. 
 

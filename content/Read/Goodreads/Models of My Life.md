@@ -2,27 +2,6 @@
 title: Models of My Life
 author: Herbert A. Simon
 date: '2023-01-04'
-author_lf: Simon, Herbert A.
-additional_authors: ''
-isbn: 026269185X
-isbn13: '9780262691857'
-publisher: The MIT Press
-binding: Paperback
-pages: '415'
-year_published: '1996'
-original_publication_year: '1991'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1672790400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.77'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:** 026269185X  
+**ISBN13:** 9780262691857  
+**Publisher:** The MIT Press  
+**Binding:** Paperback  
+**Number of Pages:** 415  
+**Year Published:** 1996  
+**Original Publication Year:** 1991  
+**Date Read:**   
+**Date Added:** 2023-01-04 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.77  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

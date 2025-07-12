@@ -2,27 +2,6 @@
 title: Mortality
 author: Christopher Hitchens
 date: '2023-11-06'
-author_lf: Hitchens, Christopher
-additional_authors: ''
-isbn: '1455502758'
-isbn13: '9781455502752'
-publisher: Twelve
-binding: Hardcover
-pages: '104'
-year_published: '2012'
-original_publication_year: '2012'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1699228800000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.12'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 1455502758  
+**ISBN13:** 9781455502752  
+**Publisher:** Twelve  
+**Binding:** Hardcover  
+**Number of Pages:** 104  
+**Year Published:** 2012  
+**Original Publication Year:** 2012  
+**Date Read:**   
+**Date Added:** 2023-11-06 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.12  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

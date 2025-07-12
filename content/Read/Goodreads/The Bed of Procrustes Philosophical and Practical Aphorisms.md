@@ -2,27 +2,6 @@
 title: 'The Bed of Procrustes: Philosophical and Practical Aphorisms'
 author: Nassim Nicholas Taleb
 date: '2023-01-08'
-author_lf: Taleb, Nassim Nicholas
-additional_authors: ''
-isbn: '1400069971'
-isbn13: '9781400069972'
-publisher: Random House
-binding: Hardcover
-pages: '112'
-year_published: '2010'
-original_publication_year: '2010'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1673136000000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.78'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 1400069971  
+**ISBN13:** 9781400069972  
+**Publisher:** Random House  
+**Binding:** Hardcover  
+**Number of Pages:** 112  
+**Year Published:** 2010  
+**Original Publication Year:** 2010  
+**Date Read:**   
+**Date Added:** 2023-01-08 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.78  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

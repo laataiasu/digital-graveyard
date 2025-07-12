@@ -2,27 +2,6 @@
 title: Rich Dad, Poor Dad
 author: Robert T. Kiyosaki
 date: '2020-08-23'
-author_lf: Kiyosaki, Robert T.
-additional_authors: ''
-isbn: '0751532711'
-isbn13: '9780751532715'
-publisher: Time Warner Books UK
-binding: Paperback
-pages: '195'
-year_published: '2001'
-original_publication_year: '1997'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1598140800000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.10'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 0751532711  
+**ISBN13:** 9780751532715  
+**Publisher:** Time Warner Books UK  
+**Binding:** Paperback  
+**Number of Pages:** 195  
+**Year Published:** 2001  
+**Original Publication Year:** 1997  
+**Date Read:**   
+**Date Added:** 2020-08-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.10  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -3,27 +3,6 @@ title: 'Principles for Dealing with the Changing World Order: Why Nations Succee
   and Fail'
 author: Ray Dalio
 date: '2024-11-30'
-author_lf: Dalio, Ray
-additional_authors: ''
-isbn: '1982160276'
-isbn13: '9781982160272'
-publisher: Avid Reader Press / Simon & Schuster
-binding: Hardcover
-pages: '576'
-year_published: '2021'
-original_publication_year: '2021'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1732924800000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.27'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -35,6 +14,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 1982160276  
+**ISBN13:** 9781982160272  
+**Publisher:** Avid Reader Press / Simon & Schuster  
+**Binding:** Hardcover  
+**Number of Pages:** 576  
+**Year Published:** 2021  
+**Original Publication Year:** 2021  
+**Date Read:**   
+**Date Added:** 2024-11-30 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.27  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

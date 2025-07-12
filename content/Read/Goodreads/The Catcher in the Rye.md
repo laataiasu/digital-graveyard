@@ -2,27 +2,6 @@
 title: The Catcher in the Rye
 author: J.D. Salinger
 date: '2019-07-08'
-author_lf: Salinger, J.D.
-additional_authors: ''
-isbn: 0316769177
-isbn13: '9780316769174'
-publisher: Back Bay Books
-binding: Paperback
-pages: '277'
-year_published: '2001'
-original_publication_year: '1951'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1562544000000000000
-- null
-- null
-- 10
-my_rating: '2'
-average_rating: '3.80'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 2  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 0316769177  
+**ISBN13:** 9780316769174  
+**Publisher:** Back Bay Books  
+**Binding:** Paperback  
+**Number of Pages:** 277  
+**Year Published:** 2001  
+**Original Publication Year:** 1951  
+**Date Read:**   
+**Date Added:** 2019-07-08 00:00:00  
+**My Rating:** 2  
+**Average Rating:** 3.80  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

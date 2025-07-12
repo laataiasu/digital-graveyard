@@ -2,27 +2,6 @@
 title: Don Quixote
 author: Miguel de Cervantes Saavedra
 date: '2022-06-30'
-author_lf: Saavedra, Miguel de Cervantes
-additional_authors: Roberto González Echevarría, John Rutherford
-isbn: ''
-isbn13: ''
-publisher: Penguin Books
-binding: Paperback
-pages: '1023'
-year_published: '2003'
-original_publication_year: '1615'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1656547200000000000
-- null
-- null
-- 10
-my_rating: '4'
-average_rating: '3.91'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 4  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:** Roberto González Echevarría, John Rutherford  
+**ISBN:**   
+**ISBN13:**   
+**Publisher:** Penguin Books  
+**Binding:** Paperback  
+**Number of Pages:** 1023  
+**Year Published:** 2003  
+**Original Publication Year:** 1615  
+**Date Read:**   
+**Date Added:** 2022-06-30 00:00:00  
+**My Rating:** 4  
+**Average Rating:** 3.91  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -2,27 +2,6 @@
 title: Snow Crash
 author: Neal Stephenson
 date: '2021-10-23'
-author_lf: Stephenson, Neal
-additional_authors: ''
-isbn: ''
-isbn13: ''
-publisher: Spectra
-binding: Kindle Edition
-pages: '559'
-year_published: '2018'
-original_publication_year: '1992'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1634947200000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.01'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:**   
+**ISBN13:**   
+**Publisher:** Spectra  
+**Binding:** Kindle Edition  
+**Number of Pages:** 559  
+**Year Published:** 2018  
+**Original Publication Year:** 1992  
+**Date Read:**   
+**Date Added:** 2021-10-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.01  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

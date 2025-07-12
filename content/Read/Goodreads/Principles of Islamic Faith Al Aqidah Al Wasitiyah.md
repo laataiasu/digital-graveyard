@@ -2,27 +2,6 @@
 title: Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)
 author: ابن تيمية
 date: '2022-01-09'
-author_lf: تيمية, ابن
-additional_authors: Assad Nimer Busool
-isbn: '1563160560'
-isbn13: '9781563160561'
-publisher: IQRA International Education Foundation
-binding: Paperback
-pages: '50'
-year_published: '1994'
-original_publication_year: '1992'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1641686400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.45'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:** Assad Nimer Busool  
+**ISBN:** 1563160560  
+**ISBN13:** 9781563160561  
+**Publisher:** IQRA International Education Foundation  
+**Binding:** Paperback  
+**Number of Pages:** 50  
+**Year Published:** 1994  
+**Original Publication Year:** 1992  
+**Date Read:**   
+**Date Added:** 2022-01-09 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.45  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

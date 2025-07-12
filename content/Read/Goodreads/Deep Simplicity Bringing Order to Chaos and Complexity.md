@@ -2,27 +2,6 @@
 title: 'Deep Simplicity: Bringing Order to Chaos and Complexity'
 author: John Gribbin
 date: '2023-01-04'
-author_lf: Gribbin, John
-additional_authors: ''
-isbn: 140006256X
-isbn13: '9781400062560'
-publisher: Random House
-binding: Hardcover
-pages: '279'
-year_published: '2005'
-original_publication_year: '2004'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1672790400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.97'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:** 140006256X  
+**ISBN13:** 9781400062560  
+**Publisher:** Random House  
+**Binding:** Hardcover  
+**Number of Pages:** 279  
+**Year Published:** 2005  
+**Original Publication Year:** 2004  
+**Date Read:**   
+**Date Added:** 2023-01-04 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.97  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

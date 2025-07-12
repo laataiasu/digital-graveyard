@@ -2,27 +2,6 @@
 title: Sunshine Becomes You
 author: Ilana Tan
 date: '2018-09-16'
-author_lf: Tan, Ilana
-additional_authors: ''
-isbn: '9792278133'
-isbn13: '9789792278132'
-publisher: Gramedia Pustaka Utama
-binding: Mass Market Paperback
-pages: '432'
-year_published: '2012'
-original_publication_year: '2012'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1537056000000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.12'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 9792278133  
+**ISBN13:** 9789792278132  
+**Publisher:** Gramedia Pustaka Utama  
+**Binding:** Mass Market Paperback  
+**Number of Pages:** 432  
+**Year Published:** 2012  
+**Original Publication Year:** 2012  
+**Date Read:**   
+**Date Added:** 2018-09-16 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.12  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

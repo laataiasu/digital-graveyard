@@ -19,23 +19,23 @@ DATA_SOURCES = {
             "title": "Title",
             "author": "Author",
             "date": "Date Added",
-            "author_lf": "Author l-f",
-            "additional_authors": "Additional Authors",
-            "isbn": "ISBN",
-            "isbn13": "ISBN13",
-            "publisher": "Publisher",
-            "binding": "Binding",
-            "pages": "Number of Pages",
-            "year_published": "Year Published",
-            "original_publication_year": "Original Publication Year",
-            "date_read": "Date Read",
-            "date_added": "Date Added",
-            "my_rating": "My Rating",
-            "average_rating": "Average Rating",
-            "bookshelves": "Bookshelves",
-            "exclusive_shelf": "Exclusive Shelf",
-            "read_count": "Read Count",
-            "owned_copies": "Owned Copies",
+            # "author_lf": "Author l-f",
+            # "additional_authors": "Additional Authors",
+            # "isbn": "ISBN",
+            # "isbn13": "ISBN13",
+            # "publisher": "Publisher",
+            # "binding": "Binding",
+            # "pages": "Number of Pages",
+            # "year_published": "Year Published",
+            # "original_publication_year": "Original Publication Year",
+            # "date_read": "Date Read",
+            # "date_added": "Date Added",
+            # "my_rating": "My Rating",
+            # "average_rating": "Average Rating",
+            # "bookshelves": "Bookshelves",
+            # "exclusive_shelf": "Exclusive Shelf",
+            # "read_count": "Read Count",
+            # "owned_copies": "Owned Copies",
         },
         "content_template": """
 # {Title}
@@ -44,6 +44,24 @@ DATA_SOURCES = {
 **My Rating:** {My Rating}  
 **Date Read:** {Date Read}  
 **Bookshelves:** {Bookshelves}
+
+**Additional Authors:** {Additional Authors}  
+**ISBN:** {ISBN}  
+**ISBN13:** {ISBN13}  
+**Publisher:** {Publisher}  
+**Binding:** {Binding}  
+**Number of Pages:** {Number of Pages}  
+**Year Published:** {Year Published}  
+**Original Publication Year:** {Original Publication Year}  
+**Date Read:** {Date Read}  
+**Date Added:** {Date Added}  
+**My Rating:** {My Rating}  
+**Average Rating:** {Average Rating}  
+**Bookshelves:** {Bookshelves}  
+**Exclusive Shelf:** {Exclusive Shelf}  
+**Read Count:** {Read Count}  
+**Owned Copies:** {Owned Copies}
+
 
 ## Review
 

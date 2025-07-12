@@ -2,27 +2,6 @@
 title: 'Guns, Germs, and Steel: The Fates of Human Societies'
 author: Jared Diamond
 date: '2022-01-09'
-author_lf: Diamond, Jared
-additional_authors: ''
-isbn: 0739467352
-isbn13: '9780739467350'
-publisher: W.W. Norton & Company
-binding: Paperback
-pages: '498'
-year_published: '2005'
-original_publication_year: '1997'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1641686400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.04'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:** 0739467352  
+**ISBN13:** 9780739467350  
+**Publisher:** W.W. Norton & Company  
+**Binding:** Paperback  
+**Number of Pages:** 498  
+**Year Published:** 2005  
+**Original Publication Year:** 1997  
+**Date Read:**   
+**Date Added:** 2022-01-09 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.04  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

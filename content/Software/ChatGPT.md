@@ -5,3 +5,9 @@ tags:
 ---
 # ChatGPT
 
+
+[[Sam Altman]]
+
+[[Ilya Sutskever]]
+
+[[Andrej Karpathy]]

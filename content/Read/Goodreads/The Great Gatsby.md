@@ -2,27 +2,6 @@
 title: The Great Gatsby
 author: F. Scott Fitzgerald
 date: '2018-09-17'
-author_lf: Fitzgerald, F. Scott
-additional_authors: ''
-isbn: '0743273567'
-isbn13: '9780743273565'
-publisher: Scribner
-binding: Paperback
-pages: '180'
-year_published: '1925'
-original_publication_year: '1925'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1537142400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.93'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 0743273567  
+**ISBN13:** 9780743273565  
+**Publisher:** Scribner  
+**Binding:** Paperback  
+**Number of Pages:** 180  
+**Year Published:** 1925  
+**Original Publication Year:** 1925  
+**Date Read:**   
+**Date Added:** 2018-09-17 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.93  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

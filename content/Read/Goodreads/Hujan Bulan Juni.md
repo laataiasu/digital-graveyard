@@ -2,27 +2,6 @@
 title: Hujan Bulan Juni
 author: Sapardi Djoko Damono
 date: '2019-07-19'
-author_lf: Damono, Sapardi Djoko
-additional_authors: ''
-isbn: '6020318435'
-isbn13: '9786020318431'
-publisher: Gramedia Pustaka Utama
-binding: Paperback
-pages: '144'
-year_published: '2015'
-original_publication_year: '2015'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1563494400000000000
-- null
-- null
-- 10
-my_rating: '3'
-average_rating: '3.73'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 3  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 6020318435  
+**ISBN13:** 9786020318431  
+**Publisher:** Gramedia Pustaka Utama  
+**Binding:** Paperback  
+**Number of Pages:** 144  
+**Year Published:** 2015  
+**Original Publication Year:** 2015  
+**Date Read:**   
+**Date Added:** 2019-07-19 00:00:00  
+**My Rating:** 3  
+**Average Rating:** 3.73  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

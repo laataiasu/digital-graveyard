@@ -2,27 +2,6 @@
 title: Filosofi Cinta KAHLIL GIBRAN
 author: Fahruddin Faiz
 date: '2022-10-22'
-author_lf: Faiz, Fahruddin
-additional_authors: ''
-isbn: '9799440289'
-isbn13: ''
-publisher: Tinta
-binding: Soft Cover
-pages: '168'
-year_published: '2002'
-original_publication_year: '2002'
-date_read: 2022/10/31
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1666396800000000000
-- null
-- null
-- 10
-my_rating: '2'
-average_rating: '4.32'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 2  
 **Date Read:** 2022/10/31  
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 9799440289  
+**ISBN13:**   
+**Publisher:** Tinta  
+**Binding:** Soft Cover  
+**Number of Pages:** 168  
+**Year Published:** 2002  
+**Original Publication Year:** 2002  
+**Date Read:** 2022/10/31  
+**Date Added:** 2022-10-22 00:00:00  
+**My Rating:** 2  
+**Average Rating:** 4.32  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

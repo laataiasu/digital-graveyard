@@ -2,27 +2,6 @@
 title: The Metamorphosis
 author: Franz Kafka
 date: '2022-06-23'
-author_lf: Kafka, Franz
-additional_authors: Stanley Corngold
-isbn: 0553213695
-isbn13: '9780553213690'
-publisher: Bantam Classics
-binding: Mass Market Paperback
-pages: '201'
-year_published: '1972'
-original_publication_year: '1915'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1655942400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.90'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:** Stanley Corngold  
+**ISBN:** 0553213695  
+**ISBN13:** 9780553213690  
+**Publisher:** Bantam Classics  
+**Binding:** Mass Market Paperback  
+**Number of Pages:** 201  
+**Year Published:** 1972  
+**Original Publication Year:** 1915  
+**Date Read:**   
+**Date Added:** 2022-06-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.90  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

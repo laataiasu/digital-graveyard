@@ -2,27 +2,6 @@
 title: Ibn Taymiyya and his Times (Studies in Islamic Philosophy)
 author: Yossef Rapoport
 date: '2022-01-09'
-author_lf: Rapoport, Yossef
-additional_authors: Shahab Ahmed
-isbn: 0195478347
-isbn13: '9780195478341'
-publisher: Oxford University Press
-binding: Hardcover
-pages: '400'
-year_published: '2010'
-original_publication_year: '2010'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1641686400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.21'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:** Shahab Ahmed  
+**ISBN:** 0195478347  
+**ISBN13:** 9780195478341  
+**Publisher:** Oxford University Press  
+**Binding:** Hardcover  
+**Number of Pages:** 400  
+**Year Published:** 2010  
+**Original Publication Year:** 2010  
+**Date Read:**   
+**Date Added:** 2022-01-09 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.21  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

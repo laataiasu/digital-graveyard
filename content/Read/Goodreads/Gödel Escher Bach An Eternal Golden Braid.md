@@ -2,27 +2,6 @@
 title: 'Gödel, Escher, Bach: An Eternal Golden Braid'
 author: Douglas R. Hofstadter
 date: '2025-05-19'
-author_lf: Hofstadter, Douglas R.
-additional_authors: ''
-isbn: '0465026567'
-isbn13: '9780465026562'
-publisher: Basic Books
-binding: Paperback
-pages: '777'
-year_published: '1999'
-original_publication_year: '1979'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1747612800000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.29'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:** 0465026567  
+**ISBN13:** 9780465026562  
+**Publisher:** Basic Books  
+**Binding:** Paperback  
+**Number of Pages:** 777  
+**Year Published:** 1999  
+**Original Publication Year:** 1979  
+**Date Read:**   
+**Date Added:** 2025-05-19 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.29  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

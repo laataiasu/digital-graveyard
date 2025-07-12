@@ -2,27 +2,6 @@
 title: Jalan Sunyi Emha
 author: Ian L. Betts
 date: '2022-09-18'
-author_lf: Betts, Ian L.
-additional_authors: Toto Rahardjo
-isbn: '9797092550'
-isbn13: ''
-publisher: Kompas Gramedia
-binding: Paperback
-pages: '146'
-year_published: '2006'
-original_publication_year: '2006'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1663459200000000000
-- null
-- null
-- 10
-my_rating: '3'
-average_rating: '4.32'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 3  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:** Toto Rahardjo  
+**ISBN:** 9797092550  
+**ISBN13:**   
+**Publisher:** Kompas Gramedia  
+**Binding:** Paperback  
+**Number of Pages:** 146  
+**Year Published:** 2006  
+**Original Publication Year:** 2006  
+**Date Read:**   
+**Date Added:** 2022-09-18 00:00:00  
+**My Rating:** 3  
+**Average Rating:** 4.32  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

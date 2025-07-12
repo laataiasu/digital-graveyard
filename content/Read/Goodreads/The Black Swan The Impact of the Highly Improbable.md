@@ -2,27 +2,6 @@
 title: 'The Black Swan: The Impact of the Highly Improbable'
 author: Nassim Nicholas Taleb
 date: '2023-01-26'
-author_lf: Taleb, Nassim Nicholas
-additional_authors: ''
-isbn: '1400063515'
-isbn13: '9781400063512'
-publisher: Random House
-binding: Hardcover
-pages: '480'
-year_published: '2007'
-original_publication_year: '2007'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1674691200000000000
-- null
-- null
-- 10
-my_rating: '4'
-average_rating: '3.96'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 4  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:**   
+**ISBN:** 1400063515  
+**ISBN13:** 9781400063512  
+**Publisher:** Random House  
+**Binding:** Hardcover  
+**Number of Pages:** 480  
+**Year Published:** 2007  
+**Original Publication Year:** 2007  
+**Date Read:**   
+**Date Added:** 2023-01-26 00:00:00  
+**My Rating:** 4  
+**Average Rating:** 3.96  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -2,27 +2,6 @@
 title: The Alchemist
 author: Paulo Coelho
 date: '2018-09-16'
-author_lf: Coelho, Paulo
-additional_authors: Alan R. Clarke
-isbn: '0061122416'
-isbn13: '9780061122415'
-publisher: HarperCollins
-binding: Paperback
-pages: '197'
-year_published: '1993'
-original_publication_year: '1988'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1537056000000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.92'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:** Alan R. Clarke  
+**ISBN:** 0061122416  
+**ISBN13:** 9780061122415  
+**Publisher:** HarperCollins  
+**Binding:** Paperback  
+**Number of Pages:** 197  
+**Year Published:** 1993  
+**Original Publication Year:** 1988  
+**Date Read:**   
+**Date Added:** 2018-09-16 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.92  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

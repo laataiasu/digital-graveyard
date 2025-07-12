@@ -2,27 +2,6 @@
 title: 'Three Scientists and Their Gods: Looking for Meaning in an Age of Information'
 author: Robert Wright
 date: '2023-01-04'
-author_lf: Wright, Robert
-additional_authors: ''
-isbn: 0060972572
-isbn13: '9780060972578'
-publisher: Harpercollins
-binding: Paperback
-pages: '324'
-year_published: '1989'
-original_publication_year: '1988'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1672790400000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '3.76'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:** 0060972572  
+**ISBN13:** 9780060972578  
+**Publisher:** Harpercollins  
+**Binding:** Paperback  
+**Number of Pages:** 324  
+**Year Published:** 1989  
+**Original Publication Year:** 1988  
+**Date Read:**   
+**Date Added:** 2023-01-04 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.76  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

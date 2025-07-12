@@ -2,27 +2,6 @@
 title: 'Peak: Secrets from the New Science of Expertise'
 author: K. Anders Ericsson
 date: '2021-02-20'
-author_lf: Ericsson, K. Anders
-additional_authors: Robert Pool
-isbn: '0544456254'
-isbn13: '9780544456259'
-publisher: HarperOne
-binding: ebook
-pages: '336'
-year_published: '2016'
-original_publication_year: '2016'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1613779200000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.21'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:** Robert Pool  
+**ISBN:** 0544456254  
+**ISBN13:** 9780544456259  
+**Publisher:** HarperOne  
+**Binding:** ebook  
+**Number of Pages:** 336  
+**Year Published:** 2016  
+**Original Publication Year:** 2016  
+**Date Read:**   
+**Date Added:** 2021-02-20 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.21  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

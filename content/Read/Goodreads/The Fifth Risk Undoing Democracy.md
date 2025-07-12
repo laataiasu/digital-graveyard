@@ -2,27 +2,6 @@
 title: 'The Fifth Risk: Undoing Democracy'
 author: Michael   Lewis
 date: '2021-08-24'
-author_lf: Lewis, Michael
-additional_authors: ''
-isbn: 0393357457
-isbn13: '9780393357455'
-publisher: W. W. Norton & Company
-binding: Paperback
-pages: '255'
-year_published: '2019'
-original_publication_year: '2018'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1629763200000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.09'
-bookshelves: to-read
-exclusive_shelf: to-read
-read_count: '0'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** to-read
+
+**Additional Authors:**   
+**ISBN:** 0393357457  
+**ISBN13:** 9780393357455  
+**Publisher:** W. W. Norton & Company  
+**Binding:** Paperback  
+**Number of Pages:** 255  
+**Year Published:** 2019  
+**Original Publication Year:** 2018  
+**Date Read:**   
+**Date Added:** 2021-08-24 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.09  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

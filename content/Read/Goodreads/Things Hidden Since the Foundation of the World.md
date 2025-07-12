@@ -2,27 +2,6 @@
 title: Things Hidden Since the Foundation of the World
 author: René Girard
 date: '2025-04-30'
-author_lf: Girard, René
-additional_authors: Stephen Bann, Michael Metteer
-isbn: 0804722153
-isbn13: '9780804722155'
-publisher: Stanford University Press
-binding: Paperback
-pages: '470'
-year_published: '1987'
-original_publication_year: '1978'
-date_read: ''
-date_added: !!python/object/apply:pandas._libs.tslibs.timestamps._unpickle_timestamp
-- 1745971200000000000
-- null
-- null
-- 10
-my_rating: '0'
-average_rating: '4.25'
-bookshelves: ''
-exclusive_shelf: read
-read_count: '1'
-owned_copies: '0'
 tags:
 - book
 ---
@@ -34,6 +13,24 @@ tags:
 **My Rating:** 0  
 **Date Read:**   
 **Bookshelves:** 
+
+**Additional Authors:** Stephen Bann, Michael Metteer  
+**ISBN:** 0804722153  
+**ISBN13:** 9780804722155  
+**Publisher:** Stanford University Press  
+**Binding:** Paperback  
+**Number of Pages:** 470  
+**Year Published:** 1987  
+**Original Publication Year:** 1978  
+**Date Read:**   
+**Date Added:** 2025-04-30 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.25  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 
