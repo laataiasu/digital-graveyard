@@ -1,6 +1,0 @@
----
-aliases:
-- AWS
-tags:
-- software
----

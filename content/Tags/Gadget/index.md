@@ -1,7 +1,8 @@
 ---
 date: 2001-01-01
+tags:
+- gadget
 ---
-
 ## Gadget
 
 [[SAMSUNG GT-E1200I]]

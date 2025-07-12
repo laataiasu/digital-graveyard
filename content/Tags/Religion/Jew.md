@@ -1,6 +1,8 @@
 ---
 date: 2001-01-01
 publish_external: true
+tags:
+- religion
 ---
 Israel’s reputation for producing a *disproportionate number of scientists, entrepreneurs, and intellectuals* comes from a mix of **historical, cultural, social, and geopolitical factors**. Here are some key reasons, grounded in data and history rather than mystique:
 

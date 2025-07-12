@@ -1,6 +1,7 @@
 ---
 title: 2025-07-07
-date: 2025-07-07T19:00:00
-tags: 
+date: 2025-07-07 19:00:00
+tags:
+- sport
 publish_external: false
 ---
