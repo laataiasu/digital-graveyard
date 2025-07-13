@@ -4,7 +4,7 @@ tags:
 - journal
 title: Anak Bungsu
 ---
-![lonely-colorful-youngest-child](https://catatankemalasan.files.wordpress.com/2023/07/lonely-colorful-youngest-child.jpg)
+![[lonely-colorful-youngest-child.jpg]]
 
 Bungsu bertabiat untuk menghancurkan apa-apa yang sudah dibangun. Bebannya tidak seberat si sulung atau pertengahan. Orang tuanya memprioritaskan umur, karena tanggung jawabnya besar, sehingga si bungsu sering merasa tidak diperhatikan. Si bungsu hidup dengan mudah, segala kebutuhannya terpenuhi akibat kakak dan orang tuanya, tidak perlu memilih, diberikan apa-apa yang telah digunakan kakaknya, dan ia setuju-setuju saja. 
 

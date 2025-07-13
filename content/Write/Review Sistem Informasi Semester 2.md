@@ -6,7 +6,7 @@ title: Review Sistem Informasi  ~Semester 2
 ---
 Akhirnya 23 SKS udah selesai. Agak nyesel sih gara-gara nyodok matkul yang dosen dan asdosnya kurang bersahabat *nilaily* (secara nilai). Jadi pada turun nilainya tapi alhamdulillah dapet 1 matkul yang nilainya A, yakni MPKS Apresiasi Film wkwkwk
 
-![img](https://catatankemalasan.files.wordpress.com/2020/08/screenshot-82-1.png?w=227)
+![[screenshot-82-1.png]]
 
 **Akademis**
 

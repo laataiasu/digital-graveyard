@@ -8,7 +8,7 @@ title: Football Manager 2008
 ---
 Untuk [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] dan Lembaga Dakwah Lainnya
 
-![https://images6.alphacoders.com/114/thumb-1920-1148628.jpg](https://images6.alphacoders.com/114/thumb-1920-1148628.jpg)
+![[thumb-1920-1148628.jpg]]
 
 > "I never imagined how frustrating weakness can be" - Gon
 

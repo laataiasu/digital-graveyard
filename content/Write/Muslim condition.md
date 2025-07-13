@@ -7,7 +7,7 @@ tags:
 title: Muslim condition
 ---
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://catatankemalasan.files.wordpress.com/2020/07/1900271_10151937251047286_1239835174_o-1.png?w=320" alt="himpunan-rohis-kota-bandung" class="wp-image-134" width="547" height="332" /></figure>
+  <figure class="aligncenter size-large is-resized">![[1900271_10151937251047286_1239835174_o-1.png]]</figure>
 </div>
 
 2 years ago I was having an opportunity to be a Chief Of Badan Syiar Media (BSM) Division in HIROKOBA(Association of Muslim Teenage in Bandung Area) but actually its more like a nephotism because I don't really have an experienced about media, such as visual design, article writing, movie making, and public relation with social media.

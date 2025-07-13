@@ -8,7 +8,7 @@ title: Midsommar, The Heaven for Everyone
 ---
 All environmentalist or Marxist or someone who strive for Utopia should follow this community,
 
-![](https://images.immediate.co.uk/production/volatile/sites/3/2019/07/Entrance-Midsommar-8f48fc0.jpg?quality=90&lb=620,413&background=white)
+![[Entrance-Midsommar-8f48fc0.jpg]]
 
 There must be the will to neglect to be successful in something, ignore the mediocre. Challenging the status quo means to ignore the feeling which could come from everyone or everything. Or is this not neglect but a form of caring? Because of that, Ethics is the least important material studied in business.
 
@@ -54,7 +54,7 @@ If there is a shortage, they send their missionary to the outside world to invit
 
 And because they follow all the traditions wholeheartedly, they always are in the state of "**happiness**".
 
-![celebrating-grief](https://catatankemalasan.files.wordpress.com/2021/08/screenshot-1.png)
+![[screenshot-1.png]]
 
 Outliers couldn't see it because they didn't follow the tradition.
 
@@ -82,4 +82,4 @@ When it happened, it shows us
 
 that we are in the Heaven
 
-![Scorsese Champions Ari Aster's Hereditary and Midsommar IndieWire](https://www.indiewire.com/wp-content/uploads/2020/07/midsommar2.jpg)
+![[midsommar2.jpg]]

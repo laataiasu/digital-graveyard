@@ -5,7 +5,7 @@ tags:
 - essay
 title: Santet is Real
 ---
-![santet is real](https://catatankemalasan.files.wordpress.com/2023/07/santet.jpg)
+![[santet.jpg]]
 
 I always believe in mysticism because just because we can't see it, it doesn't mean it doesn't exist.
 

@@ -16,7 +16,7 @@ Rekomendasi [[Michael Burry]], yang prediksi krisis itu:
 
 
 
-![rekomendasi-buku-michael-burry](https://catatankemalasan.files.wordpress.com/2021/09/92bqcmjh68v41.png)
+![[92bqcmjh68v41.png]]
 
 Gakuat baca sampai habis, ringkasan ini lumayan lengkap:
 

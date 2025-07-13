@@ -7,7 +7,7 @@ timeline_notification:
 - '1612851717'
 title: Why Ji-Pyeong Didn't Get Dal Mi's Heart By Muslim Perspective
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" width="678" height="452" src="https://catatankemalasan.files.wordpress.com/2021/02/enwq_tew8aaqk6-.jpeg?w=678" alt="suzy-start-up" class="wp-image-403" /></figure> 
+<figure class="wp-block-image size-large">![[enwq_tew8aaqk6-.jpeg]]</figure> 
 
 The reasons why Ji Pyeong didn't get Dal Mi's heart even though he is rich:  
   

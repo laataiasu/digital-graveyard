@@ -8,7 +8,7 @@ timeline_notification:
 - '1608377166'
 title: Why This Earth Of Mankind Is A Dangerous Book
 ---
-![bumi manusia ikan](https://d1ldy8a769gy68.cloudfront.net/300/068/809/373/6/0688093736.jpg)
+![[0688093736.jpg]]
 
 Let's praise the old Indonesia's government who succeeded at doctrined the boomer generations or in their length of service about the danger of communism.
 

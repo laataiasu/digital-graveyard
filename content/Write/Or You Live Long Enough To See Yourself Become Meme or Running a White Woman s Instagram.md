@@ -11,15 +11,15 @@ Terima kasih @CimahiSamsat atas pelayanannya saya bisa nonton 2 film dokumenter 
 
 The Act of Killing (2012)
 
-![jagal1](https://catatankemalasan.files.wordpress.com/2023/07/jagal1.png)
+![[jagal1.png]]
 
-![jagal2](https://catatankemalasan.files.wordpress.com/2023/07/jagal2.png)
+![[jagal2.png]]
 
 The Look of Silence (2014)
 
-![senyap1](https://catatankemalasan.files.wordpress.com/2023/07/senyap1.png)
+![[senyap1.png]]
 
-![senyap2](https://catatankemalasan.files.wordpress.com/2023/07/senyap2.png)
+![[senyap2.png]]
 
 "Cinema is the ultimate pervert art. It doesn't give you what you desire - it tells you how to desire."
 
@@ -60,7 +60,7 @@ Amor Fati means you can only pray not to know. Once you know, you can only hope 
 
 Embracing counterintuitive paradox, accepting and justifying any cognitive bias that builds this beautiful material world is a bare minimum
 
-![mandelbrot-fractal](https://catatankemalasan.files.wordpress.com/2023/07/fractal-mandelbrotian.png)
+![[fractal-mandelbrotian.png]]
 
 [[Benoit Mandelbrot]]
 
@@ -68,7 +68,7 @@ Embracing counterintuitive paradox, accepting and justifying any cognitive bias 
 
 Like the Flexibility of the rubber hegelian master in Luffy plotted by a relative morality ethics from Oda sensei to become a pirate as a free man,
 
-![sun-god-nika](https://catatankemalasan.files.wordpress.com/2023/07/sun-god-nika.jpg)
+![[sun-god-nika.jpg]]
 
 yg oleh teman2 tukang parkir, geng2 klitih, petrus dan buzzer yg berupaya melanggengkan pancasila, ditafsirkan sebagai free man == preman
 

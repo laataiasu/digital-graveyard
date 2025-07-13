@@ -36,7 +36,7 @@ I work with data, but there is no data governance or data documentation.
 
 We just WhatsApp other teams if we don't know something, and then meet via [[Zoom]] or [[Microsoft Teams]] to discuss it.
 
-![walter-documentation-meme](walter-documentation-meme.png)
+![[walter-documentation-meme.png]]
 
 [[Meme]]
 

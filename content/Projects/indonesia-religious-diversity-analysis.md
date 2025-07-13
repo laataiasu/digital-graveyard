@@ -12,7 +12,7 @@ outputnya mirip ini
 
 http://coppelia.io/2012/06/graphing-the-history-of-philosophy/
 
-![](https://miro.medium.com/max/640/1*zJ4otl4CL_O6ES8VTTh2oQ.png)
+![[1_zJ4otl4CL_O6ES8VTTh2oQ.png]]
 
 
 

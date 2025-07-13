@@ -4,7 +4,7 @@ tags:
 - journal
 title: 'Seeking Redemption: A Journey from Lost Faith to Humanitarian Awakening'
 ---
-![lost](https://catatankemalasan.files.wordpress.com/2023/07/lost.jpg)
+![[lost.jpg]]
 
 At the age of 17, I lost the magnetic quality of attracting good things in my environment. Many things emerged that did not meet my expectations during my joyful elementary school years. Back then, I believed that religion could save the world with all its flaws. The environment felt truly alive during that time. I thought that religion had saved many people, and I believed that any problem occurred due to a lack of faith in God. However, with faith, all problems could be healed. Through hope, prayer, and effort, I felt myself becoming a positive force in solving life's problems.
 

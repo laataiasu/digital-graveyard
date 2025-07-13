@@ -16,21 +16,21 @@ Much of the progress and growth appears empowering, until it becomes mainstream.
 
 If you think far into the future, what mediums and aspects will represent and symbolize beauty? By now, where physical beauty is easily attainable, I suspect physical attractiveness will lose its status as a symbol of beauty, because everyone can achieve it effortlessly.
 
-![super](incredible.jpg)
+![[incredible.jpg]]
 
 It's akin to the concept of Bitcoin. Ugliness becomes scarce, and due to scarcity bias, the unattractive become valuable.
 
-![bitcoin god](bitcoin_god.jpg)
+![[bitcoin_god.jpg]]
 
 And this is the message they truly want to convey. The process of empowerment is futile, because fundamentally, many people are drawn to the gaps between ugliness and beauty. It's these gaps that romanticize the story.
 
 Someone who aims to empower everyone means they want to close these gaps. Others, however, will vilify those who seek to empower everyone, considering them as the villains. The effort to bridge these gaps involves either making everyone beautiful or embracing the opposite.
 
-![imagine all](imagine_all.jpg)
+![[imagine_all.jpg]]
 
 From this perspective, this individual is actually a villain because what he preaches is making everyone beautiful to close the gaps. The specific process intended to achieve 'universal beauty' doesn't matter.
 
-![bryan johnson](bryan_johnson.png)
+![[bryan_johnson.png]]
 
 Someone like him fights entropy in an attempt to attain eternal beauty. Those who follow him probably find ecstasy in imagining the dragon being slain in "The Fable of the Dragon-Tyrant"
 
@@ -44,7 +44,7 @@ And he always convinces himself, everyone can be beautiful. One can strive to re
 
 Applying micellar water, face wash, toner, serum, moisturizer, sunscreen +-1 hour a day. Makeup, lip balm, perfume, hairstyling, fashion, hitting the gym, plastic surgery, 
 
-![jungsomin](jungsomin.png)
+![[jungsomin.png]]
 
 seeking refuge in a metaverse online avatar that exudes grace and elegance, manipulating images and videos to align with what is perceived as the taste of many people, 
 
@@ -56,8 +56,8 @@ carefully choosing what is 'good' and discarding what is 'bad' about what one wi
 
 Body, soul, and spirit should embody beauty. It truly isn't exceeding limits to pursue beauty.
 
-![howl](howl.jpg)
+![[howl.jpg]]
 
 TL;DR: I don't engage in the time-consuming rituals mentioned above because in the future beauty standards will be determined by individuals like these.
 
-![tardigrade](tardigrade.jpg)
+![[tardigrade.jpg]]

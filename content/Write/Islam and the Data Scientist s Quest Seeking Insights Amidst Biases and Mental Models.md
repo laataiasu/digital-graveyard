@@ -8,7 +8,7 @@ tags:
 title: 'Islam and the Data Scientist''s Quest: Seeking Insights Amidst Biases
   and Mental Models'
 ---
-![data-science.jpg](https://catatankemalasan.files.wordpress.com/2023/07/data-science.jpg)
+![[data-science.jpg]]
 
 data scientist dan the sixth sense movie
 
@@ -69,7 +69,7 @@ growth mindset, antifragile, flow, atau apalah itu
 
 itu semua fastabiqul khairat doang -_-
 
-![muslim.jpg](https://catatankemalasan.files.wordpress.com/2023/07/muslim.jpg)
+![[muslim.jpg]]
 
 ---
 1. How not to be ignorant about the world 

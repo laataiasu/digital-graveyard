@@ -10,7 +10,7 @@ timeline_notification:
 title: Bitcoin & Breaking Bad
 ---
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://cdn3.whatculture.com/images/2015/11/JW6CYguN.gif" alt="Image result for breaking bad funny quotes" /></figure>
+  <figure class="aligncenter">![[JW6CYguN.gif]]</figure>
 </div>
 
 TLDR Breaking Bad Synopsis:
@@ -63,5 +63,5 @@ It's still easy when only about drugs, but when it comes to dangerous weapons li
 
 But if the revolution is running smoothly, accompanied by responsible freedom, I believe, the world without governments is like a promising world if everyone can do anything responsibly. And of course, come again to the first, good intention is not enough. Walter has good intentions not to burden his Family by selling drugs, the intention is realized but he ends up his life anxiously and miserably. So, good intentions are never enough.<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed">
 
-![father](https://i.pinimg.com/originals/4c/0e/d8/4c0ed845a5d91f9ae34d0283fb266209.jpg)
+![[4c0ed845a5d91f9ae34d0283fb266209.jpg]]
   

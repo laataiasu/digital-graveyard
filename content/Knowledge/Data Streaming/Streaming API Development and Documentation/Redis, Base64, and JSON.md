@@ -220,8 +220,7 @@ Above is a table that shows the key for each letter, and what it represents. The
 HTML Using Base64
 <div>
 <p>Smiley Face</p>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAYAAAA10dzkAAAEGWlDQ1B"
-/>
+![[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAYAAAA10dzkAAAEGWlDQ1B]]
 </div>
 Explanation of HTML Using Base64
 Sometimes document formatted messages contain encoded information:

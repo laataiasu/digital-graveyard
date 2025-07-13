@@ -12,4 +12,4 @@ This month I pray again. I give up to live an [[Agnosticism/agnostic]]/atheistic
 
 least toxic player in dota :v
 
-![alt text](dota1.png) ![alt text](dota2.png) ![alt text](dota3.png) ![alt text](dota4.png) ![alt text](dota5.png) ![alt text](dota6.png)
+![[dota1.png]] ![[dota2.png]] ![[dota3.png]] ![[dota4.png]] ![[dota5.png]] ![[dota6.png]]

@@ -7,4 +7,4 @@ title: 2024-04-19
 
 2024-04-19
 
-![neet_phd](neet_phd.png)
+![[neet_phd.png]]

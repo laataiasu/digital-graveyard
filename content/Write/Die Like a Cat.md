@@ -4,7 +4,7 @@ tags:
 - journal
 title: Die Like a Cat
 ---
-![die like a cat](https://catatankemalasan.files.wordpress.com/2023/07/beautiful-cat-dying-in-colorful-water.jpg)
+![[beautiful-cat-dying-in-colorful-water.jpg]]
 
 How would you like to die? I want to die as a coward, like the great coward.
 

@@ -9,7 +9,7 @@ title: Kemunafikan Tulisan
   
 ### Kemunafikan Tulisan  
   
-![kemunafikan_tulisan](kemunafikan_tulisan.jpg)  
+![[kemunafikan_tulisan.jpg]]  
   
 Pernahkah kalian merasakan?    
 Saat bersenang senang    

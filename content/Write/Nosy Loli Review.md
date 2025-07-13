@@ -7,7 +7,7 @@ timeline_notification:
 - '1607044521'
 title: Nosy Loli Review
 ---
-![takagi](https://catatankemalasan.files.wordpress.com/2020/11/ej5fzeovcaidsfn.jpeg?w=680)
+![[ej5fzeovcaidsfn.jpeg]]
 
 Based on any history books, [[Japan]] colonized Indonesia for 3.5 years, from 1942 until 1945.
 
@@ -15,7 +15,7 @@ But it is only based on books, it probably less than that, or it probably still 
 
 The funny thing is The Japanese weren't taught about Indonesia, at least from my limited resources from 
 
-![](https://youtu.be/TDasnJh7q8U)
+![[https://youtu.be/TDasnJh7q8U]]
 
 The Youtuber asked 2 Japanese teenagers to guess about where he comes from and so on. And whenever he talked about Indonesia, they didn't know anything. But after he told about Bali, the 2 Japanese teenage girls just realized that Bali is part of Indonesia.
 
@@ -33,7 +33,7 @@ He gave example again that the one ex-candidate vice president is a businessman 
 
 What I remembered too is he suggested us to read [[Noam Chomsky|Noam Chomsky]]'s books. <figure class="wp-block-image size-large">
 
-![](https://catatankemalasan.files.wordpress.com/2020/11/ej5hbryvgaattfv.png?w=452)
+![[ej5hbryvgaattfv.png]]
 
 I think there's a lot of people who can't finish the books or read nothing at all because what do we get from there? To know about the history of crime business in the world, the [[Genocide|genocide]], and any other practical political business which influenced a lot of innocent people, what is the purpose of reading those kinds of book except to hate the world?
 
@@ -41,7 +41,7 @@ I still couldn't hold my laugh when my teacher talked about that seriously, Firm
 
 "Konspirasi!!!", in a funny tone and it really represents this [[Meme]].<figure class="wp-block-image size-large">
 
-![](https://catatankemalasan.files.wordpress.com/2020/11/ej5jsm7u4aanhgh.jpeg?w=522)
+![[ej5jsm7u4aanhgh.jpeg]]
 
 I respond to my history teacher in 2 ways. Maybe his brain is damaged by full of conspiracy because he read a lot about history, and second, maybe he is true and the world is a really hateful places.
 

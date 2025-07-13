@@ -4,7 +4,7 @@ tags:
 - essay
 title: 'Keberagamaan dan Relevansi Menulis: Perlukah?'
 ---
-![perlukah menulis](https://catatankemalasan.files.wordpress.com/2023/07/menulis.jpg)
+![[menulis.jpg]]
 
 Nulis itu asyik = bullshit.
 

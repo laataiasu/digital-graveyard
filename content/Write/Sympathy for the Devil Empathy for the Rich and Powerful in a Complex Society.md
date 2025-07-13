@@ -18,7 +18,7 @@ There are numerous paths to reach a goal; the only difference is the speed at wh
 
 There is an intriguing case study involving charity to [[Palestine]] and moral justice warriors (SJWs). 
 
-![palestine-wiki](https://upload.wikimedia.org/wikipedia/commons/3/3c/West_Bank-46.jpg)
+![[West_Bank-46.jpg]]
 
 Why do people give to charity? Because they don't want to think. However, there are faster alternatives, such as controlling their children and adopting the doctrine that "you don't deserve a happy life; many people suffer. Your task is not to indulge in pleasure like playing games or traveling the world to maximize your own happiness. Instead, it is to help others. If you don't, you will be eternally cursed. Avoid smartphones and assume that most people are evil. Your mission is to fight them, just like how the leader of a company restricted his own children from using smartphones, as in the case of Steve Jobs."
 
@@ -28,7 +28,7 @@ This influence expands to broader networks, communities, religions, countries, a
 
 The paradox of being rich and attractive is indeed true.
 
-![Einstein-quote](https://catatankemalasan.files.wordpress.com/2023/06/enstein-bngst.png)
+![[enstein-bngst_1.png]]
 
 There is something called the "Arrival Fallacy" the fallacy of achieving what one desires. You acquire that knowledge only by existing in such a state. Thus, being grateful for being ordinary is important.
 
@@ -67,7 +67,7 @@ then influence to more broader networks, community, religion, country, and so on
 
 paradox of rich and attractive people are true. 
 
-![enstein-bngst](https://catatankemalasan.files.wordpress.com/2023/06/enstein-bngst.png)
+![[enstein-bngst.png]]
 
 ada yg namanya the arraival fallacy, the fallacy of getting what you want. you will get that knowledge if you exist to be like that. you are grateful to become normal.  
 

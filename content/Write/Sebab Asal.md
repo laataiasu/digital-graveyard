@@ -10,7 +10,7 @@ Egois apabila hanya ketakutan saja yang disebut menjadi sumber dari segala sesua
 
 Sehingga untuk menyederhanakan berbagai macam masalah yang tidak dapat dibuktikan kesahihannya secara logis, saya lebih memilih pendekatan circular. Bahwa bukan hanya 1 hal, melainkan ada aspek-aspek lain yang terikat sehingga tidak bisa dikatakan bahwa yang 1 itulah yang merupakan sebab asal. Bukan berarti saya menyimpulkan bahwa tidak ada sebab asal, namun karena sebab asal tidak dapat dibuktikan secara logis, saya mengambil pendekatan secara circular yang berarti ini hanyalah model untuk menggambarkan sesuatu yang sebenarnya terjadi dengan tujuan menyederhanakan sesuatu agar lebih mudah dipahami. Dan inilah yang disebut berpikir secara “sistem”.
 
-![systems-thinking](https://catatankemalasan.files.wordpress.com/2023/02/system-thinking.jpg) 
+![[system-thinking.jpg]] 
 
 http://www.berrykersten.nl/?p=491
 

@@ -6,7 +6,7 @@ tags:
 title: Gagak Kufur
 ---
   
-![gagak-kufur](gagak-kufur.png)  
+![[gagak-kufur.png]]  
   
 Aku adalah burung gagak  
 Yang mencari kebebasan bahkan kekuasaan  

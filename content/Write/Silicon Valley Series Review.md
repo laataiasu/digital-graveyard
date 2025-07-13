@@ -28,9 +28,9 @@ Like the connotation which is attached to IT person, or IT groups, 4 eyes, skinn
 
 This scene is really funny for me. 
 
-![img](https://catatankemalasan.files.wordpress.com/2021/07/screenshot-9-5.png?w=1024)
+![[screenshot-9-5.png]]
 
-![img](https://catatankemalasan.files.wordpress.com/2021/07/screenshot-10-2.png?w=1024)
+![[screenshot-10-2.png]]
 
 No matter how angry the IT kids are, when they are got angry, it always turns out to be funny. 
 

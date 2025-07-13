@@ -4,7 +4,7 @@ tags:
 - journal
 title: Para Penyembah Ekualitas
 ---
-![penyembah-ekualitas.jpg](https://catatankemalasan.files.wordpress.com/2023/07/penyembah-ekualitas.jpg)
+![[penyembah-ekualitas.jpg]]
 
 Lihatlah mereka!
 

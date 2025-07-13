@@ -5,7 +5,7 @@ tags:
 - review
 title: 'Rindu: Redefining Existence From Silence to Survival'
 ---
-![oldman-and-the-sea](https://catatankemalasan.files.wordpress.com/2023/07/oldman-and-the-sea.jpg)
+![[oldman-and-the-sea.jpg]]
 
 I don't know why the world is so disconcerting, other individuals are effortlessly engaging while I struggle. When I behave too amiably and act normally, they show no interest in me, and when I act mischievously, they talk behind my back. Only a few people want to befriend me, and after a long time, we feel like strangers, and I don't have any friends anymore. This cycle repeats in my life, and I envy those who have many friends, even if their friends are unpleasant. At least they have friends. I envy people with fervor; they know what they need to do. I am unaware of my own abilities; countless times I have contemplated but failed to grasp them. People surround me, yet I still feel alone, ignorant of my abilities and passions. I have read countless thought-provoking quotes, books, but they have been futile in helping me. I waste my time riding alone and playing games. Am I truly alive? My soul has perished; I have died countless times in this harsh world. Welcome to my existence.
 
@@ -35,6 +35,6 @@ I just want to be the reason why people keep on living. I don't want anyone to c
 
 Some people strive to find happiness but are defeated by madman who make no effort at all. Some seek success but lose to luck. People believe they are doing the right thing without knowing what truth is and where it comes from. When asked, they only respond with, "What matters is that I am moving forward, even if it's towards hell, unlike you who only think about how to move forward and remain silent with a mind full of a thousand languages you don't even understand." And the next day, the person who keeps moving forward gets lost and meets their demise, while the one who remains silent is struck by natural calamities and meets their demise. Yet, no one knows the truth. "It starts with conviction and ends in disappointment or belief" or "It starts with doubt and ends with steadfastness or belief"?
 
-![rindu](https://catatankemalasan.files.wordpress.com/2023/07/rindu.jpg)
+![[rindu.jpg]]
 
 Indeed, as Tere Liye said, no sailor sabotages their own ship, but that only happens in safe and comfortable conditions. When our ship is seized by pirates called the environment, when they take our innocence and turn it into fear, we have no choice but to abandon our ship, even destroy it, swim as fast as we can, and find another ship. Then, whether we like it or not, we have to obey the rules of the new ship to survive. We are forced to leave our old comfortable ship with its own rules and follow the new ship with restrictive rules called life.

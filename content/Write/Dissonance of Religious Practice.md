@@ -6,7 +6,7 @@ tags:
 - pseudocomedy
 title: Dissonance of Religious Practice
 ---
-![dissonance-of-religious-practice](https://catatankemalasan.files.wordpress.com/2023/07/dissonance-of-religious-practice.jpg)
+![[dissonance-of-religious-practice.jpg]]
 
 There are some individuals on this Earth who, during the Islamic month of [[Ramadhan]], behave like donkeys. They read what they do not understand and persist in reading what is seemingly impossible for them to comprehend. Hundreds of pages, even until the end, remain devoid of meaning to them, and their foolishness persists, even though they do not grasp the essence of their reading. They continue to repeat it from chapter one to the final chapter because their teacher claimed that reading a single letter holds the value of ten virtues.
 

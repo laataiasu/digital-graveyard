@@ -46,5 +46,5 @@ Eps 12, Cassandra apollo, refrigerator, global warming
 
 Eps13, future
 
-![wp](https://p4.wallpaperbetter.com/wallpaper/263/825/177/cosmos-a-spacetime-odyssey-tv-shows-wallpaper-preview.jpg)
+![[cosmos-a-spacetime-odyssey-tv-shows-wallpaper-preview.jpg]]
 

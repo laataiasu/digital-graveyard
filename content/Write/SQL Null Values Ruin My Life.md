@@ -39,11 +39,11 @@ HMMMMM...
 
 In PostgreSQL:
 
-![psql_sorting](psql_sorting.png)
+![[psql_sorting.png]]
 
 In BigQuery:
 
-![bq_sorting](bq_sorting.png)
+![[bq_sorting.png]]
 
 Remember to use `NULLS LAST/FIRST` to properly handle null values when executing ranking queries.
 

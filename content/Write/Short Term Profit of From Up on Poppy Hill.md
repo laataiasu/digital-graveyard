@@ -7,7 +7,7 @@ tags:
 timeline_notification: null
 title: Short-Term Profit of 'From Up on Poppy Hill'
 ---
-![from-up-on-poppy-hill](https://i.pinimg.com/originals/b9/ce/89/b9ce89d36e6df7a15ded4f33fb756b7e.png)
+![[b9ce89d36e6df7a15ded4f33fb756b7e.png]]
   
 I often guess something. It is strange for some people, and I am not suggesting it too. You will not get something based on guessing if you believe so. And you will get some insights, whether it is true or not, you will get insight if you believe in your guessing, which is the case for modern people nowadays.
 
@@ -21,7 +21,7 @@ On the other hand, there's a trader who pays attention well by a lot of fundamen
 
 [[Meme]]
 
-![Stonks Know Your Meme](https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg)
+![[Screen_Shot_2019-06-05_at_1.26.32_PM.jpg]]
 
 
 
@@ -45,7 +45,7 @@ But I rather say, Miyazaki, or the pseudo statistician, or any other scientist i
 
 The stairs builders arrange the stairs one by one, climb them, rearrange them, and climb them again, they believe because they can go to the upper side it means that the stairs they're building are working. It is like this Spongebob scene.
 
-![science and religion so far](https://i.redd.it/0sjoypp5abc11.gif)
+![[0sjoypp5abc11.gif]]
 
 They keep on nailing and riding it. By human logic, it is impossible and illogical, Spongebob will fall at the first board he hammered. But "Director" logic is not the same as human logic. And that applies to modern humans today. Or that is what is called probability.
 

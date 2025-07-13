@@ -6,7 +6,7 @@ tags:
 - essay
 title: The Fallacy of Effectiveness and Kemubaziran
 ---
-![alif lam mim kaf ha ya ain sod](<alif lam mim kaf ha ya ain sod.jpg>)
+![[alif lam mim kaf ha ya ain sod.jpg]]
 
 God created all beautiful scenery. What is the purpose of beauty?
 

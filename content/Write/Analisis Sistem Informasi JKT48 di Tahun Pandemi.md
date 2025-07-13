@@ -7,7 +7,7 @@ tags:
 title: Analisis Sistem Informasi JKT48 di Tahun Pandemi
 publish_external: true
 ---
-![odd taxi](https://catatankemalasan.files.wordpress.com/2022/07/shun-imai-odd-taxi.jpg?resize=214%2C214)
+![[shun-imai-odd-taxi.jpg]]
 
 ### Analisis [[Information System|Sistem Informasi]] JKT48 di Tahun Pandemi
 

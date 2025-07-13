@@ -71,4 +71,4 @@ atau dengan kata lain
 kesepian    
     
     
-![brooks](brooks.png)
+![[brooks.png]]

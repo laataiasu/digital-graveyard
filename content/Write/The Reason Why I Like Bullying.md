@@ -25,7 +25,7 @@ Challenging homeostasis means to get out of the comfort zone. I mean, those who 
 
 Businesses, [[Investment|investing]], systems developing, learning, work out, and everything need this kind of pressure. Let's see this [[Investment|investing]] thing, there's something called J- Curve
 
-![time x performance](https://catatankemalasan.files.wordpress.com/2021/11/u-zfnh3j-2zaimcdcg9xpvb5_l1kxc28cpm06e_kd5bbi4z-kvawi_6vnppntbc1oketnwjiaqyzwl88kbqbnjcmtg8eypmijb1iqu4bzytfhseok02j9dep2uc6jitloudk4fy6.png)
+![[u-zfnh3j-2zaimcdcg9xpvb5_l1kxc28cpm06e_kd5bbi4z-kvawi_6vnppntbc1oketnwjiaqyzwl88kbqbnjcmtg8eypmijb1iqu4bzytfhseok02j9dep2uc6jitloudk4fy6.png]]
 
 It means that, with a little amount of 'resources', it can make the businesses grow higher while of course there is a state which is decreasing or at the bottom of the line or in the cliff. But as we can see, there's always a cost if you want to grow.
 
@@ -61,7 +61,7 @@ You can bully someone who is really assholes and you have a kind of prediction t
 
 Not only that, the right person means, there is someone who is resistant to a lot of forms of bullying and you have this feeling that this person will fight you back or has the motivation to revenge on what you did so he will learn everything to make you miserable in the future. But you need to make sure that the bully is not like this ‘The Silencer' from "3 Idiots"<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed">
 
-![silencer](https://assets.telegraphindia.com/telegraph/7c9b9f6e-9a01-4cd3-b972-96edf59c1110.jpg)
+![[7c9b9f6e-9a01-4cd3-b972-96edf59c1110.jpg]]
 
 What I want to do is make sure that someone who you are bullying has 'good' morals. I don't know about the definition of good, but please make sure that the person will act exponentially better than before you bully. Exponentially better means they got something to be proud of and not to destroy the world or person or anything, but it is rather a proud achievement which improves the world and motivates anyone. It is like someone who is successful and tell in the TV or anything popular media,
 

@@ -4,7 +4,7 @@ tags:
 - cs-is
 title: Review Sistem Informasi UI ~Semester 3
 ---
-![fasilkom-s3](https://catatankemalasan.files.wordpress.com/2021/11/semester-3-sistem-informasi-ui.png)
+![[semester-3-sistem-informasi-ui.png]]
 
 Kalo dipikir-pikir, ternyata ngereview semua matkul itu gabut juga ya. Jadinya sekarang saya cuma mau cerita aja tentang apa yang dipelajari di semester 3 pacil dari outlier yang malas beradaptasi ini.
 

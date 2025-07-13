@@ -11,7 +11,7 @@ Implementing a growth mindset often feels challenging because, in many large cor
 
 It's essential to recognize that success is a subjective and socially constructed concept. In Indonesia, success can be defined at the lowest level, such as the "tingkat taraf kemiskinan."
 
-The relatively slow internet in Indonesia doesn't come as a surprise. According to a report on ![liputan6.com](https://www.liputan6.com/tekno/read/5246376/internet-Indonesia-paling-lemot-se-asia-tenggara-ketinggalan-jauh-dari-myanmar-dan-filipina), Indonesia has the slowest internet in Southeast Asia, lagging far behind countries like Myanmar and the Philippines.
+The relatively slow internet in Indonesia doesn't come as a surprise. According to a report on ![[internet-Indonesia-paling-lemot-se-asia-tenggara-ketinggalan-jauh-dari-myanmar-dan-filipina.bin]], Indonesia has the slowest internet in Southeast Asia, lagging far behind countries like Myanmar and the Philippines.
 
 Engineering news and influencers play a crucial role in what some may term as a victory. Embracing a growth mindset and staying on the hedonic treadmill are key to overcoming challenges.
 

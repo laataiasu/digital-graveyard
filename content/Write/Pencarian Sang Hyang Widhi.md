@@ -4,7 +4,7 @@ tags:
 - journal
 title: Pencarian Sang Hyang Widhi
 ---
-![Pencarian Sang Hyang Widhi](https://catatankemalasan.files.wordpress.com/2023/07/pencarian-sang-hyang-widhi.jpg)
+![[pencarian-sang-hyang-widhi.jpg]]
 
 Mungkin sang Hyang Widhi membuktikan keberadaannya kepada dunia, dengan membiarkan manusia mencarinya. Ada yang menemukan dan ada yang tidak. Ada yang berusaha mencari dengan segala kebetulannya dan ada yang berusaha melupakan karena terlalu rumit untuk dipahami. Dibuktikan dengan saat ini atau saat dahulu, tidak ada yang benar-benar mengenal namanya, bahkan nama panggilannya pun berbeda-beda. Ada yang mengira bahwa kita manusia adalah jelmaan dewa/tuhan, Ia bisa bersenang-senang dan marah. Ada juga yang berpikir bahwa tak boleh menyamakan manusia dengan yang menciptakannya dan menyimpulkan bahwa ialah zat superior yang tak ada duanya. Bahkan para ilmuwan yang pemikirannya merubah dunia pun memilih untuk memuja Ia yang tidak berkepribadian atau memuja semesta dengan segala keindahan dan kekompleksannya. 
 

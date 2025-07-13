@@ -4,7 +4,7 @@ tags:
 - journal
 title: Experience Being Hit by a Motorbike
 ---
-![sabuk_hijau](https://pixfeeds.com/images/19/487338/1200-471212138-hapkido-green-belt.jpg)
+![[1200-471212138-hapkido-green-belt.jpg]]
 
 At elementary school, I joined the Karate Extracurricular. After a lot of practices are done in our school, my teacher decided to take us to walk around out of school.  
 I think my teacher didn't care about the place. The point is it sort of relaxation so that we would not be boring only to learn karate in our school. Yes, it is boringness, that makes people do anything, only to diminish their boredom. Even by walk without purpose, as long as it didn't stand in the same situation, somehow it diminished their boredom. And when it stands in the same situation again for such a long time, they to do any other thing than that, only to diminish the boredom. The concept of boredom is never understood by a fool like me.

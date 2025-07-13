@@ -6,7 +6,7 @@ timeline_notification:
 - '1611631796'
 title: The Reasons Why I Like Corruptors
 ---
-![Deretan Pejabat yang Pernah Tolak Uang Haram Korupsi - News Liputan6.com](https://www.matain.id/cdncontents/image/2019/0321/024529900_1492661684-korupsi_400.jpg)
+![[024529900_1492661684-korupsi_400.jpg]]
 
 "Am I a good teacher?"
 

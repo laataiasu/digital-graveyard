@@ -6,7 +6,7 @@ tags:
 publish_external: true
 ---
 
-![obsidian_graph](obsidian_graph.png)
+![[obsidian_graph.png]]
 
 when i were in school there lots of story about people make money by ads and blogs. 
 

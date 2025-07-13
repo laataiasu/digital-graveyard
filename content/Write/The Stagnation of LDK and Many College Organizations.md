@@ -47,12 +47,12 @@ If you're interested in [[Islamic Finance]], then go into that. If it's public h
 
 Sometimes pseudo activism is worse than inaction because you don't see the alternatives. You think you're already doing your best by doing a lot of things, while there are alternatives you don't see.
 
-![blind_president](https://catatankemalasan.files.wordpress.com/2023/10/president-copy.png)
+![[president-copy.png]]
 
 
 Inaction isn't really inaction if you can use your energy to research with a lot of effort to find problems. Like considering and thinking about how effective your organization really is in helping all its members. If you don't know the way and you say 'I just need to keep going,' you'll get lost, which will add to the cost of returning. We can pause for a moment, ask for directions from someone, or analyze first.
 
-![ariana](https://i.pinimg.com/originals/92/73/f5/9273f5e77abe3a07b4ea3a86b03088d9.png)
+![[9273f5e77abe3a07b4ea3a86b03088d9.png]]
 
 These things always come to my mind when I encounter someone who is hungry and struggling. Like, how is it possible that there are so many mosques but they still don't know that there are hungry people, that there are so many people struggling. I know it's not my responsibility, but I'm really afraid, what if it is our responsibility?
 
@@ -69,11 +69,11 @@ This is the problem that could potentially be addressed by a unified data system
 
 What's the use of the information provided here? What action could be done after see this data?
 
-![ss-kemenag](https://catatankemalasan.files.wordpress.com/2023/10/screencapture-simas-kemenag-go-id-profil-masjid-19-2023-10-02-21_41_15.png)
+![[screencapture-simas-kemenag-go-id-profil-masjid-19-2023-10-02-21_41_15.png]]
 
 The thing is, I'm just curious about a summarized report of all mosques. I want it to be easily accessible like 
 
-![ss_ajaib](https://storage.googleapis.com/finansialku_media/wordpress_media/2020/06/44457832-terbaru-dari-ajaib-ss-05b-finansialku.jpg)
+![[44457832-terbaru-dari-ajaib-ss-05b-finansialku.jpg]]
 
 , with many customizable metrics, to classify Muslims in Indonesia, their presentations, contributions, conflicts, and scandals, their relationships with political parties, and so on. Not limited to just social media trends like https://pers.droneemprit.id/ from @ismailfahmi, but any form of event.
 
@@ -83,6 +83,6 @@ But I think it's worth considering since most students struggle academically, so
 
 I really have hope for abundant energy resources, so we can have plenty of computing and storage power, so that things like this, which are currently low-priority, can enrich the vision. The simplest thing I want is the source of truth, and the more painful the truth, the better.
 
-![meme](https://i.imgflip.com/815s96.jpg)
+![[815s96.jpg]]
 
 [[Meme]]

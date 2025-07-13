@@ -7,7 +7,7 @@ tags:
 - essay
 title: How Can You Not Be Romantic About Baseball?
 ---
-![film moneyball](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-150108-rectangle.jpg)
+![[rs-150108-rectangle.jpg]]
 
 <figure class="wp-block-embed aligncenter is-type-rich is-provider-embed wp-block-embed-embed">
 	<div class="wp-block-embed__wrapper">
@@ -66,7 +66,7 @@ With a low budget, the team can win a lot. Proven that everything can be efficie
 
 It means that the selling or the trading for the players will be easy. Current and potential ability easily understood, and when everyone is understood, could it be there's no more shitty player? Could human training more and more so that it will leap the potential and erase the "unneeded" player? What do we know about potential?
 
-![GAMES PEOPLE PLAY #9 - Baseball, Bill James & MONEYBALL](https://i.ytimg.com/vi/MqaATF8RdY4/maxresdefault.jpg)
+![[maxresdefault.jpg]]
 
 <blockquote class="wp-block-quote">
   <p>

@@ -27,7 +27,7 @@ publish_external: true
 
 screening kriteria > [[Open Source Intelligence|OSINT]] satu-satu > hitung kancing
 
-![infopemilu-kpu](infopemilu-kpu.png)
+![[infopemilu-kpu.png]]
 
 
 

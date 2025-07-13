@@ -6,7 +6,7 @@ tags:
 - horror
 title: Review The Most Horror Webtoon
 ---
-![friday-forbidden-tales](https://catatankemalasan.files.wordpress.com/2022/07/friday-forbidden-tales.jpg)
+![[friday-forbidden-tales.jpg]]
 
 So this is my review for the most horror manhwa I've ever read. Most horror in manhwa never feels like horror, actually. I am a fainthearted seriously. I always act like am a brave person whenever I watch movies with friends in my childhood, and after I went home, I often had a hard time to sleep and go to some room of my house in the night because I was very scared. But the feeling after read this manwha is not the same as I read whenever I was in my childhood or similiar horror movies like that, it's very different. 
 

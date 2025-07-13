@@ -6,7 +6,7 @@ tags:
 - film
 title: Social Anxiety When Dining Alone in Restaurants
 ---
-![catatan kemalasan](https://catatankemalasan.files.wordpress.com/2023/09/spotlight-effect.jpg)
+![[spotlight-effect.jpg]]
 
 I've come to understand concepts like the 'spotlight effect,' delved into the intriguing depths of 'The Mind Explained' Netflix series, and engaged with content that reminds us of our shared humanity in this vast world.
 

@@ -4,7 +4,7 @@ tags:
 - journal
 title: 'Kesenangan yang Kehilangan Arah: Meniti Jejak Emir dalam Kegelapan'
 ---
-![lostboy.jpg](https://catatankemalasan.files.wordpress.com/2023/07/lostboy.jpg)
+![[lostboy.jpg]]
 
 Memang gelisah dan penyesalan itu munculnya selalu di akhir, apalagi siswa kelas 3 SMA yang masih dalam masa peralihan anak menjadi dewasa. Yang dulunya ingin jadi pemes di kelas sebelumnya, terkenal di sekolah karena tampangnya, pintarnya, supelnya, dan prestasinya, di kelas 3 tiba-tiba bingung dan bertanya, "Perasaan baru saja kemarin upacara penerimaan, lah kok sudah mau lulus lagi?"
 

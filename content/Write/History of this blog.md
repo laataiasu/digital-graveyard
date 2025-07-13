@@ -18,7 +18,7 @@ Finally I'm wasting my time playing ML, PUBG, hacking cellphones, installing cus
 
 I'm still in the confused phase what to do, until I see old [[Facebook]] statuses,
 
-![img](https://catatankemalasan.files.wordpress.com/2020/05/screenshot_20190831-0935322.png?w=1024)
+![[screenshot_20190831-0935322.png]]
 
 although there is a status like the one above that really relates to now but still,
 

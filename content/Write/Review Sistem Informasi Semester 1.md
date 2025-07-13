@@ -6,7 +6,7 @@ title: Review Sistem Informasi  ~Semester 1
 ---
 **Akademis**
 
-![img](https://catatankemalasan.files.wordpress.com/2020/05/4cap4d.jpg?w=500)
+![[4cap4d.jpg]]
 
 
 
@@ -57,7 +57,7 @@ Rate kesulitan : 5/10
 
 Dapet dosen zonk di matkul ini, professor senior yang sebenarnya pengetahuannya emang luas tapi kalo ngajarin gatau lupa gatau apa, tiap pertemuan materinya sering diulang-ulang. Tiap ada tugas sama uts sama uas nilainya ga pernah dikasih tau. Kepaksa harus belajar sendiri dan emang nilainya hoki-hokian, walaupun ga ngerti apa-apa tapi dapet lumayan
 
-![img](https://catatankemalasan.files.wordpress.com/2020/05/matdis.png?w=224)
+![[matdis.png]]
 
 Di matkul ini intinya belajar:
 

@@ -7,7 +7,7 @@ timeline_notification:
 - '1600922867'
 title: Review Se7en
 ---
-![lester](https://catatankemalasan.files.wordpress.com/2020/09/screenshot_2020-08-13-23-03-29-272_com.mxtech.videoplayer.ad_.jpg?w=1024)
+![[screenshot_2020-08-13-23-03-29-272_com.mxtech.videoplayer.ad_.jpg]]
 
 There are 2 interesting terms in business, thus "standard of living" and "quality of life"
 

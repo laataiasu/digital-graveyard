@@ -17,7 +17,7 @@ Consistency: Setiap read mengembalikan item terbaru yang benar atau error
 Availability: Setiap request diterima dan response dikirim (meskipun data yang dikirim tidak update)
 Partition tolerance: Sistem tetap berjalan meskipun ada node yang mati atau gangguan lainnya seperti gangguan network etc.
 
-[![](https://facingissuesonitcom.files.wordpress.com/2020/02/cap-theorem.jpg?w=1000)](https://facingissuesonitcom.files.wordpress.com/2020/02/cap-theorem.jpg?w=1000)
+[![[cap-theorem.jpg]]](https://facingissuesonitcom.files.wordpress.com/2020/02/cap-theorem.jpg?w=1000)
   
 ## Apache Cassandra
 - Perlu **Denormalization** untuk mencapai fast reads, karena tidak ada **JOINS**

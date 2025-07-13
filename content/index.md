@@ -4,7 +4,7 @@ title: About
 publish_external: true
 ---
 
-![profile](https://catatankemalasan.wordpress.com/wp-content/uploads/2025/06/profile.png)
+![[profile.png]]
 
 > 🧭 _i don't know what i want. i only know what i don't want._
 

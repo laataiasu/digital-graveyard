@@ -6,7 +6,7 @@ tags:
 - review
 title: Review Daerah Salju Yasunari Kawabata
 ---
-![daerah-salju-yasunari-kawabata](daerah-salju-yasunari-kawabata.png)
+![[daerah-salju-yasunari-kawabata.png]]
 
 Roman fiksi pertama yang w baca dengan serius wkwkwk.
 

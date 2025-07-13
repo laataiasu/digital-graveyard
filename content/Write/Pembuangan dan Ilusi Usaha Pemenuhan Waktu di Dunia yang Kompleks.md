@@ -4,7 +4,7 @@ tags:
 - journal
 title: Pembuangan dan Ilusi Usaha Pemenuhan Waktu di Dunia yang Kompleks
 ---
-![buang-buang-waktu](https://catatankemalasan.files.wordpress.com/2023/07/buang-waktu.jpg)
+![[buang-waktu.jpg]]
 
 Bumi akan selalu seimbang, kita tetaplah seperti ini, sebagai pelengkap dari keabsahan manusia manusia yang duduk di kursi jabatan dan manusia manusia yang selalu ada di pentas popularitas.
 

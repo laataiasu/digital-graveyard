@@ -7,7 +7,7 @@ title: Belajar dari Jira
 ---
 > "[in the struggle for new solutions] new and deeper problems have been created. Our knowledge is now wider and more profound than that of the physicist of the nineteenth century, but so our doubts and difficulties."
 
-![jira-backlog](https://catatankemalasan.files.wordpress.com/2022/09/jira.png)
+![[jira.png]]
 
 Backlog itu entahlah darimana asalanya, apakah itu dari Agile, Scrum, atau framework atau apalah itu namanya. Saya benar-benar mendapatkan manfaatnya dan tiba-tiba seperti ada yang *trriiiing dari atas kepala semenjak magang pertama. 
 

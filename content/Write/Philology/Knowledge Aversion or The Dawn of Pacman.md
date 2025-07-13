@@ -6,7 +6,7 @@ title: Knowledge Aversion or The Dawn of Pacman
 publish_external: true
 ---
   
-![pacman](https://catatankemalasan.files.wordpress.com/2023/07/4324eef5-94c3-40fc-9beb-d3346f0f2ac2.jpg)  
+![[4324eef5-94c3-40fc-9beb-d3346f0f2ac2.jpg]]  
   
 ### Knowledge Aversion or The Dawn of [[Pacman]]  
   

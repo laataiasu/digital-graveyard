@@ -14,7 +14,7 @@ This is something I learned from [[Eliezer Yudkowsky]].
 
 The dilemma between thinking for the future, going one step beyond everyone, and ending up overanalyzing and making assumptions, or simply enjoying the present 'carpe diem' moment, where you might end up like any turkey problems.
 
-![Alt text](one_thousand_and_one_days_of_history.png)
+![[one_thousand_and_one_days_of_history.png]]
 
 To be truly balanced does not exist. We often create an illusion of balance while making choices about our careers, the friends we choose, and the Family we keep, even though there are always better and worse options.
 

@@ -30,7 +30,7 @@ Then I started to climb. It looks like you see the waterfall there because its r
 
 
 
-![predictive-model](https://catatankemalasan.files.wordpress.com/2021/12/img_20191230_164753-min.jpg)
+![[img_20191230_164753-min.jpg]]
 
 ![[assets/suara-di-gunung-api.ogg]]
 
@@ -39,13 +39,13 @@ I fight my fear and I arrived at the first stop. Honestly I forget how many stop
 
 The time showed at 5 o'clock so I commit to myself if until 6 I still haven't see the top, I would come back. Then I started again the climbing, fought my weak feet, the scared of darkness, etc. And then I reached the top. I didn't believe that actually it is a short mountain, only 700 mdpl. I counted that it only need approximately 45 minutes to reach the top. So I took some photos for few minutes.
 
-![atas1](https://catatankemalasan.files.wordpress.com/2021/12/img_20191230_171728-min.jpg)
+![[img_20191230_171728-min.jpg]]
 
-![atas2](https://catatankemalasan.files.wordpress.com/2021/12/img_20191230_171714-min.jpg)
+![[img_20191230_171714-min.jpg]]
 
-![atas3](https://catatankemalasan.files.wordpress.com/2021/12/img_20191230_171319-min.jpg)
+![[img_20191230_171319-min.jpg]]
 
-![kantin-kejujuran](https://catatankemalasan.files.wordpress.com/2021/12/img_20191230_175024_hdr-min.jpg)
+![[img_20191230_175024_hdr-min.jpg]]
 
 And I was going back again at 5.30. The path is very slippery and actually more tiring than climbing but I was going faster because I am afraid of dark and lost.
 

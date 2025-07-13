@@ -5,7 +5,7 @@ tags:
 - muslim
 title: 'Sakamoto Unmasked: Navigating Tyranny with Elegance'
 ---
-![sakamoto faces](<sakamoto faces.jpg>)
+![[sakamoto faces.jpg]]
 
 Man is mortal; thus, every man is replaceable.
 

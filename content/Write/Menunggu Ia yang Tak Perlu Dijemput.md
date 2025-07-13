@@ -68,4 +68,4 @@ Tuhan selalu melindunginya, dan kini aku menyadari bahwa Tuhan juga melindungi d
 
 Malam itu berlalu, namun ceritanya masih terukir dalam hati. Aku menghela napas dalam-dalam, berterima kasih pada kegelapan yang membawaku pada cahaya baru. Dan kini, aku berjalan dengan keyakinan bahwa di tengah malam yang sunyi, terdapat keajaiban yang menanti untuk diungkapkan.
 
-![ana de armas](https://catatankemalasan.files.wordpress.com/2023/07/ana-de-armas.png)
+![[ana-de-armas.png]]

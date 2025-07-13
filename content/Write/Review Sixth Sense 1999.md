@@ -27,7 +27,7 @@ Pada scene Anniversary Dinner,DR. Malcolm yang ingin membantu Cole menyembuhkan 
 
 Kemudian di scene Freak dan Locked in the Dungeon, Coledibully teman-temannya dan dikurung di suatu ruangan yang membuat penyakit paranoidnya semakin parah. DR. Malcolm akhirnya menemani Cole, dan mereka saling jujur tentang rahasianya. Rahasia DR. Malcolm yang kesulitan berhubungan dengan istrinya akibat ingin membantu Cole, dan akhirnya Cole mulai membuka diri kepada DR. Malcolm dengan memberitahukan rahasianya yang cukup mengejutkan.
 
-![cole](https://i.pinimg.com/originals/ce/54/a4/ce54a406ecbf814dcacf3b9571eff117.png)
+![[ce54a406ecbf814dcacf3b9571eff117.png]]
 
 Dilanjutkan ke scene Someone's in the kitchen dan Trouble in Family, ternyata Colebenar-benar bisa melihat hantu, dan hantu-hantu tersebut berusaha berkomunikasi dengan Coleuntuk meminta tolong kepada Cole. Cole yang ketakutan tidak bisa menerima begitu saja dan kemudian memberitahukannya pada DR. Malcolm. Malcolmsebenarnya tidak percaya namun bersikap seolah ia percaya karena ingin membantu Colemenyembuhkan penyakitnya. Cole kemudian menuruti permintaan hantu tersebut dan membantunya.  
 
