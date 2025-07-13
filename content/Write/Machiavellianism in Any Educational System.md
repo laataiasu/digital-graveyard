@@ -8,7 +8,10 @@ timeline_notification:
 - '1605991931'
 title: Machiavellianism in Any Educational System
 ---
-![sky castle](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fawsimages.detik.net.id%2Fcommunity%2Fmedia%2Fvisual%2F2019%2F04%2F16%2F9f5fdf54-6383-4c06-bd51-49b1cf04a17b.jpeg%3Fw%3D700%26q%3D90&f=1&nofb=1)
+
+[[SKY Castle]] 
+
+
 
 Machiavellianism believes that every activity that is aimed at the stability of the country or the government is good, even if it ignores some aspects that give chaos, the act to reduce that chaos is considered 'right' as long as that act is aimed to stabilize its power.
 

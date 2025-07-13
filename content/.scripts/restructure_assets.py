@@ -19,6 +19,17 @@ import argparse
 import requests
 import mimetypes
 from time import sleep
+import logging
+
+# Set up logging to file and console
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s %(levelname)s: %(message)s',
+    handlers=[
+        logging.FileHandler('restructure_assets_errors.log', mode='a'),
+        logging.StreamHandler()
+    ]
+)
 
 class MarkdownAssetRestructurer:
     def __init__(self, root_dir):
@@ -122,33 +133,21 @@ class MarkdownAssetRestructurer:
     def download_asset(self, url, target_path):
         """Download an asset from a URL."""
         try:
-            print(f"  Downloading: {url}")
-            
-            # Make the request
+            logging.info(f"Downloading: {url}")
             response = self.session.get(url, stream=True, timeout=30)
             response.raise_for_status()
-            
-            # Get content type
             content_type = response.headers.get('content-type', '')
-            
-            # If target path doesn't have extension, add one based on content type
             if not target_path.suffix:
                 extension = self.get_file_extension_from_url(url, content_type)
                 target_path = target_path.with_suffix(extension)
-            
-            # Create target directory
             target_path.parent.mkdir(parents=True, exist_ok=True)
-            
-            # Download the file
             with open(target_path, 'wb') as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     f.write(chunk)
-            
-            print(f"  Downloaded: {url} -> {target_path}")
+            logging.info(f"Downloaded: {url} -> {target_path}")
             return target_path
-            
         except Exception as e:
-            print(f"  ERROR downloading {url}: {e}")
+            logging.error(f"ERROR downloading {url}: {e}")
             return None
     
     def is_downloadable_url(self, url):
@@ -255,121 +254,93 @@ class MarkdownAssetRestructurer:
         """Move a local asset or download from URL to the target location."""
         try:
             if asset_info['type'] == 'file':
-                # Move local file
                 target_path.parent.mkdir(parents=True, exist_ok=True)
                 shutil.move(str(asset_info['path']), str(target_path))
-                print(f"  Moved: {asset_info['path']} -> {target_path}")
+                logging.info(f"Moved: {asset_info['path']} -> {target_path}")
                 return target_path
-            else:  # URL
-                # Download from URL
+            else:
                 result = self.download_asset(asset_info['path'], target_path)
                 if result:
-                    # Add a small delay to be respectful to servers
                     sleep(0.5)
                 return result
         except Exception as e:
-            print(f"  ERROR processing {asset_info['path']}: {e}")
+            logging.error(f"ERROR processing {asset_info['path']}: {e}")
             return None
     
     def update_markdown_content(self, content, references, markdown_file):
         """Update Markdown content with new asset references."""
-        # Sort references by position (reverse order to maintain positions)
         references.sort(key=lambda x: x['start'], reverse=True)
-        
         updated_content = content
-        
         for ref in references:
             asset_info = self.resolve_asset_path(ref['path'], markdown_file)
-            
             if asset_info:
                 if asset_info['type'] == 'skip':
-                    # For embed URLs (YouTube, etc.), convert to Obsidian format but don't download
-                    if ref['type'] != 'obsidian_link':  # Only convert if not already in Obsidian format
+                    if ref['type'] != 'obsidian_link':
                         new_reference = f"![[{asset_info['path']}]]"
                         updated_content = (
-                            updated_content[:ref['start']] + 
-                            new_reference + 
+                            updated_content[:ref['start']] +
+                            new_reference +
                             updated_content[ref['end']:]
                         )
-                        print(f"    Converted to Obsidian format: {ref['path']}")
+                        logging.info(f"Converted to Obsidian format: {ref['path']}")
                     else:
-                        print(f"    Keeping embed URL as-is: {ref['path']}")
+                        logging.info(f"Keeping embed URL as-is: {ref['path']}")
                 else:
-                    # For downloadable URLs and local files
                     target_path = self.get_target_asset_path(asset_info, markdown_file)
                     result_path = self.move_or_download_asset(asset_info, target_path)
-                    
                     if result_path:
-                        # Create new Obsidian-style reference
                         new_reference = f"![[{result_path.name}]]"
-                        
-                        # Replace the reference in content
                         updated_content = (
-                            updated_content[:ref['start']] + 
-                            new_reference + 
+                            updated_content[:ref['start']] +
+                            new_reference +
                             updated_content[ref['end']:]
                         )
-                        
-                        print(f"    Updated reference: {ref['path']} -> {result_path.name}")
+                        logging.info(f"Updated reference: {ref['path']} -> {result_path.name}")
                     else:
-                        print(f"    WARNING: Could not process asset, keeping original reference")
+                        logging.warning(f"Could not process asset, keeping original reference: {ref['path']}")
             else:
-                print(f"    WARNING: Asset not found or not processable: {ref['path']}")
-        
+                logging.warning(f"Asset not found or not processable: {ref['path']}")
         return updated_content
-    
+
     def process_markdown_file(self, markdown_file):
         """Process a single Markdown file."""
-        print(f"\nProcessing: {markdown_file.relative_to(self.root_dir)}")
-        
+        logging.info(f"Processing: {markdown_file.relative_to(self.root_dir)}")
         try:
-            # Read the file
             with open(markdown_file, 'r', encoding='utf-8') as f:
                 content = f.read()
-            
-            # Extract asset references
             references = self.extract_asset_references(content)
-            
             if not references:
-                print("  No asset references found")
+                logging.info("No asset references found")
                 return
-            
-            print(f"  Found {len(references)} asset reference(s)")
-            
-            # Update content and move/download assets
+            logging.info(f"Found {len(references)} asset reference(s)")
             updated_content = self.update_markdown_content(content, references, markdown_file)
-            
-            # Write updated content back to file
             if updated_content != content:
                 with open(markdown_file, 'w', encoding='utf-8') as f:
                     f.write(updated_content)
-                print(f"  Updated Markdown file")
-            
+                logging.info("Updated Markdown file")
         except Exception as e:
-            print(f"  ERROR processing {markdown_file}: {e}")
-    
+            logging.error(f"ERROR processing {markdown_file}: {e}")
+
     def run(self):
         """Run the asset restructuring process."""
-        print(f"Starting asset restructuring in: {self.root_dir}")
-        print(f"Assets will be moved to: {self.assets_dir}")
-        
-        # Get all Markdown files
+        logging.info(f"Starting asset restructuring in: {self.root_dir}")
+        logging.info(f"Assets will be moved to: {self.assets_dir}")
         markdown_files = self.get_markdown_files()
-        
         if not markdown_files:
-            print("No Markdown files found!")
+            logging.info("No Markdown files found!")
             return
-        
-        print(f"Found {len(markdown_files)} Markdown file(s)")
-        
-        # Create assets directory if it doesn't exist
+        logging.info(f"Found {len(markdown_files)} Markdown file(s)")
         self.assets_dir.mkdir(exist_ok=True)
-        
-        # Process each Markdown file
         for markdown_file in markdown_files:
             self.process_markdown_file(markdown_file)
-        
-        print(f"\nAsset restructuring complete!")
+        logging.info("Asset restructuring complete!")
+
+# Set up logging to file
+logging.basicConfig(
+    filename='restructure_assets_errors.log',
+    level=logging.ERROR,
+    format='%(asctime)s %(levelname)s: %(message)s'
+)
 
 def main():
     parser = argparse.ArgumentParser(description='Restructure Markdown assets and update references')

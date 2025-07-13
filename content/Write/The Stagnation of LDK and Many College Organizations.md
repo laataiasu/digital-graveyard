@@ -39,7 +39,7 @@ The problem with rohis, and not just rohis, but most college organizations, is t
 
 Teenagers from Rengasdengklok know exactly that their voices are useless, so they kidnapped the most powerful person they knew. We can be the Rengasdengklok gangs too, no need to protest. Let me give an example, focus on what you really want to focus on. Investigate and monitor one commission of the people's representative/ministry program in detail, gather all information about him/her, use the information, start a movement, and distribute what you find, and collaborate with many organizations.
 
-![aidit](https://cdn2.tstatic.net/manado/foto/bank/images/golongan-muda-menculik-soekarno-dan-mohamad-hatta1.jpg)
+![[b173c91727efab5efd35a975fa476cbe.jpg]]
 
 [[Mohammad Hatta]]
 

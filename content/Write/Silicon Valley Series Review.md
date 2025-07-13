@@ -36,7 +36,7 @@ No matter how angry the IT kids are, when they are got angry, it always turns ou
 
 And this Bighead. 
 
-![img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.fansided.com%2Fwp-content%2Fblogs.dir%2F280%2Ffiles%2F2017%2F05%2F3a71366fa4c6fc45b71bfb45f82b265ab4eacafe9c37a93009f555c0cae02a3db500806a128bdf0fa75b694f2a5d347a.jpeg&f=1&nofb=1)
+![[Bighead.jpg]]
 
 Very retarded yet got a lot of miracle and luck. At first season I cried seeing his condition that he is very mediocre at Jared s team. I kind of related to him lol and it suddenly the director made a really funny plot to him and I just don't know, I think I really feel regret after I pity him, because at the next season he is given something which he really passionated about, which is doing nothing, and his passion is same as me.
 
@@ -55,4 +55,4 @@ At first I think it is just a comedy and fictional, but this scene is actually c
 
 The characters in this series are just perfect. And everyone is really funny. This series is really genius I think I don't know. Even though there still some cringe scenes, but overall, this really entertain me at this pandemic. I hope that the director responsible to me in the afterlife because he wasting my time to watch his series and wasted my energy to laugh so hard in this series
 
-![img](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fz0GuXhTv9fqxy%2Fgiphy.gif&f=1&nofb=1)
+![[jian yang it was sad.gif]]

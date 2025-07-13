@@ -21,7 +21,7 @@ Kenapa percobaan mobil listrik pertama di [[Israel|Israel]]?
 2. Ngerti financial, environmental, and security cost
 3. Natural early adopters (negara top 1 dalam penggunaan internet)
 
-![israel](https://catatankemalasan.com/2021/11/https3a2f2fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com2fpublic2fimages2ff7c9170d-38aa-4e89-8a19-7f1dee89045b_901x493.png)
+![[f7c9170d-38aa-4e89-8a19-7f1dee89045b_901x493.png]]
 
 
 Tech Company kebanyakan dari Israel yang listing di NASDAQ. Israel merupakan R&D world leader economy.

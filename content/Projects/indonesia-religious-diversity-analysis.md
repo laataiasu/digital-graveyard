@@ -8,9 +8,9 @@ datanya dari https://id.wikipedia.org/wiki/Daftar_tokoh_Islam_Indonesia
 
 outputnya mirip ini
 
-![](http://www.coppelia.io/wp-content/uploads/2015/08/classical.png)
+![[classical.png]]
 
-http://coppelia.io/2012/06/graphing-the-history-of-philosophy/
+https://www.coppelia.io/graphing-the-history-of-philosophy
 
 ![[1_zJ4otl4CL_O6ES8VTTh2oQ.png]]
 
