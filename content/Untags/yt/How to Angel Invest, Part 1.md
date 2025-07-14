@@ -1,5 +1,10 @@
 ---
-date: 2001-01-01
+date: 2025-07-13T22:03:48+07:00
+title: How to Angel Invest, Part 1
+tags:
+  - youtube
+aliases: 
+source:
 ---
 
 # How to Angel Invest, Part 1

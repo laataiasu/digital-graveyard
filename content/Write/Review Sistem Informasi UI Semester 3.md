@@ -1,7 +1,7 @@
 ---
 date: '2021-01-15T00:00:00Z'
 tags:
-- cs-is
+- education
 title: Review Sistem Informasi UI ~Semester 3
 ---
 ![[semester-3-sistem-informasi-ui.png]]

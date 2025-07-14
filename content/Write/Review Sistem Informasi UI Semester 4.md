@@ -1,7 +1,7 @@
 ---
 date: '2021-07-27'
 tags:
-- cs-is
+- education
 title: Review Sistem Informasi UI ~Semester 4
 ---
 review sistem informasi [[Universitas Indonesia]] semester 4

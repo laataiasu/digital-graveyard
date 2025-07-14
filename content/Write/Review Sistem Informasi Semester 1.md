@@ -1,7 +1,7 @@
 ---
 date: '2020-05-23T00:00:00Z'
 tags:
-- cs-is
+- education
 title: Review Sistem Informasi  ~Semester 1
 ---
 **Akademis**

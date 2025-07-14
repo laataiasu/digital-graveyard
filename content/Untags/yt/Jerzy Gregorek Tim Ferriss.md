@@ -1,5 +1,10 @@
 ---
-date: 2001-01-01
+date: 2025-07-13T22:03:58+07:00
+title: Jerzy Gregorek Tim Ferriss
+tags:
+  - youtube
+aliases: 
+source:
 ---
 
 ### Jerzy Gregorek Interview Highlights

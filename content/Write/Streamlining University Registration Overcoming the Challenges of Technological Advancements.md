@@ -2,7 +2,7 @@
 date: '2019-08-08'
 tags:
 - essay
-- cs-is
+- education
 title: 'Streamlining University Registration: Overcoming the Challenges of Technological
   Advancements'
 ---

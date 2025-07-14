@@ -1,7 +1,7 @@
 ---
 date: '2022-01-07T00:00:00Z'
 tags:
-- cs-is
+- education
 title: Review Sistem Informasi UI ~Semester 5
 ---
 review sistem informasi [[Universitas Indonesia]] semester 5

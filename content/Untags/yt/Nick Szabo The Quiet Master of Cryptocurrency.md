@@ -1,5 +1,10 @@
 ---
-date: 2001-01-01
+date: 2025-07-13T22:04:05+07:00
+title: Nick Szabo The Quiet Master of Cryptocurrency
+tags:
+  - youtube
+aliases: 
+source:
 ---
 
 ### Core Learning Content from Tim Ferriss Show: Nick Szabo on Cryptocurrency

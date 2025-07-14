@@ -10,42 +10,42 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 
 ### 🧠 [[Philosophy, History, Psychology, Social Sciences]]
 
-* [[The Arrivals]] — by Achernahr, Noreagaa \~ #SMP #SMA
-* [[History of God]] — by Karen Armstrong \~ #SMA
-* [[The Secret History of the World]] — by Mark Booth \~ #SMA
-* [[Muhammad Al-Fatih 1453]] — by Felix Siauw \~ #SMA
-* [[Friedrich Nietzsche]] — various works \~ #SMA–present
-* [[Emha Ainun Nadjib]] \~ #SMA
-* [[Mohammad Hatta]] — biography, thoughts \~ #SMA
-* [[Pramoedya Ananta Toer]] — literature and activism \~ #SMA
-* [[Noam Chomsky]] — linguistics and politics \~ #SMA
-* [[School of Life]] — curated essays by [[Alain de Botton]] \~ 2020-2022
-* [[TED Talks]] — curated topics \~ 2020-2022
-* [[Jordan Peterson]], [[Gabor Maté]], [[Andrew Huberman]] — psychology, meaning \~ 2020-2022
-* [[Man’s Search for Meaning]] — by [[Viktor Frankl]] \~ 2020-2022
-* [[Ngaji Filsafat]] — by Fahruddin Faiz, Indonesian philosophical reflections \~ 2020-2022–present
-* [[Slavoj Žižek]] — cultural commentary \~ #SMP–2022
-* [[Nassim Nicholas Taleb]] & [[Benoit Mandelbrot]] — risk, complexity \~ #2023
+* [[The Arrivals]] — by Achernahr, Noreagaa \~ (2013-2016) (2016-2019)
+* [[History of God]] — by Karen Armstrong \~ (2016-2019)
+* [[The Secret History of the World]] — by Mark Booth \~ (2016-2019)
+* [[Muhammad Al Fatih 1453]] — by Felix Siauw \~ (2016-2019)
+* [[Friedrich Nietzsche]] — various works \~ (2016-2019)–present
+* [[Emha Ainun Nadjib]] \~ (2016-2019)
+* [[Mohammad Hatta]] — biography, thoughts \~ (2016-2019)
+* [[Pramoedya Ananta Toer]] — literature and activism \~ (2016-2019)
+* [[Noam Chomsky]] — linguistics and politics \~ (2016-2019)
+* [[School of Life]] — curated essays by [[Alain de Botton]] \~ (2020-2022)
+* [[TED Talks]] — curated topics \~ (2020-2022)
+* [[Jordan Peterson]], [[Gabor Maté]], [[Andrew Huberman]] — psychology, meaning \~ (2020-2022)
+* [[Man s Search for Meaning]] — by [[Viktor Frankl]] \~ (2020-2022)
+* [[Ngaji Filsafat]] — by Fahruddin Faiz, Indonesian philosophical reflections \~ (2020-2022)–present
+* [[Slavoj Žižek]] — cultural commentary \~ (2013-2016)–2022
+* [[Nassim Nicholas Taleb]] & [[Benoit Mandelbrot]] — risk, complexity \~ (2023)
 
 ---
 
 ### 💼 [[Business, Economy & Finance]]
 
-* [[Rich Dad Poor Dad]] — by Robert Kiyosaki \~ #SMP #SMA
+* [[Rich Dad Poor Dad]] — by Robert Kiyosaki \~ (2013-2016) (2016-2019)
 * [[Review Zero to One]] — by [[Tags/Figure/Peter Thiel]] \~ 2019-2023
 * [[The Big Short]] — by Michael Lewis \~ 2019-2023
-* [[AI for Trading (Udacity)]] \~ 2020-2022
-* [[Khan Academy: Microeconomics]] \~ #2022
-* [[Khan Academy: Macroeconomics]] \~ #2022
-* [[Khan Academy: Capital Markets]] \~ #2022–present
+* [[AI for Trading (Udacity)]] \~ (2020-2022)
+* [[Khan Academy: Microeconomics]] \~ 2022
+* [[Khan Academy: Macroeconomics]] \~ 2022
+* [[Khan Academy: Capital Markets]] \~ 2022–present
 * [[Charlie Munger]] & [[Warren Buffett]] \~ 2019-2023
 
 ---
 
 ### 🕌 [[Islam]]
 
-* [[Abu Takeru]] — Islamic perspectives \~ #SMA
-* [[Khalid Basalamah]] — lectures \~ 2020-2022
+* [[Abu Takeru]] — Islamic perspectives \~ (2016-2019)
+* [[Khalid Basalamah]] — lectures \~ (2020-2022)
 
 ---
 
@@ -53,69 +53,69 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 
 #### 📊 [[Business / System Analysis]]
 
-* [[Unknown Black YouTuber (BA content)]] \~ #pre-COVID
-* [[Udacity Business Analytics Nanodegree]] \~ 2020-2022
-* [[Udacity Business Analyst Nanodegree]] \~ 2020-2022
+* [[Unknown Black YouTuber (BA content)]] \~ 2019
+* [[Udacity Business Analytics Nanodegree]] \~ (2020-2022)
+* [[Udacity Business Analyst Nanodegree]] \~ (2020-2022)
 
 #### 🔗 [[Blockchain]]
 
-* [[MIT 15.S12 Blockchain and Money]] \~ 2020-2022
+* [[MIT 15.S12 Blockchain and Money]] \~ (2020-2022)
 
 [[Massachusetts Institute of Technology]]
 
-* [[Web3 Fundamentals by Bill Laboon]] \~ 2020-2022
-* [[Blockchain at Berkeley]] \~ 2020-2022
-* [[Vitalik Buterin]], [[Gavin Wood]], [[Charles Hoskinson]] \~ 2020-2022
+* [[Web3 Fundamentals by Bill Laboon]] \~ (2020-2022)
+* [[Blockchain at Berkeley]] \~ (2020-2022)
+* [[Vitalik Buterin]], [[Gavin Wood]], [[Charles Hoskinson]] \~ (2020-2022)
 
 #### ☁️ [[Cloud & DevOps]]
 
-* [[Udacity Cloud DevOps Nanodegree]] \~ 2020-2022
+* [[Udacity Cloud DevOps Nanodegree]] \~ (2020-2022)
 * [[Linus Torvalds]] — open source figure
-* [[OSS YouTube Channel]] \~ 2020-2022
+* [[OSS YouTube Channel]] \~ (2020-2022)
 
 #### 📦 [[Data Engineering]]
 
-* [[Udacity Data Engineering Nanodegree]] \~ 2020-2022
-* [[DWE Internship @ Traveloka]] \~ #2022
+* [[Udacity Data Engineering Nanodegree]] \~ (2020-2022)
+* [[DWE Internship @ Traveloka]] \~ 2022
 
 #### 📈 [[Data Science]]
 
-* [[Udacity NLP Nanodegree]] \~ 2020-2022
+* [[Udacity NLP Nanodegree]] \~ (2020-2022)
 * [[Research Internship (2023)]]
 
 #### 🏗️ [[System Architect]]
 
-* [[Programmer Zaman Now]] — Indonesian dev content \~ 2020-2022
+* [[Programmer Zaman Now]] — Indonesian dev content \~ (2020-2022)
 
 #### 🌐 [[Web Development]]
 
-* [[Corey Schafer]] tutorials \~ 2020-2022
-* [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] Campus Dev Team \~ #2020–2021
+* [[Corey Schafer]] tutorials \~ (2020-2022)
+* [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] Campus Dev Team \~ (2020–2021)
 
 #### ✅ [[Quality Assurance]]
 
-* [[Tokopedia DevCamp]] \~ #2022
+* [[Tokopedia DevCamp]] \~ 2022
 
 ---
 
 ### 📚 [[Culture, Literature, and Media]]
 
-* [[Fate/Zero]] — anime with skepticism themes \~ #SMP
-* [[Kaskus Xenophobia Threads]] \~ #SMP
-* [[Kaskus SFTH (Stories From The Heart)]] \~ #SMP
-* [[Ghost (1990 film)]] \~ #SMP
-* [[Tere Liye]] — Indonesian novelist \~ #SMP
-* [[Goenawan Mohamad]] — essays and journalism \~ #SMP
-* [[Paulo Coelho]] — The Alchemist and others \~ #SMP–SMA
-* [[Haruki Murakami]] \~ #SMA
-* [[Mark Manson]] \~ #SMA
-* [[Oregairu]], [[Monogatari Series]], [[Serial Experiments Lain]] \~ #SMA
-* [[Mr. Robot]] \~ #SMA
-* [[Game of Thrones]] \~ #SMA
-* [[Peaky Blinders]] \~ #SMA
-* [[Cosmos]] — [[Carl Sagan]] / Neil Tyson \~ #SMA
-* [[George Orwell]] — 1984, Animal Farm \~ #SMA
-* [[Bo Burnham]] — introspective comedy \~ 2020-2022
+* [[Fate stay night Unlimited Blade Works Prologue]] — anime with skepticism themes \~ (2013-2016)
+* [[Kaskus Xenophobia Threads]] \~ (2013-2016)
+* [[Kaskus SFTH (Stories From The Heart)]] \~ (2013-2016)
+* [[Ghost]] \~ (2013-2016)
+* [[Tere Liye]] — Indonesian novelist \~ (2013-2016)
+* [[Goenawan Mohamad]] — essays and journalism \~ (2013-2016)
+* [[Paulo Coelho]] — The Alchemist and others \~ (2013-2016)–SMA
+* [[Haruki Murakami]] \~ (2016-2019)
+* [[Mark Manson]] \~ (2016-2019)
+* [[Yahari Ore no Seishun Love Comedy wa Machigatteiru]], [[Monogatari Series Second Season]], [[Serial Experiments Lain]] \~ (2016-2019)
+* [[Mr. Robot]] \~ (2016-2019)
+* [[Game of Thrones]] \~ (2016-2019)
+* [[Peaky Blinders]] \~ (2016-2019)
+* [[Cosmos]] — [[Carl Sagan]] / Neil Tyson \~ (2016-2019)
+* [[George Orwell]] — 1984, Animal Farm \~ (2016-2019)
+* [[Bo Burnham]] — introspective comedy \~ (2020-2022)
 * [[Fyodor Dostoevsky]], [[Emil Cioran]] — existential literature \~ 2019-2023
 * [[Kino no Tabi The Beautiful World|Kino no Tabi]], [[Sousou no Frieren]] / [[MyAnimeList Picks]] \~ 2019-2023
 
@@ -126,7 +126,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 Use in each file:
 
 ```
-#digital-garden #[[Phase:SMP]] #[[Phase:SMA]] #[[Phase:Kuliah]] 2020-2022 #book #course #anime #literature #internship
+#digital-garden #[[Phase:SMP]] #[[Phase:SMA]] #[[Phase:Kuliah]] (2020-2022) #book #course #anime #literature #internship
 ```
 
 ## 📁 Suggested Folders

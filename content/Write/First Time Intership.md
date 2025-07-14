@@ -1,7 +1,8 @@
 ---
-date: '2022-08-26T00:00:00Z'
+date: 2022-08-26T00:00:00Z
 tags:
-- journal
+  - journal
+  - data-engineering
 title: First Time Intership
 ---
 It's been 2 weeks since my first internship. I never think about the structure when I write. I just want to write what I want. 
@@ -25,3 +26,30 @@ It's unethical and sensitive question for some people. But for me, the small tal
 Just because we are dancing at good [[Music]], it doesn't mean we are ridicule the deaf and the disabled. I know that. But I still don't understand why it's really hard for me to be so gratefull, to enjoy things. Like the feeling I never belong to any places. I'm searching for something I knew it can't be found. And this is part of my journey to someplace I don't know. 
 
 I feel sorry for everyone when I can't hide my tiredness and frustation in myself and this world. I want to participate and belong to something, but at the same time, I feel sorry when I just making them feel sorry for me. This feeling again, the feeling like you need to make everyone happy. The stupidest thing in this world that became our urge. I never knew what will I become. But the feeling of isolation, is always making me remember someone that actually should not be remembered.
+
+---
+**Reflections After Two Weeks of My First Internship**
+
+It's been 2 weeks since I started my first internship. I never really think about structure when I write, I just want to express what I feel.
+
+I'm delaying my graduation because of a miscommunication with my lecturer. Technically, I could graduate next semester, but because of that miscommunication, I won’t be able to graduate next year. Still, there’s something I’m really grateful for this year, my first internship.
+
+I used to think that because I have weak networking skills, I’d have to start in a small company. But somehow, I got accepted at [[Traveloka]]. Thanks to [[Kampus Merdeka]], and thanks to my family (I don’t know if it counts as nepotism, but right before I took the technical interview, I met someone at my sister’s wedding, he works as a recruiter at [[Traveloka]] and said he’d recommend me). I still don’t fully understand how I made it to the interview stage, especially since I’ve failed many coding tests before. But my technical interview went surprisingly smooth.
+
+And this is the story of me, as an intern.
+
+In our first meeting with the [[Employer Branding]] team, we were introduced to the philosophy of [[Traveloka]].
+
+> "You are the luckiest students who got the chance to work at a big company like this!"
+
+They told stories, like one about 'Bu Sri', a seller in a tourist destination who benefits from [[Traveloka]]. It was the kind of story designed to make you feel proud of your work, that you’re helping others, directly or indirectly. A lot of people see this as a positive message, something to inspire purpose in your job. But my cynical side kicks in and says, “This is just good storytelling, emotional framing that makes people feel their work is bigger than it is.” I don’t mean that in a disrespectful way. I just question whether these stories are told to motivate, or to manipulate. People who are naturally good at this kind of storytelling might not even realize how persuasive they are.
+
+Still, maybe it doesn’t matter. Maybe perspective is everything.
+
+When I did my first WFO (Work From Office), it was more than I expected: a good mentor, positive environment, amazing view, nice room. Free breakfast, lunch, and snacks. Flexible hours. It was very comfortable. And because it was so comfortable, I felt a strange guilt, thinking of people who want to work in places like this but never get the chance. Philosophically, I’ve always said I don’t want these things. But physically? I do. Maybe I just pretend I don’t need comfort, while deep down I do. Or maybe I truly don’t know what I want. I often feel like I’m never satisfied.
+
+Today, I attended a farewell dinner for a senior who’s resigning from [[Traveloka]]. The dinner was with the head of [[Data]] too. It was at a fancy Thai restaurant, expensive by my standards. I struggle with gatherings like this. I hate small talk. People ask things like "What’s your favorite food?", "What are your hobbies?", "Where are you from?" But my brain wants to ask: “What’s your opinion on Papua’s independence?”, “How do you feel about the Russia-Ukraine war?”, “What do you believe happens after death?”, “Have you ever felt the urge to hurt someone, and why?”, “What do you hate most about this world?”
+
+I know those are heavy, maybe even unethical questions for casual settings. But to me, small talk feels just as strange, like a subtle kind of egoism where we try to make others feel good so they’ll remember us kindly. While we enjoy expensive meals, other parts of the world are suffering. Yes, I get the argument: we’re helping the local economy, we’re celebrating our effort. That’s valid. But I write from a cynical lens, and in that lens, the positivity doesn’t shine through.
+
+Just because we’re dancing to good [[Music]], it doesn’t mean we’re mocking the deaf. I get that. But I still don’t understand why it’s so hard for me to feel grateful, to enjoy things. I constantly feel like I don’t belong anywhere. Like I’m chasing something I know doesn’t exist. And maybe that’s part of my journey, to somewhere unknown.

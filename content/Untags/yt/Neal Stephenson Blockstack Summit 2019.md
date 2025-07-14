@@ -1,5 +1,10 @@
 ---
-date: 2001-01-01
+date: 2025-07-13T22:04:03+07:00
+title: Neal Stephenson Blockstack Summit 2019
+tags:
+  - youtube
+aliases: 
+source:
 ---
 
 # Neal Stephenson Blockstack Summit 2019

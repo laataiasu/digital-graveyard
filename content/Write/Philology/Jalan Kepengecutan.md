@@ -5,7 +5,7 @@ tags:
 title: Jalan Kepengecutan
 ---
   
-![beautiful loser](<beautiful loser.jpg>)  
+![[beautiful loser.jpg]]
   
 lepaskan saat jatuh  
 buang ia yang menginfeksi  

@@ -1,9 +1,10 @@
 ---
 date: 2001-01-01
-alias:
-- '1173552893003255808'
+aliases:
+  - "1173552893003255808"
 tags:
-- figure
+  - figure
+  - twitter
 ---
 @yacineMTB x account
 

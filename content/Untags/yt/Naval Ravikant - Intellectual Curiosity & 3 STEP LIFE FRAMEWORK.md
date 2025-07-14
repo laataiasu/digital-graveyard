@@ -1,5 +1,10 @@
 ---
-date: 2001-01-01
+date: 2025-07-13T22:04:01+07:00
+title: Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK
+tags:
+  - youtube
+aliases: 
+source:
 ---
 
 # Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK

@@ -1,7 +1,9 @@
 ---
-title: "xxx"
-date: {{time}}
-tags: ["english", "data engineering", "dbt", "bigquery", "sql", "postgres"]
+title: xxx
+date:
+  "{ time }": 
+tags:
+  - postgres
 hideSummary: true
 showToc: true
 UseHugoToc: true
