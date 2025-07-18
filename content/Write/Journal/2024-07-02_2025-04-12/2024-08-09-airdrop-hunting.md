@@ -1,0 +1,17 @@
+---
+title: "Airdrop Hunting"
+date: 2024-08-09
+source: "nan"
+tags: [cryptocurrency]
+url: "https://stacymuur.substack.com/p/5-metrics-to-track-when-you-lose"
+---
+
+## Details
+TODO: galxe, zealy, intract automation,
+read 5 Metrics to Track When You Lose Hopium
+
+## Notes
+nan
+
+## Code
+nan
