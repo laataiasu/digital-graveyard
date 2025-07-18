@@ -4,6 +4,7 @@ date: 2024-02-11
 tags:
   - linux
   - tech
+  - journal
 hideSummary: true
 showToc: true
 UseHugoToc: true

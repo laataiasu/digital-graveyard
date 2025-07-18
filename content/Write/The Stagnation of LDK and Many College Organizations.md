@@ -1,10 +1,11 @@
 ---
-date: '2023-10-02'
+date: 2023-10-02
 tags:
-- journal
-- essay
-- muslim
+  - journal
+  - essay
+  - muslim
 title: The Stagnation of LDK and Many College Organizations
+publish_external: true
 ---
 Many LDK/rohis campus or organization in general seem to not be contributing much to the nation, or even to the university, or their respective departments/majors.
 

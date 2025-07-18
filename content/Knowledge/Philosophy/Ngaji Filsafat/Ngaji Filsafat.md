@@ -5,7 +5,7 @@ tags:
 publish_external: true
 ---
 [[Introduction to Philosophy]]
-[[Knowledge Base/Philosophy/Ngaji Filsafat/Epistemology]]
+[[Epistemology]]
 [[Islamic Epistemology]]
 [[Truth]]
 [[Social Epistemology]]

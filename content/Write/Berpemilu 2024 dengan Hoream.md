@@ -6,6 +6,7 @@ tags:
   - sql
   - postgres
   - web-scraping
+  - journal
 hideSummary: true
 draft: false
 publish_external: true

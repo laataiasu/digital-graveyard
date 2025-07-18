@@ -1,7 +1,5 @@
 ## Introduction to Knowledge Base Agents and Reliability
-Lesson
-Downloads
-Cloud Resources
+
 
 Knowledge Base Agents and Reliability
 Building effective AI agents requires expanding their knowledge sources and ensuring they function reliably in real-world applications. Whether developing a customer support bot or a complex AI assistant, agents need access to accurate data and well-structured workflows to improve their performance.
@@ -42,9 +40,7 @@ When designing a knowledge base agent, which techniques and considerations are e
 
 
 ## Knowledge
-Lesson
-Downloads
-Cloud Resources
+
 
 Enhancing an Agent’s Knowledge
 An agent’s knowledge can be improved by optimizing its internal components. These can be grouped into three categories:
@@ -103,9 +99,7 @@ Which of the following can be effects of adding context and memory to an agent? 
 
 
 ## Demo: Calling APIs
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -255,9 +249,7 @@ Combining API tools, LLM reasoning, and structured workflows creates powerful, r
 LangGraph provides a clean, modular architecture to manage this complexity.
 
 ## Demo: Persisting Memory with a Database
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -373,9 +365,7 @@ LangGraph's checkpoint system allows flexible storage backends.
 This pattern is crucial for production-grade chatbot and agent applications that require history continuity across sessions.
 
 ## RAG Pipelines
-Lesson
-Downloads
-Cloud Resources
+
 
 RAG Pipelines: Enhancing AI Agents with Retrieval and Generation
 Retrieval-Augmented Generation (RAG) enhances AI agents by retrieving relevant data from external sources and generating informed responses based on that data. This technique improves accuracy, ensures up-to-date information, and provides contextually relevant answers that go beyond an LLM’s training data.
@@ -444,9 +434,7 @@ What is the primary advantage of a RAG (Retrieval-Augmented Generation) pipeline
 
 
 ## Demo: Understanding Embeddings
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -574,9 +562,7 @@ Embeddings are the backbone of RAG, retrieval, recommendation systems, and clust
 Understanding how to create, compare, and visualize embeddings is fundamental to building AI systems that understand natural language at a deeper level.
 
 ## Demo: Using ChromaDB
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -719,9 +705,7 @@ Using ChromaDB (standalone or with LangChain) enables powerful semantic search c
 Combining embeddings, persistent storage, and flexible search methods is crucial for real-world RAG (Retrieval-Augmented Generation) and AI systems.
 
 ## Exercise: Create a Knowledge Base Agent
-Lesson
-Downloads
-Cloud Resources
+
 Welcome to your Knowledge Base Agent Challenge!
 
 In this exercise, you'll create an agent that can answer user questions by consulting a collection of documents. Instead of relying solely on the model’s internal knowledge, the agent will ground its responses in an external source of truth.
@@ -752,9 +736,7 @@ Workspaces may take up to 5 minutes to start.
 
 
 ## Exercise Solution: Create a Knowledge Base Agent
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -838,9 +820,7 @@ Adjust chunk sizes and overlaps.
 Swap out the embedding model or vector store.
 
 ## Demo: Agentic RAG
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -980,9 +960,7 @@ Blending offline retrieval with online search creates more robust AI systems.
 This modular, decision-driven design is foundational for advanced AI agents.
 
 ## Demo: LangMem (Bonus)
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -1098,9 +1076,7 @@ Agents can now recall user preferences or facts across completely different conv
 This memory-enhanced design is a key step toward building more lifelike, persistent AI agents.
 
 ## Reliability
-Lesson
-Downloads
-Cloud Resources
+
 
 Ensuring Reliability in AI Agents
 AI agents are everywhere, but many lack reliability. Creating agents is easy—making them predictable, consistent, and trustworthy is the real challenge.
@@ -1155,9 +1131,7 @@ Quiz Question
 
 
 ## Human-in-the-Loop and Observability
-Lesson
-Downloads
-Cloud Resources
+
 
 Human-in-the-Loop & Observability in AI Agents
 AI agents are becoming more complex and autonomous, making transparency and control essential. Observability helps monitor, interpret, and optimize agent workflows, while human-in-the-loop (HITL) ensures oversight and error correction in critical scenarios.
@@ -1209,9 +1183,7 @@ Which of the following do Human-in-the-Loop (HITL) mechanisms allow humans to do
 
 
 ## Demo: Human-in-the-Loop
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -1356,9 +1328,7 @@ LangGraph’s breakpoint and checkpoint features make integrating HITL workflows
 A next enhancement would be extending approval loops after tool messages, enabling full-cycle human supervision.
 
 ## Demo: Observability
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -1482,9 +1452,7 @@ Each component’s behavior becomes traceable, auditable, and optimizable.
 This observability is crucial for safe, production-grade LLM applications.
 
 ## Demo: Evaluating Agents
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -1631,9 +1599,7 @@ RAGAS is a powerful toolkit for evaluating the effectiveness of both retrieval-b
 This demo shows how to apply evaluation metrics in both traditional and tool-augmented pipelines to ensure system quality and correctness.
 
 ## Exercise: Evaluate Your Agent
-Lesson
-Downloads
-Cloud Resources
+
 Welcome to your Agent Evaluation Challenge!
 
 In this exercise, you’ll implement a framework for evaluating the responses of your AI agent. Whether you're building a chatbot, a knowledge assistant, or a task-specific agent, evaluation is key to ensuring trust, relevance, and continuous improvement.
@@ -1666,9 +1632,7 @@ Workspaces may take up to 5 minutes to start.
 
 
 ## Exercise Solution: Evaluate Your Agent
-Lesson
-Downloads
-Cloud Resources
+
 
 Start Workspace
 
@@ -1760,9 +1724,7 @@ Use different reference answers or documents.
 Tune and compare performance over time using MLflow tracking.
 
 ## Security Concerns
-Lesson
-Downloads
-Cloud Resources
+
 
 Security Concerns in AI Agent Deployments
 AI agents are automating workflows and making decisions at scale, but security risks must be taken seriously. Protecting AI agents from threats like data leakage, manipulation, and unauthorized access is essential for building trustworthy and resilient systems.

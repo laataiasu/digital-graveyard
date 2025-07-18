@@ -1,9 +1,10 @@
 ---
 date: 2021-06-15T16:56
 tags:
-- linux
-- tips
+  - linux
+  - tips
 Last edited time: 2025-05-29T14:07
+publish_external: true
 ---
 - [[#First Install]]
     - [[#Init Git SSH]]

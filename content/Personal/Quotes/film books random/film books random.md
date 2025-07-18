@@ -4,22 +4,22 @@ tags:
 - book
 - film
 ---
-- [[#Silicon Valley]]
-    - [[#Galvin Belson]]
-    - [[#Bighead]]
-    - [[#Gilfoyle]]
-    - [[#Jared]]
-- [[#Avatar Aang]]
-- [[#Kafka on the shore]]
-- [[#Grand Blue]]
-- [[#Berserk]]
-- [[#Daerah Salju]]
-- [[#Friday: Forbidden Tales]]
-- [[#Haikyu!!]]
-- [[#Taleb]]
-- [[#Mandelbrot]]
-- [[#Mr. Robot]]
-- [[#Naruto]]
+- [[Silicon Valley]]
+    - [[Galvin Belson]]
+    - [[Bighead]]
+    - [[Gilfoyle]]
+    - [[Jared]]
+- [[Avatar Aang]]
+- [[Kafka on the shore]]
+- [[Grand Blue]]
+- [[Berserk]]
+- [[Daerah Salju]]
+- [[Friday: Forbidden Tales]]
+- [[Haikyu!!]]
+- [[Taleb]]
+- [[Mandelbrot]]
+- [[Mr. Robot]]
+- [[Naruto]]
 # Silicon Valley
 ### Galvin Belson
 Data creation is exploding. With all the selfies and useless files people refuse to delete on the cloud, 92%of the world's data was created in the last two years alone
@@ -51,15 +51,18 @@ Patung itu telanjang dan kesepian
   
 # Friday: Forbidden Tales
 What kind of crime do you want to commit for doing so much good
-# Haikyu!!
-It was just one block. It was just one point out of 25. This is just a club. (But once that moment arrives for you, that’s the moment you’ll be hooked on volleyball).
-# Taleb
+
+# [[Haikyuu]]
+It was just one block. It was just one point out of 25. This is just a club. (But once that moment arrives for you, that’s the moment you’ll be hooked on [[Volleyball]]).
+
+# [[Nassim Nicholas Taleb]] 
 silent bias, vicious bias, ludic fallacy
 don't shoot for equality shoot for a high bankruptcy rate
 # Mandelbrot
 If one knows the cause, one can forecast the event and manage the risk. Would it were so simple. In the real world, causes are usually obscure
   
 do you regret anything you’ve written? does that influence? regret is ambiguous word. speaking is dangerous, writing more so. 1980s Hoover institution, writing a book is more dangerous than having a child. if child turns out badly you can disown the child, you can’t disown anything you’ve written. i probably say more than i should, and less than i might have a mind to
+
 There are no 2 words in English more harmful than “Good job” — Whiplash
   
 Why do you care that I'm dead when you're still so afraid to live — The subtle art of not giving a fuck

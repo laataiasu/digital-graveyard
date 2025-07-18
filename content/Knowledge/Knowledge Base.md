@@ -47,7 +47,7 @@ date: 2001-01-01
 [[Coursera Financial Engineering & Risk Management]]
 [[Finance]]
 
-[[Nassim Taleb]]
+[[Nassim Nicholas Taleb]]
 [[Naval Ravikant]]
 [[David Deutsch]]
 [[Dimitri Bianco]]

@@ -4,12 +4,7 @@ aliases:
   - Asset Declaration
 tags:
   - indonesia
-  - law
-  - compliance
   - anti-corruption
-  - lhkpn
-  - kpk
-  - public-official
 date: 2025-07-13
 source: KPK Regulation No. 7/2016
 publish_external: true

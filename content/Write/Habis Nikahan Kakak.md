@@ -30,7 +30,7 @@ Semuanya punya zone-nya, kaya di film soul, dan entahlah apa yang menyebabkannya
 Dan ini trigger yang bikin saya coba nulis, entah tujuannya apa, mirip kaya tulisan ini,
 
 > Kiai Hologram, Seorang teman menuntut. "Jadi, kenapa sampean menulis tiap hari kalau hasilnya tidak dipahami?" Bagaimana aku menjawabnya? Di antara ribuan titik hujan deras yang sebagiannya mengguyurmu, titik air mana yang kau perlukan? Titik air mana yang membawa hidayah Tuhan kepadamu? Titik hujan mana yang harus menyentuhmu sehingga rezeki itu nanti datang menghampirimu? Kalau engkau bersama orang sekantor berdoa memohon agar perusahaan tidak bangkit karena regulasi-regulasi yang tak menentu, ucapan "Aamiiin" siapa yang Tuhan kabulkan? "Aamiiin"-nya direktur, satpam, tukang sapu, atau siapa?
-> Kalau engkau menabur benih, ada benih yang langsung bersemi. Ada benih lain menunggu besok pagi untuk menggeliat. Ada yang beberapa hari, atau beberapa minggu, baru memuai. Bahkan, ada pohon yang menunggu puluhan tahun sebelum orang mengetahui makna dan manfaatnya. - Hlm. 135
+> Kalau engkau menabur benih, ada benih yang langsung bersemi. Ada benih lain menunggu besok pagi untuk menggeliat. Ada yang beberapa hari, atau beberapa minggu, baru memuai. Bahkan, ada pohon yang menunggu puluhan tahun sebelum orang mengetahui makna dan manfaatnya. - Hlm. 135 [[Emha Ainun Nadjib|Cak Nun]]
 
 Saya sebenarnya ingin cerita ke bapak juga tentang background cerita saya, cuman bapak tiba-tiba ditelpon dan keliatan sibuk sehingga saya tidak jadi cerita. Semangat pak, fokus cari nafkah buat anakmu yang tidak berguna ini saja ya 😊.
 
