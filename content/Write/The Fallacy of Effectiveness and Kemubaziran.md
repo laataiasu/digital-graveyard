@@ -4,6 +4,7 @@ tags:
 - journal
 - muslim
 - essay
+- pseudocomedy
 title: The Fallacy of Effectiveness and Kemubaziran
 ---
 ![[alif lam mim kaf ha ya ain sod.jpg]]
@@ -24,7 +25,7 @@ And that's the paradox of omnipotence. Even though all beauty seems pointless an
 
 It crucifies itself by transferring knowledge, to make it more efficient. Words are the most efficient things, because humans are designed to grasp only words, 1 or 0, easier. They are never capable of acknowledging the existence of a state that contains both 1 and 0.
 
-And it resembles all pictures, videos, [[Music]], or games as the combination of all, inefficient, and cannot be rationalized. That something can't be talked about is the precursor of everything. Whether in the Big Five, they show the statistics of people who are perceived as successful having rationality and consciousness, openness. But the truly impactful ones are the ones who act crazy and are full of madness and obsessions.
+And it resembles all pictures, videos, [[Music]], or games as the combination of all, inefficient, and cannot be rationalized. That something can't be talked about is the precursor of everything. Whether in the Big Five model, they show the statistics of people who are perceived as successful having rationality and consciousness, openness. But the truly impactful ones are the ones who act crazy and are full of madness and obsessions.
 
 And if you can't find laughter in any words you find, then there's something wrong with you. It's not the sounds of the 'moo' from a cow that emit the CH4 into the atmosphere. It is not the fault of the words, it's just that I'm incapable of seeing what is beauty because all I hear is laughter. I'm blinded not by the light, but I'm deafened by the laughter. And you can't see that I'm deaf because all you see is darkness. But my clarification, by providing something efficient like words, is futile. I simply want to tell you that it is not the darkness that I see; I see a little of Kaf Ha Ya Ain Sin Qof and I see all beauty through it.
 

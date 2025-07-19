@@ -43,7 +43,7 @@ Like this guy,
 
 ![[https://youtu.be/85Y1CqAF-nw]]
 
-We can't assume his smile is a fake because after that event he committed suiceide. Because there are things we can't predict and all moments only need to be understood at that moment.
+We can't assume his smile is a fake because after that event he committed suicide. Because there are things we can't predict and all moments only need to be understood at that moment.
 
 There's no thing as stability, and everything has or will be changed. So we don't need to assume or worry about something. It will lead us to mistrust about this world, and we will look at the world as fake because from Chester Bennington, we will see that he might be smiling, but deep down he is depressed inside.
 
