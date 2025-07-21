@@ -5,4 +5,6 @@ tags:
   - software
   - generative-ai
 publish_external: true
+aliases:
+  - MCP
 ---
