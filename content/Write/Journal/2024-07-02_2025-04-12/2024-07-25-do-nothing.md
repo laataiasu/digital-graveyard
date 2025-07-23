@@ -3,7 +3,7 @@ title: "Do Nothing"
 date: 2024-07-25
 source: "nan"
 tags: [event]
-url: "nan"
+
 ---
 
 ## Details

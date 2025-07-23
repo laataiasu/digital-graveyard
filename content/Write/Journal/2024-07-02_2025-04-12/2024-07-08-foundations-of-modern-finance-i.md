@@ -3,7 +3,7 @@ title: "Foundations of Modern Finance I"
 date: 2024-07-08
 source: "edX"
 tags: [finance]
-url: "nan"
+
 ---
 
 ## Details

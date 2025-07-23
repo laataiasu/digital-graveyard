@@ -3,7 +3,7 @@ title: "Airdrop Hunting"
 date: 2024-08-08
 source: "nan"
 tags: [cryptocurrency]
-url: "nan"
+
 ---
 
 ## Details

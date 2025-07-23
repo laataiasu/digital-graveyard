@@ -3,7 +3,7 @@ title: "AI for Trading"
 date: 2024-08-12
 source: "Udacity"
 tags: [finance]
-url: "nan"
+
 ---
 
 ## Details

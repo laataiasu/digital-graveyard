@@ -3,7 +3,7 @@ title: "Mathematical Methods for Quantitative Finance"
 date: 2024-07-24
 source: "edX"
 tags: [finance]
-url: "nan"
+
 ---
 
 ## Details

@@ -1,5 +1,5 @@
 ---
-title: about competitor analysis
+title: About Competitor Analysis
 date: 2025-07-15T20:54:30+07:00
 tags:
   - journal

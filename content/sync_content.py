@@ -2,8 +2,8 @@ import os
 import shutil
 import frontmatter
 
-SOURCE_DIR = "/home/al/projects/digital-graveyard/content"
-DEST_DIR = "/home/al/projects/ia_blog/content"
+SOURCE_DIR = "/home/al/Projects/digital-graveyard/content"
+DEST_DIR = "/home/al/Projects/ia_blog/content"
 
 def has_publish_external(path):
     try:

@@ -3,7 +3,7 @@ title: "Recruitment PT EDI"
 date: 2024-08-01
 source: "nan"
 tags: [work]
-url: "nan"
+
 ---
 
 ## Details
