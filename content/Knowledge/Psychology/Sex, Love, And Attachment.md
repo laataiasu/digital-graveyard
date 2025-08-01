@@ -1,5 +1,7 @@
 ---
 date: 2001-01-01
+tags:
+  - psychology
 ---
 
 **Dr. Helen Fisher – Summary of Key Points**

@@ -12,4 +12,5 @@ tags:
 date:
   "{ date }": 
 source: Project X KG Draft
+title: "{{title}}"
 ---
