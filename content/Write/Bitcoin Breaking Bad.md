@@ -1,7 +1,7 @@
 ---
 date: '2021-02-15T00:03:51Z'
 tags:
-- crypto
+- cryptocurrency
 - film
 - review
 - essay

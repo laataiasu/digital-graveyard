@@ -1,7 +1,7 @@
 ---
 date: '2021-07-13T00:00:00Z'
 tags:
-- crypto
+- cryptocurrency
 - tech
 - muslim
 - essay

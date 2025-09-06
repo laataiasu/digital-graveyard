@@ -7,7 +7,6 @@ tags:
   - anti-corruption
 date: 2025-07-13
 source: KPK Regulation No. 7/2016
-publish_external: true
 ---
 
 The **LHKPN** (Laporan Harta Kekayaan Penyelenggara Negara) is an **asset declaration report** submitted by public officials in **Indonesia**. It is managed by the **Komisi Pemberantasan Korupsi (KPK)**, the country’s Corruption Eradication Commission.

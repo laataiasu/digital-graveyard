@@ -2,7 +2,7 @@
 date: 2021-06-23T21:22
 tags:
 - blockchain
-- crypto
+- cryptocurrency
 - finance
 Last edited time: 2024-01-07T08:31
 ---

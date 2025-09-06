@@ -2,7 +2,7 @@
 date: '2021-06-17T00:00:00Z'
 tags:
 - essay
-- crypto
+- cryptocurrency
 title: The Challenges and Concerns of Decentralized Finance
 ---
 Introduction:

@@ -14,7 +14,7 @@ Mungkin karena kebetulan backgroundnya cukup saya minati,
 - [[Computer Science]]
 - ekonomi
 - [[Investment]]
-- crypto
+- cryptocurrency
 - pemalas
 
 Ilmunya menurut saya aplikatif dimana-mana dan ga terbatas pada bidang2 itu

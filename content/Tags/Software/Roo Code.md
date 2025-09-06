@@ -1,9 +1,8 @@
 ---
-title: Gemini CLI
-date: 2025-07-07 15:06:38
+title: Roo Code
+date: 2025-08-03T12:06:53+07:00
 tags:
   - software
-  - generative-ai
   - coding-agent
 publish_external: true
 ---
