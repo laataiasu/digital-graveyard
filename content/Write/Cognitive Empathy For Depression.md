@@ -3,6 +3,7 @@ date: '2023-11-26'
 tags:
 - journal
 title: Cognitive Empathy For Depression
+publish_external: true
 ---
 I don't understand [[Depression]], but when my friends say they are depressed, all I can do is try to practice cognitive empathy.
 

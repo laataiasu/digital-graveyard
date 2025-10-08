@@ -4,6 +4,7 @@ tags:
 - journal
 - essay
 title: Reciprocal Gratitude Scam
+publish_external: true
 ---
 
 "never participate in reciprocal gratitude, make people question everything and make them never feel enough. the dalil is fastabiqul khairat"
@@ -24,7 +25,7 @@ thats why to show off is a must, to share that you have good foods, companies, p
 
 gaps in social economy is never problem in [[Islam]]. the problem is occured when some can't afford the basic needs for survival so they suffered with no potential to growth. if there's no problem about that, then no problem at all.
 
-the thing is gaps will always contribute to envy. and the OUROBOROS appeared. some cant afford basic needs & want and envy to the powerful, then the powerful fear of been tearing down so she hide themself.
+the thing is gaps will always contribute to envy. and the Ouroboros appeared. some cant afford basic needs & want and envy to the powerful, then the powerful fear of been tearing down so she hide themself.
 
 overtax the overpower is just nonsense too, there's no guarantee that they could profit all the time. and when they go broke, there's no bail out, unless youre too big too fail like the speculators.
 
