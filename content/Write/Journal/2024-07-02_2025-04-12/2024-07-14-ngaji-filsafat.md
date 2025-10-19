@@ -4,6 +4,7 @@ date: 2024-07-14
 source: "Ngaji Filsafat"
 tags: [philosophy]
 
+draft: true
 ---
 
 ## Details

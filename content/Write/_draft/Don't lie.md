@@ -3,6 +3,7 @@ date: 2021-07-09
 tags:
 - draft
 - ideas
+draft: true
 ---
 Bu hetty
 

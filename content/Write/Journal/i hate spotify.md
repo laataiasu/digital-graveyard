@@ -3,6 +3,7 @@ date: 2023-01-03
 tags:
 - journal
 title: i hate spotify
+draft: true
 ---
 
 2023-01-03- i hate spotify

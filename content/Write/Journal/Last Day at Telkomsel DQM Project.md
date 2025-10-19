@@ -3,6 +3,7 @@ title: 'Last Day at Telkomsel DQM Project'
 date: 2025-04-30
 tags:
 - journal
+draft: true
 ---
 # 2025-04-30
 

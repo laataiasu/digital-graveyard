@@ -4,6 +4,7 @@ date: 2024-08-04
 source: "nan"
 tags: [work]
 
+draft: true
 ---
 
 ## Details

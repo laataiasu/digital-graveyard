@@ -4,6 +4,7 @@ date: 2024-08-25
 source: "nan"
 tags: [finance]
 url: "https://github.com/paperswithbacktest/awesome-systematic-trading?tab=readme-ov-file#books"
+draft: true
 ---
 
 ## Details

@@ -4,6 +4,7 @@ date: 2024-07-06
 source: "edX"
 tags: [finance]
 url: "https://www.edx.org/learn/finance/massachusetts-institute-of-technology-foundations-of-modern-finance-i"
+draft: true
 ---
 
 ## Details

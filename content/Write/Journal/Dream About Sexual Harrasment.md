@@ -3,6 +3,7 @@ title: Dream About Sexual Harrasment
 date: 2024-05-16T18:19:06
 tags:
   - journal
+draft: true
 ---
 i dream about my faculty junior who is accused to a sexual harrasment act by a girl. without thinking and asking further to my junior, i punch him in the face and he looks bad (babak belur). after that somehow there is a gathering saying that the girl is lying. i apologize to him and ask him to punch me back. i get punched, but didn't feel any pain.
 

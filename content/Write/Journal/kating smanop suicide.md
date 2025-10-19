@@ -3,6 +3,7 @@ date: 2024-06-28
 tags:
 - journal
 title: kating smanop suicide
+draft: true
 ---
 
 

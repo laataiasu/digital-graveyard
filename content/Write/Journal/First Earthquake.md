@@ -3,6 +3,7 @@ date: 2024-04-28
 tags:
 - journal
 title: First Earthquake
+draft: true
 ---
 
 2024-04-28 - first earthquake

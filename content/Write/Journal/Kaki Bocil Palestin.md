@@ -2,13 +2,14 @@
 title: Kaki Bocil Palestin
 date: 2025-05-16
 tags:
-- journal
+  - journal
+  - film
+  - review
 ---
-# 2025-05-16
 
-when friday prayer begin, i somehow feel so blue. i remember manchester by the sea. somehow i related so much to cassey affleck. i dont know what [[Depression]] is, but by my defintion, [[Depression]] is mostly like that. you lose something and you cant describe it. and in this world, there's lot of forms, but the substance is just the same. in the movie he unintentionally burn his own house, burn his children. 
+when friday prayer begin, i somehow feel so blue. i remember [[Manchester by the Sea]] . somehow i related so much to cassey affleck. i dont know what [[Depression]] is, but by my defintion, [[Depression]] is mostly like that. you lose something and you cant describe it. and in this world, there's lot of forms, but the substance is just the same. in the movie he unintentionally burn his own house, burn his children. 
 
-lots of events like that, we do something unintententionally. its like this song
+lots of events like that, we do something unintentionally. its like this song
 
 
 >I'm sorry for everything, oh, everything I've done  
@@ -28,7 +29,7 @@ it makes me realize how powerless i am, and i hate about being powerless. and i 
 
 i really hate that i enjoy together chit chat about talking something pop culture or trivial things. perhaps thats how we supressed ourself not to see the real. because what is real anyway we dont know. why bother and care about the unlucky if we can just be happy to be ignorant. and even i have tried to be like that kind of person, it still hard for me, like today occasionally i couldnt help myself to stop remembering something that i shoulnt remember. i try myself, maybe i can. but when you define success as the absense of shame, i couldnt walk like that, i will walk myself everyday like a loser. i need to try to be a pornstar, the obscenity that being proud of, i envy of them. but i didnt grow up like them, we have fire, water, air, and earth elements. and our elements maybe different, though the substance is just the same. and it means i cant follow them all. 
 
-and tears streaming down my face when its khutbah. i have already made scenario if my college ask me why you cry, i will just answered, "bajingan, keinget kaki bocil palestin mulu bangsaat" to make myself as tough. but luckily no one ask me about that. just one my college perhaps he see my sad face, and then he just leave me alone. 
+and tears streaming down my face when its khutbah. i have already made scenario if my colleague ask me why you cry, i will just answered, "bajingan, keinget kaki bocil palestin mulu bangsaat" to make myself as tough. but luckily no one ask me about that. just one my colleague perhaps he see my sad face, and then he just leave me alone. 
 
 yeah, i suppose its similar with [[Manchester By The Sea]]. the feeling of lose something. the powerlessness. and i really hate it. i dont know how to fight, but i'll try. ill figure it out. 
 

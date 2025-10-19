@@ -3,6 +3,7 @@ date: 2024-05-31
 tags:
 - journal
 title: mother coughing
+draft: true
 ---
 
 I hear my mother coughing when she sleep. She's 60 right now, so is my father. I think I should accept the idea that I can't make my mama proud. The thing is my mother really want me to like typical religious muslim, while deep down in my heart I still don't really understanad the idea of faith anyways. It's the same with my father. When he see me in the middle at the night at 3 AM. I can see disappointment through his voice. "It is your golden time, please don't waste it. Please pray tahajud to ask god for direction. And why I act bitter towards them is only that. I think if I can lie and act as a conman properly, I could really achieve everything what I want to be in life. But to be honest to people and to yourlsef is such a pain in the ass. In this things I fall to [[Deontological Ethics]] and [[Commitment Bias]]

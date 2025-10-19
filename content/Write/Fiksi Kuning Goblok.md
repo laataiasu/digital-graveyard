@@ -78,4 +78,4 @@ Potensi mutiaramu itu akan selalu tenggelam dan terkekam di kedalaman samudera. 
 
 Cerpen untuk bu @srimulyani di universe lain yang gagal menjadi Menkeu dan bernasib seperti Anne Hathaway dalam Les Misérables.
 
-Bisa-bisanya aing mabok habis minum tāngyuán
+> Bisa-bisanya aing mabok habis minum tāngyuán

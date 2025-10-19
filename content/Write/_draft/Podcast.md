@@ -3,6 +3,7 @@ date: 2001-01-01
 tags:
 - ideas
 - video-ideas
+draft: true
 ---
 latar belakang  
 untaken pearl  

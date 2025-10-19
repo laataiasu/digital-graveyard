@@ -3,6 +3,7 @@ date: 2022-06-14
 tags:
 - draft
 - ideas
+draft: true
 ---
 Hidup itu lucu yah?
 jangan percaya hal benar untuk alasan yang salah

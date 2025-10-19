@@ -3,6 +3,7 @@ date: 2024-08-31
 tags:
 - journal
 title: a month doing nothing
+draft: true
 ---
 
 2024-08-31 12:44 AM

@@ -3,6 +3,7 @@ date: 2024-06-07
 tags:
 - journal
 title: its easy nowadays to face the social pressure
+draft: true
 ---
 
 i realize that today is easy to face the social/peer pressure. esepecially if your not in a insufficiency state. 

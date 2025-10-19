@@ -4,6 +4,7 @@ date: 2024-07-27
 source: "Udacity"
 tags: [finance]
 
+draft: true
 ---
 
 ## Details

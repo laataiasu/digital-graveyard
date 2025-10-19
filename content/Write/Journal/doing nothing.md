@@ -3,6 +3,7 @@ date: 2024-04-25
 tags:
 - journal
 title: 2024-04-25
+draft: true
 ---
 
 2024-04-25

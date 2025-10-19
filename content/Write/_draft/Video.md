@@ -3,6 +3,7 @@ date: 2022-05-07
 tags:
 - ideas
 - video-ideas
+draft: true
 ---
 Bikin video standup
 Bikin ketawa sendiri

@@ -4,6 +4,7 @@ date: 2024-07-22
 source: "nan"
 tags: [philosophy]
 
+draft: true
 ---
 
 ## Details

@@ -3,6 +3,7 @@ date: 2024-07-12
 tags:
 - journal
 title: visitting grandma
+draft: true
 ---
 
 2024-07-12 visitting grandma

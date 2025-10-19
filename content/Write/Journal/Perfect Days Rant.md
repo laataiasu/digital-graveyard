@@ -3,6 +3,7 @@ date: 2024-04-01
 tags:
 - journal
 title: Perfect Days Rant
+draft: true
 ---
 
 [[Perfect Days]]

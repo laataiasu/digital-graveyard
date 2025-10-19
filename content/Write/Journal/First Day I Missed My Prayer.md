@@ -3,6 +3,7 @@ date: '2023-10-23'
 tags:
 - journal
 title: First Day I Missed My Prayer
+draft: true
 ---
 
 **A few little things are affecting me.** I missed Zuhr prayer due to an irrational thought process. I'm atheist, I scream to myself. But that scream is usually just a lie. There's always a burden feeling when I miss my prayer. 

@@ -1,5 +1,6 @@
 ---
 date: 2001-01-01
+draft: true
 ---
 
 kerja produktif vs kerja seni

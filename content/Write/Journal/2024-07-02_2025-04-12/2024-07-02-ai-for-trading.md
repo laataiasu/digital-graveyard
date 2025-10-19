@@ -4,6 +4,7 @@ date: 2024-07-02
 source: "Udacity"
 tags: [finance]
 url: "https://www.udacity.com/course/ai-for-trading--nd880"
+draft: true
 ---
 
 ## Details

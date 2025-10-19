@@ -3,6 +3,7 @@ date: 2024-05-31
 tags:
 - journal
 title: been unemployed for 2 months
+draft: true
 ---
 
 2024-05-31-been unemployed for 2 months

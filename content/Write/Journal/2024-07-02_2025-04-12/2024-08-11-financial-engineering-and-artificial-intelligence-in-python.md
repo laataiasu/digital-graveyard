@@ -4,6 +4,7 @@ date: 2024-08-11
 source: "The Lazy Programmer"
 tags: [finance]
 
+draft: true
 ---
 
 ## Details

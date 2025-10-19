@@ -3,6 +3,7 @@ date: 2024-06-08
 tags:
 - journal
 title: i go to univ not because i want to
+draft: true
 ---
 
 i have just realize i go to univ not because i want to, its because i am told to do.
