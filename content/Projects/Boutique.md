@@ -13,7 +13,7 @@ Make a sign and hide. Don't show, don't tell.
 - life is a masquerade party and I’ve been showing up as myself
 - ungeziefer
 - i would prefer not to
-- bayt al hikmah longer
+- [ x ] bayt al hikmah longer
 - ngaji filsafat
 - al ghuroba
 - It is worth trying everything. But not everything is worth trying.
