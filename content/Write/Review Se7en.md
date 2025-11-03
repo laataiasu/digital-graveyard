@@ -6,6 +6,7 @@ tags:
 timeline_notification:
 - '1600922867'
 title: Review Se7en
+publish_external: true
 ---
 ![[screenshot_2020-08-13-23-03-29-272_com.mxtech.videoplayer.ad_.jpg]]
 

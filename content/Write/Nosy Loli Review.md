@@ -6,7 +6,9 @@ tags:
 timeline_notification:
 - '1607044521'
 title: Nosy Loli Review
+publish_external: true
 ---
+
 ![[ej5fzeovcaidsfn.jpeg]]
 
 Based on any history books, [[Japan]] colonized Indonesia for 3.5 years, from 1942 until 1945.

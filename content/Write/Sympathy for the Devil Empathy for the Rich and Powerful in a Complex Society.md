@@ -5,6 +5,7 @@ tags:
 - review
 - film
 title: 'Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society'
+publish_external: true
 ---
 Flexing, greed, pride, arrogance, and vanity are merely perceptions projected by those who feel inferior and envious. In the words of Charlie Munger, the world is driven by envy, not greed.
 

@@ -60,6 +60,10 @@ Follow the steps below to gather your personal media consumption data from vario
     *   `mangalist.xml` (for manga)
 5.  Copy both files into this folder.
 
+### Anilist
+
+https://malscraper.azurewebsites.net/
+
 ---
 
 ### 🎭 Korean Drama (MyDramaList)

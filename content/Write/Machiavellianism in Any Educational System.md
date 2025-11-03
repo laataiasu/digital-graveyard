@@ -7,6 +7,7 @@ tags:
 timeline_notification:
 - '1605991931'
 title: Machiavellianism in Any Educational System
+publish_external: true
 ---
 
 [[SKY Castle]] 

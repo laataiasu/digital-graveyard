@@ -7,6 +7,7 @@ tags:
 - film
 title: 'Islam and the Data Scientist''s Quest: Seeking Insights Amidst Biases
   and Mental Models'
+publish_external: true
 ---
 ![[data-science.jpg]]
 

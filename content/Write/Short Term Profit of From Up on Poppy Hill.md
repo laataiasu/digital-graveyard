@@ -6,6 +6,7 @@ tags:
 - essay
 timeline_notification: null
 title: Short-Term Profit of 'From Up on Poppy Hill'
+publish_external: true
 ---
 ![[b9ce89d36e6df7a15ded4f33fb756b7e.png]]
   

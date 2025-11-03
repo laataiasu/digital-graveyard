@@ -5,7 +5,9 @@ tags:
 - review
 - essay
 title: Midsommar, The Heaven for Everyone
+publish_external: true
 ---
+
 All environmentalist or Marxist or someone who strive for Utopia should follow this community,
 
 ![[Entrance-Midsommar-8f48fc0.jpg]]

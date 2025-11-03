@@ -6,6 +6,7 @@ tags:
 - business
 - essay
 title: How Can You Not Be Romantic About Baseball?
+publish_external: true
 ---
 ![[rs-150108-rectangle.jpg]]
 

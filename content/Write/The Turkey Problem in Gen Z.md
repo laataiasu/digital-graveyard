@@ -6,6 +6,7 @@ tags:
 - review
 - film
 title: The Turkey Problem in Gen-Z
+publish_external: true
 ---
 Generation Z is often seen as carefree, facing difficulty in finding jobs, lacking respect for adults, being oversensitive yet savage and brutal, experiencing sexual weaknesses, engaging in deception through social media, adopting a borrowing mentality, having a short attention span, challenging the status quo, dealing with information overload, being exposed to excessive news about corruption, participating in cancel culture, and facing the consequences of global warming. They often associate various issues with mental health. This generation is perceived as weak and lazy, but also woke and hustling.
 
@@ -52,7 +53,7 @@ If you choose to be a believer, you may isolate your child and pray wholehearted
 
 ## Draft
 
-gen z suka foya-foya, susah cari kerja, no respect for adult, over sensitive but very savage and brutal, lemah syahwat, banyak nipu lewat sosial media, gaya ngutang, low time span, suka challenging status quo, information overload, kebanyakan berita korupsi, cancel culture, global warming, apa-apa bawa mental health, generasi lemah dan malas tapi woke dan hustle. 
+gen z suka foya-foya, susah cari kerja, no respect for adult, over sensitive but very savage and brutal, lemah syahwat, banyak nipu lewat sosial media, gaya ngutang, low attention span, suka challenging status quo, information overload, kebanyakan berita korupsi, cancel culture, global warming, apa-apa bawa mental health, generasi lemah dan malas tapi woke dan hustle. 
 
 kenapa bisa gini?
 
@@ -60,7 +61,7 @@ Ada yang namanya turkey problem
 
 bahwa kita sering mempercayakan terhadap sesuatu, misal ke institusi pendidikan, pemerintahan, expert. 
 
-banyak blind spot, personal bias, yang memunculkan randomness cikal bakal swans yang nantinya jadi shit happens.
+banyak blind spot, personal bias, yang memunculkan randomness cikal bakal black swan yang nantinya jadi shit happens.
 
 knp hal semacam ini bisa terjadi?
 

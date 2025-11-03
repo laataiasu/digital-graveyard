@@ -7,6 +7,7 @@ tags:
 - horror
 title: 'Ghost/Phantom: A Harrowing Reflection on Corruption, Media Sensationalism,
   and the Vicious Cycle'
+publish_external: true
 ---
 ![[https://youtu.be/Ci-uHdKT5QM]]
 

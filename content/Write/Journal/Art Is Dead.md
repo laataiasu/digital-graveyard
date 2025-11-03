@@ -46,7 +46,7 @@ when i see most of my friends compain like a [[Luddite]] about someone who prefe
 
 because as i see towards the future, where entropy is always increase ~ kullu nafsin da iqotul maut, i believe everything will become obsolete, useless, if we erase the [[dimension of time]]. there is time too in attention. and when i try to kill the god which is time, i become nihillistic cynic that see everything as worthless and meaningless. and it could make me improve intellection for everything, to justify for everything easily, there is no right or wrong. everything is positive sum game. intellection is just therapy for all nihillistict people, it made them easier to justify their cowardness and stupidity, inaction or pseudo activism, risk taking or risk aversing, everything can be justify.
 
-and thats why i never support all collectve mass movements, because basically i dont believe in the significance of time.
+and thats why i never support all collective mass movements, because basically i dont believe in the significance of time.
 
 and no matter how hard i try to push that idealogy, the biological and anthropological characteristics of me just punch me in the face. 
 
