@@ -109,3 +109,7 @@ _"Be a [[Masochist]]. Embrace the crisis. Wear your anguish well."_
 ---
 
 Would you like me to design branding elements or a sample product line under “Masquerade Haus”?
+
+## sources:
+
+ig sentient_cigarette

@@ -15,7 +15,7 @@ Categorize entries with tags and automatically capture the date.
 | [[Dream Job AdBis]]                                 | May 30, 2020      |          | Self               |
 | [[Personal/Journal/Archieved/Archieved\|Archieved]] |                   |          | Blog Ideas, Ideas  |
 | [[Messy notes]]                                     | June 14, 2022     |          | Blog Ideas, Ideas  |
-| [[Cikembang]]                                       | December 16, 2021 |          | Blog Ideas, Ideas  |
+| [[A Week in Cikembang]]                                       | December 16, 2021 |          | Blog Ideas, Ideas  |
 | [[Don't lie]]                         | July 9, 2021      |          | Blog Ideas, Ideas  |
 | [[Boutique]]                                          | July 7, 2022      |          | Business, Ideas    |
 | [[Podcast]]                                   |                   |          | Ideas, Video Ideas |

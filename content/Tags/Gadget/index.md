@@ -2,6 +2,7 @@
 date: 2001-01-01
 tags:
 - gadget
+title: Gadget
 ---
 ## Gadget
 
@@ -18,6 +19,8 @@ tags:
 [[Asus Zenfone Max Pro M2]]
 
 [[Xiaomi Redmi Note 11]]
+
+
 
 [[Huawei Band 8]]
 
