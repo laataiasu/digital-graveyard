@@ -9,3 +9,9 @@ BLOG_DIR="/home/al/Projects/digital-garden"
 "$PYTHON_BIN" "$SYNC_SCRIPT"
 cd "$BLOG_DIR"
 npx quartz build --serve
+
+---
+
+# windows
+
+C:\Users\al\Projects\sandbox-hub\.venv\Scripts\python.exe C:\Users\al\Projects\digital-graveyard\content\sync_content.py

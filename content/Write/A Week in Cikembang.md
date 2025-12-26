@@ -4,6 +4,7 @@ tags:
 - essay
 - wander
 title: A Week in Cikembang
+publish_external: true
 ---
 
 During high school, I joined a program where we stayed for a week in a rural village called Cikembang to experience local life. My group was hosted by an elderly couple who lived with their young grandchild. I can’t remember what happened to the parents, but the grandchild stood out—funny, talkative, and full of silly stories. He told us he dreamed of becoming a policeman.

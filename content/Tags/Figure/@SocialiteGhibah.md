@@ -1,6 +1,6 @@
 ---
 aliases:
-- '"Gordon Geckoleon"'
+- 'Gordon Geckoleon'
 tags:
 - figure
 ---

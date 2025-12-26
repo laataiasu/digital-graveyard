@@ -4,26 +4,28 @@ tags:
 - journal
 - essay
 title: You Must Join a Cult
+publish_external: true
 ---
-you need to join cult, trying multiple cult,
+You need to join a cult, trying multiple cults,
 
-until you get cult with greatest sense of belonging
+until you get a cult with the greatest sense of belonging.
 
-try to be diversed
+Try to be diverse.
 
-then you realize the preach, we have to unite is a futile doctrine.
+Then you realize the preaching—"we have to unite"—is a futile doctrine.
 
-'i already content with this group'
+"I am already content with this group."
 
-the group has various numbers, it variance is big. even there's someone who content with only 1 number in group, 
-even a half, even a quarter, even empty or void.
+The group has various numbers; its variance is big. There is even someone who is content with only one number in the group,
+even a half, even a quarter, even emptiness or void.
 
-the idea of diversity is bullshit. 
+The idea of diversity is bullshit.
 
-those who dont find cult that they found complacent wont go anywhere
+Those who don't find a cult they feel complacent in won't go anywhere.
 
-they become the cosmopoliton, dont belong to any cult
+They become cosmopolitans, belonging to no cult.
 
-but once they find their cult, they are all shouting...
+But once they find their cult, they are all shouting…
 
-more isolation please!!!
+more isolation, please!!!
+
