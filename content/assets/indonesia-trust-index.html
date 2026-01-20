@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indonesia Trust Index | Analisis Kompetensi Pemerintahan</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Space+Mono:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-dark: #0a0e27;
+            --bg-card: #141b3d;
+            --accent-red: #ff3b3b;
+            --accent-green: #00ff88;
+            --accent-yellow: #ffeb3b;
+            --text-primary: #e8eaed;
+            --text-muted: #8a8f98;
+            --border: #2a2f4f;
+        }
+
+        body {
+            font-family: 'Space Mono', monospace;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .grid-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(var(--border) 1px, transparent 1px),
+                linear-gradient(90deg, var(--border) 1px, transparent 1px);
+            background-size: 50px 50px;
+            opacity: 0.3;
+            z-index: -1;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            border-bottom: 2px solid var(--accent-red);
+            margin-bottom: 40px;
+            position: relative;
+        }
+
+        h1 {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 3.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-red), var(--accent-yellow));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: -2px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+        }
+
+        .trust-score {
+            display: inline-block;
+            padding: 15px 40px;
+            background: var(--bg-card);
+            border: 2px solid var(--accent-red);
+            border-radius: 5px;
+            margin-top: 20px;
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .trust-score.positive {
+            border-color: var(--accent-green);
+            color: var(--accent-green);
+        }
+
+        .trust-score.neutral {
+            border-color: var(--accent-yellow);
+            color: var(--accent-yellow);
+        }
+
+        .trust-score.negative {
+            border-color: var(--accent-red);
+            color: var(--accent-red);
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .metric-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--accent-red);
+            padding: 25px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .metric-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(255, 59, 59, 0.2);
+        }
+
+        .metric-card.positive {
+            border-left-color: var(--accent-green);
+        }
+
+        .metric-card.negative {
+            border-left-color: var(--accent-red);
+        }
+
+        .metric-card.neutral {
+            border-left-color: var(--accent-yellow);
+        }
+
+        .metric-label {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            font-family: 'JetBrains Mono', monospace;
+            margin-bottom: 5px;
+        }
+
+        .metric-change {
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .chart-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 30px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+
+        .chart-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: var(--accent-red);
+            text-transform: uppercase;
+        }
+
+        .analysis-section {
+            background: var(--bg-card);
+            border: 2px solid var(--accent-yellow);
+            padding: 40px;
+            border-radius: 5px;
+            margin-top: 40px;
+        }
+
+        .analysis-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: var(--accent-yellow);
+        }
+
+        .analysis-text {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+
+        .highlight {
+            color: var(--accent-red);
+            font-weight: 700;
+        }
+
+        .data-source {
+            margin-top: 40px;
+            padding: 20px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 5px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            margin-top: 60px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .metrics-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .chart-section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-bg"></div>
+    
+    <div class="container">
+        <header>
+            <h1>Indonesia Trust Index</h1>
+            <p class="subtitle">Analisis Kompetensi Pemerintahan Era Prabowo</p>
+            <div class="trust-score neutral">SKOR: 5.5/10</div>
+        </header>
+
+        <section class="metrics-grid">
+            <div class="metric-card negative">
+                <div class="metric-label">Depresiasi Rupiah (10 Tahun)</div>
+                <div class="metric-value">-26%</div>
+                <div class="metric-change">
+                    <span>↓</span>
+                    <span>13,389 (2015) → 16,809 (2026)</span>
+                </div>
+            </div>
+
+            <div class="metric-card neutral">
+                <div class="metric-label">Pertumbuhan GDP 2025</div>
+                <div class="metric-value">5.04%</div>
+                <div class="metric-change">
+                    <span>→</span>
+                    <span>Stabil, di bawah target 5.2%</span>
+                </div>
+            </div>
+
+            <div class="metric-card negative">
+                <div class="metric-label">Defisit Fiskal 2025</div>
+                <div class="metric-value">2.78%</div>
+                <div class="metric-change">
+                    <span>↑</span>
+                    <span>Naik dari target awal 2.5%</span>
+                </div>
+            </div>
+
+            <div class="metric-card negative">
+                <div class="metric-label">Belanja Infrastruktur</div>
+                <div class="metric-value">-54%</div>
+                <div class="metric-change">
+                    <span>↓</span>
+                    <span>Pemotongan drastis Rp 81T</span>
+                </div>
+            </div>
+
+            <div class="metric-card neutral">
+                <div class="metric-label">Rasio Pajak terhadap GDP</div>
+                <div class="metric-value">10%</div>
+                <div class="metric-change">
+                    <span>→</span>
+                    <span>Jauh di bawah rata-rata 20%</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="chart-section">
+            <h2 class="chart-title">Nilai Tukar Rupiah vs USD (2015-2026)</h2>
+            <canvas id="exchangeChart"></canvas>
+        </section>
+
+        <section class="chart-section">
+            <h2 class="chart-title">Perbandingan Pertumbuhan GDP: Indonesia vs Tetangga</h2>
+            <canvas id="gdpComparisonChart"></canvas>
+        </section>
+
+        <section class="chart-section">
+            <h2 class="chart-title">Defisit Fiskal Indonesia (% GDP)</h2>
+            <canvas id="deficitChart"></canvas>
+        </section>
+
+        <section class="analysis-section">
+            <h2 class="analysis-title">ANALISIS: Apakah Pemerintah Indonesia Kompeten?</h2>
+            
+            <p class="analysis-text">
+                Berdasarkan 5 metrik kunci yang dianalisis, pemerintahan Indonesia di era Prabowo menunjukkan 
+                <span class="highlight">performa campuran dengan kecenderungan mengkhawatirkan</span>.
+            </p>
+
+            <p class="analysis-text">
+                <strong>SINYAL NEGATIF:</strong><br>
+                • <span class="highlight">Rupiah terdepresiasi 26%</span> dalam 10 tahun terakhir (2015-2026), dari 13,389 menjadi 16,809 per USD<br>
+                • <span class="highlight">Pemotongan infrastruktur 54%</span> - anggaran Kementerian PUPR turun dari Rp 110.9T menjadi Rp 50.5T<br>
+                • Defisit fiskal melebar ke 2.78%, mendekati batas legal 3%<br>
+                • 18,000 pekerja kontrak PUPR di-PHK, proyek-proyek kunci ditunda<br>
+                • Rasio pajak hanya 10% GDP - terlemah di region
+            </p>
+
+            <p class="analysis-text">
+                <strong>SINYAL NETRAL/POSITIF:</strong><br>
+                • GDP growth stabil di ~5% (Q3 2025: 5.04%)<br>
+                • Inflasi terkendali di dalam target range (2.92%)<br>
+                • Utang publik masih aman di 39-40% GDP
+            </p>
+
+            <p class="analysis-text">
+                <strong>KONTEKS REGIONAL:</strong><br>
+                Indonesia tertinggal dari kompetitor. Vietnam tumbuh 8.22% (Q3 2025), Malaysia menunjukkan 
+                momentum positif. Indonesia stuck di ~5% - tidak cukup untuk mencapai status high-income.
+            </p>
+
+            <p class="analysis-text">
+                <strong>KEPUTUSAN PRABOWO:</strong><br>
+                Prioritas fiskal bergeser drastis dari infrastruktur Jokowi ke:
+                • Program Makan Bergizi Gratis (Rp 71T)
+                • Pertahanan & keamanan
+                • Downstreaming & swasembada<br>
+                Trade-off ini <span class="highlight">berpotensi menghambat pertumbuhan jangka panjang</span>.
+            </p>
+
+            <p class="analysis-text">
+                <strong>KESIMPULAN:</strong><br>
+                Skor 5.5/10 - <span class="highlight">KOMPETENSI DIPERTANYAKAN</span>. Pemerintah mampu menjaga stabilitas 
+                makro dasar, tapi gagal dalam:
+                1. Memperkuat mata uang
+                2. Meningkatkan pendapatan pajak
+                3. Menjaga momentum infrastruktur
+                4. Bersaing dengan neighbor countries
+            </p>
+
+            <p class="analysis-text">
+                <strong>REKOMENDASI:</strong><br>
+                Tanpa reformasi struktural (pajak, efisiensi, daya saing), Indonesia akan 
+                <span class="highlight">terjebak di middle-income trap</span>. Populisme fiskal bukan solusi berkelanjutan.
+            </p>
+        </section>
+
+        <div class="data-source">
+            <strong>Sumber Data:</strong><br>
+            • Nilai tukar: Trading Economics, Exchange-rates.org (2015-2026)<br>
+            • GDP: BPS, World Bank, IMF (2015-2025)<br>
+            • Defisit fiskal: Kementerian Keuangan RI, IMF Article IV (2025)<br>
+            • Infrastruktur: CEIC, Jakarta Globe, Bloomberg (2025)<br>
+            • Regional comparison: McKinsey Southeast Asia Review, ASEAN+3 Report (2025)
+        </div>
+
+        <footer>
+            <p>Indonesia Trust Index © 2026 | Data-Driven Analysis | Bukan Spekulasi</p>
+            <p>Dashboard ini dibuat untuk menjawab pertanyaan: "Apakah pemerintah Indonesia kompeten?"</p>
+        </footer>
+    </div>
+
+    <script>
+        // Exchange Rate Chart
+        const exchangeCtx = document.getElementById('exchangeChart').getContext('2d');
+        new Chart(exchangeCtx, {
+            type: 'line',
+            data: {
+                labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025', '2026'],
+                datasets: [{
+                    label: 'IDR per USD',
+                    data: [13389, 13436, 13380, 14236, 14147, 14582, 14308, 14849, 15300, 16162, 16475, 16809],
+                    borderColor: '#ff3b3b',
+                    backgroundColor: 'rgba(255, 59, 59, 0.1)',
+                    borderWidth: 3,
+                    tension: 0.4,
+                    fill: true,
+                    pointRadius: 5,
+                    pointHoverRadius: 8,
+                    pointBackgroundColor: '#ff3b3b',
+                    pointBorderColor: '#fff',
+                    pointBorderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#e8eaed',
+                            font: { size: 14, family: 'Space Mono' }
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: false,
+                        ticks: { color: '#8a8f98', font: { family: 'JetBrains Mono' } },
+                        grid: { color: '#2a2f4f' }
+                    },
+                    x: {
+                        ticks: { color: '#8a8f98', font: { family: 'JetBrains Mono' } },
+                        grid: { color: '#2a2f4f' }
+                    }
+                }
+            }
+        });
+
+        // GDP Comparison Chart
+        const gdpCtx = document.getElementById('gdpComparisonChart').getContext('2d');
+        new Chart(gdpCtx, {
+            type: 'bar',
+            data: {
+                labels: ['2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [
+                    {
+                        label: 'Indonesia',
+                        data: [-2.07, 3.70, 5.31, 5.05, 5.05, 5.04],
+                        backgroundColor: '#ff3b3b'
+                    },
+                    {
+                        label: 'Vietnam',
+                        data: [2.9, 2.6, 8.0, 5.0, 6.5, 7.85],
+                        backgroundColor: '#00ff88'
+                    },
+                    {
+                        label: 'Thailand',
+                        data: [-6.1, 1.5, 2.6, 1.9, 2.3, 2.5],
+                        backgroundColor: '#ffeb3b'
+                    },
+                    {
+                        label: 'Malaysia',
+                        data: [-5.5, 3.3, 8.7, 3.7, 5.1, 5.3],
+                        backgroundColor: '#00d4ff'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#e8eaed',
+                            font: { size: 12, family: 'Space Mono' }
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: { 
+                            color: '#8a8f98',
+                            font: { family: 'JetBrains Mono' },
+                            callback: function(value) {
+                                return value + '%';
+                            }
+                        },
+                        grid: { color: '#2a2f4f' }
+                    },
+                    x: {
+                        ticks: { color: '#8a8f98', font: { family: 'JetBrains Mono' } },
+                        grid: { color: '#2a2f4f' }
+                    }
+                }
+            }
+        });
+
+        // Deficit Chart
+        const deficitCtx = document.getElementById('deficitChart').getContext('2d');
+        new Chart(deficitCtx, {
+            type: 'line',
+            data: {
+                labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [{
+                    label: 'Defisit Fiskal (% GDP)',
+                    data: [2.6, 2.5, 2.5, 1.8, 2.2, 6.1, 4.6, 2.4, 1.6, 2.3, 2.78],
+                    borderColor: '#ffeb3b',
+                    backgroundColor: 'rgba(255, 235, 59, 0.1)',
+                    borderWidth: 3,
+                    tension: 0.4,
+                    fill: true,
+                    pointRadius: 5,
+                    pointHoverRadius: 8,
+                    pointBackgroundColor: '#ffeb3b',
+                    pointBorderColor: '#fff',
+                    pointBorderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#e8eaed',
+                            font: { size: 14, family: 'Space Mono' }
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: false,
+                        max: 7,
+                        ticks: { 
+                            color: '#8a8f98',
+                            font: { family: 'JetBrains Mono' },
+                            callback: function(value) {
+                                return value + '%';
+                            }
+                        },
+                        grid: { color: '#2a2f4f' }
+                    },
+                    x: {
+                        ticks: { color: '#8a8f98', font: { family: 'JetBrains Mono' } },
+                        grid: { color: '#2a2f4f' }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
