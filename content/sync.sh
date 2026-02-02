@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-PYTHON_BIN="/home/al/Projects/sandbox-hub/.venv/bin/python"
+PYTHON_BIN="/home/al/Projects/digital-graveyard/dg-scripts/.venv/bin/python"
 PROJECT_DIR="/home/al/Projects/digital-graveyard/content"
 SYNC_SCRIPT="$PROJECT_DIR/sync_content.py"
 BLOG_DIR="/home/al/Projects/digital-garden"
@@ -9,9 +9,3 @@ BLOG_DIR="/home/al/Projects/digital-garden"
 "$PYTHON_BIN" "$SYNC_SCRIPT"
 cd "$BLOG_DIR"
 npx quartz build --serve
-
----
-
-# windows
-
-C:\Users\al\Projects\sandbox-hub\.venv\Scripts\python.exe C:\Users\al\Projects\digital-graveyard\content\sync_content.py

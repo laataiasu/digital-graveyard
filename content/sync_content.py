@@ -2,11 +2,13 @@ import os
 import shutil
 import frontmatter
 
-SOURCE_DIR = "C:\\Users\\al\\Projects\\digital-graveyard\\content"
-DEST_DIR = "C:\\Users\\al\\Projects\\digital-garden\\content"
-
-# SOURCE_DIR = "/home/al/Projects/digital-graveyard/content"
-# DEST_DIR = "/home/al/Projects/digital-garden/content"
+# Platform-specific directory paths
+if os.name == 'nt':  # Windows
+    SOURCE_DIR = "C:\\Users\\al\\Projects\\digital-graveyard\\content"
+    DEST_DIR = "C:\\Users\\al\\Projects\\digital-garden\\content"
+else:  # Linux/macOS
+    SOURCE_DIR = "/home/al/Projects/digital-graveyard/content"
+    DEST_DIR = "/home/al/Projects/digital-garden/content"
 
 def has_publish_external(path):
     try:
@@ -24,7 +26,7 @@ def clean_destination():
 
 def is_asset_file(filename):
     # File extensions to exclude (common for content files)
-    INCLUDE_EXTENSIONS = {'.png', '.jpeg', '.jpg'}
+    INCLUDE_EXTENSIONS = {'.png', '.jpeg', '.jpg', '.html'}
     _, ext = os.path.splitext(filename)
     return ext.lower() in INCLUDE_EXTENSIONS
 
