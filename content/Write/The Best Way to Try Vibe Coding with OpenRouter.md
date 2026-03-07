@@ -1,17 +1,17 @@
 ---
-title: "2025-08-08"
-date: 2025-08-08T14:04:34+07:00
-tags: ["journal"]
-publish_external: false
-draft: true
+title: "The Best Way to Try Vibe Coding with OpenRouter"
+date: 2025-08-08
+tags: ["vibecoding", "openrouter", "crypto", "tutorial"]
+publish_external: true
 ---
+
 ## cara nyoba vibe coding paling enak...
 
 beli token openrouter disana bisa pilih apa aja, dan banyak model yang free.
 
 tinggal pasang ke IDE/extension favorit: copilot / cursor / roo code / cline / kilo code
 
-![[Pasted image 20250808182502.png]]
+![[the-best-way-to-try-vibe-coding-with-openrouter-1.png]]
 
 terminal: claude code / gemini cli / codex
 
@@ -25,8 +25,8 @@ tapi udah ada USDC dari base chain itu bener2 ga perlu pajak wkwk
 bisa lihat perbandingannya pas beli pake debit/CC atau crypto
 
 --insert image openrouter
-![[Pasted image 20250808182605.png]]
-![[Pasted image 20250808182723.png]]
+![[the-best-way-to-try-vibe-coding-with-openrouter-2.png]]
+![[the-best-way-to-try-vibe-coding-with-openrouter-3.png]]
 
 beli token dollar, USDC ke exchange favorit: tokocrypto/pintu/indodax/dll
 
@@ -35,12 +35,4 @@ transfer ke defi/crypto wallet pribadi, lewat jaringan base chain.
 tinggal buy pake wallet deh 
 
 
-![[Pasted image 20250808182344.png]]
-
-
-oke, berarti kita pakai hook nomor 2.  
-ini gue susunin thread lo full lower case, clean, udah siap tempel ke twitter dengan pacing yang enak.
-
----
-
-did nothing on office, i just update my android os to 15 lol
+![[the-best-way-to-try-vibe-coding-with-openrouter-4.png]]
