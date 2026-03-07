@@ -1,7 +1,7 @@
 ---
 title: "The Poison of \"Rich Dad, Poor Dad\": A Confession"
 date: 2026-02-01T15:09:05+07:00
-tags: ["journal"]
+tags: [financial-philosophy, education, career, self-reflection, personal-finance]
 publish_external: true
 ---
 
