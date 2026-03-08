@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "python-frontmatter>=1.1.0",
+# ]
+# ///
 import os
 import shutil
 import frontmatter
