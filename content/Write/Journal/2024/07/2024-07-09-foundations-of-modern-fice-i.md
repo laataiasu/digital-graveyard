@@ -3,10 +3,8 @@ title: "Foundations of Modern Finance I"
 date: 2024-07-09
 source: "edX"
 tags: [finance]
-
 draft: true
 ---
-
 ## Details
 Preparing_for_the_Exam
 

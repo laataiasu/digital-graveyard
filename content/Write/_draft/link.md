@@ -2,7 +2,6 @@
 date: 2001-01-01
 draft: true
 ---
-
 * **Blog:** [https://laataiasu.github.io/](https://laataiasu.github.io/)
 * **GitHub:** [http://github.com/ichsanulamal](http://github.com/ichsanulamal)
 * **Feedback Form:** [https://forms.gle/QFyuYBFkdY6Pf8Hv7](https://forms.gle/QFyuYBFkdY6Pf8Hv7)

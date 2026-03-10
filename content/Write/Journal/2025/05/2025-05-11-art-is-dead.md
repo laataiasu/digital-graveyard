@@ -3,6 +3,7 @@ title: Art Is Dead
 date: 2025-05-11
 tags:
 - journal
+draft: true
 ---
 # 2025-05-11
 do you think the future there is a state where UBI is implemented?

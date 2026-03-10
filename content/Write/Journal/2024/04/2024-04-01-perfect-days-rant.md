@@ -5,7 +5,6 @@ tags:
 title: Perfect Days Rant
 draft: true
 ---
-
 [[Perfect Days]]
 
 now what? aduh film tolol, bikin aing impulsif resign tanpa backup plan

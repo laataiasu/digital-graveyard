@@ -5,7 +5,6 @@ tags:
 title: 2023-01-20
 draft: true
 ---
-
 2023-01-20
 
 There's one in life that no one looks for.

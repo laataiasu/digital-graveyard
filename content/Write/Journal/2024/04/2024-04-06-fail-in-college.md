@@ -5,7 +5,6 @@ tags:
 title: 2024-04-06
 draft: true
 ---
-
 2024-04-06
 
 fail in college. 

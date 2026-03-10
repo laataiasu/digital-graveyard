@@ -5,7 +5,6 @@ tags:
 title: i go to univ not because i want to
 draft: true
 ---
-
 i have just realize i go to univ not because i want to, its because i am told to do.
 
 i not choose the major i really interested, i choose it because im afraid become poor and jobless.

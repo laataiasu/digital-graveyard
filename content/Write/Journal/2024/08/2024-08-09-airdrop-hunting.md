@@ -6,7 +6,6 @@ tags: [cryptocurrency]
 url: "https://stacymuur.substack.com/p/5-metrics-to-track-when-you-lose"
 draft: true
 ---
-
 ## Details
 TODO: galxe, zealy, intract automation,
 read 5 Metrics to Track When You Lose Hopium

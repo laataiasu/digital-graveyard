@@ -5,7 +5,6 @@ tags:
 title: 2023-03-06
 draft: true
 ---
-
 2023-03-06
 
 soshum is slow. 

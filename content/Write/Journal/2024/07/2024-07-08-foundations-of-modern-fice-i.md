@@ -3,10 +3,8 @@ title: "Foundations of Modern Finance I"
 date: 2024-07-08
 source: "edX"
 tags: [finance]
-
 draft: true
 ---
-
 ## Details
 Arbitrage_Pricing_Theory,
 Market_Efficiency,

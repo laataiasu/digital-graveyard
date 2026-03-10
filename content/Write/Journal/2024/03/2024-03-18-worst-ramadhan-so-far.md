@@ -5,7 +5,6 @@ tags:
 title: 2024-03-18
 draft: true
 ---
-
 2024-03-18
 
 This is worst [[Ramadhan]] so far in my life. I lose my faith, I lie to much to myself and my coworkers because my stupidity brings me this meaningless job. 

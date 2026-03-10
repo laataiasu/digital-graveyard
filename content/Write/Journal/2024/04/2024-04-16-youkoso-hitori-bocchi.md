@@ -5,7 +5,6 @@ tags:
 title: 2024-04-16
 draft: true
 ---
-
 2024-04-16
 
 ![[ost_nhkny.png]]

@@ -5,7 +5,6 @@ tags:
 title: 2024-04-08
 draft: true
 ---
-
 2024-04-08
 
 i knew something wrong with me,

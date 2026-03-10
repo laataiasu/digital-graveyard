@@ -3,10 +3,8 @@ title: "Foundations of Modern Finance II"
 date: 2024-08-07
 source: "edX"
 tags: [finance]
-
 draft: true
 ---
-
 ## Details
 Options_Part_I
 

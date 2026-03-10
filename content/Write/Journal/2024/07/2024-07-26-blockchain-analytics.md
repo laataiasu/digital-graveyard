@@ -6,7 +6,6 @@ tags: [cryptocurrency]
 url: "https://www.youtube.com/watch?v=iQp8AZ5S5Hg"
 draft: true
 ---
-
 ## Details
 How To Analyze Any Crypto Token in 5 Minutes (Dune Analytics)
 

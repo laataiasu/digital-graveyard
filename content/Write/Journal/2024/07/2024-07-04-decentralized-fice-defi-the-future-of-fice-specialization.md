@@ -6,7 +6,6 @@ tags: [cryptocurrency]
 url: "https://www.coursera.org/specializations/decentralized-finance-duke"
 draft: true
 ---
-
 ## Details
 MKRDAO
 

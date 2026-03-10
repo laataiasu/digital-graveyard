@@ -6,7 +6,6 @@ tags: [finance]
 url: "https://www.edx.org/learn/finance/massachusetts-institute-of-technology-foundations-of-modern-finance-i"
 draft: true
 ---
-
 ## Details
 Introduction_to_Finance, 
 Market_Prices_and_Present_Value

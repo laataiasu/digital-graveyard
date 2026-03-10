@@ -3,10 +3,8 @@ title: "Do Nothing"
 date: 2024-07-25
 source: ""
 tags: [event]
-
 draft: true
 ---
-
 ## Details
 
 

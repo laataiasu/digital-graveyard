@@ -5,7 +5,6 @@ tags:
 title: First Day I Missed My Prayer
 draft: true
 ---
-
 **A few little things are affecting me.** I missed Zuhr prayer due to an irrational thought process. I'm atheist, I scream to myself. But that scream is usually just a lie. There's always a burden feeling when I miss my prayer. 
 
 **My sleep schedule is messed up.** In Depok, it's always hot, and I can't sleep early. Sometimes I listen to random YouTube videos, audiobooks, or Al-Mathurat, but it doesn't work well for me. I don't want to use an air conditioner because of global warming (and I'm on a tight budget), and an electric fan isn't effective either. 

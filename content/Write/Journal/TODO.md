@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## forbidden writer
 Nick Land, Simone Weil, Peter Kingsley, Rene Girard, Ibn Arabi, Unabomber manifesto
 
