@@ -38,6 +38,6 @@ And any company doesn\'t want their sources to be wasted, they really need [[Dat
 
 The need is always change. Yesterday it may be unpopular and ugly but today it is something to be needed. Just look at the most popular songs today, which has a weird lyric with weird videography. But somehow people perceive that as art, and therefore it is really art.
 
-Bitcoin, a virtual money which yesterday perceived as useless and shitcoin. Now, it\'s value is more than $20k. The need is very dynamic. We don\'t know what society needs at tomorrow. Just look at the modern development, it is hard to be ugly now. Well maybe, when ugliness became so rare, could it be needed in the future? Well, I just never understand, and maybe we could never understand about the need of ourselves and society. But at least, could we stop following the need of madness society?
+Bitcoin, a virtual money which yesterday perceived as useless and shitcoin. Now, it\'s value is more than \$20k. The need is very dynamic. We don\'t know what society needs at tomorrow. Just look at the modern development, it is hard to be ugly now. Well maybe, when ugliness became so rare, could it be needed in the future? Well, I just never understand, and maybe we could never understand about the need of ourselves and society. But at least, could we stop following the need of madness society?
 
 > Don\'t bee to serious, just for fun and learn :v:

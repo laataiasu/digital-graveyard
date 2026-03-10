@@ -63,13 +63,13 @@ Owning stock in a company means you have a stake in that company's future succes
       - **Example**: Employee stock options, where employees can buy company stock at a lower price and potentially sell it later for a profit.
     - **Futures**: 
       - A contract that obligates the buyer to purchase, or the seller to sell, an asset at a predetermined price on a future date.
-      - **Example**: A dairy farmer locks in a price of $2 per gallon for 200 gallons of milk next month, protecting against price fluctuations.
+      - **Example**: A dairy farmer locks in a price of \$2 per gallon for 200 gallons of milk next month, protecting against price fluctuations.
   
 - **Equity Securities**:
   - **Definition**: Represent ownership in a company.
   - **Stocks**: The most common type of equity securities, giving shareholders ownership in a firm.
   - **Equity**: The value of an owned asset minus any debts or liabilities.
-    - **Example**: If you own a car worth $15,000 and have a $5,000 loan on it, your equity in the car is $10,000.
+    - **Example**: If you own a car worth \$15,000 and have a \$5,000 loan on it, your equity in the car is \$10,000.
   - **Private Equity**: Represents ownership in a private company, as opposed to publicly traded companies.
 
 ### Summary
@@ -269,9 +269,9 @@ Investing in stock starts with choosing a method of purchase, either through a b
     
 - **Contoh: Bitcoin Bubble (2017–2018)**:
     
-    - Naik dari <$1,000 → >$17,000 (Jan–Dec 2017)
+    - Naik dari <\$1,000 → >\$17,000 (Jan–Dec 2017)
         
-    - Turun jadi ~$6,000 (Juni 2018)
+    - Turun jadi ~\$6,000 (Juni 2018)
         
 - **Konteks Indonesia**:
     

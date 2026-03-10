@@ -39,7 +39,7 @@ chmod +x get-docker.sh
 ./get-docker.sh
 ## Post install
 sudo groupadd docker
-sudo usermod -aG docker $USER
+sudo usermod -aG docker \$USER
 newgrp docker
 sudo systemctl enable docker.service
 sudo systemctl enable containerd.service

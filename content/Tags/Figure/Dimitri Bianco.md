@@ -19,7 +19,7 @@ Many people look back at the 80s and 90s, when some quants and proprietary tradi
 **Why It's Challenging to Be an Independent [[Quant]]:**
 
 1. **Initial Capital Requirements:**
-   - **Example Scenario:** Imagine you start with $1 million. If you achieve a 10% return annually, that's $100,000. However, this assumes you have no expenses and no salary. In reality, you have costs like transaction fees, data, technology, and potentially salaries if you hire help.
+   - **Example Scenario:** Imagine you start with \$1 million. If you achieve a 10% return annually, that's \$100,000. However, this assumes you have no expenses and no salary. In reality, you have costs like transaction fees, data, technology, and potentially salaries if you hire help.
    
 2. **Risk and Uncertainty:**
    - If you don’t achieve your projected returns (e.g., only making 6% instead of 10%), you could end up making significantly less, which might not cover your expenses or your desired salary.
@@ -33,7 +33,7 @@ Many people look back at the 80s and 90s, when some quants and proprietary tradi
 **Advantages of Working for a Firm:**
 
 1. **Stable Income:**
-   - When you work for a firm, you get a base salary, often starting around $80,000 to $100,000, which can increase significantly with experience and performance. This salary is not contingent on the performance of your trading strategies.
+   - When you work for a firm, you get a base salary, often starting around \$80,000 to \$100,000, which can increase significantly with experience and performance. This salary is not contingent on the performance of your trading strategies.
 
 2. **Resources and Infrastructure:**
    - Firms provide the necessary infrastructure, including data access, technology, and legal compliance. This reduces your personal risk and upfront investment.
@@ -150,7 +150,7 @@ The real issue is that these basic concepts are crucial for understanding more c
 
 One major frustration I have is seeing amateur traders and investors treat the market like a game of chance. They often use simplistic methods—like flipping a coin to decide whether to buy or sell a stock—without considering the underlying risks. And when they do make money, they attribute it to their brilliance rather than the market conditions or sheer luck.
 
-Leverage is another area where misunderstanding runs rampant. People get excited about how leveraging can magnify returns but fail to grasp that it also magnifies losses. You might start with $100, borrow another $100, and if your investment doubles, it seems like a huge win. But if the investment loses value, your losses can exceed your initial investment, leading to a dangerous situation.
+Leverage is another area where misunderstanding runs rampant. People get excited about how leveraging can magnify returns but fail to grasp that it also magnifies losses. You might start with \$100, borrow another \$100, and if your investment doubles, it seems like a huge win. But if the investment loses value, your losses can exceed your initial investment, leading to a dangerous situation.
 
 ### The Illusion of Expertise
 
@@ -182,13 +182,13 @@ You can achieve a million-dollar milestone through various careers. My path was 
 
 **2. Invest in Your Education**
 
-I invested heavily in my education, with my wife and I collectively spending $160,000 on student loans for our degrees. After interest, the total was closer to $200,000. This investment was crucial for landing good jobs.
+I invested heavily in my education, with my wife and I collectively spending \$160,000 on student loans for our degrees. After interest, the total was closer to \$200,000. This investment was crucial for landing good jobs.
 
 **Tip:** Research and choose the right educational path for your career goals. A master’s degree or specialized training might be necessary, and the financial investment can be substantial, but it’s often worth it. 
 
 **3. Location Matters**
 
-I moved several times for work—from Washington to Michigan, then to Dallas, and finally New York City before returning to Dallas. Each move came with significant costs, including higher living expenses and taxes. For example, living in New York City cost me about $3,800 a month, compared to a lower cost of living in Dallas.
+I moved several times for work—from Washington to Michigan, then to Dallas, and finally New York City before returning to Dallas. Each move came with significant costs, including higher living expenses and taxes. For example, living in New York City cost me about \$3,800 a month, compared to a lower cost of living in Dallas.
 
 **Tip:** Be strategic about where you live based on your career goals. High-cost areas might offer higher salaries, but the cost of living can eat into your earnings. Balancing salary and living expenses is crucial for maximizing savings.
 

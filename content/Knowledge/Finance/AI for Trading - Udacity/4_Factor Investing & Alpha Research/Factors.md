@@ -43,13 +43,13 @@ This collection of one-year returns across different stocks over time is what we
 Let's illustrate this with a simple comparison between two stocks: **Apple** and **NVIDIA**.
 
 - **Apple**:
-  - On August 3rd, 2018: Price = $208 per share.
-  - One year earlier (August 3rd, 2017): Price = $156 per share.
+  - On August 3rd, 2018: Price = \$208 per share.
+  - One year earlier (August 3rd, 2017): Price = \$156 per share.
   - **One-year return** = $\frac{208 - 156}{156} \approx 0.33$ (or 33%).
 
 - **NVIDIA**:
-  - On August 3rd, 2018: Price = $252 per share.
-  - One year earlier (August 3rd, 2017): Price = $166 per share.
+  - On August 3rd, 2018: Price = \$252 per share.
+  - One year earlier (August 3rd, 2017): Price = \$166 per share.
   - **One-year return** = $\frac{252 - 166}{166} \approx 0.52$ (or 52%).
 
 So, for August 3rd, 2018:
@@ -180,11 +180,11 @@ When you demean a factor, you're preparing it to help construct a **dollar neutr
 #### **4. Portfolio Weights and Notional Value**
 - **Portfolio Weights**: These represent the proportion of the portfolio's total value that is allocated to each stock.
 - **Notional Value**: This is the total dollar value of the portfolio.
-  - For example, if a portfolio's notional value is $100 million and a stock has a weight of 0.01, the portfolio allocates $1 million to that stock.
+  - For example, if a portfolio's notional value is \$100 million and a stock has a weight of 0.01, the portfolio allocates \$1 million to that stock.
 - **Dollar Neutral Example**:
   - Suppose you have a portfolio with two stocks:
-    - Stock A with a weight of 0.01 results in a **long position** of $1 million.
-    - Stock B with a weight of -0.01 results in a **short position** of -$1 million.
+    - Stock A with a weight of 0.01 results in a **long position** of \$1 million.
+    - Stock B with a weight of -0.01 results in a **short position** of -\$1 million.
   - The total positions add up to zero, making the portfolio dollar neutral.
 
 #### **5. Market Neutrality and Its Goal**
@@ -252,15 +252,15 @@ In this section, we delve into the concepts of **leverage** and the **leverage r
 
 - **Impact of Leverage**:
   - **Without Leverage**: 
-    - Assume an initial capital of $100,000. If the stock price increases by 10%, the portfolio value increases by $10,000, representing a 10% return on the initial investment.
+    - Assume an initial capital of \$100,000. If the stock price increases by 10%, the portfolio value increases by \$10,000, representing a 10% return on the initial investment.
   - **With Leverage**: 
-    - Start with $100,000 and borrow an additional $100,000, giving you $200,000 to invest. If the stock price increases by 10%, the portfolio value increases by $20,000. This represents a 20% return on the initial capital of $100,000.
+    - Start with \$100,000 and borrow an additional \$100,000, giving you \$200,000 to invest. If the stock price increases by 10%, the portfolio value increases by \$20,000. This represents a 20% return on the initial capital of \$100,000.
 
   - **Summary**: The use of leverage amplifies the returns (and risks) relative to the initial capital. A 10% increase in stock price results in a 20% return on the initial investment when leverage is used.
 
 #### **3. The Leverage Ratio and Rescaling Weights**
 - **Leverage Ratio**:
-  - The **leverage ratio** is the ratio of the total value of the assets in the portfolio to the initial capital. In the example above, with $200,000 invested and $100,000 in initial capital, the leverage ratio is 2.
+  - The **leverage ratio** is the ratio of the total value of the assets in the portfolio to the initial capital. In the example above, with \$200,000 invested and \$100,000 in initial capital, the leverage ratio is 2.
 
 - **Rescaling Weights**:
   - To control the leverage ratio and set it to 1, we rescale the portfolio weights so that the sum of their absolute values equals one.
@@ -290,11 +290,11 @@ In this section, we'll explore the double-edged nature of leverage—its potenti
     $$
   
   - **Example**:
-    - If a portfolio has $1 million in long positions and no shorts, with an initial capital of $1 million, the leverage ratio is:
+    - If a portfolio has \$1 million in long positions and no shorts, with an initial capital of \$1 million, the leverage ratio is:
       $$
       \text{Leverage Ratio} = \frac{1,000,000}{1,000,000} = 1
       $$
-    - If the portfolio instead has $2 million in longs and $1 million in shorts with the same initial capital, the leverage ratio is:
+    - If the portfolio instead has \$2 million in longs and \$1 million in shorts with the same initial capital, the leverage ratio is:
       $$
       \text{Leverage Ratio} = \frac{2,000,000 + 1,000,000}{1,000,000} = 3
       $$
@@ -456,7 +456,7 @@ A pipeline can include **screens**, **factors**, and **filters**.
   # Factor: 15-day mean closing price
   mean_close_15 = SimpleMovingAverage(inputs=[USEquityPricing.close], window_length=15)
   
-  # Filter: Stocks with 15-day average closing price > $100
+  # Filter: Stocks with 15-day average closing price > \$100
   price_filter = mean_close_15 > 100
   
   # Add to pipeline

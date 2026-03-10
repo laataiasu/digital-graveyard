@@ -29,18 +29,18 @@ There are several ways to quantify changes in stock prices over time. Let's expl
 Let's say you make two different investments and want to compare their performances:
 
 - **Investment 1**:
-  - Initial investment: $1,000
-  - Value after one month: $1,050
+  - Initial investment: \$1,000
+  - Value after one month: \$1,050
   - **Price difference**: $\Delta P = 1050 - 1000 = 50$
   - **Percentage return**: $R = \frac{50}{1000} = 0.05$ or 5%
 
 - **Investment 2**:
-  - Initial investment: $5,000
-  - Value after one month: $5,300
+  - Initial investment: \$5,000
+  - Value after one month: \$5,300
   - **Price difference**: $\Delta P = 5300 - 5000 = 300$
   - **Percentage return**: $R = \frac{300}{5000} = 0.06$ or 6%
 
-Although the absolute gains were different ($50 vs. $300), the percentage returns allow you to compare the performance of the two investments directly. Here, the second investment had a higher return (6% vs. 5%), meaning it performed better relative to its initial value.
+Although the absolute gains were different (\$50 vs. \$300), the percentage returns allow you to compare the performance of the two investments directly. Here, the second investment had a higher return (6% vs. 5%), meaning it performed better relative to its initial value.
 
 ### Why Use Percentage Returns?
 
@@ -132,7 +132,7 @@ Log returns have several appealing properties, which make them useful in financi
 
 #### Visualization
 
-To better understand the relationship between the logarithm and raw return, consider the function $y = \ln(1 + x)$. This function intersects the origin (0,0) and has a slope of 1 at $x = 0$. This means that near $x = 0$, the function $\ln(1 + x)$ behaves almost like the line $y = x$. Here's a visualization to help:
+To better understand the relationship between the logarithm and raw return, consider the function \$y = \ln(1 + x)$. This function intersects the origin (0,0) and has a slope of 1 at $x = 0$. This means that near $x = 0$, the function $\ln(1 + x)$ behaves almost like the line $y = x$. Here's a visualization to help:
 
 - **At $x = 0$**: The function $\ln(1 + x)$ and the line $y = x$ overlap, meaning that for very small values of $x$, $\ln(1 + x) \approx x$.
 - **As $x$ increases**: The curve $\ln(1 + x)$ deviates from the line $y = x$, but for small values (like typical stock returns), the approximation holds well.
@@ -140,7 +140,7 @@ To better understand the relationship between the logarithm and raw return, cons
 #### Summary
 
 - **Log returns** are useful in finance due to their additivity and better distributional properties.
-- **Raw returns** can be converted to log returns using $R_t = \ln(1 + r_t)$, and vice versa using $r_t = e^{R_t} - 1$.
+- **Raw returns** can be converted to log returns using \$R_t = \ln(1 + r_t)$, and vice versa using $r_t = e^{R_t} - 1$.
 - **For small returns**, log returns closely approximate raw returns, simplifying analysis without losing accuracy.
 
 ## 3. Distribution Of Stock Prices
@@ -205,8 +205,8 @@ $$
 
 A crucial concept here is the **log-normal distribution**:
 
-- If a random variable $Y$ is normally distributed, i.e., $Y \sim \mathcal{N}(\mu, \sigma^2)$, then $e^Y$ follows a **log-normal distribution**.
-- In our context, if $\ln(P_t)$ is normally distributed, then the stock price $P_t$ (which is $e^{\ln(P_t)}$) is **log-normally distributed**.
+- If a random variable $Y$ is normally distributed, i.e., \$Y \sim \mathcal{N}(\mu, \sigma^2)$, then $e^Y$ follows a **log-normal distribution**.
+- In our context, if $\ln(P_t)$ is normally distributed, then the stock price $P_t$ (which is \$e^{\ln(P_t)}$) is **log-normally distributed**.
 
 The log-normal distribution is characterized by:
 - **Right skewness**: The distribution is skewed to the right, meaning there is a longer tail on the right side of the distribution.

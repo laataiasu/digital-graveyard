@@ -63,7 +63,7 @@ Liat dogecoin!
 
 Beli 20k di harga segini terus jadi segini.
 
-[[Meme]] coin yang entahlah gunanya apa. Masuk ke top 10 market cap mata uang crypto, dipompom Elon Musk. Ga peduli gunanya apa, kalo mayoritas nganggap itu berharga, ya berharga. Kalo ada yang mau beli, ya tetep ada harganya. “Masih di bawah $5 masih murah”. New paradigm katanya.
+[[Meme]] coin yang entahlah gunanya apa. Masuk ke top 10 market cap mata uang crypto, dipompom Elon Musk. Ga peduli gunanya apa, kalo mayoritas nganggap itu berharga, ya berharga. Kalo ada yang mau beli, ya tetep ada harganya. “Masih di bawah \$5 masih murah”. New paradigm katanya.
 
 Atau ini, shiba inu ROI 1000% persen dalam 2 bulan. Inflasi koin-koin dengan tema anjing dan kebun binatang dengan visi koin hiburan. Banyak orang yang profit, buat bayar hutang pendidikan, buat beli materi ini itu, dan sebagainya.
 

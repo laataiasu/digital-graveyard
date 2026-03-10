@@ -34,12 +34,12 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 - Liquidity dried up because M2 Supply decreased and interest rates stayed high at 5.5%.
 
 **Bitcoin in June 2023:**
-- Price was $30K. By June 2024, it doubled. 
+- Price was \$30K. By June 2024, it doubled. 
 
 **US Inflation Peak (June 2022):**
 - Highest at 9.1%.
-- M2 Supply first dropped, marking Bitcoin's bottom in November 2022 at $15K.
-- Impact felt 5 months later; marked the buy-in point at $16K, and sell at $32K for a 100% gain.
+- M2 Supply first dropped, marking Bitcoin's bottom in November 2022 at \$15K.
+- Impact felt 5 months later; marked the buy-in point at \$16K, and sell at \$32K for a 100% gain.
 
 **Bitcoin Market Calls:**
 - Encouraged followers to buy Bitcoin in small amounts collectively.
@@ -52,7 +52,7 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 
 **Ideal Scenario for Bitcoin:**
 - If M2 Supply rises, RRP grows slowly, and US debt increases moderately, Bitcoin should rise steadily.
-- If M2 Supply rises significantly and RRP drops, with US debt hitting $35T, it would lead to a market "party" (boom).
+- If M2 Supply rises significantly and RRP drops, with US debt hitting \$35T, it would lead to a market "party" (boom).
 
 **Investment Strategy:**
 - Take profits (TP) when signaled.
@@ -82,11 +82,11 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
 
 #### 1. **RRP (Reverse Repurchase Agreement):**
    - **Definition:** A financial transaction where the Fed sells securities and agrees to repurchase them, effectively borrowing money from the market.
-   - **Context:** The passage mentions a significant increase in RRP to $500 billion, affecting liquidity and strengthening the DXY (U.S. Dollar Index).
+   - **Context:** The passage mentions a significant increase in RRP to \$500 billion, affecting liquidity and strengthening the DXY (U.S. Dollar Index).
 
 #### 2. **DXY (U.S. Dollar Index):**
    - **Definition:** Measures the value of the U.S. dollar relative to a basket of foreign currencies.
-   - **Context:** Despite a high DXY of 106, Bitcoin remains strong at $60K+, which is considered unusual.
+   - **Context:** Despite a high DXY of 106, Bitcoin remains strong at \$60K+, which is considered unusual.
 
 #### 3. **M2 Supply:**
    - **Definition:** Includes cash, checking deposits, and easily convertible near money.
@@ -127,7 +127,7 @@ To stay calm, let's analyze the global picture. Recently, the M2 Supply increase
    - **Context:** A reduction in the Fed's balance sheet through QT (Quantitative Tightening) affects liquidity and money supply.
 
 #### 13. **Debt and Liquidity:**
-   - **U.S. Debt:** Predicted to increase by $1 trillion every 100 days, raising concerns about repayment and economic stability.
+   - **U.S. Debt:** Predicted to increase by \$1 trillion every 100 days, raising concerns about repayment and economic stability.
    - **Liquidity Sources:** U.S. debt and M2 Supply are considered sources of liquidity, influencing the market.
 
 ### Summary of Key Points:
@@ -227,7 +227,7 @@ Before we discuss next week's data, let's review this week's data to understand 
 
 **SOFR (Secured Overnight Financing Rate):** This has increased, indicating that liquidity (availability of money) is drying up. 
 
-**US Consumer Credit:** Increased by $11 billion, meaning people are using credit cards to cover expenses. 
+**US Consumer Credit:** Increased by \$11 billion, meaning people are using credit cards to cover expenses. 
 
 **Hawkish vs. Dovish:** Powell was not hawkish (favoring higher interest rates to fight inflation), implying a dovish stance (favoring lower interest rates). He said they won't raise interest rates and don't need to wait for inflation to hit 2% to ease monetary policy.
 
@@ -237,7 +237,7 @@ Before we discuss next week's data, let's review this week's data to understand 
 
 **US Inflation:** Predicted correctly to drop to 3%. Both Chinese and US inflation decreasing could mean either the US is manipulating numbers due to the upcoming election, or liquidity is truly drying up. 
 
-**[[China]]'s Foreign Exchange Reserves:** Over $3 trillion, indicating tight liquidity because funds are being redirected.
+**[[China]]'s Foreign Exchange Reserves:** Over \$3 trillion, indicating tight liquidity because funds are being redirected.
 
 **Producer Price Index (PPI):** Expected to drop, showing the Fed is reducing inflation by sacrificing jobs. If it rises, it won't be much due to lack of demand.
 

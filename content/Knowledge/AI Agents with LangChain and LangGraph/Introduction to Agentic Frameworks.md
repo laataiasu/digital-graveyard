@@ -44,7 +44,7 @@ A marketing team wants insights on potential customers but only has an earnings 
 Lesson
 Cloud Resources
 
-The global AI agents market is experiencing explosive growth. By 2030, it is projected to reach $47.1 billion, driven by major players like Salesforce, Google, and Oracle. Meanwhile, no-code SaaS platforms such as Retool and Zapier are integrating agentic AI into their offerings.
+The global AI agents market is experiencing explosive growth. By 2030, it is projected to reach \$47.1 billion, driven by major players like Salesforce, Google, and Oracle. Meanwhile, no-code SaaS platforms such as Retool and Zapier are integrating agentic AI into their offerings.
 
 This shift signals a major transformation—AI is moving beyond traditional Robotic Process Automation (RPA) and rule-based systems into a world where agents can autonomously execute tasks and interact with other AI systems.
 

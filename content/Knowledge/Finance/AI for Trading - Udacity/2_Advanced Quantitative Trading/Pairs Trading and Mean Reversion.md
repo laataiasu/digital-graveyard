@@ -15,7 +15,7 @@ In this lesson, we'll explore two key properties of financial assets: **mean rev
 **Mean reversion** refers to a statistical property of a time series where values tend to move back toward a long-term average or mean over time. In the context of stock prices, mean reversion implies that if a stock price deviates significantly from its historical average, it may eventually return to that average.
 
 **Example**:
-- Suppose a stock typically trades around $50, but due to some market fluctuations, it drops to $40. If the stock is mean-reverting, you might expect it to eventually climb back toward $50.
+- Suppose a stock typically trades around \$50, but due to some market fluctuations, it drops to \$40. If the stock is mean-reverting, you might expect it to eventually climb back toward \$50.
   
   $$
   \text{Expected Price Movement} = \text{Current Price} + \left( \text{Mean Price} - \text{Current Price} \right)
@@ -305,7 +305,7 @@ It's crucial to distinguish between **cointegration** and **correlation**:
 
 - **Cointegration**, on the other hand, looks at the long-term relationship. Two stocks can be highly correlated without being cointegrated, meaning they might move together now but could drift apart over time. Conversely, two stocks can be cointegrated but show little short-term correlation.
 
-For example, suppose you invest $100 in both stock A and stock B. If these stocks are cointegrated, the value of these positions will stay roughly equal over time, even if their individual prices fluctuate.
+For example, suppose you invest \$100 in both stock A and stock B. If these stocks are cointegrated, the value of these positions will stay roughly equal over time, even if their individual prices fluctuate.
 
 #### Testing for Cointegration
 

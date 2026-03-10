@@ -46,7 +46,7 @@ Some consequences if the hypothesis is true:
 ### 📚 Related Concepts
 
 * **Zeta Zeros**: Values of $s$ where $\zeta(s) = 0$.
-* **Critical Strip**: The region where $0 < \text{Re}(s) < 1$. Nontrivial zeros lie in this strip.
+* **Critical Strip**: The region where \$0 < \text{Re}(s) < 1$. Nontrivial zeros lie in this strip.
 * **Euler Product Formula**: Links zeta function to primes:
 
   $$

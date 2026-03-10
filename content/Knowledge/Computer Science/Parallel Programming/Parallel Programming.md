@@ -147,7 +147,7 @@ Amdahl's Law is mathematically expressed as:
 $$ S(p) = \frac{1}{(1 - P) + \frac{P}{p}} $$
 
 Where:
-- $S(p)$ is the speedup with $p$ processors.
+- \$S(p)$ is the speedup with $p$ processors.
 - $P$ is the fraction of the task that is parallelizable.
 - $(1 - P)$ is the fraction of the task that is sequential.
 - $p$ is the number of processors.
@@ -160,7 +160,7 @@ Where:
 
 ### Example
 
-Consider a task where 80% of the computation can be parallelized ($P = 0.8$) and 20% is sequential ($1 - P = 0.2$).
+Consider a task where 80% of the computation can be parallelized ($P = 0.8$) and 20\% is sequential ($1 - P = 0.2$).
 
 For $p = 4$ processors:
 $$ S(4) = \frac{1}{(1 - 0.8) + \frac{0.8}{4}} = \frac{1}{0.2 + 0.2} = \frac{1}{0.4} = 2.5 $$
@@ -193,7 +193,7 @@ Gustafson's Law is mathematically expressed as:
 $$ S(p) = p - \alpha(p - 1) $$
 
 Where:
-- $S(p)$ is the speedup with $p$ processors.
+- \$S(p)$ is the speedup with $p$ processors.
 - $p$ is the number of processors.
 - $\alpha$ is the fraction of the computation that is sequential (not parallelizable).
 

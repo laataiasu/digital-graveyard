@@ -69,12 +69,12 @@ Betty's pricing strategy is a dynamic process influenced by her costs, the deman
    - **Matching Orders**: The stock exchange automatically matches buy and sell orders. A trade occurs when a buyer's bid price meets or exceeds a seller's ask price.
 
 #### 4. **Example: Matching Orders in Action**
-   - Suppose you submit a **limit buy order** for 2 shares of Netflix at $180 each.
-     - This means you are willing to buy Netflix shares for up to $180.
-   - Another investor submits a **limit sell order** for 4 shares at $179.90 each.
-     - This means they are willing to sell Netflix shares for at least $179.90.
-   - Since the selling price ($179.90) is lower than your buying price ($180), the trade is executed.
-     - You buy 2 shares: 1 share at $179.90 and the other at $179.80.
+   - Suppose you submit a **limit buy order** for 2 shares of Netflix at \$180 each.
+     - This means you are willing to buy Netflix shares for up to \$180.
+   - Another investor submits a **limit sell order** for 4 shares at \$179.90 each.
+     - This means they are willing to sell Netflix shares for at least \$179.90.
+   - Since the selling price (\$179.90) is lower than your buying price (\$180), the trade is executed.
+     - You buy 2 shares: 1 share at \$179.90 and the other at \$179.80.
      - The **average price** you paid is $\frac{179.90 + 179.80}{2} = 179.85$.
 
 #### 5. **The Auction-Like Nature of Stock Trading**
@@ -91,7 +91,7 @@ Betty's pricing strategy is a dynamic process influenced by her costs, the deman
    - **Risk and Reward**: Market makers take on risk but are compensated through:
      - **Commissions and Fees**
      - **Bid-Ask Spread**: The difference between the bid and ask price.
-       - If the market maker buys shares at $74 and sells them at $74.10, they earn $0.10 per share.
+       - If the market maker buys shares at \$74 and sells them at \$74.10, they earn \$0.10 per share.
 
 #### 8. **Bid-Ask Spread**
    - The **Bid-Ask Spread** is a crucial concept in trading:
@@ -149,7 +149,7 @@ Market makers are essential for maintaining liquidity in the stock market, ensur
 
 #### 3. **The Volume of Tick Data**
    - The sheer volume of tick data can be overwhelming, especially in major stock markets like the **New York Stock Exchange (NYSE)**, which handles **billions** of trades daily.
-   - For context, in 2016, over **$42 trillion** worth of stocks and shares were traded in the US alone, which is more than twice the GDP of the entire country.
+   - For context, in 2016, over **\$42 trillion** worth of stocks and shares were traded in the US alone, which is more than twice the GDP of the entire country.
    - Handling such massive data in real-time can slow down decision-making processes for traders who need to act quickly.
 
 #### 4. **Challenges of Processing Tick Data**
@@ -225,7 +225,7 @@ By summarizing tick data into OHLC measures, investors can efficiently analyze a
    - **High Volume**: 
      - When a large number of shares are traded, it typically leads to more significant price changes. 
      - Example: If many investors believe that Acme Inc. is about to launch a new product and start buying large volumes of stock, the increased demand drives up the price.
-     - For instance, if Acme’s stock is initially at $100 and investors buy 100,000 shares, the demand spike could push the price to $120 per share.
+     - For instance, if Acme’s stock is initially at \$100 and investors buy 100,000 shares, the demand spike could push the price to \$120 per share.
    - **Low Volume**: 
      - When fewer shares are traded, price movements tend to be less dramatic.
      - Example: If there’s little new information about Acme, and some investors decide to sell their shares, the price might gradually decrease as selling pressure builds up.

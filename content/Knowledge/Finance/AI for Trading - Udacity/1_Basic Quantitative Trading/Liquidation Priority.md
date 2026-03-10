@@ -37,7 +37,7 @@ date: 2001-01-01
 Let’s say Gojek were to liquidate:
 
 - Early investors like Sequoia and SoftBank (who held **preferred shares**) would have **liquidation preference clauses**, e.g., “2x liquidation preference.”  
-    → If they invested $10 million, they’d be entitled to $20 million before common shareholders (like founders or employees with stock options) get anything.
+    → If they invested \$10 million, they’d be entitled to \$20 million before common shareholders (like founders or employees with stock options) get anything.
     
 - Founders or employees holding **common stock** would receive payment **only after** all debt, liabilities, and preferred claims are settled.
     

@@ -130,13 +130,13 @@ Many believe that being the boss gives you total flexibility and control over yo
 ### Financial Rewards and Impact: Startup vs. Late-Stage Companies
 Many people are attracted to the idea of having a larger equity stake and potential financial reward in a startup. But is it always true?
 1. **Example: Dropbox vs. [[Facebook]]**:
-   - Employee #100 at Dropbox: potential to earn $10 million.
-   - Employee #100 at [[Facebook]]: potential to earn $200 million.
-   - Even employee #1,000 at [[Facebook]] in 2009 made $20 million.
+   - Employee #100 at Dropbox: potential to earn \$10 million.
+   - Employee #100 at [[Facebook]]: potential to earn \$200 million.
+   - Even employee #1,000 at [[Facebook]] in 2009 made \$20 million.
    
 2. **Theoretical Startup**: 
-   - Let’s consider starting a company like “Uber for Pet Sitting,” aiming for a $100 million valuation. Your equity stake would likely be 10% after dilution, so you’d have $10 million potential earnings.
-   - If your startup idea is even bigger, like "Uber for Space Travel" with a $2 billion valuation, your potential return would be much larger.
+   - Let’s consider starting a company like “Uber for Pet Sitting,” aiming for a \$100 million valuation. Your equity stake would likely be 10% after dilution, so you’d have \$10 million potential earnings.
+   - If your startup idea is even bigger, like "Uber for Space Travel" with a \$2 billion valuation, your potential return would be much larger.
 
 ### Financial Reward and Impact in Late-Stage Companies
 The financial reward and impact from joining a late-stage company can be significant:

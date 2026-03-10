@@ -1449,7 +1449,7 @@ And the answer is, you just add those up.
 
 ### 27. Robot Sensing 7-goEMc0w58xM.en
 
-So here's the $100,000 question. What is our normalizer?
+So here's the \$100,000 question. What is our normalizer?
 
 ### 28. Robot Sensing 8-hyAQ28MYmc4.en
 
@@ -1859,11 +1859,11 @@ Hi I'm Louis. Welcome to the linear regression section of this Nanodegree. The t
 
 ### 02. DLND REG 01 Quiz Housing Prices V2-8CSBiVKu35Q.en
 
-So let's say we're studying the housing market and our task is to predict the price of a house given its size. So we have a small house that costs $70,000 and a big house that costs $160,000. We'd like to estimate the price of these medium-sized house over here. So how do we do it? Well, first we put them in a grid where the x-axis represents the size of the house in square feet and the y-axis represents the price of the house. And to help us out, we have collected some previous data in the form of these blue dots. These are other houses that we've looked at and we've recorded their prices with respect to their size. And here we can see the small house is priced at $70,000 and the big one at $160,000. Now it's time for a small quiz. What do you think is the best estimate for the price of the medium house given this data? Would it be $80,000, $120,000 or $190,000? Submit your answer.
+So let's say we're studying the housing market and our task is to predict the price of a house given its size. So we have a small house that costs \$70,000 and a big house that costs \$160,000. We'd like to estimate the price of these medium-sized house over here. So how do we do it? Well, first we put them in a grid where the x-axis represents the size of the house in square feet and the y-axis represents the price of the house. And to help us out, we have collected some previous data in the form of these blue dots. These are other houses that we've looked at and we've recorded their prices with respect to their size. And here we can see the small house is priced at \$70,000 and the big one at \$160,000. Now it's time for a small quiz. What do you think is the best estimate for the price of the medium house given this data? Would it be \$80,000, \$120,000 or \$190,000? Submit your answer.
 
 ### 03. Solution  Housing Prices-uhdTulw9-Nc.en
 
-Well to help us out, we can see that these points can form a line. And we can draw the line that best fits this data. Now on this line, we can see that our best guess for the price of the house is this point here over the line which corresponds to $120000. So if you said $120000, that is correct. This method is known as linear regression. You can think of linear regression as a painter who would look at your data and draw the best fitting line through it. And you may ask, "How do we find this line?" Well, that's what the rest of the section will be about.
+Well to help us out, we can see that these points can form a line. And we can draw the line that best fits this data. Now on this line, we can see that our best guess for the price of the house is this point here over the line which corresponds to \$120000. So if you said \$120000, that is correct. This method is known as linear regression. You can think of linear regression as a painter who would look at your data and draw the best fitting line through it. And you may ask, "How do we find this line?" Well, that's what the rest of the section will be about.
 
 ### 04. Fitting A Line-gkdoknEEcaI.en
 

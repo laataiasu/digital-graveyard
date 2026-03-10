@@ -12,10 +12,10 @@ date: 2001-01-01
     - Mentions other types of IRAs, such as Roth IRA and SEP IRAs, but concentrates on traditional IRA details.
 - **IRA Contribution Limits:**
     - Individuals can contribute a certain amount of their income to a traditional IRA.
-    - Contribution limits vary based on age and the year, e.g., $5,000 for individuals under 50 in 2010.
+    - Contribution limits vary based on age and the year, e.g., \$5,000 for individuals under 50 in 2010.
 - **Tax Advantage of IRA:**
     - Contributions to a traditional IRA are not taxed in the short term.
-    - Example: If in a 32% tax bracket, contributing $5,000 means saving $1,600 in taxes.
+    - Example: If in a 32% tax bracket, contributing \$5,000 means saving \$1,600 in taxes.
 - **IRA Withdrawal Penalty:**
     - Emphasizes that withdrawing from an IRA before age 59 1/2 incurs penalties and taxes.
     - IRA is designed to encourage long-term savings for retirement.
@@ -23,7 +23,7 @@ date: 2001-01-01
     - Investments made within an IRA can be traded, bought, and sold.
     - However, cashing out before retirement age incurs penalties.
 - **Investment Example:**
-    - Demonstrates a hypothetical scenario where $5,000 is invested in stocks within an IRA.
+    - Demonstrates a hypothetical scenario where \$5,000 is invested in stocks within an IRA.
     - Contrasts with a scenario outside an IRA, where taxes are paid on gains.
 - **Capital Gains and Taxes:**
     - Explains the concept of capital gains and the tax implications.
@@ -55,7 +55,7 @@ date: 2001-01-01
 - **Flexibility:**
     - Roth IRA allows penalty-free withdrawal of the original contribution amount at any time.
 - **Scenario Analysis:**
-    - Sal presents a numerical example involving a $5,000 initial investment in both Traditional and Roth IRAs.
+    - Sal presents a numerical example involving a \$5,000 initial investment in both Traditional and Roth IRAs.
     - Compares the tax implications, penalties, and final amounts in various withdrawal scenarios.
     - Highlights Roth IRA's flexibility in early withdrawals.
 - **Retirement Withdrawals:**

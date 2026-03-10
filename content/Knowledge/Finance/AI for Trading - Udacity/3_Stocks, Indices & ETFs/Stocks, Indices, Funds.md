@@ -9,7 +9,7 @@ date: 2001-01-01
    - **Stocks**: When a company divides its equity into smaller units, these units are called stocks or shares. Stocks represent ownership in the company. The terms "stocks" and "shares" are often used interchangeably, although "stocks" usually refer to ownership in multiple companies, while "shares" refer to ownership in a specific company.
    - **Shares**: When you own shares, you own a portion of the company's equity. This gives you certain rights, such as voting on company decisions and receiving a portion of the profits, usually in the form of dividends.
 
-   **Example**: If a company is valued at $1,000,000 and it issues 100,000 shares, each share represents 1/100,000th of the company's equity. If you buy 1,000 shares, you own 1% of the company.
+   **Example**: If a company is valued at \$1,000,000 and it issues 100,000 shares, each share represents 1/100,000th of the company's equity. If you buy 1,000 shares, you own 1% of the company.
 
 ### **Buying Stocks**
    - When an investor buys stocks, they are purchasing partial ownership of a company's equity. This means they now own a piece of the company and can potentially benefit from the company's growth and profits.
@@ -45,11 +45,11 @@ date: 2001-01-01
      \text{Market Cap} = \text{Number of Shares Outstanding} \times \text{Price per Share}
      $$
    - **Categories**:
-     - **Large-Cap**: Companies with a large market cap, typically over $10 billion. These are often established companies with a stable market presence.
-     - **Mid-Cap**: Companies with a market cap between $2 billion and $10 billion. They might be in a growth phase but are more established than small-cap companies.
-     - **Small-Cap**: Companies with a market cap under $2 billion. These are often newer companies with higher growth potential but also higher risk.
+     - **Large-Cap**: Companies with a large market cap, typically over \$10 billion. These are often established companies with a stable market presence.
+     - **Mid-Cap**: Companies with a market cap between \$2 billion and \$10 billion. They might be in a growth phase but are more established than small-cap companies.
+     - **Small-Cap**: Companies with a market cap under \$2 billion. These are often newer companies with higher growth potential but also higher risk.
 
-   **Example**: If a company has 50 million shares outstanding, and each share is priced at $20, the market cap is:
+   **Example**: If a company has 50 million shares outstanding, and each share is priced at \$20, the market cap is:
    $$
    \text{Market Cap} = 50,000,000 \times 20 = \$1,000,000,000
    $$
@@ -115,7 +115,7 @@ date: 2001-01-01
 ### **Market Cap Weighting in Indices**
    - **Market-Cap Weighted Index**:
      - In a market-cap weighted index, stocks are weighted according to their market capitalization. Larger companies have a greater impact on the index.
-     - **Example**: The **Wilshire 5000** Index is market-cap weighted. If Nvidia (with a market cap of $160 billion) and iRobot (with a market cap of $1.8 billion) both experience a 1% price change, Nvidia's price change will have a much larger effect on the Wilshire 5000 Index.
+     - **Example**: The **Wilshire 5000** Index is market-cap weighted. If Nvidia (with a market cap of \$160 billion) and iRobot (with a market cap of \$1.8 billion) both experience a 1% price change, Nvidia's price change will have a much larger effect on the Wilshire 5000 Index.
      - Major indices like the **S&P 500**, **FTSE**, **Hang Seng**, and **EURO STOXX** use market cap weighting to reflect the influence of large companies on the market.
 
 ### **Adding or Removing Stocks from an Index**
@@ -152,17 +152,17 @@ When an index like the S&P 500 undergoes changes due to adding or removing compa
 
 - **Scenario**: Monsanto was removed from the S&P 500 and replaced by [[Twitter]].
   - **Market Cap Before and After**: 
-    - Monsanto had a market cap of about $50 billion.
-    - [[Twitter]], which replaced Monsanto, had a market cap of about $30 billion at the time of replacement.
-  - **Placeholder Example**: Imagine a placeholder company called "Monsan[[Twitter]]" representing Monsanto before and [[Twitter]] after the change. The market cap of Monsan[[Twitter]] changes from $50 billion to $30 billion overnight.
+    - Monsanto had a market cap of about \$50 billion.
+    - [[Twitter]], which replaced Monsanto, had a market cap of about \$30 billion at the time of replacement.
+  - **Placeholder Example**: Imagine a placeholder company called "Monsan[[Twitter]]" representing Monsanto before and [[Twitter]] after the change. The market cap of Monsan[[Twitter]] changes from \$50 billion to \$30 billion overnight.
   - **Index Calculation**:
     - To adjust the index, we calculate the percentage change in the total market cap caused by the swap.
-    - If the total market cap decreases from $50 billion to $30 billion, this represents a significant drop.
+    - If the total market cap decreases from \$50 billion to \$30 billion, this represents a significant drop.
     - The percentage change is then applied to the previous index value to determine the new index level.
 
 **Example Calculation**:
 - Suppose the S&P 500 index value was 2500 before the replacement.
-- The market cap change is from $50 billion to $30 billion, which is a 40% decrease.
+- The market cap change is from \$50 billion to \$30 billion, which is a 40% decrease.
 - The new index value would be calculated by multiplying the previous index value by the percentage change:
   $$
   \text{New Index Value} = \text{Previous Index Value} \times \left(1 - \frac{50 \text{ billion} - 30 \text{ billion}}{50 \text{ billion}}\right)
@@ -294,37 +294,37 @@ Consider this question:
 #### **How Open-End Mutual Funds Work**
 
 1. **Initial Investment and Share Issuance**
-   - Investors purchase shares of the fund, which are initially priced at $100 per share.
+   - Investors purchase shares of the fund, which are initially priced at \$100 per share.
    - The fund uses this money to invest in a portfolio of assets (e.g., stocks).
-   - Example: With 10 investors each buying 1 share at $100, the fund collects $1,000 in assets under management (AUM).
+   - Example: With 10 investors each buying 1 share at \$100, the fund collects \$1,000 in assets under management (AUM).
 
 2. **Price Fluctuation and New Investments**
    - If the value of the portfolio increases, the price per share rises.
-   - Example: After a month, the portfolio's value increases to $1,200, making each share worth $120.
-   - A new investor buys a share for $120. The fund now has $1,320 in total assets and 11 shares outstanding.
+   - Example: After a month, the portfolio's value increases to \$1,200, making each share worth \$120.
+   - A new investor buys a share for \$120. The fund now has \$1,320 in total assets and 11 shares outstanding.
 
 #### **Handling Withdrawals**
 
 1. **Maintaining Cash Reserves**
    - Open-end funds need to keep a portion of their assets in cash to handle potential withdrawals.
-   - Example: If a fund with 10 shares valued at $100 each must pay out $100 for a share redemption, it must have cash available.
+   - Example: If a fund with 10 shares valued at \$100 each must pay out \$100 for a share redemption, it must have cash available.
 
 2. **Impact on Fund's Asset Value**
    - When shares are redeemed, the number of shares outstanding decreases, and the fund's total assets decrease accordingly.
-   - Example: If one share is redeemed, the fund’s total assets drop to $900, and it has 9 shares remaining.
+   - Example: If one share is redeemed, the fund’s total assets drop to \$900, and it has 9 shares remaining.
 
 #### **Impact of Cash Reserves on Returns**
 
 1. **Cash vs. Investment Returns**
    - Holding cash affects the overall return of the fund because cash typically earns a lower return compared to invested assets.
-   - Example: A fund with $1 million in total assets, where half is invested in equities (earning 10%) and half in cash (earning 2%).
+   - Example: A fund with \$1 million in total assets, where half is invested in equities (earning 10%) and half in cash (earning 2%).
 
 2. **Calculating Total Return**
    - Weighted average return is calculated based on the proportion of assets in different investments.
    - Calculation:
-     - Return from equities: $0.5 \times 10\% = 5\%$
-     - Return from cash: $0.5 \times 2\% = 1\%$
-     - Total return: $5\% + 1\% = 6\%$
+     - Return from equities: \$0.5 \times 10\% = 5\%$
+     - Return from cash: \$0.5 \times 2\% = 1\%$
+     - Total return: \$5\% + 1\% = 6\%$
 
    - The total return of the fund is 6%, which is lower than the 10% return from equities alone.
 

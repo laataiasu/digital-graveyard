@@ -579,7 +579,7 @@ Where:
 This formula tells us how much the distribution of data deviates from the mean and in which direction.
 
 - **Positive skewness**: When $S > 0$, the distribution has a longer tail on the right.
-- **Negative skewness**: When $S < 0$, the distribution has a longer tail on the left.
+- **Negative skewness**: When \$S < 0$, the distribution has a longer tail on the left.
 
 ### 2. Computing Skewness: Example
 

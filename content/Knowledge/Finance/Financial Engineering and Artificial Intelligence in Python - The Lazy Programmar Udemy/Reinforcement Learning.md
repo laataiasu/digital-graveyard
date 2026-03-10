@@ -350,7 +350,7 @@ Here, $\gamma$ (Gamma) is the **discount factor**, a value between 0 and 1 that 
 - **Gamma ($\gamma$)**: If $\gamma$ is close to 1 (e.g., 0.99), future rewards are nearly as important as immediate rewards. If $\gamma$ is much less than 1, immediate rewards are prioritized much higher than future ones.
 
 ### **Analogy: Present Value of Money**
-- **Money Example**: Similar to preferring $100 today over $100 ten years from now, the agent prefers immediate rewards over those in the distant future.
+- **Money Example**: Similar to preferring \$100 today over \$100 ten years from now, the agent prefers immediate rewards over those in the distant future.
 - **Discount Factor in Money**: Just like interest rates reduce the future value of money, the discount factor reduces the value of future rewards.
 
 ### **Recursive Definition of Return**
@@ -674,7 +674,7 @@ In reinforcement learning (RL), the **explore-exploit dilemma** is a fundamental
 
 ### Problem Setup
 
-Imagine you're playing a simplified version of slot machines, where each machine has a different probability of winning (rewarding you with $1). The problem is, you don’t know these probabilities in advance. You have two options:
+Imagine you're playing a simplified version of slot machines, where each machine has a different probability of winning (rewarding you with \$1). The problem is, you don’t know these probabilities in advance. You have two options:
 
 1. **Explore**: Try each slot machine multiple times to gather data and estimate their probabilities.
 2. **Exploit**: Play the slot machine that you currently believe has the highest probability of winning, based on the data you've collected so far.

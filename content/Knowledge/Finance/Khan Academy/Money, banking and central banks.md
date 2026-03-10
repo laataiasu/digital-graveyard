@@ -107,10 +107,10 @@ date: 2001-01-01
 - The private investor can benefit from the upside if the asset's value increases, while losses are limited.
 - The viability of the plan raises questions if investors believe the assets are worth less than the government's suggested price.
 ## **Geithner plan 2**
-- The speaker discusses a banking crisis where a bank holds toxic assets worth $100, with $60 in liabilities and $40 in equity.
+- The speaker discusses a banking crisis where a bank holds toxic assets worth \$100, with \$60 in liabilities and \$40 in equity.
 - Due to market conditions, the bank can't sell the assets for the desired price, risking bankruptcy.
-- The proposed solution involves a public-private partnership, where a new entity is formed with $5 from a private investor, $5 from the Treasury, and $50 borrowed from the Federal Reserve.
-- This new entity, capitalized at $60, buys the toxic assets from the bank, providing liquidity for the bank.
+- The proposed solution involves a public-private partnership, where a new entity is formed with \$5 from a private investor, \$5 from the Treasury, and \$50 borrowed from the Federal Reserve.
+- This new entity, capitalized at \$60, buys the toxic assets from the bank, providing liquidity for the bank.
 - The private investor takes the risk in hopes of making a profit if the assets appreciate, sharing the upside with the Treasury.
 - The speaker raises concerns about the likelihood of the assets appreciating and suggests that the plan might result in a significant wealth transfer from taxpayers to banks.
 - The speaker criticizes the potential for banks to manipulate the system by creating a separate entity, borrowing money from the government, and controlling the pricing of their own assets.
@@ -118,9 +118,9 @@ date: 2001-01-01
 - The speaker expresses concern about the implications of such a plan and emphasizes the need for public awareness and scrutiny.
 ## **Geithner plan 3**
 - Geithner's second video explores a scenario where a bank reduces its exposure to a toxic asset without being an affiliate, using a hypothetical balance sheet.
-- Describes a situation where a bank sells credit default swaps (CDS) on a toxic asset (Asset A) to a hedge fund, creating a $7 exposure through a CDS liability.
-- The hedge fund then invests in the Geithner Plan, contributing $7 to the equity, alongside $7 from the Treasury and $86 from the Fed, resulting in $100 to buy toxic assets.
-- If Asset A performs well, the hedge fund benefits from the Geithner Plan, while if it defaults, the hedge fund claims $7 from the bank through the CDS.
+- Describes a situation where a bank sells credit default swaps (CDS) on a toxic asset (Asset A) to a hedge fund, creating a \$7 exposure through a CDS liability.
+- The hedge fund then invests in the Geithner Plan, contributing \$7 to the equity, alongside \$7 from the Treasury and \$86 from the Fed, resulting in \$100 to buy toxic assets.
+- If Asset A performs well, the hedge fund benefits from the Geithner Plan, while if it defaults, the hedge fund claims \$7 from the bank through the CDS.
 - Suggests this economic maneuver achieves the same outcome as the Geithner Plan without being an affiliate, using CDS sales to indirectly facilitate the desired transaction.
 - Raises concerns about the potential exploitation of the plan's incentives and the lack of safeguards against such behavior.
 ## **Geithner plan 4**
@@ -128,27 +128,27 @@ date: 2001-01-01
 - Describes the program structure: 85% Fed loan, 15% private investor and Treasury equity split.
 - Emphasizes the split of upside and downside between private investor and Treasury.
 - Proposes a strategy to maximize upside while limiting downside by setting aside cash.
-- Uses an example where the private investor would typically pay $30 for a security.
-- Allocates 15% ($4.50) for the program and sets aside the remaining $25.50 in cash.
+- Uses an example where the private investor would typically pay \$30 for a security.
+- Allocates 15% (\$4.50) for the program and sets aside the remaining \$25.50 in cash.
 - Demonstrates the investment scenarios and potential outcomes based on the eventual value of the securities.
 - Illustrates a payoff diagram comparing the proposed strategy with a traditional straight-up investment.
 - Concludes with the idea that the government is providing a form of insurance or subsidy, setting the stage for further analysis in the next video.
 ## **Geithner plan 5**
-- The speaker discusses a scenario in which the upside in an investment is maximized, while the downside is limited to 15% of the investment or $25.50.
-- A correction is made regarding a previous video, clarifying that the correct downside limit was $25.50, not $24.50.
-- The strategy involves setting aside $25.50, using $4.50 for participation in a plan, having the Treasury and Fed contribute, and ultimately buying $60 worth of security instead of paying $30 upfront.
-- The speaker presents a payoff diagram, illustrating that losses are limited to $4.50 in any scenario where the security's value is less than $25.50.
+- The speaker discusses a scenario in which the upside in an investment is maximized, while the downside is limited to 15% of the investment or \$25.50.
+- A correction is made regarding a previous video, clarifying that the correct downside limit was \$25.50, not \$24.50.
+- The strategy involves setting aside \$25.50, using \$4.50 for participation in a plan, having the Treasury and Fed contribute, and ultimately buying \$60 worth of security instead of paying \$30 upfront.
+- The speaker presents a payoff diagram, illustrating that losses are limited to \$4.50 in any scenario where the security's value is less than \$25.50.
 - A comparison is made between the described strategy and a conventional approach using an insurance contract (put option) to achieve a similar payoff structure.
-- The speaker emphasizes the government's role in providing a put option with a $25.50 strike price, estimating the subsidy's value using an options calculator.
-- Theoretical calculations suggest the subsidy could be in the $15-$20 range, indicating the benefit given to private investors.
+- The speaker emphasizes the government's role in providing a put option with a \$25.50 strike price, estimating the subsidy's value using an options calculator.
+- Theoretical calculations suggest the subsidy could be in the \$15-\$20 range, indicating the benefit given to private investors.
 - The speaker questions the effectiveness of the government's plan, suggesting that rational investors might not pay the prices needed for banks to benefit.
 - Concerns are raised about potential transfers of wealth from taxpayers to banks or hedge funds through the government's intervention.
 - The speaker hints at addressing liquidity concerns in the next video and proposes alternative solutions to the financial crisis.
 ## **Geithner plan 6: A better solution**
 - Recent videos critique the Geithner Plan, highlighting its potential shortcomings.
-- Market willing to pay $30 for a security, even with the government's free put option.
-- Rational investors may only be willing to pay $40 to $50, falling short of the banks' needs.
-- Banks unwilling to sell below $60; selling at lower prices could render them insolvent.
+- Market willing to pay \$30 for a security, even with the government's free put option.
+- Rational investors may only be willing to pay \$40 to \$50, falling short of the banks' needs.
+- Banks unwilling to sell below \$60; selling at lower prices could render them insolvent.
 - Geithner Plan criticized for potential ineffectiveness.
 - Alternative scenario: Banks creating off-balance-sheet investors to buy assets at higher prices.
 - Emphasis on the illiquidity of the market due to forced sellers and limited buyers.
@@ -169,11 +169,11 @@ date: 2001-01-01
 - Objective: Explain the functioning of a currency market intuitively.
 - Clarification of currency terms: Renminbi and yuan (unit of the renminbi) in the context of Chinese currency.
 - Hypothetical scenario: Exchange rate of 10 yuan per U.S. dollar.
-- Scenario setup: 1,000 yuan needs to be converted to dollars; $200 needs to be converted to yuan.
-- Actors involved: Person with 1,000 yuan, two people with $100 each to convert.
+- Scenario setup: 1,000 yuan needs to be converted to dollars; \$200 needs to be converted to yuan.
+- Actors involved: Person with 1,000 yuan, two people with \$100 each to convert.
 - Market imbalance: More demand to convert dollars into yuan than yuan into dollars.
-- Attempt to exchange at quoted rates: Expectation that $200 can be converted into 2,000 yuan; however, only 1,000 yuan is available for trade.
-- Market adjustment: Seller offers 100 yuan for $10; one person accepts, triggering a shift in the exchange rate to 9 yuan per dollar.
+- Attempt to exchange at quoted rates: Expectation that \$200 can be converted into 2,000 yuan; however, only 1,000 yuan is available for trade.
+- Market adjustment: Seller offers 100 yuan for \$10; one person accepts, triggering a shift in the exchange rate to 9 yuan per dollar.
 - Continuous adjustment: Due to an imbalance, the person with yuan keeps offering fewer yuan per dollar until all currencies are exchanged.
 - Result: No fixed formula dictates the exchange rate; it fluctuates based on supply and demand. More demand for yuan raises its price and lowers the value of the dollar.
 - Takeaway: Foreign exchange rates are determined by supply and demand dynamics, with market forces dictating the fluctuations based on imbalances in currency demand and supply.
@@ -182,25 +182,25 @@ date: 2001-01-01
 - Initially, the exchange rate between Chinese yuan and U.S. dollar is 10:1.
 - Two entrepreneurs are introduced, one in [[China]] and one in the U.S.
 - The Chinese entrepreneur sells dolls for 10 yuan each, needing to cover costs in yuan.
-- The U.S. entrepreneur sells cola for $1 each, needing to cover costs in dollars.
+- The U.S. entrepreneur sells cola for \$1 each, needing to cover costs in dollars.
 - Demand for 100 dolls in the U.S. and demand for 50 cans of cola in [[China]] are established.
-- A trade imbalance develops, with $100 worth of dolls shipped to the U.S. and $50 worth of cola shipped to [[China]].
-- The Chinese entrepreneur wants to convert $100 into yuan, while the U.S. entrepreneur wants to convert 500 yuan into dollars.
+- A trade imbalance develops, with \$100 worth of dolls shipped to the U.S. and \$50 worth of cola shipped to [[China]].
+- The Chinese entrepreneur wants to convert \$100 into yuan, while the U.S. entrepreneur wants to convert 500 yuan into dollars.
 - The imbalance creates more demand for yuan than dollars.
-- This leads to an adjustment in exchange rates, with the yuan becoming more expensive (8 yuan to $1).
+- This leads to an adjustment in exchange rates, with the yuan becoming more expensive (8 yuan to \$1).
 - As a result, the Chinese dolls become more expensive in dollars, and the U.S. cola becomes cheaper in yuan.
 - This shift in prices reduces demand for dolls in the U.S. (from 100 to 50) and increases demand for cola in [[China]] (from 50 to 80).
 - The trade imbalance is eventually resolved through currency adjustments, impacting the demand for exports in each country.
 ## **Currency effect on trade review**
 - Video focuses on reviewing the concepts discussed in the previous video.
 - Started with an exchange rate of CNY 10 per dollar.
-- Described the scenario where a Chinese manufacturer sells dolls for CNY 10 and a U.S. manufacturer sells cola for $1.
-- Discussed the imbalance in currency conversion demands: Chinese manufacturer wants to convert $100 into CNY 1,000, but there's only CNY 500 available; U.S. manufacturer wants to convert CNY 500 into $50, and there's more demand for Yuan than dollars.
+- Described the scenario where a Chinese manufacturer sells dolls for CNY 10 and a U.S. manufacturer sells cola for \$1.
+- Discussed the imbalance in currency conversion demands: Chinese manufacturer wants to convert \$100 into CNY 1,000, but there's only CNY 500 available; U.S. manufacturer wants to convert CNY 500 into \$50, and there's more demand for Yuan than dollars.
 - Analyzed the impact on currency prices, highlighting that the price of the dollar decreases in terms of Yuan.
 - Introduced a hypothetical exchange rate of CNY 8 per dollar.
-- Explored the consequences of the new exchange rate on the prices of goods: dolls become $1.25 each, and cola becomes CNY 8 per can.
+- Explored the consequences of the new exchange rate on the prices of goods: dolls become \$1.25 each, and cola becomes CNY 8 per can.
 - Adjusted demand for dolls in the U.S. to 60 and for cola in [[China]] to 75 cans.
-- Calculated the trade balance: [[China]] exports 60 dolls ($75) to the U.S., and the U.S. exports 75 cans (CNY 600) to [[China]].
+- Calculated the trade balance: [[China]] exports 60 dolls (\$75) to the U.S., and the U.S. exports 75 cans (CNY 600) to [[China]].
 - Demonstrated that the supply and demand for both currencies are now balanced.
 - Emphasized the idea that freely floating currencies lead to a natural adjustment until trade balances are achieved.
 - Previewed the next video, which will discuss how a government, particularly the Chinese Central Bank, could intervene to prevent such imbalances and maintain a trade advantage.
@@ -248,13 +248,13 @@ date: 2001-01-01
 - Unwinding the cycle could negatively impact both countries, making it difficult to break free from the current economic scenario.
 - The video raises questions about the sustainability of the cycle and its long-term consequences.
 ## **[[China]] keeps peg but diversifies holdings**
-- In 2009, the US had a significant trade deficit with [[China]], importing $260 billion more than it exported.
+- In 2009, the US had a significant trade deficit with [[China]], importing \$260 billion more than it exported.
 - [[China]] kept its currency from appreciating by printing money and using yuan to buy dollar assets.
 - In 2006-2008, there were major increases in US assets held by [[China]], but in 2009, the increase was not enough to offset the trade imbalance.
-- The People's Bank of [[China]] held $929 billion worth of US treasuries in November 2009, making it the largest holder.
+- The People's Bank of [[China]] held \$929 billion worth of US treasuries in November 2009, making it the largest holder.
 - Despite the trade deficit, [[China]]'s holdings of US treasuries decreased from November 2009 to November 2010.
 - [[China]] may have diversified from buying US treasuries to other assets, possibly in the UK or Eurozone, to avoid excessive appreciation of its currency.
-- The United Kingdom, for example, saw a significant increase in holdings from $155 billion to $500 billion in 2010, despite not having a significant trade imbalance with the US.
+- The United Kingdom, for example, saw a significant increase in holdings from \$155 billion to \$500 billion in 2010, despite not having a significant trade imbalance with the US.
 - [[China]]'s slow appreciation of its currency may also contribute to diversification, but the main strategy seems to be moving away from dollar assets.
 - Other countries acquiring non-dollar assets may then seek to buy dollar assets to prevent their currency from appreciating too much.
 ## **Carry trade basics**
@@ -274,10 +274,10 @@ date: 2001-01-01
 ## Floating exchange resolving trade imbalance
 - Video aims to explore how the floating exchange rate could resolve trading imbalances.
 - Assumes simplified scenario: exchange rate between Chinese Yuan and US $ is 6 Yuan per 1 US $.
-- [[China]] exports microwaves to the US at $50 each, demand for 1 million microwaves.
+- [[China]] exports microwaves to the US at \$50 each, demand for 1 million microwaves.
 - US exports software to [[China]] at 60 Yuan per unit, demand for 2 million units.
-- Chinese manufacturer earns $50 million, aims to convert into Yuan, creating supply of US dollars.
-- US manufacturer earns 120 million Yuan, aims to convert into $20 million, creating demand for US dollars.
+- Chinese manufacturer earns \$50 million, aims to convert into Yuan, creating supply of US dollars.
+- US manufacturer earns 120 million Yuan, aims to convert into \$20 million, creating demand for US dollars.
 - Imbalance: Supply of $ > Demand for $, leading to potential devaluation of the dollar.
 - Dollar price drop would make Yuan stronger, affecting prices: Chinese goods become costlier, US goods cheaper in [[China]].
 - Stronger Yuan reduces demand for Chinese goods and increases demand for US goods, resolving imbalance.

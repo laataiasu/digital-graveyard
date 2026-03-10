@@ -38,7 +38,7 @@ docker container start <nama>
 docker container stop <nama> *<nama>
   
   
-docker exec -it nama <$command lanjutan>
+docker exec -it nama <\$command lanjutan>
   
 ### Buat image sendiri
 1. Buat Dockerfile
@@ -48,13 +48,13 @@ FROM golang:1:11:4
 COPY main.go /app/main/go
 CMD ["go" "run" "/app/main.go"]
 ```
-3. run $ docker build --tag app-golang:<tag>
+3. run \$ docker build --tag app-golang:<tag>
 4. Cek pake docker images
 5. Buat push ke repo atau registry
 run
-$ docker tag nama-image:tag repo/nama-image:tag
-$ docker login # kalo belum
-$ docker push repo/nama-image:tag
+\$ docker tag nama-image:tag repo/nama-image:tag
+\$ docker login # kalo belum
+\$ docker push repo/nama-image:tag
   
 ### Logs
 docker logs  

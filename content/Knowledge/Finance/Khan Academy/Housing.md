@@ -21,13 +21,13 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
 ## **Introduction to mortgage loans**
 - Setting: Fixed mortgage calculator on the left, spreadsheet titled "Prepayment" on the right.
 - SAL's objective: Explain what a mortgage is, delve into the numbers, differentiate between interest and loan repayment.
-- Example scenario: SAL wants to buy a $500,000 house, has $125,000 savings, needs a $375,000 loan from the bank.
+- Example scenario: SAL wants to buy a \$500,000 house, has \$125,000 savings, needs a \$375,000 loan from the bank.
 - Title Transfer: Bank holds the home title as security until the loan is paid off (mortgage origin - Old French "dead pledge").
 - Mortgage Loan: Refers to the loan itself; introduces a downloadable spreadsheet for mortgage calculations.
-- Spreadsheet Assumptions (in brown): Interest rate (5.5%), home purchase price ($500,000), down payment (25% or $125,000), loan amount ($375,000), term (30 years), marginal tax rate (35%).
+- Spreadsheet Assumptions (in brown): Interest rate (5.5%), home purchase price (\$500,000), down payment (25% or \$125,000), loan amount (\$375,000), term (30 years), marginal tax rate (35%).
 - Monthly Interest Rate: Calculated as the annual rate divided by 12 (compounded monthly).
-- Mortgage Payment: Using assumptions, monthly payment calculated as approximately $2,129.21.
-- Balance Sheet: Illustrates the house as an asset ($500,000), loan as a liability ($375,000), resulting in equity ($125,000).
+- Mortgage Payment: Using assumptions, monthly payment calculated as approximately \$2,129.21.
+- Balance Sheet: Illustrates the house as an asset (\$500,000), loan as a liability (\$375,000), resulting in equity (\$125,000).
 - Loan Repayment Visualization: Over 30 years, payments shift from interest-heavy to principal-heavy, reducing debt.
 - Interest Tax Deduction: Explained as a benefit where interest paid is tax-deductible but clarified as a deduction from income, not a direct reduction in taxes.
 - Spreadsheet Calculation: SAL demonstrates how tax deductions are calculated using assumptions and monthly interest payments.
@@ -35,8 +35,8 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
 ## **Mortgage interest rates**
 - **Narrator's Explanation of Buying a House:**
     - People usually need to borrow money when buying a house.
-    - Example scenario: House priced at $200,000, with $40,000 saved for a down payment.
-    - Need to borrow $160,000 as a mortgage loan.
+    - Example scenario: House priced at \$200,000, with \$40,000 saved for a down payment.
+    - Need to borrow \$160,000 as a mortgage loan.
 - **Types of Mortgage Loans:**
     - **1. 30-Year Fixed Mortgage:**
         - Payments and interest rate are fixed over 30 years.
@@ -63,7 +63,7 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
     - Emphasis on reading fine details, especially for exotic loans like ARMs, interest-only loans, or option ARMs.
 ## **Short sale basics**
 - **House Purchase Overview:**
-    - House bought for $200,000 with a 25% down payment ($50,000) and a $150,000 bank loan.
+    - House bought for \$200,000 with a 25% down payment (\$50,000) and a \$150,000 bank loan.
     - Monthly payments cover both loan repayment and interest.
 - **Financial Difficulty Scenario:**
     - Circumstances like job loss or financial overestimation lead to payment difficulties.
@@ -71,7 +71,7 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
         - **1. Sale:** Attempt to sell the house.
         - **2. Foreclosure:** Surrender the house to the bank, a less favorable option.
 - **Challenges in Selling the House:**
-    - Housing market deflated, receiving low offers (e.g., $120,000).
+    - Housing market deflated, receiving low offers (e.g., \$120,000).
     - Potential real estate commission deductions reduce the net amount.
 - **Short Sale as an Option:**
     - Selling the house for less than the outstanding loan amount.
@@ -123,11 +123,11 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
 - The video emphasizes that a Hybrid ARM is a compromise between Fixed Rate Mortgages and Adjustable Rate Mortgages, offering a balance of payment stability and flexibility based on the borrower's scenario.
 ## **Balloon payment mortgage**
 - The graph depicts a hand-drawn stacked column chart illustrating payments on a 30-year fixed mortgage.
-- The mortgage has a fixed monthly payment of $1432, with a loan amount of $300,000.
+- The mortgage has a fixed monthly payment of \$1432, with a loan amount of \$300,000.
 - Payments are shown for each month, with the majority initially going towards interest and gradually shifting towards principal over the 30-year period.
 - The term "amortization" is introduced, indicating the spreading out of payments over the 30-year period.
 - The video transitions to discussing balloon payment mortgages, where the term of the loan (e.g., 10 years) differs from the amortization period (e.g., 30 years).
-- After the initial term, the borrower must pay back the remaining principal, illustrated by an example of $236,352 remaining after 10 years.
+- After the initial term, the borrower must pay back the remaining principal, illustrated by an example of \$236,352 remaining after 10 years.
 - Balloon payment mortgages are explained as a way to share interest rate risk between the bank and the borrower.
 - Borrowers may opt for a balloon payment mortgage if they anticipate selling the property within the initial term or if they expect a financial windfall.
 - The option to take out another loan after the initial term is discussed, with considerations for credit history and income.
@@ -135,14 +135,14 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
 ## **Finite geometric series word problem: mortgage**
 - Sal introduces the video as an exploration of the mathematical aspects of mortgage loans rather than a finance-focused discussion.
 - He poses a fundamental question about how mortgage payments are calculated when taking out a loan for a house.
-- Using a hypothetical example of a $200,000 mortgage loan with a 6% annual interest rate compounded monthly over 30 years (360 months), Sal delves into the mathematical details of the payment process.
+- Using a hypothetical example of a \$200,000 mortgage loan with a 6% annual interest rate compounded monthly over 30 years (360 months), Sal delves into the mathematical details of the payment process.
 - The process involves compounding interest and deducting monthly payments, repeating for 360 months.
 - Sal presents the formula for the mortgage payment (P) and expresses it in abstract terms with variables: L (loan amount), I (monthly interest rate), N (number of months), and P (monthly mortgage payment).
 - He establishes the abstract formula as a complex equation involving compounding and payments repeated for N months, resulting in the equation L = P * (1/ (1 + I) + 1/ (1 + I)^2 + ... + 1/ (1 + I)^N).
 - Sal explores a geometric series and introduces a simplifying definition: R = 1/(1 + I). The geometric series equation becomes S = R - R^(N+1) / (1 - R).
 - Utilizing this, Sal rewrites the mortgage equation as L = P * (R - R^(N+1) / (1 - R)).
 - He then solves for P, providing the final formula for calculating the mortgage payment: P = L * (1 - R) / (R - R^(N+1)).
-- Applying the formula to a scenario with a $200,000 loan, 6% annual interest, and a 30-year term, Sal calculates the monthly mortgage payment to be approximately $1200.
+- Applying the formula to a scenario with a \$200,000 loan, 6% annual interest, and a 30-year term, Sal calculates the monthly mortgage payment to be approximately \$1200.
 - Sal concludes by emphasizing that the video provides insight into the mathematical process behind determining mortgage payments, eliminating the need for tables or spreadsheets for experimentation.
 # [**Home buying process**](https://www.khanacademy.org/economics-finance-domain/core-finance/housing/home-buying-process/v/titles-and-deeds-in-real-estate)
 ## **Titles and deeds in real estate**
@@ -212,10 +212,10 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
     - Emphasis on the importance of protection despite the infrequency of issues.
 ## **Making an offer on a home**
 - **House on the Market:**
-    - House listed for $310,000 and has been on the market for a few weeks.
+    - House listed for \$310,000 and has been on the market for a few weeks.
 - **Decision to Make an Offer:**
     - Interested buyer decides to make an offer as they believe they can get a better deal than the asking price.
-    - Offers $300,000.
+    - Offers \$300,000.
 - **Creating an Offer Contract:**
     - Buyer doesn't directly approach the seller but fills out an offer contract to demonstrate seriousness.
     - Basic information in the offer contract includes property details, buyer, and seller information.
@@ -241,7 +241,7 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
     - A tempting offer may involve fewer contingencies and an earlier closing date.
 ## **Escrow**
 - **Offer and Contract Creation:**
-    - House on the market for $310,000, buyer offers $300,000.
+    - House on the market for \$310,000, buyer offers \$300,000.
     - Offer contract created with details, including earnest deposit to show seriousness.
 - **Contingencies in Offer:**
     - Contingencies listed, such as inspection, financing, insurance, and clear title.
@@ -253,7 +253,7 @@ https://docs.google.com/spreadsheets/d/1Zltc3F3H8n0WxKfqoyMEJuc1vXfORPu2m-a80q9R
     - If the offer is accepted, both parties sign the contract, and the transaction moves forward.
 - **Opening of Escrow:**
     - Escrow account is opened with a trusted third-party escrow agent.
-    - Deposit (e.g., $9,000) goes into the escrow account to ensure commitment.
+    - Deposit (e.g., \$9,000) goes into the escrow account to ensure commitment.
 - **Escrow Function:**
     - Escrow acts as a neutral party holding funds and documents until the conditions are met.
 - **Escrow Period Activities:**

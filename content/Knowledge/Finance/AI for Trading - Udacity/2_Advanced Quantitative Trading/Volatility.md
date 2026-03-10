@@ -174,7 +174,7 @@ $$
 This is a straightforward arithmetic average, where each squared log return is weighted equally.
 
 ### Step 3: Introducing the Exponential Weighting
-To give more weight to recent observations, we introduce a parameter $\lambda$ (where $0 < \lambda < 1$). The weight for the log return $r_{t-i}^2$ is then $\lambda^i$.
+To give more weight to recent observations, we introduce a parameter $\lambda$ (where \$0 < \lambda < 1$). The weight for the log return $r_{t-i}^2$ is then $\lambda^i$.
 
 The weighted sum becomes:
 

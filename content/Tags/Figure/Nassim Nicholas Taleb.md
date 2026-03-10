@@ -832,10 +832,10 @@ If you plot the value of a security over time, the MDD is the largest vertical d
 Using percentages for drawdowns can be misleading. Here's why:
 
 - **Non-Additivity of Percentages:**
-  - Suppose a stock price rises from $100 to $200 (a 100% gain) and then falls back to $100 (a 50% loss). The sum of these percentages (100% - 50%) doesn’t correctly represent the return, as the stock is back to its original value, meaning no net return.
+  - Suppose a stock price rises from \$100 to \$200 (a 100% gain) and then falls back to \$100 (a 50% loss). The sum of these percentages (100% - 50%) doesn’t correctly represent the return, as the stock is back to its original value, meaning no net return.
 
 - **Symmetry Issue:**
-  - A 50% loss followed by a 50% gain doesn't bring you back to the original value. For example, if you drop from $100 to $50 (a 50% loss) and then gain 50%, you only go back to $75, not $100.
+  - A 50% loss followed by a 50% gain doesn't bring you back to the original value. For example, if you drop from \$100 to \$50 (a 50% loss) and then gain 50%, you only go back to \$75, not \$100.
 
 ### Why Use Logarithms?
 

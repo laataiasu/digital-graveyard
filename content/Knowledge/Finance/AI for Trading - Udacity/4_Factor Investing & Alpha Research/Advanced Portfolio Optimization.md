@@ -498,7 +498,7 @@ When managing portfolios, even when two portfolios employ the same underlying st
 
 2. **Impact of Liquidity Constraints**:
    - **Portfolio Size and Liquidity**: Different portfolios may have different amounts of capital, which impacts how liquidity constraints affect them. A smaller portfolio can take a larger position (relative to its size) in a less liquid stock, while a larger portfolio might be severely constrained.
-   - **Example**: Consider a stock with a daily trading volume of $1 million. A smaller portfolio with $1 million in capital might take a 10% ($100k) position, aligning with the stock's liquidity. In contrast, a $100 million portfolio would aim for a $10 million position, far exceeding the stock's daily volume, and would therefore be forced to take a much smaller position.
+   - **Example**: Consider a stock with a daily trading volume of \$1 million. A smaller portfolio with \$1 million in capital might take a 10% (\$100k) position, aligning with the stock's liquidity. In contrast, a \$100 million portfolio would aim for a \$10 million position, far exceeding the stock's daily volume, and would therefore be forced to take a much smaller position.
 
 3. **Effects on Client Portfolios**:
    - **Diverse Outcomes for Clients**: In practice, this means that if you're running the same strategy for different clients with varying amounts of capital and constraints, their portfolios will likely diverge and produce different returns, even if they start with the same strategy.

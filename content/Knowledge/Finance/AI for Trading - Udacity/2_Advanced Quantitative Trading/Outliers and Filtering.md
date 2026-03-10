@@ -13,7 +13,7 @@ When we talk about outliers in market data, we're discussing data points that ar
 1. **Human Error:**
    - Outliers can result from mistakes made during data entry or processing. These are often referred to as "fat finger errors." For example:
      - In 2001, a trader at UBS Warburg made a costly mistake by selling 610,000 shares at 60 yen instead of selling six shares at 610,000 yen, resulting in a loss of £71 million.
-     - In 2015, a junior employee at Deutsche Bank mistakenly processed a trade using a gross figure instead of a net figure, leading to an erroneous $6 billion payment.
+     - In 2015, a junior employee at Deutsche Bank mistakenly processed a trade using a gross figure instead of a net figure, leading to an erroneous \$6 billion payment.
 
 2. **Missing or Incorrect Data:**
    - Outliers can also occur when data is missing, entered as zeros, or duplicated. This may happen due to issues with data vendors or the exchanges themselves. For instance:
@@ -42,9 +42,9 @@ Consider the following hypothetical stock prices:
 
 | Date       | Price (Unadjusted) | Price (Adjusted) | Notes                        |
 |------------|--------------------|------------------|------------------------------|
-| 2023-01-01 | $100               | $100             | Normal trading day           |
-| 2023-01-10 | $95                | $102             | Stock trades ex-dividend (-$5)|
-| 2023-01-20 | $150               | $150             | Significant market event     |
+| 2023-01-01 | \$100               | \$100             | Normal trading day           |
+| 2023-01-10 | \$95                | \$102             | Stock trades ex-dividend (-\$5)|
+| 2023-01-20 | \$150               | \$150             | Significant market event     |
 
 On January 10, the unadjusted price drops due to the ex-dividend date, which could be mistaken for an outlier. However, adjusting the price corrects this, showing the true market value.
 
@@ -341,7 +341,7 @@ Once you've identified anomalous skew in your signal returns and have an underst
    - **Assessing Frequency and Impact**:
      - When outliers are due to legitimate market events, determine if similar events are common across other stocks. For instance, if you notice frequent large fluctuations in thinly traded stocks or biotech firms, you might consider excluding these from your universe to reduce unpredictability.
    - **Case Study Example**:
-     - Consider the example of **Sage Therapeutics**, where the stock price surged from $93 to $167 due to positive drug trial results. These kinds of large, binary event-driven fluctuations are often unpredictable and could skew your signal research. Many quants exclude such stocks from their universe for this reason.
+     - Consider the example of **Sage Therapeutics**, where the stock price surged from \$93 to \$167 due to positive drug trial results. These kinds of large, binary event-driven fluctuations are often unpredictable and could skew your signal research. Many quants exclude such stocks from their universe for this reason.
 
    - **Special Market Events**:
      - If the skew is due to events like **earnings announcements** or **central bank decisions**, consider whether it’s possible to avoid these periods by pausing the strategy before these events. This can prevent significant, unmanageable risks from being introduced into your trading strategy.

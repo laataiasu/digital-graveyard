@@ -1346,7 +1346,7 @@ Two tools are implemented:
 
 calculate_max_loan: Calculates maximum loan based on:
 income × 10, credit score, and age-based rules.
-Max cap enforced at $50,000.
+Max cap enforced at \$50,000.
 update_negotiation_status: Updates the negotiation_status in state and logs the update.
 tools = [calculate_max_loan, update_negotiation_status]
 llm_with_tools = llm.bind_tools(tools)
@@ -1386,7 +1386,7 @@ The graph is compiled and visualized to show the flow.
 A sample input is passed:
 Query: “I want to have a million dollars”
 Details: name, age, income, credit score
-The agent calculates that the max loan is $10,000 (due to user’s profile).
+The agent calculates that the max loan is \$10,000 (due to user’s profile).
 The status is updated to "lost" and the user is notified.
 inputs = {
   "thread_id": "t1",

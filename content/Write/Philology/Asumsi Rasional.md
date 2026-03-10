@@ -66,7 +66,7 @@ manfaatnya iya ada, tapi kaya khamr
   
 syiah sunni 40% 60% di [[Azerbaijan]] tapi bisa hidup damai  
 muslim di sana juga ada yg mengkhamr karena perang sm [[Armenia]]  
-kalo dikasih $1000000 buat ikut perang lagi katanya emoh, mending meninggal katanya  
+kalo dikasih \$1000000 buat ikut perang lagi katanya emoh, mending meninggal katanya  
 game, yang dianggap sloth, ternyata yang ngasih dia harapan  
   
 >If a sloth clapped, it would always sound sarcastic  

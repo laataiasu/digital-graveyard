@@ -512,7 +512,7 @@ When analyzing alpha factors, the returns can initially seem small, especially w
   - A **leverage ratio of 1** means you are using one dollar of capital for every dollar of positions.
   - A **leverage ratio of 4** means you are using only 25 cents of capital for every dollar of positions.
 
-In research, we often assume a leverage ratio of 1, meaning one dollar of capital supports one dollar of positions. However, in real-world trading, institutions frequently apply higher leverage, ranging from 2x to 6x, meaning that for each dollar of capital, they might take on $2 to $6 of positions.
+In research, we often assume a leverage ratio of 1, meaning one dollar of capital supports one dollar of positions. However, in real-world trading, institutions frequently apply higher leverage, ranging from 2x to 6x, meaning that for each dollar of capital, they might take on \$2 to \$6 of positions.
 
 #### Why Small Alpha Factor Returns Are Significant
 
@@ -788,7 +788,7 @@ These assumptions are unrealistic in real-world trading, where **liquidity** and
   - **Bid Price**: The highest price a buyer is willing to pay for a stock.
   - **Ask Price**: The lowest price a seller is willing to accept.
   - **Bid-Ask Spread**: The difference between the bid and ask prices, usually expressed in basis points (bps).
-    - **High Liquidity**: The bid-ask spread is narrow, typically around 3 to 5 basis points. For example, if the bid price is $100 and the ask price is $100.05, the spread is 5 basis points.
+    - **High Liquidity**: The bid-ask spread is narrow, typically around 3 to 5 basis points. For example, if the bid price is \$100 and the ask price is \$100.05, the spread is 5 basis points.
     - **Low Liquidity**: The bid-ask spread is wider, potentially around 20 to 30 basis points. This larger spread indicates a higher cost to trade due to lower market activity or fewer accessible shares.
 
 #### Impact of Liquidity on Trading
@@ -871,8 +871,8 @@ Transaction costs in trading are not just limited to the obvious fees like commi
 
 - **Definition**: Turnover measures the fraction of a portfolio’s total value that is traded over a specific time period.
 - **Example**:
-  - Suppose a portfolio is valued at $100 million.
-  - On a particular day, $1 million worth of assets are bought, and another $1 million are sold.
+  - Suppose a portfolio is valued at \$100 million.
+  - On a particular day, \$1 million worth of assets are bought, and another \$1 million are sold.
   - **Turnover Calculation**:
     $$
     \text{Turnover} = \frac{\text{Total Value of Trades}}{\text{Total Portfolio Value}} = \frac{\$2 \text{ million}}{\$100 \text{ million}} = 2\%

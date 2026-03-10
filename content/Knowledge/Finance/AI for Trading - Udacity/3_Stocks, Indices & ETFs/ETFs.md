@@ -8,7 +8,7 @@ In this lesson, we'll dive into the concept of Exchange Traded Funds, commonly k
 
 #### Key Points:
 - **Origins:** The first ETF was created by the Toronto Stock Exchange in Canada in 1990.
-- **Growth:** In the U.S. market, the value of ETFs skyrocketed from $100 billion in the early 2000s to $3.4 trillion by 2017. Globally, around $4.5 trillion is invested in ETFs.
+- **Growth:** In the U.S. market, the value of ETFs skyrocketed from \$100 billion in the early 2000s to \$3.4 trillion by 2017. Globally, around \$4.5 trillion is invested in ETFs.
 - **Popularity:** ETFs have grown in popularity primarily due to their low fees and ease of access, which has led them to capture market share from traditional mutual funds.
 
 #### Advantages of ETFs:
@@ -90,11 +90,11 @@ Hedging with ETFs is a strategy that allows investors to reduce their exposure t
 **ETF Sponsors** are financial institutions that create and manage ETFs. These sponsors are responsible for designing the ETF portfolio, issuing shares, and maintaining the fund. Some of the largest ETF sponsors include:
 
 #### Major ETF Sponsors:
-- **BlackRock's iShares:** The largest ETF sponsor, originally created by Barclays' Global Investors and later acquired by BlackRock. By early 2018, iShares managed over $1.75 trillion in assets, accounting for more than a quarter of BlackRock's total assets under management (AUM).
+- **BlackRock's iShares:** The largest ETF sponsor, originally created by Barclays' Global Investors and later acquired by BlackRock. By early 2018, iShares managed over \$1.75 trillion in assets, accounting for more than a quarter of BlackRock's total assets under management (AUM).
 - **Other Major Sponsors:** Vanguard, State Street Global Advisors (which issues the SPDR ETFs), Deutsche Bank, and Invesco.
 
 #### How ETF Sponsors Earn Money:
-- **Fee Structure:** ETF sponsors earn fees as a percentage of the assets they manage. For example, if an ETF sponsor manages $1 billion in assets and charges a 0.1% annual fee, they would earn $1 million per year.
+- **Fee Structure:** ETF sponsors earn fees as a percentage of the assets they manage. For example, if an ETF sponsor manages \$1 billion in assets and charges a 0.1% annual fee, they would earn \$1 million per year.
 - **Comparison to Mutual Funds:** Although ETF fees are typically lower than those charged by mutual funds or hedge funds, the massive volume of assets in ETFs makes them highly profitable for sponsors.
 
 In essence, ETF sponsors play a crucial role similar to fund managers in mutual funds, but with a focus on maintaining a lower-cost investment vehicle.
@@ -121,9 +121,9 @@ In summary, the structure of ETFs allows them to avoid many of the capital gains
 #### A Simple Example of Arbitrage:
 In the example with Betty at the farmer's market, arbitrage is demonstrated through a basic scenario:
 
-- **Market Observation:** Betty notices that one farmer, Brock, sells individual oranges for $1 each, while another farmer, Cindy, sells a bag of 10 oranges for $9.
-- **Arbitrage Opportunity:** The price difference presents an opportunity. Betty can buy a bag of 10 oranges from Cindy for $9 and then sell each orange individually for $1, earning $10 in total. This results in a profit of $1 ($10 earned minus the $9 spent).
-- **Execution:** To avoid risk, Betty first secures customers who are willing to buy the oranges at $1 each. Then, she buys the bag of oranges from Cindy and immediately sells them to the customers, ensuring she doesn’t end up with unsold oranges.
+- **Market Observation:** Betty notices that one farmer, Brock, sells individual oranges for \$1 each, while another farmer, Cindy, sells a bag of 10 oranges for \$9.
+- **Arbitrage Opportunity:** The price difference presents an opportunity. Betty can buy a bag of 10 oranges from Cindy for \$9 and then sell each orange individually for \$1, earning \$10 in total. This results in a profit of \$1 (\$10 earned minus the \$9 spent).
+- **Execution:** To avoid risk, Betty first secures customers who are willing to buy the oranges at \$1 each. Then, she buys the bag of oranges from Cindy and immediately sells them to the customers, ensuring she doesn’t end up with unsold oranges.
 
 This simple example illustrates the concept of arbitrage: **buy low, sell high, simultaneously**, to make a profit from price discrepancies in the market.
 

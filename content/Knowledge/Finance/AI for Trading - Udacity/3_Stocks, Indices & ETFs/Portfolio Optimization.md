@@ -67,7 +67,7 @@ $$
 
 We set this derivative equal to zero to find the point where the slope is zero (the minimum):
 
-$$
+$\$
 2(X - 1) = 0
 $$
 
@@ -264,7 +264,7 @@ $$
 
 Simplifying:
 
-$$
+$\$
 0 = 2x_A\sigma_A^2 + 2\sigma_B^2x_A - 2\sigma_B^2 + 2\sigma_A\sigma_B\rho_{r_A r_B}[1 - 2x_A]
 $$
 
@@ -413,7 +413,7 @@ When rebalancing, you essentially re-run the original optimization process using
 
 Rebalancing isn't free; it incurs costs, including:
 
-1. **Transaction Costs:** Every trade typically incurs a fee, known as a commission, paid to brokers. These costs can be significant, especially when managing large portfolios. For example, in 2000, the Texas Permanent School Fund spent $120 million on transaction costs while rebalancing a $17.5 billion portfolio.
+1. **Transaction Costs:** Every trade typically incurs a fee, known as a commission, paid to brokers. These costs can be significant, especially when managing large portfolios. For example, in 2000, the Texas Permanent School Fund spent \$120 million on transaction costs while rebalancing a \$17.5 billion portfolio.
 
 2. **Taxes:** Capital gains taxes may apply when selling assets that have appreciated in value.
 

@@ -329,8 +329,8 @@ By combining stocks with imperfect correlations in a portfolio, investors can ac
 
 To calculate the variance of a 3-asset portfolio, you'll need the following information:
 
-1. **Individual asset variances**: $\sigma_1^2$, $\sigma_2^2$, $\sigma_3^2$
-2. **Pairwise asset covariances**: $\text{Cov}(A_1, A_2)$, $\text{Cov}(A_1, A_3)$, $\text{Cov}(A_2, A_3)$
+1. **Individual asset variances**: $\sigma_1^2$, $\sigma_2^2$, $\sigma_3^2\$
+2. **Pairwise asset covariances**: $\text{Cov}(A_1, A_2)$, $\text{Cov}(A_1, A_3)$, $\text{Cov}(A_2, A_3)\$
 3. **Weights of each asset in the portfolio**: $w_1$, $w_2$, $w_3$
 
 The variance of the portfolio $\sigma_p^2$ can be calculated using the formula:
@@ -489,7 +489,7 @@ Where $\mathbf{1}$ is a vector of ones, ensuring the sum of the weights equals o
 
 ## 8. The Efficient Frontier
 
-You've been tasked with investing $10,000 in five different stocks (A, B, C, D, and E), and your goal is to maximize returns while minimizing risk. To accomplish this, we need to understand the concept of the **efficient frontier** and how it helps in portfolio optimization.
+You've been tasked with investing \$10,000 in five different stocks (A, B, C, D, and E), and your goal is to maximize returns while minimizing risk. To accomplish this, we need to understand the concept of the **efficient frontier** and how it helps in portfolio optimization.
 
 ### Recap: Portfolio Return and Risk
 
@@ -692,7 +692,7 @@ Where:
 - $\sigma_p$ is the portfolio's standard deviation.
 - $t$ is the time horizon over which VaR is calculated.
 
-For example, a 95% one-day VaR of $1 million means that there's a 5% chance the portfolio could lose more than $1 million in one day.
+For example, a 95% one-day VaR of \$1 million means that there's a 5% chance the portfolio could lose more than \$1 million in one day.
 
 #### Why Use VaR?
 

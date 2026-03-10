@@ -60,10 +60,10 @@ A **stock split** occurs when a company decides to divide its existing shares in
 
 ##### **Example: Amazon Stock Split**
 - **Date:** June 2nd, 1998
-- **Stock Price Before Split:** ~$85 per share
+- **Stock Price Before Split:** ~\$85 per share
 - **Split Ratio:** 2-to-1
   - **Result:** Every shareholder's number of shares doubled.
-  - **New Stock Price:** ~$42.50 per share (approximately half of $85).
+  - **New Stock Price:** ~\$42.50 per share (approximately half of \$85).
 
 The key idea behind a stock split is that while the number of shares increases, the price per share decreases proportionally. This keeps the company's market capitalization the same. 
 
@@ -96,14 +96,14 @@ This adjusted price is commonly referred to as the **adjusted price**, and it's 
 
 ##### **Example Calculation: Adjusted Price**
 Let's say Amazon had the following prices before its splits:
-- **Before 2-to-1 split:** $85
-- **After adjusting:** $85 / 2 = $42.50
+- **Before 2-to-1 split:** \$85
+- **After adjusting:** \$85 / 2 = \$42.50
 
 If there were subsequent splits:
-- **Before 3-to-1 split:** $42.50
-- **After adjusting:** $42.50 / 3 = $14.17
+- **Before 3-to-1 split:** \$42.50
+- **After adjusting:** \$42.50 / 3 = \$14.17
 
-Thus, the original $85 becomes $14.17 after all adjustments.
+Thus, the original \$85 becomes \$14.17 after all adjustments.
 
 ### 2. **Dividends**
 
@@ -127,7 +127,7 @@ Cash dividends are another significant corporate action where a company distribu
 
 - **Definition:** A cash dividend is a payment made by a company to its shareholders, usually from profits.
 - **Frequency:** Dividends are often paid quarterly, although the frequency can vary.
-- **Example:** Qualcomm pays out dividends almost every quarter. On May 21st, 2017, Qualcomm paid $0.57 per share.
+- **Example:** Qualcomm pays out dividends almost every quarter. On May 21st, 2017, Qualcomm paid \$0.57 per share.
 
 #### 2. **Ex-Dividend Date**
 
@@ -143,15 +143,15 @@ Cash dividends are another significant corporate action where a company distribu
 When a company pays a dividend, the stock price typically drops by approximately the dividend amount on the ex-dividend date. This drop occurs because the value of the company decreases by the total amount paid out as dividends.
 
 **Example Scenario:**
-- **Company A and Company B:** Both have shares trading at $50.
-- **Ex-Dividend for Company A:** $1 per share.
+- **Company A and Company B:** Both have shares trading at \$50.
+- **Ex-Dividend for Company A:** \$1 per share.
 - **Closing Prices on Ex-Dividend Date:**
-  - **Company A:** $49.50 (reflecting the $1 dividend)
-  - **Company B:** $49.50 (no dividend, indicating a $0.50 loss)
+  - **Company A:** \$49.50 (reflecting the \$1 dividend)
+  - **Company B:** \$49.50 (no dividend, indicating a \$0.50 loss)
 
 At first glance, it might seem like both stocks have lost value. However, for Company A, the drop in price is offset by the dividend payout. Therefore, the actual financial outcome is:
-- **Company A:** Net gain of $0.50.
-- **Company B:** Net loss of $0.50.
+- **Company A:** Net gain of \$0.50.
+- **Company B:** Net loss of \$0.50.
 
 #### 4. **Adjusting Prices for Dividends**
 
@@ -168,8 +168,8 @@ Where:
 - **Step 2:** Normalize the historical prices by dividing them by the adjusted price factor for all days before the ex-dividend date.
 
 **Example Calculation:**
-- **Dividend (D):** $1
-- **Stock Price at Ex-Dividend Date (S):** $50
+- **Dividend (D):** \$1
+- **Stock Price at Ex-Dividend Date (S):** \$50
 - **Adjusted Price Factor:** 
   $$
   1 + \frac{1}{50} = 1.02
@@ -193,7 +193,7 @@ To make informed trading decisions using historical price data, you can compute 
 
 ### 1. **Understanding the Stock Price**
    - **Raw Stock Price:** The most basic indicator, but it alone doesn't give much insight into whether to buy or sell.
-   - **Problem:** The current price of a stock (e.g., $115 for [[Facebook]]) might seem high or low, but without context, it’s hard to make an informed decision.
+   - **Problem:** The current price of a stock (e.g., \$115 for [[Facebook]]) might seem high or low, but without context, it’s hard to make an informed decision.
 
 ### 2. **Moving Average (Simple Moving Average - SMA)**
    - **Idea:** Calculate the average stock price over a recent period (e.g., the past week or month).
