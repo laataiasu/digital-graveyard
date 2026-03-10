@@ -315,7 +315,7 @@ Dan dari pembelajaran itupula gitu ya gw mengubah doa gitu. Dulu kan, ya tuhan s
 
 Indonesia suka banget ya hal-hal yang sifatnya simbolik. Banyak yang mengagung2kan founding father Indonesia, tapi ada juga kekonyolannya kan tiap orang tuh pasti ada kekonyolannya. Contohnya monas aja, maksud bangungan ini fungsinya apa coba. bentuknya tuh kayak titit. tapi titit tuh ga segede monas tapi banyak fungsinya ya, ini monas udah gede panjang, tajem, mahal, apa coba fungsinya?
 
-katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan Indonesia tuh kecil-kecil. Atau mungkin pak founding father ini sebenarnya emang niatnya bukan melambangkan orang-orang Indonesia, tapi ingin agar punya kita ini panjang seperti apa yang dicita-citakannya, berarti kita mau jadi [[Porn]] star.
+katanya sebagai lambat nasional ya, mana nasional nya coba, kepunyaan Indonesia tuh kecil-kecil. Atau mungkin pak founding father ini sebenarnya emang niatnya bukan melambangkan orang-orang Indonesia, tapi ingin agar punya kita ini panjang seperti apa yang dicita-citakannya, berarti kita mau jadi #Porn star.
 
 Sama contohnya kemarin ya bukit algoritma coba, itu buat apa2, ekskusivitas, yg kita haruskan demokratisasi, pemerataan pendidikan, ini malah ngebuat 1 tempat yang sentralistis gitu, nah yg bisa masuk kesana tuh nantinya orang2 yg pinter aja,. Kalo gitu gimana daerah lainnya bisa berkembang gitu. nama silicon valley aja salah coba, katanya pembangunannya tuh berbasis penelitian. dan katanya nih ya, oh rakyat biasa tuh ga berhak berkomentar karena itu katanya dibangun swasta.
 
