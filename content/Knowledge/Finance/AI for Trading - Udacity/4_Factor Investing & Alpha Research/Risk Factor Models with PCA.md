@@ -142,7 +142,7 @@ When we change the orientation of the line (axis), one of these distances increa
   - **Orthogonal (Perpendicular)** to the previous ones.
   - **Maximizes Variance** in its direction, given the orthogonality constraint.
 
-In a 2D space, there's only one possible direction for the second axis—perpendicular to the first. In higher-dimensional spaces, PCA continues to find orthogonal axes that maximize variance until it has the same number of axes (components) as the original data dimensions.
+In a 2D space, there's only one possible direction for the second axis--perpendicular to the first. In higher-dimensional spaces, PCA continues to find orthogonal axes that maximize variance until it has the same number of axes (components) as the original data dimensions.
 
 For example, if you start with data in a 4D space, PCA would give you four new axes (principal components).
 
@@ -509,7 +509,7 @@ Consider a 2D dataset where most data points lie close to a straight line. This 
    - For larger datasets, where you might have many dimensions, you'd sum the explained variances until you reach your desired threshold (e.g., 90%). The number of components you need to sum to reach this threshold determines how many principal components to keep.
 
 6. **Dimensionality Reduction Example:**
-   - In our simple 2D example, reducing the data to one dimension involves choosing one principal component. The transformed data, projected onto this component, results in a 1D representation—a straight line in this case.
+   - In our simple 2D example, reducing the data to one dimension involves choosing one principal component. The transformed data, projected onto this component, results in a 1D representation--a straight line in this case.
    - For higher-dimensional datasets, the transformed data would lie on a lower-dimensional surface defined by the selected principal components.
 
 #### Conclusion

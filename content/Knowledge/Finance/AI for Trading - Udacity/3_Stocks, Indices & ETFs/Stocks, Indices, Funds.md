@@ -208,7 +208,7 @@ An investment fund is a pool of money collected from multiple investors, managed
 ### **Smart Beta: A Hybrid Approach**
 
 - **Smart Beta**: Combines elements of both active and passive management. It begins with a passive strategy, such as tracking an index, but then makes adjustments to the asset weights to improve returns or reduce risk.
-- **Example**: Imagine starting with an index fund and then slightly adjusting the weights of the stocks within that fund to try to achieve better performance—this is Smart Beta.
+- **Example**: Imagine starting with an index fund and then slightly adjusting the weights of the stocks within that fund to try to achieve better performance--this is Smart Beta.
 
 ### **Overview of Mutual Funds and Hedge Funds**
 

@@ -42,7 +42,7 @@ tags:
 - **Daniel Burnham quote**: "Make no little plans for they have no power to stir men's blood."
 
 ### 2. Design Your Own Game
-- **Don't follow the crowded, conventional path.** Most rules are just conventional wisdom — ignore them.
+- **Don't follow the crowded, conventional path.** Most rules are just conventional wisdom -- ignore them.
 - **Ask Disruptive Questions**:
     - What do customers *hate* about this industry?
     - What are competitors *unwilling* to do?

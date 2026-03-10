@@ -1,6 +1,6 @@
 https://chatgpt.com/c/69100b49-6e00-8321-bca9-cdc8f7180f41
 
-Naturally—you want proof before you bet your next three years. Fair.  
+Naturally--you want proof before you bet your next three years. Fair.  
 Here’s where to dig, divided by goal. No fluff.
 
 ---
@@ -56,9 +56,9 @@ Here’s where to dig, divided by goal. No fluff.
 
 **On the “Social Credit” theme (academic context only):**
 
-- “China’s Social Credit System: A Model for Other Countries?” — _Harvard Kennedy School Policy Brief (2023)_
+- “China’s Social Credit System: A Model for Other Countries?” -- _Harvard Kennedy School Policy Brief (2023)_
     
-- “Algorithmic Governance: A Modes of Regulation Perspective” — _Information, Communication & Society Journal, 2021_
+- “Algorithmic Governance: A Modes of Regulation Perspective” -- _Information, Communication & Society Journal, 2021_
     
 
 **Podcast / Thought Leadership**

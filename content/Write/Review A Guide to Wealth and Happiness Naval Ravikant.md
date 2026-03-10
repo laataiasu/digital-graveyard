@@ -29,7 +29,7 @@ Gabisa dibuat ringkasannya karena menurut saya materinya udah padat. Kalo ga ada
 
 ### **Poin paling penting yang saya dapat:**
 
-- Baca teroos — jangan meremehkan kekuatan baca cepat
+- Baca teroos -- jangan meremehkan kekuatan baca cepat
 
   https://id.wikihow.com/Belajar-Membaca-Cepat
 

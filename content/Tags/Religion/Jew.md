@@ -11,14 +11,14 @@ Israel’s reputation for producing a *disproportionate number of scientists, en
 ### 🧬 1. Deep cultural respect for education
 
 * Jewish tradition (dating back thousands of years) places huge emphasis on literacy, study, and debate.
-* Religious study (Talmud, Torah) trains analytical and critical thinking from a young age, often in **dialectical** formats like *[[chevruta]]* — intense, question-driven discussion.
+* Religious study (Talmud, Torah) trains analytical and critical thinking from a young age, often in **dialectical** formats like *[[chevruta]]* -- intense, question-driven discussion.
 * This culture of questioning and arguing ideas translates well into science, philosophy, and technology.
 
 ---
 
 ### 🧪 2. National investment in R\&D
 
-* Israel invests **\~4–5% of its GDP in research and development** — among the highest in the world.
+* Israel invests **\~4–5% of its GDP in research and development** -- among the highest in the world.
 * Strong state support, tax incentives, and close ties between universities, military, and industry (the “triple helix” model).
 
 ---

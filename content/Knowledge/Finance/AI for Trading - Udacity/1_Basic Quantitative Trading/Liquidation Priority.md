@@ -28,7 +28,7 @@ date: 2001-01-01
 |**Secured Creditors**|1st|Get paid from secured assets (e.g., collateralized loans).|
 |**Unsecured Creditors**|2nd|Include trade creditors, employees (under labor laws), and bondholders.|
 |**Preferred Shareholders**|3rd|Have contractual rights to receive liquidation proceeds before common shareholders.|
-|**Common Shareholders**|4th|Get paid last—only if anything is left. Often receive nothing in bankruptcy.|
+|**Common Shareholders**|4th|Get paid last--only if anything is left. Often receive nothing in bankruptcy.|
 
 ---
 
@@ -57,8 +57,8 @@ Let’s say Gojek were to liquidate:
 
 |Share Type|Liquidation Priority|In Practice (Indonesia)|
 |---|---|---|
-|Secured Creditors|1st|Highest—e.g., bank loans with collateral|
-|Unsecured Creditors|2nd|Moderate—vendors, employees, bondholders|
+|Secured Creditors|1st|Highest--e.g., bank loans with collateral|
+|Unsecured Creditors|2nd|Moderate--vendors, employees, bondholders|
 |Preferred Shareholders|3rd|Rare in public companies, common in startups|
 |Common Shareholders|4th (Last)|Most common share class on IDX|
 

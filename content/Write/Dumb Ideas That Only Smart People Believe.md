@@ -5,7 +5,7 @@ tags:
   - journal
 publish_external: true
 ---
-Here’s a strike list of ideas that smart people disproportionately fall for—because their intelligence becomes a liability. These are traps of overanalysis, overconfidence, or ideological drift:
+Here’s a strike list of ideas that smart people disproportionately fall for--because their intelligence becomes a liability. These are traps of overanalysis, overconfidence, or ideological drift:
 
 ---
 

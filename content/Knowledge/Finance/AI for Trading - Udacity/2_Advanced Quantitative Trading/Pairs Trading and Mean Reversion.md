@@ -72,7 +72,7 @@ Let's delve deeper into the concept of mean reversion and introduce the **Drift 
 
 ### Stock Price Movements and Moving Averages
 
-When we observe a stock's price over time, we can plot its movements against a **moving average**. The moving average smooths out short-term fluctuations and highlights longer-term trends. What we often see is that when the stock price deviates significantly from this moving average—whether by increasing or decreasing—the price tends to "revert" back toward the moving average. This behavior is what we call **mean reversion**.
+When we observe a stock's price over time, we can plot its movements against a **moving average**. The moving average smooths out short-term fluctuations and highlights longer-term trends. What we often see is that when the stock price deviates significantly from this moving average--whether by increasing or decreasing--the price tends to "revert" back toward the moving average. This behavior is what we call **mean reversion**.
 
 ### The Drift and Volatility Model
 
@@ -122,8 +122,8 @@ Where:
 
 ### Intuition Behind the Model
 
-- **Calm Market (Small $\sigma$):** When the market is calm, the bumps (volatility) are small—like encountering a few fish. The boat (stock price) drifts smoothly along the current (drift term).
-- **Volatile Market (Large $\sigma$):** In a volatile market, the bumps are larger—like encountering whales. The stock price experiences larger, more erratic changes.
+- **Calm Market (Small $\sigma$):** When the market is calm, the bumps (volatility) are small--like encountering a few fish. The boat (stock price) drifts smoothly along the current (drift term).
+- **Volatile Market (Large $\sigma$):** In a volatile market, the bumps are larger--like encountering whales. The stock price experiences larger, more erratic changes.
 
 ### Conclusion
 
@@ -148,7 +148,7 @@ Since frozen peas and carrots are often sold together, both companies are likely
 
 #### 2. **Concept of Divergence and Mean Reversion**
 
-When the stock prices of these two economically linked companies diverge—meaning one stock price increases while the other decreases—this could present a trading opportunity based on the assumption of **mean reversion**. The idea is that the divergence is temporary and that the stock prices will eventually revert to their historical relationship.
+When the stock prices of these two economically linked companies diverge--meaning one stock price increases while the other decreases--this could present a trading opportunity based on the assumption of **mean reversion**. The idea is that the divergence is temporary and that the stock prices will eventually revert to their historical relationship.
 
 #### 3. **Executing a Pairs Trade**
 
@@ -161,7 +161,7 @@ Pairs trading involves two key actions:
 - **Stock A**: Priced lower than usual.
 - **Stock B**: Priced higher than usual.
   
-You would buy Stock A (long position) and sell Stock B (short position). The expectation is that Stock A will rise and Stock B will fall or stay constant, leading to a convergence in their prices. Once the prices converge, you close your positions—sell Stock A and buy back Stock B (cover your short)—to realize a profit.
+You would buy Stock A (long position) and sell Stock B (short position). The expectation is that Stock A will rise and Stock B will fall or stay constant, leading to a convergence in their prices. Once the prices converge, you close your positions--sell Stock A and buy back Stock B (cover your short)--to realize a profit.
 
 #### 4. **Risk Management and Closing Positions**
 
@@ -281,7 +281,7 @@ To grasp the relationship between two stocks in financial markets, it's essentia
 
 #### Integrated Time Series
 
-First, let's clarify what it means for a time series to be "integrated of order one" (I(1)). When a stock price series is I(1), it means the series itself is non-stationary—its statistical properties change over time, such as having a trend. However, if we take the difference between consecutive values in the series, we might get a stationary series, one where the statistical properties do not change over time. A stationary series is said to be "integrated of order zero" (I(0)).
+First, let's clarify what it means for a time series to be "integrated of order one" (I(1)). When a stock price series is I(1), it means the series itself is non-stationary--its statistical properties change over time, such as having a trend. However, if we take the difference between consecutive values in the series, we might get a stationary series, one where the statistical properties do not change over time. A stationary series is said to be "integrated of order zero" (I(0)).
 
 #### Cointegration Explained
 
@@ -432,7 +432,7 @@ When looking to identify cointegrated pairs of stocks from a large universe, suc
    - **Limitations**: This approach, while effective, is widely used. It might overlook more subtle relationships between stocks that aren't immediately apparent by sector alone.
 
 #### 2. **Clustering Using Unsupervised Machine Learning**
-   - **Why Clustering?**: To find meaningful but less obvious relationships between stocks, you can use **clustering algorithms**—a type of unsupervised machine learning. These algorithms group similar time series together based on their historical price movements, which can reveal hidden patterns or relationships not captured by sector-based grouping.
+   - **Why Clustering?**: To find meaningful but less obvious relationships between stocks, you can use **clustering algorithms**--a type of unsupervised machine learning. These algorithms group similar time series together based on their historical price movements, which can reveal hidden patterns or relationships not captured by sector-based grouping.
    
    - **How Clustering Works**: 
      - **Input**: The historical time series data for each stock, such as daily closing prices.

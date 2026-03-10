@@ -17,7 +17,7 @@ I've always struggled with losing time without knowing where it went. I tried ex
     
 - **Unreliable:** They would stop tracking without warning.
     
-- **Android Gaps:** Digital Wellbeing is great, but it's a "walled garden"—no easy sync, export, or integration.
+- **Android Gaps:** Digital Wellbeing is great, but it's a "walled garden"--no easy sync, export, or integration.
     
 
 So, I decided to build my own solution using **Antigravity** (with Sonnet/Opus and Gemini 1.5 Pro as a backup). I'm not an Android dev, but I understood the logic well enough to "vibe" the code into existence.

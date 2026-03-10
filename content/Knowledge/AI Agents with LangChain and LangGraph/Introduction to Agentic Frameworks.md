@@ -7,9 +7,9 @@ Introduction to Understanding Agentic Systems
 AI is evolving from reactive tools to autonomous systems capable of anticipating needs, executing tasks, and even collaborating with other AI agents. These agentic systems extend generative AI capabilities by making decisions, using tools, and refining their outputs.
 
 Why Agentic AI?
-Traditional AI provides static responses—it’s like a GPS giving directions.
+Traditional AI provides static responses--it’s like a GPS giving directions.
 
-Agentic AI, on the other hand, executes tasks autonomously—it’s like a self-driving car handling the journey for you.
+Agentic AI, on the other hand, executes tasks autonomously--it’s like a self-driving car handling the journey for you.
 
 Example
 A marketing team wants insights on potential customers but only has an earnings call transcript.
@@ -46,9 +46,9 @@ Cloud Resources
 
 The global AI agents market is experiencing explosive growth. By 2030, it is projected to reach \$47.1 billion, driven by major players like Salesforce, Google, and Oracle. Meanwhile, no-code SaaS platforms such as Retool and Zapier are integrating agentic AI into their offerings.
 
-This shift signals a major transformation—AI is moving beyond traditional Robotic Process Automation (RPA) and rule-based systems into a world where agents can autonomously execute tasks and interact with other AI systems.
+This shift signals a major transformation--AI is moving beyond traditional Robotic Process Automation (RPA) and rule-based systems into a world where agents can autonomously execute tasks and interact with other AI systems.
 
-To keep up, businesses must recognize that LLMs alone are not enough—the future belongs to intelligent, proactive AI agents.
+To keep up, businesses must recognize that LLMs alone are not enough--the future belongs to intelligent, proactive AI agents.
 
 Quiz Question
 What does this market growth indicate?
@@ -208,7 +208,7 @@ Workspaces may take up to 5 minutes to start.
 
 Summary: Agents from Scratch
 Overview
-This exercise introduces the concept of building a simple abstraction over LLMs—custom agents. These agents are tailored LLM wrappers with specific roles, instructions, and configurations. The goal is to understand how to structure and reuse LLM interactions by encapsulating them in a class.
+This exercise introduces the concept of building a simple abstraction over LLMs--custom agents. These agents are tailored LLM wrappers with specific roles, instructions, and configurations. The goal is to understand how to structure and reuse LLM interactions by encapsulating them in a class.
 
 Key Steps Covered
 1. Setup and Prompting Recap

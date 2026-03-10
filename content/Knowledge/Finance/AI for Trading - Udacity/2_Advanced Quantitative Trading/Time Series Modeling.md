@@ -23,7 +23,7 @@ These concepts build upon each other, starting from basic statistical methods to
 
 ### Stock Price Time Series
 
-Let's think about what a stock price time series looks like. Imagine tracking the price of a stock over time—perhaps it increases, decreases, or fluctuates with market conditions.
+Let's think about what a stock price time series looks like. Imagine tracking the price of a stock over time--perhaps it increases, decreases, or fluctuates with market conditions.
 
 #### The Challenge of Non-Stationarity
 
@@ -368,7 +368,7 @@ To grasp the concept of particle filters, let's begin with a thought experiment:
 
 2. **Natural Selection in Action:**
    - Over time, the less accurate helpers "fade out," while the more accurate ones dominate. The combined predictions of these accurate helpers provide your best estimate for future stock returns.
-   - This process mimics **natural selection**—only the fittest models (helpers) survive and contribute to the final prediction.
+   - This process mimics **natural selection**--only the fittest models (helpers) survive and contribute to the final prediction.
 
 #### Particle Filters Explained
 In particle filters, the "little helpers" from our analogy are called **particles**. Here's how particle filters work in practice:
@@ -380,7 +380,7 @@ In particle filters, the "little helpers" from our analogy are called **particle
 2. **Prediction and Weighting:**
    - Each particle predicts the next state of the system based on its model.
    - After observing the actual data (e.g., the actual stock return), the filter evaluates how close each particle’s prediction was to reality.
-   - Particles that predicted more accurately are given higher **weights**—they become more "important" in the next round of predictions.
+   - Particles that predicted more accurately are given higher **weights**--they become more "important" in the next round of predictions.
 
 3. **Resampling:**
    - In the next iteration, particles with higher weights are "selected" more often to form the new set of particles.

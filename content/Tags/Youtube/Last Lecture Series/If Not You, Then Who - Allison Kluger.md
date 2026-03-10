@@ -53,5 +53,5 @@ tags:
 
 ## Conclusion
 
-Authenticity and transparency are the foundations of personal and professional growth. Self-awareness—understanding your strengths and accepting your limitations—allows you to navigate complex environments with confidence. Truth eventually emerges; living authentically enriches all aspects of life.
+Authenticity and transparency are the foundations of personal and professional growth. Self-awareness--understanding your strengths and accepting your limitations--allows you to navigate complex environments with confidence. Truth eventually emerges; living authentically enriches all aspects of life.
 

@@ -17,7 +17,7 @@ Masalahnya adalah tidak ada evaluasi yang benar-benar evaluasi
 - pada kenyataannya semuanya adalah bisnis, namun sering dianggap tabu
 - proses rumah sakit dianggap ada bisnis disitu “apa-apa kok dibisniskan, padahal semuanya benar benar bisnis”, padahal semuanya bisnis
 
-Bisnis adalah kegiatan creating value — menciptakan nilai. Maka dari itu bisnis profit dan ada juga yang non profit, seperti kegiatan keorganisasian.
+Bisnis adalah kegiatan creating value -- menciptakan nilai. Maka dari itu bisnis profit dan ada juga yang non profit, seperti kegiatan keorganisasian.
 
 Menurut saya, setiap organisasi memiliki potensi bisnis yang cukup besar apabila dilihat secara mendalam. Namun sayangnya, banyak organisasi seringkali hanya dijadikan selingan anggotanya, sehingga proses yang terjadi tidak bisa berkembang. Memang efektif menurut perspektif anggota di periode tersebut. Namun sayangnya, rasa positif tersebut membuat organisasi hanya berada di situ-situ saja.
 

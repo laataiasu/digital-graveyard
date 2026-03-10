@@ -242,7 +242,7 @@ When analyzing stocks, it's common to compare their returns over a specific peri
 Let's imagine two stocks, which we'll call **Stock Tortoise** and **Stock Rabbit**. Both stocks yield the same return of **+20%** over one year. At first glance, using a simple momentum factor based on the one-year return, you might think they are equally strong investments. However, let's delve deeper into the **trajectory** of their price movements.
 
 1. **Stock Tortoise**: 
-   - It follows a **linear trajectory**—growing steadily and consistently over the year.
+   - It follows a **linear trajectory**--growing steadily and consistently over the year.
    - Its growth might look like this on a graph:
 
    $$
@@ -329,7 +329,7 @@ In the earlier example of **Stock Tortoise** and **Stock Rabbit**, where the tor
 
 #### Conclusion
 
-In momentum investing, the shape of a stock’s price trajectory—whether convex or concave—can provide valuable insights into its future performance. Accelerated gains and losses are crucial indicators, and understanding the relative convexity or concavity of these trajectories can guide investment decisions, helping investors choose whether to go long or short on a stock.
+In momentum investing, the shape of a stock’s price trajectory--whether convex or concave--can provide valuable insights into its future performance. Accelerated gains and losses are crucial indicators, and understanding the relative convexity or concavity of these trajectories can guide investment decisions, helping investors choose whether to go long or short on a stock.
 
 ## 8. Approximating Stock Price Trajectories with Polynomials: Deciding When to Go Long or Short
 
@@ -480,7 +480,7 @@ In this discussion, we will explore an alpha factor inspired by the paper titled
 
 #### The Concept of Conditional Skewness and Momentum
 
-Let's start with the title of the paper: "Expected Skewness and Momentum." The word "And" here is crucial—it implies that skewness and momentum are being considered together, rather than in isolation. As a practitioner in finance, it's often beneficial to understand alpha factors by considering both market mechanics and behavioral psychology.
+Let's start with the title of the paper: "Expected Skewness and Momentum." The word "And" here is crucial--it implies that skewness and momentum are being considered together, rather than in isolation. As a practitioner in finance, it's often beneficial to understand alpha factors by considering both market mechanics and behavioral psychology.
 
 #### Hypothetical Scenario: Media Attention and Stock Mispricing
 
@@ -500,11 +500,11 @@ We'll dive deeper into skewness in the next section, but first, let's take a mom
 
 #### Skepticism and the Nature of Alpha Factors
 
-It's natural to be skeptical of this approach, especially if you're new to quantitative finance. You might recall recent examples where the underlying idea seemed incorrect—perhaps a stock rose sharply and continued to rise against expectations. 
+It's natural to be skeptical of this approach, especially if you're new to quantitative finance. You might recall recent examples where the underlying idea seemed incorrect--perhaps a stock rose sharply and continued to rise against expectations. 
 
 However, the goal of alpha factors is to identify mispricings that are often imperceptible to humans. This process works across multiple stocks and on a relative basis, aiming for persistence over time. We're not trying to achieve high conviction in any one specific stock.
 
-As discussed in the section on the **Fundamental Law of Active Management**, the skill in predicting any single stock's movement is likely to be low—almost indistinguishable from noise. However, if our predictive skill is just marginally better than 50-50, and we apply it across many stocks, we can construct a comprehensive alpha factor that exhibits a favorable **Sharpe ratio**.
+As discussed in the section on the **Fundamental Law of Active Management**, the skill in predicting any single stock's movement is likely to be low--almost indistinguishable from noise. However, if our predictive skill is just marginally better than 50-50, and we apply it across many stocks, we can construct a comprehensive alpha factor that exhibits a favorable **Sharpe ratio**.
 
 #### Summary
 
@@ -647,7 +647,7 @@ In this discussion, we’ll explore how **skewness** and **momentum** interact, 
 - **Interpretation**:
   - Here, the stock has been performing well over the past year (positive momentum) and also had a significant upward spike at some point in the last month (positive skew).
   - The positive skew, which indicates a large one-day return, might signal that the stock is overbought. This can dampen the positive momentum because the large return might be followed by a correction or pullback.
-  - **Outcome**: The paper refers to this as **weakened momentum**—the positive skew dampens the continued upward trend.
+  - **Outcome**: The paper refers to this as **weakened momentum**--the positive skew dampens the continued upward trend.
 
 ### 2. **Positive Momentum and Less Positive Skew**
 
@@ -658,7 +658,7 @@ In this discussion, we’ll explore how **skewness** and **momentum** interact, 
 - **Interpretation**:
   - The stock has positive momentum, but its recent skew is less pronounced, meaning there hasn’t been a significant single-day spike in returns.
   - The less positive skew suggests that the stock might continue to perform well since it hasn’t experienced the overbought conditions that could trigger a reversal.
-  - **Outcome**: This is referred to as **enhanced momentum**—the stock’s momentum is likely to persist or even strengthen because there’s no strong reversal signal.
+  - **Outcome**: This is referred to as **enhanced momentum**--the stock’s momentum is likely to persist or even strengthen because there’s no strong reversal signal.
 
 ### 3. **Negative Momentum and Positive Skew**
 
@@ -670,7 +670,7 @@ In this discussion, we’ll explore how **skewness** and **momentum** interact, 
   - The stock has been declining over the past year (negative momentum), but there was a sharp upward move recently (positive skew).
   - This scenario often occurs when investors see a temporary bounce in a down-trending stock and mistakenly believe it signals a recovery. They might start buying, hoping for a turnaround.
   - However, if the fundamentals are still weak, the initial momentum reasserts itself, and the stock continues its downward trend.
-  - **Outcome**: The paper describes this as **enhanced momentum**—the positive skew momentarily boosts the stock, but the negative momentum ultimately continues.
+  - **Outcome**: The paper describes this as **enhanced momentum**--the positive skew momentarily boosts the stock, but the negative momentum ultimately continues.
 
 ### 4. **Negative Momentum and Less Positive Skew**
 
@@ -681,17 +681,17 @@ In this discussion, we’ll explore how **skewness** and **momentum** interact, 
 - **Interpretation**:
   - The stock has negative momentum, and there hasn’t been a significant recent spike in returns (less positive skew).
   - The lack of a strong positive skew means there’s no sharp upward movement to counter the negative momentum, so the stock’s decline might continue, but with less intensity.
-  - **Outcome**: This is referred to as **weakened momentum**—the negative momentum is somewhat softened due to the absence of a strong reversal signal.
+  - **Outcome**: This is referred to as **weakened momentum**--the negative momentum is somewhat softened due to the absence of a strong reversal signal.
 
 ### Combining Skewness and Momentum into a Conditional Factor
 
 Now that we've seen how skewness can either enhance or weaken momentum, we can think of combining these observations into a **conditional factor** for trading strategies:
 
 - **Conditional Factor**:
-  - **If momentum is positive and skew is positive**: Consider the momentum weakened—potentially reduce long positions or tighten stops.
-  - **If momentum is positive and skew is less positive**: Consider the momentum enhanced—potentially hold or increase long positions.
-  - **If momentum is negative and skew is positive**: Consider the momentum enhanced—be cautious of false recoveries and maintain or increase short positions.
-  - **If momentum is negative and skew is less positive**: Consider the momentum weakened—potentially lighten short positions.
+  - **If momentum is positive and skew is positive**: Consider the momentum weakened--potentially reduce long positions or tighten stops.
+  - **If momentum is positive and skew is less positive**: Consider the momentum enhanced--potentially hold or increase long positions.
+  - **If momentum is negative and skew is positive**: Consider the momentum enhanced--be cautious of false recoveries and maintain or increase short positions.
+  - **If momentum is negative and skew is less positive**: Consider the momentum weakened--potentially lighten short positions.
 
 ### Conclusion
 

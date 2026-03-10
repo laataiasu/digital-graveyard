@@ -8,9 +8,9 @@ publish_external: true
 
 > 🧭 _i don't know what i want. i only know what i don't want._
 
-Hi, I’m **insert\_name** — a corporate wagie working in **Data & AI**.
+Hi, I’m **insert\_name** -- a corporate wagie working in **Data & AI**.
 
-Most of my time is spent tinkering with **tech, philosophy, and fulus** — often not productively, but always curiously.
+Most of my time is spent tinkering with **tech, philosophy, and fulus** -- often not productively, but always curiously.
 
 Outside the job, I build systems for sovereignty and do speculative things.
 
@@ -20,7 +20,7 @@ Maybe we can build something weird and meaningful.
 
 ### 🤝 Contact & Collab
 
-If you're cooking up something cool — Reach out to me on:
+If you're cooking up something cool -- Reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/ichsanulamal19/)
 

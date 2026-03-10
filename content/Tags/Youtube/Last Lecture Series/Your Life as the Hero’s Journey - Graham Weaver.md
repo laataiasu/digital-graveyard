@@ -36,7 +36,7 @@ Identity is a product of the subconscious mind, often built on past failures and
 
 ## The Hero's Journey Architecture
 
-The Hero's Journey is more than a story trope—it is the architecture of a meaningful life.
+The Hero's Journey is more than a story trope--it is the architecture of a meaningful life.
 - **The Call to Adventure**: A moment or question that spurs you to explore your potential (e.g., "What if you were put on this earth to do something special?").
 - **Crossing the Threshold**: The transition from a comfortable, familiar state to the pursuit of dreams. This crossover involves a choice between safety and growth.
 - **Navigating the Tension**: Balance the belief that you are already "enough" with the hunger to achieve something special. Clarity on your "Why" helps navigate this tension.
@@ -48,7 +48,7 @@ The Hero's Journey is more than a story trope—it is the architecture of a mean
 - **Focus on Bright Spots**: Success comes from leaning into strengths and what is already working well.
 - **Career Adaptability**: Careers should adapt to personal commitments and well-being, not the other way around. 
 - **Interpersonal Excellence**: Focus primarily on improving self-awareness and social skills to avoid bottlenecking your technical strengths.
-- **The Impact of Success**: Your own self-realization doesn't just benefit you—it inspires and grants permission to others to do the same.
+- **The Impact of Success**: Your own self-realization doesn't just benefit you--it inspires and grants permission to others to do the same.
 
 ### Final Takeaways
 Avoid the "Not Now" trap. Listen to your heart, focus on your strengths, and invite diverse voices into your journey. Success is designed, not found.

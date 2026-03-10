@@ -521,7 +521,7 @@ LangChain originally introduced Chains, which allowed developers to build sequen
 LCEL (LangChain Expression Language) – A declarative way to compose AI workflows.
 LangGraph – A framework for agentic workflows with complex state management.
 Runnables: The New Standard
-The Runnable interface is now the core building block of LangChain. It standardizes how components—such as LLMs, output parsers, retrievers, and agent workflows—are executed and composed.
+The Runnable interface is now the core building block of LangChain. It standardizes how components--such as LLMs, output parsers, retrievers, and agent workflows--are executed and composed.
 
 What Can Runnables Do?
 
@@ -881,7 +881,7 @@ Tools can be attached to chat models, allowing AI systems to dynamically decide 
 
 model_with_tools = model.bind_tools([power])
 How AI Decides When to Use Tools
-The model does not always use tools—it decides based on input relevance.
+The model does not always use tools--it decides based on input relevance.
 
 If a question is general, the model responds directly:
 

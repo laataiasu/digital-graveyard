@@ -53,7 +53,7 @@ tags:
 
 * Early academic work was criticized as "supernatural" due to subject matter.
 
-* Argued romantic love is **biologically real**—like anger, fear, or joy.
+* Argued romantic love is **biologically real**--like anger, fear, or joy.
 
 * Evidence from 200+ societies worldwide: all experience love, regardless of culture, religion, or tradition.
 
@@ -77,9 +77,9 @@ tags:
 
   * Rats (\~30 seconds), elephants (\~5 days), foxes (longer).
   * Labeled it **“animal magnetism”**.
-* Romantic love in humans is **more sustained**—can last years or decades.
+* Romantic love in humans is **more sustained**--can last years or decades.
 * Brain systems involved are similar across species.
-* Darwin suggested attraction exists even in butterflies—foundation of human love systems.
+* Darwin suggested attraction exists even in butterflies--foundation of human love systems.
 
 ---
 
@@ -102,7 +102,7 @@ tags:
 
 * Romantic love is a **basic, evolved brain system**, not a cultural invention.
 * Vital for reproduction, child-rearing, and human survival.
-* All humans suffer from love—**nobody escapes it unscathed**.
+* All humans suffer from love--**nobody escapes it unscathed**.
 * Love and attachment form the **biological and emotional core** of human partnerships.
 * Purpose of studying love is to **help people understand** and cope with its power.
 
@@ -127,8 +127,8 @@ tags:
 * **Ventral Tegmental Area (VTA)**:
 
   * Activated in romantic love.
-  * Produces dopamine—linked with motivation, craving, elation.
-* Romantic love is not just emotion—it’s a **basic drive**, like hunger/thirst.
+  * Produces dopamine--linked with motivation, craving, elation.
+* Romantic love is not just emotion--it’s a **basic drive**, like hunger/thirst.
 * Evolution:
 
   * Sex drive → broad mate selection.
@@ -192,7 +192,7 @@ tags:
 ### 🧪 **Collaboration with Match.com**
 
 * Chief Science Advisor since \~2009.
-* Created personality test based on brain systems—taken by 15M+ people in 40+ countries.
+* Created personality test based on brain systems--taken by 15M+ people in 40+ countries.
 
 **Singles in America Study (Annually):**
 
@@ -341,7 +341,7 @@ Here is a concise, structured summary of the content using bullet points and cat
 
   * Superior **linguistic, emotional, and contextual processing**.
   * **Holistic, long-term thinking**, **trusting**, **emotionally expressive**.
-* **Conclusion**: Men and women are **not alike**, but **complementary**—like two feet.
+* **Conclusion**: Men and women are **not alike**, but **complementary**--like two feet.
 
 ---
 
@@ -450,7 +450,7 @@ Here is a concise, structured summary of the content using bullet points and cat
 
 * Example:
 
-  * NYC singles didn’t want to meet New Jersey singles — reflects personality differences.
+  * NYC singles didn’t want to meet New Jersey singles -- reflects personality differences.
 
 ---
 

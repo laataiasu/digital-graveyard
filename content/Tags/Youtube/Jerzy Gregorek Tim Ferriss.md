@@ -316,7 +316,7 @@ Here’s a reformatted version focusing on core learning content:
    - Look up to individuals who exemplify physical vitality and grace, such as Anela.
 
 7. **Quotes for Reflection**
-   - "Hard choices, easy life; easy choices, hard life." — A reminder of the value of making thoughtful decisions.
+   - "Hard choices, easy life; easy choices, hard life." -- A reminder of the value of making thoughtful decisions.
 
 ---
 

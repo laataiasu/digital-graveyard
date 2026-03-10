@@ -28,9 +28,9 @@ Consider this: a neural network looks complex, filled with numerous nodes (neuro
 But, let's simplify this idea with an analogy:
 
 - Imagine a child playing in the sand with red and blue shells scattered around. The task is simple: **draw a line that separates the red shells from the blue ones**. The child instinctively draws a line separating the two colors. 
-  - This is essentially what a neural network does—it tries to find the best line (or boundary) that separates different types of data.
+  - This is essentially what a neural network does--it tries to find the best line (or boundary) that separates different types of data.
 
-For more complicated data, where the shells are not easily separated by a straight line, a deeper neural network—one with more layers and nodes—comes into play. It can learn to draw a more complex boundary that accurately separates the data.
+For more complicated data, where the shells are not easily separated by a straight line, a deeper neural network--one with more layers and nodes--comes into play. It can learn to draw a more complex boundary that accurately separates the data.
 
 #### Conclusion
 

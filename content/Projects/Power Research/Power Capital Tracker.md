@@ -130,4 +130,4 @@ Would you like me to now:
 3. Help design an enrichment pipeline (e.g., auto-search articles for links)?
     
 
-You name it — I’ll code it.
+You name it -- I’ll code it.

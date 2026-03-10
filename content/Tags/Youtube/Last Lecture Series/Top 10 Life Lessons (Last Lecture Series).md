@@ -50,7 +50,7 @@ Important lessons compiled from various experiences, including living in Austral
 - **Character-Building Experiences**: Step out of your comfort zone. Reflection integrated with action turns mistakes into wisdom.
 - **Leaders Find the Words**: Honest communication earns followers. Connecting with an audience requires finding the *right* words, not just many words.
 - **Critical Thinking**: Develop pattern recognition through constant practice and asking the right questions.
-- **Meaning through Commitment**: Build meaning by committing to things greater than yourself—loved ones, life's work, or community.
+- **Meaning through Commitment**: Build meaning by committing to things greater than yourself--loved ones, life's work, or community.
 
 ---
 

@@ -488,7 +488,7 @@ Incorporating transaction costs into portfolio optimization is complex due to th
 
 #### Why Do Portfolios Diverge Over Time?
 
-When managing portfolios, even when two portfolios employ the same underlying strategy, are run on the same asset universe, and cover the same period, they can end up with different portfolio compositions if started at different times. This phenomenon is due to **path dependency**—a concept where the sequence of events or transitions in portfolio weights affects the final outcome.
+When managing portfolios, even when two portfolios employ the same underlying strategy, are run on the same asset universe, and cover the same period, they can end up with different portfolio compositions if started at different times. This phenomenon is due to **path dependency**--a concept where the sequence of events or transitions in portfolio weights affects the final outcome.
 
 **Key Factors Behind Path Dependency**:
 

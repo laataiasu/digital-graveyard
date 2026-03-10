@@ -12,15 +12,15 @@ title: Intro
 
 <blockquote class="wp-block-quote">
   <p>
-    "What is good?—Whatever augments the feeling of power, the will to power, power itself, in man.
+    "What is good?--Whatever augments the feeling of power, the will to power, power itself, in man.
   </p>
   
   <p>
-    What is evil?—Whatever springs from weak-ness.
+    What is evil?--Whatever springs from weak-ness.
   </p>
   
   <p>
-    What is happiness?—The feeling that power increases—that resistance is overcome."
+    What is happiness?--The feeling that power increases--that resistance is overcome."
   </p>
 </blockquote>
 

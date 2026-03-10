@@ -15,7 +15,7 @@ Congratulations on progressing to this stage! The knowledge you've gained so far
 At its core, **quantitative trading** is about using **statistical analysis** and **modeling** to predict market behavior. These predictions are then used to make trades, with the goal of generating profit. The process of developing a quantitative trading strategy can be broken down into several key steps:
 
 1. **Idea Generation**: 
-   - This is where the process begins, with a hypothesis—a new idea about how the market might work.
+   - This is where the process begins, with a hypothesis--a new idea about how the market might work.
    - A **hypothesis** is essentially a specific statement about market behavior that you believe to be true. For example, "Stocks mentioned in financial news are likely to increase in price."
 
 2. **Hypothesis Formation**:
@@ -38,7 +38,7 @@ At its core, **quantitative trading** is about using **statistical analysis** an
 
 7. **Optimization**:
    - Optimize the model to improve performance. This might involve adjusting parameters, adding constraints, or combining multiple hypotheses.
-   - However, beware of overfitting—making your model too specific to past data, which might reduce its effectiveness on future data.
+   - However, beware of overfitting--making your model too specific to past data, which might reduce its effectiveness on future data.
 
 8. **Implementation**:
    - Once optimized, the model is ready to be implemented in real-world trading. At this stage, you execute trades based on the model's signals.
@@ -87,7 +87,7 @@ A hypothesis that forms the basis of a trading strategy must go through several 
 3. **Backtesting**:
    - **Definition**: The process of rigorously simulating the entire trading strategy using historical data to evaluate its performance.
    - **Purpose**: To test how the strategy would have performed in the past, allowing you to identify potential issues and refine the strategy before implementing it in live trading.
-   - **Caution**: It is important to resist the temptation to jump directly into backtesting, as this can lead to overfitting—a phenomenon where a model performs well on historical data but poorly on new, unseen data. Overfitting will be discussed in more detail later.
+   - **Caution**: It is important to resist the temptation to jump directly into backtesting, as this can lead to overfitting--a phenomenon where a model performs well on historical data but poorly on new, unseen data. Overfitting will be discussed in more detail later.
 
 ## 3. Types of Trading Strategies
 
@@ -100,7 +100,7 @@ A hypothesis that forms the basis of a trading strategy must go through several 
    - **Example**: Trading two companies in the beverage industry. If one stock appreciates more than the other, you might bet that the lagging stock will catch up, and enter positions to capitalize on this differential.
 
 #### 3. **Cross-Sectional Strategies** (Equity Statistical Arbitrage or Equity Market Neutral Investing):
-   - **Description**: These strategies involve comparing a large group of stocks—often hundreds or thousands—to determine which to hold in long and short portfolios.
+   - **Description**: These strategies involve comparing a large group of stocks--often hundreds or thousands--to determine which to hold in long and short portfolios.
    - **Goal**: Profit from transient market phenomena while minimizing exposure to overall market movements.
    - **Example**: A momentum-based strategy where stocks are ranked based on prior returns over a given period. Those with stronger returns might be held long, while those with weaker returns might be shorted.
 
@@ -120,7 +120,7 @@ A hypothesis that forms the basis of a trading strategy must go through several 
 
 ### Conclusion
 
-In summary, the development of a trading strategy is a multi-phase process that begins with idea generation and basic validation in the exploratory research phase, followed by more rigorous testing, including backtesting and risk assessment. Different types of strategies—from single asset to complex cross-sectional and alternative data strategies—offer various ways to approach trading, with larger institutions often focusing on strategies that can handle large capital and provide differentiated insights.
+In summary, the development of a trading strategy is a multi-phase process that begins with idea generation and basic validation in the exploratory research phase, followed by more rigorous testing, including backtesting and risk assessment. Different types of strategies--from single asset to complex cross-sectional and alternative data strategies--offer various ways to approach trading, with larger institutions often focusing on strategies that can handle large capital and provide differentiated insights.
 
 Understanding these phases and types of strategies will help you better appreciate the nuances of trading strategy development and prepare you for more advanced topics in quantitative finance.
 
@@ -200,7 +200,7 @@ Developing a cross-sectional equity investing strategy is a detailed and iterati
 
 ## 5. Alpha Discovery: The Core of Quantitative Trading
 
-The **alpha discovery** phase is one of the most critical and exciting stages in developing a quantitative trading strategy. This is where you search for and refine "alphas"—the key signals that drive your trading decisions.
+The **alpha discovery** phase is one of the most critical and exciting stages in developing a quantitative trading strategy. This is where you search for and refine "alphas"--the key signals that drive your trading decisions.
 
 ### What is an Alpha?
 
@@ -214,7 +214,7 @@ The **alpha discovery** phase is one of the most critical and exciting stages in
   
 - **Alpha Vector**: The ranks themselves form the alpha vector. Stocks with higher ranks are likely candidates for long positions, while those with lower ranks might be shorted.
   
-- **Trading Decision**: The alpha vector directly informs your trading decisions—deciding which stocks to hold long, which to short, and in what proportions.
+- **Trading Decision**: The alpha vector directly informs your trading decisions--deciding which stocks to hold long, which to short, and in what proportions.
 
 ### Alpha vs. Trading Signal
 
@@ -226,7 +226,7 @@ The **alpha discovery** phase is one of the most critical and exciting stages in
 
 **1. Hypothesis Testing**:
    - **Start with a Hypothesis**: This could be a theory about market behavior, such as "stocks with strong momentum tend to continue performing well."
-   - **Iterative Testing**: The process is iterative—you develop and test multiple alphas, refine them, and test again. This could involve backtesting your alphas on historical data to see if they consistently predict returns.
+   - **Iterative Testing**: The process is iterative--you develop and test multiple alphas, refine them, and test again. This could involve backtesting your alphas on historical data to see if they consistently predict returns.
 
 **2. Combining Alphas**:
    - **Multiple Alphas**: In modern markets, a single alpha rarely provides consistent positive returns. Instead, multiple alphas are often combined to create a more robust trading signal.
@@ -241,7 +241,7 @@ The **alpha discovery** phase is one of the most critical and exciting stages in
 
 - **Final Alpha Vector**: The goal of the alpha discovery phase is to produce a single, robust alpha vector that incorporates information from multiple individual alphas.
   
-- **Informed Trading Decisions**: This combined alpha vector provides a comprehensive view, helping you make more informed trading decisions—whether that’s selecting stocks to long or short, or determining the appropriate position sizes.
+- **Informed Trading Decisions**: This combined alpha vector provides a comprehensive view, helping you make more informed trading decisions--whether that’s selecting stocks to long or short, or determining the appropriate position sizes.
 
 ### Example: Combining Price-Driven and Fundamental Alphas
 
@@ -249,7 +249,7 @@ The **alpha discovery** phase is one of the most critical and exciting stages in
   
 - **Fundamental Alpha**: Combine this with a fundamental alpha, such as one based on earnings growth or P/E ratio.
   
-- **Complementary Nature**: These alphas might complement each other because they rely on different types of information—momentum looks at price trends, while fundamentals assess a company's financial health.
+- **Complementary Nature**: These alphas might complement each other because they rely on different types of information--momentum looks at price trends, while fundamentals assess a company's financial health.
   
 - **Combined Signal**: By integrating these alphas, you can create a more balanced and potentially more powerful trading signal that accounts for both market sentiment and underlying business performance.
 

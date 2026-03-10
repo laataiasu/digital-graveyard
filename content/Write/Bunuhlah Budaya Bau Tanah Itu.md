@@ -34,6 +34,6 @@ Do not sustain that which desires death. Turn off those cultures, except for tho
 
 Bathe, pray for, bury those cultural corpses. Over time, there will be those who feel nostalgic and need to visit them. Their graves are already clear with digitization.
 
-Many priorities remain unresolved—physical hunger, intellectual hunger, spiritual hunger. Those outdated cultures cannot feed those hungry needs.
+Many priorities remain unresolved--physical hunger, intellectual hunger, spiritual hunger. Those outdated cultures cannot feed those hungry needs.
 
 Turn off the outdated cultures; turn off those who want to 'appear' to save.

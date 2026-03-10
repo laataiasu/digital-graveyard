@@ -361,7 +361,7 @@ This foundation sets the stage for deeper explorations into vector spaces, trans
 
 #### Summary:
 
-- **Linear transformations** are central to linear algebra and are always represented by matrices. Understanding them through visualization—especially by imagining how grids are transformed—helps to intuitively grasp how matrices manipulate space. These transformations are fundamental for topics like matrix-vector multiplication, eigenvalues, and more complex vector space concepts.
+- **Linear transformations** are central to linear algebra and are always represented by matrices. Understanding them through visualization--especially by imagining how grids are transformed--helps to intuitively grasp how matrices manipulate space. These transformations are fundamental for topics like matrix-vector multiplication, eigenvalues, and more complex vector space concepts.
 
 Next, we'll delve into how these transformations specifically relate to matrices and how different types of matrices (e.g., rotations, scalings) affect vectors.
 

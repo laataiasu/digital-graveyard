@@ -57,7 +57,7 @@ Understanding these metrics is crucial for making informed investment decisions 
 
 ### Understanding Logarithmic Returns in Finance
 
-In finance, particularly among quantitative analysts, there's a quantity that's frequently used and closely related to the raw return—this is the **logarithmic return** (or log return). While the raw return gives a straightforward percentage change in price, the log return offers a different perspective with some unique advantages.
+In finance, particularly among quantitative analysts, there's a quantity that's frequently used and closely related to the raw return--this is the **logarithmic return** (or log return). While the raw return gives a straightforward percentage change in price, the log return offers a different perspective with some unique advantages.
 
 #### Defining Raw and Log Returns
 

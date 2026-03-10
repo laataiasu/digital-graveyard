@@ -289,7 +289,7 @@ Here’s a more streamlined version focusing on the core learning content:
    - Extreme fears (e.g., suitcase nukes, financial crises) can consume mental resources without realistic grounding.
 
 3. **Disaster Preparedness**:
-   - Examples: Fire extinguishers, seatbelts—low-cost precautions against unlikely but serious events.
+   - Examples: Fire extinguishers, seatbelts--low-cost precautions against unlikely but serious events.
    - Personal experience: Training for high-magnitude earthquakes emphasizes practical, low-cost preparations.
 
 4. **Black Swan Events**:

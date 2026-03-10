@@ -354,7 +354,7 @@ Instead of minimizing variance, another approach is to maximize portfolio return
 
 #### 3. Maximizing Portfolio Return and Minimizing Portfolio Variance
 
-A more comprehensive approach combines both objectives—maximizing returns and minimizing variance—by introducing a tradeoff parameter $b$.
+A more comprehensive approach combines both objectives--maximizing returns and minimizing variance--by introducing a tradeoff parameter $b$.
 
 - **Objective:**
   $$
@@ -399,7 +399,7 @@ These formulations provide a flexible framework for addressing different portfol
 
 ### Rebalancing a Portfolio
 
-After constructing a portfolio using optimization techniques, your job as a portfolio manager isn't finished. The next crucial step is to regularly monitor and rebalance the portfolio to ensure it stays aligned with your investment goals. Over time, the value of assets changes, which affects the portfolio weights—the proportion of the total investment allocated to each asset. 
+After constructing a portfolio using optimization techniques, your job as a portfolio manager isn't finished. The next crucial step is to regularly monitor and rebalance the portfolio to ensure it stays aligned with your investment goals. Over time, the value of assets changes, which affects the portfolio weights--the proportion of the total investment allocated to each asset. 
 
 #### Why Rebalance?
 

@@ -89,7 +89,7 @@ By focusing on these core aspects, we can gain a deeper understanding of fallibi
    - Episodes illustrate the importance of questioning established expertise, emphasizing that experience can lead to cognitive biases.
 
 2. **Testing Hypotheses:**
-   - The main character frequently formulates theories based on the best available evidence, testing them rigorously—even at the risk of patient safety—reflecting the iterative nature of scientific inquiry.
+   - The main character frequently formulates theories based on the best available evidence, testing them rigorously--even at the risk of patient safety--reflecting the iterative nature of scientific inquiry.
    - The series subverts the typical portrayal of protagonists by showing that they do not always succeed immediately; often, they must revise their theories based on test results.
 
 ### Personal Academic Journey

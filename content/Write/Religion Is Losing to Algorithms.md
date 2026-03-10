@@ -1,5 +1,5 @@
 ---
-title: "Religion Is Losing — Not to Atheism, But to Algorithms"
+title: "Religion Is Losing -- Not to Atheism, But to Algorithms"
 date: 2025-12-08T19:40:31+07:00
 tags: ["journal", "essay"]
 publish_external: true
@@ -22,7 +22,7 @@ Now look at Indonesia.
 Plastic everywhere.
 Forests destroyed.
 Idolization of useless charismatic figures.
-No innovation—only consumption.
+No innovation--only consumption.
 
 If Islam were actually influencing behavior, this would not be the outcome. What exists instead is **symbolic Islam**: identity without enforcement, ritual without consequence.
 
@@ -30,7 +30,7 @@ The uncomfortable truth: people don’t “disobey” religion. Religion simply 
 
 ### People Are Not Weak. They Are Engineered.
 
-Most Indonesians are not immoral—they are algorithmically programmed.
+Most Indonesians are not immoral--they are algorithmically programmed.
 
 Desire today is mimetic and automated. People want what they see others wanting. TikTok, Instagram, and YouTube decide what feels normal, attractive, and valuable.
 
@@ -42,7 +42,7 @@ Guess who wins.
 
 ### Government: Professional Manipulators
 
-The state has more power to shape behavior than any preacher ever did. But politicians don’t govern—they perform.
+The state has more power to shape behavior than any preacher ever did. But politicians don’t govern--they perform.
 
 Indonesian populism follows a predictable pattern:
 
@@ -52,7 +52,7 @@ Indonesian populism follows a predictable pattern:
 4. Claim heroism.
 5. Repeat to stay in power.
 
-Poverty is not solved—it is **maintained**.
+Poverty is not solved--it is **maintained**.
 
 Keep people poor and undereducated.
 Then distribute bansos with your face on it.
@@ -88,7 +88,7 @@ Look at what is considered “high status”:
 People don’t feel superior because of virtue.
 They feel superior because the algorithm tells them they should.
 
-This is social engineering—perfected.
+This is social engineering--perfected.
 
 Religion promised justice and equality.
 Brands promise confidence and identity.
@@ -111,7 +111,7 @@ So its “market share” shrinks.
 Its communities stagnate.
 Its moral authority collapses.
 
-People no longer feel guilt for abandoning its values—because guilt requires relevance.
+People no longer feel guilt for abandoning its values--because guilt requires relevance.
 
 ### Gen Z: Cracks in the System
 
@@ -126,7 +126,7 @@ This isn’t revival. It’s damage control.
 
 ### The Algorithm Is the New Priest
 
-TikTok doesn’t just entertain—it decides:
+TikTok doesn’t just entertain--it decides:
 
 * What you desire
 * Who you envy
@@ -162,7 +162,7 @@ The state exploits it.
 Capitalism mastered it.
 Algorithms enforce it.
 
-Adapt—or remain decorative.
+Adapt--or remain decorative.
 
 That’s the choice.
 

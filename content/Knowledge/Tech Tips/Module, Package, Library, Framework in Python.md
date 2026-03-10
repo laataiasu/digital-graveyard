@@ -12,7 +12,7 @@ publish_external: true
 
 ## 🔹 1. Module
 
-A **module** is a single Python file (`.py`) that contains code—functions, classes, variables, etc.
+A **module** is a single Python file (`.py`) that contains code--functions, classes, variables, etc.
 
 ```python
 # my_module.py
@@ -53,7 +53,7 @@ from my_package import module1
 
 ## 🔹 3. Library
 
-A **library** is a broader term—it refers to a **collection of packages and modules** that offer related functionality.
+A **library** is a broader term--it refers to a **collection of packages and modules** that offer related functionality.
 
 Examples:
 
@@ -75,7 +75,7 @@ Examples:
 * `Flask` – micro web framework
 * `PyTorch` – deep learning framework
 
-> Frameworks are opinionated—they define how you should structure your app.
+> Frameworks are opinionated--they define how you should structure your app.
 
 ---
 

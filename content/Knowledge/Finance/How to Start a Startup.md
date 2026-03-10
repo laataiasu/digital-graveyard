@@ -31,7 +31,7 @@ The most successful startups are often mission-driven. A strong mission will kee
 
 Mission-oriented companies also attract more help from others, including investors, partners, and customers. If you can clearly convey the importance of your mission, people will want to support you. 
 
-Derivative companies—those that simply copy existing ideas—rarely succeed because they lack excitement and innovation. The best companies usually have a unique mission and a compelling vision that inspires others.
+Derivative companies--those that simply copy existing ideas--rarely succeed because they lack excitement and innovation. The best companies usually have a unique mission and a compelling vision that inspires others.
 
 ### Conviction and Market Understanding
 Great ideas often seem unappealing at first. The key is having conviction in your beliefs, even when others don’t agree. Most people will think your idea is bad at first, and that’s a good sign because it means there won’t be much competition.

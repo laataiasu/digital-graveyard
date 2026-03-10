@@ -178,7 +178,7 @@ Using this framework, the portfolio's variance can be systematically analyzed, h
 
 #### 1. **Introduction:**
    - **Context:** We are considering a portfolio with two stocks and two factors to model their returns.
-   - **Analogy:** Think of each stock as a different flavor of ice cream—e.g., butter pecan or mint chocolate chip.
+   - **Analogy:** Think of each stock as a different flavor of ice cream--e.g., butter pecan or mint chocolate chip.
 
 #### 2. **Stock Return Model:**
    - **Modeling the Return:** The return $R_i$ of stock $i$ can be expressed as a linear combination of factor returns plus a specific (idiosyncratic) return:
@@ -539,4 +539,4 @@ In this session, we're diving into the various types of risk models that are ess
 
 ### Summary
 
-Understanding these different types of risk models—whether it's the time series models like CAPM and Fama-French, the cross-sectional models, or the PCA models—provides a comprehensive toolkit for managing and analyzing risk in portfolios. In the upcoming projects, you'll apply the PCA risk model, and later on, you'll work with one of the time series models in the next term of the program. This foundation is crucial for effective quantitative investing and risk management.
+Understanding these different types of risk models--whether it's the time series models like CAPM and Fama-French, the cross-sectional models, or the PCA models--provides a comprehensive toolkit for managing and analyzing risk in portfolios. In the upcoming projects, you'll apply the PCA risk model, and later on, you'll work with one of the time series models in the next term of the program. This foundation is crucial for effective quantitative investing and risk management.

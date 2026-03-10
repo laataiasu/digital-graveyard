@@ -14,4 +14,4 @@ The keeper goes to the right way but can't keep it out
   
 Most of us don't want to admit that we're delusional, and our ideas are actually garbage. - fireship
   
-If I was stranded on an island and to get off that island was to make a pretty UI, I'd die there — Linux Torvald
+If I was stranded on an island and to get off that island was to make a pretty UI, I'd die there -- Linux Torvald

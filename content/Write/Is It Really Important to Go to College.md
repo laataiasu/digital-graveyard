@@ -6,13 +6,13 @@ title: Is It Really Important to Go to College?
 ---
 ## summary
 
-Now I want to talk about whether going to college is really important. These are just my personal opinions—there's no right or wrong here. I encourage you to read other sources as well so you can broaden your perspective.
+Now I want to talk about whether going to college is really important. These are just my personal opinions--there's no right or wrong here. I encourage you to read other sources as well so you can broaden your perspective.
 
 Let me begin with my own college experience. I studied in the Information Systems program at Universitas Indonesia. Looking back, I feel like college was a waste of time for me. One reason is that I realized too late that I lacked emotional intelligence. I didn’t really think or plan what I wanted to do during college, and as a result, I didn't take full advantage of the experience.
 
-At first, I thought I could adapt easily to the environment and maintain my personality, and my first impression of the faculty was very positive—it felt comfortable and enjoyable. But once I officially enrolled and moved into the dormitory, things changed. I struggled to adapt socially. I didn't connect well with the people in my dorm, and I mostly kept to myself, trying to study the course materials on my own—especially programming, which I had no experience with.
+At first, I thought I could adapt easily to the environment and maintain my personality, and my first impression of the faculty was very positive--it felt comfortable and enjoyable. But once I officially enrolled and moved into the dormitory, things changed. I struggled to adapt socially. I didn't connect well with the people in my dorm, and I mostly kept to myself, trying to study the course materials on my own--especially programming, which I had no experience with.
 
-I also didn’t actively participate in campus events or organizations. I just attended classes and did assignments. That made me feel like I was missing out and wasting my time. Later, I realized something important: if you don’t know how to make friends or build connections, college can feel meaningless. Yes, knowledge can be gained from books, online resources, or the internet, but college offers more than just knowledge—it offers networking, communication skills, and social experiences. If you’re not taking part in that, you might be wasting your time, especially in a field like Information Systems.
+I also didn’t actively participate in campus events or organizations. I just attended classes and did assignments. That made me feel like I was missing out and wasting my time. Later, I realized something important: if you don’t know how to make friends or build connections, college can feel meaningless. Yes, knowledge can be gained from books, online resources, or the internet, but college offers more than just knowledge--it offers networking, communication skills, and social experiences. If you’re not taking part in that, you might be wasting your time, especially in a field like Information Systems.
 
 Now let me share a few reasons why I think college may not be necessary for everyone:
 
@@ -20,7 +20,7 @@ Now let me share a few reasons why I think college may not be necessary for ever
     
 2. **It can be expensive.** If you don’t have a scholarship, paying for college out of pocket can be a big burden. Considering you still have to learn a lot by yourself, the return on investment might not be worth it.
     
-3. **It’s time-consuming.** In college, you have to follow strict schedules, wait for lectures, attend breaks, and manage your time around other people’s timelines. During the pandemic, when classes moved online, I felt more efficient (even though I admit I was still lazy at home). But at least I didn’t have to wait around—I could just watch the lecture videos on my own time.
+3. **It’s time-consuming.** In college, you have to follow strict schedules, wait for lectures, attend breaks, and manage your time around other people’s timelines. During the pandemic, when classes moved online, I felt more efficient (even though I admit I was still lazy at home). But at least I didn’t have to wait around--I could just watch the lecture videos on my own time.
     
 
 So in the end, do you really need to go to college? I think it depends. If you have ambition, if you want to build leadership skills, or if you're passionate about organizations and making connections, then college might be worth it. But if you’re just going without a clear goal, and especially if you're not interested in social interaction, it might not be the best use of your time and money.

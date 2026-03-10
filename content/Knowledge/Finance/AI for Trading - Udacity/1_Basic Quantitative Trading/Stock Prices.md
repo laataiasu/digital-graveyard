@@ -74,7 +74,7 @@ Owning stock in a company means you have a stake in that company's future succes
 
 ### Summary
 
-Understanding these terms is crucial when discussing the stock market. Securities can be broadly classified into three types—debt, derivatives, and equity—each with distinct characteristics and implications for investors. Debt securities focus on income through interest, derivatives derive their value from other assets, and equity securities represent ownership in companies. Each type plays a unique role in financial markets, offering different opportunities and risks.
+Understanding these terms is crucial when discussing the stock market. Securities can be broadly classified into three types--debt, derivatives, and equity--each with distinct characteristics and implications for investors. Debt securities focus on income through interest, derivatives derive their value from other assets, and equity securities represent ownership in companies. Each type plays a unique role in financial markets, offering different opportunities and risks.
 
 ## 3. Getting Started with Stock Investment
 

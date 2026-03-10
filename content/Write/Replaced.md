@@ -74,7 +74,7 @@ Some afraid of changes, or replacement. But actually, there is no loss because o
 
 <blockquote class="wp-block-quote">
   <p>
-    "Sometimes, people think they lose things, and they didn't lose them—it just gets moved."
+    "Sometimes, people think they lose things, and they didn't lose them--it just gets moved."
   </p>
   
   <cite>Sixth Sense.</cite>

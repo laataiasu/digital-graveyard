@@ -60,7 +60,7 @@ Scalability across machines = distributed system.
 
 ### ✅ 5. **Communication via Network Calls**
 
-Temporal services and workers communicate via gRPC over the network—another hallmark of a distributed system.
+Temporal services and workers communicate via gRPC over the network--another hallmark of a distributed system.
 
 ---
 
@@ -182,7 +182,7 @@ now = workflow.now()
 
 ## **Workflow** in Temporal?
 
-A **workflow** in Temporal is a **deterministic, stateful function** that orchestrates the execution of **activities** (units of external work), **timers**, **child workflows**, and **signals/queries** over **time**—possibly running for **minutes to months** while handling **failures, retries, and restarts** automatically.
+A **workflow** in Temporal is a **deterministic, stateful function** that orchestrates the execution of **activities** (units of external work), **timers**, **child workflows**, and **signals/queries** over **time**--possibly running for **minutes to months** while handling **failures, retries, and restarts** automatically.
 
 ---
 
@@ -308,7 +308,7 @@ A **Process Orchestrator** is a centralized system that **manages, coordinates, 
 
 #### 💡 What It Is:
 
-A **Spring Batch Application** is a Java-based framework for building **batch processing jobs** — often used for data transformation, ETL, or large-volume processing.
+A **Spring Batch Application** is a Java-based framework for building **batch processing jobs** -- often used for data transformation, ETL, or large-volume processing.
 
 #### 🔧 Key Features:
 

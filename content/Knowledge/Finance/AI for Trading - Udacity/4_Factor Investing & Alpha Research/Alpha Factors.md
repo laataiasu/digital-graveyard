@@ -74,7 +74,7 @@ Alpha factors, on the other hand, are variables that we believe can predict the 
 #### The Analogy: Listening in a Busy Restaurant
 
 Imagine you're having lunch at a busy restaurant:
-- The **risk factors** are like the background noise—the conversations of other patrons, the clattering of dishes, and the sounds from the kitchen.
+- The **risk factors** are like the background noise--the conversations of other patrons, the clattering of dishes, and the sounds from the kitchen.
 - The **alpha factors** are like the soft voices of your friends sitting at your table.
 
 If the background noise (risk factors) is too loud, it can drown out your friends' voices (alpha factors), making it hard to hear the important information.
@@ -92,7 +92,7 @@ In summary, risk factors help us understand and manage the broad, systematic ris
 In the world of quantitative finance, the term **alpha** is used in various contexts, each with a specific meaning. Let's clarify these definitions, particularly in the context of factor models, which are critical for building and managing investment portfolios.
 
 #### 1. **Alpha Model**
-An **alpha model** is an algorithm that processes input data and generates a list of numbers—one for each stock under consideration at a particular time. These numbers indicate how much we should invest in each stock:
+An **alpha model** is an algorithm that processes input data and generates a list of numbers--one for each stock under consideration at a particular time. These numbers indicate how much we should invest in each stock:
 - **Positive Number**: Suggests increasing the investment in that stock (long position).
 - **Negative Number**: Suggests selling or shorting the stock (short position).
 
@@ -174,7 +174,7 @@ By learning how to extract valuable insights from academic papers and adapt them
 
 - **Market Risk**: This is the risk that comes from the overall market movement, which tends to affect all stocks.
 
-- **Dollar Neutrality**: To control for market risk, we aim for the sum of the Alpha factor values to be zero. This means the portfolio is "dollar neutral"—it doesn’t have an inherent bias towards going long or short on the market as a whole.
+- **Dollar Neutrality**: To control for market risk, we aim for the sum of the Alpha factor values to be zero. This means the portfolio is "dollar neutral"--it doesn’t have an inherent bias towards going long or short on the market as a whole.
 
 - **Beta Assumption**: The lesson makes an important assumption that the average Beta (a measure of a stock’s exposure to market risk) across all stocks is 1. Although individual stock Betas might vary (e.g., one stock might have a Beta of 1.2 and another 0.8), we assume a Beta of 1 for simplicity, especially when dealing with a large number of stocks.
 
@@ -212,7 +212,7 @@ By transforming the Alpha factor to be dollar neutral, you reduce the portfolio�
 
 - **Sector Risk**: This refers to the risk associated with movements within a specific sector, like technology, finance, or healthcare. If your Alpha factor is exposed to sector risk, it might perform well or poorly simply because an entire sector is moving up or down, rather than due to the specific stocks you’ve chosen.
 
-- **Sector Neutrality**: To avoid this, we aim to make the Alpha factor "sector neutral," meaning the overall exposure to any particular sector is balanced—long positions in a sector are offset by short positions in that same sector.
+- **Sector Neutrality**: To avoid this, we aim to make the Alpha factor "sector neutral," meaning the overall exposure to any particular sector is balanced--long positions in a sector are offset by short positions in that same sector.
 
 ### Process of Sector Neutralization
 
@@ -663,7 +663,7 @@ Since these ranks perfectly match, the Rank IC in this example would be 1, indic
 
 - **Focus on Ranking Over Magnitude**:
   - In financial applications like calculating Rank IC, the exact magnitude of returns isn’t as important as getting the order (ranking) correct.
-  - Example: If stock ABC, with the highest alpha, performs significantly better than others, we only care that it was ranked the highest—not by how much it outperformed.
+  - Example: If stock ABC, with the highest alpha, performs significantly better than others, we only care that it was ranked the highest--not by how much it outperformed.
   - **Spearman rank correlation** gives credit for getting the rankings right, regardless of how off the actual return magnitudes are.
 
 - **Avoiding Penalty for Magnitude Errors**:
@@ -730,7 +730,7 @@ This equation is sometimes referred to as the "E=mc² of finance" because of its
 
 #### Understanding Breadth in Active Management
 
-- **Breadth (B)** refers to the number of independent trading opportunities within a portfolio, annualized. The key concept here is **independence**—it's not just about the number of trades or positions, but how distinct they are from each other in terms of risk exposure.
+- **Breadth (B)** refers to the number of independent trading opportunities within a portfolio, annualized. The key concept here is **independence**--it's not just about the number of trades or positions, but how distinct they are from each other in terms of risk exposure.
 
 - **Example**:
   - Suppose you are long on 30 oil services stocks and short on 30 semiconductor stocks for a year. Intuitively, you might think this gives you 60 independent trading opportunities. However, because all the stocks within each sector (oil services and semiconductors) are likely to move together due to their common sector risk, these positions are not truly independent. Instead, you have only **one independent bet**: that the oil services sector will outperform the semiconductor sector.
@@ -842,7 +842,7 @@ Transaction costs in trading are not just limited to the obvious fees like commi
   - However, spreading trades over time introduces the risk of **price movements** during the trading period, which could negatively impact the overall outcome.
 
 - **Trade Execution Strategy**:
-  - The strategy for executing trades—whether to complete them quickly or spread them out—depends on balancing the market impact against the risk of price movements.
+  - The strategy for executing trades--whether to complete them quickly or spread them out--depends on balancing the market impact against the risk of price movements.
 
 #### Impact on Alpha Factor Performance
 
@@ -1048,7 +1048,7 @@ By understanding these patterns and diagnosing potential issues, you can better 
 
 #### 2. **How Academics Use Quantiles**
    - **Focus on Raw Alpha Signals**: In academic research, the primary interest often lies in raw alpha signals. These are essentially the unprocessed or unranked signals derived from various factors or indicators that might predict stock returns.
-   - **Analysis of Tails**: Academics usually split the data into quantiles and concentrate their analysis on the extremes—the highest (top quantile) and lowest (bottom quantile) groups.
+   - **Analysis of Tails**: Academics usually split the data into quantiles and concentrate their analysis on the extremes--the highest (top quantile) and lowest (bottom quantile) groups.
      - **Why Tails?**: The focus on tails is because academics aim to identify broad market phenomena. The extremes are where significant effects, if any, are more likely to be observed.
      - **Tails and Market Phenomena**: An academic might find that a certain factor strongly influences the lowest quintile but has a lesser effect or no effect on other quintiles.
    - **Implication**: This approach means that the abnormal returns detected in academic studies may only apply to a specific subset of the stock universe, often ignoring how the factor performs across the entire spectrum.
@@ -1106,7 +1106,7 @@ In summary, the transfer coefficient is a critical metric in portfolio optimizat
    - **Practitioner Approach**: Practitioners aim to extend these academic insights so they can be applied more broadly across a variety of situations and to the entire stock universe.
 
 #### 2. **Example: Curvature of a Stock's Price Path**
-   - **Academic Insight**: Let's say research finds that the curvature of a stock's price path—whether it forms a convex or concave curve—has predictive value for future performance. 
+   - **Academic Insight**: Let's say research finds that the curvature of a stock's price path--whether it forms a convex or concave curve--has predictive value for future performance. 
    - **Curvature Defined**:
      - **Convex Curve**: A price path that curves upward, suggesting accelerating growth.
      - **Concave Curve**: A price path that curves downward, indicating decelerating growth.
@@ -1177,7 +1177,7 @@ By integrating conditional factors into your trading strategies, you can better 
 
 ## 29. Summary
 
-This lesson covered the foundational steps in developing alpha factors—key components in quantitative trading strategies. Here’s a brief rundown of the process:
+This lesson covered the foundational steps in developing alpha factors--key components in quantitative trading strategies. Here’s a brief rundown of the process:
 1. **Propose and Generate Alpha Factors**: These are hypotheses or ideas based on academic research or market intuition.
 2. **Evaluation**: Initial tests to identify promising factors.
 3. **Out-of-Sample Testing**: Assessing the alpha's performance on historical data not used during its construction to avoid overfitting.
@@ -1186,7 +1186,7 @@ This lesson covered the foundational steps in developing alpha factors—key com
 6. **Monitoring**: Continuous observation as the alpha’s effectiveness may diminish due to market dynamics.
 7. **Iteration**: The cycle repeats with new alpha factors as older ones lose their edge.
 
-The process underscores the importance of avoiding overfitting, particularly through rigorous out-of-sample testing. Overfitting—when a model is too closely tailored to past data—can render an alpha ineffective in real trading.
+The process underscores the importance of avoiding overfitting, particularly through rigorous out-of-sample testing. Overfitting--when a model is too closely tailored to past data--can render an alpha ineffective in real trading.
 
 #### **Approaching Research Papers**
 Reading research papers can be intimidating, but developing expertise in a specific field makes it easier. Key strategies include:
@@ -1199,7 +1199,7 @@ Research papers follow a specific structure that mirrors the scientific method:
 1. **Title and Authors**: Gives an idea of the topic and the credibility of the work.
 2. **Abstract**: A brief summary of the paper, often enough to decide whether the paper is worth reading.
 3. **Introduction**: Provides background and rationale for the study.
-4. **Methods**: Describes how the research was conducted—important if you want to replicate the study.
+4. **Methods**: Describes how the research was conducted--important if you want to replicate the study.
 5. **Results**: The key findings, often supplemented with tables and figures.
 6. **Discussion/Conclusion**: Explains the implications of the results and how they relate to the original research question.
 

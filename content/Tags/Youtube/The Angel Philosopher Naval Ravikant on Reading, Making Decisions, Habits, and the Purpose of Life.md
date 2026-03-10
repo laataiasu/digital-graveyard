@@ -221,7 +221,7 @@ Here’s a structured rewrite of the core content focused on learning:
 
 #### Short-Term Sacrifice for Long-Term Gain
 - **Hard Choices**: Making difficult decisions now (e.g., ethical behavior, saving money) leads to an easier life later. 
-- **Quote**: "Easy choices lead to a hard life; hard choices lead to an easy life." — Jersey Gregory
+- **Quote**: "Easy choices lead to a hard life; hard choices lead to an easy life." -- Jersey Gregory
 
 #### Understanding Intelligence
 - **Real Knowledge**: Distinguish between genuine understanding and pretension. 
@@ -279,7 +279,7 @@ Feel free to let me know if you need further modifications or specific sections 
 
 5. **Entropy and Existence**
    - Life forms, including humans, locally reverse entropy while contributing to the universe's overall increase in disorder.
-   - Creating complex systems—through art, relationships, or innovation—accelerates the universe’s journey toward uniformity.
+   - Creating complex systems--through art, relationships, or innovation--accelerates the universe’s journey toward uniformity.
 
 6. **Philosophical Perspectives**
    - Concepts like eternal life lack empirical support and are often unconvincing.

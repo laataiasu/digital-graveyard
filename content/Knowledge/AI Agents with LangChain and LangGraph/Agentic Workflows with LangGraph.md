@@ -11,7 +11,7 @@ Chains – Define fixed steps before and after an LLM call, ensuring reliable ex
 Agents – Allow the LLM to decide the flow of execution dynamically.
 
 Why LangGraph?
-Giving more control to an LLM reduces reliability—but LangGraph helps maintain reliability while enabling agentic behavior.
+Giving more control to an LLM reduces reliability--but LangGraph helps maintain reliability while enabling agentic behavior.
 
 More flexibility in designing workflows.
 Clear visibility into control flow (no hidden complex prompts).
@@ -196,12 +196,12 @@ It sets a strong foundation for more advanced multi-node and multi-agent workflo
 ## Exercise: Create a Router with LangGraph
 Lesson
 Cloud Resources
-Welcome to your Prompt Routing Challenge! In this exercise, you'll build a system that can intelligently route user inputs to different tasks based on an input. This technique is widely used in real-world applications where a single interface must handle multiple tasks — such as summarization, translation, or answering questions.
+Welcome to your Prompt Routing Challenge! In this exercise, you'll build a system that can intelligently route user inputs to different tasks based on an input. This technique is widely used in real-world applications where a single interface must handle multiple tasks -- such as summarization, translation, or answering questions.
 
 Scenario
-Imagine you're building a smart assistant that can handle various types of requests through a single conversation interface. Your assistant should understand the user's intent and respond accordingly — but each task may require a different prompt structure or strategy.
+Imagine you're building a smart assistant that can handle various types of requests through a single conversation interface. Your assistant should understand the user's intent and respond accordingly -- but each task may require a different prompt structure or strategy.
 
-To manage this complexity, you'll build a node router. This router will evaluate the user input and choose the most appropriate node to use. For example, it should be able to decide whether the user is asking for a summary, a translation, or a general question — and route the request to the correct prompt logic.
+To manage this complexity, you'll build a node router. This router will evaluate the user input and choose the most appropriate node to use. For example, it should be able to decide whether the user is asking for a summary, a translation, or a general question -- and route the request to the correct prompt logic.
 
 Challenge
 You're building a text processing application that can:
@@ -380,7 +380,7 @@ Managing State in LangGraph
 State management is essential in LangGraph workflows, where a StateGraph tracks inputs, outputs, and intermediate data. Understanding how to define and manage state properly improves reliability and control in AI-driven workflows.
 
 State Machines and LangGraph
-State-based systems are not new. State Machines—like traffic light controllers—transition between predefined states based on logic and conditions. In LangGraph, workflows follow a similar approach, where nodes represent states and edges define transitions.
+State-based systems are not new. State Machines--like traffic light controllers--transition between predefined states based on logic and conditions. In LangGraph, workflows follow a similar approach, where nodes represent states and edges define transitions.
 
 Defining State Schemas
 State schemas define what data is stored and updated as the workflow runs. Two common methods exist:
@@ -543,7 +543,7 @@ Workspaces may take up to 5 minutes to start.
 
 Summary: Using Reducers in LangGraph
 Overview
-This demo explains reducers in LangGraph—mechanisms that allow safe merging of parallel updates to the same field in a workflow’s state. It walks through basic examples with integers, lists, and LangChain messages, highlighting how reducers prevent conflicts when nodes operate in parallel.
+This demo explains reducers in LangGraph--mechanisms that allow safe merging of parallel updates to the same field in a workflow’s state. It walks through basic examples with integers, lists, and LangChain messages, highlighting how reducers prevent conflicts when nodes operate in parallel.
 
 Key Steps Covered
 1. Recap: Sequential Data Processing
@@ -713,7 +713,7 @@ Dynamically modify prompt instructions (personalized greetings).
 Configs enhance flexibility by making workflows adaptable to different contexts without rewriting code.
 4. Conclusion
 Config objects provide a powerful mechanism to parameterize workflows.
-They allow external information—such as API results, database fields, or user session data—to influence the workflow's behavior dynamically.
+They allow external information--such as API results, database fields, or user session data--to influence the workflow's behavior dynamically.
 Configurations greatly improve reusability and modularity of LangGraph applications.
 
 ## Agent Implementation
@@ -865,10 +865,10 @@ Lesson
 Cloud Resources
 Welcome to your Text-to-SQL Challenge!
 
-In this exercise, you’ll create a ReAct-based agent capable of interpreting natural language questions and converting them into SQL queries to extract data from a database. This kind of agent bridges the gap between human language and structured data — a valuable capability in many enterprise applications.
+In this exercise, you’ll create a ReAct-based agent capable of interpreting natural language questions and converting them into SQL queries to extract data from a database. This kind of agent bridges the gap between human language and structured data -- a valuable capability in many enterprise applications.
 
 Scenario
-You're working on a conversational analytics assistant that allows users to query business data in plain English. Users might say things like "What was the total sales last month?" or "List the top 5 products by revenue." — and expect instant answers from your system.
+You're working on a conversational analytics assistant that allows users to query business data in plain English. Users might say things like "What was the total sales last month?" or "List the top 5 products by revenue." -- and expect instant answers from your system.
 
 However, the underlying data is stored in a relational database. To access this data, your assistant must convert the user's query into a valid SQL command. Not only that, it needs to reason about the best way to get the answer and execute the query safely.
 
@@ -1186,7 +1186,7 @@ list(graph.get_state_history(config))
 Returns a chronological list of state snapshots, showing how the workflow evolved.
 
 Final Thoughts
-State is ephemeral—without checkpoints, it resets after each execution.
+State is ephemeral--without checkpoints, it resets after each execution.
 MemorySaver() is useful for debugging, but production systems should use PostgresSaver() for reliability.
 Threads track execution history, enabling persistent AI-driven interactions.
 By combining state tracking, checkpoints, and threads, LangGraph enables intelligent, memory-aware applications that evolve dynamically.
@@ -1297,7 +1297,7 @@ Welcome to your Loan Agent challenge. In this exercise, you’ll build a Loan Ag
 Scenario
 You're building an AI-powered loan recommendation agent for a fintech company. Based on customer profile data (such as name, income, credit history, etc.), your agent should return a structured recommendation.
 
-This agent will be integrated into a larger pipeline of automated decision-making. To ensure everything works smoothly, it’s essential that the agent’s output strictly follows a predefined schema — no extra fields, no format deviations.
+This agent will be integrated into a larger pipeline of automated decision-making. To ensure everything works smoothly, it’s essential that the agent’s output strictly follows a predefined schema -- no extra fields, no format deviations.
 
 Challenge
 The workflow should:

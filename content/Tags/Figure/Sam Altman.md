@@ -85,12 +85,12 @@ In this interview, OpenAI’s CEO, Sam Altman, reflects on complex challenges, e
    - **Reflections on Past Choices**: OpenAI’s approach emerged gradually, without an “oracle” guiding each move. This series of “reasonable decisions” now appear unconventional but were essential at each growth stage. Altman admits the process has shaped his outlook on future governance robustness.
 
 ### 3. **On Elon Musk, Lawsuit, and “Openness”**:
-   - **Diverging Views on Openness and Control**: Altman addresses Elon Musk’s recent lawsuit, challenging the direction and transparency of OpenAI, expressing confusion over Musk's motives. Musk previously advocated merging OpenAI with Tesla for strategic control—something OpenAI declined to maintain its autonomy.
+   - **Diverging Views on Openness and Control**: Altman addresses Elon Musk’s recent lawsuit, challenging the direction and transparency of OpenAI, expressing confusion over Musk's motives. Musk previously advocated merging OpenAI with Tesla for strategic control--something OpenAI declined to maintain its autonomy.
    - **Reframing “Open” in OpenAI**: Altman emphasizes that the “open” aspect for OpenAI is more about providing powerful tools to the public, often free, rather than strict open-source protocols. He supports nuanced openness, balancing between public good and responsible, secure deployment of advanced models.
    - **Hopes for Amicable Competition**: Altman hopes for constructive competition between OpenAI and Musk’s Grok. He encourages friendly rivalry, emphasizing that the real measure of success should be each entity’s innovations rather than disputes.
 
 ### 4. **On Open-Sourcing AI**:
-   - **The Role of Open Source in AI**: Altman supports a hybrid approach—open-sourcing smaller models that can be locally run while safeguarding larger, advanced models for broader ethical, security, and developmental considerations. Meta’s release of Llama models is noted as a step towards balancing innovation accessibility with protective measures.
+   - **The Role of Open Source in AI**: Altman supports a hybrid approach--open-sourcing smaller models that can be locally run while safeguarding larger, advanced models for broader ethical, security, and developmental considerations. Meta’s release of Llama models is noted as a step towards balancing innovation accessibility with protective measures.
    - **Encouraging Nuance over Extremes**: Altman points out that the open-source debate has “religious” fervor, but OpenAI advocates for measured openness tailored to specific use cases. This approach aims to provide both individual access to useful models and maintain control over advanced technology, aligned with OpenAI’s mission.
 
 ### 5. **Altman’s Vision for OpenAI’s Future**:
@@ -208,7 +208,7 @@ The text covers an interview between Sam Altman, OpenAI's CEO, and Lex Fridman, 
    - **Iterative Knowledge Development:** Fridman and Altman discuss how GPT is becoming a starting point for tasks, especially for younger users who increasingly rely on it across various knowledge-based workflows.
 
 ### 3. **Memory and Context Expansion:**
-   - **Longer Context Windows:** The models have moved from an 8K to a 128K token context window. Altman envisions future systems with even more extensive "memory"—potentially encompassing everything a user has ever shared with it. This advancement could enable the AI to provide increasingly personalized responses by drawing from all past interactions.
+   - **Longer Context Windows:** The models have moved from an 8K to a 128K token context window. Altman envisions future systems with even more extensive "memory"--potentially encompassing everything a user has ever shared with it. This advancement could enable the AI to provide increasingly personalized responses by drawing from all past interactions.
    - **Privacy and User Control:** Altman emphasizes the necessity of user choice in controlling what the model remembers. He asserts that transparency and control should be at the user’s discretion, enabling individuals to manage privacy and utility based on personal preference.
 
 ### 4. **Handling "Hallucinations" in AI Responses:**
@@ -216,7 +216,7 @@ The text covers an interview between Sam Altman, OpenAI's CEO, and Lex Fridman, 
    - **Public Perception:** The risk of erroneous outputs, particularly when used by journalists, is a topic of concern. Fridman suggests that the pressure for rapid content creation may exacerbate inaccuracies, especially if users trust the AI's outputs without verifying them.
 
 ### 5. **The Future of AI Reasoning and Compute Allocation:**
-   - **Slower, Deeper Thinking Models:** Altman foresees a need for AI models capable of "slow thinking"—allocating more computational resources to complex tasks while expediting simpler ones. This, he suggests, could entail creating specialized systems or layers to process different types of information.
+   - **Slower, Deeper Thinking Models:** Altman foresees a need for AI models capable of "slow thinking"--allocating more computational resources to complex tasks while expediting simpler ones. This, he suggests, could entail creating specialized systems or layers to process different types of information.
    - **Q-Star and OpenAI’s Research:** Altman is reluctant to share specifics on Q-Star but indicates that OpenAI continues to explore ways to enhance reasoning capabilities in AI. He hints that future models could feel like continuous evolutions rather than sudden leaps, though the iterative approach might not eliminate the sense of "shock updates" for the public.
 
 ### 6. **Iterative Deployment Philosophy:**
@@ -349,14 +349,14 @@ Here’s a well-organized breakdown of the discussion, focusing on the major ide
 
 4. **The Concept and Arrival of AGI**  
    - **Redefining AGI**: Rather than fixating on a specific AGI milestone, Sam suggests focusing on specific capabilities. He anticipates AI systems in the near future that could create substantial scientific and technological breakthroughs.
-   - **Scientific Discovery as an AGI Benchmark**: A key measure of AGI’s impact will be its ability to accelerate scientific discovery—a potential that could drive real economic and technological progress.
+   - **Scientific Discovery as an AGI Benchmark**: A key measure of AGI’s impact will be its ability to accelerate scientific discovery--a potential that could drive real economic and technological progress.
 
 5. **Governance and Power Balance in AGI Development**  
    - **Distributed Power**: Sam advocates for shared governance in AI development to prevent one individual or entity from wielding disproportionate control over AGI.
    - **Board Oversight**: He reflects on OpenAI’s internal governance challenges, stressing the importance of a balanced system where no single entity holds too much influence over AI’s direction.
 
 6. **Concerns and Risks Associated with AGI**  
-   - **Theatrical vs. Practical Risks**: While escaping containment (the “box”) is a concern for some researchers, Sam feels other risks—like the impacts of AI misuse or misalignment—require equal attention.
+   - **Theatrical vs. Practical Risks**: While escaping containment (the “box”) is a concern for some researchers, Sam feels other risks--like the impacts of AI misuse or misalignment--require equal attention.
    - **Existential Risks**: Sam acknowledges these, but they aren’t his primary worry. He maintains that tackling other significant AI-related issues will also help mitigate existential threats indirectly.
 
 ---

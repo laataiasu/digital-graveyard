@@ -17,7 +17,7 @@ Engineering news and influencers play a crucial role in what some may term as a 
 
 It's important to keep moving forward, as stagnation can lead to failure. Avoid falling victim to the "arrival fallacy," as fixating on reaching a goal can impede your progress and prevent you from discovering hidden treasures.
 
-Navigating through life involves encountering both positive and negative forces, often symbolized by the middle ground, a balance between the hellish and the devilish—something akin to Bartlebian and Dionysian ideals.
+Navigating through life involves encountering both positive and negative forces, often symbolized by the middle ground, a balance between the hellish and the devilish--something akin to Bartlebian and Dionysian ideals.
 
 There was a time when I aspired to bridge the gap between users and builders. However, my perspective has shifted, and I now harbor a deep aversion towards users, akin to my disdain for non-jujutsu sorcerers.
 

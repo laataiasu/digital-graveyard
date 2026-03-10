@@ -12,19 +12,19 @@ In this section of the course, we'll dive into the theory behind reinforcement l
 
 ### Supervised Learning: A Static Function
 
-Let's start by thinking about supervised learning. Consider an image classifier—this can be thought of as a static function. You pass in an image, and the classifier gives you a prediction, telling you what object is in the image. There's no notion of time involved here. If you pass in another image, you get another prediction. The classifier simply takes an input and produces an output.
+Let's start by thinking about supervised learning. Consider an image classifier--this can be thought of as a static function. You pass in an image, and the classifier gives you a prediction, telling you what object is in the image. There's no notion of time involved here. If you pass in another image, you get another prediction. The classifier simply takes an input and produces an output.
 
 Now, when I say "static" and "time," you might think of recurrent neural networks (RNNs), which can handle sequential data that varies over time. However, this isn't the kind of time we're referring to here. For example, if you input stock prices over a period and your model predicts whether the stock will go up or down tomorrow, it's still a static function in this context.
 
 ### Reinforcement Learning: Time and Planning
 
-Reinforcement learning, on the other hand, incorporates the concept of time. Imagine you're developing a self-driving car simulation. At each moment, the neural network takes a snapshot of the screen and decides the next action—whether to steer left or right, accelerate, or brake. This is where RL differs from supervised learning. While supervised learning is about repeatedly calling a function to get a prediction, RL is more like a loop with a goal in mind, such as driving to a specific destination.
+Reinforcement learning, on the other hand, incorporates the concept of time. Imagine you're developing a self-driving car simulation. At each moment, the neural network takes a snapshot of the screen and decides the next action--whether to steer left or right, accelerate, or brake. This is where RL differs from supervised learning. While supervised learning is about repeatedly calling a function to get a prediction, RL is more like a loop with a goal in mind, such as driving to a specific destination.
 
 In this loop, yes, the RL model still takes an image and produces an output, but it also considers the future. It’s not just about translating an image into an output; it’s about planning a sequence of actions to achieve a goal. Even though the car may only see where it is on the road right now, it understands that certain actions will lead it closer to its destination.
 
 ### Comparing Supervised Learning and Reinforcement Learning
 
-The major difference between supervised learning and reinforcement learning lies in their goals and how they approach time. In supervised learning, there’s no concept of planning or future goals. You simply take an input and produce an output—it's a static function. In contrast, reinforcement learning involves planning for the future and working towards a predefined goal.
+The major difference between supervised learning and reinforcement learning lies in their goals and how they approach time. In supervised learning, there’s no concept of planning or future goals. You simply take an input and produce an output--it's a static function. In contrast, reinforcement learning involves planning for the future and working towards a predefined goal.
 
 ### Understanding Data in Supervised Learning
 
@@ -36,7 +36,7 @@ It’s crucial to remember that these labeled datasets are created by humans. So
 
 Now, consider our self-driving car example again. If we used supervised learning, we'd need to provide a target for every image the car sees. But what should the target be? Should the car steer left, steer right, accelerate, or brake? Labeling every single frame the car encounters during a journey would be nearly impossible. For example, if your camera captures 30 frames per second and you have a one-hour drive, you'd need to label 108,000 images from just one trip!
 
-Instead, reinforcement learning uses goals rather than specific targets. Suppose you want to teach an RL algorithm to solve a maze. The goal here is to find the maze exit. You don't need to tell the algorithm what to do at each step in the maze—that would be supervised learning. Instead, the RL algorithm only needs to know the goal, and it will figure out the actions required to achieve it. This is the power of reinforcement learning, offering a new paradigm in machine learning.
+Instead, reinforcement learning uses goals rather than specific targets. Suppose you want to teach an RL algorithm to solve a maze. The goal here is to find the maze exit. You don't need to tell the algorithm what to do at each step in the maze--that would be supervised learning. Instead, the RL algorithm only needs to know the goal, and it will figure out the actions required to achieve it. This is the power of reinforcement learning, offering a new paradigm in machine learning.
 
 ## 2. Elements of a Reinforcement Learning Problem
 
@@ -46,7 +46,7 @@ In this lecture, we’ll dive into the core concepts of reinforcement learning (
 
 ### Agent and Environment
 
-The **agent** is the learner or decision-maker, and the **environment** is everything the agent interacts with. Think of yourself as the agent, and the world around you as the environment. For instance, if your goal is to ace a math exam, your environment includes everything related to that goal—classes, textbooks, homework, etc. You need to make decisions (study, take notes, etc.) to achieve your goal.
+The **agent** is the learner or decision-maker, and the **environment** is everything the agent interacts with. Think of yourself as the agent, and the world around you as the environment. For instance, if your goal is to ace a math exam, your environment includes everything related to that goal--classes, textbooks, homework, etc. You need to make decisions (study, take notes, etc.) to achieve your goal.
 
 #### Example 1: Tic Tac Toe
 - **Environment**: The computer program running the game, including any predefined rules or AI opponents.
@@ -825,7 +825,7 @@ In this lecture, we’ll reimplement the trend-following strategy using the rein
 
 ### Motivation
 
-Previously, when implementing trend-following, we had to shift returns—a process that likely felt unnatural. RL, however, operates over discrete time steps, allowing us to approach the problem more naturally. We'll eliminate the need for shifting data, making the process feel more like controlling a robot in a trading environment rather than manipulating a data frame.
+Previously, when implementing trend-following, we had to shift returns--a process that likely felt unnatural. RL, however, operates over discrete time steps, allowing us to approach the problem more naturally. We'll eliminate the need for shifting data, making the process feel more like controlling a robot in a trading environment rather than manipulating a data frame.
 
 ### Step-by-Step Walkthrough
 
@@ -953,7 +953,7 @@ This Q-Table is a crucial tool for our agent to decide which action to take at a
 
 **Understanding States and Actions:**
 
-Actions are straightforward—they can be represented as integers like 0, 1, or 2, corresponding to different columns in the table. States, however, are more complex and aren’t naturally represented as integers. We'll cover how to encode states in the next lecture, but for now, we'll assume that we can organize them in a table format.
+Actions are straightforward--they can be represented as integers like 0, 1, or 2, corresponding to different columns in the table. States, however, are more complex and aren’t naturally represented as integers. We'll cover how to encode states in the next lecture, but for now, we'll assume that we can organize them in a table format.
 
 **The Meaning of Q-Values:**
 

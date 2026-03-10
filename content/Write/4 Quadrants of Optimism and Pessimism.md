@@ -28,13 +28,13 @@ In this quadrant, one navigates life's daily currents with a sense of equilibriu
 
 For those who lack substantial [[Data]], there exists a distinct optimism. This perspective allows for a unique vantage point, where certainties may be elusive, yet the journey remains intriguing.
 
-For those deemed 'normal,' life often flows seamlessly. Yet, there are moments when one feels estranged, akin to Nietzsche, who grappled with societal conventions. While the mind may comprehend the social dynamics, finding fulfillment proves elusive, for it requires a conformity that negates the present moment's authenticity. In their consciousness, the specter of injustice, warfare, and social disparities persists—a humanistic ache that deems unfettered joy a moral quandary.
+For those deemed 'normal,' life often flows seamlessly. Yet, there are moments when one feels estranged, akin to Nietzsche, who grappled with societal conventions. While the mind may comprehend the social dynamics, finding fulfillment proves elusive, for it requires a conformity that negates the present moment's authenticity. In their consciousness, the specter of injustice, warfare, and social disparities persists--a humanistic ache that deems unfettered joy a moral quandary.
 
 Stoicism, often presented as the antithesis to such musings, espouses control over one's controllable spheres. However, for some, this philosophy falls short. There's a perpetual yearning to grasp the intangible, a sentiment that the likes of stoicism, birthed in an emperor's domain, may not readily satiate. It's an ideology that may elude the [[Luddite]], the commonplace, and the unassuming.
 
-Within [[Islam]], the balance lies in the wisdom: "You are not responsible for anybody's fault." It validates a detachment from uncontrollable matters, yet also encourages competition in benevolence—a duality worth contemplating.
+Within [[Islam]], the balance lies in the wisdom: "You are not responsible for anybody's fault." It validates a detachment from uncontrollable matters, yet also encourages competition in benevolence--a duality worth contemplating.
 
 Fear, a potent motivator, serves as a catalyst for action. It resists facile affirmations like "you are enough; love yourself." Instead, it prompts a relentless introspection: What if I err? What if I'm deceived, be it by science or faith? What if the world deceives me? The crux lies in discerning the personal repercussions, as well as the broader implications of acceptance or rejection.
 
-Ultimately, survival takes precedence—an instinct that precedes the validation of truths, in a world where certainties often blur into shades of uncertainty.
+Ultimately, survival takes precedence--an instinct that precedes the validation of truths, in a world where certainties often blur into shades of uncertainty.
 

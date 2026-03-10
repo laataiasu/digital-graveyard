@@ -472,13 +472,13 @@ By leveraging these tools and strategies, you can better navigate the complexiti
 
 ## 8. Alternate Data
 
-You're stepping into the fascinating world of trading and market analysis, where information is the most valuable currency. So far, we've explored various traditional sources of market data—like stock prices, corporate actions, fundamental analysis, and ETF compositional data—that are crucial for making informed trading decisions. But in today's fast-paced, information-rich environment, there's so much more that can influence the market.
+You're stepping into the fascinating world of trading and market analysis, where information is the most valuable currency. So far, we've explored various traditional sources of market data--like stock prices, corporate actions, fundamental analysis, and ETF compositional data--that are crucial for making informed trading decisions. But in today's fast-paced, information-rich environment, there's so much more that can influence the market.
 
 ### 1. **Beyond Traditional Market Data: The Expanding Universe of Information**
 
    - **News Articles:** News can have an immediate and significant impact on stock prices. For instance, a positive earnings report or a breakthrough in company research can lead to a spike in stock prices. Conversely, bad news, like scandals or poor earnings, can cause prices to plummet.
    - **Social Media Sentiment:** Platforms like [[Twitter]], [[Reddit]], and even [[Facebook]] can be a treasure trove of sentiment data. Investors often express their opinions and sentiments on social media, which can be aggregated and analyzed to predict market movements.
-   - **Satellite Images:** Advanced technologies, like satellite imaging, provide unique data points. For example, satellite images can estimate crop yields, track retail foot traffic, or even monitor oil storage levels—all of which can impact market prices in relevant sectors.
+   - **Satellite Images:** Advanced technologies, like satellite imaging, provide unique data points. For example, satellite images can estimate crop yields, track retail foot traffic, or even monitor oil storage levels--all of which can impact market prices in relevant sectors.
    - **Consumer Data:** Analyzing consumer behavior, like spending patterns or product reviews, can give you insights into a company's future performance, well before official sales reports are released.
 
 ### 2. **The Power of Alternative Data: Gaining an Edge**
@@ -488,7 +488,7 @@ You're stepping into the fascinating world of trading and market analysis, where
 
 ### 3. **The Learning Journey: Persistence and Growth**
 
-   - **The Einstein Approach:** As Einstein suggested, success often comes down to perseverance. The ability to stick with challenges, learning from mistakes, and continuously improving is crucial—not just in trading, but in life.
+   - **The Einstein Approach:** As Einstein suggested, success often comes down to perseverance. The ability to stick with challenges, learning from mistakes, and continuously improving is crucial--not just in trading, but in life.
 
 ### 4. **The Bigger Picture: Seeing the World Differently**
 

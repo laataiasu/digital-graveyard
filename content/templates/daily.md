@@ -5,7 +5,7 @@ tags: ["journal"]
 publish_external: false
 ---
 
-# {{date:YYYY-MM-DD}} — Daily Log
+# {{date:YYYY-MM-DD}} -- Daily Log
 
 ## Wake-up Check
 - Wake-up time: 

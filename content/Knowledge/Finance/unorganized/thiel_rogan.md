@@ -275,7 +275,7 @@ Programs like MK-Ultra reveal a historical tendency for institutions to explore 
 
 ### Reflections on Psychedelics and Society’s Direction
 
-The cultural shift toward "interiority"—focusing on self-exploration and altered consciousness—often sparks debate. While some argue it empowers individuals, others worry it redirects attention from societal issues. The tension between self-discovery and social engagement underscores much of the modern debate on psychedelics and their place in society. 
+The cultural shift toward "interiority"--focusing on self-exploration and altered consciousness--often sparks debate. While some argue it empowers individuals, others worry it redirects attention from societal issues. The tension between self-discovery and social engagement underscores much of the modern debate on psychedelics and their place in society. 
 
 ---
 

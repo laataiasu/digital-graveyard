@@ -172,7 +172,7 @@ Here's a streamlined summary of your insights on building a brand as an angel in
 
 **Building a Network**:
 1. **Advisors and Limited Partners**: Having influential advisors or LPs can enhance your brand, attracting entrepreneurs looking for expertise in specific areas.
-2. **Innovative Solutions**: Identifying gaps in the market—like software solutions for startups—can set you apart. Be willing to take risks to explore new opportunities.
+2. **Innovative Solutions**: Identifying gaps in the market--like software solutions for startups--can set you apart. Be willing to take risks to explore new opportunities.
 
 **Cautions**:
 1. **Avoid Narrow Specialization**: While it’s tempting to focus on a specific niche, this can limit opportunities. Successful VCs often remain generalists to adapt to changing markets.

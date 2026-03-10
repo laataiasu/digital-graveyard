@@ -215,7 +215,7 @@ In this part, we'll dive deeper into how to transform a portfolio into a **dolla
 #### **3. Adjusting to Dollar Neutral**
 - **Shifting Weights**:
   - To make the portfolio dollar neutral, imagine shifting the weights of both stocks towards the negative side (i.e., short positions). 
-  - The goal is to adjust the weights until the scale is balanced—this means the sum of the weights equals zero, achieving dollar neutrality.
+  - The goal is to adjust the weights until the scale is balanced--this means the sum of the weights equals zero, achieving dollar neutrality.
 
 - **Maintaining Relative Differences**:
   - During this adjustment, the **relative difference** between the weights of Stock A and Stock B remains unchanged. This ensures that the fundamental relationship between the two stocks in the portfolio is preserved, even as we neutralize the dollar value.
@@ -271,7 +271,7 @@ By rescaling the portfolio weights, you ensure that the leverage ratio is contro
 
 ## 7. Risks and Benefits of Leverage, and How to Rescale Weights for Leverage Ratio
 
-In this section, we'll explore the double-edged nature of leverage—its potential to amplify both gains and losses—and how to calculate and control the leverage ratio in a portfolio by rescaling weights.
+In this section, we'll explore the double-edged nature of leverage--its potential to amplify both gains and losses--and how to calculate and control the leverage ratio in a portfolio by rescaling weights.
 
 #### **1. The Double-Edged Sword of Leverage**
 - **Potential Gains vs. Risks**:

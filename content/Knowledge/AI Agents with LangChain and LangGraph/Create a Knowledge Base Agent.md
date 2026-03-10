@@ -444,7 +444,7 @@ Workspaces may take up to 5 minutes to start.
 
 Summary: Understanding Embeddings in LangGraph Workflows
 Overview
-This demo develops intuition about embeddings—dense vector representations of text—and how to use them for similarity search and visualization. It introduces building embeddings with Hugging Face or OpenAI, comparing semantic similarity, and visualizing embeddings in 2D space.
+This demo develops intuition about embeddings--dense vector representations of text--and how to use them for similarity search and visualization. It introduces building embeddings with Hugging Face or OpenAI, comparing semantic similarity, and visualizing embeddings in 2D space.
 
 Key Steps Covered
 1. Embeddings Factory Setup
@@ -716,7 +716,7 @@ You’re building a support assistant for a company that maintains a large set o
 Search through the documentation
 Retrieve the most relevant sections
 Provide helpful answers grounded in the retrieved information
-This approach, aka Retrieval-Augmented Generation (RAG) — is a powerful technique for building agents that are accurate, verifiable, and up-to-date.
+This approach, aka Retrieval-Augmented Generation (RAG) -- is a powerful technique for building agents that are accurate, verifiable, and up-to-date.
 
 Challenge
 Your task is to create a LangGraph Workflow that includes:
@@ -1079,7 +1079,7 @@ This memory-enhanced design is a key step toward building more lifelike, persist
 
 
 Ensuring Reliability in AI Agents
-AI agents are everywhere, but many lack reliability. Creating agents is easy—making them predictable, consistent, and trustworthy is the real challenge.
+AI agents are everywhere, but many lack reliability. Creating agents is easy--making them predictable, consistent, and trustworthy is the real challenge.
 
 Reliability means the likelihood that an agent will perform as expected in its environment without causing harm. Building reliable agents requires clear success metrics, proper evaluation, and ongoing monitoring.
 
@@ -1169,7 +1169,7 @@ Observability and HITL are essential for building reliable AI agents.
 Early-stage debugging in Jupyter is useful but limited.
 Human-in-the-loop ensures oversight in high-stakes scenarios.
 Advanced observability techniques (metrics, logs, tracing) enable proactive monitoring and optimization.
-AI deployment is not just about monitoring—it’s about continuous learning and improvement. Organizations that implement robust observability tools and human oversight mechanisms can scale AI safely while maintaining control and performance.
+AI deployment is not just about monitoring--it’s about continuous learning and improvement. Organizations that implement robust observability tools and human oversight mechanisms can scale AI safely while maintaining control and performance.
 
 Quiz Question
 Which of the following do Human-in-the-Loop (HITL) mechanisms allow humans to do in AI agent workflows?
@@ -1338,7 +1338,7 @@ Workspaces may take up to 5 minutes to start.
 
 Summary: Observability with MLflow and LangGraph
 Overview
-This demo introduces MLflow observability into LangGraph workflows. By tracing and logging each step of a workflow—including LLM invocations and tool usage—developers can monitor, debug, and analyze their pipelines directly from the MLflow UI.
+This demo introduces MLflow observability into LangGraph workflows. By tracing and logging each step of a workflow--including LLM invocations and tool usage--developers can monitor, debug, and analyze their pipelines directly from the MLflow UI.
 
 Key Steps Covered
 1. MLflow Setup
@@ -1497,7 +1497,7 @@ chain = prompt | llm | StrOutputParser()
 d. Invocation Example
 Query: "Who is partnering with Nvidia?"
 
-Answer returned: "Dell" — correctly retrieved from the document set.
+Answer returned: "Dell" -- correctly retrieved from the document set.
 
 2. Evaluating the RAG Pipeline with RAGAS
 a. Evaluation Dataset Creation
@@ -1610,7 +1610,7 @@ You’ve deployed a knowledge-based agent that answers user questions using comp
 How accurate are the responses?
 Are the answers grounded in the context provided?
 Do they follow the expected format?
-To answer these questions, you need to implement a response evaluation pipeline that scores or classifies agent outputs based on defined criteria — either using another LLM (automatic evaluation) or a manual review process.
+To answer these questions, you need to implement a response evaluation pipeline that scores or classifies agent outputs based on defined criteria -- either using another LLM (automatic evaluation) or a manual review process.
 
 Challenge
 Your task is to create a LangGraph Workflow that includes:

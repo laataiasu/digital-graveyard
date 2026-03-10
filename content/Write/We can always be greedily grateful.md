@@ -8,7 +8,7 @@ Everyone is so terrified to look inside because we're indoctrinated to follow a 
 
 In a distant land, a hikkikomori strives to create a game considered to live a fulfilling life.
 
-Everything needs to hustle until I lose enjoyment in traveling and riding a motorcycle, reading books, watching movies, engaging in small talks, dining in to try any kind of foods, playing games—I don't enjoy them anymore.
+Everything needs to hustle until I lose enjoyment in traveling and riding a motorcycle, reading books, watching movies, engaging in small talks, dining in to try any kind of foods, playing games--I don't enjoy them anymore.
 
 But I don't wish to come back to enjoying those kinds of things again. My new novel enjoyment should come from something fresh, and something fresh could only result from creation or destruction. From destruction to creation or otherwise? Why can't it only exist as creation? Why must there be destruction?
 

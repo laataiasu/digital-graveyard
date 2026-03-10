@@ -1017,7 +1017,7 @@ So we talked about coin flips, and we flipped some coins. Now, I want to flip ma
 
 ### 01. Binomial-x1yamZeOMPY.en
 
-And the answer is 2. If you look at the truth table head-head, head-tail, tail-head, and tail-tail—these are the four possible outcomes. Those two outcomes over here yield an equal number of heads and tails.
+And the answer is 2. If you look at the truth table head-head, head-tail, tail-head, and tail-tail--these are the four possible outcomes. Those two outcomes over here yield an equal number of heads and tails.
 
 ### 02. Heads Tails-iyX0-eXStbw.en
 

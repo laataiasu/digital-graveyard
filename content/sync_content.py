@@ -66,7 +66,7 @@ def sync_content():
             filename_wo_ext = os.path.splitext(file)[0]
 
             if has_publish_external(filepath):
-                # Special case: top-level index.md — copy file only
+                # Special case: top-level index.md -- copy file only
                 if rel_path == "index.md":
                     dst_file_path = os.path.join(DEST_DIR, "index.md")
                     os.makedirs(os.path.dirname(dst_file_path), exist_ok=True)

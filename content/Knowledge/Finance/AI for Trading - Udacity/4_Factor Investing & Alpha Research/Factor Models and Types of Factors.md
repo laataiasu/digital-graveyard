@@ -54,7 +54,7 @@ In the upcoming lessons, we'll delve deeper into the practical application of th
 In the previous lesson, we learned that the return of any stock $i$ can be broken down into a combination of factor returns, the stock's exposure to these factors, and an unexplained portion (error term). This decomposition resembles **multiple regression analysis**, but there's a key difference.
 
 #### Difference Between Regression and Factor Models
-In a standard regression, the independent variables (predictors) are directly observable and measurable, like historical stock prices, interest rates, or GDP growth. However, in a **factor model**, the independent variables or **factor returns** are often **latent variables**—unobserved forces that influence stock returns but aren't directly measurable.
+In a standard regression, the independent variables (predictors) are directly observable and measurable, like historical stock prices, interest rates, or GDP growth. However, in a **factor model**, the independent variables or **factor returns** are often **latent variables**--unobserved forces that influence stock returns but aren't directly measurable.
 
 For example, consider the idea that a company's size might influence its stock performance. You might hypothesize that smaller companies tend to have higher returns. This idea leads to the creation of a factor based on company size, but measuring the effect of this "size factor" isn't straightforward because it isn't directly observable in the way price or volume is.
 
@@ -89,7 +89,7 @@ This return series $R_{\text{factor}}(t)$ now represents the **latent variable**
 
 #### Conclusion
 
-In summary, factor models deal with latent variables—unobserved forces like the size effect—that influence stock returns. To quantify these effects, we create theoretical portfolios that reflect these factors and generate time series from their returns. This approach allows us to incorporate complex, unobservable influences into our models, providing deeper insights into what drives stock performance. 
+In summary, factor models deal with latent variables--unobserved forces like the size effect--that influence stock returns. To quantify these effects, we create theoretical portfolios that reflect these factors and generate time series from their returns. This approach allows us to incorporate complex, unobservable influences into our models, providing deeper insights into what drives stock performance. 
 
 Understanding how to create and interpret these factor return time series is crucial as we explore more advanced topics in financial modeling and analysis.
 
@@ -361,7 +361,7 @@ To determine if a factor is useful as a risk or alpha factor, we consider two ma
 1. **Explains Variance**: If a factor significantly explains the variance in returns, it's a candidate for a risk factor.
 2. **Predictive Power**: If a factor significantly predicts the mean of the return distribution, it's a candidate for an alpha factor.
 
-Factors that do neither—like the phase of the moon—are unlikely to be useful for either purpose.
+Factors that do neither--like the phase of the moon--are unlikely to be useful for either purpose.
 
 #### Summary
 
@@ -468,7 +468,7 @@ Because risk factors are widely recognized, they are less likely to provide a co
 
 To summarize, risk factors are critical for understanding and managing the variance in a portfolio, but they do not contribute to driving a portfolio's mean return. Their widespread recognition within the investment community means that any potential for generating abnormal returns using these factors is typically short-lived, as market participants quickly adjust to incorporate these factors into their investment strategies.
 
-This is why, while risk factors are necessary for managing portfolio risk, they are not sufficient for enhancing returns—this is the role of alpha factors.
+This is why, while risk factors are necessary for managing portfolio risk, they are not sufficient for enhancing returns--this is the role of alpha factors.
 
 ## 10. ### How Alpha Factors Transition into Risk Factors: Analogy
 
@@ -485,7 +485,7 @@ To understand this transition, let’s use an analogy involving driving to work:
 1. **The Alpha Factor - Early Advantage**:
    - Imagine you’re driving to work and typically encounter heavy traffic. 
    - You discover a new app that analyzes traffic patterns and tells you which lane to choose to get to work faster. Since the app is new and not widely used, you can easily switch to less congested lanes and reach your destination quicker. 
-   - **In this scenario, the app is your alpha factor**—it's giving you an advantage over other drivers by helping you find the fastest route.
+   - **In this scenario, the app is your alpha factor**--it's giving you an advantage over other drivers by helping you find the fastest route.
 
 2. **The Transition - Growing Popularity**:
    - Now, suppose the app becomes very popular. Many other drivers start using it to find the fastest lane as well. 
@@ -495,7 +495,7 @@ To understand this transition, let’s use an analogy involving driving to work:
 3. **The Risk Factor - No Competitive Edge**:
    - As more drivers rely on the app, the app’s influence on lane changes grows. Now, traffic patterns on the road are significantly driven by the app’s recommendations. 
    - You see cars moving in unison, constantly changing lanes like a synchronized school of fish. The app is now driving the overall movement of traffic, but it no longer provides an individual advantage.
-   - **The app has become a risk factor**—it’s influencing the variance in traffic flow but isn't helping any driver improve their commute time.
+   - **The app has become a risk factor**--it’s influencing the variance in traffic flow but isn't helping any driver improve their commute time.
 
 #### Key Takeaway: Alpha to Risk Factor Transition
 
@@ -884,7 +884,7 @@ Analyst ratings are evaluations published by sell-side research analysts at inve
 
 #### Analyst Ratings as Sentiment Factors
 
-Analyst ratings can be viewed as a type of sentiment factor. Each analyst synthesizes a vast amount of information—financial data, market trends, and company outlook—and distills it into a single rating. These ratings reflect the analyst's overall sentiment toward the stock.
+Analyst ratings can be viewed as a type of sentiment factor. Each analyst synthesizes a vast amount of information--financial data, market trends, and company outlook--and distills it into a single rating. These ratings reflect the analyst's overall sentiment toward the stock.
 
 #### Variability in Rating Scales
 
@@ -962,7 +962,7 @@ In the financial industry, staying informed is critical. Experienced professiona
    - **Process**: NLP algorithms transform raw text into indicators of sentiment, assessing whether the general view is positive, negative, or neutral toward a stock’s future.
    - Unlike traditional analyst ratings (e.g., buy, hold, sell), NLP must interpret sentiment without explicit labels. However, it can approximate these categories.
 
-   In the subsequent terms of this program, you will dive deeper into how to apply NLP and deep learning to social media data to develop **Alpha factors**—signals that can provide an edge in trading strategies.
+   In the subsequent terms of this program, you will dive deeper into how to apply NLP and deep learning to social media data to develop **Alpha factors**--signals that can provide an edge in trading strategies.
 
 ## 23. Enhancing Fundamental Analysis with NLP
 
@@ -991,7 +991,7 @@ In the financial industry, staying informed is critical. Experienced professiona
    - **What is Sentiment Analysis?**: It’s a technique used to categorize text as positive, neutral, or negative. Commonly applied to reviews (e.g., movies, restaurants), sentiment analysis can also be used in finance.
    - **Application in Finance**:
      - **Risk Assessment**: NLP can analyze 10-K forms to estimate how much risk or uncertainty a company reports facing from competitors, customers, or suppliers.
-     - **Alpha Factor Creation**: By categorizing text in 10-K forms into various sentiments or outlooks (e.g., positive outlook, business uncertainty), analysts can develop **Alpha factors**—signals used to gain a trading advantage.
+     - **Alpha Factor Creation**: By categorizing text in 10-K forms into various sentiments or outlooks (e.g., positive outlook, business uncertainty), analysts can develop **Alpha factors**--signals used to gain a trading advantage.
 
 #### Importance of Sector Analysis:
 

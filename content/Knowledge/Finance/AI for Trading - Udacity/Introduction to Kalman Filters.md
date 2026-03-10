@@ -6,13 +6,13 @@ date: 2001-01-01
 
 ### Introduction to Matrices, Linear Algebra, and Vectors
 
-In this unit, we're going to explore some of the most powerful tools used in building self-driving cars: matrices, linear algebra, and vectors. These concepts might seem a bit daunting at first, but they're actually very intuitive once you get the hang of them. Many students find these topics challenging, but don't worry—this introduction is designed to make everything clear and understandable. If you're already familiar with these topics, you might breeze through the material. However, if these concepts are new to you, this unit will help demystify the complex ideas often encountered when learning about advanced topics like Kalman filters.
+In this unit, we're going to explore some of the most powerful tools used in building self-driving cars: matrices, linear algebra, and vectors. These concepts might seem a bit daunting at first, but they're actually very intuitive once you get the hang of them. Many students find these topics challenging, but don't worry--this introduction is designed to make everything clear and understandable. If you're already familiar with these topics, you might breeze through the material. However, if these concepts are new to you, this unit will help demystify the complex ideas often encountered when learning about advanced topics like Kalman filters.
 
 ### Welcome to the World of Kalman Filters
 
 Now, let's dive into the fascinating world of Kalman filters by taking a virtual trip to Stanford University, where much of the pioneering work in self-driving technology began.
 
-Behind me is Vale, Stanford's Research Center, where many groundbreaking projects in autonomous vehicles have been developed. One of the most notable achievements is Junior, Stanford's latest self-driving car, which builds on the legacy of Stanley—another autonomous vehicle that is now a part of the National Museum of American History in Washington, D.C.
+Behind me is Vale, Stanford's Research Center, where many groundbreaking projects in autonomous vehicles have been developed. One of the most notable achievements is Junior, Stanford's latest self-driving car, which builds on the legacy of Stanley--another autonomous vehicle that is now a part of the National Museum of American History in Washington, D.C.
 
 #### The Equipment Behind Self-Driving Cars
 
@@ -29,7 +29,7 @@ Junior is equipped with several key technologies that make it possible for the c
 
 #### How the Data Feeds into the Kalman Filter
 
-The image you see is a representation of the data coming from the LIDAR. The car is currently parked in a garage, and the image shows the range measurements—distances to nearby objects, such as the back wall of the garage. These measurements are essential inputs to the Kalman filter.
+The image you see is a representation of the data coming from the LIDAR. The car is currently parked in a garage, and the image shows the range measurements--distances to nearby objects, such as the back wall of the garage. These measurements are essential inputs to the Kalman filter.
 
 ### What is a Kalman Filter?
 
@@ -63,7 +63,7 @@ Tracking isn’t just about cars. It's also crucial for identifying pedestrians 
 
 ### Introducing the Kalman Filter: A Key Tracking Technique
 
-To achieve this, we use a technique known as the **Kalman Filter**. This is an incredibly popular method for estimating the state of a dynamic system—in this case, the positions and velocities of other cars or objects.
+To achieve this, we use a technique known as the **Kalman Filter**. This is an incredibly popular method for estimating the state of a dynamic system--in this case, the positions and velocities of other cars or objects.
 
 The Kalman Filter is somewhat similar to the **Monte Carlo localization** technique we discussed in our previous class. However, there are some key differences:
 

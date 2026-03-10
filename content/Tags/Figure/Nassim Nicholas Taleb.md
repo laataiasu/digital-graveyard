@@ -297,7 +297,7 @@ While the LLN works well for many distributions, it can be problematic in the pr
 
 ### Understanding the Central Limit Theorem (CLT)
 
-Welcome back! In this lesson, we'll cover the **Central Limit Theorem (CLT)**—a cornerstone of statistical theory that simplifies the analysis of complex data. The CLT explains why many distributions approximate a normal (Gaussian) distribution, even if the underlying data does not.
+Welcome back! In this lesson, we'll cover the **Central Limit Theorem (CLT)**--a cornerstone of statistical theory that simplifies the analysis of complex data. The CLT explains why many distributions approximate a normal (Gaussian) distribution, even if the underlying data does not.
 
 #### **What is the Central Limit Theorem?**
 
@@ -324,7 +324,7 @@ where $\mathcal{N}$ denotes the normal distribution.
 
 **1. Uniform Distribution**
 
-Let’s start with the simplest case—a uniform distribution:
+Let’s start with the simplest case--a uniform distribution:
 
 - **Uniform Distribution**: All outcomes are equally likely in a given range. For instance, if we have a discrete uniform distribution between 0 and 10, each integer in this range is equally likely.
 
@@ -348,7 +348,7 @@ Now consider a binomial distribution, which results from a series of Bernoulli t
 
 **3. Pareto Distribution**
 
-Finally, let’s examine a Pareto distribution—a fat-tailed distribution often used to model wealth distribution:
+Finally, let’s examine a Pareto distribution--a fat-tailed distribution often used to model wealth distribution:
 
 - **Pareto Distribution**: Characterized by a heavy tail, meaning that extreme values (e.g., very high wealth) are more common.
 
@@ -468,7 +468,7 @@ This lecture dives into two major points regarding how people are often misled b
 
 ### **Conclusion**
    - **Critical Approach to Metrics**: Always be skeptical of metrics, especially correlations, unless you've seen the data or the graph. Remember that correlation does not imply causation, and often, correlation does not even imply true correlation due to the issues of randomness and gaming.
-   - **Consider Dimensionality**: Be aware of the dimensionality problem—having too many variables with insufficient data can lead to an abundance of misleading correlations. Proper statistical techniques are needed to manage this, but even then, skepticism and careful analysis are essential.
+   - **Consider Dimensionality**: Be aware of the dimensionality problem--having too many variables with insufficient data can lead to an abundance of misleading correlations. Proper statistical techniques are needed to manage this, but even then, skepticism and careful analysis are essential.
 
 ## MINI-LESSON 7: P-Values and P-Value Hacking
 
@@ -484,7 +484,7 @@ This lecture tackles the concept of the p-value, highlighting its limitations an
 
 ### **3. Gaming P-Values**
    - **Exploiting the Upper Bound**: Just as with correlations, researchers can game p-values by conducting multiple experiments and selecting the smallest p-value (i.e., the one that appears most significant). This practice leads to inflated claims of significance, as the distribution of the maximum p-value is skewed lower than that of the true p-value.
-   - **Misinterpretation**: A p-value of 0.01, obtained through multiple trials, isn't truly 0.01 in terms of statistical significance—it’s just a product of selective reporting. To avoid this issue, the p-value should be much smaller than the standard threshold (e.g., 0.05) to ensure it hasn’t been gamed.
+   - **Misinterpretation**: A p-value of 0.01, obtained through multiple trials, isn't truly 0.01 in terms of statistical significance--it’s just a product of selective reporting. To avoid this issue, the p-value should be much smaller than the standard threshold (e.g., 0.05) to ensure it hasn’t been gamed.
 
 ### **4. Implications for Research**
    - **Psychology and Small Samples**: The lecture points out that fields like psychology often rely on small sample sizes, making p-values particularly unreliable. The use of p-values in such contexts can give a false sense of precision and significance, leading to flawed conclusions.
@@ -1116,7 +1116,7 @@ This distribution maximizes entropy, representing maximum uncertainty or ignoran
 
 #### Application: Estimating Error Rates in Surgical Procedures
 
-Imagine a surgeon performing 60 transplant surgeries. Without prior data, we aim to estimate the error rate—the probability that a surgery results in an error.
+Imagine a surgeon performing 60 transplant surgeries. Without prior data, we aim to estimate the error rate--the probability that a surgery results in an error.
 
 **Challenges:**
 - No historical error rate data.
@@ -1356,10 +1356,10 @@ This concept **extends maximum entropy** to scenarios where prior knowledge is s
    P(X \leq k) = 0.5
    $$
 
-   where $k$ is the observed number of errors (e.g., $k = 0$) — i.e., find the **median** of the binomial distribution.
+   where $k$ is the observed number of errors (e.g., $k = 0$) -- i.e., find the **median** of the binomial distribution.
 
 3. **Interpretation**:
-   This estimate reflects the idea that we are equally uncertain about whether the true rate is higher or lower than this value — hence, **maximum ignorance**.
+   This estimate reflects the idea that we are equally uncertain about whether the true rate is higher or lower than this value -- hence, **maximum ignorance**.
 
 ---
 
@@ -1383,7 +1383,7 @@ $$
   p \approx 1 - e^{\ln(0.5)/60} \approx 0.0115 \ (\text{or } 1.15\%)
   $$
 
-This gives a non-zero estimate even when no errors are observed — a key insight of the **maximum ignorance** approach.
+This gives a non-zero estimate even when no errors are observed -- a key insight of the **maximum ignorance** approach.
 
 ---
 

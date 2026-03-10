@@ -1,4 +1,4 @@
-Indonesia (and many Global South countries) lacks an equivalent to [LittleSis](https://littlesis.org/)—a public accountability platform that maps the power structures of elites: who knows who, who funds whom, which family is behind what conglomerate, and how influence flows across business, politics, military, media, etc.
+Indonesia (and many Global South countries) lacks an equivalent to [LittleSis](https://littlesis.org/)--a public accountability platform that maps the power structures of elites: who knows who, who funds whom, which family is behind what conglomerate, and how influence flows across business, politics, military, media, etc.
 
 To approach this, let's break it down into 3 layers:
 
@@ -131,7 +131,7 @@ Yes, **if you were the government**, things would be vastly easier. You’d have
   * Police, Courts, Ministry of Law (legal histories)
   * BSSN or Kominfo (digital footprints)
 
-But since you are not (yet) in government, you’re on the **outside** — working with **fragmented, opaque, often outdated or low-trust secondary data**.
+But since you are not (yet) in government, you’re on the **outside** -- working with **fragmented, opaque, often outdated or low-trust secondary data**.
 
 ---
 

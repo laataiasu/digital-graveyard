@@ -7,7 +7,7 @@ date: 2001-01-01
 ### Understanding Portfolio Construction: Balancing Risk and Return
 
 #### 1. **Introduction to Portfolio Construction**
-In this part of the module, we're going to dive into the nuts and bolts of building a portfolio. Imagine you've done your homework: you've researched trading signals, analyzed market trends, and now you have a list of stocks you're ready to buy. You know how much money you can invest, but the critical question remains—how should you distribute your funds across these stocks?
+In this part of the module, we're going to dive into the nuts and bolts of building a portfolio. Imagine you've done your homework: you've researched trading signals, analyzed market trends, and now you have a list of stocks you're ready to buy. You know how much money you can invest, but the critical question remains--how should you distribute your funds across these stocks?
 
 #### 2. **The Balancing Act: Risk vs. Return**
 Investing is all about balancing two fundamental concepts: **risk** and **return**.
@@ -17,7 +17,7 @@ Investing is all about balancing two fundamental concepts: **risk** and **return
 - **Risk**: However, the stocks with the highest expected returns often come with the highest volatility, meaning their prices fluctuate more. While high returns are attractive, this volatility increases the risk that you could lose a significant portion of your investment if the stock prices drop.
 
 #### 3. **The Core Problem: How to Distribute Your Investment**
-The challenge is to figure out how to distribute your money across these stocks to not only maximize your returns but also minimize your risk. This isn't just a theoretical problem—it's a practical one that has puzzled and inspired financial experts for decades.
+The challenge is to figure out how to distribute your money across these stocks to not only maximize your returns but also minimize your risk. This isn't just a theoretical problem--it's a practical one that has puzzled and inspired financial experts for decades.
 
 #### 4. **The Goal**
 The ultimate goal is to find an optimal balance that offers the best possible return for the amount of risk you're willing to take on. This concept is the cornerstone of modern portfolio theory and is essential for anyone looking to construct a well-diversified and efficient portfolio.
@@ -42,7 +42,7 @@ Stay tuned as we explore these concepts and equip you with the tools to construc
 ### The Importance of Diversification in Portfolio Management
 
 #### 1. **The Dangers of Concentrated Investment**
-Imagine you've identified a top-performing stock, New Digital Corporation, and you're tempted to invest all your money in it. At first, this might seem like a great idea, especially if the stock price continues to rise. However, if the price suddenly drops, say by 50%, your entire investment would be cut in half. This scenario illustrates the danger of **concentration risk**—putting all your eggs in one basket.
+Imagine you've identified a top-performing stock, New Digital Corporation, and you're tempted to invest all your money in it. At first, this might seem like a great idea, especially if the stock price continues to rise. However, if the price suddenly drops, say by 50%, your entire investment would be cut in half. This scenario illustrates the danger of **concentration risk**--putting all your eggs in one basket.
 
 #### 2. **The Power of Diversification**
 Now, consider a different strategy. Instead of investing all your money in New Digital, you split your investment equally between New Digital Corporation and Big Pharma Company. By doing this, you are **diversifying** your portfolio. Here’s why this matters:
@@ -51,7 +51,7 @@ Now, consider a different strategy. Instead of investing all your money in New D
   
 - **Scenario 2**: Big Pharma starts doing well, perhaps due to breakthroughs in its research, while New Digital faces challenges, like a change in management.
 
-In both scenarios, the gains in one stock can offset the losses in the other, leading to a more stable overall portfolio. This is the essence of diversification—it smooths out the fluctuations in your investment value by spreading risk across different assets.
+In both scenarios, the gains in one stock can offset the losses in the other, leading to a more stable overall portfolio. This is the essence of diversification--it smooths out the fluctuations in your investment value by spreading risk across different assets.
 
 #### 3. **Understanding Risk in Diversification**
 Why not just keep diversifying, adding more and more stocks to your portfolio? Theoretically, if all the risks faced by companies were independent (idiosyncratic risks), you could reduce your portfolio's risk to zero by investing in a large number of stocks. However, the real world isn't so simple.
@@ -82,7 +82,7 @@ To quantify and manage risk effectively, we'll delve into mathematical models th
 - **Expected Return**: The weighted average of the expected returns of the individual stocks.
 - **Portfolio Variance**: A measure of how the returns of the stocks in the portfolio move together. It’s calculated using the covariance between the stocks.
 
-The combination of these metrics helps in constructing an **efficient portfolio**—one that offers the highest possible return for a given level of risk.
+The combination of these metrics helps in constructing an **efficient portfolio**--one that offers the highest possible return for a given level of risk.
 
 ---
 
@@ -650,7 +650,7 @@ When evaluating the risk of a portfolio, traditional measures like standard devi
 
 #### Understanding Semi-Deviation
 
-**Semi-deviation** is a measure of risk that focuses specifically on the downside—returns that fall below a certain threshold, typically the mean or zero. Unlike standard deviation, which considers both positive and negative deviations from the mean, semi-deviation only measures the variability of returns that are below the mean.
+**Semi-deviation** is a measure of risk that focuses specifically on the downside--returns that fall below a certain threshold, typically the mean or zero. Unlike standard deviation, which considers both positive and negative deviations from the mean, semi-deviation only measures the variability of returns that are below the mean.
 
 Mathematically, semi-deviation is defined as:
 

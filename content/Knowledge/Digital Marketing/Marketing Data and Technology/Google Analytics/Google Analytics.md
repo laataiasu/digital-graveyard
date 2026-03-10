@@ -161,7 +161,7 @@ Under GDPR and similar laws, you must:
   > (Transaction Revenue + Goal Value) ÷ Unique Pageviews of the page
 * **Use case**: Helps identify which content **drives revenue or conversions**. High page value = important conversion path.
 
-You're absolutely right — in **Google Analytics 4 (GA4)**, the focus has shifted significantly from sessions and pageviews to **events and engagement**. Here’s a refined and practical explanation of what you just mentioned:
+You're absolutely right -- in **Google Analytics 4 (GA4)**, the focus has shifted significantly from sessions and pageviews to **events and engagement**. Here’s a refined and practical explanation of what you just mentioned:
 
 ---
 
@@ -223,7 +223,7 @@ This makes data more flexible and detailed than Universal Analytics.
 ### 🔹 **Why This Matters**
 
 * GA4 provides a **more meaningful measure of engagement**.
-* Users can be considered engaged even if they view one page — as long as they stay or interact.
+* Users can be considered engaged even if they view one page -- as long as they stay or interact.
 
 ---
 

@@ -25,7 +25,7 @@ date: 2001-01-01
 | [[Flash Boys Book Michael Lewis Allen Cheng]]                                                             | Non-fiction | Business, Finance                 | Finished       |          | August 24, 2021 | Michael Lewis                 |      |
 | [[The Undoing Project Michael Lewis by Michael Batko]]                                                    | Non-fiction | Business, Psychology              | Finished       |          | August 24, 2021 | Michael Lewis                 |      |
 | [[Courage to be Disliked by Michael Batko]]                                                               | Non-fiction | Philosophy, Psychology            | Finished       |          | August 24, 2021 | Fumitake Koga, Ichiro Kishimi |      |
-| [[Linchpin — How to be indispensable by Michael Batko MBReads Medium]]                                    | Non-fiction |                                   |                |          |                 |                               |      |
+| [[Linchpin -- How to be indispensable by Michael Batko MBReads Medium]]                                    | Non-fiction |                                   |                |          |                 |                               |      |
 | [[Principles. …is a brilliant book written by Ray… by Michael Batko MBReads Medium]]                      | Non-fiction |                                   |                |          |                 | Ray Dalio                     |      |
 | [[Radical Candor. Be a kickass boss without losing your… by Michael Batko MBReads Medium]]                | Non-fiction |                                   |                |          |                 |                               |      |
 | [[The Wit and Wisdom of Charles T. Munger by Michael Batko MBReads Medium]]                               | Non-fiction | Biography, Philosophy, Psychology | Finished       |          |                 |                               |      |
@@ -40,7 +40,7 @@ date: 2001-01-01
 | [[Sword of Truth Series by Michael Batko MBReads Medium]]                                                 | Fiction     |                                   |                |          |                 |                               |      |
 | [[Fanatical Prospecting by Michael Batko MBReads Medium]]                                                 | Non-fiction | Business, Sales                   |                |          |                 |                               |      |
 | [[To Pixar and Beyond by Michael Batko MBReads Medium]]                                                   | Non-fiction |                                   |                |          |                 |                               |      |
-| [[Shoe Dog — A Memoir by the Creator of Nike by Michael Batko MBReads Medium]]                            |             |                                   |                |          |                 |                               |      |
+| [[Shoe Dog -- A Memoir by the Creator of Nike by Michael Batko MBReads Medium]]                            |             |                                   |                |          |                 |                               |      |
 | [[Good Strategy, Bad Strategy by Michael Batko MBReads Medium]]                                           |             |                                   |                |          |                 |                               |      |
 | [[Book Summary- Deep Work by Cal Newport Sam Thomas Davies]]                                              |             |                                   |                |          |                 |                               |      |
 | [[Polymath Reading List]]                                                                                 |             |                                   |                |          |                 |                               |      |
@@ -50,9 +50,9 @@ date: 2001-01-01
   
 [[My Book, Blog, Movie & Newsletter Recommendations by Michael Batko MBReads Medium]]
 [[Wait But Why]]
-[[Venture Deals. You can find all my book summaries —… by Michael Batko MBReads Medium]]
-[[Lean Analytics — Use Data to Build a Better Startup Faster by Michael Batko MBReads Medium]]
-[[How To Read Nassim Taleb — Unearned Wisdom]]
+[[Venture Deals. You can find all my book summaries --… by Michael Batko MBReads Medium]]
+[[Lean Analytics -- Use Data to Build a Better Startup Faster by Michael Batko MBReads Medium]]
+[[How To Read Nassim Taleb -- Unearned Wisdom]]
   
 Review
 [[How Do You Live]]

@@ -150,7 +150,7 @@ dengan baik atau dengan kecacatan, karena yang aku tahu sebagai sistem
 manusia yang lebih besar daripada sistem mereka, semuanya butuh
 keuntungan untuk dapat berkurban. Aku kira, mungkin mereka sudah puas
 digaji dengan beberapa pembaruan sel, tapi apakah mereka bekerja
-benar-benar hanya untuk proses pembaruan—regenerasi.
+benar-benar hanya untuk proses pembaruan--regenerasi.
 
 Yang aku rasakan adalah bagaimana dalam sistem yang lebih besar seperti
 manusia, menuntut selalu bahwa ia harus lebih dari yang lain yang ia

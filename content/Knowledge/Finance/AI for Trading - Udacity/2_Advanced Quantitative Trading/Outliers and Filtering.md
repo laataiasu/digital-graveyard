@@ -18,7 +18,7 @@ When we talk about outliers in market data, we're discussing data points that ar
 2. **Missing or Incorrect Data:**
    - Outliers can also occur when data is missing, entered as zeros, or duplicated. This may happen due to issues with data vendors or the exchanges themselves. For instance:
      - A stock may be suspended from trading, causing gaps in the data. This can be for regulatory reasons (e.g., to prevent volatility before a major announcement) or non-regulatory reasons (e.g., significant imbalances in buy/sell orders).
-     - To check if a stock was actually traded, you can examine the trading volume—if it's zero, trading likely didn’t occur.
+     - To check if a stock was actually traded, you can examine the trading volume--if it's zero, trading likely didn’t occur.
 
 3. **Market Events:**
    - Real events like earnings reports, mergers, or other announcements can cause sudden and unexpected price movements. These outliers reflect the market's reaction to new information. For example:
@@ -113,7 +113,7 @@ There is no one-size-fits-all solution for dealing with outliers caused by marke
 
 #### Conclusion: Incorporating Outliers into Signal Research
 
-Outliers, whether due to thinly traded stocks or extreme market events, pose challenges in signal research. The key is to balance the inclusion of these outliers with strategies that mitigate their impact on your trading performance. By carefully considering how to handle these outliers—whether by excluding certain data, adjusting your strategy, or employing specific risk management techniques—you can improve the robustness and reliability of your trading signals.
+Outliers, whether due to thinly traded stocks or extreme market events, pose challenges in signal research. The key is to balance the inclusion of these outliers with strategies that mitigate their impact on your trading performance. By carefully considering how to handle these outliers--whether by excluding certain data, adjusting your strategy, or employing specific risk management techniques--you can improve the robustness and reliability of your trading signals.
 
 ## 3. Spotting Outliers In Raw Data
 
@@ -266,7 +266,7 @@ When you calculate returns from a trading signal, the distribution of those retu
    - **Expected Distribution**: A slightly positively skewed normal distribution. This means most returns are positive, with the distribution's mean above zero, reflecting the fact that the strategy is profitable on average.
 
 3. **Suspicious Return Distributions**:
-   - If the distribution of your returns looks unusual—like being extremely skewed or having unexpected bumps at the tails—it could indicate problems. This could be due to outliers, which are extreme or unexpected values that deviate significantly from the rest of your data.
+   - If the distribution of your returns looks unusual--like being extremely skewed or having unexpected bumps at the tails--it could indicate problems. This could be due to outliers, which are extreme or unexpected values that deviate significantly from the rest of your data.
 
 ### Identifying Outliers in Returns Using QQ Plots
 

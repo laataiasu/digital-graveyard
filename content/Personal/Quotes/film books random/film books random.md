@@ -41,7 +41,7 @@ You sound like my nephew. Always thinking you need to do things on your own with
 # Kafka on the shore
 Kafka, in everybody's life there's a point of no return. And in very few cases, a point where you can't go forward anymore. And when we reach that point, all we can do is quietly accept the fact. That's how we survive."
 # Grand Blue
-I may not be good with it. But it doesn't hurt to keep trying. — Iori
+I may not be good with it. But it doesn't hurt to keep trying. -- Iori
 Nobody wants the things they like to be denied by others. They want other people to experience the same feeling they do
 # Berserk
 Only that I'm filled with fear, and not even words of prayer come to mind
@@ -63,25 +63,25 @@ If one knows the cause, one can forecast the event and manage the risk. Would it
   
 do you regret anything you’ve written? does that influence? regret is ambiguous word. speaking is dangerous, writing more so. 1980s Hoover institution, writing a book is more dangerous than having a child. if child turns out badly you can disown the child, you can’t disown anything you’ve written. i probably say more than i should, and less than i might have a mind to
 
-There are no 2 words in English more harmful than “Good job” — Whiplash
+There are no 2 words in English more harmful than “Good job” -- Whiplash
   
-Why do you care that I'm dead when you're still so afraid to live — The subtle art of not giving a fuck
+Why do you care that I'm dead when you're still so afraid to live -- The subtle art of not giving a fuck
   
-Why should I be good? If you aren't — tree of life
+Why should I be good? If you aren't -- tree of life
   
-A tantrum never killed anyone — howls moving castle
+A tantrum never killed anyone -- howls moving castle
   
-If you're not at the table, you're on the menu — Ann Richards
+If you're not at the table, you're on the menu -- Ann Richards
   
-Even bears come down when they are hungry — Seven Samurai
+Even bears come down when they are hungry -- Seven Samurai
   
-What is brave when you're going home — Midsommar
+What is brave when you're going home -- Midsommar
   
-If you're success you'll be called as CEO. If you fail you'll be called as scammer — Start-Up
+If you're success you'll be called as CEO. If you fail you'll be called as scammer -- Start-Up
   
-Risking my life to save the life of people I hate for reasons I don't quite understand — Homer Simpson
+Risking my life to save the life of people I hate for reasons I don't quite understand -- Homer Simpson
   
-Get them young and they're yours forever — Breaking Bad
+Get them young and they're yours forever -- Breaking Bad
   
 # Mr. Robot
 If someone asked for your patience, they are asking for your surrender

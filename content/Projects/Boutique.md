@@ -27,7 +27,7 @@ Based on the [[Instagram]] bio and profile cues you shared, here's a **creative 
 
 ---
 
-## **Business Idea: "Masquerade Haus" — A Boutique for the Philosophically Unwell**
+## **Business Idea: "Masquerade Haus" -- A Boutique for the Philosophically Unwell**
 
 ### **Tagline:**
 
@@ -55,7 +55,7 @@ _"Be a [[Masochist]]. Embrace the crisis. Wear your anguish well."_
     
     - **Invite-only philosophical salons**: underground gatherings discussing Islamic philosophy, existentialism, and postmodern crisis.
         
-    - **Private Discord servers** or hidden pages for "ghuraba" — the strangers — to explore ngaji filsafat (studying philosophy through an Islamic lens).
+    - **Private Discord servers** or hidden pages for "ghuraba" -- the strangers -- to explore ngaji filsafat (studying philosophy through an Islamic lens).
         
 3. **Content – “Bayt al Hikmah (Longer)”**
     

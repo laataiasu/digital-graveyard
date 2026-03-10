@@ -87,7 +87,7 @@ Tapi kalo ternyata berontak, bakal jadi apa masalahnya? Ya semoga baik2 saja.
 
 ujung2nya kaya quotes disini, mau kejadian apa2 yang kena justru orang yang gatau apa2
 
-> **I have a feeling, in a few years people are going to be doing what they always do when the economy tanks. They will be blaming immigrants and poor people. — Big Short**
+> **I have a feeling, in a few years people are going to be doing what they always do when the economy tanks. They will be blaming immigrants and poor people. -- Big Short**
 > 
 
 Ada golongan yang kerjanya hanya ibadah, ga tau informasi. Gatau bahwa 10.000 sekarang beda dengan 10.000 jaman dulu, terus susah cari makan. Kalo orang Sufi atau suka meditasi kaya [[Buddha]] atau orang Stoic ya santai, tapi bayangin kalo jiwa2 pemberontaknya meronta2.

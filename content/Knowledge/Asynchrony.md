@@ -13,7 +13,7 @@ date: 2001-01-01
 | Concept                                                                                                     | Description                                                                  |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **[[Concurrency]]**                                                                                             | Multiple tasks progress independently (can be async or sync)                 |
-| **Asynchrony**                                                                                              | Tasks don't block the thread while waiting—often event/callback/future-based |
+| **Asynchrony**                                                                                              | Tasks don't block the thread while waiting--often event/callback/future-based |
 | ✅ They are related but not the same. A system can be asynchronous without being concurrent, and vice versa. |                                                                              |
 
 ---

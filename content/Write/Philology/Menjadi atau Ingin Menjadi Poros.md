@@ -53,7 +53,7 @@ Atau aku yang ingin terlihat bahagia
 Aku ikuti permainan sang kosmos  
 Dan konspirasinya benar-benar mengais  
 Dijadikannya aku sebagai poros  
-Di antara atom—atom egois  
+Di antara atom--atom egois  
   
 Aku yang sempurna  
 Atau aku yang menginginkan kesempurnaan  

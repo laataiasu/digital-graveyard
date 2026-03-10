@@ -5,4 +5,4 @@ publish_external: true
 tags:
   - interesting-terms
 ---
-**dialectical** formats like *[[chevruta]]* — intense, question-driven discussion
+**dialectical** formats like *[[chevruta]]* -- intense, question-driven discussion

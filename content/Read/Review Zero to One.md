@@ -16,7 +16,7 @@ Chapternya pendek-pendek jadi ga terlalu ngebosenin, cerita-ceritanya lumayan as
 ### Nih…
 
 - Make startup with few people, not too few and not too big
-- Creative monopoly — dont compete with other market, but create your own market "the more we compete, the less we gain"
+- Creative monopoly -- dont compete with other market, but create your own market "the more we compete, the less we gain"
 - Competition is devastated, if you can't beat rival it may be better to merge
 
 

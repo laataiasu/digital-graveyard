@@ -331,7 +331,7 @@ Understanding the operating hours of stock markets is crucial when analyzing mar
    - **Example:** If HSBC’s stock price rises in Hong Kong, traders might anticipate a similar rise when the London market opens and adjust their strategies accordingly.
 
 2. **Time Zone Arbitrage:**
-   - **Arbitrage Opportunities:** The time difference between market openings can be leveraged for arbitrage—buying a stock on one exchange and selling it on another for a profit. However, this requires quick decision-making and execution.
+   - **Arbitrage Opportunities:** The time difference between market openings can be leveraged for arbitrage--buying a stock on one exchange and selling it on another for a profit. However, this requires quick decision-making and execution.
    - **Strategic Timing:** Traders can use the time gap between markets to plan their trades. For instance, they can observe the closing prices and trends in Hong Kong and prepare to trade on the London Exchange.
 
 3. **Challenges and Competition:**

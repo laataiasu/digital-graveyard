@@ -56,6 +56,6 @@ In distributed systems (like Temporal, REST APIs, payment systems, etc.), **netw
 
 3. **Avoid non-deterministic effects**:
 
-   * E.g., sending emails, making payments—wrap with idempotent logic.
+   * E.g., sending emails, making payments--wrap with idempotent logic.
 
 ---

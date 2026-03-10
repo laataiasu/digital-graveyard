@@ -7,7 +7,7 @@ publish_external: true
 
 My father is an aeronautical engineer at Aerospace Indonesia. He holds an electrical engineering degree from UGM and a Master’s from TU Delft.
 
-He once told me he could have stayed in the Netherlands to work or pursued a professorship in Japan. He chose not to. He chose to come home because he loved Indonesia. Today, he is "just" a staff engineer. We have enough—we don’t lack material things—but his path didn’t lead to the kind of "Big Wealth" the world celebrates.
+He once told me he could have stayed in the Netherlands to work or pursued a professorship in Japan. He chose not to. He chose to come home because he loved Indonesia. Today, he is "just" a staff engineer. We have enough--we don’t lack material things--but his path didn’t lead to the kind of "Big Wealth" the world celebrates.
 
 For most people, reading *Rich Dad, Poor Dad* is a positive experience. For me, it was intoxicating in the worst way.
 
@@ -15,7 +15,7 @@ For most people, reading *Rich Dad, Poor Dad* is a positive experience. For me, 
 
 That book, combined with a high school biology teacher who constantly reminded us that "only money matters," rewired my brain. I became obsessed with the "4 Quadrants of Wealth" and finding the fastest exit to richness.
 
-I started to belittle my father’s choices. I saw his stability as a lack of ambition. I looked at my mother and sister’s frugality—the way they spent time to save a few Rupiah—and I hated it. I decided then that engineering "wouldn’t make it big." I told myself I had to be realistic.
+I started to belittle my father’s choices. I saw his stability as a lack of ambition. I looked at my mother and sister’s frugality--the way they spent time to save a few Rupiah--and I hated it. I decided then that engineering "wouldn’t make it big." I told myself I had to be realistic.
 
 But in my rush to be realistic, I lost my curiosity.
 
@@ -25,13 +25,13 @@ The education system in Indonesia didn’t help. I realized the foundation was b
 
 That’s when I realized I wasn’t learning concepts; I was just memorizing patterns. At my *bimbel* (tutoring center), we were taught *cara cepat* (shortcuts) to pass exams. The depth wasn't there.
 
-Thinking my foundation in science was too weak to go anywhere, I pivoted. I chose Information Systems—a blend of business and social science. I thought I was being smart. Instead, I found it boring. The theory was simple, but the reality—dealing with users and human politics—felt draining.
+Thinking my foundation in science was too weak to go anywhere, I pivoted. I chose Information Systems--a blend of business and social science. I thought I was being smart. Instead, I found it boring. The theory was simple, but the reality--dealing with users and human politics--felt draining.
 
 ### The Redundancy of "Easy" Paths
 
 I graduated from a top university and realized no one was waiting for me. I felt tricked by the prestige. Maybe I was just incompetent, or maybe I failed to utilize my privilege, but the rise of LLMs made it worse.
 
-Watching AI automate the "simple" things I studied made me feel redundant. I started to envy my friends who stayed in "hard" engineering—the ones who focused on low-level systems and research. They have a niche. They have a craft.
+Watching AI automate the "simple" things I studied made me feel redundant. I started to envy my friends who stayed in "hard" engineering--the ones who focused on low-level systems and research. They have a niche. They have a craft.
 
 I have a mindset that tells me experience and entertainment are wastes of money. I’ve never even been on a plane, despite having the money to do so. I’ve accumulated some wealth through luck and speculation, but I don’t feel rich. I feel stuck. I want to "build something," but I’m too risk-averse to spend, and I’m too lost to know what to build.
 

@@ -1,4 +1,4 @@
-You're building a **PowerGraph OS** — part political intelligence, part data architecture, part investigative tooling. You’re not doing something standard — you’re designing a **civic intelligence system** that cuts across:
+You're building a **PowerGraph OS** -- part political intelligence, part data architecture, part investigative tooling. You’re not doing something standard -- you’re designing a **civic intelligence system** that cuts across:
 
 - Data engineering
     
@@ -11,7 +11,7 @@ You're building a **PowerGraph OS** — part political intelligence, part data a
 - Strategic intelligence
     
 
-So the goal isn’t just “learn data science.” It’s to become a **system-level architect of socio-political computation** — someone who understands both power and how to map it.
+So the goal isn’t just “learn data science.” It’s to become a **system-level architect of socio-political computation** -- someone who understands both power and how to map it.
 
 ---
 
@@ -31,7 +31,7 @@ So the goal isn’t just “learn data science.” It’s to become a **system-l
 
 ## 📚 Self-Study Topics You Should Master
 
-You can learn most of this without a master’s — here’s a breakdown of the core domains:
+You can learn most of this without a master’s -- here’s a breakdown of the core domains:
 
 ---
 
@@ -95,4 +95,4 @@ You can learn most of this without a master’s — here’s a breakdown of the 
 
 ---
 
-> 🧠 A **civic graph engineer** — someone who builds, analyzes, and weaponizes knowledge to expose systemic power.
+> 🧠 A **civic graph engineer** -- someone who builds, analyzes, and weaponizes knowledge to expose systemic power.

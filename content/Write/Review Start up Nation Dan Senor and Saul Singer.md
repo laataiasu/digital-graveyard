@@ -72,14 +72,14 @@ Perjalanan Ben-Gurion dkk mempertahankan, menyelundupkan, mengatur, me me me sem
 
 Kibbutzim, the most communal city. 
 
-*"No police, no court, no private money, no private email. The mail came and everyone could read it" — Peres*
+*"No police, no court, no private money, no private email. The mail came and everyone could read it" -- Peres*
 
 Leapfrog yang kemudian jadi "Lost decade" gara2 pemerintah terlalu monopoli pasar modal
 
 *For  the economy to take off, it required 3 additional factors: a new wave  of immigration, a new war, and a new venture capital industry*
 
 Ch7
-Moses  operation — memulangkan orang2 [[Jew]] dr ethiopia ke israel. Israel ke Ethiopia cuman 4 jam, tapi keliatannya kaya ada gaps 400 tahun
+Moses  operation -- memulangkan orang2 [[Jew]] dr ethiopia ke israel. Israel ke Ethiopia cuman 4 jam, tapi keliatannya kaya ada gaps 400 tahun
 
 Solomon operation
 
@@ -97,14 +97,14 @@ Ch9
 Iscar and the buffet test
 
 Ch10
-Yozma  — pemerintah invest \$100jt buat 10 venture capital funds baru, setiap  fund harus direpresentasikan oleh 3 pihak, israel vc, foreign vc,  israeli[[Investment]]comp/bank
+Yozma  -- pemerintah invest \$100jt buat 10 venture capital funds baru, setiap  fund harus direpresentasikan oleh 3 pihak, israel vc, foreign vc,  israeli[[Investment]]comp/bank
 
 Ch11
 "*Two real fathers of Israeli hi-tech are the Arab boycott and Charles de Gaulle, because they forced on us the need to go and develop an industry"
 *
 Ch12
 Ch13
-Shaikh s dillema — Kritik saran terhadap negara2 arab
+Shaikh s dillema -- Kritik saran terhadap negara2 arab
 
 
 *The future of the region is going to depend on our teaching our young people how to go out and create companies*

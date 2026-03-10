@@ -104,9 +104,9 @@ publish_external: true
 
 ### 🔁 **USEFUL ≠ SIGNIFICANT**
 
-- Being “useful” is easy — even corpses feed worms
+- Being “useful” is easy -- even corpses feed worms
     
-- “Significant” is harder — demands inner clarity
+- “Significant” is harder -- demands inner clarity
     
 - Until you know, build: skills, awareness, alignment
     

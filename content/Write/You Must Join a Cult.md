@@ -12,7 +12,7 @@ until you get a cult with the greatest sense of belonging.
 
 Try to be diverse.
 
-Then you realize the preaching—"we have to unite"—is a futile doctrine.
+Then you realize the preaching--"we have to unite"--is a futile doctrine.
 
 "I am already content with this group."
 

@@ -1,4 +1,4 @@
-Here’s a **lazy-friendly list** — all are **cheap, easy to find in Semarang**, and **can be eaten raw or after very quick prep (steam / boil)**.
+Here’s a **lazy-friendly list** -- all are **cheap, easy to find in Semarang**, and **can be eaten raw or after very quick prep (steam / boil)**.
 
 ---
 
@@ -23,7 +23,7 @@ Here’s a **lazy-friendly list** — all are **cheap, easy to find in Semarang*
     
 - **Quick cook:** boil 1 min in hot water, strain immediately.
     
-- **Nutrients:** iron, folate, vitamin C — helps blood circulation and healthy glow.
+- **Nutrients:** iron, folate, vitamin C -- helps blood circulation and healthy glow.
     
 - **Tip:** cook only what you’ll eat (wilts fast).
     
@@ -47,7 +47,7 @@ Here’s a **lazy-friendly list** — all are **cheap, easy to find in Semarang*
     
 - **Quick cook:** 30 sec in hot water boosts lycopene absorption.
     
-- **Nutrients:** lycopene, vitamin C — protects from sun damage, keeps skin soft.
+- **Nutrients:** lycopene, vitamin C -- protects from sun damage, keeps skin soft.
     
 - **Tip:** small local tomatoes (“tomat sayur”) are cheaper and sweeter.
     
@@ -75,7 +75,7 @@ Here’s a **lazy-friendly list** — all are **cheap, easy to find in Semarang*
     
 - **Nutrients:** beta-carotene, fiber, good carbs.
     
-- **Tip:** keep a few steamed ones in fridge — easy snack anytime.
+- **Tip:** keep a few steamed ones in fridge -- easy snack anytime.
     
 
 ---
@@ -108,7 +108,7 @@ Here’s a **lazy-friendly list** — all are **cheap, easy to find in Semarang*
 
 - **Eat raw:** slice ripe mango, eat directly.
     
-- **Nutrients:** beta-carotene, vitamin C — helps collagen and glow.
+- **Nutrients:** beta-carotene, vitamin C -- helps collagen and glow.
     
 - **Tip:** when in season, super cheap in Semarang (especially _mangga arumanis_).
     
@@ -160,9 +160,9 @@ You can make these without “real cooking”:
     
 - Avoid adding too much sugar or fried dressings.
     
-- Drink water or fresh coconut water to stay hydrated — helps skin glow.
+- Drink water or fresh coconut water to stay hydrated -- helps skin glow.
     
 
 ---
 
-Would you like me to make a **1-week “lazy healthy menu plan”** using these cheap ingredients — something you can prep in 10 minutes or less each day?
+Would you like me to make a **1-week “lazy healthy menu plan”** using these cheap ingredients -- something you can prep in 10 minutes or less each day?

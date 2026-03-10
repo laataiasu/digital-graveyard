@@ -32,7 +32,7 @@ Once we lose trust and have doubts, it always leads to more doubts. By having a 
 
 everything looks so fake and subjective and that what makes everyone living ignorantly, fakefully, and keep questioning and fall to the conclusion,
 
->"Do it or do not do it — you will regret both." — Søren Kierkegaard
+>"Do it or do not do it -- you will regret both." -- Søren Kierkegaard
 
 When we want to fight something and don't tolerate the foolish, we might ask ourselves,
 

@@ -11,7 +11,7 @@ source: KPK Regulation No. 7/2016
 
 The **LHKPN** (Laporan Harta Kekayaan Penyelenggara Negara) is an **asset declaration report** submitted by public officials in **Indonesia**. It is managed by the **Komisi Pemberantasan Korupsi (KPK)**, the country’s Corruption Eradication Commission.
 
-In terms of **entity type**, **LHKPN** itself is not a legal entity or organization — it's a **reporting system or instrument**.
+In terms of **entity type**, **LHKPN** itself is not a legal entity or organization -- it's a **reporting system or instrument**.
 
 To clarify the **entity type** in different contexts:
 

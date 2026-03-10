@@ -7,7 +7,7 @@ aliases:
 source:
 ---
 
-# David Deutsch and Naval Ravikant — The Fabric of Reality And Much More | The Tim Ferriss Show
+# David Deutsch and Naval Ravikant -- The Fabric of Reality And Much More | The Tim Ferriss Show
 
 ### Key Learning Points
 

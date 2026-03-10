@@ -77,7 +77,7 @@ POST /charge-user
 * If calling it twice charges the user **twice**, it's **not idempotent**.
 * If calling it twice charges the user **once**, it's **idempotent**.
 
-Now imagine a **workflow function** that calls this API, and every time it's replayed, it **calls the API with a different timestamp** — that’s **non-deterministic**.
+Now imagine a **workflow function** that calls this API, and every time it's replayed, it **calls the API with a different timestamp** -- that’s **non-deterministic**.
 
 ---
 

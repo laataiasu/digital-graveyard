@@ -7,7 +7,7 @@ aliases:
 source:
 ---
 
-# David Goggins: PUSH YOURSELF EVERYDAY — Morning Motivation
+# David Goggins: PUSH YOURSELF EVERYDAY -- Morning Motivation
 
 ### Key Concepts on Self-Talk and Visualization
 

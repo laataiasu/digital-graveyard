@@ -22,7 +22,7 @@ Statistical Arbitrage is a trading strategy where you simultaneously buy and sel
    - **Impact on Models:** Due to non-stationarity, models can become outdated quickly and need to be retrained with new data regularly. An independent variable that was a strong predictor in the past may lose its predictive power, or a previously irrelevant variable may become important.
 
 4. **Lifecycle of Trading Strategies:**
-   - Trading strategies often have a lifecycle—they can be highly effective for a period, then lose effectiveness as market conditions change. Over time, as the market evolves, these strategies might regain their usefulness.
+   - Trading strategies often have a lifecycle--they can be highly effective for a period, then lose effectiveness as market conditions change. Over time, as the market evolves, these strategies might regain their usefulness.
    - **Example:** A strategy based on a particular economic indicator might work well during a specific economic cycle but may underperform when market dynamics shift.
 
 ### Mathematical Perspective: Signal-to-Noise Ratio

@@ -144,11 +144,11 @@ Now, let’s address why I shy away from discussing investing and trading.
 
 Many finance students and amateur investors lack a solid grasp of basic financial concepts. This isn’t just a casual observation; it's a recurring theme I encounter. Even with a finance degree, people often miss out on core principles like diversification, capital asset pricing, and the real-world limitations of financial theories. 
 
-The real issue is that these basic concepts are crucial for understanding more complex financial strategies. Without them, it’s like trying to build a house on a shaky foundation. For instance, many people don’t realize that basic theories are built on assumptions that don’t always hold true in the real world. This is why theory alone isn’t enough—you need to adapt and refine it with rigorous modeling and statistical analysis.
+The real issue is that these basic concepts are crucial for understanding more complex financial strategies. Without them, it’s like trying to build a house on a shaky foundation. For instance, many people don’t realize that basic theories are built on assumptions that don’t always hold true in the real world. This is why theory alone isn’t enough--you need to adapt and refine it with rigorous modeling and statistical analysis.
 
 ### Risk and Reality
 
-One major frustration I have is seeing amateur traders and investors treat the market like a game of chance. They often use simplistic methods—like flipping a coin to decide whether to buy or sell a stock—without considering the underlying risks. And when they do make money, they attribute it to their brilliance rather than the market conditions or sheer luck.
+One major frustration I have is seeing amateur traders and investors treat the market like a game of chance. They often use simplistic methods--like flipping a coin to decide whether to buy or sell a stock--without considering the underlying risks. And when they do make money, they attribute it to their brilliance rather than the market conditions or sheer luck.
 
 Leverage is another area where misunderstanding runs rampant. People get excited about how leveraging can magnify returns but fail to grasp that it also magnifies losses. You might start with \$100, borrow another \$100, and if your investment doubles, it seems like a huge win. But if the investment loses value, your losses can exceed your initial investment, leading to a dangerous situation.
 
@@ -162,7 +162,7 @@ Trading is often misunderstood as a quick way to make money, but it’s as much 
 
 ### Why I Avoid the Topic
 
-I avoid discussing trading and investing in depth because it often feels like a waste of time when the foundational understanding is lacking. It’s not just about throwing out random tips or strategies—it’s about understanding the deep, complex nature of financial markets and the rigorous analysis that goes into successful trading.
+I avoid discussing trading and investing in depth because it often feels like a waste of time when the foundational understanding is lacking. It’s not just about throwing out random tips or strategies--it’s about understanding the deep, complex nature of financial markets and the rigorous analysis that goes into successful trading.
 
 In conclusion, the reason I steer clear of extensive discussions on investing and trading is that without a solid grasp of basic finance and an appreciation for the complexity involved, these topics can become counterproductive. It's not just about having fancy theories or strategies; it's about understanding the basics, applying them rigorously, and being prepared for the inherent risks and uncertainties.
 
@@ -178,7 +178,7 @@ Let’s start by clearing up a common misconception: making a million dollars do
 
 You can achieve a million-dollar milestone through various careers. My path was just one of many. I pursued a finance degree, hoping it would lead to a successful career. However, after graduating, I realized I needed more specialized knowledge. Corporate finance felt limiting, and there was a barrier to entry in traditional finance roles. 
 
-**Tip:** If you aim to work in a specific industry like finance or fashion, studying in or near the industry’s hub—such as New York City for finance—can dramatically increase your job prospects. 
+**Tip:** If you aim to work in a specific industry like finance or fashion, studying in or near the industry’s hub--such as New York City for finance--can dramatically increase your job prospects. 
 
 **2. Invest in Your Education**
 
@@ -188,7 +188,7 @@ I invested heavily in my education, with my wife and I collectively spending \$1
 
 **3. Location Matters**
 
-I moved several times for work—from Washington to Michigan, then to Dallas, and finally New York City before returning to Dallas. Each move came with significant costs, including higher living expenses and taxes. For example, living in New York City cost me about \$3,800 a month, compared to a lower cost of living in Dallas.
+I moved several times for work--from Washington to Michigan, then to Dallas, and finally New York City before returning to Dallas. Each move came with significant costs, including higher living expenses and taxes. For example, living in New York City cost me about \$3,800 a month, compared to a lower cost of living in Dallas.
 
 **Tip:** Be strategic about where you live based on your career goals. High-cost areas might offer higher salaries, but the cost of living can eat into your earnings. Balancing salary and living expenses is crucial for maximizing savings.
 

@@ -49,4 +49,4 @@ Jadi tolong jangan siksa saya, saya sudah berusaha sebisa saya, untuk mengakui i
 
 "The agile movement is in some ways a bit like a teenager: very self-conscious, checking constantly its appearance in a mirror, accepting few criticisms, only interested in being with its peers, rejecting en bloc all wisdom from the past, just because it is from the past, adopting fads and new jargon, at times cocky and arrogant. But I have no doubts that it will mature further, become more open to the outside world, more reflective, and therefore, more effective."
 
-— Philippe Kruchten
+-- Philippe Kruchten
