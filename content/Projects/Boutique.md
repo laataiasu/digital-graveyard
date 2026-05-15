@@ -11,7 +11,12 @@ Bio IG: Be a [[Masochist]]! Enjoy and embrace your pain and suffering. Humans mu
 Make a sign and hide. Don't show, don't tell.
 
 - life is a masquerade party and I’ve been showing up as myself
-- ungeziefer
+
+
+# [ x ] UNGEZIEFER
+- Front logo 
+- Back Space mono; Text: UNGEZIEFER
+
 - i would prefer not to
 - [ x ] bayt al hikmah longer
 - ngaji filsafat
