@@ -1,5 +1,6 @@
 {
-"search.exclude": {
-  "**/.obsidian/**": true,
-}
+  "search.exclude": {
+    "**/.obsidian/**": true
+  },
+  "obsidian-notes.dailyNoteTemplate": "journal.md"
 }

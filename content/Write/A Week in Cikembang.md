@@ -2,7 +2,7 @@
 date: 2021-12-16
 tags:
 - essay
-- wander
+- travel
 title: A Week in Cikembang
 publish_external: true
 ---
