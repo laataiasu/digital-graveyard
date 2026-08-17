@@ -1,5 +1,5 @@
 ---
-alias: CSGE614093
+aliases: CSGE614093
 date: 2023-02-01
 publish_external: true
 ---

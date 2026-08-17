@@ -1,4 +1,6 @@
 ---
+title: "{{title}}"
+date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
 aliases:
   - KG Modeling
   - Ontology
@@ -9,8 +11,5 @@ tags:
   - sparql
   - entity-type
   - semantic-web
-date:
-  "{ date }": 
 source: Project X KG Draft
-title: "{{title}}"
 ---

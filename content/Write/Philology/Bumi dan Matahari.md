@@ -1,6 +1,6 @@
 ---
 date: '2019-04-19T11:11:00Z'
-modified_time: '2019-04-19T11:11:12.243-07:00'
+updated: '2019-04-19T11:11:12.243-07:00'
 tags:
 - literature
 title: Bumi dan Matahari

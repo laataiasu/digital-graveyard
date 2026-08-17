@@ -1,5 +1,5 @@
 ---
-alias: CSIM603116
+aliases: CSIM603116
 date: 2021-08-01
 publish_external: true
 ---

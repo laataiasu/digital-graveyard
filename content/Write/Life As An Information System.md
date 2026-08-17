@@ -7,7 +7,7 @@ tags:
   - erp
   - tips
 description: ""
-toc: false
+enableToc: false
 publish_external: true
 ---
 ### 🧠 **LIFE AS AN INFORMATION SYSTEM**

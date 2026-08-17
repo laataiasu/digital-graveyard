@@ -1,5 +1,5 @@
 ---
-alias: CSCE604098
+aliases: CSCE604098
 date: 2023-02-01
 publish_external: true
 ---

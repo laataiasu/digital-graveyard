@@ -1,5 +1,5 @@
 ---
-alias: CSIE604276
+aliases: CSIE604276
 date: 2022-02-01
 publish_external: true
 ---

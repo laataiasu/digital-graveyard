@@ -2,7 +2,7 @@
 date: 2021-06-29T21:28
 tags:
 - java
-Last edited time: 2025-05-11T09:47
+updated: 2025-05-11T09:47
 ---
 - Polymorphism: Berbagai macam bentuk, dengan nama sama namun bentuknya beda
 - Dynamic binding : JVM nyari implementasi yang sesuai sesuai konteks secara dinamis

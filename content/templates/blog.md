@@ -4,7 +4,6 @@ date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
 draft: true
 tags: []
 description: ""
-toc: false
+enableToc: false
 publish_external: false
 ---
-

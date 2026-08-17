@@ -3,7 +3,7 @@ date: 2021-08-06T18:46
 tags:
 - cloud
 - infrastructure
-Last edited time: 2023-09-30T09:31
+updated: 2023-09-30T09:31
 ---
 [[Basic Service]]
 [[Global Infrastructure]]

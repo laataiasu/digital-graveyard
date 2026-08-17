@@ -6,8 +6,7 @@ tags:
   - tech
   - journal
 hideSummary: true
-showToc: true
-UseHugoToc: true
+enableToc: true
 publish_external: true
 ---
 

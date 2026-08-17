@@ -1,6 +1,6 @@
 ---
 date: '2018-06-30T04:46:00Z'
-modified_time: '2020-07-29T01:48:37.474-07:00'
+updated: '2020-07-29T01:48:37.474-07:00'
 tags:
 - literature
 title: Tujuan, perlukah?

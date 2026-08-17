@@ -1,6 +1,6 @@
 ---
 date: '2021-01-04T01:00:00Z'
-modified_time: '2021-01-16T16:20:49.332-08:00'
+updated: '2021-01-16T16:20:49.332-08:00'
 tags:
 - literature
 title: Hanya Orang Jelek Yang Memakai Masker

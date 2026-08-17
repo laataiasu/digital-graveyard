@@ -9,8 +9,7 @@ tags:
   - postgres
   - tech
 hideSummary: true
-showToc: true
-UseHugoToc: true
+enableToc: true
 draft: true
 publish_external: true
 ---

@@ -4,7 +4,7 @@ tags:
 - blockchain
 - cryptocurrency
 - finance
-Last edited time: 2024-01-07T08:31
+updated: 2024-01-07T08:31
 ---
 > [!info] MIT 15.S12 Blockchain and Money, Fall 2018  
 > Instructor: Prof.  

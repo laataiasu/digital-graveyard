@@ -1,6 +1,6 @@
 ---
 date: '2018-02-24T10:43:00Z'
-modified_time: '2018-07-04T19:38:36.725-07:00'
+updated: '2018-07-04T19:38:36.725-07:00'
 tags:
 - essay
 title: Realisasi Sistem Ramah Anak di Sekolah

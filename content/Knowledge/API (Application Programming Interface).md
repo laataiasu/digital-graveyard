@@ -3,7 +3,7 @@ date: 2021-06-16T14:00
 tags:
 - backend
 - software-engineering
-Last edited time: 2025-05-11T09:49
+updated: 2025-05-11T09:49
 ---
 # Apa itu API?
 Application programming interface, simplenya dalam konteks RestAPI buat kirim-kirim data.

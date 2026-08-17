@@ -1,5 +1,5 @@
 ---
-alias: CSGE603130
+aliases: CSGE603130
 date: 2021-08-01
 publish_external: true
 ---

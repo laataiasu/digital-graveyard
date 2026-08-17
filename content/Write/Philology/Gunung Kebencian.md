@@ -1,6 +1,6 @@
 ---
 date: '2019-08-03T00:26:00Z'
-modified_time: '2019-08-03T00:26:47.942-07:00'
+updated: '2019-08-03T00:26:47.942-07:00'
 tags:
 - literature
 title: Gunung Kebencian

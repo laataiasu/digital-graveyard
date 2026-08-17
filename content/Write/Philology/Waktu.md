@@ -1,6 +1,6 @@
 ---
 date: '2017-08-25T11:16:00Z'
-modified_time: '2020-08-24T11:19:03.450-07:00'
+updated: '2020-08-24T11:19:03.450-07:00'
 tags:
 - literature
 title: Waktu

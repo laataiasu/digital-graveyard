@@ -1,5 +1,5 @@
 ---
-alias: CSGE602040
+aliases: CSGE602040
 date: 2020-08-01
 publish_external: true
 ---

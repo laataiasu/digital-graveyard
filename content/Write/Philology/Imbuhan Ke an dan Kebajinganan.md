@@ -1,6 +1,6 @@
 ---
 date: 2019-08-03T00:36:00Z
-modified_time: 2020-07-20T20:33:59.623-07:00
+updated: 2020-07-20T20:33:59.623-07:00
 tags:
   - literature
 title: Imbuhan Ke-an dan Kebajinganan

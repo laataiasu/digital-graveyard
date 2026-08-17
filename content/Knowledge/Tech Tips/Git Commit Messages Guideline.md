@@ -4,7 +4,7 @@ date: 2025-07-06T09:03:28+07:00
 draft: false
 tags:
   - tech
-toc: false
+enableToc: false
 publish_external: true
 ---
 A good Git commit message helps you and others understand **what** changed and **why**. Here's a practical guide to writing clear, consist

@@ -1,5 +1,5 @@
 ---
-alias: UIGE600010
+aliases: UIGE600010
 date: 2020-08-01
 publish_external: true
 ---
