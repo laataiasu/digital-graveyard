@@ -1,7 +1,9 @@
 ---
+title: "IT Infrastructure Management"
 aliases: CSIE604276
 date: 2022-02-01
 publish_external: true
+tags: []
 ---
 
 # IT Infrastructure Management

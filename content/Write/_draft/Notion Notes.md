@@ -1,6 +1,8 @@
 ---
+title: "Notion Notes"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 Document your life - daily happenings, special occasions, and reflections on your goals.
 Categorize entries with tags and automatically capture the date.

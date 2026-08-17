@@ -1,4 +1,5 @@
 ---
+title: "Custom DNS"
 date: 2023-12-23T11:15
 tags:
   - tips

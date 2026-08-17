@@ -1,6 +1,8 @@
 ---
+title: "crypto"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 
 https://chatgpt.com/c/69100b49-6e00-8321-bca9-cdc8f7180f41

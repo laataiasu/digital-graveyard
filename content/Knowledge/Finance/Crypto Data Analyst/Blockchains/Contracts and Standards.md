@@ -1,5 +1,7 @@
 ---
+title: "Contracts and Standards"
 date: 2001-01-01
+tags: []
 ---
 
 ## Contracts and Standards

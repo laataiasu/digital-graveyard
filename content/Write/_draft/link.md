@@ -1,6 +1,8 @@
 ---
+title: "link"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 * **Blog:** [https://laataiasu.github.io/](https://laataiasu.github.io/)
 * **GitHub:** [http://github.com/ichsanulamal](http://github.com/ichsanulamal)

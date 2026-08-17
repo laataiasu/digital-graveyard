@@ -1,7 +1,9 @@
 ---
+title: "Linear Algebra"
 aliases: CSGE602012
 date: 2021-02-01
 publish_external: true
+tags: []
 ---
 
 # Linear Algebra

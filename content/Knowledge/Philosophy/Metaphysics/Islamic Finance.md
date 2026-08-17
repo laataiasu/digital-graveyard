@@ -1,4 +1,5 @@
 ---
+title: "Islamic Finance"
 date: 2021-04-04
 tags:
 - finance

@@ -1,5 +1,8 @@
 ---
+title: "TODO"
 draft: true
+date: 2026-05-19
+tags: []
 ---
 
 ## forbidden writer

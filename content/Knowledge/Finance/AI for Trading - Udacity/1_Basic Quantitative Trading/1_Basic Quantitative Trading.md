@@ -1,5 +1,7 @@
 ---
+title: "Basic Quantitative Trading"
 date: 2001-01-01
+tags: []
 ---
 
 # Basic Quantitative Trading

@@ -1,4 +1,5 @@
 ---
+title: "Federal Reserve Financial Stress Index (FSI)"
 date: 2001-01-01
 tags: economics
 ---

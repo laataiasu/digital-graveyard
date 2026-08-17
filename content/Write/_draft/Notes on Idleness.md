@@ -1,6 +1,8 @@
 ---
+title: "[[George Orwell]]"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 Notes on Idleness
 

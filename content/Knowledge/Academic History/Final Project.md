@@ -1,7 +1,9 @@
 ---
+title: "Final Project"
 aliases: CSGE604099
 date: 2022-08-01
 publish_external: true
+tags: []
 ---
 
 # Final Project

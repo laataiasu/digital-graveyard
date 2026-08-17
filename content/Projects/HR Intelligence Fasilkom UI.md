@@ -1,5 +1,7 @@
 ---
+title: "Ide Proyek Data Related"
 date: 2001-01-01
+tags: []
 ---
 
 # Ide Proyek Data Related

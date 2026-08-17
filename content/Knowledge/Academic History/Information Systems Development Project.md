@@ -1,7 +1,9 @@
 ---
+title: "Information Systems Development Project"
 aliases: CSIM603229
 date: 2022-02-01
 publish_external: true
+tags: []
 ---
 
 # Information Systems Development Project

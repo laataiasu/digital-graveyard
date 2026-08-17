@@ -1,4 +1,5 @@
 ---
+title: "Immanuel Kant"
 date: 2001-01-01
 tags:
 - classic-thinker

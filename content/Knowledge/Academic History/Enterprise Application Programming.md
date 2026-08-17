@@ -1,7 +1,9 @@
 ---
+title: "Enterprise Application Programming"
 aliases: CSIM603026
 date: 2021-08-01
 publish_external: true
+tags: []
 ---
 
 # Enterprise Application Programming

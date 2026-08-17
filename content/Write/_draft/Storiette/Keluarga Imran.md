@@ -1,6 +1,8 @@
 ---
+title: "Surat dari anak durhaka:"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 Keluarga harmonis, Islamik, ga kaya2 bgngt gara-gara salah pesen nasi
 bakar,

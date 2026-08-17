@@ -1,5 +1,7 @@
 ---
+title: "Crypto Data Analyst"
 date: 2001-01-01
+tags: []
 ---
 
 # Crypto Data Analyst

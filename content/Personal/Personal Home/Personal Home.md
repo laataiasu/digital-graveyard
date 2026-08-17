@@ -1,5 +1,7 @@
 ---
+title: "Personal Home"
 date: 2001-01-01
+tags: []
 ---
 
 Go off course for a purpose. Have fun in the detour

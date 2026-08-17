@@ -1,5 +1,7 @@
 ---
+title: "Data Schemas and Apache Avro"
 date: 2001-01-01
+tags: []
 ---
 
 # Data Schemas and Apache Avro

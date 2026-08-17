@@ -1,5 +1,7 @@
 ---
+title: "Assuming 'data' is a DataFrame with columns: ['Date', 'Price', 'Volume']"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Sources Of Outliers

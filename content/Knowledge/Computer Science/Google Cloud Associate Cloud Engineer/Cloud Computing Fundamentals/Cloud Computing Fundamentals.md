@@ -1,5 +1,7 @@
 ---
+title: "cloud deployment models"
 date: 2001-01-01
+tags: []
 ---
 
 # cloud deployment models

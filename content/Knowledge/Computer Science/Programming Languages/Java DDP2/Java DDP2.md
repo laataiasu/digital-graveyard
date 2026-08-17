@@ -1,4 +1,5 @@
 ---
+title: "JavaFX"
 date: 2021-06-29T21:28
 tags:
 - java

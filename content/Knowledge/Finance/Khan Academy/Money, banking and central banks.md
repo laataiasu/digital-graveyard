@@ -1,5 +1,7 @@
 ---
+title: "[**Quantitative easing**](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/federal-reserve/v/fed-open-market-operations)"
 date: 2001-01-01
+tags: []
 ---
 
 - [[#]]

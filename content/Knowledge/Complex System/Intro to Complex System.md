@@ -1,5 +1,7 @@
 ---
+title: "Properties common to complex systems:"
 date: 2001-01-01
+tags: []
 ---
 
 # Properties common to complex systems:

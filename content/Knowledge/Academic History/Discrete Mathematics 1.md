@@ -1,7 +1,9 @@
 ---
+title: "Discrete Mathematics 1"
 aliases: CSGE601010
 date: 2019-08-01
 publish_external: true
+tags: []
 ---
 
 # Discrete Mathematics 1

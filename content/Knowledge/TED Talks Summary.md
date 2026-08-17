@@ -1,4 +1,5 @@
 ---
+title: "TED Talks Summary"
 date: 2023-06-06T16:16
 tags:
 - soft-skills

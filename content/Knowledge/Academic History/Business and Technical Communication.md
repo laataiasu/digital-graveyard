@@ -1,7 +1,9 @@
 ---
+title: "Business and Technical Communication"
 aliases: CSIM601191
 date: 2021-08-01
 publish_external: true
+tags: []
 ---
 
 # Business and Technical Communication

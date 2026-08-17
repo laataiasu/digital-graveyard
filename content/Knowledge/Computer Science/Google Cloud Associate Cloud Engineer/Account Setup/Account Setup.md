@@ -1,5 +1,7 @@
 ---
+title: "resource hierarchy"
 date: 2001-01-01
+tags: []
 ---
 
 # resource hierarchy

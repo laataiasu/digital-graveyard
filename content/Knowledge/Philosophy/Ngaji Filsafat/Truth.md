@@ -1,6 +1,8 @@
 ---
+title: "Kebenaran"
 date: 2001-01-01
 publish_external: true
+tags: []
 ---
 # Kebenaran
 ### 3 Istilah kebenaran dalam Islam

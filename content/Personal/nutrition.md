@@ -1,3 +1,9 @@
+---
+title: "nutrition"
+date: 2026-05-19
+tags: []
+---
+
 Here’s a **lazy-friendly list** -- all are **cheap, easy to find in Semarang**, and **can be eaten raw or after very quick prep (steam / boil)**.
 
 ---

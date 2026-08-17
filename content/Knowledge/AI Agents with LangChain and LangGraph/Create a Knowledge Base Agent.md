@@ -1,3 +1,9 @@
+---
+title: "Create a Knowledge Base Agent"
+date: 2026-05-19
+tags: []
+---
+
 ## Introduction to Knowledge Base Agents and Reliability
 
 

@@ -1,4 +1,5 @@
 ---
+title: "Blockchain Analytics"
 date: 2024-06-26T08:06
 tags:
 - blockchain

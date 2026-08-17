@@ -1,3 +1,9 @@
+---
+title: "News Aggregator"
+date: 2026-05-19
+tags: []
+---
+
 im building indonesia news aggregator. the use case is for nlp/AI gen analysis to generate alpha factor for stock picking and for power research (like littlesis.org). suggest top 20% indonesia news that  contribute 80% (pareto). im trying to scrape using multiple langauage, first, use python if its possible, but sometimes it doesn work and i need nodejs. build project structure for this.
 
 Here's an improved and more structured version of your prompt that clearly communicates your goals, use case, and technical requirements:

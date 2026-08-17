@@ -1,3 +1,9 @@
+---
+title: "Spark Joins and JSON"
+date: 2026-05-19
+tags: []
+---
+
 # Spark Joins and JSON
 
 ## Why JSON is important

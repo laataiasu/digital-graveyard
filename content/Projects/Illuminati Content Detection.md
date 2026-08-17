@@ -1,5 +1,7 @@
 ---
+title: "Illuminati Content Detection"
 date: 2001-01-01
+tags: []
 ---
 
 # Illuminati Content Detection

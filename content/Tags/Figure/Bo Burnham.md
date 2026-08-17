@@ -1,4 +1,5 @@
 ---
+title: "Bo Burnham"
 date: 2001-01-01
 tags:
 - comedy

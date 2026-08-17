@@ -1,3 +1,9 @@
+---
+title: "📥 Data Collection for Content Consumption"
+date: 2026-05-19
+tags: []
+---
+
 # 📥 Data Collection for Content Consumption
 
 This document outlines the process for collecting your personal media consumption data and generating markdown files for your blog. The system is designed to be modular and easily extensible.

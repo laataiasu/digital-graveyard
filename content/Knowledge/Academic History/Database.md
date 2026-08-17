@@ -1,7 +1,9 @@
 ---
+title: "Database"
 aliases: CSGE602070
 date: 2021-02-01
 publish_external: true
+tags: []
 ---
 
 # Database

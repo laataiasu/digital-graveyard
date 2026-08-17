@@ -2,6 +2,7 @@
 date: 2001-01-01
 title: Bias, Fallacy, Paradox
 publish_external: true
+tags: []
 ---
 - **[[Dumb Ideas That Only Smart People Believe]]**  
   Certain complex ideas that seem clever but are actually misguided or overthought.

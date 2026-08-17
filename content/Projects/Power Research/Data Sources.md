@@ -1,6 +1,8 @@
 ---
+title: "Data Sources"
 tags:
   - data-sources
+date: 2026-05-19
 ---
 
 | Source                                        | Data You Want                                 |

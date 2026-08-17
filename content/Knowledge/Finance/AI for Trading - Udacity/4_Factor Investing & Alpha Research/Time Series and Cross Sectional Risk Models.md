@@ -1,5 +1,7 @@
 ---
+title: "Time Series and Cross Sectional Risk Models"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Time Series Risk Model Factor Variance

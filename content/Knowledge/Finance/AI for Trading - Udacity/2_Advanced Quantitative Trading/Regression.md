@@ -1,5 +1,7 @@
 ---
+title: "Regression"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Intro

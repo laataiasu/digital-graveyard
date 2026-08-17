@@ -1,6 +1,8 @@
 ---
+title: "Guru matematika"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 Yang terpengaruh kalor secara negatif, mohon ampunlah atas ketololan
 kita sekalian

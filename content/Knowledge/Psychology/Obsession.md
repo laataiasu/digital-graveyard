@@ -1,5 +1,7 @@
 ---
+title: "Obsession"
 date: 2001-01-01
+tags: []
 ---
 
 # Obsession

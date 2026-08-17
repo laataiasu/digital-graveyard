@@ -1,5 +1,7 @@
 ---
+title: "[**Forward and futures contracts**](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction)"
 date: 2001-01-01
+tags: []
 ---
 
 # [**Forward and futures contracts**](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction)

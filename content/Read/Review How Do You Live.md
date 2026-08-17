@@ -1,5 +1,7 @@
 ---
+title: "Review How Do You Live"
 date: 2001-01-01
+tags: []
 ---
 
 [[How Do You Live]]

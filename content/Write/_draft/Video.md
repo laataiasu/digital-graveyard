@@ -1,4 +1,5 @@
 ---
+title: "Video"
 date: 2022-05-07
 tags:
 - ideas

@@ -1,5 +1,7 @@
 ---
+title: "Introduction to Neural Networks"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Introduction to Deep Learning

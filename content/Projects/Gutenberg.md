@@ -1,5 +1,7 @@
 ---
+title: "Ebook Analysis"
 date: 2001-01-01
+tags: []
 ---
 
 # Ebook Analysis

@@ -1,5 +1,7 @@
 ---
+title: "Time Series Modeling"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Time Series Modeling

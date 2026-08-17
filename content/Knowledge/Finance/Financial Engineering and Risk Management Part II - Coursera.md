@@ -1,5 +1,7 @@
 ---
+title: "Financial Engineering and Risk Management Part II - Coursera"
 date: 2001-01-01
+tags: []
 ---
 
 ## 001.Mean Variance Overview and in Excel

@@ -1,7 +1,9 @@
 ---
+title: "Information System Management"
 aliases: CSIM603182
 date: 2022-02-01
 publish_external: true
+tags: []
 ---
 
 # Information System Management

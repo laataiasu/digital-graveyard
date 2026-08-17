@@ -1,3 +1,9 @@
+---
+title: "Power Research"
+date: 2026-05-19
+tags: []
+---
+
 Indonesia (and many Global South countries) lacks an equivalent to [LittleSis](https://littlesis.org/)--a public accountability platform that maps the power structures of elites: who knows who, who funds whom, which family is behind what conglomerate, and how influence flows across business, politics, military, media, etc.
 
 To approach this, let's break it down into 3 layers:

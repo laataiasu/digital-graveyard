@@ -1,6 +1,8 @@
 ---
+title: "Introduction to Philosophy"
 date: 2001-01-01
 publish_external: true
+tags: []
 ---
 Filosof : berpikir, memproduksi ide  
 Ahli Filsafat : belajar teori, tokoh, paradigma  

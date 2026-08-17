@@ -1,4 +1,5 @@
 ---
+title: "Administrasi Hukum Umum"
 aliases:
   - AHU
   - Administrasi Hukum Umum

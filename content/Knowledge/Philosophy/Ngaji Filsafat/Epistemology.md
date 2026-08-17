@@ -1,6 +1,8 @@
 ---
+title: "Epistemology"
 date: 2001-01-01
 publish_external: true
+tags: []
 ---
 Epistem - pengetahuan
 Logos - kajian tentang (rasional)

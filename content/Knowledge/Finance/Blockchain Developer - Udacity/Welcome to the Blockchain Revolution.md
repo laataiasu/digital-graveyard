@@ -1,5 +1,7 @@
 ---
+title: "Welcome to the Blockchain Revolution"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Why Blockchain?

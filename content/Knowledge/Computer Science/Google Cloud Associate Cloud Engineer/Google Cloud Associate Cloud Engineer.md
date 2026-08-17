@@ -1,4 +1,5 @@
 ---
+title: "Google Cloud Associate Cloud Engineer"
 date: 2022-10-17T13:47
 tags:
 - cloud

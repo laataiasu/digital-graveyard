@@ -1,5 +1,7 @@
 ---
+title: "Indonesia Religious Diversity Analysis"
 date: 2001-01-01
+tags: []
 ---
 
 # Indonesia Religious Diversity Analysis

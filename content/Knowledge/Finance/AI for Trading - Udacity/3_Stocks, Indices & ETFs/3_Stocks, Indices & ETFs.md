@@ -1,5 +1,7 @@
 ---
+title: "Stocks, Indices & ETFs"
 date: 2001-01-01
+tags: []
 ---
 
 # Stocks, Indices & ETFs

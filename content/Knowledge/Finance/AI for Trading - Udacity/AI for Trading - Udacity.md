@@ -1,5 +1,7 @@
 ---
+title: "AI for Trading - Udacity"
 date: 2001-01-01
+tags: []
 ---
 
 # AI for Trading - Udacity

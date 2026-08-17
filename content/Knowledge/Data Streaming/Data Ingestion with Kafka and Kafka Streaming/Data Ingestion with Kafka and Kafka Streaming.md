@@ -1,5 +1,7 @@
 ---
+title: "Data Ingestion with Kafka and Kafka Streaming"
 date: 2001-01-01
+tags: []
 ---
 
 # Data Ingestion with Kafka and Kafka Streaming

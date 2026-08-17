@@ -1,5 +1,7 @@
 ---
+title: "The Future of Digital Marketing"
 date: 2001-01-01
+tags: []
 ---
 
 # The Future of Digital Marketing

@@ -1,5 +1,7 @@
 ---
+title: "MITx- Mathematical Methods for Quantitative Finance"
 date: 2001-01-01
+tags: []
 ---
 
 Syllabus

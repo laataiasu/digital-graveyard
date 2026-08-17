@@ -1,5 +1,7 @@
 ---
+title: "Advanced Quantitative Trading"
 date: 2001-01-01
+tags: []
 ---
 
 # Advanced Quantitative Trading

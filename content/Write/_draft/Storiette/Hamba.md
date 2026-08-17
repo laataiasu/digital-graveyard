@@ -1,6 +1,8 @@
 ---
+title: "Hamba"
 date: 2001-01-01
 draft: true
+tags: []
 ---
 Pengikut partai yang munafik
 

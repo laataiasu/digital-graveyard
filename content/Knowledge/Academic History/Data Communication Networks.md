@@ -1,7 +1,9 @@
 ---
+title: "Data Communication Networks"
 aliases: CSIM603154
 date: 2021-08-01
 publish_external: true
+tags: []
 ---
 
 # Data Communication Networks

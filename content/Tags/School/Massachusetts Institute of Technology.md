@@ -1,4 +1,5 @@
 ---
+title: "Massachusetts Institute of Technology"
 date: 2001-01-01
 aliases:
 - MIT

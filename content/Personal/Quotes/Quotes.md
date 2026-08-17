@@ -1,5 +1,7 @@
 ---
+title: "Quotes"
 date: 2001-01-01
+tags: []
 ---
 
 | Name                                   | Tags       | tag |

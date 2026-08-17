@@ -1,5 +1,7 @@
 ---
+title: "Reddit Mental Health Analysis"
 date: 2001-01-01
+tags: []
 ---
 
 # Reddit Mental Health Analysis

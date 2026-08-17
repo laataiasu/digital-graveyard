@@ -1,7 +1,9 @@
 ---
+title: "Physics"
 aliases: UIST601111
 date: 2019-08-01
 publish_external: true
+tags: []
 ---
 
 # Physics

@@ -1,6 +1,8 @@
 ---
+title: "**Idealisme**"
 date: 2001-01-01
 publish_external: true
+tags: []
 ---
 # **Idealisme**
 ## **[[Immanuel Kant]]**

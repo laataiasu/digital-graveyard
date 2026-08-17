@@ -1,5 +1,7 @@
 ---
+title: "[**Mortgages**](https://www.khanacademy.org/economics-finance-domain/core-finance/housing/mortgages-tutorial/v/introduction-to-mortgage-loans)"
 date: 2001-01-01
+tags: []
 ---
 
 - [[#]]

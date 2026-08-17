@@ -1,5 +1,7 @@
 ---
+title: "Kafka Connect and REST Proxy"
 date: 2001-01-01
+tags: []
 ---
 
 # Kafka Connect and REST Proxy

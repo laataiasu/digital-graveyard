@@ -1,4 +1,5 @@
 ---
+title: "bluetooth arch linux"
 date: 2021-06-15T16:56
 tags:
   - linux

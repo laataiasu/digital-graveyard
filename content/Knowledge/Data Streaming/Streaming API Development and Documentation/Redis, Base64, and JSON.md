@@ -1,3 +1,9 @@
+---
+title: "Redis, Base64, and JSON"
+date: 2026-05-19
+tags: []
+---
+
 # Redis, Base64, and JSON
 
 ## Lesson Overview

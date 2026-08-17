@@ -1,5 +1,7 @@
 ---
+title: "Factor Investing & Alpha Research"
 date: 2001-01-01
+tags: []
 ---
 
 # Factor Investing & Alpha Research

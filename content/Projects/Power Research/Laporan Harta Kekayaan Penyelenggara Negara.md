@@ -1,4 +1,5 @@
 ---
+title: "Laporan Harta Kekayaan Penyelenggara Negara"
 aliases:
   - LHKPN
   - Asset Declaration

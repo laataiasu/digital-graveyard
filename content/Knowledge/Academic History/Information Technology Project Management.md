@@ -1,7 +1,9 @@
 ---
+title: "Information Technology Project Management"
 aliases: CSIM602281
 date: 2021-08-01
 publish_external: true
+tags: []
 ---
 
 # Information Technology Project Management

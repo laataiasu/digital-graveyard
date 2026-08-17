@@ -1,5 +1,7 @@
 ---
+title: "Stream Processing with Faust"
 date: 2001-01-01
+tags: []
 ---
 
 # Stream Processing with Faust

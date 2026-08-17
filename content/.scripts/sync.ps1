@@ -1,7 +1,7 @@
 # --- Define Variables ---
 # Use the backslash for path separation in Windows
 $PROJECT_DIR = "C:\Users\al\Projects\digital-graveyard\content"
-$SYNC_SCRIPT = "$PROJECT_DIR\sync_content.py"
+$SYNC_SCRIPT = "$PROJECT_DIR\.scripts\sync_content.py"
 $BLOG_DIR = "C:\Users\al\Projects\digital-garden"
 
 # --- Execute Python Script ---

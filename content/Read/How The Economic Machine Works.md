@@ -1,5 +1,7 @@
 ---
+title: "How The Economic Machine Works"
 date: 2001-01-01
+tags: []
 ---
 
 # How The Economic Machine Works

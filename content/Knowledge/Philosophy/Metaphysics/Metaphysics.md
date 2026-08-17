@@ -1,5 +1,7 @@
 ---
+title: "Metaphysics"
 date: 2001-01-01
+tags: []
 ---
 
 Document your life - daily happenings, special occasions, and reflections on your goals.

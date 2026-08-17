@@ -1,5 +1,7 @@
 ---
+title: "022 Relational Data Models"
 date: 2001-01-01
+tags: []
 ---
 
 ### OLAP VS OLTP

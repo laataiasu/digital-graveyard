@@ -1,5 +1,7 @@
 ---
+title: "Traces, Transactions, Events"
 date: 2001-01-01
+tags: []
 ---
 
 ## Tracking, Functions, and Events in Blockchains

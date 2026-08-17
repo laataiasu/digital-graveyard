@@ -1,5 +1,7 @@
 ---
+title: "Quotes Naruto dr SD"
 date: 2001-01-01
+tags: []
 ---
 
 1. “Kalau mau saling mengerti, lakukan saja setelah membuat lawan mengalami hal yang sama” (Yahiko, chapter 372)

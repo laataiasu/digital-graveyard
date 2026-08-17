@@ -1,4 +1,5 @@
 ---
+title: "Ngaji Filsafat"
 date: 2021-06-29
 tags:
 - philosophy

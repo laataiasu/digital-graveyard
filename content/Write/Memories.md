@@ -1,6 +1,8 @@
 ---
+title: "Memories"
 date: 2001-01-01
 publish_external: false
+tags: []
 ---
 
 [[Personal Home]]

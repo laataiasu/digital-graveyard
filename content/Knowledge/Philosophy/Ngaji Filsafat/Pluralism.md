@@ -1,6 +1,8 @@
 ---
+title: "**Pluralisme**"
 date: 2001-01-01
 publish_external: true
+tags: []
 ---
 # **Pluralisme**
 Semuanya saling memengaruhi, tidak hanya bersifat jiwa ata materi ata dualisme

@@ -1,3 +1,9 @@
+---
+title: "Power Capital Tracker"
+date: 2026-05-19
+tags: []
+---
+
 ## 🧱 “Power Capital Tracker”
 
 ### 🔍 1. **Start With Institutions (VCs & Investment Firms)**

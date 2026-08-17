@@ -1,5 +1,7 @@
 ---
+title: "031 Intro Data Warehouse"
 date: 2001-01-01
+tags: []
 ---
 
 Operational Databases  

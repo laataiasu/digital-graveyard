@@ -1,4 +1,5 @@
 ---
+title: "Jean-Jacques Rousseau"
 date: 2001-01-01
 tags:
 - classic-thinker

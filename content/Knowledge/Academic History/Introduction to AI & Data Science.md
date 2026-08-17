@@ -1,7 +1,9 @@
 ---
+title: "Introduction to AI & Data Science"
 aliases: CSGE603130
 date: 2021-08-01
 publish_external: true
+tags: []
 ---
 
 # Introduction to AI & Data Science

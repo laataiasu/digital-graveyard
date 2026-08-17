@@ -1,5 +1,7 @@
 ---
+title: "Pairs Trading and Mean Reversion"
 date: 2001-01-01
+tags: []
 ---
 
 ## 1. Intro 

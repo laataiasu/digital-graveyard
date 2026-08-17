@@ -1,5 +1,7 @@
 ---
+title: "Marketing Data and Technology"
 date: 2001-01-01
+tags: []
 ---
 
 [[Marketing Data for Your Business]]

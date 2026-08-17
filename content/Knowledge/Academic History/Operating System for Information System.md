@@ -1,7 +1,9 @@
 ---
+title: "Operating System for Information System"
 aliases: CSIM602155
 date: 2021-02-01
 publish_external: true
+tags: []
 ---
 
 # Operating System for Information System
