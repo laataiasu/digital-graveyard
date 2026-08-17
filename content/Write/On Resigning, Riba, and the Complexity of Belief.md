@@ -2,7 +2,7 @@
 title: "On Resigning, Riba, and the Complexity of Belief"
 date: 2026-05-23
 tags: [journal, career, belief, reflection]
-publish_external: true
+publish_external: false
 ---
 previous day i have submitted my resignation at accenture. i don't know whether its too rushing or not. 
 
