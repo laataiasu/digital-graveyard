@@ -34,7 +34,7 @@ tags: []
 
 [[Crypto Data Analyst]]
 
-[[Filsafat]]
+[[Ngaji Filsafat]]
 
 [[Obsession]]
 
