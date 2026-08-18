@@ -1,8 +1,9 @@
 ---
 title: "Asus Zenfone Max Pro M2"
 date: 2019-01-01
-tags:
-- gadget
+tags: [gadget]
+publish_external: false
 ---
+
 # Asus Zenfone Max Pro M2
 

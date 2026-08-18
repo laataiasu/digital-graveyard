@@ -1,11 +1,10 @@
 ---
-title: Oliver Twist
+title: "Oliver Twist"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Charles Dickens
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # Oliver Twist
 

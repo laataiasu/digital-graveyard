@@ -1,10 +1,10 @@
 ---
-date: '2023-12-20'
-tags:
-- journal
-- essay
-title: Bunuhlah Budaya Bau Tanah Itu!
+title: "Bunuhlah Budaya Bau Tanah Itu!"
+date: 2023-12-20
+tags: [journal, essay]
+publish_external: false
 ---
+
 budaya tidak perlu didewakan
 
 budaya itu adalah makhluk dan juga produk, maka ia mengikuti product life cycle: introduction, growth, maturity, decline

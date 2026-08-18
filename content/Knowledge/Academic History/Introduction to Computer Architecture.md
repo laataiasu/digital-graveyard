@@ -1,9 +1,9 @@
 ---
 title: "Introduction to Computer Architecture"
-aliases: CSIM601251
 date: 2020-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIM601251
 ---
 
 # Introduction to Computer Architecture

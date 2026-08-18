@@ -1,9 +1,9 @@
 ---
 title: "Data Structures and Algorithms"
-aliases: CSGE602040
 date: 2020-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSGE602040
 ---
 
 # Data Structures and Algorithms

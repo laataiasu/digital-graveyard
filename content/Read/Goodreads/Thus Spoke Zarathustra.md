@@ -1,11 +1,10 @@
 ---
-title: Thus Spoke Zarathustra
+title: "Thus Spoke Zarathustra"
+date: 2018-09-16
+tags: [book]
+publish_external: false
 author: Friedrich Nietzsche
-date: '2018-09-16'
-tags:
-- book
 ---
-
 
 # Thus Spoke Zarathustra
 

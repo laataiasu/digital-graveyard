@@ -2,6 +2,7 @@
 title: "Review How Do You Live"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 [[How Do You Live]]

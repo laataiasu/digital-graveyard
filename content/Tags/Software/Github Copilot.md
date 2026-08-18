@@ -1,8 +1,6 @@
 ---
-tags:
-  - software
-  - coding-agent
-title: Github Copilot
-date: 2025-08-03T12:07:35+07:00
+title: "Github Copilot"
+date: 2025-08-03
+tags: [software, coding-agent]
 publish_external: true
 ---

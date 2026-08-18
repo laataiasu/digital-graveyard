@@ -1,11 +1,10 @@
 ---
-title: 'Child of All Nations (Buru Quartet, #2)'
+title: "Child of All Nations (Buru Quartet, #2)"
+date: 2018-09-17
+tags: [book]
+publish_external: false
 author: Pramoedya Ananta Toer
-date: '2018-09-17'
-tags:
-- book
 ---
-
 
 # Child of All Nations (Buru Quartet, #2)
 

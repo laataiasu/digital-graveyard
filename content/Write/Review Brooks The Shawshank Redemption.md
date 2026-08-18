@@ -1,13 +1,11 @@
 ---
-date: '2020-12-13T06:22:04Z'
-tags:
-- film
-- review
-- essay
-timeline_notification:
-- '1607815342'
-title: Review Brooks, 'The Shawshank Redemption'
+title: "Review Brooks, 'The Shawshank Redemption"
+date: 2020-12-13
+tags: [film, review, essay]
+publish_external: false
+timeline_notification: [1607815342]
 ---
+
 Without realizing it, we are always part of something. And somehow that something must always be there and be a part of us. So when something is lost or feels far from our scope, we will always feel lost.
 
 We are trying to find something, that something is missing. But when it turns out that the thing we are looking for is not found and we are desperate, then we look for something to replace it, but when we cling to what is missing, with all our despair and reluctance to move to other things, what is lost will destroy.

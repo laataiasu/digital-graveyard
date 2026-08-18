@@ -1,11 +1,10 @@
 ---
-title: Mati Ketawa ala Refotnasi
+title: "Mati Ketawa ala Refotnasi"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Emha Ainun Nadjib
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # Mati Ketawa ala Refotnasi
 

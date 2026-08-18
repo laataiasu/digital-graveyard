@@ -1,9 +1,9 @@
 ---
 title: "IT Service Management"
-aliases: CSIE604378
 date: 2022-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIE604378
 ---
 
 # IT Service Management

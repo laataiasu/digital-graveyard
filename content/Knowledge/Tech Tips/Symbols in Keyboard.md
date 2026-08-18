@@ -1,10 +1,10 @@
 ---
-title: Symbols in Keyboard
-date: 2025-07-06T13:59:02+07:00
-tags:
-  - tips
+title: "Symbols in Keyboard"
+date: 2025-07-06
+tags: [tips]
 publish_external: true
 ---
+
 List of all the **symbols** commonly found on a **standard English (US) QWERTY keyboard**, along with their **names** in English:
 
 ---

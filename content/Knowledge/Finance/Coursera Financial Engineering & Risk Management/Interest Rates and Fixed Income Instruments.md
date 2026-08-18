@@ -2,6 +2,7 @@
 title: "Interest Rates and Fixed Income Instruments"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## Simple and compound interest

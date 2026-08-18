@@ -1,11 +1,10 @@
 ---
 title: "Sigmund Freud"
 date: 2001-01-01
-tags:
-- figure
-- philosophy
-- science
+tags: [figure, philosophy, science]
+publish_external: false
 ---
+
 # Sigmund Freud
 
 **STRUKTUR KEJIWAAN MANUSIA**

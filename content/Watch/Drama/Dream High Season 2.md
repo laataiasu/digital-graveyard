@@ -1,16 +1,14 @@
 ---
-title: Dream High Season 2
+title: "Dream High Season 2"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2012
 type: Korean Drama
 score: 4.0
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Dream High Season 2
 

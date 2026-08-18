@@ -1,13 +1,11 @@
 ---
-date: '2020-11-15T11:59:30Z'
-tags:
-- essay
-- pseudocomedy
-- muslim
-timeline_notification:
-- '1605416374'
-title: The Law of Comedy ~ Part 4
+title: "The Law of Comedy ~ Part 4"
+date: 2020-11-15
+tags: [essay, pseudocomedy, muslim]
+publish_external: false
+timeline_notification: [1605416374]
 ---
+
 ![[https://youtu.be/uTBEUTz6Wog]]
 
 This is the other example which I think is part of the law of comedy too,

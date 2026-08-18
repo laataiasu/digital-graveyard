@@ -1,9 +1,10 @@
 ---
-date: '2023-07-19T00:00:00Z'
-tags:
-- literature
-title: Jalan Kepengecutan
+title: "Jalan Kepengecutan"
+date: 2023-07-19
+tags: [literature]
+publish_external: false
 ---
+
   
 ![[beautiful loser.jpg]]
   

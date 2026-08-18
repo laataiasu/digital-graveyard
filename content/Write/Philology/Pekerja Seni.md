@@ -1,9 +1,10 @@
 ---
-date: '2021-04-18T20:01:00Z'
-tags:
-- literature
-title: Pekerja Seni
+title: "Pekerja Seni"
+date: 2021-04-18
+tags: [literature]
+publish_external: false
 ---
+
   
 Pekerja seni adalah lacur rupawan  
 Menyaingi ia yang agung  

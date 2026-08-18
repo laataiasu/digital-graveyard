@@ -1,9 +1,10 @@
 ---
-date: '2020-05-25'
-tags:
-- journal
-title: Intro Blog Part 2
+title: "Intro Blog Part 2"
+date: 2020-05-25
+tags: [journal]
+publish_external: false
 ---
+
 I have dwelled in the past, finding solace in its embrace, yet fearing the uncertainties of the future. However, I've come to realize that indulging in nostalgia or succumbing to worry is a futile endeavor. Whether reminiscing about the glories of Manchester United or fretting over Liverpool's current predicament amidst the pandemic, it won't alter the present reality--I am akin to Newcastle United, languishing in the depths of the degradation chart. What truly matters now is extricating myself from this downward spiral.
 
 Living in the present moment is paramount. It's about seizing the day, carpe diem, as they say.

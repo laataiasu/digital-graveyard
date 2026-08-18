@@ -1,10 +1,10 @@
 ---
-date: '2023-06-14T00:00:00Z'
-tags:
-- journal
-- essay
-title: Santet is Real
+title: "Santet is Real"
+date: 2023-06-14
+tags: [journal, essay]
+publish_external: false
 ---
+
 ![[santet.jpg]]
 
 I always believe in mysticism because just because we can't see it, it doesn't mean it doesn't exist.

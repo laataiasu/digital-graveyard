@@ -1,13 +1,11 @@
 ---
-date: '2021-04-13T00:00:00Z'
+title: "Snowden Is Not a Hero"
+date: 2021-04-13
+tags: [cryptocurrency, tech, muslim, essay]
+publish_external: false
 description: snowden bukan pahlawan
-tags:
-- cryptocurrency
-- tech
-- muslim
-- essay
-title: Snowden Is Not a Hero
 ---
+
 Setiap propaganda kebutuhan akan privasi hanyalah omong kosong. Hal ini mirip dengan ide komunisme yang begitu indah dalam imajinasi tetapi gagal dalam realisasinya. Dan itu berlaku untuk [[Edward Snowden]]. Mereka yang memperjuangkan kebebasan manusia di wilayah mana pun di dunia hanyalah sekelompok megalomania. Bila sesorang tidak punya kuasa tetapi kebutuhan akan eksistensinya sedang menggebu-gebu, lahirlah snowden. Bertindak seolah-olah apa yang dia tahu benar untuknya adalah benar untuk semua orang. Kebenaran, kebaikan, kebebasan, omong kosong macam apa itu?
 
 Dia tidak memperhatikan lingkungan saat itu, memperjuangkan hak individualitas, memerangi common sense adalah hal yang bertentangan dengan akal masyarakat. Dan hal itu sungguh tidak akan mengubah apapun yang dianggapnya benar, karena ia telah memberi tahu semuanya tentang sampah yang dilihatnya dan dipikirkannya. Lebih buruk daripada pelawak yang menipu agar orang lain tertawa. Kebutuhan akan eksistensinya melebihi pelawak, sehingga ia perlu melakukan hal seperti itu. Berharap orang menganggapnya sebagai pahlawan karena telah menyebarkan kebenaran. Namun, saat melakukan tindakan itu, Snowden tidak bertanya, memangnya masyarakat memerlukan kebenaran?

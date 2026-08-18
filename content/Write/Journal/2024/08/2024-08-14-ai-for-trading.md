@@ -1,10 +1,12 @@
 ---
 title: "AI for Trading"
 date: 2024-08-14
-source: "Udacity"
 tags: [finance]
+publish_external: false
+source: Udacity
 draft: true
 ---
+
 ## Details
 Outliers and Filtering,
 Regression,

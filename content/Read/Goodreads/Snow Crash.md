@@ -1,11 +1,10 @@
 ---
-title: Snow Crash
+title: "Snow Crash"
+date: 2021-10-23
+tags: [book]
+publish_external: false
 author: Neal Stephenson
-date: '2021-10-23'
-tags:
-- book
 ---
-
 
 # Snow Crash
 

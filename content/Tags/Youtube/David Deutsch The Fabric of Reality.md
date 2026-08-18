@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:03:39+07:00
-title: David Deutsch The Fabric of Reality
-tags:
-  - youtube
-aliases: 
-source:
+title: "David Deutsch The Fabric of Reality"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # David Deutsch and Naval Ravikant -- The Fabric of Reality And Much More | The Tim Ferriss Show

@@ -1,17 +1,18 @@
 ---
 title: "Ethics"
 date: 2001-01-01
-publish_external: true
 tags: []
+publish_external: true
 ---
-## [[Relativism]]
+
+## Relativism
 - konvensionalisme :  
     sesuai konteks budaya atau sosial  
     
 - subjektivisme :  
     individu  
     
-## [[Altruism]]
+## Altruism
 ### Indikator
 - Empati.
 - Interpretasi.
@@ -20,7 +21,7 @@ tags: []
     
 - Inisiatif.
 - Rela Berkorban.
-## [[Egoism]]
+## Egoism
 - Act-Selfishly  
     (berhubungan dengan motifnya)  
     

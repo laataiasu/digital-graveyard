@@ -1,9 +1,10 @@
 ---
 title: "Islamic Finance"
 date: 2021-04-04
-tags:
-- finance
+tags: [finance]
+publish_external: false
 ---
+
 ## Table of Content
 - [[#Table of Content]]
 - [[#Bank Syariah di Indonesia]]
@@ -63,5 +64,5 @@ https://www.investopedia.com/terms/g/gold-reserve-act-1934.asp
 [Practical Islamic Finance](https://www.youtube.com/channel/UC9X2RcKN4UUsrFolU04iuTQ)
 [Think Halal & Grow Rich](https://www.youtube.com/channel/UCZTsKVl6VoD_FyOsQcu60SQ)
   
-### [[Twitter]]
+### Twitter
 [thread dr ahli cryptography](https://[[Twitter]].com/GilangHamidy/status/1392089588664049668): btc = [[Gambling|judi]]

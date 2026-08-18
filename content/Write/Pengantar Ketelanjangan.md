@@ -1,10 +1,11 @@
 ---
-date: '2018-07-04T19:36:00Z'
-updated: '2020-07-29T01:51:39.987-07:00'
-tags:
-- essay
-title: Pengantar Ketelanjangan
+title: "Pengantar Ketelanjangan"
+date: 2018-07-04
+tags: [essay]
+publish_external: false
+updated: "2020-07-29T01:51:39.987-07:00"
 ---
+
 Bosen woy pake sua saya, pake bahasa Indonesia yang baku dll. Harus mikir apa yang perlu ditulis biar semuanya nyambung. Tapi pas cape-cape dipikirin ga ada yang nyambung. Daripada baku tapi ga nyambung kenapa sekalian aja ga baku dan ga nyambung? kan lebih sia-sia?
 
 

@@ -1,10 +1,10 @@
 ---
-date: '2020-11-10'
-tags:
-- review
-- film
-title: Review Economic Films
+title: "Review Economic Films"
+date: 2020-11-10
+tags: [review, film]
+publish_external: false
 ---
+
 "The Big Short" delves into the complexities of the 2008 economic [[Depression]] in the US, exploring terms like bubble economics and subprime mortgages. While its comedic elements may not resonate with everyone, its clear explanations make it accessible even to those unfamiliar with economic concepts, like myself.
 
 "Beautiful Mind," while primarily focused on John Nash's struggle with schizophrenia, offers valuable insights into his mathematical contributions such as the Nash Equilibrium and game theory. Instead of watching the film, delving into Nash's writings might provide a more thorough understanding.

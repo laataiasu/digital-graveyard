@@ -1,10 +1,11 @@
 ---
-date: '2019-04-19T11:11:00Z'
-updated: '2019-04-19T11:11:12.243-07:00'
-tags:
-- literature
-title: Bumi dan Matahari
+title: "Bumi dan Matahari"
+date: 2019-04-19
+tags: [literature]
+publish_external: false
+updated: "2019-04-19T11:11:12.243-07:00"
 ---
+
   
 Matahari sedang ada  
 Sinarnya selalu menunggu untuk dijemput  

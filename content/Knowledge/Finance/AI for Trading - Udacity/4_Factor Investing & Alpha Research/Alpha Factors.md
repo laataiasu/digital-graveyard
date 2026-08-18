@@ -2,6 +2,7 @@
 title: "Alpha Factors"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## 1. Overview of Alpha Factors and Efficient Market Hypothesis (EMH)

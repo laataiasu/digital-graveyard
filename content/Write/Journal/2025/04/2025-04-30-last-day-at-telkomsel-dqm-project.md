@@ -1,10 +1,11 @@
 ---
-title: 'Last Day at Telkomsel DQM Project'
+title: "Last Day at Telkomsel DQM Project"
 date: 2025-04-30
-tags:
-- journal
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 # 2025-04-30
 
 this day is my last day working in [[Telkomsel]] project at [[Accenture]]. 

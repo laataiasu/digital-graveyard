@@ -1,7 +1,8 @@
 ---
-title: "**Tool Examples for Digital Marketers**"
+title: "Tool Examples for Digital Marketers"
 date: 2026-05-19
 tags: []
+publish_external: false
 ---
 
 # **Tool Examples for Digital Marketers**

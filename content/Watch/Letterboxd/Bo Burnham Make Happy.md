@@ -1,10 +1,9 @@
 ---
-title: 'Bo Burnham: Make Happy'
-date: '2021-12-22'
+title: "Bo Burnham: Make Happy"
+date: 2021-12-22
+tags: [film]
+publish_external: false
 year: 2016
-letterboxd_uri: https://boxd.it/e436
+letterboxd_uri: "https://boxd.it/e436"
 rating: 3.0
-tags:
-- film
 ---
-

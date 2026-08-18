@@ -1,9 +1,10 @@
 ---
 title: "Islamic Epistemology"
 date: 2001-01-01
-publish_external: true
 tags: []
+publish_external: true
 ---
+
 [[Islam]]
 
 Dari [[Mutazila]]

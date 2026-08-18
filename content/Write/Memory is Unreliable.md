@@ -1,11 +1,10 @@
 ---
-date: '2024-02-17'
-tags:
-- journal
-- essay
-- muslim
-title: Memory is Unreliable
+title: "Memory is Unreliable"
+date: 2024-02-17
+tags: [journal, essay, muslim]
+publish_external: false
 ---
+
 Later, when you greet someone who has forgotten you, don't make her remember you.
 
 You can pretend to be her fan while saying "take care" as you leave.

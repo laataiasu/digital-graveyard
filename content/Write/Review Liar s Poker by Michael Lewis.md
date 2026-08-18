@@ -1,11 +1,10 @@
 ---
-date: '2021-08-27T00:00:00Z'
-tags:
-- book
-- review
-- business
-title: Review Liar's Poker by Michael Lewis
+title: "Review Liar's Poker by Michael Lewis"
+date: 2021-08-27
+tags: [book, review, business]
+publish_external: false
 ---
+
 > ringkasan buku mantan asosial gambler
 
 Awal mulanya dari nonton Big Short, film tentang krisis tahun 2008 

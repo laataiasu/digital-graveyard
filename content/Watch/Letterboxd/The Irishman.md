@@ -1,10 +1,9 @@
 ---
-title: The Irishman
-date: '2021-10-15'
+title: "The Irishman"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2019
-letterboxd_uri: https://boxd.it/dYOq
+letterboxd_uri: "https://boxd.it/dYOq"
 rating: 2.5
-tags:
-- film
 ---
-

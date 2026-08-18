@@ -1,16 +1,14 @@
 ---
-title: Strong Woman Do Bong Soon
+title: "Strong Woman Do Bong Soon"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2017
 type: Korean Drama
 score: 5.5
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Strong Woman Do Bong Soon
 

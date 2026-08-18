@@ -1,11 +1,10 @@
 ---
-title: The Lean Startup
+title: "The Lean Startup"
+date: 2022-07-25
+tags: [book]
+publish_external: false
 author: Eric Ries
-date: '2022-07-25'
-tags:
-- book
 ---
-
 
 # The Lean Startup
 

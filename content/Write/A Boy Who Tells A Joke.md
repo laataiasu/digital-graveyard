@@ -1,11 +1,11 @@
 ---
-date: '2020-09-24T11:59:35Z'
-tags:
-- essay
-timeline_notification:
-- '1600923581'
-title: A Boy Who Tells A Joke
+title: "A Boy Who Tells A Joke"
+date: 2020-09-24
+tags: [essay]
+publish_external: false
+timeline_notification: [1600923581]
 ---
+
 A teacher taught what he can do to his students. At started he was cheerful, humorist, and interesting. But he doesn't know why sometimes he loses all of it.
 
 And the day like before never happened again tomorrow

@@ -1,11 +1,10 @@
 ---
-date: '2021-08-28T00:00:00Z'
-tags:
-- book
-- review
-- business
-title: "Review Start-up Nation \u2014 Dan Senor and Saul Singer"
+title: "Review Start-up Nation — Dan Senor and Saul Singer"
+date: 2021-08-28
+tags: [book, review, business]
+publish_external: false
 ---
+
 > Buku yang menurut saya intro dan conclusionnya wajib dibaca oleh seluruh goyim
 
 ### Banyak propagandanya. Nevertheless, just learn to love being tricked and learn what can be learned 

@@ -1,12 +1,11 @@
 ---
-date: '2020-11-22T20:19:41Z'
-tags:
-- film
-- review
-timeline_notification:
-- '1612851717'
-title: Why Ji-Pyeong Didn't Get Dal Mi's Heart By Muslim Perspective
+title: "Why Ji-Pyeong Didn't Get Dal Mi's Heart By Muslim Perspective"
+date: 2020-11-22
+tags: [film, review]
+publish_external: false
+timeline_notification: [1612851717]
 ---
+
 <figure class="wp-block-image size-large">![[enwq_tew8aaqk6-.jpeg]]</figure> 
 
 The reasons why Ji Pyeong didn't get Dal Mi's heart even though he is rich:  

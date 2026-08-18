@@ -1,11 +1,10 @@
 ---
-title: 'Mao: The Unknown Story'
+title: "Mao: The Unknown Story"
+date: 2025-01-17
+tags: [book]
+publish_external: false
 author: Jung Chang
-date: '2025-01-17'
-tags:
-- book
 ---
-
 
 # Mao: The Unknown Story
 

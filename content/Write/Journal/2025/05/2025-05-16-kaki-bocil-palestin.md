@@ -1,12 +1,11 @@
 ---
-title: Kaki Bocil Palestin
+title: "Kaki Bocil Palestin"
 date: 2025-05-16
-tags:
-  - journal
-  - film
-  - review
+tags: [journal, film, review]
+publish_external: false
 draft: true
 ---
+
 when friday prayer begin, i somehow feel so blue. i remember [[Manchester by the Sea]] . somehow i related so much to cassey affleck. i dont know what [[Depression]] is, but by my defintion, [[Depression]] is mostly like that. you lose something and you cant describe it. and in this world, there's lot of forms, but the substance is just the same. in the movie he unintentionally burn his own house, burn his children. 
 
 lots of events like that, we do something unintentionally. its like this song

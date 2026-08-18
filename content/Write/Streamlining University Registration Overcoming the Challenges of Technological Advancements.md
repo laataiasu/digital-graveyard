@@ -1,11 +1,10 @@
 ---
-date: '2019-08-08'
-tags:
-- essay
-- education
-title: 'Streamlining University Registration: Overcoming the Challenges of Technological
-  Advancements'
+title: "Streamlining University Registration: Overcoming the Challenges of Technological Advancements"
+date: 2019-08-08
+tags: [essay, education]
+publish_external: false
 ---
+
 Title: "Streamlining University Registration: Overcoming the Challenges of Technological Advancements"
 
 Introduction:

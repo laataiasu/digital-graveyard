@@ -1,9 +1,10 @@
 ---
-date: '2019-09-13T00:00:00Z'
-tags:
-- literature
-title: Gas Mulia
+title: "Gas Mulia"
+date: 2019-09-13
+tags: [literature]
+publish_external: false
 ---
+
   
 kamu pikir kamu gas mulia  
 bukan, ia stabil   

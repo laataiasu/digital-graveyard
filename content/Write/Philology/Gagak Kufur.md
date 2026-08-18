@@ -1,10 +1,11 @@
 ---
-date: '2018-02-17T15:09:00Z'
-updated: '2019-02-03T14:34:56.869-08:00'
-tags:
-- literature
-title: Gagak Kufur
+title: "Gagak Kufur"
+date: 2018-02-17
+tags: [literature]
+publish_external: false
+updated: "2019-02-03T14:34:56.869-08:00"
 ---
+
   
 ![[gagak-kufur.png]]  
   

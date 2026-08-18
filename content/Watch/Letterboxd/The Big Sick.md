@@ -1,10 +1,9 @@
 ---
-title: The Big Sick
-date: '2020-04-25'
+title: "The Big Sick"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2017
-letterboxd_uri: https://boxd.it/eHvy
+letterboxd_uri: "https://boxd.it/eHvy"
 rating: 3.0
-tags:
-- film
 ---
-

@@ -1,9 +1,10 @@
 ---
-date: '2023-09-02'
-tags:
-- journal
-title: Illusion is The Fuel
+title: "Illusion is The Fuel"
+date: 2023-09-02
+tags: [journal]
+publish_external: false
 ---
+
 Illusion is the fuel of acceleration and substance 
 
 To appreciate someone, with insignificant achievement, something little. 

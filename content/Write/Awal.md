@@ -1,10 +1,11 @@
 ---
-date: '2014-01-01T00:01:00Z'
-updated: '2020-07-20T19:44:17.053-07:00'
-tags:
-- intro
-title: Awal
+title: "Awal"
+date: 2014-01-01
+tags: [intro]
+publish_external: false
+updated: "2020-07-20T19:44:17.053-07:00"
 ---
+
 Yooww akhirnya ane memutuskan untuk menulis blog atau (curhat di blog) nulis artikel setelah sekian lama berpikir dan ntah kenapa hati ane menggerakan jari jari seniman ini untuk menulis. Beban pikiran juga udah banyak sampe mau meledak nih otak, insomnia karena banyak mikir hal ga guna sebelum tidur jadi ane memutuskan untuk menuangkan ledakan pikiran ane disini biar semua yg ada di hati sm pikiran ane plong lalu menyusunnya serapi mungkin menjadi tulisan. karena ga ada pensil disini ane ralat bukan nulis tapi ngetik. _Lebaay_
 
   

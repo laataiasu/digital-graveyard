@@ -1,9 +1,10 @@
 ---
-date: '2022-12-31'
-tags:
-- journal
-title: Insights and Lessons from This Year
+title: "Insights and Lessons from This Year"
+date: 2022-12-31
+tags: [journal]
+publish_external: false
 ---
+
 During the period of August 2022 to December 2022, I embarked on a journey of self-discovery and personal growth, and I encountered several valuable insights and lessons that have had a profound impact on my life. Here are some of the key takeaways from this transformative period:
 
 1. **Neuro-Coupling:** One of the most intriguing concepts I learned about during this time was neuro-coupling. This idea suggests that our brains have the remarkable ability to synchronize with one another, allowing for deep connections and understanding between individuals. By recognizing the power of neuro-coupling, I became more aware of the importance of genuine and empathetic communication in building strong relationships.

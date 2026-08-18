@@ -1,9 +1,10 @@
 ---
 title: "Temporal"
 date: 2001-01-01
-tags:
-- software
+tags: [software]
+publish_external: false
 ---
+
 # Temporal
 
 ## Overview
@@ -93,7 +94,7 @@ Temporal provides **safe [[Concurrency]]**:
 
 This lets you build systems that **scale**, **recover from failure**, and **remain consistent**.
 
-## [[Asynchrony]] in **Temporal**
+## Asynchrony in **Temporal**
 
 Temporal is **inherently asynchronous**:
 
@@ -113,7 +114,7 @@ Even though this looks linear, Temporal can run the activities **in parallel** b
 
 ---
 
-## [[Determinism]] in **Temporal**
+## Determinism in **Temporal**
 
 Temporal **replays workflow code** from event history to restore state after restarts or crashes. To make this possible:
 

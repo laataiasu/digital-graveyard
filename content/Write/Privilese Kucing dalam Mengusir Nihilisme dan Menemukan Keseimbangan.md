@@ -1,9 +1,10 @@
 ---
-date: '2018-09-26'
-tags:
-- journal
-title: Privilese Kucing dalam Mengusir Nihilisme dan Menemukan Keseimbangan
+title: "Privilese Kucing dalam Mengusir Nihilisme dan Menemukan Keseimbangan"
+date: 2018-09-26
+tags: [journal]
+publish_external: false
 ---
+
 ![[nihilist-cat.jpg]]
 
 Banyaknya tikus di rumah membuat keluargaku kewalahan. Tiap kali ke dapur pada malam hari, selalu ada 2-3 tikus yang berlalu-lalang, menghilangkan makanan, centong, dan benda-benda lain yang tidak ada hubungannya dengan kebutuhan mereka. Meskipun sudah ditaruh obat tikus, sepertinya tikus-tikus itu sudah cerdik.

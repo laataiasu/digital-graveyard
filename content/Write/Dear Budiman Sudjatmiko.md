@@ -1,11 +1,10 @@
 ---
-date: '2023-08-20'
-tags:
-- journal
-- essay
-- muslim
-title: Dear Budiman Sudjatmiko
+title: "Dear Budiman Sudjatmiko"
+date: 2023-08-20
+tags: [journal, essay, muslim]
+publish_external: false
 ---
+
 Untuk Budi, 
 
 rather than building 'BUKIT ALGORITMA' the hills of wannabe Silicon Valley algorithms that are centralized, elitist, and stagnant, it's better to develop a mosque-based [[Social Credit System]] like Chongqing. The title is 'AKSELERASI SMART CITY MELALUI MASJID BERPRESTASI' which is more decentralized and prioritizes equal distribution.

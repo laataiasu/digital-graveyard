@@ -1,11 +1,10 @@
 ---
-date: '2020-07-06T17:23:09Z'
-tags:
-- muslim
-- essay
-- journal
-title: Muslim condition
+title: "Muslim condition"
+date: 2020-07-06
+tags: [muslim, essay, journal]
+publish_external: false
 ---
+
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized">![[1900271_10151937251047286_1239835174_o-1.png]]</figure>
 </div>

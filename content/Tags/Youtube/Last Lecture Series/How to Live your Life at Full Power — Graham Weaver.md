@@ -1,10 +1,9 @@
 ---
 title: "How to Live your Life at Full Power"
-author: Graham Weaver
 date: 2025-07-14
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
+author: Graham Weaver
 ---
 
 ## Key Insights

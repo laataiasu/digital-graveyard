@@ -1,13 +1,10 @@
 ---
-title: If You Love Her, Why Don't You Post Her?
+title: "If You Love Her, Why Don't You Post Her?"
 date: 2026-01-20
-tags:
-  - Psychology
-  - Philosophy
-  - Personal
-  - Relationships
-  - Culture
+tags: [psychology, philosophy, personal, relationships, culture]
+publish_external: false
 ---
+
 # if you love her, why dont you post her?
 
 ## society 

@@ -1,12 +1,11 @@
 ---
 title: "bluetooth arch linux"
-date: 2021-06-15T16:56
-tags:
-  - linux
-  - tips
-updated: 2025-05-29T14:07
+date: 2021-06-15
+tags: [linux, tips]
 publish_external: true
+updated: "2025-05-29T14:07"
 ---
+
 - [[#First Install]]
     - [[#Init Git SSH]]
     - [[#Setup Git Multiple Accounts]]

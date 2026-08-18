@@ -1,10 +1,11 @@
 ---
-date: '2020-12-12T17:40:00Z'
-updated: '2020-12-12T17:40:00.309-08:00'
-tags:
-- literature
-title: Gelap
+title: "Gelap"
+date: 2020-12-12
+tags: [literature]
+publish_external: false
+updated: "2020-12-12T17:40:00.309-08:00"
 ---
+
   
 Sorot mata mana yang merayu    
 Penuh bias dari harapan    

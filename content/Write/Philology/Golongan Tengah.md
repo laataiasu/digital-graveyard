@@ -1,9 +1,10 @@
 ---
-date: '2017-09-07T00:00:00Z'
-tags:
-- literature
-title: Golongan Tengah
+title: "Golongan Tengah"
+date: 2017-09-07
+tags: [literature]
+publish_external: false
 ---
+
   
 Tak ada yang tahu tergolong apa kami  
 Terus bertahan ditengah kepungan golongan atas dan bawah  

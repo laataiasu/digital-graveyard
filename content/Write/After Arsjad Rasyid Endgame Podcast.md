@@ -1,9 +1,7 @@
 ---
+title: "After Arsjad Rasyid Endgame Podcast"
 date: 2024-01-28
-tags:
-- journal
-- essay
-title: After Arsjad Rasyid Endgame Podcast
+tags: [journal, essay]
 publish_external: true
 ---
 

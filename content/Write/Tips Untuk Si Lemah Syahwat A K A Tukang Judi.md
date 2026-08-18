@@ -1,9 +1,10 @@
 ---
-date: '2023-10-20'
-tags:
-- journal
-title: Tips Untuk Si Lemah Syahwat A.K.A Tukang Judi
+title: "Tips Untuk Si Lemah Syahwat A.K.A Tukang Judi"
+date: 2023-10-20
+tags: [journal]
+publish_external: false
 ---
+
 sebelum terjun ke dunia perjudian, coba tonton dulu anime kakegurui
 
 biasanya yg jadi zombie itu gara2 ingin menang/kaya instan, tapi kalo diniatkan secara sadar buat cari adrenalin mirip main roller koster, ke rumah hantu, atau gacha game insyaallah ga akan terlalu gila. 

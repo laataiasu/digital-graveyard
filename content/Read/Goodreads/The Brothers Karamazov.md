@@ -1,11 +1,10 @@
 ---
-title: The Brothers Karamazov
+title: "The Brothers Karamazov"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Fyodor Dostoevsky
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # The Brothers Karamazov
 

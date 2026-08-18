@@ -1,9 +1,10 @@
 ---
 title: "Kebenaran"
 date: 2001-01-01
-publish_external: true
 tags: []
+publish_external: true
 ---
+
 # Kebenaran
 ### 3 Istilah kebenaran dalam Islam
 - Hak >< Bathil -------> realitas

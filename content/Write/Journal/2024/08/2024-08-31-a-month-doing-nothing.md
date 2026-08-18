@@ -1,10 +1,11 @@
 ---
+title: "a month doing nothing"
 date: 2024-08-31
-tags:
-- journal
-title: a month doing nothing
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-08-31 12:44 AM
 
 so its the last day of august. honestly i have no idea what im doing for a month. been trying journaling, i have list all my learning, and most of it is still doing nothing. i learn AI for trading again, and still i have no idea what it is. its so fucked up because the package and dependency is deprecated, lots of library unmaintained so i find it hard to install, the old version. the newest version has difference, there are package like zipline reloaded, but it still pain in the ass to try to learn framework that you dont quite feel that ngmi because not many use it. i find github repo for the list of awesome systematic trading though which i try to learn for the next months. 

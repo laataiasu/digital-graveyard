@@ -1,10 +1,11 @@
 ---
-date: '2018-07-20T20:04:00Z'
-updated: '2020-07-20T20:05:37.528-07:00'
-tags:
-- literature
-title: Doa
+title: "Doa"
+date: 2018-07-20
+tags: [literature]
+publish_external: false
+updated: "2020-07-20T20:05:37.528-07:00"
 ---
+
   
 Doa yang selalu aku panjatkan dengan serius dan khidmat, setelah aku mendengar doaku dipanjatkan orang lain, rasanya doaku terlalu rendah dan tidak berbobot.  
   

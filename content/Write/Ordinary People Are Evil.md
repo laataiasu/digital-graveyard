@@ -1,10 +1,7 @@
 ---
-date: '2023-11-30'
-tags:
-- journal
-- muslim
-- essay
-title: Peter Singer - Ordinary People Are Evil
+title: "Peter Singer - Ordinary People Are Evil"
+date: 2023-11-30
+tags: [journal, muslim, essay]
 publish_external: true
 ---
 

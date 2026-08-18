@@ -1,9 +1,10 @@
 ---
-date: '2023-12-29'
-tags:
-- journal
-title: Mengapa Dionysus?
+title: "Mengapa Dionysus?"
+date: 2023-12-29
+tags: [journal]
+publish_external: false
 ---
+
 wahai Dionysus, mengapa kau selalu bertingkah seperti bajingan, dengan sangat iseng membuka hansaplas 
 orang-orang yang berisikan luka. 
 

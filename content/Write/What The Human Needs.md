@@ -1,11 +1,10 @@
 ---
-date: '2021-05-22T00:00:00Z'
-tags:
-- essay
-- cryptocurrency
-- journal
-title: What The Human Needs
+title: "What The Human Needs"
+date: 2021-05-22
+tags: [essay, cryptocurrency, journal]
+publish_external: false
 ---
+
 The needs of every human being are very strange
 
 When I was a junior high school and tried to get into selection of math Olympiad, I was failed. I\'ve never been good at being grateful, even though I\'m quite old.

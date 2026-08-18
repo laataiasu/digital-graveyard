@@ -1,7 +1,6 @@
 ---
-title: Sound
+title: "Sound"
 date: 2001-01-01
-tags:
-- sound
+tags: [sound]
+publish_external: false
 ---
-

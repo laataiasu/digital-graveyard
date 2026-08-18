@@ -2,8 +2,8 @@
 title: "Finance"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
-
 
 ---
 date: 2023-01-22T09:03

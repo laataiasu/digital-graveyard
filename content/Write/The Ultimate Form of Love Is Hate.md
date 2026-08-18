@@ -1,10 +1,10 @@
 ---
-date: '2024-01-14'
-tags:
-- journal
-- essay
-title: The Ultimate Form of Love Is Hate
+title: "The Ultimate Form of Love Is Hate"
+date: 2024-01-14
+tags: [journal, essay]
+publish_external: false
 ---
+
 Love is akin to a proving method in mathematics, and I absolutely detest proving methods. Why can't it simply be intuitive speculation? Why do we need to prove? Why can't we perceive the myriad forms of love?
 
 Being ignored constitutes a form of love. A mother's anger is a form of affection. Tsunamis and earthquakes signify their love to unite with their victims. Hatred is one of the expressions of love. Why must there be limitations in loving? Why the need for validation?

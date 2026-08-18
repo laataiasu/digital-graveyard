@@ -4,6 +4,7 @@ date: 2026-05-23
 tags: [journal, career, belief, reflection]
 publish_external: false
 ---
+
 previous day i have submitted my resignation at accenture. i don't know whether its too rushing or not. 
 
 but what i felt is like a never ending unsatisfaction about what i got. i don't know whether it's part of me, the greed that can never be satisfied. or it's a skill i can try to improve. but honestly, everyday when i got ticket, i feel like my job is meaningless and pointless. i don't know whether my new job is good or not. but it's really nice to talk with the head of the technology. and there are lots of aspects why i resign and choose krom bank as my next journey. 

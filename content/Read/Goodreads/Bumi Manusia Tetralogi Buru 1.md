@@ -1,11 +1,10 @@
 ---
-title: 'Bumi Manusia (Tetralogi Buru, #1)'
+title: "Bumi Manusia (Tetralogi Buru, #1)"
+date: 2018-09-17
+tags: [book]
+publish_external: false
 author: Pramoedya Ananta Toer
-date: '2018-09-17'
-tags:
-- book
 ---
-
 
 # Bumi Manusia (Tetralogi Buru, #1)
 

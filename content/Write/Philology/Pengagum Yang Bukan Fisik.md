@@ -1,9 +1,10 @@
 ---
-date: '2022-06-11T00:00:00Z'
-tags:
-- literature
-title: Pengagum Yang Bukan Fisik
+title: "Pengagum Yang Bukan Fisik"
+date: 2022-06-11
+tags: [literature]
+publish_external: false
 ---
+
   
 para pendewa akal itu gila  
 ia yang meremehkan yang fisik  

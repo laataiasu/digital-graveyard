@@ -2,8 +2,8 @@
 title: "Complex System"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
-
 
 ---
 date: 2023-08-12T20:23

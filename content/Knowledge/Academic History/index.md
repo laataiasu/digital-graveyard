@@ -1,9 +1,10 @@
 ---
+title: "Academic History"
 date: 2001-01-01
-title: Academic History
-publish_external: true
 tags: []
+publish_external: true
 ---
+
 # 📚 All Courses
 
 ## Academic Year 2019/2020 Term 1

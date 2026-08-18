@@ -1,16 +1,14 @@
 ---
-title: My Sassy Girl
+title: "My Sassy Girl"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2001
 type: Korean Movie
 score: 5.0
 progress: 1/1
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # My Sassy Girl
 

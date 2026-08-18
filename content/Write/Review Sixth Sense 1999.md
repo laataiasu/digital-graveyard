@@ -1,12 +1,11 @@
 ---
-date: '2018-06-03T07:36:00Z'
-updated: '2020-07-20T19:44:16.186-07:00'
-tags:
-- film
-- review
-- horror
-title: Review Sixth Sense (1999)
+title: "Review Sixth Sense (1999)"
+date: 2018-06-03
+tags: [film, review, horror]
+publish_external: false
+updated: "2020-07-20T19:44:16.186-07:00"
 ---
+
 >MENGANDUNG SPOILER  
   
   

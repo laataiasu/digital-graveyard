@@ -1,10 +1,9 @@
 ---
-title: 'Top Gun: Maverick'
-date: '2022-09-03'
+title: "Top Gun: Maverick"
+date: 2022-09-03
+tags: [film]
+publish_external: false
 year: 2022
-letterboxd_uri: https://boxd.it/cjr4
+letterboxd_uri: "https://boxd.it/cjr4"
 rating: 3.0
-tags:
-- film
 ---
-

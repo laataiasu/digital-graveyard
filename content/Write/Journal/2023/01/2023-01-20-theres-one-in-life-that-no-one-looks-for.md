@@ -1,10 +1,11 @@
 ---
+title: "2023-01-20"
 date: 2023-01-20
-tags:
-- journal
-title: 2023-01-20
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2023-01-20
 
 There's one in life that no one looks for.

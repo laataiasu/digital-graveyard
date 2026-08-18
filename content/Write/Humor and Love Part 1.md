@@ -1,11 +1,10 @@
 ---
-date: '2022-12-10T00:00:00Z'
-tags:
-- journal
-- review
-- book
-title: Humor and Love Part 1
+title: "Humor and Love Part 1"
+date: 2022-12-10
+tags: [journal, review, book]
+publish_external: false
 ---
+
 Always forgot about this, but this Letters to a Young Contrarian by Christopher Hitchens from an atheist dissilutionizing me that whatever your condition is, you need a t least add a humour to that condition. I aware of this things actually, from 
 
 ![[https://youtu.be/MdZAMSyn_As]]

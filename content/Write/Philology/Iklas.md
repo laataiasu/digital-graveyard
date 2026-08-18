@@ -1,11 +1,11 @@
 ---
-date: 2020-08-20T16:56:00Z
-updated: 2020-08-25T18:30:45.524-07:00
-tags:
-  - literature
-title: Iklas
+title: "Iklas"
+date: 2020-08-20
+tags: [literature]
 publish_external: true
+updated: 2020-08-25
 ---
+
   
 Barangkali iklas itu seperti petani  
 Mengasihi tak pernah membinasai  

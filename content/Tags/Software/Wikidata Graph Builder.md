@@ -1,7 +1,8 @@
 ---
 title: "Wikidata Graph Builder"
-tags:
-- software
 date: 2026-05-19
+tags: [software]
+publish_external: false
 ---
+
 angryloki.github.io

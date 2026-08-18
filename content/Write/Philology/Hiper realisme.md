@@ -1,10 +1,11 @@
 ---
-date: '2020-08-14T11:25:00Z'
-updated: '2020-08-24T11:26:04.876-07:00'
-tags:
-- literature
-title: Hiper realisme
+title: "Hiper realisme"
+date: 2020-08-14
+tags: [literature]
+publish_external: false
+updated: "2020-08-24T11:26:04.876-07:00"
 ---
+
   
 mereka bilang aku palsu  
 kata mereka aku berbeda  

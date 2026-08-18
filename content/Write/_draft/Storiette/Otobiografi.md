@@ -1,9 +1,11 @@
 ---
 title: "Pengantar"
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 # Pengantar
 
 30 Juli

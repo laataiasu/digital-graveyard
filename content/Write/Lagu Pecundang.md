@@ -4,6 +4,7 @@ date: 2026-06-01
 tags: [poetry, lyrics, reflection, indonesian]
 publish_external: false
 ---
+
 ini lagu pecundang
 
 kalah lagi kalah lagi

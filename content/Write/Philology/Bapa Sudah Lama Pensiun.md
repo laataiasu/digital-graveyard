@@ -1,10 +1,11 @@
 ---
-date: '2018-12-23T15:00:00Z'
-updated: '2020-08-04T19:08:19.051-07:00'
-tags:
-- literature
-title: Bapa Sudah Lama Pensiun
+title: "Bapa Sudah Lama Pensiun"
+date: 2018-12-23
+tags: [literature]
+publish_external: false
+updated: "2020-08-04T19:08:19.051-07:00"
 ---
+
   
 Kadang nyoba ngerasain    
 Gimana jadi 'bapa' yang mencintai pekerjaannya disaat harus dipensiunkan oleh aturan mutlak.     

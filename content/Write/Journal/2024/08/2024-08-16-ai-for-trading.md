@@ -1,10 +1,12 @@
 ---
 title: "AI for Trading"
 date: 2024-08-16
-source: "Udacity"
 tags: [finance]
+publish_external: false
+source: Udacity
 draft: true
 ---
+
 ## Details
 Risk Factor Models with PCA,
 Alpha Factors,

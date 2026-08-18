@@ -1,9 +1,10 @@
 ---
-date: '2020-09-12T06:48:16Z'
-tags:
-- essay
-title: Indefinite optimism
+title: "Indefinite optimism"
+date: 2020-09-12
+tags: [essay]
+publish_external: false
 ---
+
 Always repeated and not necessarily be traced because that's what people looking for, isn't it? happiness?
 
 Steam machine and fossil-based transportation emerged.

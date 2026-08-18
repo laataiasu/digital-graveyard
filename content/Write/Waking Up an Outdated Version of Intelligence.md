@@ -1,13 +1,11 @@
 ---
-date: '2020-09-18T15:37:01Z'
-tags:
-- essay
-- tech
-- pseudocomedy
-timeline_notification:
-- '1600418225'
-title: Waking Up an Outdated Version of Intelligence
+title: "Waking Up an Outdated Version of Intelligence"
+date: 2020-09-18
+tags: [essay, tech, pseudocomedy]
+publish_external: false
+timeline_notification: [1600418225]
 ---
+
 The ultimate goal of every living being is to rest.  
 So when sentient beings try to work,  
 effectiveness, efficiency, or productivity will never be achieved.

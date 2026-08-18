@@ -1,10 +1,12 @@
 ---
 title: "Recruitment PT EDI"
 date: 2024-08-04
-source: ""
 tags: [work]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 system design, uml, erd, and some shit
 

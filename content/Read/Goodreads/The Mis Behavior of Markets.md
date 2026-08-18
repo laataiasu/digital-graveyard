@@ -1,11 +1,10 @@
 ---
-title: The (Mis)Behavior of Markets
+title: "The (Mis)Behavior of Markets"
+date: 2023-03-28
+tags: [book]
+publish_external: false
 author: Benoît B. Mandelbrot
-date: '2023-03-28'
-tags:
-- book
 ---
-
 
 # The (Mis)Behavior of Markets
 

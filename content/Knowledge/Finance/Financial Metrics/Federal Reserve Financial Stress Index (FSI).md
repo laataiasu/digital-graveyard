@@ -1,8 +1,10 @@
 ---
 title: "Federal Reserve Financial Stress Index (FSI)"
 date: 2001-01-01
-tags: economics
+tags: [economics]
+publish_external: false
 ---
+
 The **Federal Reserve Financial Stress Index (FSI)** is a tool used to gauge the level of stress in the U.S. financial system. It combines various indicators to provide a comprehensive view of financial stability.
 
 ### Key Components of the FSI

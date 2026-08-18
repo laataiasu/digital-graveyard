@@ -1,10 +1,10 @@
 ---
-date: '2021-07-27T00:00:00Z'
-tags:
-- film
-- review
-title: Cosmos Movie Series Review
+title: "Cosmos Movie Series Review"
+date: 2021-07-27
+tags: [film, review]
+publish_external: false
 ---
+
 ### I. Cosmos: A Spacetime Odyssey 
 
 #### Eps 1

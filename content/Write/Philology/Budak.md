@@ -1,10 +1,11 @@
 ---
-date: '2020-11-29T11:25:00Z'
-updated: '2020-11-29T11:26:04.876-07:00'
-tags:
-- literature
-title: Budak
+title: "Budak"
+date: 2020-11-29
+tags: [literature]
+publish_external: false
+updated: "2020-11-29T11:26:04.876-07:00"
 ---
+
   
 Budak,  
 Entah mengapa ia dibanggakan  

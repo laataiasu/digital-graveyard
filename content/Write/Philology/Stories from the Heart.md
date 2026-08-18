@@ -1,10 +1,10 @@
 ---
-date: '2023-01-01T00:00:00Z'
-tags:
-- literature
-- journal
-title: Stories from the Heart
+title: "Stories from the Heart"
+date: 2023-01-01
+tags: [literature, journal]
+publish_external: false
 ---
+
   
 "Bukan mencari yang satu, karena optimisasi itu selalu dimulai dari mencari yang nol. Nol itu bisa ditemukan tak terhingga, tapi nol yang paling optimal itu hanya ada satu katanya, yang paling global. Bila mencari nol saja kesulitan, maka cari saja yang paling minimal sesuai daya? Perlu berapa daya? Seberapa dalam? Hingga dapat mencapai nol yang satu itu?" - Gradient descent  
   

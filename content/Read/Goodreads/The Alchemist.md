@@ -1,11 +1,10 @@
 ---
-title: The Alchemist
+title: "The Alchemist"
+date: 2018-09-16
+tags: [book]
+publish_external: false
 author: Paulo Coelho
-date: '2018-09-16'
-tags:
-- book
 ---
-
 
 # The Alchemist
 

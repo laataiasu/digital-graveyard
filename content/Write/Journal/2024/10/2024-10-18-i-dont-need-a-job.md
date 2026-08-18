@@ -1,10 +1,11 @@
 ---
+title: "2024-10-18"
 date: 2024-10-18
-tags:
-- journal
-title: 2024-10-18
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-10-18
 
 actually i dont need to get a job. the reason why i choose [[Accenture]] is mostly came from pressure from my father which once a week came to my room said, "dont waste your potential, get a master degree or something". and because of it i was applying random jobs far from my city so i can think for myself again. at that time i just want to take a rest, do sabbatical things in my room alone with my thought, think what should i do in my life instead.

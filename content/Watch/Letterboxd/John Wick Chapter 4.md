@@ -1,10 +1,9 @@
 ---
-title: 'John Wick: Chapter 4'
-date: '2023-06-08'
+title: "John Wick: Chapter 4"
+date: 2023-06-08
+tags: [film]
+publish_external: false
 year: 2023
-letterboxd_uri: https://boxd.it/mh48
+letterboxd_uri: "https://boxd.it/mh48"
 rating: 3.0
-tags:
-- film
 ---
-

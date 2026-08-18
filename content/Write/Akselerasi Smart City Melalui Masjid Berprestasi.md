@@ -1,9 +1,7 @@
 ---
-date: "2021-02-20"
-tags:
-  - essay
-  - muslim
-title: Akselerasi Smart City Melalui Masjid Berprestasi
+title: "Akselerasi Smart City Melalui Masjid Berprestasi"
+date: 2021-02-20
+tags: [essay, muslim]
 publish_external: true
 ---
 
@@ -261,7 +259,7 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
 
 ### Persyaratan Aplikasi
 
-#### [[Social Credit System]] (Aplikasi untuk Individu)
+#### Social Credit System (Aplikasi untuk Individu)
 
 1. **Identitas Pengguna:**
    - Nomor Induk Kependudukan (NIK)

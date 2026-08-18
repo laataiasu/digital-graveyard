@@ -1,11 +1,11 @@
 ---
-date: 2020-08-24T11:27:00Z
-updated: 2020-09-12T02:02:40.066-07:00
+title: "Warna"
+date: 2020-08-24
+tags: [literature]
 publish_external: true
-tags:
-  - literature
-title: Warna
+updated: 2020-09-12
 ---
+
   
 yang jelek dijadikan monokrom    
 seakan-akan hitam putih itu indah    

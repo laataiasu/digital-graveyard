@@ -1,9 +1,10 @@
 ---
-date: '2017-07-07T00:00:00Z'
-tags:
-- literature
-title: Puisi Dikala Sedang Engas
+title: "Puisi Dikala Sedang Engas"
+date: 2017-07-07
+tags: [literature]
+publish_external: false
 ---
+
   
 So what happens when I turn off the light   
 Is the world gonna be darkened?   

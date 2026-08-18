@@ -1,11 +1,10 @@
 ---
-title: 'Introducing Slavoj Zizek: A Graphic Guide'
+title: "Introducing Slavoj Zizek: A Graphic Guide"
+date: 2023-03-31
+tags: [book]
+publish_external: false
 author: Christopher Kul-Want
-date: '2023-03-31'
-tags:
-- book
 ---
-
 
 # Introducing Slavoj Zizek: A Graphic Guide
 

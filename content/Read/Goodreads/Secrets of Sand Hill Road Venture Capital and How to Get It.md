@@ -1,11 +1,10 @@
 ---
-title: 'Secrets of Sand Hill Road: Venture Capital and How to Get It'
+title: "Secrets of Sand Hill Road: Venture Capital and How to Get It"
+date: 2025-04-30
+tags: [book]
+publish_external: false
 author: Scott Kupor
-date: '2025-04-30'
-tags:
-- book
 ---
-
 
 # Secrets of Sand Hill Road: Venture Capital and How to Get It
 

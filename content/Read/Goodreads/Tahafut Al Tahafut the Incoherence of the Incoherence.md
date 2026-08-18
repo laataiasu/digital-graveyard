@@ -1,11 +1,10 @@
 ---
-title: Tahafut Al-Tahafut (the Incoherence of the Incoherence)
+title: "Tahafut Al-Tahafut (the Incoherence of the Incoherence)"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: ibn Rushd
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # Tahafut Al-Tahafut (the Incoherence of the Incoherence)
 

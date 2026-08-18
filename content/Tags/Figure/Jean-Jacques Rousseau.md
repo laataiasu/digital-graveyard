@@ -1,11 +1,10 @@
 ---
 title: "Jean-Jacques Rousseau"
 date: 2001-01-01
-tags:
-- classic-thinker
-- figure
-- philosophy
+tags: [classic-thinker, figure, philosophy]
+publish_external: false
 ---
+
 General will:
 - equality
 - self-preservation

@@ -1,11 +1,10 @@
 ---
-date: '2020-02-09T00:00:00Z'
-tags:
-- cryptocurrency
-- muslim
-- tech
-title: Referensi Bitcoin (archieved)
+title: "Referensi Bitcoin (archieved)"
+date: 2020-02-09
+tags: [cryptocurrency, muslim, tech]
+publish_external: false
 ---
+
 Whitepapernya banyak yg niat bngt
 
 https://www.Islamicfinanceguru.com/investment/scholars-who-say-cryptocurrency-is-haram-and-those-who-say-its-halal/

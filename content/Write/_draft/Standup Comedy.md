@@ -1,9 +1,11 @@
 ---
 title: "Standup Comedy"
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 kerja produktif vs kerja seni
 anak rumahan vs anak gaul
 

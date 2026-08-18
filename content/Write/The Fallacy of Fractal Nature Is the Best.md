@@ -1,10 +1,10 @@
 ---
-date: '2023-09-23'
-tags:
-- journal
-- essay
-title: The Fallacy of Fractal ~ Nature Is the Best
+title: "The Fallacy of Fractal ~ Nature Is the Best"
+date: 2023-09-23
+tags: [journal, essay]
+publish_external: false
 ---
+
 ## unfinished
 
 minecraft is beautiful

@@ -1,10 +1,9 @@
 ---
-title: Josee, the Tiger and the Fish
-date: '2022-06-13'
+title: "Josee, the Tiger and the Fish"
+date: 2022-06-13
+tags: [film]
+publish_external: false
 year: 2020
-letterboxd_uri: https://boxd.it/oh1i
+letterboxd_uri: "https://boxd.it/oh1i"
 rating: 2.0
-tags:
-- film
 ---
-

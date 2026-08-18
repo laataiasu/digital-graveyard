@@ -2,6 +2,7 @@
 title: "Risk Factor Models"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## 1. Motivation for the Risk Factor Model

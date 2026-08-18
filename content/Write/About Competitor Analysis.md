@@ -1,10 +1,10 @@
 ---
-title: About Competitor Analysis
-date: 2025-07-15T20:54:30+07:00
-tags:
-  - journal
+title: "About Competitor Analysis"
+date: 2025-07-15
+tags: [journal]
 publish_external: true
 ---
+
 We know what’s beautiful: openness, abundance, clean systems, sharing, trust.
 Yet we work every day doing the opposite: scraping, hiding, competing, building complexity, surveilling.
 

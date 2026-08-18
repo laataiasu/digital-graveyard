@@ -1,10 +1,11 @@
 ---
-date: '2020-07-22T20:05:00Z'
-updated: '2020-12-12T17:43:54.763-08:00'
-tags:
-- literature
-title: Luka
+title: "Luka"
+date: 2020-07-22
+tags: [literature]
+publish_external: false
+updated: "2020-12-12T17:43:54.763-08:00"
 ---
+
   
 Kata apa yang dulu paling membuatku luka,  
 aku gatau  

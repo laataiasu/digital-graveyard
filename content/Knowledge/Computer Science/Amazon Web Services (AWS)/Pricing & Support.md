@@ -2,6 +2,7 @@
 title: "Pricing & Support"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 - Menjelaskan model pay-as-you-go dalam menggunakan sumber daya AWS.

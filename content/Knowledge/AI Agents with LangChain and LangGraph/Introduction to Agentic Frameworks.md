@@ -2,8 +2,8 @@
 title: "Extract function details and create JSON schema"
 date: 2026-05-19
 tags: []
+publish_external: false
 ---
-
 
 ## Introduction to Agentic Frameworks
 Lesson

@@ -1,11 +1,11 @@
 ---
 title: "Podcast"
 date: 2001-01-01
-tags:
-- ideas
-- video-ideas
+tags: [ideas, video-ideas]
+publish_external: false
 draft: true
 ---
+
 latar belakang  
 untaken pearl  
 sebelumnya gua suka nulis. tapi nulis kadang gua pikir udah ga relevan di zaman sekarang, dimana orang males ngebaca karena ada platform lain  

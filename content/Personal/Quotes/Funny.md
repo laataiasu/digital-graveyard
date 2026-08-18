@@ -2,6 +2,7 @@
 title: "Funny"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 "If the player is not dead then it is not a foul"-Sergio ramos

@@ -1,9 +1,10 @@
 ---
-date: '2024-01-17'
-tags:
-- literature
-title: Un/A/I Pluviophile
+title: "Un/A/I Pluviophile"
+date: 2024-01-17
+tags: [literature]
+publish_external: false
 ---
+
   
 I despise the patter of raindrops' dance,  
 Loathe the thunderous beats of [[Music]]'s trance.  

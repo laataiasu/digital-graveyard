@@ -1,10 +1,11 @@
 ---
+title: "i go to univ not because i want to"
 date: 2024-06-08
-tags:
-- journal
-title: i go to univ not because i want to
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 i have just realize i go to univ not because i want to, its because i am told to do.
 
 i not choose the major i really interested, i choose it because im afraid become poor and jobless.

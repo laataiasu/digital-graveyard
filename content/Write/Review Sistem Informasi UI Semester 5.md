@@ -1,9 +1,10 @@
 ---
-date: '2022-01-07T00:00:00Z'
-tags:
-- education
-title: Review Sistem Informasi UI ~Semester 5
+title: "Review Sistem Informasi UI ~Semester 5"
+date: 2022-01-07
+tags: [education]
+publish_external: false
 ---
+
 review sistem informasi [[Universitas Indonesia]] semester 5
 
 ![[screenshot-2022-01-07-204913.png]]

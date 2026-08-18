@@ -1,8 +1,7 @@
 ---
-title: From Blog to Digital Garden
-date: 2025-07-12T09:05:52+07:00
-tags:
-  - journal
+title: "From Blog to Digital Garden"
+date: 2025-07-12
+tags: [journal]
 publish_external: true
 ---
 

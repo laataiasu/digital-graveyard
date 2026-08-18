@@ -1,11 +1,10 @@
 ---
-date: '2023-08-17'
-tags:
-- journal
-- essay
-- muslim
-title: Musings on Life, Legends, and the Quirks of Human Nature
+title: "Musings on Life, Legends, and the Quirks of Human Nature"
+date: 2023-08-17
+tags: [journal, essay, muslim]
+publish_external: false
 ---
+
 You know what Pareto once said, right? It's like he figured out that only 20 percent of folks are doing 80 percent of the cool stuff. The rest of us are stuck with these mind-numbing jobs that could easily be replaced by robots.
 
 Now, speaking of Indonesia, it's a Muslim-majority place, but that whole "Isy kariman Au Mutsyahidan", live gloriously or die a martyr thing? Well, it's more of a catchy slogan than anything else.

@@ -1,11 +1,10 @@
 ---
-date: '2022-11-10T11:42:46Z'
-tags:
-- business
-- essay
-- muslim
-title: Kritik, Prioritas, dan Pengambilan Keputusan Ridwan Kamil terhadap Masjid Al-Jabbar
+title: "Kritik, Prioritas, dan Pengambilan Keputusan Ridwan Kamil terhadap Masjid Al-Jabbar"
+date: 2022-11-10
+tags: [business, essay, muslim]
+publish_external: false
 ---
+
 {{< X user="Outstandjing" id="1609517027148058624" >}}
 
 RK seharusnya berterima kasih atas banyaknya kritik yang diterima terkait Masjid Al Jabbar. Ada sebuah hadis yang mengatakan, 

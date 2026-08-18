@@ -1,9 +1,10 @@
 ---
-date: '2022-11-13T00:00:00Z'
-tags:
-- literature
-title: Pick Me Boy
+title: "Pick Me Boy"
+date: 2022-11-13
+tags: [literature]
+publish_external: false
 ---
+
   
 lihat teman bangga dengan identitasnya  
 cerita di [[Instagram]] dengan pacar  

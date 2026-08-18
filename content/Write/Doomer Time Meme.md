@@ -1,9 +1,10 @@
 ---
-date: '2022-05-07T00:00:00Z'
-tags:
-- meme
-title: Doomer Time
+title: "Doomer Time"
+date: 2022-05-07
+tags: [meme]
+publish_external: false
 ---
+
 ![[everyone-is-stupid-except-me.jpg]]
 
 <blockquote>

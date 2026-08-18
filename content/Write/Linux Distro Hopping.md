@@ -1,13 +1,10 @@
 ---
-title: Linux Distro Hopping
+title: "Linux Distro Hopping"
 date: 2024-02-11
-tags:
-  - linux
-  - tech
-  - journal
+tags: [linux, tech, journal]
+publish_external: true
 hideSummary: true
 enableToc: true
-publish_external: true
 ---
 
 since i ~~jobless~~ have free time, i distro hopping and here's my review:

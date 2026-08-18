@@ -1,10 +1,7 @@
 ---
-date: '2023-11-01'
-tags:
-- journal
-- essay
-- muslim
-title: Building Surveillence-Driven System to Understand More about Religion Groups
+title: "Building Surveillence-Driven System to Understand More about Religion Groups"
+date: 2023-11-01
+tags: [journal, essay, muslim]
 publish_external: true
 ---
 

@@ -4,6 +4,7 @@ date: 2026-06-15
 tags: [journal, reflection, belief, identity]
 publish_external: false
 ---
+
 There was a period when I wanted to erase my previous identity, my beliefs, and everything that had shaped me. I wanted to be free. Free from judgment, free from inherited fear, free from the gaze of other people. Something like the moral abyss in _Apocalypse Now_: going so far into the jungle that the old rules no longer apply.
 
 But I realized that erasing yourself is not easy.

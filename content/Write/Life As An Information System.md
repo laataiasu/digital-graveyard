@@ -1,15 +1,13 @@
 ---
-title: Life As An Information System
-date: 2025-07-22T22:47:04+07:00
-draft: false
-tags:
-  - information-system
-  - erp
-  - tips
-description: ""
-enableToc: false
+title: "Life As An Information System"
+date: 2025-07-22
+tags: [information-system, erp, tips]
 publish_external: true
+draft: false
+description: null
+enableToc: false
 ---
+
 ### 🧠 **LIFE AS AN INFORMATION SYSTEM**
 
 - **Core Idea**: Run your life like a system, think like an enterprise.

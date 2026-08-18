@@ -1,10 +1,12 @@
 ---
 title: "Airdrop Hunting"
 date: 2024-08-08
-source: ""
 tags: [cryptocurrency]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 morph,
 b3,

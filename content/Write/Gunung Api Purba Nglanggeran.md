@@ -1,11 +1,9 @@
 ---
-date: '2020-07-13T09:03:55Z'
-tags:
-- travel
-timeline_notification:
-- '1598065140'
-title: Gunung Api Purba Nglanggeran
+title: "Gunung Api Purba Nglanggeran"
+date: 2020-07-13
+tags: [travel]
 publish_external: true
+timeline_notification: [1598065140]
 ---
 
 It was monday, 29 december when I was in Yogya. I went to yogya to attend my relative's wedding party in 28. My train seted out on 29 in the night. I was sick and tired to stay in my grandma's house. Actually, I have made the itinerary if I visit Yogya again. But the plan is just a plan. I don't know, its not because I'm scared of travelling alone but i'm too lazy to go anywhere so whenever I go to yogya I always spent my time on my grandma's house.

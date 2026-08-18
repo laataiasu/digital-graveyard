@@ -1,11 +1,10 @@
 ---
-title: "**Dualisme & Descartes**"
+title: "Dualisme & Descartes"
 date: 2001-01-01
-tags:
-- figure
-- philosophy
-- science
+tags: [figure, philosophy, science]
+publish_external: false
 ---
+
 # **Dualisme & Descartes**
 Disebut sebagai filsuf modern pertama, pelopor **rasionalisme**
 Descartes melawan pendapat skeptis radikal

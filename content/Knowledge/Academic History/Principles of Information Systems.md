@@ -1,9 +1,9 @@
 ---
 title: "Principles of Information Systems"
-aliases: CSIM601280
 date: 2020-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIM601280
 ---
 
 # Principles of Information Systems

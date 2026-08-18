@@ -1,9 +1,10 @@
 ---
-date: '2022-09-27T00:00:00Z'
-tags:
-- literature
-title: Bosan lagi
+title: "Bosan lagi"
+date: 2022-09-27
+tags: [literature]
+publish_external: false
 ---
+
   
 dangkal, dangkal  
 para artis itu dangkal  

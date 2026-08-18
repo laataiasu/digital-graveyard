@@ -1,10 +1,11 @@
 ---
-date: '2019-06-16T15:17:00Z'
-updated: '2020-07-20T19:50:43.380-07:00'
-tags:
-- literature
-title: Pembangun Rumah
+title: "Pembangun Rumah"
+date: 2019-06-16
+tags: [literature]
+publish_external: false
+updated: "2020-07-20T19:50:43.380-07:00"
 ---
+
   
 Apabila aku ditanya,  
 "Kau belajar dan bekerja keras untuk apa?"  

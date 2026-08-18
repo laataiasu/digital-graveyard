@@ -1,11 +1,11 @@
 ---
-date: 2019-08-03T00:28:00Z
-updated: 2020-08-04T19:02:54.982-07:00
-tags:
-  - literature
-title: Kesedihan di Pagi Hari
+title: "Kesedihan di Pagi Hari"
+date: 2019-08-03
+tags: [literature]
 publish_external: true
+updated: 2020-08-04
 ---
+
   
 Dingin yang menusuk tulang rusuk    
 Tak pernah kutau dimana    

@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:03:52+07:00
-title: How to Angel Invest, Part 2
-tags:
-  - youtube
-aliases: 
-source:
+title: "How to Angel Invest, Part 2"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # How to Angel Invest, Part 2

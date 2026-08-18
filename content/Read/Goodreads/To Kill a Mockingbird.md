@@ -1,11 +1,10 @@
 ---
-title: To Kill a Mockingbird
+title: "To Kill a Mockingbird"
+date: 2020-07-03
+tags: [book]
+publish_external: false
 author: Harper Lee
-date: '2020-07-03'
-tags:
-- book
 ---
-
 
 # To Kill a Mockingbird
 

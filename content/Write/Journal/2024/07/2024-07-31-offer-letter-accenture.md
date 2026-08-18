@@ -1,10 +1,12 @@
 ---
 title: "Offer Letter Accenture"
 date: 2024-07-31
-source: ""
 tags: [work]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 
 

@@ -1,13 +1,11 @@
 ---
-date: '2020-12-19T18:23:20Z'
-tags:
-- book
-- essay
-- review
-timeline_notification:
-- '1608377166'
-title: Why This Earth Of Mankind Is A Dangerous Book
+title: "Why This Earth Of Mankind Is A Dangerous Book"
+date: 2020-12-19
+tags: [book, essay, review]
+publish_external: false
+timeline_notification: [1608377166]
 ---
+
 ![[0688093736.jpg]]
 
 Let's praise the old Indonesia's government who succeeded at doctrined the boomer generations or in their length of service about the danger of communism.

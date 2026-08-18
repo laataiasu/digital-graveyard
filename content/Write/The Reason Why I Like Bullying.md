@@ -1,12 +1,11 @@
 ---
-date: '2021-01-26T19:22:02Z'
-tags:
-- essay
-- business
-timeline_notification:
-- '1611663726'
-title: The Reason Why I Like Bullying
+title: "The Reason Why I Like Bullying"
+date: 2021-01-26
+tags: [essay, business]
+publish_external: false
+timeline_notification: [1611663726]
 ---
+
 I always don't agree with punishment of a bully because for me, it is an act which doesn't value nature. Evolution means no matter how strong or clever you are, if you can't adapt to change, then you die and disappear from the environment.
 
 Manipulate or engineering seems all the same. But they are both completely different. Punishing the bully means manipulating the environment, not engineering the environment.

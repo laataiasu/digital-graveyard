@@ -1,12 +1,9 @@
 ---
 title: "Bo Burnham"
 date: 2001-01-01
-tags:
-- comedy
-- figure
-- literature
-- modern-thinker
-- music
+tags: [comedy, figure, literature, modern-thinker, music]
+publish_external: false
 ---
+
 # Bo Burnham
 

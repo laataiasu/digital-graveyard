@@ -1,9 +1,10 @@
 ---
-date: '2016-05-19'
-tags:
-- journal
-title: Menunggu Ia yang Tak Perlu Dijemput
+title: "Menunggu Ia yang Tak Perlu Dijemput"
+date: 2016-05-19
+tags: [journal]
+publish_external: false
 ---
+
 Saat itu pukul 10 malam. Tak sengaja aku lihat status WAnya.
 
 "Kebablasan sampe stasiun Bandung 🙁 ada KRDnya jam setengah 12."

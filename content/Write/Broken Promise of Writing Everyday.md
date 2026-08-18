@@ -1,9 +1,10 @@
 ---
+title: "Broken Promise of Writing Everyday"
 date: 2019-11-30
-tags:
-- journal
-title: Broken Promise of Writing Everyday
+tags: [journal]
+publish_external: false
 ---
+
 I have faltered in keeping my promise to write about my daily experiences. The weight of numerous unfinished tasks has hindered my commitment, and I find myself engaging in this activity only when boredom strikes. Yet, truth be told, boredom has been a constant companion. However, in recent days, I've found myself immersed in the world of gaming, squandering precious time and neglecting my studies, leading to a stagnation in my life--no discernible progress to speak of.
 
 Let's delve into the realm of mental health--a subject that may seem dull at first glance. Are you familiar with the "draft" section on OA Line regarding universities? There, one may encounter a plethora of anonymous posts that may or may not reflect reality. However, I believe that the online world often mirrors real-life struggles, offering glimpses into the genuine thoughts of individuals. Among the myriad topics discussed in these drafts, mental illness reigns supreme. Countless individuals, grappling with their mental health, seek solace through anonymous expression, yearning to unshackle themselves from their internal turmoil.

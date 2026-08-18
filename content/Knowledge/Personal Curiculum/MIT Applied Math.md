@@ -1,7 +1,8 @@
 ---
-title: "**Course 18 Option 2: Applied Option**"
+title: "Course 18 Option 2: Applied Option"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # **Course 18 Option 2: Applied Option**

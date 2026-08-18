@@ -1,16 +1,14 @@
 ---
-title: Secret Garden Special
+title: "Secret Garden Special"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2011
 type: Korean Special
 score: 5.0
 progress: 1/1
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Secret Garden Special
 

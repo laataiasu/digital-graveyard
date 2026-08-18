@@ -2,6 +2,7 @@
 title: "Distributed Systems"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## Overview
@@ -57,7 +58,7 @@ A **distributed system** is a collection of independent computers (nodes or mach
 [[Asynchrony]]
 [[Determinism]]
 
-## [[Determinism]] vs [[Idempotency]]
+## Determinism vs [[Idempotency]]
 
 ### 🔍 **Quick Definitions**
 

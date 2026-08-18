@@ -1,9 +1,11 @@
 ---
-title: "[[George Orwell]]"
+title: "George Orwell"
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 Notes on Idleness
 
 Catatan kemalasan: Seni dan anti panduan untuk yang merasa bukan normal
@@ -41,7 +43,7 @@ discarded. Researchers will become totally proletarianized as they lose their pr
 Intelligence is a problem-solving tools, not a self-esteem competition tools.
 
 
-# [[George Orwell]]
+# George Orwell
 
 Jeruk manis, 
 jeruk nipis, 

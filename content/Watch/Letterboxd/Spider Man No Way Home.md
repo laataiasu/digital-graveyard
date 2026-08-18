@@ -1,10 +1,9 @@
 ---
-title: 'Spider-Man: No Way Home'
-date: '2022-01-05'
+title: "Spider-Man: No Way Home"
+date: 2022-01-05
+tags: [film]
+publish_external: false
 year: 2021
-letterboxd_uri: https://boxd.it/nwRw
+letterboxd_uri: "https://boxd.it/nwRw"
 rating: 3.5
-tags:
-- film
 ---
-

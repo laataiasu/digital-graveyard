@@ -1,13 +1,10 @@
 ---
-date: '2021-02-03T07:52:33Z'
-tags:
-- review
-- film
-- business
-- essay
-title: How Can You Not Be Romantic About Baseball?
+title: "How Can You Not Be Romantic About Baseball?"
+date: 2021-02-03
+tags: [review, film, business, essay]
 publish_external: true
 ---
+
 ![[rs-150108-rectangle.jpg]]
 
 <figure class="wp-block-embed aligncenter is-type-rich is-provider-embed wp-block-embed-embed">

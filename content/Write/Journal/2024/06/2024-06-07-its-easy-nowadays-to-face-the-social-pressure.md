@@ -1,10 +1,11 @@
 ---
+title: "its easy nowadays to face the social pressure"
 date: 2024-06-07
-tags:
-- journal
-title: its easy nowadays to face the social pressure
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 i realize that today is easy to face the social/peer pressure. esepecially if your not in a insufficiency state. 
 
 when your not in survival mode, i really suggest you to get out of something you dont really like, time is precious. even though i still cant find what i really want or focus on, i simply get a calmer state to reflect so i can prepare for the next action. i guarantee it would be painful, leaving your comfort zone, afraid of uncertainty. but by only this way, we can really acheive our meaningful life.

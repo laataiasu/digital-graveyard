@@ -2,6 +2,7 @@
 title: "Istilah Arab"
 date: 2022-05-05
 tags: []
+publish_external: false
 ---
 
 [[Arabic]]

@@ -1,11 +1,10 @@
 ---
-title: Filosofi Cinta KAHLIL GIBRAN
+title: "Filosofi Cinta KAHLIL GIBRAN"
+date: 2022-10-22
+tags: [book]
+publish_external: false
 author: Fahruddin Faiz
-date: '2022-10-22'
-tags:
-- book
 ---
-
 
 # Filosofi Cinta KAHLIL GIBRAN
 

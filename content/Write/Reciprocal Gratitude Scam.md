@@ -1,9 +1,7 @@
 ---
-date: '2023-09-16'
-tags:
-- journal
-- essay
-title: Reciprocal Gratitude Scam
+title: "Reciprocal Gratitude Scam"
+date: 2023-09-16
+tags: [journal, essay]
 publish_external: true
 ---
 

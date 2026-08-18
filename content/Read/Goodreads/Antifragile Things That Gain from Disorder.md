@@ -1,11 +1,10 @@
 ---
-title: 'Antifragile: Things That Gain from Disorder'
+title: "Antifragile: Things That Gain from Disorder"
+date: 2021-10-23
+tags: [book]
+publish_external: false
 author: Nassim Nicholas Taleb
-date: '2021-10-23'
-tags:
-- book
 ---
-
 
 # Antifragile: Things That Gain from Disorder
 

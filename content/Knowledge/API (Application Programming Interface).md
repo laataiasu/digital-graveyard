@@ -1,11 +1,11 @@
 ---
 title: "Apa itu API?"
-date: 2021-06-16T14:00
-tags:
-- backend
-- software-engineering
-updated: 2025-05-11T09:49
+date: 2021-06-16
+tags: [backend, software-engineering]
+publish_external: false
+updated: "2025-05-11T09:49"
 ---
+
 # Apa itu API?
 Application programming interface, simplenya dalam konteks RestAPI buat kirim-kirim data.
 ## SOAP VS RESTful

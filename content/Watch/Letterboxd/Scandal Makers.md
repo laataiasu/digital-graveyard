@@ -1,10 +1,9 @@
 ---
-title: Scandal Makers
-date: '2021-10-15'
+title: "Scandal Makers"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2008
-letterboxd_uri: https://boxd.it/1H4Q
+letterboxd_uri: "https://boxd.it/1H4Q"
 rating: 2.5
-tags:
-- film
 ---
-

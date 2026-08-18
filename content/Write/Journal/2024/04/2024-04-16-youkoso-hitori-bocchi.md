@@ -1,10 +1,11 @@
 ---
+title: "2024-04-16"
 date: 2024-04-16
-tags:
-- journal
-title: 2024-04-16
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-04-16
 
 ![[ost_nhkny.png]]

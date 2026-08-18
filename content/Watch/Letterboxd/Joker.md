@@ -1,10 +1,9 @@
 ---
-title: Joker
-date: '2020-04-25'
+title: "Joker"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2019
-letterboxd_uri: https://boxd.it/h4cS
+letterboxd_uri: "https://boxd.it/h4cS"
 rating: 4.0
-tags:
-- film
 ---
-

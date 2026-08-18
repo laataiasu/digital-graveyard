@@ -1,11 +1,10 @@
 ---
-date: '2022-10-09T00:00:00Z'
-tags:
-- journal
-- essay
-- review
-title: Cak Nun itu Pengecut
+title: "Cak Nun itu Pengecut"
+date: 2022-10-09
+tags: [journal, essay, review]
+publish_external: false
 ---
+
 https://nasional.tempo.co/read/1643276/mahasiswa-ugm-terjatuh-dari-lantai-11-polisi-sebut-murni-bunuh-diri
 
 https://www.detik.com/jateng/jogja/d-6337752/mahasiswa-ugm-jatuh-dari-lantai-11-hotel-polisi-pastikan-bunuh-diri

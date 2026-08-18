@@ -1,11 +1,11 @@
 ---
-date: 2018-01-27T15:11:00Z
-updated: 2019-02-03T14:34:19.885-08:00
+title: "Kemunafikan Tulisan"
+date: 2018-01-27
+tags: [literature]
 publish_external: true
-tags:
-  - literature
-title: Kemunafikan Tulisan
+updated: 2019-02-03
 ---
+
   
 ### Kemunafikan Tulisan  
   

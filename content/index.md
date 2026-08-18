@@ -1,8 +1,8 @@
 ---
+title: "About"
 date: 2001-01-01
-title: About
-publish_external: true
 tags: []
+publish_external: true
 ---
 
 ![[profile.png]]

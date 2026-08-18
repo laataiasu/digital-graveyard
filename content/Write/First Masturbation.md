@@ -1,9 +1,10 @@
 ---
-date: '2019-11-12'
-tags:
-- journal
-title: First Masturbation
+title: "First Masturbation"
+date: 2019-11-12
+tags: [journal]
+publish_external: false
 ---
+
 if you ask me how many times I masturbated, honestly I can't answer that question because it is uncountable. What I remember is only the first time I masturbated.
 When I was in the first year of junior high school, my Family was going to I forgot about the place, or was only my parents and my sister and brother going by themselves
 or they're going together without me and left me home alone? It was an afternoon. Before that of course I often watched #Porn but without masturbating and still 

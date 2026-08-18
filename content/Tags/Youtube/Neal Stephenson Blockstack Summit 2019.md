@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:04:03+07:00
-title: Neal Stephenson Blockstack Summit 2019
-tags:
-  - youtube
-aliases: 
-source:
+title: "Neal Stephenson Blockstack Summit 2019"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # Neal Stephenson Blockstack Summit 2019

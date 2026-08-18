@@ -1,10 +1,9 @@
 ---
-title: Don't Look Up
-date: '2021-12-31'
+title: "Don't Look Up"
+date: 2021-12-31
+tags: [film]
+publish_external: false
 year: 2021
-letterboxd_uri: https://boxd.it/o0Hc
+letterboxd_uri: "https://boxd.it/o0Hc"
 rating: 3.0
-tags:
-- film
 ---
-

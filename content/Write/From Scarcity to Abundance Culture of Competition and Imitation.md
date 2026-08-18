@@ -1,9 +1,10 @@
 ---
-date: '2023-07-06'
-tags:
-- essay
-title: From Scarcity to Abundance, Culture of Competition and Imitation
+title: "From Scarcity to Abundance, Culture of Competition and Imitation"
+date: 2023-07-06
+tags: [essay]
+publish_external: false
 ---
+
 ![[https://youtu.be/e9dZQelULDk]]
 
 We are constantly engaged in competition, but often it yields no real value.

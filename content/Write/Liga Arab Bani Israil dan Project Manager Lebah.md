@@ -1,11 +1,10 @@
 ---
-date: '2022-01-04T00:00:00Z'
-tags:
-- muslim
-- business
-- essay
-title: Liga Arab, Bani Israil, dan Project Manager Lebah
+title: "Liga Arab, Bani Israil, dan Project Manager Lebah"
+date: 2022-01-04
+tags: [muslim, business, essay]
+publish_external: false
 ---
+
 ### Liga Arab, Bani Israil, dan Project Manager Lebah
 
 Saat pasukan lebah sudah membangun 1/4 sarangnya di plafon rumah anda, anda mungkin bertanya-tanya, mengapa harus di tempat dekat saya tinggal? 

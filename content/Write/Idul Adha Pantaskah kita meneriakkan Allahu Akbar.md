@@ -1,10 +1,10 @@
 ---
-date: '2017-09-01'
-tags:
-- journal
-- muslim
-title: 'Idul Adha: Pantaskah kita meneriakkan Allahu Akbar'
+title: "Idul Adha: Pantaskah kita meneriakkan Allahu Akbar"
+date: 2017-09-01
+tags: [journal, muslim]
+publish_external: false
 ---
+
 [[Idul Adha]], sering kali dianggap hanya sebagai ritual berkurban hewan dan berbagi daging. Namun, apakah kita benar-benar memahami makna mendalam di balik perayaan ini? Mari kita renungkan dan pertanyakan sejauh mana kesadaran kita terhadap kehendak [[Allah]] dalam setiap tindakan kita.
 
 Jika [[Idul Fitri]] melambangkan kesucian, maka [[Idul Adha]] bermakna sebagai kembalinya semangat pengorbanan. Apa yang sebenarnya terkandung dalam makna "kurban"? Kata "kurban" sendiri berasal dari bahasa Arab yang mengandung arti mendekatkan diri kepada [[Allah]]. Lantas, dari mana asal mula konsep kurban ini?

@@ -1,10 +1,12 @@
 ---
 title: "Financial Engineering and Artificial Intelligence in Python"
 date: 2024-08-11
-source: "The Lazy Programmer"
 tags: [finance]
+publish_external: false
+source: The Lazy Programmer
 draft: true
 ---
+
 ## Details
 Reinforcement Learning for Algorithmic Trading
 

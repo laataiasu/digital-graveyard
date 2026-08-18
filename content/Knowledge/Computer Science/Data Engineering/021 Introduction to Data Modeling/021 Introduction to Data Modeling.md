@@ -2,6 +2,7 @@
 title: "021 Introduction to Data Modeling"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ### Apa itu Data Modelling?

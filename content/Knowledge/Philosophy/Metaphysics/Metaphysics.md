@@ -2,6 +2,7 @@
 title: "Metaphysics"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 Document your life - daily happenings, special occasions, and reflections on your goals.

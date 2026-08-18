@@ -1,11 +1,10 @@
 ---
-title: Meatspace
+title: "Meatspace"
+date: 2019-07-08
+tags: [book]
+publish_external: false
 author: Nikesh Shukla
-date: '2019-07-08'
-tags:
-- book
 ---
-
 
 # Meatspace
 

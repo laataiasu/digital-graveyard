@@ -1,10 +1,11 @@
 ---
-date: '2019-08-03T00:26:00Z'
-updated: '2019-08-03T00:26:47.942-07:00'
-tags:
-- literature
-title: Gunung Kebencian
+title: "Gunung Kebencian"
+date: 2019-08-03
+tags: [literature]
+publish_external: false
+updated: "2019-08-03T00:26:47.942-07:00"
 ---
+
   
 Jika kau punya kebencian, iri, dan dengki,  
 Simpanlah di dasar yang paling dalam  

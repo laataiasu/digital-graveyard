@@ -1,12 +1,10 @@
 ---
-date: '2022-08-28T00:00:00Z'
-tags:
-- journal
-- book
-- essay
-- review
-title: Review The Death of Expertise by Tom Nichols
+title: "Review The Death of Expertise by Tom Nichols"
+date: 2022-08-28
+tags: [journal, book, essay, review]
+publish_external: false
 ---
+
 Looking for a friend who has the same vision as me. The problem is I never have a static view of something called principles. Sometimes I contradict myself, to stand by one vision and principles, but I never did that. That’s why It’s so hard for me to find a friend, friend based on my definition. But I never describe what a friend is. It’s always just intuition that sometimes I know that it fits with us. It’s like there’s a spark. Do you believe in destiny, my friend?
 
 I always believe in what is called destiny. No matter what, no matter how details it looked, it only consists of 1 % which happen to me. It’s not because I never regard that thing called work/effort/etc highly than lucky. Maybe that’s because I was always lucky and it made me look something like that. The problem is I never know what I don’t know and what I already know. 

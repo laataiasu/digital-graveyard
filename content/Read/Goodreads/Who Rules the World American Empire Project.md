@@ -1,11 +1,10 @@
 ---
-title: Who Rules the World? (American Empire Project)
+title: "Who Rules the World? (American Empire Project)"
+date: 2020-07-03
+tags: [book]
+publish_external: false
 author: Noam Chomsky
-date: '2020-07-03'
-tags:
-- book
 ---
-
 
 # Who Rules the World? (American Empire Project)
 

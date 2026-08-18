@@ -1,9 +1,10 @@
 ---
 title: "Fakultas Ilmu Komputer"
 date: 2001-01-01
-tags:
-- school
+tags: [school]
+publish_external: false
 ---
+
 # Fakultas Ilmu Komputer
 
 ## Awesome Pacil Blogs

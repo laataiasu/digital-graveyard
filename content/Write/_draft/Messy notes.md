@@ -1,11 +1,11 @@
 ---
 title: "Messy notes"
 date: 2022-06-14
-tags:
-- draft
-- ideas
+tags: [draft, ideas]
+publish_external: false
 draft: true
 ---
+
 Hidup itu lucu yah?
 jangan percaya hal benar untuk alasan yang salah
 ada banyak hal yang tak nampak oleh indera tak dapat diprediksi oleh insting dan tak dapat dirasakan oleh nurani  

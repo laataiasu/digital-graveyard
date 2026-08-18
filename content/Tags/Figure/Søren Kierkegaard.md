@@ -1,9 +1,10 @@
 ---
 title: "Søren Kierkegaard"
 date: 2001-01-01
-tags:
-- figure
+tags: [figure]
+publish_external: false
 ---
+
 “Get clear about what I am to do”  
 “A truth that is true for me; the idea for which I am willing to live and die, An anchor in the boundless sea of pleasure as well as in the depths of knowledge.”  
 “One must first learn to know oneself before knowing anything else.”  

@@ -1,8 +1,9 @@
 ---
 title: "Traveloka"
 date: 2001-01-01
-tags:
-- company
+tags: [company]
+publish_external: false
 ---
+
 # Traveloka
 

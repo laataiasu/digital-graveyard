@@ -2,6 +2,7 @@
 title: "Stream Processing with Faust"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Stream Processing with Faust

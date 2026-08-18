@@ -1,11 +1,10 @@
 ---
-title: Liar's Poker
+title: "Liar's Poker"
+date: 2021-08-23
+tags: [book]
+publish_external: false
 author: Michael   Lewis
-date: '2021-08-23'
-tags:
-- book
 ---
-
 
 # Liar's Poker
 

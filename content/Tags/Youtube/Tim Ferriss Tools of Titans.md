@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:04:09+07:00
-title: Tim Ferriss Tools of Titans
-tags:
-  - youtube
-aliases: 
-source:
+title: "Tim Ferriss Tools of Titans"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # Tim Ferriss Tools of Titans

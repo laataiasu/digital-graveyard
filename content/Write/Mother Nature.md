@@ -1,9 +1,10 @@
 ---
-date: '2023-02-09T00:00:00Z'
-tags:
-- journal
-title: Mother Nature
+title: "Mother Nature"
+date: 2023-02-09
+tags: [journal]
+publish_external: false
 ---
+
 Betapa hebatnya gelisah ini, bahkan di antara semua kegelisahan yang telah aku siapkan, tiada yang bisa menandingi hebatnya si pandir itu. Seberapa besarnya keraguan dan apapun yang telah disiapkan, si pandir itu tidak ada tandingannya.
 
 Ketamakan dan ketakutanku, yang bersembunyi di balik altruisme palsu, sifat narsistik yang sulit sekali disasari, terlepas dari apa dan siapa penyebabnya, maka ketidakberdayaanku untuk mendiagnosis gejala itu sepenuhnya salahku. Seringkali aku timpakan salahku itu kepada siapa saja yang sedikit terhubung denganku. Tapi bagaimana nanti aku menurunkan kepengecutanku ini pada darah putihku? Tentu saja aku sulit menurunkan hal ini. Maka satu-satunya jalan hanyalah evolusi!

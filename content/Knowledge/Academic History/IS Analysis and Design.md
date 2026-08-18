@@ -1,9 +1,9 @@
 ---
 title: "IS Analysis and Design"
-aliases: CSIM603183
 date: 2021-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIM603183
 ---
 
 # IS Analysis and Design

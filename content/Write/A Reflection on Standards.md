@@ -1,11 +1,10 @@
 ---
-date: '2023-10-28'
-tags:
-- journal
-- essay
-- muslim
-title: 'Empowerment, Beauty, and the Shifting Paradigm: A Reflection on Standards'
+title: "Empowerment, Beauty, and the Shifting Paradigm: A Reflection on Standards"
+date: 2023-10-28
+tags: [journal, essay, muslim]
+publish_external: false
 ---
+
 ![[https://youtu.be/qxdDvmGJlbc]]
 
 When you throw away the concept and the [[dimension of time]], you'll find that the effort put into grooming yourself is a futile endeavor, contributing to the perpetuation of the "halo effect" ideology.

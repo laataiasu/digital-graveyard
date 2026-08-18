@@ -1,11 +1,10 @@
 ---
-date: '2023-04-24'
-tags:
-- journal
-- essay
-- book
-title: 4 Quadrants of Optimism and Pessimism
+title: "4 Quadrants of Optimism and Pessimism"
+date: 2023-04-24
+tags: [journal, essay, book]
+publish_external: false
 ---
+
 In this contemplative discourse, we delve into the intricacies of various outlooks on life, aiming to shed light on the complexities that define our existence. Inspired by [[Tags/Figure/Peter Thiel]]'s concept of the four quadrants of optimism, we embark on a journey to understand where we stand.
 
 **1. Definite Pessimism: The Doomer's Realm**

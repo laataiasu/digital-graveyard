@@ -1,10 +1,9 @@
 ---
-title: Call Me by Your Name
-date: '2020-04-25'
+title: "Call Me by Your Name"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2017
-letterboxd_uri: https://boxd.it/dYmm
+letterboxd_uri: "https://boxd.it/dYmm"
 rating: 2.5
-tags:
-- film
 ---
-

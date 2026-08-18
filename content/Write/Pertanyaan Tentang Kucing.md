@@ -1,9 +1,10 @@
 ---
-date: '2022-12-04T00:00:00Z'
-tags:
-- journal
-title: Pertanyaan Tentang Kucing
+title: "Pertanyaan Tentang Kucing"
+date: 2022-12-04
+tags: [journal]
+publish_external: false
 ---
+
 1. Berapa statistik kucing yang tidak pernah merasakan nikmatnya wiskas, royal canin, dan sejenisnya?
 
 2. Apakah ketiadaan kesenjangan makanan kucing mampu membuat setiap kucing mencapai potensi terbaiknya?

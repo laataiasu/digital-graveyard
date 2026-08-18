@@ -1,10 +1,11 @@
 ---
-date: '2017-08-18T11:20:00Z'
-updated: '2020-08-24T11:21:04.381-07:00'
-tags:
-- literature
-title: Hidung
+title: "Hidung"
+date: 2017-08-18
+tags: [literature]
+publish_external: false
+updated: "2020-08-24T11:21:04.381-07:00"
 ---
+
   
 Kok hidung ga cape-cape ya kerja terus  
 Ga kaya kaki lompat-lompat  

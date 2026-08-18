@@ -1,11 +1,11 @@
 ---
-date: 2018-06-19T10:20:00Z
-updated: 2018-07-11T19:33:33.163-07:00
-tags:
-  - literature
-title: Tugas Puisi Kelas 10
+title: "Tugas Puisi Kelas 10"
+date: 2018-06-19
+tags: [literature]
 publish_external: true
+updated: 2018-07-11
 ---
+
   
 Dibuang sayang  
   

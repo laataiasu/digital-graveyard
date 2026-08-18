@@ -1,9 +1,10 @@
 ---
 title: "Existensialism"
 date: 2001-01-01
-tags:
-- philosophy
+tags: [philosophy]
+publish_external: false
 ---
+
 Your thoughts, feelings, and body make up your ‘self-concept’ -- the false self…
 But this is not who you truly are.
   

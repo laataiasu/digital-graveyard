@@ -1,10 +1,12 @@
 ---
 title: "Ngaji Filsafat"
 date: 2024-07-22
-source: ""
 tags: [philosophy]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 Confucius - Etika Politik
 

@@ -1,13 +1,12 @@
 ---
 title: "Curse of Knowledge Bias: My Love-Hate Relationship with Project Management"
 date: 2024-02-18
-tags:
-  - project-management
-  - information-system
+tags: [project-management, information-system]
+publish_external: true
 hideSummary: true
 draft: false
-publish_external: true
 ---
+
 Before, as an [[Information System]] student, [[Information Technology Project Management]] is something I've taken for granted.
 
 When I ran projects in university, I learned a lot about IS/PM methodology.

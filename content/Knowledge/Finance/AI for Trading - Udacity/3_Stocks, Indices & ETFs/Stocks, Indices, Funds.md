@@ -2,9 +2,8 @@
 title: "Stocks, Indices, Funds"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
-
-
 
 ### **Equity, Stocks, and Shares**
    - **Equity**: This refers to the net value of a company, calculated as the total value of the company's assets minus its liabilities (debts, payments to suppliers, employee wages, etc.). Equity represents the ownership interest in the company.

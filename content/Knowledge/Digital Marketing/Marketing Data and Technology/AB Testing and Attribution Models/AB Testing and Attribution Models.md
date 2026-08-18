@@ -2,6 +2,7 @@
 title: "AB Testing and Attribution Models"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # AB Testing and Attribution Models
@@ -51,7 +52,7 @@ UTM Tracking Code - a snippet of code appended onto an existing URL to relay inf
 
 
 
-## [[AB Testing]] for Marketing
+## AB Testing for Marketing
 
 * **Purpose**
 

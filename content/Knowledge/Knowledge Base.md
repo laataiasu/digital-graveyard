@@ -2,6 +2,7 @@
 title: "Knowledge Base"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Knowledge Base
@@ -16,7 +17,7 @@ tags: []
 
 [[Financial Engineering and Artificial Intelligence in Python - TLP Udemy]]
 
-### [[Decentralized Finance|DeFi]]
+### Decentralized Finance|DeFi
 
 [[Decentralized Finance (DeFi) The Future of Finance Specialization - Coursera]]
 

@@ -1,10 +1,9 @@
 ---
-title: Face/Off
-date: '2020-05-02'
+title: "Face/Off"
+date: 2020-05-02
+tags: [film]
+publish_external: false
 year: 1997
-letterboxd_uri: https://boxd.it/29I0
+letterboxd_uri: "https://boxd.it/29I0"
 rating: 3.0
-tags:
-- film
 ---
-

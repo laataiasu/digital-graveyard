@@ -1,10 +1,9 @@
 ---
-title: Sing Street
-date: '2020-04-25'
+title: "Sing Street"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2016
-letterboxd_uri: https://boxd.it/cOo6
+letterboxd_uri: "https://boxd.it/cOo6"
 rating: 3.0
-tags:
-- film
 ---
-

@@ -1,8 +1,8 @@
 ---
-title: Ethical Dilemma in Human-Computer Interaction Design
+title: "Ethical Dilemma in Human-Computer Interaction Design"
 date: 2021-01-01
-tags:
-  - human-computer-interaction
+tags: [human-computer-interaction]
+publish_external: false
 ---
 
 [Read the document](https://drive.google.com/open?id=1eGGb69KAUFzgZNazn1z6Ah72p2csaHwN)

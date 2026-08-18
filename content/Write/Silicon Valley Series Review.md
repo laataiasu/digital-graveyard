@@ -1,12 +1,10 @@
 ---
-date: '2021-07-15T11:42:46Z'
-tags:
-- film
-- review
-- business
-- tech
-title: Silicon Valley Series Review
+title: "Silicon Valley Series Review"
+date: 2021-07-15
+tags: [film, review, business, tech]
+publish_external: false
 ---
+
 The worst comedy series I've ever watched.
 
 Irrelevant for me but still can be related to my perspective of my life. The geeks, the nerds, with asperger syndrome whose name is Richard. But yup like any other characters, it's not fair if it's only filled with misfortune, so the director or the writer add the advantages to his character which include he is the best programmer in his circle.

@@ -1,9 +1,10 @@
 ---
-date: '2020-08-27T07:25:00Z'
-tags:
-- journal
-title: Experience Being Hit by a Motorbike
+title: "Experience Being Hit by a Motorbike"
+date: 2020-08-27
+tags: [journal]
+publish_external: false
 ---
+
 ![[1200-471212138-hapkido-green-belt.jpg]]
 
 At elementary school, I joined the Karate Extracurricular. After a lot of practices are done in our school, my teacher decided to take us to walk around out of school.  

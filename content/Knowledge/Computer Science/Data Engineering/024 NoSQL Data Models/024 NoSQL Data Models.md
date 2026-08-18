@@ -2,6 +2,7 @@
 title: "024 NoSQL Data Models"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ### Kapan butuh NoSQL?

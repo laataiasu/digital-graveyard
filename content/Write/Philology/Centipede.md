@@ -1,11 +1,10 @@
 ---
-date: 2020-11-07T04:32:14Z
-tags:
-  - journal
-  - literature
-title: Centipede
+title: "Centipede"
+date: 2020-11-07
+tags: [journal, literature]
 publish_external: true
 ---
+
   
 I feel like something is crawling on my neck. I thought it was just an ant, but what kind of ant crawling like a worm and my hypothesis it was a worm, and I really got scared of it.  
   

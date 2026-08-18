@@ -1,10 +1,11 @@
 ---
-date: '2017-08-24T11:15:00Z'
-updated: '2020-08-24T11:19:28.049-07:00'
-tags:
-- literature
-title: Senja
+title: "Senja"
+date: 2017-08-24
+tags: [literature]
+publish_external: false
+updated: "2020-08-24T11:19:28.049-07:00"
 ---
+
   
 Biru yang mulai memerah  
 Angin dingin mulai menyergap  

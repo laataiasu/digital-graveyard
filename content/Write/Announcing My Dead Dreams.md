@@ -1,10 +1,10 @@
 ---
-date: '2023-10-02'
-tags:
-- journal
-- essay
-title: Announcing My Dead Dreams
+title: "Announcing My Dead Dreams"
+date: 2023-10-02
+tags: [journal, essay]
+publish_external: false
 ---
+
 Fuck I need a platform to bury my dreams. It's such a shame that people don't announce their dead dreams.
 
 The thing is, we don't know what kind of creature a dream is. Most people see a dream as a lifeless thing, and when it dies, it's considered to have no value anymore.

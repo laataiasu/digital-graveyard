@@ -1,11 +1,10 @@
 ---
-title: The God Delusion
+title: "The God Delusion"
+date: 2022-06-25
+tags: [book]
+publish_external: false
 author: Richard Dawkins
-date: '2022-06-25'
-tags:
-- book
 ---
-
 
 # The God Delusion
 

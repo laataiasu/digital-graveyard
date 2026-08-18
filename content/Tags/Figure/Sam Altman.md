@@ -1,11 +1,10 @@
 ---
 title: "Sam Altman"
 date: 2001-01-01
-tags:
-- economics
-- figure
-- technology
+tags: [economics, figure, technology]
+publish_external: false
 ---
+
 # Sam Altman
 
 [[How To Build The Future]]

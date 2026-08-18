@@ -1,10 +1,9 @@
 ---
-title: Captain Marvel
-date: '2021-10-15'
+title: "Captain Marvel"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2019
-letterboxd_uri: https://boxd.it/9vSA
+letterboxd_uri: "https://boxd.it/9vSA"
 rating: 2.5
-tags:
-- film
 ---
-

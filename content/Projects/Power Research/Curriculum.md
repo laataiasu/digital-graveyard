@@ -2,6 +2,7 @@
 title: "Curriculum"
 date: 2026-05-19
 tags: []
+publish_external: false
 ---
 
 You're building a **PowerGraph OS** -- part political intelligence, part data architecture, part investigative tooling. You’re not doing something standard -- you’re designing a **civic intelligence system** that cuts across:

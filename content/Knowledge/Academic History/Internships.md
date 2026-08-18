@@ -1,9 +1,9 @@
 ---
 title: "Internships"
-aliases: CSCE604098
 date: 2023-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSCE604098
 ---
 
 # Internships

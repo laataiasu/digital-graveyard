@@ -1,11 +1,10 @@
 ---
-date: '2021-12-09T00:00:00Z'
-tags:
-- muslim
-- essay
-- journal
-title: Football Manager 2008
+title: "Football Manager 2008"
+date: 2021-12-09
+tags: [muslim, essay, journal]
+publish_external: false
 ---
+
 Untuk [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] dan Lembaga Dakwah Lainnya
 
 ![[thumb-1920-1148628.jpg]]

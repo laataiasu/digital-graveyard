@@ -2,8 +2,8 @@
 title: "Conda"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
-
 
 ---
 date: 2022-08-24T06:24

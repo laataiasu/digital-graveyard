@@ -1,10 +1,11 @@
 ---
-date: '2018-07-21T20:10:00Z'
-updated: '2020-07-20T20:13:18.332-07:00'
-tags:
-- literature
-title: Setan
+title: "Setan"
+date: 2018-07-21
+tags: [literature]
+publish_external: false
+updated: "2020-07-20T20:13:18.332-07:00"
 ---
+
   
 Kadang aku bukanlah aku  
 Setan yang terpenjara  

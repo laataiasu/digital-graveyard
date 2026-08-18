@@ -1,10 +1,10 @@
 ---
 title: "Ray Dalio"
 date: 2001-01-01
-tags:
-- economics
-- figure
+tags: [economics, figure]
+publish_external: false
 ---
+
 # Ray Dalio
 
 [[How The Economic Machine Works]]

@@ -2,6 +2,7 @@
 title: "review fuki"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 - jujur aja gw kecewa sm fuki

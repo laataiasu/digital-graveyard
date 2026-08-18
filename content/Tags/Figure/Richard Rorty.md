@@ -1,9 +1,8 @@
 ---
 title: "Richard Rorty"
 date: 2001-01-01
-tags:
-- figure
-- modern-thinker
-- philosophy
+tags: [figure, modern-thinker, philosophy]
+publish_external: false
 ---
+
 Metafisik vs ironis

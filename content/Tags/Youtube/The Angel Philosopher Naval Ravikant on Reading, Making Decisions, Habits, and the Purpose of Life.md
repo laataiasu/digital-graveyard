@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:04:07+07:00
-title: The Angel Philosopher Naval Ravikant on Reading, Making Decisions, Habits, and the Purpose of Life
-tags:
-  - youtube
-aliases: 
-source:
+title: "The Angel Philosopher Naval Ravikant on Reading, Making Decisions, Habits, and the Purpose of Life"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # The Angel Philosopher Naval Ravikant on Reading, Making Decisions, Habits, and the Purpose of Life

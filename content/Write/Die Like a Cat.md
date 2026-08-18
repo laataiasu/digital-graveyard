@@ -1,9 +1,10 @@
 ---
-date: '2023-06-17T00:00:00Z'
-tags:
-- journal
-title: Die Like a Cat
+title: "Die Like a Cat"
+date: 2023-06-17
+tags: [journal]
+publish_external: false
 ---
+
 ![[beautiful-cat-dying-in-colorful-water.jpg]]
 
 How would you like to die? I want to die as a coward, like the great coward.

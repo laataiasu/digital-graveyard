@@ -1,10 +1,11 @@
 ---
+title: "2024-04-08"
 date: 2024-04-08
-tags:
-- journal
-title: 2024-04-08
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-04-08
 
 i knew something wrong with me,

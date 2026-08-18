@@ -1,9 +1,10 @@
 ---
-date: '2022-07-19T00:00:00Z'
-tags:
-- essay
-title: Menolak Beasiswa
+title: "Menolak Beasiswa"
+date: 2022-07-19
+tags: [essay]
+publish_external: false
 ---
+
 [Roy Citayam Tolak Beasiswa dari Sandiaga Uno](https://lifestyle.sindonews.com/read/829661/187/ini-alasan-sesungguhnya-roy-citayam-tolak-tawaran-beasiswa-dari-sandiaga-uno-1658131664)
 
 Banyak yang menghujat bahwa generasi ini generasi kurang didikan. Menolak beasiswa menurut saya adalah tindakan mulia yang bisa dilakukan seseorang. Barangkali ia mengerti dirinya sendiri, tidak seperti kebanyakan orang yang perlu untuk ikut dalam suatu kompetisi yang entahlah dapat hadiah apa darisana. 

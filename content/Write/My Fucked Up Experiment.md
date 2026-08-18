@@ -1,9 +1,10 @@
 ---
-date: '2020-09-25'
-tags:
-- journal
-title: My Fucked Up Experiment
+title: "My Fucked Up Experiment"
+date: 2020-09-25
+tags: [journal]
+publish_external: false
 ---
+
 At some point, I've been experimenting with myself until now. Yesterday was a good day, but now, as I'm in college, I regret that damn experimentation.
 
 Yesterday, I enjoyed experimenting with myself, especially concerning my personality. When I was in elementary school, I hadn't realized the joy of solitary contemplation. Then, as I progressed to junior high school, I felt a shift within myself. That moment marked the beginning of my tendency to overthink.

@@ -1,11 +1,10 @@
 ---
-date: '2021-03-14T00:00:00Z'
-tags:
-- muslim
-- business
-- essay
-title: Curhat Tentang Lembaga Dakwah
+title: "Curhat Tentang Lembaga Dakwah"
+date: 2021-03-14
+tags: [muslim, business, essay]
+publish_external: false
 ---
+
 ## Keresahan saya setelah menjalani organisasi bercorak muslim 
 
 (DKM SMAN 4 Bdg, HIROKOBA, terutama [[FUKI]] [[Fasilkom UI]] [[Universitas Indonesia]] Fasilkom )

@@ -1,10 +1,11 @@
 ---
+title: "2024-04-06"
 date: 2024-04-06
-tags:
-- journal
-title: 2024-04-06
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-04-06
 
 fail in college. 

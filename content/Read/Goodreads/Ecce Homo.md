@@ -1,11 +1,10 @@
 ---
-title: Ecce Homo
+title: "Ecce Homo"
+date: 2024-05-04
+tags: [book]
+publish_external: false
 author: Friedrich Nietzsche
-date: '2024-05-04'
-tags:
-- book
 ---
-
 
 # Ecce Homo
 

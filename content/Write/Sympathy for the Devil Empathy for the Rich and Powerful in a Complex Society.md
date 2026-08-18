@@ -1,12 +1,10 @@
 ---
-date: '2023-05-19T00:00:00Z'
-tags:
-- essay
-- review
-- film
-title: 'Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society'
+title: "Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society"
+date: 2023-05-19
+tags: [essay, review, film]
 publish_external: true
 ---
+
 Flexing, greed, pride, arrogance, and vanity are merely perceptions projected by those who feel inferior and envious. In the words of Charlie Munger, the world is driven by envy, not greed.
 
 Every advantage should be appreciated. When does gratitude become excessive? It is only those who envy that impose limits on gratitude. One form of gratitude is sharing fortune and abundance, being free from hunger, having positive relationships with Family and friends, possessing material and physical advantages, embodying good morals and spirituality, showcasing talents and creations, and more.

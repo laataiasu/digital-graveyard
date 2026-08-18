@@ -1,10 +1,9 @@
 ---
-title: 'Wall Street: Money Never Sleeps'
-date: '2021-10-24'
+title: "Wall Street: Money Never Sleeps"
+date: 2021-10-24
+tags: [film]
+publish_external: false
 year: 2010
-letterboxd_uri: https://boxd.it/1eGm
+letterboxd_uri: "https://boxd.it/1eGm"
 rating: 2.5
-tags:
-- film
 ---
-

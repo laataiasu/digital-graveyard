@@ -1,10 +1,7 @@
 ---
-date: '2021-01-16T17:06:52Z'
-tags:
-- film
-- review
-- essay
-title: Midsommar, The Heaven for Everyone
+title: "Midsommar, The Heaven for Everyone"
+date: 2021-01-16
+tags: [film, review, essay]
 publish_external: true
 ---
 

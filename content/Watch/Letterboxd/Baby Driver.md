@@ -1,10 +1,9 @@
 ---
-title: Baby Driver
-date: '2020-04-25'
+title: "Baby Driver"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2017
-letterboxd_uri: https://boxd.it/bhF2
+letterboxd_uri: "https://boxd.it/bhF2"
 rating: 3.5
-tags:
-- film
 ---
-

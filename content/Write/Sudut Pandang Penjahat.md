@@ -1,10 +1,11 @@
 ---
-date: '2017-12-22T14:31:00Z'
-updated: '2020-07-20T19:44:16.624-07:00'
-tags:
-- essay
-title: Sudut Pandang Penjahat
+title: "Sudut Pandang Penjahat"
+date: 2017-12-22
+tags: [essay]
+publish_external: false
+updated: "2020-07-20T19:44:16.624-07:00"
 ---
+
 Tindak kriminal tak henti-hentinya terjadi di muka bumi. Pembunuhan, Pencurian, Pelacuran, dan lain- lain. Terkadang kita bertanya dimanakah Tuhan disaat banyaknya pelaku kejahatan yang belum di hukum. Sesungguhnya Ia memberikan kesempatan kepada kita untuk menghukumnya di dunia pada saat itu, karena dunia yang hina ini bukan ranahnya. Ia akan "bermain" setelah kiamat dunia terjadi. Dan semoga saja begitu agar pendakwa bisa damai melihat orang yang berbuat jahat padanya dihukum sekeras-kerasnya oleh Tuhan setelah kiamat nanti. Uuuh kejamnya manusia, bukankah begitu? Disamping kejamnya perbuatan dan pikiran manusia, ada sistem yang dibuat manusia yang menurut saya menarik untuk diperbincangkan, yaitu sistem peradilan.
 
 Saya tidak tahu kapan dimulainya sistem peradilan ini, apakah awal mulanya adalah ada 2 kelompok yang saling menyalahkan satu sama lain sehingga kedua kelompok tersebut terus bertengkar dan ada pahlawan yang memikirkan bagaimana penyelesaian yang memungkinkan untuk mengakhiri pertengkaran. Dan dibuatlah sistem peradilan dimana apabila ada seseorang atau sekelompok yang merasa diperbuat tidak adil boleh mencari keadilan dan melaporkan kejahatan orang yang dianggapnya jahat melalui lembaga peradilan. Apabila ada bukti dan saksi yang memenuhi, maka orang yang didakwa melakukan kejahatan akan dihukum sesuai norma yang berlaku. Terlihat praktis, baik, dan benar tindakan orang yang memikirkan penyelesaian masalah tersebut. Namun pada nyatanya sistem yang dibuat manusia tidak ada yang benar-benar sempurna. Selalu ada celah yang bisa dimanfaatkan oleh orang tak bertanggung jawab.

@@ -1,10 +1,10 @@
 ---
-date: '2019-11-12'
-tags:
-- journal
-- essay
-title: Hipotesis
+title: "Hipotesis"
+date: 2019-11-12
+tags: [journal, essay]
+publish_external: false
 ---
+
 Barangkali ini hanya sekadar tulisan atau impian...
 
 Saya sadar bahwa tulisan kadang membosankan dan mengantuk bagi banyak orang, namun inilah ekspresi yang saya miliki. Saya juga menyadari bahwa tidak semua akan sependapat dengan harapan saya untuk menghapus batasan-batasan yang ada. Pertanyaan mengenai apakah batas harus selalu ada untuk memisahkan atau seharusnya dihapuskan untuk menyatukan, terus menggelitik dalam benak saya.

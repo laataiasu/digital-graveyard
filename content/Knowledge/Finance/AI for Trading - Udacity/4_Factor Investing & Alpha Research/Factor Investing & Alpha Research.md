@@ -2,6 +2,7 @@
 title: "Factor Investing & Alpha Research"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Factor Investing & Alpha Research

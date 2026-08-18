@@ -1,11 +1,10 @@
 ---
-date: '2022-10-07T00:00:00Z'
-tags:
-- muslim
-- essay
-- journal
-title: Why a Group of People Like to Go to the Mall
+title: "Why a Group of People Like to Go to the Mall"
+date: 2022-10-07
+tags: [muslim, essay, journal]
+publish_external: false
 ---
+
 You get paid as an employee. After you work you go the mall to enjoy your payment. This similar with some wall street ass in the dark period too, the difference is they go to the prostitution or [[Gambling|gambling]] places. But who's hurting here? No one, except the jealous people who looks people can more enjoy the life itself. In it's substance, every aspect is just the same. 
 
 You might think prostitution or [[Gambling|gambling]] is bad. But that's a service they provide with effort. You might compare their effort with your effort or even with the poor effort to survive this world. It's irrelevant, like my writing too. Because the truth of relevant only exist in the some amounts of period. 

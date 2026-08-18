@@ -1,9 +1,9 @@
 ---
 title: "Applied Statistics"
-aliases: CSIM603116
 date: 2021-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIM603116
 ---
 
 # Applied Statistics

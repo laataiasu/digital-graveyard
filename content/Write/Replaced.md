@@ -1,14 +1,11 @@
 ---
-date: '2020-11-14T05:40:45Z'
-tags:
-- essay
-- business
-- pseudocomedy
-- tech
-timeline_notification:
-- '1605307249'
-title: Replaced
+title: "Replaced"
+date: 2020-11-14
+tags: [essay, business, pseudocomedy, tech]
+publish_external: false
+timeline_notification: [1605307249]
 ---
+
 **_The greatest form of usefulness is to make many people lose their usefulness. In this way, those who lose their usefulness turn to those who enjoy it._**
 
 ![[https://youtu.be/ztrG20lZRvA]]

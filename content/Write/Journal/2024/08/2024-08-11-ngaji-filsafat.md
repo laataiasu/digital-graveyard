@@ -1,10 +1,12 @@
 ---
 title: "Ngaji Filsafat"
 date: 2024-08-11
-source: ""
 tags: [philosophy]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 Etika Politik Pancasila
 

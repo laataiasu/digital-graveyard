@@ -1,11 +1,10 @@
 ---
 title: "Dimitri Bianco"
 date: 2001-01-01
-tags:
-- economics
-- figure
-- modern-thinker
+tags: [economics, figure, modern-thinker]
+publish_external: false
 ---
+
 # Dimitri Bianco
 
 ## Why Independent Quants Don't Exist

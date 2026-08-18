@@ -1,9 +1,10 @@
 ---
-date: '2024-01-21'
-tags:
-- journal
-title: Options To Ask Myself
+title: "Options To Ask Myself"
+date: 2024-01-21
+tags: [journal]
+publish_external: false
 ---
+
 Lets be honest. 
 
 1. first option: being a marbot masjid.

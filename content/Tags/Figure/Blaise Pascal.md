@@ -1,9 +1,6 @@
 ---
 title: "Blaise Pascal"
 date: 2001-01-01
-tags:
-- classic-thinker
-- figure
-- philosophy
-- science
+tags: [classic-thinker, figure, philosophy, science]
+publish_external: false
 ---

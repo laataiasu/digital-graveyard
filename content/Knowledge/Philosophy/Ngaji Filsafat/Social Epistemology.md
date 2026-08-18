@@ -1,9 +1,10 @@
 ---
 title: "Social Epistemology"
 date: 2001-01-01
-publish_external: true
 tags: []
+publish_external: true
 ---
+
 Revisionisme
 - ketidakberdayaan epistemologi tradisional yang menganggap pengetahuan hanya benar salah, tidak membahas prosesnya, kaku
 - Akibatnya menganggap bahwa Kebenaran adalah Social construct

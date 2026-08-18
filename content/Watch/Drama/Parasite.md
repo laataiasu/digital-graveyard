@@ -1,16 +1,14 @@
 ---
-title: Parasite
+title: "Parasite"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2019
 type: Korean Movie
 score: 9.0
 progress: 1/1
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Parasite
 

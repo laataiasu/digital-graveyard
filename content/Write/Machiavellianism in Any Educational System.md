@@ -1,13 +1,9 @@
 ---
-date: '2020-11-22T03:52:07Z'
-tags:
-- film
-- review
-- essay
-timeline_notification:
-- '1605991931'
-title: Machiavellianism in Any Educational System
+title: "Machiavellianism in Any Educational System"
+date: 2020-11-22
+tags: [film, review, essay]
 publish_external: true
+timeline_notification: [1605991931]
 ---
 
 [[SKY Castle]] 

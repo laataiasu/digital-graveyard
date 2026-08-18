@@ -1,10 +1,9 @@
 ---
-title: Real Steel
-date: '2021-10-15'
+title: "Real Steel"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2011
-letterboxd_uri: https://boxd.it/147m
+letterboxd_uri: "https://boxd.it/147m"
 rating: 2.5
-tags:
-- film
 ---
-

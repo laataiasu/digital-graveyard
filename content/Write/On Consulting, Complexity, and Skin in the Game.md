@@ -4,6 +4,7 @@ date: 2026-05-27
 tags: [journal, career, consulting, reflection]
 publish_external: false
 ---
+
 on consulting
 
 when i was an intern at traveloka, i thougt data warehouse engineer is the most boring job, and beside you can't go anywhere because the world there is just e-commerce. so i tried to find consulting job where you can switch project periodically. then i got a first job after graduate at telkomsel's vendor, which i think worse than traveloka. i resigned for just 8 month, because it's so boring. and then i did nothing a few months until i get another vendor/consulting job again at accenture. oh god, actually there's more boring work. there's like a training of 1 month, its just repeating general material of IT development lifecycle, its really wasting my time. then i got another project, as data quality operation, god its so boring too. they got product, with lots of bugs, because the design from the beginning is just bad, so my main work is just fixing bugs other develops which is so useless because if the design was good, there will be no work for me. i think that's the essential of consulting. 

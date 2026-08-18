@@ -1,11 +1,10 @@
 ---
 title: "Muhammad Iqbal"
 date: 2001-01-01
-tags:
-- figure
-- philosophy
-- spirituality
+tags: [figure, philosophy, spirituality]
+publish_external: false
 ---
+
 # Muhammad Iqbal
 
 YANG MEMPENGARUHI:Sir Thomas Walker Arnold, Jalaluddin Rumi, Sayyid Ahmad Khan, Friedrich Nietzsche, Henry Bergson and Goethe

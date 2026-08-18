@@ -1,10 +1,10 @@
 ---
-date: '2023-04-07T00:00:00Z'
-tags:
-- literature
-title: Anakku
+title: "Anakku"
+date: 2023-04-07
+tags: [literature]
 publish_external: true
 ---
+
   
 anakku, kamu adalah kutukanku  
 tidak perlu seperti yang lain  

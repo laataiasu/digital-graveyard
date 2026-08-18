@@ -1,9 +1,10 @@
 ---
-date: 2020-05-22T00:00:00Z
-tags:
-  - education
-title: Is It Really Important to Go to College?
+title: "Is It Really Important to Go to College?"
+date: 2020-05-22
+tags: [education]
+publish_external: false
 ---
+
 ## summary
 
 Now I want to talk about whether going to college is really important. These are just my personal opinions--there's no right or wrong here. I encourage you to read other sources as well so you can broaden your perspective.

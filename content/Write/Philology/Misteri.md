@@ -1,10 +1,11 @@
 ---
-date: '2019-01-10T10:23:00Z'
-updated: '2020-08-24T11:24:25.040-07:00'
-tags:
-- literature
-title: Misteri
+title: "Misteri"
+date: 2019-01-10
+tags: [literature]
+publish_external: false
+updated: "2020-08-24T11:24:25.040-07:00"
 ---
+
   
 menjaga misteri adalah dosa besar  
 hanya ada 1 yang misterius  

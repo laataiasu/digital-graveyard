@@ -1,9 +1,10 @@
 ---
-date: '2016-04-13'
-tags:
-- essay
-title: 'Keberagamaan dan Relevansi Menulis: Perlukah?'
+title: "Keberagamaan dan Relevansi Menulis: Perlukah?"
+date: 2016-04-13
+tags: [essay]
+publish_external: false
 ---
+
 ![[menulis.jpg]]
 
 Nulis itu asyik = bullshit.

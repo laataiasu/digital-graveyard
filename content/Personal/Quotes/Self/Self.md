@@ -1,9 +1,10 @@
 ---
 title: "Self"
 date: 2001-01-01
-tags:
-- self
+tags: [self]
+publish_external: false
 ---
+
 Layaknya tulisan yang sudah tidak relevan. Karena manusia modern menyukai semua yang bergerak secara materi, walaupun diam secara metamateri.  
   
 Siapa yang jauh dari titik ekuivalen maka ia akan musnah.  

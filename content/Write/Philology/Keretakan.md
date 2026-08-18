@@ -1,10 +1,11 @@
 ---
-date: '2018-06-12T01:46:00Z'
-updated: '2018-07-02T21:24:51.658-07:00'
-tags:
-- literature
-title: Keretakan
+title: "Keretakan"
+date: 2018-06-12
+tags: [literature]
+publish_external: false
+updated: "2018-07-02T21:24:51.658-07:00"
 ---
+
   
 Keretakan hubungan tidak dapat diperbaiki  
 Kehancuran bisa dibangun ulang  

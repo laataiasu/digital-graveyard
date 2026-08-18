@@ -1,10 +1,10 @@
 ---
-date: '2020-07-24T11:08:57Z'
-tags:
-- film
-- review
-title: Brief Review Kdrama
+title: "Brief Review Kdrama"
+date: 2020-07-24
+tags: [film, review]
+publish_external: false
 ---
+
 It's hard to strive for something and tell that something you liked to other people since a lot of them are against it. And it is much harder if you think and assume that people are against the things you liked.
 
 > "Nobody wants the things they like to be denied by others. They want other people to experience the same feeling they do. And based on that people make friends." - Grand Blue
@@ -59,7 +59,7 @@ Divinity comedy that really fun to watch about a hard workman that accidentally 
 
 It is boring and the comedy is "receh" seriously. But the story made me retrace my childhood because even I was born in 2001, I can really connected to my past memories with friends and neighbor and Family . And the Jung-Pal sad story related with me where even know they like each other, he doesn't have a brave to tell her. And thats the…. hmm FFFFFF
 
-### [[Because This Is My First Life]]
+### Because This Is My First Life
 
 About the writer who has quarter life crisis and live with an introvert working guy end up in contracted marriage. I really enjoyed this because it describe life resignation even I have to skip a lot of scene because its slow and boring. But in the end this just makes me cry like a sap lol
 

@@ -1,9 +1,10 @@
 ---
 title: "Gnome Development Nightmares and Finding Meaning in Consumerism"
-date: 2025-07-16T13:38:10+07:00
+date: 2025-07-16
 tags: [gnome, linux, openrouter, philosophy, cynicism]
 publish_external: true
 ---
+
 try to build gnome extension to fix grammar, but nothing works, im using claude and chatgpt. very lazy to fix, gnome app development is not straightforward, we have to know X11 wayland etc, the gnome shell version (im using gnome 48), ubuntu. and for wayland, after dev some scripts, we have to restart only to re enable the extension. gnome ngmi i think. idk for me personally i like gnome, but its a nightmare for dev, steep learning curve. makes me questioning how can lots of linux community grow. lots of options, for desktop environment: gnome, kde, etc. i amaze and respect much desktop developer and the autism of linux community.
 
 i also buying some token from [[OpenRouter]] , its easy to buy using crypto, im using usdc in base chain. good works from coinbase and openrouter. really like the user experience for buying. currently Kimi K2 model is free too.

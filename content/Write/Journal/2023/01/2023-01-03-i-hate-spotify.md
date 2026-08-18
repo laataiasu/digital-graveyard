@@ -1,10 +1,11 @@
 ---
+title: "i hate spotify"
 date: 2023-01-03
-tags:
-- journal
-title: i hate spotify
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2023-01-03- i hate spotify
 
 @spotify will not defeat @youtube [[Music]] unless:

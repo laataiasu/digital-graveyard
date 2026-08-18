@@ -1,9 +1,10 @@
 ---
-date: '2022-06-03T00:00:00Z'
-tags:
-- literature
-title: Bisikan Setan Belajar Ujian
+title: "Bisikan Setan Belajar Ujian"
+date: 2022-06-03
+tags: [literature]
+publish_external: false
 ---
+
   
 pdf itu tak akan masuk  
 bahkan bila dipermudah sekalipun  

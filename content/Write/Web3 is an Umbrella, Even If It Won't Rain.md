@@ -1,13 +1,13 @@
 ---
-title: Umbrella Even If It Won’t Rain
-date: 2025-08-09T09:06:35+07:00
-draft: false
-tags:
-  - cryptocurrency
-description: ""
-enableToc: false
+title: "Umbrella Even If It Won’t Rain"
+date: 2025-08-09
+tags: [cryptocurrency]
 publish_external: true
+draft: false
+description: null
+enableToc: false
 ---
+
 The path to greatness doesn’t always begin with good intentions.  
 I’ve wasted so much energy trying to purify my motives, to be morally clean, to stay consistent with values I barely understood. Radical idealism drained me. Maybe I called it "istiqomah", persistence, but it was just stubbornness, or sunk cost fallacy dressed up as virtue.
 

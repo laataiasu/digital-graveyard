@@ -1,10 +1,11 @@
 ---
-date: '2017-08-25T11:16:00Z'
-updated: '2020-08-24T11:19:03.450-07:00'
-tags:
-- literature
-title: Waktu
+title: "Waktu"
+date: 2017-08-25
+tags: [literature]
+publish_external: false
+updated: "2020-08-24T11:19:03.450-07:00"
 ---
+
   
 Waktu adalah hal paling jahat  
 Saat berjalan merenungi kehidupan  

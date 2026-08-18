@@ -1,10 +1,9 @@
 ---
-title: The Shining
-date: '2021-11-07'
+title: "The Shining"
+date: 2021-11-07
+tags: [film]
+publish_external: false
 year: 1980
-letterboxd_uri: https://boxd.it/29Nu
+letterboxd_uri: "https://boxd.it/29Nu"
 rating: 3.5
-tags:
-- film
 ---
-

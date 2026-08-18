@@ -1,9 +1,10 @@
 ---
-date: '2021-01-15T00:00:00Z'
-tags:
-- education
-title: Review Sistem Informasi UI ~Semester 3
+title: "Review Sistem Informasi UI ~Semester 3"
+date: 2021-01-15
+tags: [education]
+publish_external: false
 ---
+
 ![[semester-3-sistem-informasi-ui.png]]
 
 Kalo dipikir-pikir, ternyata ngereview semua matkul itu gabut juga ya. Jadinya sekarang saya cuma mau cerita aja tentang apa yang dipelajari di semester 3 pacil dari outlier yang malas beradaptasi ini.

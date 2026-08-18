@@ -1,10 +1,10 @@
 ---
-date: '2022-10-16T00:00:00Z'
-tags:
-- journal
-- essay
-title: My First Hackathon
+title: "My First Hackathon"
+date: 2022-10-16
+tags: [journal, essay]
+publish_external: false
 ---
+
 This day I followed hackathon. 
 
 And this disappointment appeared again. When you know something wrong and you just stand still not saying anything, it's made me feel like a tyrant. 

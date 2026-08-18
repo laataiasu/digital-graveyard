@@ -1,9 +1,10 @@
 ---
-date: '2022-01-11T00:00:00Z'
-tags:
-- journal
-title: Physics Envy
+title: "Physics Envy"
+date: 2022-01-11
+tags: [journal]
+publish_external: false
 ---
+
 # Want to be a physicists
 
 I always pray that my Family always be moderate, don't really need to be rich but enough to fill any physical needs.

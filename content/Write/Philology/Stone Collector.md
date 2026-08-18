@@ -1,11 +1,11 @@
 ---
-date: 2020-07-20T20:30:00Z
-updated: 2020-08-04T18:54:04.819-07:00
-tags:
-  - literature
-title: Stone Collector
+title: "Stone Collector"
+date: 2020-07-20
+tags: [literature]
 publish_external: true
+updated: 2020-08-04
 ---
+
   
 When the times comes  
   

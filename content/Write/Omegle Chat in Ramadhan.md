@@ -1,9 +1,10 @@
 ---
-date: '2022-04-08T00:00:00Z'
-tags:
-- journal
-title: Omegle Chat in Ramadhan
+title: "Omegle Chat in Ramadhan"
+date: 2022-04-08
+tags: [journal]
+publish_external: false
 ---
+
 ```
 Cant sleep after sahur and wtf this satan is doing. They said satan is not shown up during [[Ramadhan]]. 
 But I thought it is proven that I am the satan, after all this time. 

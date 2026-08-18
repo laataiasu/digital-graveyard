@@ -1,8 +1,10 @@
 ---
 title: "Urchin Tracking Module"
 date: 2001-01-01
-aliases: ["UTM"]
 tags: []
+publish_external: false
+aliases: [UTM]
 ---
+
 # Urchin Tracking Module
 

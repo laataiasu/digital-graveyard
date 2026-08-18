@@ -1,10 +1,9 @@
 ---
-title: A Trip to Infinity
-date: '2023-01-20'
+title: "A Trip to Infinity"
+date: 2023-01-20
+tags: [film]
+publish_external: false
 year: 2022
-letterboxd_uri: https://boxd.it/BZsI
+letterboxd_uri: "https://boxd.it/BZsI"
 rating: 2.0
-tags:
-- film
 ---
-

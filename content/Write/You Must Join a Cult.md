@@ -1,11 +1,10 @@
 ---
-date: '2024-02-13'
-tags:
-- journal
-- essay
-title: You Must Join a Cult
+title: "You Must Join a Cult"
+date: 2024-02-13
+tags: [journal, essay]
 publish_external: true
 ---
+
 You need to join a cult, trying multiple cults,
 
 until you get a cult with the greatest sense of belonging.

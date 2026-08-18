@@ -1,9 +1,10 @@
 ---
-date: '2022-05-05T00:00:00Z'
-tags:
-- literature
-title: Siapa Yang Lebih Dulu Akan Mati?
+title: "Siapa Yang Lebih Dulu Akan Mati?"
+date: 2022-05-05
+tags: [literature]
+publish_external: false
 ---
+
   
 Apa salahnya Kematian  
 Siapapun memilih kematian satwa  

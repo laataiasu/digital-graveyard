@@ -1,10 +1,9 @@
 ---
-title: Titanic
-date: '2021-10-15'
+title: "Titanic"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 1997
-letterboxd_uri: https://boxd.it/2a2k
+letterboxd_uri: "https://boxd.it/2a2k"
 rating: 2.0
-tags:
-- film
 ---
-

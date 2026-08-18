@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:03:34+07:00
-tags:
-  - youtube
-title: BLOCKCON Taleb & Naval Ravikant
-aliases: 
-source:
+title: "BLOCKCON Taleb & Naval Ravikant"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # BLOCKCON - Day 2 (Oct 11) - Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant

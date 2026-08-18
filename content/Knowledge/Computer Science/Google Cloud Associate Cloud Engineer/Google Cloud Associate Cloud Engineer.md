@@ -1,10 +1,11 @@
 ---
 title: "Google Cloud Associate Cloud Engineer"
-date: 2022-10-17T13:47
-tags:
-- cloud
-updated: 2022-10-19T10:10
+date: 2022-10-17
+tags: [cloud]
+publish_external: false
+updated: "2022-10-19T10:10"
 ---
+
 [[Cloud Computing Fundamentals]]
   
 [[Google Cloud Fundamentals]]

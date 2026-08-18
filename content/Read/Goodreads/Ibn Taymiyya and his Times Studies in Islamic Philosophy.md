@@ -1,11 +1,10 @@
 ---
-title: Ibn Taymiyya and his Times (Studies in Islamic Philosophy)
+title: "Ibn Taymiyya and his Times (Studies in Islamic Philosophy)"
+date: 2022-01-09
+tags: [book]
+publish_external: false
 author: Yossef Rapoport
-date: '2022-01-09'
-tags:
-- book
 ---
-
 
 # Ibn Taymiyya and his Times (Studies in Islamic Philosophy)
 

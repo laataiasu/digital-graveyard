@@ -1,13 +1,11 @@
 ---
-date: '2020-01-12T11:42:46Z'
-tags:
-- business
-- essay
-- muslim
-timeline_notification:
-- '1600922570'
-title: About Islamic Dawah and Go to Hell
+title: "About Islamic Dawah and Go to Hell"
+date: 2020-01-12
+tags: [business, essay, muslim]
+publish_external: false
+timeline_notification: [1600922570]
 ---
+
 ![[https://youtu.be/ZxJUMBVO18I]]
 
 **"Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."**

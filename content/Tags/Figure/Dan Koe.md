@@ -1,10 +1,10 @@
 ---
 title: "Dan Koe"
 date: 2001-01-01
-tags:
-- figure
-- modern-thinker
+tags: [figure, modern-thinker]
+publish_external: false
 ---
+
 # Dan Koe
 
 ## If You Have Multiple Interests, Start This One-Person Business.

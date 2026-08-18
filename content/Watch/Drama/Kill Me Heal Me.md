@@ -1,16 +1,14 @@
 ---
-title: Kill Me, Heal Me
+title: "Kill Me, Heal Me"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2015
 type: Korean Drama
 score: 6.5
 progress: 20/20
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Kill Me, Heal Me
 

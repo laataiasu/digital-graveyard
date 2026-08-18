@@ -1,9 +1,10 @@
 ---
-date: '2020-08-18T00:00:00Z'
-tags:
-- essay
-title: Sebab Asal
+title: "Sebab Asal"
+date: 2020-08-18
+tags: [essay]
+publish_external: false
 ---
+
 Setiap orang memiliki inspirasinya masing-masing. Sekelam apapun hidupnya ia pasti memiliki inspirasi yang berasal dari referensi. Maka hal aneh yang saya rasakan adalah bagaimana mungkin cukup banyak orang yang membatasi referensinya hanya karena ia ditakutkan oleh suatu yang menjadi inspirasinya. Meskipun ketiadabatasan referensi juga merupakan salah satu hal yang lahir dari ketakutan. Maka ketakutanlah sebenarnya sumber dari segala sesuatu itu. 
 
 Egois apabila hanya ketakutan saja yang disebut menjadi sumber dari segala sesuatu. Banyak orang memandang segala peristiwa terjadi karena sebab akibat dan oleh karenanya mereka merasa selalu ada sebab asal. Padahal yang disebut sebagai sebab asal pun tidak dapat dibuktikan dan hanya akan melahirkan kecacatan logika dan kontradiksi yang terus memicu perdebatan yang tak kunjung usai. Seakan-akan hanya ada satu jalan dan bersifat linear. 

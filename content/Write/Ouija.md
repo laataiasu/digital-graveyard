@@ -1,12 +1,9 @@
 ---
-date: '2020-11-20T10:01:13Z'
-tags:
-- journal
-- horror
-- muslim
-timeline_notification:
-- '1605841331'
-title: Ouija
+title: "Ouija"
+date: 2020-11-20
+tags: [journal, horror, muslim]
+publish_external: false
+timeline_notification: [1605841331]
 ---
 
 ![[https://youtu.be/_T1Jj1inE8M]]

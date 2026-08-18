@@ -1,10 +1,9 @@
 ---
-title: Ready Player One
-date: '2023-03-01'
+title: "Ready Player One"
+date: 2023-03-01
+tags: [film]
+publish_external: false
 year: 2018
-letterboxd_uri: https://boxd.it/aZes
+letterboxd_uri: "https://boxd.it/aZes"
 rating: 2.5
-tags:
-- film
 ---
-

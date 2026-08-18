@@ -1,14 +1,10 @@
 ---
-date: '2023-03-01T17:23:09Z'
-tags:
-- muslim
-- journal
-- review
-- film
-title: 'Islam and the Data Scientist''s Quest: Seeking Insights Amidst Biases
-  and Mental Models'
+title: "Islam and the Data Scientist's Quest: Seeking Insights Amidst Biases and Mental Models"
+date: 2023-03-01
+tags: [muslim, journal, review, film]
 publish_external: true
 ---
+
 ![[data-science.jpg]]
 
 data scientist dan the sixth sense movie

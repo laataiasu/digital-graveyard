@@ -1,14 +1,11 @@
 ---
-date: '2021-02-15T00:03:51Z'
-tags:
-- cryptocurrency
-- film
-- review
-- essay
-timeline_notification:
-- '1613322235'
-title: Bitcoin & Breaking Bad
+title: "Bitcoin & Breaking Bad"
+date: 2021-02-15
+tags: [cryptocurrency, film, review, essay]
+publish_external: false
+timeline_notification: [1613322235]
 ---
+
 <div class="wp-block-image">
   <figure class="aligncenter">![[JW6CYguN.gif]]</figure>
 </div>

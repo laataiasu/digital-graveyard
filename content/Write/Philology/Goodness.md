@@ -1,9 +1,10 @@
 ---
-date: '2020-11-27T00:00:00Z'
-tags:
-- literature
-title: Goodness
+title: "Goodness"
+date: 2020-11-27
+tags: [literature]
+publish_external: false
 ---
+
   
 I knew nothing about good  
 I ask everyone  

@@ -1,16 +1,14 @@
 ---
-title: On Your Wedding Day
+title: "On Your Wedding Day"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2018
 type: Korean Movie
 score: 7.0
 progress: 1/1
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # On Your Wedding Day
 

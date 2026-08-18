@@ -1,16 +1,14 @@
 ---
-title: Madame Antoine
+title: "Madame Antoine"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2016
 type: Korean Drama
 score: 6.0
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Madame Antoine
 

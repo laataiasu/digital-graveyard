@@ -1,11 +1,10 @@
 ---
-date: '2023-09-16'
-tags:
-- journal
-- book
-- film
-title: Social Anxiety When Dining Alone in Restaurants
+title: "Social Anxiety When Dining Alone in Restaurants"
+date: 2023-09-16
+tags: [journal, book, film]
+publish_external: false
 ---
+
 ![[spotlight-effect.jpg]]
 
 I've come to understand concepts like the 'spotlight effect,' delved into the intriguing depths of 'The Mind Explained' Netflix series, and engaged with content that reminds us of our shared humanity in this vast world.

@@ -1,10 +1,9 @@
 ---
-title: 'Bo Burnham: Inside'
-date: '2021-12-22'
+title: "Bo Burnham: Inside"
+date: 2021-12-22
+tags: [film]
+publish_external: false
 year: 2021
-letterboxd_uri: https://boxd.it/v2uy
+letterboxd_uri: "https://boxd.it/v2uy"
 rating: 3.5
-tags:
-- film
 ---
-

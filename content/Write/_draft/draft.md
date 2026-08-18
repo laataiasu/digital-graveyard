@@ -1,9 +1,11 @@
 ---
 title: "todo"
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 # todo
 
 - documenting your life, inspired by [[Reddit]], ancestry

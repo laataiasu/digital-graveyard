@@ -1,11 +1,10 @@
 ---
-title: No Longer Human
+title: "No Longer Human"
+date: 2022-07-25
+tags: [book]
+publish_external: false
 author: Osamu Dazai
-date: '2022-07-25'
-tags:
-- book
 ---
-
 
 # No Longer Human
 

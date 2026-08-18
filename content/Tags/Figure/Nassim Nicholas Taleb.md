@@ -1,11 +1,10 @@
 ---
-date: '2023-01-23T00:00:00Z'
-tags:
-- book
-- figure
-- review
-title: Nassim Nicholas Taleb
+title: "Nassim Nicholas Taleb"
+date: 2023-01-23
+tags: [book, figure, review]
+publish_external: false
 ---
+
 # Nassim Nicholas Taleb
 
 [[Black Swan]]

@@ -1,10 +1,11 @@
 ---
-date: '2018-07-06T18:47:00Z'
-updated: '2020-07-29T02:13:06.932-07:00'
-tags:
-- essay
-title: Ketelanjangan
+title: "Ketelanjangan"
+date: 2018-07-06
+tags: [essay]
+publish_external: false
+updated: "2020-07-29T02:13:06.932-07:00"
 ---
+
 Sesuatu yang dibuat manusia itu bisa disebut karya. Dan dari setiap orang yang membuat karya aku temui mereka merasa perlu atau ga perlu menyombongkannya, tapi dari setiap karyanya mereka pastilah harus membanggakannya, bangga terhadap diri sendiri utamanya agar ada sedikit perasaan puas di dalam diri. Untuk menciptakan suatu karya dan tanggapan atas karyanya dibutuhkan suatu keberanian yang dinamakan ketelanjangan. Lalu setelah karyanya berhasil terbit dan diakui banyak orang, mereka yang berkarya ini membanggakan ketelanjangannya.
 
 Setuju gasih, untuk mencapai semua yang ada di dunia ini dibutuhkan ketelanjangan? Kalo masih belum paham arti ketelanjangan aku kasih contoh deh. Liat pendidikan, sekolah, dan apa yang harus kamu pelajari di waktu kecil! Pertama-tama apa? perkenalan. Untuk mencapai pertemanan, kamu harus ngasih tau apa-apa yang berhubungan dengan kamu, mulai dari nama alamat hobi cita-cita dan lain-lain, belajar baca tulis buat apa? biar bisa banyak baca ketelanjangan orang lain dan bisa ngasih tanggapan terhadap ketelanjangan. Terus kalo mau ke jenjang yang lebih tinggi, yaitu persahabatan, kamu harus ngasih tau apa yang kamu suka atau ngga suka, harus menyesuaikan diri dengan orang yang kita ingin jadikan sahabat, cuman untuk mencapai suatu keberhasilan dalam bidang persahabatan.

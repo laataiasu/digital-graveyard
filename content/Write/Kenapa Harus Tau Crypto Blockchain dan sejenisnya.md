@@ -1,12 +1,10 @@
 ---
-date: '2021-07-13T00:00:00Z'
-tags:
-- cryptocurrency
-- tech
-- muslim
-- essay
-title: Kenapa Harus Tau Crypto, Blockchain, dan sejenisnya
+title: "Kenapa Harus Tau Crypto, Blockchain, dan sejenisnya"
+date: 2021-07-13
+tags: [cryptocurrency, tech, muslim, essay]
+publish_external: false
 ---
+
 secara cocoklogi, kronologi simpelnya kaya gini
 
 masalah lingkungan > pandemi > stimulus US > yang bercukupan bingung naruh uang dimana > influencers/manipulators speak > inflasi aset-aset kripto

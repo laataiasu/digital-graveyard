@@ -1,10 +1,10 @@
 ---
 title: "Ngaji Filsafat"
 date: 2021-06-29
-tags:
-- philosophy
+tags: [philosophy]
 publish_external: true
 ---
+
 [[Introduction to Philosophy]]
 [[Epistemology]]
 [[Islamic Epistemology]]

@@ -1,9 +1,10 @@
 ---
-date: '2022-07-09T00:00:00Z'
-tags:
-- essay
-title: Mengapa Overpopulasi Tidak Akan Pernah Terjadi
+title: "Mengapa Overpopulasi Tidak Akan Pernah Terjadi"
+date: 2022-07-09
+tags: [essay]
+publish_external: false
 ---
+
 Nihilisme semakin populer.
 
 "Rick & Morty," "Bojack Horseman," "Everything Everywhere All at Once," "Jujutsu Kaisen," "Chainsaw Man," "Kaguya-sama," "Spy x Family."

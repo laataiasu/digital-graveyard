@@ -1,10 +1,11 @@
 ---
-date: '2018-02-24T10:43:00Z'
-updated: '2018-07-04T19:38:36.725-07:00'
-tags:
-- essay
-title: Realisasi Sistem Ramah Anak di Sekolah
+title: "Realisasi Sistem Ramah Anak di Sekolah"
+date: 2018-02-24
+tags: [essay]
+publish_external: false
+updated: "2018-07-04T19:38:36.725-07:00"
 ---
+
 #### Judul: Realisasi Sistem Ramah Anak di Sekolah
 
 Sistem ramah anak di sekolah merupakan program sekolah yang bertujuan membentuk budaya sopan santun dan mendekatkan hubungan antara guru dan siswa, sehingga sekolah tidak hanya mencerdaskan generasi yang dididik, tapi juga meningkatkan moralitas siswa guna menjadi penerus bangsa Indonesia yang baik. Jika dilihat dari segi tujuan, program ini tentu saja sangat baik. Namun, pada realisasinya apakah program ini berjalan lancar dan benar-benar membentuk kepribadian siswa menjadi lebih baik? Ataukah program ini hanyalah formalitas semata yang ditujukan untuk membuat sekolah "terlihat" baik? Masalah apakah yang difokuskan dalam program ini?

@@ -1,11 +1,10 @@
 ---
-title: Mati Ketawa Cara Rusia
+title: "Mati Ketawa Cara Rusia"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Z. Dolgopolova
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # Mati Ketawa Cara Rusia
 

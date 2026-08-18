@@ -1,9 +1,9 @@
 ---
 title: "Integrated Personality Dev. Skills A"
-aliases: UIGE600001
 date: 2020-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: UIGE600001
 ---
 
 # Integrated Personality Dev. Skills A

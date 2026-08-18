@@ -1,9 +1,10 @@
 ---
+title: "Gadget"
 date: 2001-01-01
-tags:
-- gadget
-title: Gadget
+tags: [gadget]
+publish_external: false
 ---
+
 ## Gadget
 
 [[SAMSUNG GT-E1200I]]

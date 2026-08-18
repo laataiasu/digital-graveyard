@@ -1,8 +1,9 @@
 ---
 title: "Sci-Hub"
 date: 2001-01-01
-tags:
-- software
+tags: [software]
+publish_external: false
 ---
+
 # Sci-Hub
 

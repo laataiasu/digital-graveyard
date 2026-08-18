@@ -1,16 +1,14 @@
 ---
-title: Move to Heaven
+title: "Move to Heaven"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2021
 type: Korean Drama
 score: 8.0
 progress: 10/10
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Move to Heaven
 

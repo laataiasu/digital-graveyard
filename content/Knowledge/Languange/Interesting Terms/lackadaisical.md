@@ -1,8 +1,7 @@
 ---
-date: 2025-07-07T15:44:46+07:00
-Meaning: dreamy, no interest
-title: lackadaisical
-tags:
-  - interesting-terms
+title: "lackadaisical"
+date: 2025-07-07
+tags: [interesting-terms]
 publish_external: true
+Meaning: "dreamy, no interest"
 ---

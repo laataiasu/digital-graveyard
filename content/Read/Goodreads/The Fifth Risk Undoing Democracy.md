@@ -1,11 +1,10 @@
 ---
-title: 'The Fifth Risk: Undoing Democracy'
+title: "The Fifth Risk: Undoing Democracy"
+date: 2021-08-24
+tags: [book]
+publish_external: false
 author: Michael   Lewis
-date: '2021-08-24'
-tags:
-- book
 ---
-
 
 # The Fifth Risk: Undoing Democracy
 

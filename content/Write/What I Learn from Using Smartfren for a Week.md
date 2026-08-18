@@ -1,9 +1,10 @@
 ---
-date: '2020-08-19T23:29:30Z'
-tags:
-- essay
-title: What I Learn from Using Smartfren for a Week
+title: "What I Learn from Using Smartfren for a Week"
+date: 2020-08-19
+tags: [essay]
+publish_external: false
 ---
+
 Warning!!! Don't read it if you don't want to waste your time
 
 I am the typical person who always decide or prejudice something by first impression that he/she/it did to me without doing critical thinking and analyzing it. Even I have known prejudice especially bad prejudice is not good and in [[Islam]] it is prohibited, I don't know my feeling is always said that what is true is what its seen at first.

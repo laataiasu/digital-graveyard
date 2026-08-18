@@ -1,12 +1,9 @@
 ---
-date: '2020-12-04T08:14:31Z'
-tags:
-- review
-- film
-timeline_notification:
-- '1607044521'
-title: Nosy Loli Review
+title: "Nosy Loli Review"
+date: 2020-12-04
+tags: [review, film]
 publish_external: true
+timeline_notification: [1607044521]
 ---
 
 ![[ej5fzeovcaidsfn.jpeg]]

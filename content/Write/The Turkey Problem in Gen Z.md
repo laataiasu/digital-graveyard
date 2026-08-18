@@ -1,13 +1,10 @@
 ---
-date: '2023-02-01T11:42:46Z'
-tags:
-- essay
-- muslim
-- review
-- film
-title: The Turkey Problem in Gen-Z
+title: "The Turkey Problem in Gen-Z"
+date: 2023-02-01
+tags: [essay, muslim, review, film]
 publish_external: true
 ---
+
 Generation Z is often seen as carefree, facing difficulty in finding jobs, lacking respect for adults, being oversensitive yet savage and brutal, experiencing sexual weaknesses, engaging in deception through social media, adopting a borrowing mentality, having a short attention span, challenging the status quo, dealing with information overload, being exposed to excessive news about corruption, participating in cancel culture, and facing the consequences of global warming. They often associate various issues with mental health. This generation is perceived as weak and lazy, but also woke and hustling.
 
 Why is this the case?

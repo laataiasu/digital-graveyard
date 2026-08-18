@@ -1,13 +1,11 @@
 ---
-date: '2021-02-09T11:05:24Z'
-tags:
-- review
-- film
-- essay
-timeline_notification: null
-title: Short-Term Profit of 'From Up on Poppy Hill'
+title: "Short-Term Profit of 'From Up on Poppy Hill"
+date: 2021-02-09
+tags: [review, film, essay]
 publish_external: true
+timeline_notification: null
 ---
+
 ![[b9ce89d36e6df7a15ded4f33fb756b7e.png]]
   
 I often guess something. It is strange for some people, and I am not suggesting it too. You will not get something based on guessing if you believe so. And you will get some insights, whether it is true or not, you will get insight if you believe in your guessing, which is the case for modern people nowadays.

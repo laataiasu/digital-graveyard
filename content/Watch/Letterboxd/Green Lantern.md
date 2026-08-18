@@ -1,10 +1,9 @@
 ---
-title: Green Lantern
-date: '2021-10-15'
+title: "Green Lantern"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2011
-letterboxd_uri: https://boxd.it/QN4
+letterboxd_uri: "https://boxd.it/QN4"
 rating: 3.0
-tags:
-- film
 ---
-

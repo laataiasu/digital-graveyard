@@ -1,9 +1,10 @@
 ---
 title: "Israel"
 date: 2001-01-01
-tags:
-- country
+tags: [country]
+publish_external: false
 ---
+
 [[Jew]]
 
 

@@ -1,9 +1,9 @@
 ---
 title: "Integrated Personality Dev. Skills B"
-aliases: UIGE600002
 date: 2019-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: UIGE600002
 ---
 
 # Integrated Personality Dev. Skills B

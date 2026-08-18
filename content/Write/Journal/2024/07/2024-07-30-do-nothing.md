@@ -1,10 +1,12 @@
 ---
 title: "Do Nothing"
 date: 2024-07-30
-source: ""
 tags: [event]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 
 

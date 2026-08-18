@@ -1,9 +1,10 @@
 ---
-date: '2017-10-01T00:00:00Z'
-tags:
-- literature
-title: Mengapa Kebenaran
+title: "Mengapa Kebenaran"
+date: 2017-10-01
+tags: [literature]
+publish_external: false
 ---
+
   
 Mengapa konstanta pendirian selalu berubah ubah  
 Mengapa rumus kedamaian tidak pernah ditemukan  

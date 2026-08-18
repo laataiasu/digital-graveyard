@@ -1,10 +1,10 @@
 ---
 title: "Massachusetts Institute of Technology"
 date: 2001-01-01
-aliases:
-- MIT
-tags:
-- school
+tags: [school]
+publish_external: false
+aliases: [MIT]
 ---
+
 # Massachusetts Institute of Technology
 

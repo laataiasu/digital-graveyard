@@ -1,9 +1,10 @@
 ---
-date: '2021-12-10T00:00:00Z'
-tags:
-- muslim
-title: Penuntut Ilmu Laduni
+title: "Penuntut Ilmu Laduni"
+date: 2021-12-10
+tags: [muslim]
+publish_external: false
 ---
+
 Belajar dari bio ig teman saya yang merupakan penganut dan penuntut ilmu laduni,
 
 <h1>It is worth trying everything. But not everything is worth trying.</h1>

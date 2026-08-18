@@ -1,10 +1,9 @@
 ---
-title: Crazy Rich Asians
-date: '2020-08-04'
+title: "Crazy Rich Asians"
+date: 2020-08-04
+tags: [film]
+publish_external: false
 year: 2018
-letterboxd_uri: https://boxd.it/gfnK
+letterboxd_uri: "https://boxd.it/gfnK"
 rating: 1.5
-tags:
-- film
 ---
-

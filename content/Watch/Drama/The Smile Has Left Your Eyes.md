@@ -1,16 +1,14 @@
 ---
-title: The Smile Has Left Your Eyes
+title: "The Smile Has Left Your Eyes"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2018
 type: Korean Drama
 score: 8.0
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # The Smile Has Left Your Eyes
 

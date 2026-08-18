@@ -1,10 +1,11 @@
 ---
+title: "Perfect Days Rant"
 date: 2024-04-01
-tags:
-- journal
-title: Perfect Days Rant
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 [[Perfect Days]]
 
 now what? aduh film tolol, bikin aing impulsif resign tanpa backup plan

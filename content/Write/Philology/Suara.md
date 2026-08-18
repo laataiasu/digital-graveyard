@@ -1,10 +1,11 @@
 ---
-date: '2021-06-22T08:35:00Z'
-updated: '2021-06-22T08:38:18.853-07:00'
-tags:
-- literature
-title: Suara
+title: "Suara"
+date: 2021-06-22
+tags: [literature]
+publish_external: false
+updated: "2021-06-22T08:38:18.853-07:00"
 ---
+
   
 Zat apa yang tak menghantarkan suara  
 Hanya yang bukan zat  

@@ -1,11 +1,10 @@
 ---
-title: Rich Dad, Poor Dad
+title: "Rich Dad, Poor Dad"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Robert T. Kiyosaki
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # Rich Dad, Poor Dad
 

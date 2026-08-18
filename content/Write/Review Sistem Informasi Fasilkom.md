@@ -1,9 +1,10 @@
 ---
-date: '2020-05-20T00:00:00Z'
-tags:
-- education
-title: Review Sistem Informasi Fasilkom  - Index
+title: "Review Sistem Informasi Fasilkom  - Index"
+date: 2020-05-20
+tags: [education]
+publish_external: false
 ---
+
 *Karena gabut, saya ingin sedikit nulis tentang pengalaman kuliah di fasilkom, materi kuliah, dll. Semoga aja bermanfaat hehe. Ini index blognya dan bakal terus diupdate.*
 
 ### Materi Kuliah

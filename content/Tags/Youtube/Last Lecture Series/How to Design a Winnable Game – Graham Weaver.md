@@ -1,10 +1,9 @@
 ---
 title: "How to Design a Winnable Game"
-author: Graham Weaver
 date: 2025-07-13
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
+author: Graham Weaver
 ---
 
 ## Introduction

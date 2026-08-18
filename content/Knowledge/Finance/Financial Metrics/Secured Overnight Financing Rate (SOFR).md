@@ -1,8 +1,10 @@
 ---
 title: "Secured Overnight Financing Rate (SOFR)"
 date: 2001-01-01
-tags: economics
+tags: [economics]
+publish_external: false
 ---
+
 SOFR, or the Secured Overnight Financing Rate, is a benchmark interest rate for dollar-denominated derivatives and loans. It is based on the cost of borrowing cash overnight collateralized by Treasury securities and is published by the Federal Reserve Bank of New York. Here are some key points about SOFR:
 
 1. **Replacement for LIBOR**: SOFR was introduced as a replacement for the London Interbank Offered Rate (LIBOR), which had been the dominant interest rate benchmark but faced numerous issues, including a manipulation scandal and declining transaction volumes.

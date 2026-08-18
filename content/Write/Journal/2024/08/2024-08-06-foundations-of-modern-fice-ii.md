@@ -1,10 +1,12 @@
 ---
 title: "Foundations of Modern Finance II"
 date: 2024-08-06
-source: "edX"
 tags: [finance]
+publish_external: false
+source: edX
 draft: true
 ---
+
 ## Details
 Forwards_and_Futures
 

@@ -1,11 +1,10 @@
 ---
-title: 'The Road to Reality: A Complete Guide to the Laws of the Universe'
+title: "The Road to Reality: A Complete Guide to the Laws of the Universe"
+date: 2020-10-29
+tags: [book]
+publish_external: false
 author: Roger Penrose
-date: '2020-10-29'
-tags:
-- book
 ---
-
 
 # The Road to Reality: A Complete Guide to the Laws of the Universe
 

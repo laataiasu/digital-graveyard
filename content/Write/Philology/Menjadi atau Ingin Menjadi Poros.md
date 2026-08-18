@@ -1,10 +1,11 @@
 ---
-date: '2018-07-30T05:33:00Z'
-updated: '2019-02-03T14:31:52.982-08:00'
-tags:
-- literature
-title: Menjadi atau Ingin Menjadi Poros
+title: "Menjadi atau Ingin Menjadi Poros"
+date: 2018-07-30
+tags: [literature]
+publish_external: false
+updated: "2019-02-03T14:31:52.982-08:00"
 ---
+
   
 Bulan yang berotasi pada bumi  
 Bumi pada matahari  

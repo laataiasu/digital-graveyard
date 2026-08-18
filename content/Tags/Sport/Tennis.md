@@ -1,7 +1,6 @@
 ---
-title: Tennis
-date: 2025-07-07 19:00:00
-tags:
-  - sport
+title: "Tennis"
+date: 2025-07-07
+tags: [sport]
 publish_external: false
 ---

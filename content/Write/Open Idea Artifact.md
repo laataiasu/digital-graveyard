@@ -1,11 +1,11 @@
 ---
 title: "Open Idea Artifact: Things I Wish Existed"
-date: 2020-09-15T11:30:03+00:00
-tags: ["first"]
-enableToc: true
-description: "Desc Text."
-hideSummary: true
+date: 2020-09-15
+tags: [first]
 publish_external: true
+enableToc: true
+description: Desc Text.
+hideSummary: true
 ---
 
 ## Things I Wish Existed

@@ -1,10 +1,11 @@
 ---
-date: '2020-07-20T20:08:00Z'
-updated: '2020-07-20T20:08:47.511-07:00'
-tags:
-- literature
-title: Lemak
+title: "Lemak"
+date: 2020-07-20
+tags: [literature]
+publish_external: false
+updated: "2020-07-20T20:08:47.511-07:00"
 ---
+
   
 Mengapa banyak yang suka lemak  
 bukankah itu adalah 'cadangan' dari yang sesungguhnya?  

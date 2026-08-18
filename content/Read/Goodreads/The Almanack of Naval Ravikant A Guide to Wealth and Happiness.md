@@ -1,11 +1,10 @@
 ---
-title: 'The Almanack of Naval Ravikant: A Guide to Wealth and Happiness'
+title: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"
+date: 2021-08-28
+tags: [book]
+publish_external: false
 author: Eric Jorgenson
-date: '2021-08-28'
-tags:
-- book
 ---
-
 
 # The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 

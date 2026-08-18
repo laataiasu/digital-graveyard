@@ -1,10 +1,10 @@
 ---
-date: '2023-07-10'
-tags:
-- film
-title: Or You Live Long Enough To See Yourself Become Meme, or Running a White Woman's
-  [[Instagram]]
+title: "Or You Live Long Enough To See Yourself Become Meme, or Running a White Woman's [[Instagram]]"
+date: 2023-07-10
+tags: [film]
+publish_external: false
 ---
+
 [[Meme]]
 
 Terima kasih @CimahiSamsat atas pelayanannya saya bisa nonton 2 film dokumenter indo komedi ini

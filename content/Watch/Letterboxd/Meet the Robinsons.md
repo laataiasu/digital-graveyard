@@ -1,10 +1,9 @@
 ---
-title: Meet the Robinsons
-date: '2021-12-10'
+title: "Meet the Robinsons"
+date: 2021-12-10
+tags: [film]
+publish_external: false
 year: 2007
-letterboxd_uri: https://boxd.it/28Ym
+letterboxd_uri: "https://boxd.it/28Ym"
 rating: 3.5
-tags:
-- film
 ---
-

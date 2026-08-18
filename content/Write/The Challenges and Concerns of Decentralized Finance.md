@@ -1,10 +1,10 @@
 ---
-date: '2021-06-17T00:00:00Z'
-tags:
-- essay
-- cryptocurrency
-title: The Challenges and Concerns of Decentralized Finance
+title: "The Challenges and Concerns of Decentralized Finance"
+date: 2021-06-17
+tags: [essay, cryptocurrency]
+publish_external: false
 ---
+
 Introduction:
 
 Decentralized finance ([[Decentralized Finance|DeFi]]) has emerged as an alternative financial system that promises increased autonomy, transparency, and efficiency. However, amidst its growing popularity, there are individuals who hold a deep-seated aversion towards this emerging financial paradigm. This essay aims to explore the reasons why some people harbor a dislike for decentralized finance.

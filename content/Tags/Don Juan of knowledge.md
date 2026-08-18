@@ -2,6 +2,7 @@
 title: "Don Juan of knowledge"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Don Juan of knowledge

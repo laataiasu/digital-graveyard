@@ -1,11 +1,10 @@
 ---
-title: Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)
+title: "Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)"
+date: 2022-01-09
+tags: [book]
+publish_external: false
 author: ابن تيمية
-date: '2022-01-09'
-tags:
-- book
 ---
-
 
 # Principles of Islamic Faith (Al-Aqidah Al-Wasitiyah)
 

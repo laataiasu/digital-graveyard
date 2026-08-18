@@ -2,6 +2,7 @@
 title: "Parallel Programming"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Parallel Programming

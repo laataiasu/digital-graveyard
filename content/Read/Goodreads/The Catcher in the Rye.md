@@ -1,11 +1,10 @@
 ---
-title: The Catcher in the Rye
+title: "The Catcher in the Rye"
+date: 2019-07-08
+tags: [book]
+publish_external: false
 author: J.D. Salinger
-date: '2019-07-08'
-tags:
-- book
 ---
-
 
 # The Catcher in the Rye
 

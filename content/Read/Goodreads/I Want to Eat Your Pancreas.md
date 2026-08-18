@@ -1,11 +1,10 @@
 ---
-title: I Want to Eat Your Pancreas
+title: "I Want to Eat Your Pancreas"
+date: 2020-07-03
+tags: [book]
+publish_external: false
 author: Yoru Sumino
-date: '2020-07-03'
-tags:
-- book
 ---
-
 
 # I Want to Eat Your Pancreas
 

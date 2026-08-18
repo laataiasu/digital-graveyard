@@ -2,6 +2,7 @@
 title: "Financial Engineering and Risk Management Part I - Coursera"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## 001.Course Overview

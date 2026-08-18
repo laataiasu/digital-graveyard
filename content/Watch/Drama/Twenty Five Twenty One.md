@@ -1,16 +1,14 @@
 ---
-title: Twenty-Five Twenty-One
+title: "Twenty-Five Twenty-One"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2022
 type: Korean Drama
 score: 8.0
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Twenty-Five Twenty-One
 

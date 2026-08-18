@@ -1,12 +1,11 @@
 ---
 title: "Windows to Mac Migration"
-date: 2022-10-19T13:12
-tags:
-  - productivity
-  - tips
-updated: 2022-10-19T13:15
+date: 2022-10-19
+tags: [productivity, tips]
 publish_external: true
+updated: "2022-10-19T13:15"
 ---
+
 Alt+tab windows like
 [https://github.com/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
   

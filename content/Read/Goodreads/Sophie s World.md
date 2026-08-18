@@ -1,11 +1,10 @@
 ---
-title: Sophie’s World
+title: "Sophie’s World"
+date: 2020-07-03
+tags: [book]
+publish_external: false
 author: Jostein Gaarder
-date: '2020-07-03'
-tags:
-- book
 ---
-
 
 # Sophie’s World
 

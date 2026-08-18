@@ -1,18 +1,13 @@
 ---
-title: SQL Null Values Ruin My Life
+title: "SQL Null Values Ruin My Life"
 date: 2024-02-13
-tags:
-  - data-engineering
-  - dbt
-  - bigquery
-  - sql
-  - postgres
-  - tech
+tags: [data-engineering, dbt, bigquery, sql, postgres, tech]
+publish_external: true
 hideSummary: true
 enableToc: true
 draft: true
-publish_external: true
 ---
+
 **Background:**
 I'm dealing with columns named "location" and "location_id". Some entries have null values in the "location_id" column, while "location" remains populated. This setup poses a few challenges:
 

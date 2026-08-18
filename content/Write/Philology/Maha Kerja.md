@@ -1,11 +1,11 @@
 ---
-date: 2020-09-12T01:53:00Z
-updated: 2020-09-12T02:01:13.818-07:00
-tags:
-  - literature
-title: Maha Kerja
+title: "Maha Kerja"
+date: 2020-09-12
+tags: [literature]
 publish_external: true
+updated: 2020-09-12
 ---
+
   
 Tujuan akhir dari setiap makhluk hidup adalah untuk beristirahat.    
 Maka saat makhluk hidup mencoba untuk bekerja,    

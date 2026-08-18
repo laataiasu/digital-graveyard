@@ -1,10 +1,10 @@
 ---
-date: '2022-12-25T00:00:00Z'
-tags:
-- muslim
-- journal
-title: A Suppressed Dream
+title: "A Suppressed Dream"
+date: 2022-12-25
+tags: [muslim, journal]
+publish_external: false
 ---
+
 ### Visi
 
 Meningkatkan kesadaran masyarakat akan [[Data-driven]] society 

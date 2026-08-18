@@ -1,9 +1,8 @@
 ---
 title: "[ x ] UNGEZIEFER"
 date: 2022-07-07
-tags:
-- business
-- ideas
+tags: [business, ideas]
+publish_external: false
 ---
 
 username: sisenthu

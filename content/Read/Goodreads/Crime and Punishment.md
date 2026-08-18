@@ -1,11 +1,10 @@
 ---
-title: Crime and Punishment
+title: "Crime and Punishment"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Fyodor Dostoevsky
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # Crime and Punishment
 

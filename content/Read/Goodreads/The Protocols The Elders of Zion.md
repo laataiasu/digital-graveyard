@@ -1,11 +1,10 @@
 ---
-title: 'The Protocols: The Elders of Zion'
+title: "The Protocols: The Elders of Zion"
+date: 2021-10-23
+tags: [book]
+publish_external: false
 author: Sergei Nilus
-date: '2021-10-23'
-tags:
-- book
 ---
-
 
 # The Protocols: The Elders of Zion
 

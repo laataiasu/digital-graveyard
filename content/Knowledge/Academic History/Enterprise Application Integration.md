@@ -1,9 +1,9 @@
 ---
 title: "Enterprise Application Integration"
-aliases: CSIE604275
 date: 2022-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIE604275
 ---
 
 # Enterprise Application Integration

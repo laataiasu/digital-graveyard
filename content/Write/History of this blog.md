@@ -1,10 +1,10 @@
 ---
-date: '2020-05-19T00:00:00Z'
-tags:
-- intro
-- muslim
-title: History of this blog
+title: "History of this blog"
+date: 2020-05-19
+tags: [intro, muslim]
+publish_external: false
 ---
+
 > *"Da steh ich nun, ich armer Tor,
 > und bin so klug als wie zuvor."*
 >

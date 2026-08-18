@@ -1,9 +1,11 @@
 ---
 title: "Hamba"
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 Pengikut partai yang munafik
 
 Pidato ketum

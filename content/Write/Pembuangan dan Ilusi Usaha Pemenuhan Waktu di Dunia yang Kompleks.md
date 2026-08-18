@@ -1,9 +1,10 @@
 ---
-date: '2018-01-01'
-tags:
-- journal
-title: Pembuangan dan Ilusi Usaha Pemenuhan Waktu di Dunia yang Kompleks
+title: "Pembuangan dan Ilusi Usaha Pemenuhan Waktu di Dunia yang Kompleks"
+date: 2018-01-01
+tags: [journal]
+publish_external: false
 ---
+
 ![[buang-waktu.jpg]]
 
 Bumi akan selalu seimbang, kita tetaplah seperti ini, sebagai pelengkap dari keabsahan manusia manusia yang duduk di kursi jabatan dan manusia manusia yang selalu ada di pentas popularitas.

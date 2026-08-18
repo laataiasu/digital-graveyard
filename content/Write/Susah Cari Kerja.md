@@ -1,11 +1,10 @@
 ---
-date: '2022-07-06T17:23:09Z'
-tags:
-- journal
-- review
-- film
-title: Susah Cari Kerja
+title: "Susah Cari Kerja"
+date: 2022-07-06
+tags: [journal, review, film]
+publish_external: false
 ---
+
 ## Cari Magang Kuliah
 
 Selama liburan semester ini, saya berusaha mencari magang untuk meningkatkan pengalaman. Meskipun sebenarnya saya berharap tidak harus magang karena masih memiliki banyak tugas dan film yang jadi todolist. Tapi bohong, saya hanya menolak menerima kenyataan bahwa mendapatkan magang sangat sulit. Meskipun telah mengikuti beberapa wawancara, belum ada hasil yang memuaskan.

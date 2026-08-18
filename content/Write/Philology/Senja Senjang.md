@@ -1,10 +1,11 @@
 ---
-date: '2020-07-20T20:14:00Z'
-updated: '2020-08-04T18:56:15.404-07:00'
-tags:
-- literature
-title: Senja Senjang
+title: "Senja Senjang"
+date: 2020-07-20
+tags: [literature]
+publish_external: false
+updated: "2020-08-04T18:56:15.404-07:00"
 ---
+
   
 Senjang senjang  
 Aku makan kamu tiduran  

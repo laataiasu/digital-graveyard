@@ -1,10 +1,10 @@
 ---
-date: '2023-09-04'
-tags:
-- journal
-- essay
-title: I miss JIRA and I Hate Non-jujutsu Sorcerers
+title: "I miss JIRA and I Hate Non-jujutsu Sorcerers"
+date: 2023-09-04
+tags: [journal, essay]
+publish_external: false
 ---
+
 I miss Slack, Jira, Confluence, and all the project management tools I used to take for granted. The project management course seemed perfect until it had to be implemented in the real world, which is rife with scarcity and limitations.
 
 Implementing a growth mindset often feels challenging because, in many large corporations and government organizations, managers tend to be rigid, resistant to change, and determined to enforce outdated cultures. Despite this, they somehow manage to project an image of success and the right course of action.

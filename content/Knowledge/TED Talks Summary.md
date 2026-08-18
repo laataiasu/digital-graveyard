@@ -1,10 +1,11 @@
 ---
 title: "TED Talks Summary"
-date: 2023-06-06T16:16
-tags:
-- soft-skills
-updated: 2024-01-06T08:36
+date: 2023-06-06
+tags: [soft-skills]
+publish_external: false
+updated: "2024-01-06T08:36"
 ---
+
 #### Ted Summary
 |Name|Created|Tags|
 |---|---|---|

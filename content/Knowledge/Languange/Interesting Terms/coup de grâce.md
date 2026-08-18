@@ -1,7 +1,8 @@
 ---
 title: "coup de grâce"
-date: 2025-08-03T12:13:19+07:00
-tags: ["interesting-terms"]
-publish_external: true
+date: 2025-08-03
+tags: [interesting-terms]
+publish_external: false
 ---
+
 "im in pain, please kill me"

@@ -1,10 +1,10 @@
 ---
-date: '2021-04-05T00:00:00Z'
-tags:
-- muslim
-- essay
-title: Business Process Modeling Organisasi
+title: "Business Process Modeling Organisasi"
+date: 2021-04-05
+tags: [muslim, essay]
+publish_external: false
 ---
+
 ## Mengapa setiap organisasi membutuhkan bisnis process modelling?
 
 Menyamakan bisnis dengan uang

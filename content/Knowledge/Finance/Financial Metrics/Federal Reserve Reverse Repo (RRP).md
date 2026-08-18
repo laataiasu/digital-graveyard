@@ -1,8 +1,10 @@
 ---
 title: "Federal Reserve Reverse Repo (RRP)"
 date: 2001-01-01
-tags: economics
+tags: [economics]
+publish_external: false
 ---
+
 ### Interpreting Federal Reserve Reverse Repo (RRP) Data
 
 The Federal Reserve's Reverse Repo (RRP) operations provide insights into market liquidity and interest rate dynamics. Here’s how to interpret RRP data:

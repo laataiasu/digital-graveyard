@@ -1,11 +1,10 @@
 ---
-title: Hujan Bulan Juni
+title: "Hujan Bulan Juni"
+date: 2019-07-19
+tags: [book]
+publish_external: false
 author: Sapardi Djoko Damono
-date: '2019-07-19'
-tags:
-- book
 ---
-
 
 # Hujan Bulan Juni
 

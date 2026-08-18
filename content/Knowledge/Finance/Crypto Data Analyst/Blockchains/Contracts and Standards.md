@@ -2,6 +2,7 @@
 title: "Contracts and Standards"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## Contracts and Standards

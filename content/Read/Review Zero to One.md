@@ -1,10 +1,8 @@
 ---
-date: '2021-08-21T00:00:00Z'
-tags:
-- review
-- business
-- book
-title: Zero to One
+title: "Zero to One"
+date: 2021-08-21
+tags: [review, business, book]
+publish_external: false
 ---
 
 [[Zero to One Notes on Startups or How to Build the Future]] ditulis sm [[Tags/Figure/Peter Thiel]] 

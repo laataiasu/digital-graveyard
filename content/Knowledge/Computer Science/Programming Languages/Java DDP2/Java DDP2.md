@@ -1,10 +1,11 @@
 ---
 title: "JavaFX"
-date: 2021-06-29T21:28
-tags:
-- java
-updated: 2025-05-11T09:47
+date: 2021-06-29
+tags: [java]
+publish_external: false
+updated: "2025-05-11T09:47"
 ---
+
 - Polymorphism: Berbagai macam bentuk, dengan nama sama namun bentuknya beda
 - Dynamic binding : JVM nyari implementasi yang sesuai sesuai konteks secara dinamis
 - Generic programming: method dapat dipakai secara umum untuk argumen objek berbeda

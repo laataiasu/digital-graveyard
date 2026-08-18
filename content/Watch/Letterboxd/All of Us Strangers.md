@@ -1,10 +1,9 @@
 ---
-title: All of Us Strangers
-date: '2024-02-25'
+title: "All of Us Strangers"
+date: 2024-02-25
+tags: [film]
+publish_external: false
 year: 2023
-letterboxd_uri: https://boxd.it/Bz3C
+letterboxd_uri: "https://boxd.it/Bz3C"
 rating: 1.0
-tags:
-- film
 ---
-

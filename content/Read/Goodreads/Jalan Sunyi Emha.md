@@ -1,11 +1,10 @@
 ---
-title: Jalan Sunyi Emha
+title: "Jalan Sunyi Emha"
+date: 2022-09-18
+tags: [book]
+publish_external: false
 author: Ian L. Betts
-date: '2022-09-18'
-tags:
-- book
 ---
-
 
 # Jalan Sunyi Emha
 

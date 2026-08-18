@@ -1,10 +1,9 @@
 ---
 title: "Andrej Karpathy"
 date: 2001-01-01
-tags:
-- figure
-- modern-thinker
-- technology
+tags: [figure, modern-thinker, technology]
+publish_external: false
 ---
+
 # Andrej Karpathy
 

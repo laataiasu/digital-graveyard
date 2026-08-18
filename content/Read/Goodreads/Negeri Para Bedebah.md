@@ -1,11 +1,10 @@
 ---
-title: Negeri Para Bedebah
+title: "Negeri Para Bedebah"
+date: 2018-09-16
+tags: [book]
+publish_external: false
 author: Tere Liye
-date: '2018-09-16'
-tags:
-- book
 ---
-
 
 # Negeri Para Bedebah
 

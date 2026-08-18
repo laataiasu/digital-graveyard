@@ -1,11 +1,11 @@
 ---
-date: 2019-08-03T00:24:00Z
-updated: 2019-08-03T00:24:28.528-07:00
-tags:
-  - literature
-title: Kertas
+title: "Kertas"
+date: 2019-08-03
+tags: [literature]
 publish_external: true
+updated: 2019-08-03
 ---
+
   
 Kertas kosong penunggu tinta  
 Lapuk karam didobrak qada  

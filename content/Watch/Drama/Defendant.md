@@ -1,16 +1,14 @@
 ---
-title: Defendant
+title: "Defendant"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2017
 type: Korean Drama
 score: 8.0
 progress: 18/18
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Defendant
 

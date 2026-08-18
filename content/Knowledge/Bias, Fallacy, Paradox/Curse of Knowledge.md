@@ -2,6 +2,7 @@
 title: "Curse of Knowledge"
 date: 2026-05-19
 tags: []
+publish_external: false
 ---
 
 The **Curse of Knowledge Bias** is a cognitive bias where someone who knows a lot about a topic struggles to imagine what it's like **not** to know it. This makes it hard for them to communicate effectively with someone less informed.

@@ -1,8 +1,7 @@
 ---
 title: "Piracy"
 date: 2001-01-01
-aliases:
-  - Pirating
-  - pirating
 tags: []
+publish_external: false
+aliases: [Pirating, pirating]
 ---

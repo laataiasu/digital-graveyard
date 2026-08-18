@@ -1,11 +1,10 @@
 ---
-title: Ibn Tufayl's Hayy Ibn Yaqzan
+title: "Ibn Tufayl's Hayy Ibn Yaqzan"
+date: 2021-07-15
+tags: [book]
+publish_external: false
 author: Ibn Tufail
-date: '2021-07-15'
-tags:
-- book
 ---
-
 
 # Ibn Tufayl's Hayy Ibn Yaqzan
 

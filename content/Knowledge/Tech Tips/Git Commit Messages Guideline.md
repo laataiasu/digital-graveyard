@@ -1,12 +1,12 @@
 ---
-title: Git Commit Messages Guideline
-date: 2025-07-06T09:03:28+07:00
-draft: false
-tags:
-  - tech
-enableToc: false
+title: "Git Commit Messages Guideline"
+date: 2025-07-06
+tags: [tech]
 publish_external: true
+draft: false
+enableToc: false
 ---
+
 A good Git commit message helps you and others understand **what** changed and **why**. Here's a practical guide to writing clear, consist
 # Git Commit Messages Guideline
 

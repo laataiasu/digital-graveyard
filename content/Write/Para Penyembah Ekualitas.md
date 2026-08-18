@@ -1,9 +1,10 @@
 ---
-date: '2018-09-20'
-tags:
-- journal
-title: Para Penyembah Ekualitas
+title: "Para Penyembah Ekualitas"
+date: 2018-09-20
+tags: [journal]
+publish_external: false
 ---
+
 ![[penyembah-ekualitas.jpg]]
 
 Lihatlah mereka!

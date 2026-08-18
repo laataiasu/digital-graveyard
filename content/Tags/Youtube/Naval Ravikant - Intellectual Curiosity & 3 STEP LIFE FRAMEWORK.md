@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:04:01+07:00
-title: Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK
-tags:
-  - youtube
-aliases: 
-source:
+title: "Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # Naval Ravikant - Intellectual Curiosity & 3 STEP LIFE FRAMEWORK

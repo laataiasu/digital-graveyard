@@ -1,13 +1,11 @@
 ---
-date: '2020-11-15T11:44:01Z'
-tags:
-- essay
-- pseudocomedy
-- muslim
-timeline_notification:
-- '1605415446'
-title: The Law of Comedy ~ Part 1
+title: "The Law of Comedy ~ Part 1"
+date: 2020-11-15
+tags: [essay, pseudocomedy, muslim]
+publish_external: false
+timeline_notification: [1605415446]
 ---
+
 ![[https://youtu.be/0C5UQbWzwg8]]
 
 Considered I am a conservative or democratic or liberal or anything, because actually any typology of ideology, everything is all the same.

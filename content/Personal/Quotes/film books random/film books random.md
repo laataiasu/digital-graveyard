@@ -1,10 +1,10 @@
 ---
 title: "Silicon Valley"
 date: 2001-01-01
-tags:
-- book
-- film
+tags: [book, film]
+publish_external: false
 ---
+
 - [[Silicon Valley]]
     - [[Galvin Belson]]
     - [[Bighead]]
@@ -53,10 +53,10 @@ Patung itu telanjang dan kesepian
 # Friday: Forbidden Tales
 What kind of crime do you want to commit for doing so much good
 
-# [[Haikyuu]]
+# Haikyuu
 It was just one block. It was just one point out of 25. This is just a club. (But once that moment arrives for you, that’s the moment you’ll be hooked on [[Volleyball]]).
 
-# [[Nassim Nicholas Taleb]] 
+# Nassim Nicholas Taleb 
 silent bias, vicious bias, ludic fallacy
 don't shoot for equality shoot for a high bankruptcy rate
 # Mandelbrot

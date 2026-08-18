@@ -1,9 +1,10 @@
 ---
-date: '2016-03-22'
-tags:
-- essay
-title: 'Keberagamaan dan Relevansi Membaca: Perlukah?'
+title: "Keberagamaan dan Relevansi Membaca: Perlukah?"
+date: 2016-03-22
+tags: [essay]
+publish_external: false
 ---
+
 ![[keberagamaan-dan-relevansi-membaca-perlukah.jpg]]
 
 Pertanyaan yang sebenarnya super gampang banget, tapi buat menjawab pertanyaan ini, ane harus cari hal yang bisa dipertanggungjawabkan secara intelek nih. Jawabannya sih iya, kalau dilihat dari sudut pandang manusia biasa yang suka banget sama ilmu pengetahuan, karena dengan pengetahuan itu dia bisa jadi berkuasa gitu loh.

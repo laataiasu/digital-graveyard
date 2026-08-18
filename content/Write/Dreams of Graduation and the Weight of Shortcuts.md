@@ -4,6 +4,7 @@ date: 2026-03-15
 tags: [journal, education, regret, integrity, dreams]
 publish_external: true
 ---
+
 It has been about three years since I graduated from university, but I still occasionally have dreams where I haven't actually finished. In these dreams, I have failed a class, missed a test due to laziness, or found out I cannot graduate for some other reason. I always wake up feeling incredibly anxious.
 
 Truthfully, I graduated prematurely, and not in a good way. My journey was messy. I quarreled with the Dean because I forgot to add a class to my study plan (IRS); he told me my etiquette was poor, though he eventually forgave me and let me edit it past the deadline.

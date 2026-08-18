@@ -1,9 +1,10 @@
 ---
-date: '2021-12-30T00:00:00Z'
-tags:
-- literature
-title: Gorengan
+title: "Gorengan"
+date: 2021-12-30
+tags: [literature]
+publish_external: false
 ---
+
   
 Jika aku hidup di tahun pandemi,   
 aku akan berjalan setiap pagi mendagangkan gorenganku  

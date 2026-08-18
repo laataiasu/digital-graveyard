@@ -1,9 +1,10 @@
 ---
-date: '2019-11-12'
-tags:
-- journal
-title: Starting Diary
+title: "Starting Diary"
+date: 2019-11-12
+tags: [journal]
+publish_external: false
 ---
+
 Today, I decided to jot down my college activities. It's like something I've never experienced before. When it comes to adaptation, I used to think it was easy. Therefore, I underestimated the facilities provided by the university, such as the regional student association and student orientation time. I underrated those things, and now I regret it.
 
 Initially, I tried to adapt as hard as I could and completed the assignments given by the seniors for the student orientation time in my faculty. But I did that just to complete the assignment; I didn't seek the essence of the program. Then, while everyone else found their peer groups or circles, I found myself alone during my academic time. I do have a friend, but he is introverted and much smarter than me. Although I'm introverted too, he is significantly smarter, making it challenging for me to balance our interactions.

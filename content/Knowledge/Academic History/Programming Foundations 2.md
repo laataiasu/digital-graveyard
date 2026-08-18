@@ -1,9 +1,9 @@
 ---
 title: "Programming Foundations 2"
-aliases: CSGE601021
 date: 2020-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSGE601021
 ---
 
 # Programming Foundations 2

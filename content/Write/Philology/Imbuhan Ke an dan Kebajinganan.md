@@ -1,11 +1,11 @@
 ---
-date: 2019-08-03T00:36:00Z
-updated: 2020-07-20T20:33:59.623-07:00
-tags:
-  - literature
-title: Imbuhan Ke-an dan Kebajinganan
+title: "Imbuhan Ke-an dan Kebajinganan"
+date: 2019-08-03
+tags: [literature]
 publish_external: true
+updated: 2020-07-20
 ---
+
   
 Imbuhan ke an  
 Dan kebajinganan  

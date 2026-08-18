@@ -1,10 +1,10 @@
 ---
-date: '2023-09-05'
-tags:
-- journal
-- muslim
-title: 'Sakamoto Unmasked: Navigating Tyranny with Elegance'
+title: "Sakamoto Unmasked: Navigating Tyranny with Elegance"
+date: 2023-09-05
+tags: [journal, muslim]
+publish_external: false
 ---
+
 ![[sakamoto faces.jpg]]
 
 Man is mortal; thus, every man is replaceable.

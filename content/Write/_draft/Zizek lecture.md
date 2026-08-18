@@ -1,9 +1,11 @@
 ---
-title: "\"Your Anxiety is Telling You the Truth.\""
+title: "Your Anxiety is Telling You the Truth."
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 # "Your Anxiety is Telling You the Truth."
 
 - [[Anxiety]] is related to freedom, drawing from Kierkegaard's concept of [[Anxiety]] as the dizziness of freedom, how freedom requires making choices and imposing limitations on oneself.
@@ -13,7 +15,7 @@ tags: []
 - Jack White's [[Music]] highlights the importance of creating limitations and small rooms for creativity.
 - The paradox of freedom is that it is accessed indirectly, requiring limitations.
 
-## [[Jacques Lacan|Lacan]], [[Sigmund Freud|Freud]], and [[Georg Wilhelm Friedrich Hegel||]] 
+## Jacques Lacan|Lacan, [[Sigmund Freud|Freud]], and [[Georg Wilhelm Friedrich Hegel||]] 
 - Lacanian theory suggests that [[Anxiety]] is a mode of truth and arises when we get what we want.
 - Lacan argues that desire is insurmountable and essential to our sense of self.
 - Freud's theory of [[Anxiety]] revolves around fear of separation from the object of desire.
@@ -21,7 +23,7 @@ tags: []
 - Idealism (naive, critical, self-reflective) and materialism are contrasting philosophical approaches.
 - Hegelian speculative idealism upends the previous idealist approaches.
 
-## [[Immanuel Kant|Kant]] and Christians
+## Immanuel Kant|Kant and Christians
 - Kantian self-reflective idealism suggests that truth is mediated through conceptual reason.
 - Some Christians talk about the freedom they find in being [[Christian]], seeing Christianity as liberating.
 - GK Chesterton describes Christianity as an armor that restricts movement but underneath it is unmitigated joy and freedom.
@@ -37,7 +39,7 @@ tags: []
 - Impressionism introduced negation and abstraction into art, challenging the traditional depiction of objects and subjects.
 - The true master is the one who acts so freely that others recognize their own freedom.
 
-## [[One_piece]] :v
+## One_piece :v
 - Luffy from the manga series "One Piece" exemplifies the Hegelian master, setting others free through his absolute freedom and indifference to societal norms.
 - Freedom is contagious, and when we act autonomously and freely, we inspire others to do the same.
 - Freedom is not about being better or more successful than others but about doing something that sets others free.

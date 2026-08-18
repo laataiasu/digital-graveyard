@@ -1,10 +1,11 @@
 ---
-date: '2017-08-18T11:21:00Z'
-updated: '2020-08-24T11:21:58.267-07:00'
-tags:
-- literature
-title: Ketek
+title: "Ketek"
+date: 2017-08-18
+tags: [literature]
+publish_external: false
+updated: "2020-08-24T11:21:58.267-07:00"
 ---
+
   
 Dunia teh kecut ih,  
 kaya ketek kamu  

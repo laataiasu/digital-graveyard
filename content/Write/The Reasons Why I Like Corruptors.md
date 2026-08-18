@@ -1,11 +1,11 @@
 ---
-date: '2021-01-26T10:29:52Z'
-tags:
-- essay
-timeline_notification:
-- '1611631796'
-title: The Reasons Why I Like Corruptors
+title: "The Reasons Why I Like Corruptors"
+date: 2021-01-26
+tags: [essay]
+publish_external: false
+timeline_notification: [1611631796]
 ---
+
 ![[024529900_1492661684-korupsi_400.jpg]]
 
 "Am I a good teacher?"

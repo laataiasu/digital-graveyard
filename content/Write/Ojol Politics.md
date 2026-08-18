@@ -1,11 +1,12 @@
 ---
-title: Ojol Politics
+title: "Ojol Politics"
 date: 2024-02-12
-tags:
-  - pemilu
+tags: [pemilu]
+publish_external: false
 hideSummary: true
 draft: false
 ---
+
 I have talked with a Gojek driver.
 
 We talked about the [[Gojek]] and [[Grab]] merger, then suddenly delved into politics.

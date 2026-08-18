@@ -1,11 +1,11 @@
 ---
 title: "Don't lie"
 date: 2021-07-09
-tags:
-- draft
-- ideas
+tags: [draft, ideas]
+publish_external: false
 draft: true
 ---
+
 Bu hetty
 
 gambar bukannya menyaingi the omnipotent, but the omnipotent made it when slave fight, everything will be binasa  

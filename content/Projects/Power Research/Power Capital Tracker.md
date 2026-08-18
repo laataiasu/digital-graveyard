@@ -2,6 +2,7 @@
 title: "Power Capital Tracker"
 date: 2026-05-19
 tags: []
+publish_external: false
 ---
 
 ## 🧱 “Power Capital Tracker”

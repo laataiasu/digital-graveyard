@@ -1,9 +1,10 @@
 ---
-date: '2022-04-27T00:00:00Z'
-tags:
-- literature
-title: Just Pretend
+title: "Just Pretend"
+date: 2022-04-27
+tags: [literature]
+publish_external: false
 ---
+
   
 Try to be funny. No longer funny any more. Try to be sad and regret. But it's just a drama and an act. When I'm blaming, that's the real me. At least that's what I thought, until I get accused. Then I blame something. It turns out I never know. What is the real me. Who is the real me.  
   

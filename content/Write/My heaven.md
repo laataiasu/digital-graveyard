@@ -1,9 +1,10 @@
 ---
-date: '2023-05-03T00:00:00Z'
-tags:
-- journal
-title: My heaven
+title: "My heaven"
+date: 2023-05-03
+tags: [journal]
+publish_external: false
 ---
+
 ![[devils-may-cry.jpg]]
 
 Riding a motorcycle to spend time wondering about this nonsense complexity, it's like everything is nonsense. How would someone live in the present moment? By ignoring something that happened parallelly or in the past or in the future or even in the present. In that case, the will to ignore is the most greedy among the will of other things. I lose my ability to enjoy any Dionysian kind of environment and situation. It's like when you're chatting with someone, joking about anything, seeing the blue sea and blue sky, the greenness and brown of the mountain, the sound of ugly birds and cats striving for prey, the twilight of the sky in the afternoon, the fresh air and cold wind whenever the atmosphere is hot. That's it, what you need is the hot, something that tolerates the hotness in an eternal way is eternal hotness itself, it is never eternal fresh, or cold. 

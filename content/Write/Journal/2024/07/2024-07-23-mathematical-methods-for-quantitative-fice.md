@@ -1,10 +1,12 @@
 ---
 title: "Mathematical Methods for Quantitative Finance"
 date: 2024-07-23
-source: "edX"
 tags: [finance]
+publish_external: false
+source: edX
 draft: true
 ---
+
 ## Details
 Time_Series_Models
 

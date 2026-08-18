@@ -1,9 +1,10 @@
 ---
 title: "Peter Thiel"
-tags:
-  - figure
 date: 2026-05-19
+tags: [figure]
+publish_external: false
 ---
+
 [[Private Equity]] 
 [[Macro-Finance]]
 [[Venture Capital]]

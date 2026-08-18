@@ -1,10 +1,10 @@
 ---
-date: '2023-01-13T00:00:00Z'
-tags:
-- film
-- review
-title: 'Chunking Express: Betapa Culasnya Sentuhan Kehidupan'
+title: "Chunking Express: Betapa Culasnya Sentuhan Kehidupan"
+date: 2023-01-13
+tags: [film, review]
+publish_external: false
 ---
+
 ![[https://youtu.be/TXceE8x-9GA]]
 
 Saya jadi ingat nangis kejer-kejer setelah menonton Chungking Express yang sebenarnya tidak ada adegan sedihnya sama sekali. Kesendirian kronis itu seperti bom waktu dan cara menjinakkannya secara sementara adalah dengan berpura-pura menjadi binatang atau tuhan. Bahwa kata-kata itu busuk dan tidak ada gunanya, setiap kode yang ditampilkan melalui gerak bicara juga sia-sia belaka. 

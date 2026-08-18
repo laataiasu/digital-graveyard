@@ -1,10 +1,10 @@
 ---
-date: 2023-04-05T00:00:00Z
-tags:
-  - literature
-title: Knowledge Aversion or The Dawn of Pacman
+title: "Knowledge Aversion or The Dawn of Pacman"
+date: 2023-04-05
+tags: [literature]
 publish_external: true
 ---
+
   
 ![[4324eef5-94c3-40fc-9beb-d3346f0f2ac2.jpg]]  
   

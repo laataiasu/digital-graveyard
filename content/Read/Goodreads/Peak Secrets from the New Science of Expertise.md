@@ -1,11 +1,10 @@
 ---
-title: 'Peak: Secrets from the New Science of Expertise'
+title: "Peak: Secrets from the New Science of Expertise"
+date: 2021-02-20
+tags: [book]
+publish_external: false
 author: K. Anders Ericsson
-date: '2021-02-20'
-tags:
-- book
 ---
-
 
 # Peak: Secrets from the New Science of Expertise
 

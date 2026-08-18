@@ -1,9 +1,11 @@
 ---
 title: "Storiette"
 date: 2001-01-01
-draft: true
 tags: []
+publish_external: false
+draft: true
 ---
+
 [[2050]]
 [[Aber]]
 [[Keluarga Imran]]

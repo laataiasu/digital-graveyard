@@ -1,11 +1,10 @@
 ---
-title: Kafka on the Shore
+title: "Kafka on the Shore"
+date: 2020-08-27
+tags: [book]
+publish_external: false
 author: Haruki Murakami
-date: '2020-08-27'
-tags:
-- book
 ---
-
 
 # Kafka on the Shore
 

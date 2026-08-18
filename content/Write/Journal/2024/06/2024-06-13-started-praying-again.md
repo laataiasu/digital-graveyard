@@ -1,10 +1,11 @@
 ---
+title: "Started Praying Again"
 date: 2024-06-13
-tags:
-- journal
-title: Started Praying Again
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-06-13
 
 This month I pray again. I give up to live an [[Agnosticism/agnostic]]/atheistic life. Laziness or ADHD I don't know which one is it, but it's hard for me to focus on something. I still don't know what I want. That's why I pray, because I really don't know what I want.

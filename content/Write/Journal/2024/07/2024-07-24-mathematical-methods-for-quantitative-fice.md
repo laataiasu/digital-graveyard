@@ -1,10 +1,12 @@
 ---
 title: "Mathematical Methods for Quantitative Finance"
 date: 2024-07-24
-source: "edX"
 tags: [finance]
+publish_external: false
+source: edX
 draft: true
 ---
+
 ## Details
 Introduction_to_Continuous-Time_Stochastic_Processes
 

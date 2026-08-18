@@ -1,10 +1,10 @@
 ---
-date: '2020-09-15'
-tags:
-- muslim
-- essay
-title: Kekonyolan Sertifikasi Dai Kemenag
+title: "Kekonyolan Sertifikasi Dai Kemenag"
+date: 2020-09-15
+tags: [muslim, essay]
+publish_external: false
 ---
+
 https://news.detik.com/berita/d-5168493/cerita-di-balik-kontroversi-sertifikasi-dai-kemenag---mui
 
 Kelompok lain sudah menggunakan kecerdasan buatan (AI) untuk memanipulasi [[Data]] dan psikologi massa dalam rangka memenangkan pemilu. Namun, pada saat yang sama, kita tengah menghadapi perpecahan di antara rakyat menggunakan metode sertifikasi yang beragam. Semua ini terjadi di tengah situasi pandemi yang lebih memperburuk keadaan. Saya mengerti bahwa tujuannya mungkin ingin meredakan perbedaan pendapat, tetapi seolah-olah kita sedang menciptakan masalah yang lebih besar di masa depan dengan menciptakan ketegangan yang lebih besar di antara kelompok-kelompok yang berbeda.

@@ -1,10 +1,12 @@
 ---
 title: "Do Nothing"
 date: 2024-09-01
-source: ""
 tags: [compsci]
+publish_external: false
+source: null
 draft: true
 ---
+
 ## Details
 
 

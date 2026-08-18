@@ -1,9 +1,9 @@
 ---
 title: "Web Design & Programming"
-aliases: CSGE602022
 date: 2020-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSGE602022
 ---
 
 # Web Design & Programming

@@ -2,8 +2,8 @@
 title: "Personal Curiculum"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
-
 
 ---
 date: 2024-01-12T11:12

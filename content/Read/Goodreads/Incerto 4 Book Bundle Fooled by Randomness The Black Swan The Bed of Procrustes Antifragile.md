@@ -1,12 +1,10 @@
 ---
-title: 'Incerto 4-Book Bundle: Fooled by Randomness, The Black Swan, The Bed of Procrustes,
-  Antifragile'
+title: "Incerto 4-Book Bundle: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile"
+date: 2023-01-20
+tags: [book]
+publish_external: false
 author: Nassim Nicholas Taleb
-date: '2023-01-20'
-tags:
-- book
 ---
-
 
 # Incerto 4-Book Bundle: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile
 

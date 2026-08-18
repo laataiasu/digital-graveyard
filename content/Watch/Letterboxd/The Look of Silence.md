@@ -1,10 +1,9 @@
 ---
-title: The Look of Silence
-date: '2023-07-04'
+title: "The Look of Silence"
+date: 2023-07-04
+tags: [film]
+publish_external: false
 year: 2014
-letterboxd_uri: https://boxd.it/8006
+letterboxd_uri: "https://boxd.it/8006"
 rating: 2.5
-tags:
-- film
 ---
-

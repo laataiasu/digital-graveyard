@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:03:58+07:00
-title: Jerzy Gregorek Tim Ferriss
-tags:
-  - youtube
-aliases: 
-source:
+title: "Jerzy Gregorek Tim Ferriss"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 ### Jerzy Gregorek Interview Highlights

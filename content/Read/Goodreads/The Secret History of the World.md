@@ -1,11 +1,10 @@
 ---
-title: The Secret History of the World
+title: "The Secret History of the World"
+date: 2020-07-03
+tags: [book]
+publish_external: false
 author: Jonathan  Black
-date: '2020-07-03'
-tags:
-- book
 ---
-
 
 # The Secret History of the World
 

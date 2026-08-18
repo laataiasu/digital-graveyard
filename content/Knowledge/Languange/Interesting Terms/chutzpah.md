@@ -1,8 +1,8 @@
 ---
-title: chutzpah
-date: 2025-07-07T15:45:44+07:00
+title: "chutzpah"
+date: 2025-07-07
+tags: [interesting-terms]
 publish_external: true
-tags:
-  - interesting-terms
 ---
+
 boldness, questioning authority

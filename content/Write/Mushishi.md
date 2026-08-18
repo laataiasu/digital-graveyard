@@ -1,10 +1,10 @@
 ---
-date: '2020-09-09T00:00:00Z'
-tags:
-- film
-- review
-title: Mushishi
+title: "Mushishi"
+date: 2020-09-09
+tags: [film, review]
+publish_external: false
 ---
+
 ![[deadfish-mushishi-01-bd720paac-mp4_snapshot_09-14_2014-05-08_17-13-11.jpg]]
 
 Growth mindset or whatever it is, every person can have it. But most of them (I don't want to include myself lol) just simply can't achieve the implementation and the realization of that mind set. It is just they can't. Trying to be more productive, want to achieve more, programming own mind, it is really suck, especially when you are grow in environment which *condong* to instant gratification and not stressing something to be more meaningful. And when you are just conscious and realized about your past, the present just lazy to change. There will be a change, a delta, but it is so little and it is not something that you expect at the moment you realized.

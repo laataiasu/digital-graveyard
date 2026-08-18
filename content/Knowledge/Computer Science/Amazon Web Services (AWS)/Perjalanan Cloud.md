@@ -2,6 +2,7 @@
 title: "Perjalanan Cloud"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 AWS Well-Architected Framework adalah layanan untuk mengevaluasi arsitektur yang Anda bangun terhadap keunggulan pada beberapa kategori atau disebut dengan pilar, di antaranya:

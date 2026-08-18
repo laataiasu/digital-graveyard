@@ -2,6 +2,7 @@
 title: "Business Process Model and Notation"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 Camunda **does not natively support "code-as-diagram" syntax like Mermaid**, where you write textual code and automatically render a diagram. Camunda BPMN diagrams are typically created using **drag-and-drop graphical tools**, such as:

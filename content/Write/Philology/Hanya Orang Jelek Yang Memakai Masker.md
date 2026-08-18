@@ -1,10 +1,11 @@
 ---
-date: '2021-01-04T01:00:00Z'
-updated: '2021-01-16T16:20:49.332-08:00'
-tags:
-- literature
-title: Hanya Orang Jelek Yang Memakai Masker
+title: "Hanya Orang Jelek Yang Memakai Masker"
+date: 2021-01-04
+tags: [literature]
+publish_external: false
+updated: "2021-01-16T16:20:49.332-08:00"
 ---
+
   
 Yang memakai masker hanyalah orang jelek atau sakit  
 Jelek bisa digeneralisir sebagai sakit  

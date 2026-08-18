@@ -2,6 +2,7 @@
 title: "Decentralized Finance (DeFi) The Future of Finance Specialization - Coursera"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## 1. Decentralized Finance ([[Decentralized Finance|DeFi]]) Infrastructure

@@ -1,9 +1,10 @@
 ---
-date: '2021-06-23T00:00:00Z'
-tags:
-- essay
-title: 'The Illusion of Money: Exploring Ideology, Social Proof, and Economic Disparities'
+title: "The Illusion of Money: Exploring Ideology, Social Proof, and Economic Disparities"
+date: 2021-06-23
+tags: [essay]
+publish_external: false
 ---
+
 Title: 
 
 Introduction:

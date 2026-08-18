@@ -1,11 +1,11 @@
 ---
 title: "Amazon Web Services (AWS)"
-date: 2021-08-06T18:46
-tags:
-- cloud
-- infrastructure
-updated: 2023-09-30T09:31
+date: 2021-08-06
+tags: [cloud, infrastructure]
+publish_external: false
+updated: "2023-09-30T09:31"
 ---
+
 [[Basic Service]]
 [[Global Infrastructure]]
 [[Network]]

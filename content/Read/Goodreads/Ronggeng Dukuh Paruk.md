@@ -1,11 +1,10 @@
 ---
-title: Ronggeng Dukuh Paruk
+title: "Ronggeng Dukuh Paruk"
+date: 2023-01-09
+tags: [book]
+publish_external: false
 author: Ahmad Tohari
-date: '2023-01-09'
-tags:
-- book
 ---
-
 
 # Ronggeng Dukuh Paruk
 

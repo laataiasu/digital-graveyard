@@ -1,10 +1,9 @@
 ---
 title: "If Not You, Then Who?"
-author: Allison Kluger
 date: 2025-07-16
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
+author: Allison Kluger
 ---
 
 ## Key Life Lessons

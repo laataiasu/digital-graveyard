@@ -1,16 +1,14 @@
 ---
-title: Hello Ghost
+title: "Hello Ghost"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2010
 type: Korean Movie
 score: 8.5
 progress: 1/1
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Hello Ghost
 

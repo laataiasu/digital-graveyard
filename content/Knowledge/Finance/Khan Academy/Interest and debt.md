@@ -2,6 +2,7 @@
 title: "Interest and debt"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 Result from compounding interest = Modal (1+ bunga )^tahun

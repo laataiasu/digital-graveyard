@@ -1,11 +1,10 @@
 ---
-date: '2023-02-23T00:00:00Z'
-tags:
-- journal
-- review
-- film
-title: Humor and Love Part 2
+title: "Humor and Love Part 2"
+date: 2023-02-23
+tags: [journal, review, film]
+publish_external: false
 ---
+
 Aku ini orang mati. Siapa yang bertanggung jawab saat aku lepas kendali. Apakah kendali diri itu nyata? 
 Aku selalu mencari alasan dibalik suatu kemungkinan terburuk yang pernah terjadi. Carpe diem, bisikan setan itu lah yang selalu memaksaku bertindak konyol. Aku ini pengecut, yang tidak berani mati. Begitu hampanya malaikat karena tidak bernafsu, maka nafsu ini suatu anugrah yang hanya untuk manusia bukan? Bila menjadi manusia adalah menjadi bernafsu, maka untuk apa aku tahan semua ini. 
 

@@ -1,9 +1,10 @@
 ---
-date: '2023-11-25'
-tags:
-- journal
-title: We can always be greedily grateful
+title: "We can always be greedily grateful"
+date: 2023-11-25
+tags: [journal]
+publish_external: false
 ---
+
 Everyone is so terrified to look inside because we're indoctrinated to follow a general standard.
 
 In a distant land, a hikkikomori strives to create a game considered to live a fulfilling life.

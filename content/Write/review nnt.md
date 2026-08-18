@@ -1,8 +1,10 @@
 ---
 title: "review nnt"
-date: 2024-06-17T11:15:15+07:00
-tags: ["journal"]
+date: 2024-06-17
+tags: [journal]
+publish_external: false
 ---
+
 ## My Review
 
 [[Nassim Nicholas Taleb]]

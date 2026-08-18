@@ -1,12 +1,10 @@
 ---
-date: '2022-04-30T00:00:00Z'
-tags:
-- ngidol
-- business
-- essay
-title: Analisis Sistem Informasi JKT48 di Tahun Pandemi
+title: "Analisis Sistem Informasi JKT48 di Tahun Pandemi"
+date: 2022-04-30
+tags: [ngidol, business, essay]
 publish_external: true
 ---
+
 ![[shun-imai-odd-taxi.jpg]]
 
 ### Analisis [[Information System|Sistem Informasi]] JKT48 di Tahun Pandemi

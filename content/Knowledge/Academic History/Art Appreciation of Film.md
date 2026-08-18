@@ -1,9 +1,9 @@
 ---
 title: "Art Appreciation of Film"
-aliases: UIGE600020
 date: 2020-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: UIGE600020
 ---
 
 # Art Appreciation of Film

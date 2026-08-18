@@ -1,9 +1,10 @@
 ---
-date: '2023-04-26'
-tags:
-- journal
-title: Reason Why I Am Not Close With My Family
+title: "Reason Why I Am Not Close With My Family"
+date: 2023-04-26
+tags: [journal]
+publish_external: false
 ---
+
 So let’s explored my history. This is very subjective, have characteristic of psychoanalysis, and justification of my wrongdoing to my Family.
 About daddy isues: My dad went to [[Iran]] when I was a baby if I’m not wrong, and he cameback when I was before kindergarten. I still close with my Family. When I was in elementary school, my mother went to Hajj and at that time maybe I’m kind of struggling, but I think there’s no really an effect on my development.
 

@@ -1,10 +1,12 @@
 ---
 title: "AI for Trading"
 date: 2024-07-27
-source: "Udacity"
 tags: [finance]
+publish_external: false
+source: Udacity
 draft: true
 ---
+
 ## Details
 project 3 Smart-Beta
 

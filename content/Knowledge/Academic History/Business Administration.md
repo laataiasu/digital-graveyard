@@ -1,9 +1,9 @@
 ---
 title: "Business Administration"
-aliases: CSIM602160
 date: 2020-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIM602160
 ---
 
 # Business Administration

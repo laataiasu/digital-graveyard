@@ -1,11 +1,9 @@
 ---
 title: "Research Methodology & Scientific Writing"
-aliases:
-  - CSGE603291
-  - MPPI
 date: 2021-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: [CSGE603291, MPPI]
 ---
 
 # Research Methodology & Scientific Writing

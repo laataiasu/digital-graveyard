@@ -1,11 +1,10 @@
 ---
-title: Animal Farm
+title: "Animal Farm"
+date: 2020-11-23
+tags: [book]
+publish_external: false
 author: George Orwell
-date: '2020-11-23'
-tags:
-- book
 ---
-
 
 # Animal Farm
 

@@ -1,9 +1,10 @@
 ---
-date: '2020-10-20T00:00:00Z'
-tags:
-- journal
-title: Fiksi Kuning Goblok
+title: "Fiksi Kuning Goblok"
+date: 2020-10-20
+tags: [journal]
+publish_external: false
 ---
+
 Kebencian itu tidak pernah berdasar. 
 
 Siapa kamu aku juga tidak tau, pertama lihat tidak ada darimu yang beda. Tapi mungkin banyak yang beda dariku melihat kamu lebih dari yang aku lihat, maka semuanya bersorak bahwa kamu itu lucu. Aku masa bodoh dengan kawanan pemuja visual sebenarnya. Tapi barangkali aku juga perlu untuk ikut dalam perkumpulan seperti itu agar merasa dapat diterima. Barangkali harus berpura-pura bodoh atau suka terhadap sesuatu yang sesuai dengan perkumpulan, atau engkau akan dicap sebagai ia yang tidak bisa hidup di masyarakat. Maka aku coba berkata bahwa kamu juga lucu seperti yang mereka katakan.

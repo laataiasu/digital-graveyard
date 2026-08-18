@@ -1,11 +1,11 @@
 ---
 title: "Custom DNS"
-date: 2023-12-23T11:15
-tags:
-  - tips
-updated: 2025-05-11T09:48
+date: 2023-12-23
+tags: [tips]
 publish_external: true
+updated: "2025-05-11T09:48"
 ---
+
 Custom DNS Available for Android Pie & Q
 - Change it under Settings>Network & Internet > Private DNS
 1. CloudFlare DNS (recommended)

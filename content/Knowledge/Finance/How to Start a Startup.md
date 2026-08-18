@@ -2,6 +2,7 @@
 title: "Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)

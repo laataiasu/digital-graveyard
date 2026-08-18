@@ -1,7 +1,7 @@
 ---
 title: "Religion Is Losing -- Not to Atheism, But to Algorithms"
-date: 2025-12-08T19:40:31+07:00
-tags: ["journal", "essay"]
+date: 2025-12-08
+tags: [journal, essay]
 publish_external: true
 ---
 

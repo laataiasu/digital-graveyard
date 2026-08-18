@@ -2,6 +2,7 @@
 title: "Ide Proyek Data Related"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Ide Proyek Data Related

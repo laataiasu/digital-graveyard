@@ -1,9 +1,9 @@
 ---
 title: "Islamic Religious Instruction"
-aliases: UIGE600010
 date: 2020-08-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: UIGE600010
 ---
 
 # Islamic Religious Instruction

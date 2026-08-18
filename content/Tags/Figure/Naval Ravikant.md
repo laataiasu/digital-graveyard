@@ -1,11 +1,10 @@
 ---
 title: "Naval Ravikant"
 date: 2001-01-01
-tags:
-- economics
-- figure
-- modern-thinker
+tags: [economics, figure, modern-thinker]
+publish_external: false
 ---
+
 # Naval Ravikant
 
 ## Best Of

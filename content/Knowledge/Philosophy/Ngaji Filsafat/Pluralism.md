@@ -1,9 +1,10 @@
 ---
-title: "**Pluralisme**"
+title: "Pluralisme"
 date: 2001-01-01
-publish_external: true
 tags: []
+publish_external: true
 ---
+
 # **Pluralisme**
 Semuanya saling memengaruhi, tidak hanya bersifat jiwa ata materi ata dualisme
 Tidak ada sistem atau fenomena yang dapat dijelaskan oleh hanya variabel tunggal, ada banyak varibel yang memengaruhi.

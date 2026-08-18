@@ -1,9 +1,10 @@
 ---
-date: '2020-08-04T00:00:00Z'
-tags:
-- journal
-title: Untuk Okihita
+title: "Untuk Okihita"
+date: 2020-08-04
+tags: [journal]
+publish_external: false
 ---
+
 Membalas thread ini:
 
 {{< X user="okihita" id="1282963171423080448" >}}

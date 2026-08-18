@@ -1,9 +1,10 @@
 ---
-date: '2020-07-29T15:00:45Z'
-tags:
-- essay
-title: The extinction of emot :v and how easily our perspective be changed by society
+title: "The extinction of emot :v and how easily our perspective be changed by society"
+date: 2020-07-29
+tags: [essay]
+publish_external: false
 ---
+
 I don't want to talk about the history of the popularity of emot ":v" or as we called [[Pacman]] emoticon because there's a lot of written about that such this,
 
 [R.I.P [[Pacman]] Emoticon](https://id.quora.com/Mengapa-banyak-orang-yang-kesal-dengan-orang-yang-menggunakan-emoticon-[[Pacman]]-titik-dua-v-v-ketika-berinteraksi-di-media-sosial)

@@ -1,14 +1,10 @@
 ---
-date: '2022-01-11T00:00:00Z'
-tags:
-- essay
-- review
-- film
-- horror
-title: 'Ghost/Phantom: A Harrowing Reflection on Corruption, Media Sensationalism,
-  and the Vicious Cycle'
+title: "Ghost/Phantom: A Harrowing Reflection on Corruption, Media Sensationalism, and the Vicious Cycle"
+date: 2022-01-11
+tags: [essay, review, film, horror]
 publish_external: true
 ---
+
 ![[https://youtu.be/Ci-uHdKT5QM]]
 
 Introduction:

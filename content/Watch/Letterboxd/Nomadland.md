@@ -1,10 +1,9 @@
 ---
-title: Nomadland
-date: '2021-12-17'
+title: "Nomadland"
+date: 2021-12-17
+tags: [film]
+publish_external: false
 year: 2020
-letterboxd_uri: https://boxd.it/lnRy
+letterboxd_uri: "https://boxd.it/lnRy"
 rating: 2.5
-tags:
-- film
 ---
-

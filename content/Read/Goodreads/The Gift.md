@@ -1,11 +1,10 @@
 ---
-title: The Gift
+title: "The Gift"
+date: 2024-03-14
+tags: [book]
+publish_external: false
 author: Hafez
-date: '2024-03-14'
-tags:
-- book
 ---
-
 
 # The Gift
 

@@ -2,6 +2,7 @@
 title: "AI for Trading - Udacity"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # AI for Trading - Udacity

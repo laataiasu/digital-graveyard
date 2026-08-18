@@ -1,10 +1,9 @@
 ---
-title: Deadpool 2
-date: '2021-10-15'
+title: "Deadpool 2"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2018
-letterboxd_uri: https://boxd.it/dlLM
+letterboxd_uri: "https://boxd.it/dlLM"
 rating: 3.0
-tags:
-- film
 ---
-

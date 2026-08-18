@@ -1,16 +1,14 @@
 ---
-title: Shining Inheritance
+title: "Shining Inheritance"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2009
 type: Korean Drama
 score: 5.0
 progress: 28/28
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Shining Inheritance
 

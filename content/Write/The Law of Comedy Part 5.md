@@ -1,12 +1,9 @@
 ---
-date: '2020-11-15T12:01:41Z'
-tags:
-- essay
-- pseudocomedy
-- muslim
-timeline_notification:
-- '1605416506'
-title: The Law of Comedy ~ Part 5
+title: "The Law of Comedy ~ Part 5"
+date: 2020-11-15
+tags: [essay, pseudocomedy, muslim]
+publish_external: false
+timeline_notification: [1605416506]
 ---
 
 ![[https://youtu.be/HFUPPgAw2Ts]]

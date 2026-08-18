@@ -1,13 +1,11 @@
 ---
-date: '2020-11-15T11:56:33Z'
-tags:
-- essay
-- pseudocomedy
-- muslim
-timeline_notification:
-- '1605416199'
-title: The Law of Comedy ~ Part 3
+title: "The Law of Comedy ~ Part 3"
+date: 2020-11-15
+tags: [essay, pseudocomedy, muslim]
+publish_external: false
+timeline_notification: [1605416199]
 ---
+
 ![[https://youtu.be/UEhYMirs7fk]]
 
 In the search for the law of comedy, I find the one which is closest to the system of comedy. It must contradict with everything, it must be referring to the rule of number one that we are not living, but we're just trapped in this world.

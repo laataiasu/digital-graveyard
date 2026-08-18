@@ -1,11 +1,10 @@
 ---
-title: 'Start-up Nation: The Story of Israel''s Economic Miracle'
+title: "Start-up Nation: The Story of Israel's Economic Miracle"
+date: 2021-08-28
+tags: [book]
+publish_external: false
 author: Dan Senor
-date: '2021-08-28'
-tags:
-- book
 ---
-
 
 # Start-up Nation: The Story of Israel's Economic Miracle
 

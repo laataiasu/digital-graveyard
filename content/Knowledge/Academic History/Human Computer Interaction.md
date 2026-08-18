@@ -1,9 +1,9 @@
 ---
 title: "Human Computer Interaction"
-aliases: CSGE602024
 date: 2021-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSGE602024
 ---
 
 # Human Computer Interaction

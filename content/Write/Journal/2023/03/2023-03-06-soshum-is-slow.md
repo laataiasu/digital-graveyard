@@ -1,10 +1,11 @@
 ---
+title: "2023-03-06"
 date: 2023-03-06
-tags:
-- journal
-title: 2023-03-06
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2023-03-06
 
 soshum is slow. 

@@ -2,6 +2,7 @@
 title: "From words"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 - Lebih baik menodongkan pisau ke arahku daripada bersikap seperti ini, karena hal paling buruk di dunia adalah memanfaatkan ketulusan hati orang lain

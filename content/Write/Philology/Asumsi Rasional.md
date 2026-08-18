@@ -1,11 +1,10 @@
 ---
-date: 2023-03-22T00:00:00Z
-tags:
-  - journal
-  - literature
-title: Asumsi Rasional
+title: "Asumsi Rasional"
+date: 2023-03-22
+tags: [journal, literature]
 publish_external: true
 ---
+
   
 ![[https://youtu.be/JFOhvquQiS8]]  
   

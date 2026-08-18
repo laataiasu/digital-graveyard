@@ -1,10 +1,10 @@
 ---
-date: 2025-07-13T22:03:45+07:00
-title: David Goggins PUSH YOURSELF EVERYDAY
-tags:
-  - youtube
-aliases: 
-source:
+title: "David Goggins PUSH YOURSELF EVERYDAY"
+date: 2025-07-13
+tags: [youtube]
+publish_external: false
+aliases: null
+source: null
 ---
 
 # David Goggins: PUSH YOURSELF EVERYDAY -- Morning Motivation

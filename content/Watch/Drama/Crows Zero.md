@@ -1,16 +1,14 @@
 ---
-title: Crows Zero
+title: "Crows Zero"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: Japan
 year: 2007
 type: Japanese Movie
 score: 8.0
 progress: 1/1
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Crows Zero
 

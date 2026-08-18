@@ -1,10 +1,9 @@
 ---
-title: Howl's Moving Castle
-date: '2021-10-15'
+title: "Howl's Moving Castle"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2004
-letterboxd_uri: https://boxd.it/23De
+letterboxd_uri: "https://boxd.it/23De"
 rating: 3.0
-tags:
-- film
 ---
-

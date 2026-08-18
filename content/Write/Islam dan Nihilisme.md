@@ -1,10 +1,10 @@
 ---
-date: '2020-07-29T00:00:00Z'
-tags:
-- muslim
-- essay
-title: Islam dan Nihilisme
+title: "Islam dan Nihilisme"
+date: 2020-07-29
+tags: [muslim, essay]
+publish_external: false
 ---
+
 [[Islam]] dan nihilisme memang bertentangan, tapi di setiap pertentangan pastilah ada sesuatu kesamaan yang tidak dapat dilihat apabila hanya "satu" yang dilihat. 
 
 Setiap yang berkecukupan secara materi mencari sesuatu yang lebih dan itulah yang saya lakukan untuk menutupi apa yang disebut sebagai kekosongan. Bahagia adalah sesuatu yang mudah dalam hidup sehingga bukanlah suatu yang perlu dibanggakan untuk menaruhnya ke dalam kekosongan.

@@ -1,10 +1,11 @@
 ---
+title: "First Earthquake"
 date: 2024-04-28
-tags:
-- journal
-title: First Earthquake
+tags: [journal]
+publish_external: false
 draft: true
 ---
+
 2024-04-28 - first earthquake
 
 [[First Earthquake]]

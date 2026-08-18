@@ -1,10 +1,10 @@
 ---
-date: '2021-08-28T00:00:00Z'
-tags:
-- review
-- book
-title: "Review A Guide to Wealth and Happiness \u2014 Naval Ravikant"
+title: "Review A Guide to Wealth and Happiness — Naval Ravikant"
+date: 2021-08-28
+tags: [review, book]
+publish_external: false
 ---
+
 > ringkasan buku investor artis [[Twitter]]
 
 Konsumsi konten self-improvement biasanya membuat saya jijik dan eneg, tapi yang ini rasanya beda. 

@@ -1,10 +1,11 @@
 ---
-date: '2017-12-23T19:06:00Z'
-updated: '2020-07-20T20:07:30.367-07:00'
-tags:
-- literature
-title: Untuk Apa...
+title: "Untuk Apa..."
+date: 2017-12-23
+tags: [literature]
+publish_external: false
+updated: "2020-07-20T20:07:30.367-07:00"
 ---
+
   
 Kadang aku bertanya  
 Tangisku untuk apa  

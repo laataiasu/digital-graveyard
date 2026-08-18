@@ -1,11 +1,10 @@
 ---
-title: Letters to a Young Contrarian
+title: "Letters to a Young Contrarian"
+date: 2022-11-18
+tags: [book]
+publish_external: false
 author: Christopher Hitchens
-date: '2022-11-18'
-tags:
-- book
 ---
-
 
 # Letters to a Young Contrarian
 

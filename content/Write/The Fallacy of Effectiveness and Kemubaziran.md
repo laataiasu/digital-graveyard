@@ -1,12 +1,10 @@
 ---
-date: '2023-09-06'
-tags:
-- journal
-- muslim
-- essay
-- pseudocomedy
-title: The Fallacy of Effectiveness and Kemubaziran
+title: "The Fallacy of Effectiveness and Kemubaziran"
+date: 2023-09-06
+tags: [journal, muslim, essay, pseudocomedy]
+publish_external: false
 ---
+
 ![[alif lam mim kaf ha ya ain sod.jpg]]
 
 God created all beautiful scenery. What is the purpose of beauty?

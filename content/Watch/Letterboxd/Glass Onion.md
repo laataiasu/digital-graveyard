@@ -1,10 +1,9 @@
 ---
-title: Glass Onion
-date: '2023-01-09'
+title: "Glass Onion"
+date: 2023-01-09
+tags: [film]
+publish_external: false
 year: 2022
-letterboxd_uri: https://boxd.it/oCkK
+letterboxd_uri: "https://boxd.it/oCkK"
 rating: 3.0
-tags:
-- film
 ---
-

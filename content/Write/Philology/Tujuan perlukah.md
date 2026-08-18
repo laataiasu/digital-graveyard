@@ -1,10 +1,11 @@
 ---
-date: '2018-06-30T04:46:00Z'
-updated: '2020-07-29T01:48:37.474-07:00'
-tags:
-- literature
-title: Tujuan, perlukah?
+title: "Tujuan, perlukah?"
+date: 2018-06-30
+tags: [literature]
+publish_external: false
+updated: "2020-07-29T01:48:37.474-07:00"
 ---
+
   
 17 tahun  
 Dan aku masih gatau harus ngapain  

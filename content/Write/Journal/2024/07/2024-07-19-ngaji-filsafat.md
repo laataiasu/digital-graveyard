@@ -1,10 +1,12 @@
 ---
 title: "Ngaji Filsafat"
 date: 2024-07-19
-source: "Ngaji Filsafat"
 tags: [philosophy]
+publish_external: false
+source: Ngaji Filsafat
 draft: true
 ---
+
 ## Details
 Machiavelli - Etika Politik
 

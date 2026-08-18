@@ -1,10 +1,9 @@
 ---
 title: "Class of 2023: Living without Regret"
-author: Irv Grousbeck
 date: 2025-07-16
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
+author: Irv Grousbeck
 ---
 
 ## Living without Regret and Becoming an Entrepreneur

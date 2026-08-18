@@ -1,10 +1,10 @@
 ---
-date: '2024-02-25T00:23:43Z'
-tags:
-- review
-- film
-title: Review All of Us Strangers
+title: "Review All of Us Strangers"
+date: 2024-02-25
+tags: [review, film]
+publish_external: false
 ---
+
 i hate gay people.
 
 no matter how i try to understand them, through watching movies, i just can't empathy with them.

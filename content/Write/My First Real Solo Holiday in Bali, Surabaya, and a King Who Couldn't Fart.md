@@ -4,6 +4,7 @@ date: 2026-06-15
 tags: [journal, travel, reflection, indonesia]
 publish_external: true
 ---
+
 I recently took what I consider my first real solo holiday. It started from Semarang, went to Bali, then Surabaya, then back to Semarang by train.
 
 The plan looked clean on calendar. Flights, hotels, beaches, museums, food stops, buffers. A civilized itinerary. But of course, reality was messier. And honestly, the messy parts were the best parts.

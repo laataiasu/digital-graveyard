@@ -1,11 +1,10 @@
 ---
-title: 'The da Vinci Code (Robert Langdon, #2)'
+title: "The da Vinci Code (Robert Langdon, #2)"
+date: 2020-08-23
+tags: [book]
+publish_external: false
 author: Dan    Brown
-date: '2020-08-23'
-tags:
-- book
 ---
-
 
 # The da Vinci Code (Robert Langdon, #2)
 

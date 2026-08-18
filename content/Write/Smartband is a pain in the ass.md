@@ -1,10 +1,10 @@
 ---
-date: '2023-12-08'
-tags:
-- journal
-- essay
-title: Smartband is a pain in the ass
+title: "Smartband is a pain in the ass"
+date: 2023-12-08
+tags: [journal, essay]
+publish_external: false
 ---
+
 forget about singularity or flying cars; a smartwatch or smartband is a pain in the ass. 
 
 - i need a dot/point device that i can paste anywhere on my body, like on an indian [[Woman|woman]]'s forehead if you want to showcase the device, or those who prefer to hide their wealth; it can adhere anywhere on the body.

@@ -1,9 +1,10 @@
 ---
-date: '2020-05-23T00:00:00Z'
-tags:
-- education
-title: Review Sistem Informasi  ~Semester 1
+title: "Review Sistem Informasi  ~Semester 1"
+date: 2020-05-23
+tags: [education]
+publish_external: false
 ---
+
 **Akademis**
 
 ![[4cap4d.jpg]]

@@ -1,10 +1,9 @@
 ---
-title: 'Transformers: The Last Knight'
-date: '2021-10-15'
+title: "Transformers: The Last Knight"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2017
-letterboxd_uri: https://boxd.it/b8xo
+letterboxd_uri: "https://boxd.it/b8xo"
 rating: 2.5
-tags:
-- film
 ---
-

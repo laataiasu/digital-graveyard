@@ -1,8 +1,8 @@
 ---
-date: '2023-06-24T00:00:00Z'
-tags:
-- essay
-title: The Illusion of Fearlessness
+title: "The Illusion of Fearlessness"
+date: 2023-06-24
+tags: [essay]
+publish_external: false
 ---
 
 ![[https://youtu.be/aGCdLKXNF3w]]

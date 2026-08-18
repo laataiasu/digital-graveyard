@@ -1,9 +1,10 @@
 ---
-date: '2022-04-13T00:00:00Z'
-tags:
-- literature
-title: Ceritalah Padaku
+title: "Ceritalah Padaku"
+date: 2022-04-13
+tags: [literature]
+publish_external: false
 ---
+
   
 Ceritakanlah padaku  
 Sejahat itukah aku?  

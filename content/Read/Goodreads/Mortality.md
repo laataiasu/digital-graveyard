@@ -1,11 +1,10 @@
 ---
-title: Mortality
+title: "Mortality"
+date: 2023-11-06
+tags: [book]
+publish_external: false
 author: Christopher Hitchens
-date: '2023-11-06'
-tags:
-- book
 ---
-
 
 # Mortality
 

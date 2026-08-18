@@ -1,10 +1,9 @@
 ---
 title: "Your Life as the Hero’s Journey"
-author: Graham Weaver
 date: 2025-07-16
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
+author: Graham Weaver
 ---
 
 ## Personal Growth and Self-Discovery

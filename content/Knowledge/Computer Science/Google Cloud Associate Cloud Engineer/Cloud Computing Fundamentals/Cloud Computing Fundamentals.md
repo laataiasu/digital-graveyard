@@ -2,6 +2,7 @@
 title: "cloud deployment models"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # cloud deployment models

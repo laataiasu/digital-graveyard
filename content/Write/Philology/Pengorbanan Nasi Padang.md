@@ -1,10 +1,11 @@
 ---
-date: '2018-06-09T09:57:00Z'
-updated: '2020-07-20T19:44:16.044-07:00'
-tags:
-- literature
-title: Pengorbanan Nasi Padang
+title: "Pengorbanan Nasi Padang"
+date: 2018-06-09
+tags: [literature]
+publish_external: false
+updated: "2020-07-20T19:44:16.044-07:00"
 ---
+
   
 Saat sesuap nasi padang datang  
 Terkunyah kunyah  

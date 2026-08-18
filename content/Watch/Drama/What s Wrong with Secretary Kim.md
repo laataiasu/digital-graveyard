@@ -1,16 +1,14 @@
 ---
-title: What's Wrong with Secretary Kim
+title: "What's Wrong with Secretary Kim"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2018
 type: Korean Drama
 score: 6.0
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # What's Wrong with Secretary Kim
 

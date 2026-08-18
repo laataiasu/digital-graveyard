@@ -1,9 +1,8 @@
 ---
 title: "Some Perspective for Graduating Students"
 date: 2025-07-16
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
 ---
 
 ## Introduction

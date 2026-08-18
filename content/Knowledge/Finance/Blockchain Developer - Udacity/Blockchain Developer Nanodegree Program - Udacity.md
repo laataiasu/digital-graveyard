@@ -2,6 +2,7 @@
 title: "Blockchain Developer Nanodegree Program - Udacity"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 ## Part 01-Module 01-Lesson 01_Welcome to the Blockchain Revolution

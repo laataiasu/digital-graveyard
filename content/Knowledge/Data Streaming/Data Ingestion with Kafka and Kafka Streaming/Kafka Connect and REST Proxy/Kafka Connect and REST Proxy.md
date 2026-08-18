@@ -2,6 +2,7 @@
 title: "Kafka Connect and REST Proxy"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Kafka Connect and REST Proxy

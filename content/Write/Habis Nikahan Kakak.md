@@ -1,11 +1,10 @@
 ---
-date: '2022-07-17T00:00:00Z'
-tags:
-- journal
-- essay
-- tech
-title: Habis Nikahan Kakak
+title: "Habis Nikahan Kakak"
+date: 2022-07-17
+tags: [journal, essay, tech]
+publish_external: false
 ---
+
 Le nanya ke bapak,
 
 "Lulus 3.5 tahun tapi ga terlalu punya pengalaman gpp? Atau mending lulus biasa tapi cari pengalaman dulu."

@@ -1,10 +1,9 @@
 ---
-title: The Wolf of Wall Street
-date: '2020-04-25'
+title: "The Wolf of Wall Street"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2013
-letterboxd_uri: https://boxd.it/3C1m
+letterboxd_uri: "https://boxd.it/3C1m"
 rating: 2.5
-tags:
-- film
 ---
-

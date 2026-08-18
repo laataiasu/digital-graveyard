@@ -1,9 +1,10 @@
 ---
-date: '2023-03-13T00:00:00Z'
-tags:
-- journal
-title: Meragukan Ragu
+title: "Meragukan Ragu"
+date: 2023-03-13
+tags: [journal]
+publish_external: false
 ---
+
 Muhasabah nanti berganti dari, 
 
 "Bayangkan kamu pulang ke rumah, melihat bendera kuning berkibar..." 

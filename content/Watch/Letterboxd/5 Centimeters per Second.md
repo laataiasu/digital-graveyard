@@ -1,10 +1,9 @@
 ---
-title: 5 Centimeters per Second
-date: '2020-04-25'
+title: "5 Centimeters per Second"
+date: 2020-04-25
+tags: [film]
+publish_external: false
 year: 2007
-letterboxd_uri: https://boxd.it/16G4
+letterboxd_uri: "https://boxd.it/16G4"
 rating: 2.5
-tags:
-- film
 ---
-

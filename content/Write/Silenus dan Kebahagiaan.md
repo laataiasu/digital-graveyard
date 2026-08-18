@@ -1,11 +1,10 @@
 ---
-date: '2023-09-02'
-tags:
-- journal
-- essay
-- book
-title: Silenus dan Kebahagiaan
+title: "Silenus dan Kebahagiaan"
+date: 2023-09-02
+tags: [journal, essay, book]
+publish_external: false
 ---
+
 Raja Midas mencari Silenus, teman setia Dionysus, dan menanyakan kepadanya: "Apa kebahagiaan terbesar manusia?" Silenus tetap muram dan tidak berkomunikasi sampai akhirnya, dipaksa oleh Raja, ia tertawa dengan kencang.
 
 "Manusia yang fanatis, lahir karena kecelakaan dan ketekunan, mengapa kamu memaksakanku untuk memberitahu apa yang akan menjadi kebahagiaan terbesarmu yang seharusnya kamu tidak ingin mengetahui? Yang terbaik bagimu adalah tidak pernah dilahirkan. Yang kedua terbaik adalah mati segera!"

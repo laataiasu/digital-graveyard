@@ -1,10 +1,9 @@
 ---
-title: Amadeus
-date: '2021-12-17'
+title: "Amadeus"
+date: 2021-12-17
+tags: [film]
+publish_external: false
 year: 1984
-letterboxd_uri: https://boxd.it/2aH8
+letterboxd_uri: "https://boxd.it/2aH8"
 rating: 3.0
-tags:
-- film
 ---
-

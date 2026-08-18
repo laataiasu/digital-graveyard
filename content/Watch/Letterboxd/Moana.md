@@ -1,10 +1,9 @@
 ---
-title: Moana
-date: '2021-10-15'
+title: "Moana"
+date: 2021-10-15
+tags: [film]
+publish_external: false
 year: 2016
-letterboxd_uri: https://boxd.it/8tfY
+letterboxd_uri: "https://boxd.it/8tfY"
 rating: 3.0
-tags:
-- film
 ---
-

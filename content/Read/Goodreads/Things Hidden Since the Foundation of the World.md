@@ -1,11 +1,10 @@
 ---
-title: Things Hidden Since the Foundation of the World
+title: "Things Hidden Since the Foundation of the World"
+date: 2025-04-30
+tags: [book]
+publish_external: false
 author: René Girard
-date: '2025-04-30'
-tags:
-- book
 ---
-
 
 # Things Hidden Since the Foundation of the World
 

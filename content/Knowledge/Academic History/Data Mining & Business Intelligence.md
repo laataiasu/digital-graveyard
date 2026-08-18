@@ -1,9 +1,9 @@
 ---
 title: "Data Mining & Business Intelligence"
-aliases: CSIE604271
 date: 2022-02-01
-publish_external: true
 tags: []
+publish_external: true
+aliases: CSIE604271
 ---
 
 # Data Mining & Business Intelligence

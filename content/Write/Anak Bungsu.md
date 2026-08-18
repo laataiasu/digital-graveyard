@@ -1,9 +1,10 @@
 ---
-date: '2023-04-24T00:00:00Z'
-tags:
-- journal
-title: Anak Bungsu
+title: "Anak Bungsu"
+date: 2023-04-24
+tags: [journal]
+publish_external: false
 ---
+
 ![[lonely-colorful-youngest-child.jpg]]
 
 Bungsu bertabiat untuk menghancurkan apa-apa yang sudah dibangun. Bebannya tidak seberat si sulung atau pertengahan. Orang tuanya memprioritaskan umur, karena tanggung jawabnya besar, sehingga si bungsu sering merasa tidak diperhatikan. Si bungsu hidup dengan mudah, segala kebutuhannya terpenuhi akibat kakak dan orang tuanya, tidak perlu memilih, diberikan apa-apa yang telah digunakan kakaknya, dan ia setuju-setuju saja. 

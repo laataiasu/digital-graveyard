@@ -1,10 +1,9 @@
 ---
 title: "How to Live an Asymmetric Life"
-author: Graham Weaver
 date: 2025-07-16
-tags:
-  - Youtube
-  - Last Lecture Series
+tags: [youtube, last lecture series]
+publish_external: false
+author: Graham Weaver
 ---
 
 ## Summary of Transcript Key Insights

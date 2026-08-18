@@ -1,11 +1,11 @@
 ---
-date: '2020-07-29T01:42:00Z'
-updated: '2020-12-11T07:05:16.857-08:00'
-tags:
-- book
-- review
-title: Review Daerah Salju Yasunari Kawabata
+title: "Review Daerah Salju Yasunari Kawabata"
+date: 2020-07-29
+tags: [book, review]
+publish_external: false
+updated: "2020-12-11T07:05:16.857-08:00"
 ---
+
 ![[daerah-salju-yasunari-kawabata.png]]
 
 Roman fiksi pertama yang w baca dengan serius wkwkwk.

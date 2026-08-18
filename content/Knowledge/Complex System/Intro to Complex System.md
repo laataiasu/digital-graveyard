@@ -2,6 +2,7 @@
 title: "Properties common to complex systems:"
 date: 2001-01-01
 tags: []
+publish_external: false
 ---
 
 # Properties common to complex systems:

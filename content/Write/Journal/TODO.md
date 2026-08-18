@@ -1,8 +1,9 @@
 ---
 title: "TODO"
-draft: true
 date: 2026-05-19
 tags: []
+publish_external: false
+draft: true
 ---
 
 ## forbidden writer

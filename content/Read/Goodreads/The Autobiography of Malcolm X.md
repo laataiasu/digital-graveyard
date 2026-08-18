@@ -1,11 +1,10 @@
 ---
-title: The Autobiography of Malcolm X
+title: "The Autobiography of Malcolm X"
+date: 2021-08-23
+tags: [book]
+publish_external: false
 author: Malcolm X
-date: '2021-08-23'
-tags:
-- book
 ---
-
 
 # The Autobiography of Malcolm X
 

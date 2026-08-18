@@ -1,16 +1,14 @@
 ---
-title: Itaewon Class
+title: "Itaewon Class"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
 country: South Korea
 year: 2020
 type: Korean Drama
 score: 8.5
 progress: 16/16
-tags:
-- film
-- drama
-date: '2016-01-01'
 ---
-
 
 # Itaewon Class
 

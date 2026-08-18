@@ -1,11 +1,10 @@
 ---
-title: A Strategic Blueprint for Building a Persistent Transparency Platform in Indonesia
-date: 2025-07-14T22:27:31+07:00
-tags:
-  - essay
-  - open-data
+title: "A Strategic Blueprint for Building a Persistent Transparency Platform in Indonesia"
+date: 2025-07-14
+tags: [essay, open-data]
 publish_external: true
 ---
+
 ## Executive Summary
 
 Indonesia, a nation committed to principles of good governance and transparency, continues to grapple with significant challenges stemming from fragmented and inaccessible public data. This opacity hinders effective public oversight and perpetuates entrenched power structures. This report outlines a strategic pathway to establish a persistent transparency platform in Indonesia, drawing inspiration from the LittleSis model. The platform's core objective is to centralize and visualize complex data on ownership, influence, and affiliations, thereby fostering greater accountability and empowering citizens to comprehend the true shape of the system.

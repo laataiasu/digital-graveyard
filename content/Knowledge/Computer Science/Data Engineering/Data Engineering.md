@@ -1,11 +1,11 @@
 ---
 title: "Extras"
-date: 2021-06-25T19:57
-tags:
-- data
-- data-science
-updated: 2023-09-11T16:04
+date: 2021-06-25
+tags: [data, data-science]
+publish_external: false
+updated: "2023-09-11T16:04"
 ---
+
 [[01 What is Data Engineering]]
   
 [[021 Introduction to Data Modeling]]

@@ -1,11 +1,10 @@
 ---
-title: How Do You Live?
+title: "How Do You Live?"
+date: 2023-12-10
+tags: [book]
+publish_external: false
 author: Genzaburo Yoshino
-date: '2023-12-10'
-tags:
-- book
 ---
-
 
 # How Do You Live?
 

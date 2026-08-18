@@ -1,11 +1,10 @@
 ---
-title: 9 Summers 10 Autumns
+title: "9 Summers 10 Autumns"
+date: 2018-09-16
+tags: [book]
+publish_external: false
 author: Iwan Setyawan
-date: '2018-09-16'
-tags:
-- book
 ---
-
 
 # 9 Summers 10 Autumns
 

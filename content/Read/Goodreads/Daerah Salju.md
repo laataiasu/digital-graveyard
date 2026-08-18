@@ -1,11 +1,10 @@
 ---
-title: Daerah Salju
+title: "Daerah Salju"
+date: 2019-07-08
+tags: [book]
+publish_external: false
 author: Yasunari Kawabata
-date: '2019-07-08'
-tags:
-- book
 ---
-
 
 # Daerah Salju
 

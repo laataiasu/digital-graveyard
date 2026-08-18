@@ -1,11 +1,10 @@
 ---
-title: Norwegian Wood
+title: "Norwegian Wood"
+date: 2019-07-08
+tags: [book]
+publish_external: false
 author: Haruki Murakami
-date: '2019-07-08'
-tags:
-- book
 ---
-
 
 # Norwegian Wood
 
