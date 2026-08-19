@@ -1,7 +1,7 @@
 ---
 title: "Faustian Bargaining Arc: The Period of Deconstruction"
 date: 2026-06-15
-tags: [journal, reflection, belief, identity]
+tags: [journal, reflection]
 publish_external: false
 ---
 

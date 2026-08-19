@@ -1,7 +1,7 @@
 ---
 title: "Dimitri Bianco"
 date: 2001-01-01
-tags: [economics, figure, modern-thinker]
+tags: [figure]
 publish_external: false
 ---
 

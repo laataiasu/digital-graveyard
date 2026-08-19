@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Life Lessons"
 date: 2025-07-16
-tags: [youtube, last lecture series]
+tags: [youtube]
 publish_external: false
 author: Last Lecture Series
 ---

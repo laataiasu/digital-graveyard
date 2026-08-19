@@ -1,7 +1,7 @@
 ---
 title: "Ray Dalio"
 date: 2001-01-01
-tags: [economics, figure]
+tags: [figure]
 publish_external: false
 ---
 

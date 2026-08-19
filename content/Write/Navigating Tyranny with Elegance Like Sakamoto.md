@@ -1,7 +1,7 @@
 ---
 title: "Sakamoto Unmasked: Navigating Tyranny with Elegance"
 date: 2023-09-05
-tags: [journal, muslim]
+tags: [journal]
 publish_external: false
 ---
 

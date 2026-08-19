@@ -1,7 +1,7 @@
 ---
 title: "Curse of Knowledge Bias: My Love-Hate Relationship with Project Management"
 date: 2024-02-18
-tags: [project-management, information-system]
+tags: [essay]
 publish_external: true
 hideSummary: true
 draft: false

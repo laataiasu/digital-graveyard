@@ -1,7 +1,7 @@
 ---
 title: "Karl Marx"
 date: 2001-01-01
-tags: [economics, figure, philosophy]
+tags: [figure]
 publish_external: false
 ---
 

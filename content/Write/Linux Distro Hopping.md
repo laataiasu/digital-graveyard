@@ -1,7 +1,7 @@
 ---
 title: "Linux Distro Hopping"
 date: 2024-02-11
-tags: [linux, tech, journal]
+tags: [journal]
 publish_external: true
 hideSummary: true
 enableToc: true

@@ -1,7 +1,7 @@
 ---
 title: "Mentoring 2021"
 date: 2021-07-08
-tags: []
+tags: [note]
 publish_external: false
 ---
 

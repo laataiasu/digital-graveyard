@@ -1,7 +1,7 @@
 ---
 title: "Ngaji Filsafat"
 date: 2024-08-11
-tags: [philosophy]
+tags: [journal]
 publish_external: false
 source: null
 draft: true

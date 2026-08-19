@@ -1,7 +1,7 @@
 ---
 title: "Musings on Life, Legends, and the Quirks of Human Nature"
 date: 2023-08-17
-tags: [journal, essay, muslim]
+tags: [journal, essay]
 publish_external: false
 ---
 

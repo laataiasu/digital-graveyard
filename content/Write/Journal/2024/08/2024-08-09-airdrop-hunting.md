@@ -1,7 +1,7 @@
 ---
 title: "Airdrop Hunting"
 date: 2024-08-09
-tags: [cryptocurrency]
+tags: [journal]
 publish_external: false
 source: null
 url: "https://stacymuur.substack.com/p/5-metrics-to-track-when-you-lose"

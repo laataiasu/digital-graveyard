@@ -1,7 +1,7 @@
 ---
 title: "What The Human Needs"
 date: 2021-05-22
-tags: [essay, cryptocurrency, journal]
+tags: [essay, journal]
 publish_external: false
 ---
 

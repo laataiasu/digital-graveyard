@@ -1,7 +1,7 @@
 ---
 title: "Books List"
 date: 2001-01-01
-tags: []
+tags: [book]
 publish_external: false
 ---
 

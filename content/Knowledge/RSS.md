@@ -1,7 +1,7 @@
 ---
 title: "RSS"
 date: 2025-07-07
-tags: [knowledge]
+tags: [note]
 publish_external: true
 ---
 

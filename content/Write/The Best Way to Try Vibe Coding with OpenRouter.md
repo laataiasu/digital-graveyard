@@ -1,7 +1,7 @@
 ---
 title: "The Best Way to Try Vibe Coding with OpenRouter"
 date: 2025-08-08
-tags: [vibecoding, openrouter, crypto, tutorial]
+tags: [guide]
 publish_external: true
 ---
 

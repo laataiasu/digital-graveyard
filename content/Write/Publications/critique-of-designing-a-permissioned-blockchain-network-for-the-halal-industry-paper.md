@@ -1,7 +1,7 @@
 ---
 title: "Critique of Designing a Permissioned Blockchain Network for the Halal Industry Paper"
 date: 2021-01-01
-tags: [technology, blockchain]
+tags: [essay]
 publish_external: false
 ---
 

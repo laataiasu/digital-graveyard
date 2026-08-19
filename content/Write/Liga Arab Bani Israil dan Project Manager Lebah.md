@@ -1,7 +1,7 @@
 ---
 title: "Liga Arab, Bani Israil, dan Project Manager Lebah"
 date: 2022-01-04
-tags: [muslim, business, essay]
+tags: [essay]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Review Start-up Nation — Dan Senor and Saul Singer"
 date: 2021-08-28
-tags: [book, review, business]
+tags: [book, review]
 publish_external: false
 ---
 

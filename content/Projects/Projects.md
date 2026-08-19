@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2001-01-01
-tags: []
+tags: [project]
 publish_external: false
 ---
 

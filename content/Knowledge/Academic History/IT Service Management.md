@@ -1,7 +1,7 @@
 ---
 title: "IT Service Management"
 date: 2022-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSIE604378
 ---

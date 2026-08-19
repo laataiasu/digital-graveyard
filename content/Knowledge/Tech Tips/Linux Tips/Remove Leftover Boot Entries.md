@@ -1,7 +1,7 @@
 ---
 title: "Remove Leftover Boot Entries"
 date: 2001-01-01
-tags: []
+tags: [guide]
 publish_external: false
 ---
 

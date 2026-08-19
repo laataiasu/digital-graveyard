@@ -1,7 +1,7 @@
 ---
 title: "Penuntut Ilmu Laduni"
 date: 2021-12-10
-tags: [muslim]
+tags: [essay]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2008"
 date: 2021-12-09
-tags: [muslim, essay, journal]
+tags: [essay, journal]
 publish_external: false
 ---
 

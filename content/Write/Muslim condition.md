@@ -1,7 +1,7 @@
 ---
 title: "Muslim condition"
 date: 2020-07-06
-tags: [muslim, essay, journal]
+tags: [essay, journal]
 publish_external: false
 ---
 

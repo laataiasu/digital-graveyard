@@ -1,7 +1,7 @@
 ---
 title: "A Suppressed Dream"
 date: 2022-12-25
-tags: [muslim, journal]
+tags: [journal]
 publish_external: false
 ---
 

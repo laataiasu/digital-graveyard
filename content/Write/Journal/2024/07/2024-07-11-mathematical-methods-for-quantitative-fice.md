@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Methods for Quantitative Finance"
 date: 2024-07-11
-tags: [finance]
+tags: [journal]
 publish_external: false
 source: edX
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: "Snowden Is Not a Hero"
 date: 2021-04-13
-tags: [cryptocurrency, tech, muslim, essay]
+tags: [essay]
 publish_external: false
 description: snowden bukan pahlawan
 ---

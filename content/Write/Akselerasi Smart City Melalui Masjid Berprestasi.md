@@ -1,7 +1,7 @@
 ---
 title: "Akselerasi Smart City Melalui Masjid Berprestasi"
 date: 2021-02-20
-tags: [essay, muslim]
+tags: [essay]
 publish_external: true
 ---
 

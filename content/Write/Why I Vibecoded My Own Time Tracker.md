@@ -1,7 +1,7 @@
 ---
 title: "Why I Vibecoded My Own Time Tracker"
 date: 2026-03-07
-tags: [vibecoding, time-tracking, android, tailscale, productivity]
+tags: [essay]
 publish_external: true
 ---
 

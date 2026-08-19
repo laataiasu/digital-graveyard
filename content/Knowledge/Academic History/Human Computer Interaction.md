@@ -1,7 +1,7 @@
 ---
 title: "Human Computer Interaction"
 date: 2021-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSGE602024
 ---

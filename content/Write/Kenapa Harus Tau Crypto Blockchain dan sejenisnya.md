@@ -1,7 +1,7 @@
 ---
 title: "Kenapa Harus Tau Crypto, Blockchain, dan sejenisnya"
 date: 2021-07-13
-tags: [cryptocurrency, tech, muslim, essay]
+tags: [essay]
 publish_external: false
 ---
 

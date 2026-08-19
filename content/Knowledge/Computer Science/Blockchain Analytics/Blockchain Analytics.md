@@ -1,7 +1,7 @@
 ---
 title: "Blockchain Analytics"
 date: 2024-06-26
-tags: [blockchain, cryptocurrency]
+tags: [note]
 publish_external: false
 updated: "2024-08-19T14:25"
 ---

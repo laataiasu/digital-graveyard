@@ -1,7 +1,7 @@
 ---
 title: "Principles of Information Systems"
 date: 2020-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSIM601280
 ---

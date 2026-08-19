@@ -1,7 +1,7 @@
 ---
 title: "Gabor Maté"
 date: 2001-01-01
-tags: [figure, modern-thinker, public-intellectual]
+tags: [figure]
 publish_external: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "bluetooth arch linux"
 date: 2021-06-15
-tags: [linux, tips]
+tags: [guide]
 publish_external: true
-updated: 2026-08-19 21:33:17
+updated: 2026-08-19
 ---
 
 - [[#First Install]]

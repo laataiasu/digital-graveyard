@@ -1,7 +1,7 @@
 ---
 title: "Class of 2023: Living without Regret"
 date: 2025-07-16
-tags: [youtube, last lecture series]
+tags: [youtube]
 publish_external: false
 author: Irv Grousbeck
 ---

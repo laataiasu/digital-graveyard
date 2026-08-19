@@ -1,7 +1,7 @@
 ---
 title: "Video"
 date: 2022-05-07
-tags: [ideas, video-ideas]
+tags: [essay]
 publish_external: false
 draft: true
 ---

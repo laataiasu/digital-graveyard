@@ -1,7 +1,7 @@
 ---
 title: "Review Sistem Informasi UI ~Semester 4"
 date: 2021-07-27
-tags: [education]
+tags: [essay]
 publish_external: false
 ---
 

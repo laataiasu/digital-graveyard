@@ -1,7 +1,7 @@
 ---
 title: "Streaming API Development and Documentation"
 date: 2001-01-01
-tags: []
+tags: [note]
 publish_external: false
 ---
 

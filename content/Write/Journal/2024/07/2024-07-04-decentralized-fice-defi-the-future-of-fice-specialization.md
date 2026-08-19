@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Finance (DeFi): The Future of Finance Specialization"
 date: 2024-07-04
-tags: [cryptocurrency]
+tags: [journal]
 publish_external: false
 source: Coursera
 url: "https://www.coursera.org/specializations/decentralized-finance-duke"

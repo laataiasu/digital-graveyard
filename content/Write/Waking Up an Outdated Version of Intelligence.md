@@ -1,7 +1,7 @@
 ---
 title: "Waking Up an Outdated Version of Intelligence"
 date: 2020-09-18
-tags: [essay, tech, pseudocomedy]
+tags: [essay]
 publish_external: false
 timeline_notification: [1600418225]
 ---

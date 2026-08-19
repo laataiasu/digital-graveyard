@@ -1,7 +1,7 @@
 ---
 title: "René Girard"
 date: 2001-01-01
-tags: [figure, literature, philosophy]
+tags: [figure, literature]
 publish_external: false
 ---
 

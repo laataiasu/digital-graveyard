@@ -1,6 +1,6 @@
 ---
 title: "DealStreetAsia"
 date: 2026-05-19
-tags: [data-sources]
+tags: [project]
 publish_external: false
 ---

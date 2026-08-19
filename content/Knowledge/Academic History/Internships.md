@@ -1,7 +1,7 @@
 ---
 title: "Internships"
 date: 2023-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSCE604098
 ---

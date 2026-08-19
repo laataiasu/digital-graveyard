@@ -1,7 +1,7 @@
 ---
 title: "The Reason Why I Like Bullying"
 date: 2021-01-26
-tags: [essay, business]
+tags: [essay]
 publish_external: false
 timeline_notification: [1611663726]
 ---

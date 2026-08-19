@@ -1,7 +1,7 @@
 ---
 title: "Review The Most Horror Webtoon"
 date: 2020-09-09
-tags: [review, book, horror]
+tags: [review, book]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Reverse Repo (RRP)"
 date: 2001-01-01
-tags: [economics]
+tags: [note]
 publish_external: false
 ---
 

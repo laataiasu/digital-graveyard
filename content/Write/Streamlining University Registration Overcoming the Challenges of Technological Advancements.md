@@ -1,7 +1,7 @@
 ---
 title: "Streamlining University Registration: Overcoming the Challenges of Technological Advancements"
 date: 2019-08-08
-tags: [essay, education]
+tags: [essay]
 publish_external: false
 ---
 

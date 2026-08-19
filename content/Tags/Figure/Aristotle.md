@@ -1,7 +1,7 @@
 ---
 title: "Aristotle"
 date: 2001-01-01
-tags: [classic-thinker, figure, philosophy]
+tags: [figure]
 publish_external: false
 ---
 

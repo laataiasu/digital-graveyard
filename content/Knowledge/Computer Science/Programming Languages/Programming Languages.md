@@ -1,7 +1,7 @@
 ---
 title: "Programming Languages"
 date: 2024-01-07
-tags: []
+tags: [note]
 publish_external: false
 updated: "2025-05-11T09:51"
 ---

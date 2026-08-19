@@ -1,7 +1,7 @@
 ---
 title: "How to Live an Asymmetric Life"
 date: 2025-07-16
-tags: [youtube, last lecture series]
+tags: [youtube]
 publish_external: false
 author: Graham Weaver
 ---

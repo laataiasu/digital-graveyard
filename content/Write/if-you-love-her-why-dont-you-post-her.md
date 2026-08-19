@@ -1,7 +1,7 @@
 ---
 title: "If You Love Her, Why Don't You Post Her?"
 date: 2026-01-20
-tags: [psychology, philosophy, personal, relationships, culture]
+tags: [essay]
 publish_external: false
 ---
 

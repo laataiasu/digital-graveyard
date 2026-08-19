@@ -1,7 +1,7 @@
 ---
 title: "Create a Knowledge Base Agent"
 date: 2026-05-19
-tags: []
+tags: [note]
 publish_external: false
 ---
 

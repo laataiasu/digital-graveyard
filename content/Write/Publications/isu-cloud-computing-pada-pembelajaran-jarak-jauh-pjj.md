@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing Issues in Distance Learning (PJJ)"
 date: 2021-01-01
-tags: [education, cloud, technology]
+tags: [essay]
 publish_external: false
 ---
 

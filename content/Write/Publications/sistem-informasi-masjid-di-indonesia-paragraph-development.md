@@ -1,7 +1,7 @@
 ---
 title: "Mosque Information Systems in Indonesia – Paragraph Development"
 date: 2021-01-01
-tags: [information-system, religion]
+tags: [religion]
 publish_external: false
 ---
 

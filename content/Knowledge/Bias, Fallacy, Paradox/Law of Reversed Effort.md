@@ -1,6 +1,6 @@
 ---
 title: "Law of Reversed Effort"
 date: 2001-01-01
-tags: []
+tags: [note]
 publish_external: false
 ---

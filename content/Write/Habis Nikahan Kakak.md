@@ -1,7 +1,7 @@
 ---
 title: "Habis Nikahan Kakak"
 date: 2022-07-17
-tags: [journal, essay, tech]
+tags: [journal, essay]
 publish_external: false
 ---
 

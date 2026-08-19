@@ -1,7 +1,7 @@
 ---
 title: "SQL Null Values Ruin My Life"
 date: 2024-02-13
-tags: [data-engineering, dbt, bigquery, sql, postgres, tech]
+tags: [essay]
 publish_external: true
 hideSummary: true
 enableToc: true

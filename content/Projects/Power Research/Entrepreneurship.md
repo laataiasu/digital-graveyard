@@ -1,6 +1,6 @@
 ---
 title: "Entrepreneurship"
 date: 2026-05-19
-tags: [concept]
+tags: [project]
 publish_external: false
 ---

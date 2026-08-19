@@ -1,7 +1,7 @@
 ---
 title: "Why I Choose SI"
 date: 2020-08-31
-tags: [education]
+tags: [essay]
 publish_external: false
 ---
 

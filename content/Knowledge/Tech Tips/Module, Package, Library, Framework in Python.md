@@ -1,7 +1,7 @@
 ---
 title: "Module, Package, Library, Framework in Python"
 date: 2025-07-26
-tags: [knowledge, tips]
+tags: [guide]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Custom DNS"
 date: 2023-12-23
-tags: [tips]
+tags: [guide]
 publish_external: true
 updated: "2025-05-11T09:48"
 ---

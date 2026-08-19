@@ -1,9 +1,9 @@
 ---
 title: "Linux & Terminal Power User Guide"
 date: 2026-08-18
-tags: [linux, tips, devops, workflow, productivity]
+tags: [guide]
 publish_external: true
-updated: 2026-08-19 21:32:44
+updated: 2026-08-19
 ---
 
 # Linux & Terminal Power User Guide

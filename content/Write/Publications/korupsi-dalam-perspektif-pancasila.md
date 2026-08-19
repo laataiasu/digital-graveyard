@@ -1,7 +1,7 @@
 ---
 title: "Corruption from the Perspective of Pancasila"
 date: 2019-01-01
-tags: [philosophy, ethics, corruption, ideology]
+tags: [essay]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Basic Monitoring"
 date: 2001-01-01
-tags: []
+tags: [guide]
 publish_external: false
 ---
 

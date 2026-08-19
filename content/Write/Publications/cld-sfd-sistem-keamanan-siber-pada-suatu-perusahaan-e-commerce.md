@@ -1,7 +1,7 @@
 ---
 title: "Causal Loop Diagram (CLD) & Stock Flow Diagram (SFD) of Cybersecurity Systems in an E-Commerce Company"
 date: 2020-01-01
-tags: [security, cybersecurity]
+tags: [essay]
 publish_external: false
 ---
 

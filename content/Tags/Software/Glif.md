@@ -1,7 +1,7 @@
 ---
 title: "Glif"
 date: 2024-06-25
-tags: [software, meme, generative-ai]
+tags: [software]
 publish_external: true
 ---
 

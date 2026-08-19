@@ -1,6 +1,6 @@
 ---
 title: "Ibn Sina"
 date: 2001-01-01
-tags: [figure, philosophy, science]
+tags: [figure]
 publish_external: false
 ---

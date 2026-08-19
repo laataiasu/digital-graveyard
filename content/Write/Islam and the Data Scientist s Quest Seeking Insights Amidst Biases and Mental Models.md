@@ -1,7 +1,7 @@
 ---
 title: "Islam and the Data Scientist's Quest: Seeking Insights Amidst Biases and Mental Models"
 date: 2023-03-01
-tags: [muslim, journal, review, film]
+tags: [journal, review, film]
 publish_external: true
 ---
 

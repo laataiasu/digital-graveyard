@@ -1,7 +1,7 @@
 ---
 title: "Dreams of Graduation and the Weight of Shortcuts"
 date: 2026-03-15
-tags: [journal, education, regret, integrity, dreams]
+tags: [journal]
 publish_external: true
 ---
 

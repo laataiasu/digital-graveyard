@@ -1,7 +1,7 @@
 ---
 title: "Open Idea Artifact: Things I Wish Existed"
 date: 2020-09-15
-tags: [first]
+tags: [essay]
 publish_external: true
 enableToc: true
 description: Desc Text.

@@ -1,7 +1,7 @@
 ---
 title: "Why a Group of People Like to Go to the Mall"
 date: 2022-10-07
-tags: [muslim, essay, journal]
+tags: [essay, journal]
 publish_external: false
 ---
 

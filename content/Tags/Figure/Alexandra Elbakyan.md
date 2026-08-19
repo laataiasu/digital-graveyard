@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Elbakyan"
 date: 2001-01-01
-tags: [figure, science, technology]
+tags: [figure]
 publish_external: false
 ---
 

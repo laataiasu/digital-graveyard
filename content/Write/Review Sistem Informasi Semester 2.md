@@ -1,7 +1,7 @@
 ---
 title: "Review Sistem Informasi  ~Semester 2"
 date: 2020-05-24
-tags: [education]
+tags: [essay]
 publish_external: false
 ---
 

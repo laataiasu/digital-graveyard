@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Series Review"
 date: 2021-07-15
-tags: [film, review, business, tech]
+tags: [film, review]
 publish_external: false
 ---
 

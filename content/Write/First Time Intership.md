@@ -1,7 +1,7 @@
 ---
 title: "First Time Intership"
 date: 2022-08-26
-tags: [journal, data-engineering]
+tags: [journal]
 publish_external: false
 ---
 

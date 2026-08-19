@@ -1,7 +1,7 @@
 ---
 title: "Marketing Data for Your Business"
 date: 2001-01-01
-tags: []
+tags: [note]
 publish_external: false
 ---
 

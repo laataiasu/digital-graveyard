@@ -1,7 +1,7 @@
 ---
 title: "Choice Blindness"
 date: 2020-09-24
-tags: [essay, pseudocomedy]
+tags: [essay]
 publish_external: false
 timeline_notification: [1600922570]
 ---

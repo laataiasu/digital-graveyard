@@ -1,7 +1,7 @@
 ---
 title: "Repurchase Intention in Live Streaming – Perspectives from Self-Determination Theory, Channel  Theory"
 date: 2021-01-01
-tags: [ecommerce, marketing]
+tags: [essay]
 publish_external: false
 ---
 

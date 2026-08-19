@@ -1,7 +1,7 @@
 ---
 title: "Replaced"
 date: 2020-11-14
-tags: [essay, business, pseudocomedy, tech]
+tags: [essay]
 publish_external: false
 timeline_notification: [1605307249]
 ---

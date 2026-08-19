@@ -1,7 +1,7 @@
 ---
 title: "Berpemilu 2024 dengan Hoream"
 date: 2024-02-11
-tags: [pemilu, sql, postgres, web-scraping, journal]
+tags: [journal]
 publish_external: true
 hideSummary: true
 draft: false

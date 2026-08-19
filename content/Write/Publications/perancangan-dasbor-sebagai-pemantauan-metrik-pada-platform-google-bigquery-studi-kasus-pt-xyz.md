@@ -1,7 +1,7 @@
 ---
 title: "Dashboard Design as Metric Monitoring on Google BigQuery Platform (Case Study: PT. XYZ)"
 date: 2022-01-01
-tags: [data, analytics, dashboard, case-study]
+tags: [case-study]
 publish_external: false
 ---
 

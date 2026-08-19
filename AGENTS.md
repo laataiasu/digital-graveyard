@@ -57,6 +57,39 @@ content/
 
 ---
 
+## 🏷️ Taxonomy & Semantic Architecture (Tags vs. Links vs. Folders)
+
+To prevent *tag pollution* and maintain a rich, high-signal knowledge graph in Quartz and Obsidian, adhere strictly to the following 3-tier division of labor:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 1. FOLDERS  (Where it lives)      → Broad domain & privacy  │
+│    (Knowledge/, Write/, Read/, Watch/, Projects/, Personal/)│
+├─────────────────────────────────────────────────────────────┤
+│ 2. TAGS     (What KIND of note)   → Format / Archetype      │
+│    (journal, essay, guide, book, film, review, note, moc)   │
+├─────────────────────────────────────────────────────────────┤
+│ 3. LINKS    (What it is ABOUT)    → Concepts & Entities     │
+│    ([[Linux]], [[Git]], [[Nietzsche]], [[Postgres]])        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 1. Tags (`tags: [...]`): Strictly for Formats & Archetypes
+Tags are reserved exclusively for the structural **format** or **archetype** of a note. Notes should generally have **1–2 tags max** selected strictly from the approved taxonomy:
+
+* **Media & Consumption**: `film`, `anime`, `drama`, `youtube`, `book`, `manga`, `sound`
+* **Writing & Reflection**: `journal`, `essay`, `review`, `reflection`, `literature`
+* **Knowledge & Technical**: `guide`, `cheatsheet`, `note`, `interesting-terms`
+* **Projects**: `project`, `case-study`
+* **Entities / Index Stubs**: `figure`, `company`, `software`, `gadget`, `country`, `organization`, `school`, `religion`
+
+### 2. Wikilinks (`[[Concept]]`): Exclusively for Concepts, Topics, & Entities
+* **Never tag topics or entities** (e.g. do **NOT** use `tags: [linux, devops, productivity, philosophy, muslim]`).
+* Instead, link them naturally in the note body: `...a guide to [[Linux]] systems and [[DevOps]] automation...`
+* **Why**: Wikilinks generate two-way backlinks, show up on Quartz interactive graphs, provide hover popovers, and can evolve into full atomic notes or Maps of Content (MOCs).
+
+---
+
 ## 🏷️ Frontmatter & Privacy Guidelines
 
 Every Markdown file in `content/` must follow this standard YAML frontmatter block:
@@ -65,7 +98,7 @@ Every Markdown file in `content/` must follow this standard YAML frontmatter blo
 ---
 title: "Natural Title Case"
 date: YYYY-MM-DD
-tags: [tag1, tag2, tag3]
+tags: [format-tag]
 publish_external: true
 ---
 ```
@@ -83,7 +116,7 @@ publish_external: true
 ### 1. Ingesting Raw Writing
 Use the process writing workflow in `.agent/workflows/process-writing.md`:
 * Generates natural Title Case title.
-* Extracts 3–5 lowercase tags.
+* Assigns 1–2 approved format tags (e.g. [essay], [review]) and links concepts as wikilinks ([[Topic]]) in body.
 * Formats images as `content/assets/Write/[Title]/[slug]-N.ext`.
 * Uses Obsidian wikilinks for image references: `![[slug-N.ext]]`.
 * Saves post flat in `content/Write/[Title].md`.

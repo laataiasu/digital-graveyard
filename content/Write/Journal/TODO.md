@@ -1,7 +1,7 @@
 ---
 title: "TODO"
 date: 2026-05-19
-tags: []
+tags: [journal]
 publish_external: false
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Strategic Blueprint for Building a Persistent Transparency Platform in Indonesia"
 date: 2025-07-14
-tags: [essay, open-data]
+tags: [essay]
 publish_external: true
 ---
 

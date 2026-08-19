@@ -1,7 +1,7 @@
 ---
 title: "Memory is Unreliable"
 date: 2024-02-17
-tags: [journal, essay, muslim]
+tags: [journal, essay]
 publish_external: false
 ---
 

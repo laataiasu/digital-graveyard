@@ -1,7 +1,7 @@
 ---
 title: "Curhat Tentang Lembaga Dakwah"
 date: 2021-03-14
-tags: [muslim, business, essay]
+tags: [essay]
 publish_external: false
 ---
 

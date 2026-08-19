@@ -1,7 +1,7 @@
 ---
 title: "Review Thinking Fast and Slow"
 date: 2001-01-01
-tags: []
+tags: [book]
 publish_external: false
 ---
 

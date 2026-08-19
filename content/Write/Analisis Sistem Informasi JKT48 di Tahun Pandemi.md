@@ -1,7 +1,7 @@
 ---
 title: "Analisis Sistem Informasi JKT48 di Tahun Pandemi"
 date: 2022-04-30
-tags: [ngidol, business, essay]
+tags: [essay]
 publish_external: true
 ---
 

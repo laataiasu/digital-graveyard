@@ -1,7 +1,7 @@
 ---
 title: "Do Nothing"
 date: 2024-07-30
-tags: [event]
+tags: [journal]
 publish_external: false
 source: null
 draft: true

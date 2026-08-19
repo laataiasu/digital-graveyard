@@ -1,7 +1,7 @@
 ---
 title: "Angel Investor and Venture Capitalist as Financing Source of a New Business"
 date: 2020-01-01
-tags: [finance, startup]
+tags: [essay]
 publish_external: false
 ---
 

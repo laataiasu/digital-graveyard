@@ -1,7 +1,7 @@
 ---
 title: "Review Na Willa"
 date: 2026-03-27
-tags: [review, childhood, philosophy, na-willa]
+tags: [review]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Programming Foundations 1"
 date: 2019-08-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSGE601020
 ---

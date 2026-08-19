@@ -1,7 +1,7 @@
 ---
 title: "English"
 date: 2020-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: UIGE600003
 ---

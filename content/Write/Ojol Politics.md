@@ -1,7 +1,7 @@
 ---
 title: "Ojol Politics"
 date: 2024-02-12
-tags: [pemilu]
+tags: [essay]
 publish_external: false
 hideSummary: true
 draft: false

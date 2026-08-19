@@ -1,7 +1,7 @@
 ---
 title: "FUKI"
 date: 2001-01-01
-tags: [orgnization]
+tags: [organization]
 publish_external: false
 ---
 

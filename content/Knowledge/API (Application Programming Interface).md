@@ -1,7 +1,7 @@
 ---
 title: "Apa itu API?"
 date: 2021-06-16
-tags: [backend, software-engineering]
+tags: [note]
 publish_external: false
 updated: "2025-05-11T09:49"
 ---

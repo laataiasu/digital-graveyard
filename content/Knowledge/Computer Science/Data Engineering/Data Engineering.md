@@ -1,7 +1,7 @@
 ---
 title: "Extras"
 date: 2021-06-25
-tags: [data, data-science]
+tags: [note]
 publish_external: false
 updated: "2023-09-11T16:04"
 ---

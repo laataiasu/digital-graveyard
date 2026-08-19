@@ -1,7 +1,7 @@
 ---
 title: "Intro"
 date: 2020-05-24
-tags: [intro, muslim, essay]
+tags: [essay]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Hatta"
 date: 2001-01-01
-tags: [economics, figure, public-intellectual]
+tags: [figure]
 publish_external: false
 ---
 

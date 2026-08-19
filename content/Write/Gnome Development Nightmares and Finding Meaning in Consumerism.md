@@ -1,7 +1,7 @@
 ---
 title: "Gnome Development Nightmares and Finding Meaning in Consumerism"
 date: 2025-07-16
-tags: [gnome, linux, openrouter, philosophy, cynicism]
+tags: [essay]
 publish_external: true
 ---
 

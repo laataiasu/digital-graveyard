@@ -1,7 +1,7 @@
 ---
 title: "Building an Android Expense Tracker from Zero with AI Models"
 date: 2026-04-05
-tags: [android, ai, coding, expense-tracker, gemini]
+tags: [essay]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Lingkungan"
 date: 2001-01-01
-tags: [design]
+tags: []
 publish_external: false
 ---
 

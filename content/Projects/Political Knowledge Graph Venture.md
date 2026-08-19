@@ -1,7 +1,7 @@
 ---
 title: "Political Knowledge Graph Venture"
 date: 2026-05-19
-tags: []
+tags: [project]
 publish_external: false
 ---
 

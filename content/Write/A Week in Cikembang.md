@@ -1,7 +1,7 @@
 ---
 title: "A Week in Cikembang"
 date: 2021-12-16
-tags: [essay, travel]
+tags: [essay]
 publish_external: true
 ---
 

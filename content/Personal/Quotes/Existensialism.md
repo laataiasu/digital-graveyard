@@ -1,7 +1,7 @@
 ---
 title: "Existensialism"
 date: 2001-01-01
-tags: [philosophy]
+tags: []
 publish_external: false
 ---
 

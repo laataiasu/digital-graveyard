@@ -1,7 +1,7 @@
 ---
 title: "The Challenges and Concerns of Decentralized Finance"
 date: 2021-06-17
-tags: [essay, cryptocurrency]
+tags: [essay]
 publish_external: false
 ---
 

@@ -69,10 +69,67 @@ def get_file_date(filepath, content, existing_date=None):
     mtime = os.path.getmtime(filepath)
     return datetime.datetime.fromtimestamp(mtime).strftime("%Y-%m-%d")
 
-def normalize_tags(raw_tags):
-    if not raw_tags:
+APPROVED_FORMAT_TAGS = {
+    # Media & Consumption
+    "film", "anime", "drama", "youtube", "book", "manga", "sound",
+    # Writing & Reflection
+    "journal", "essay", "review", "reflection", "literature",
+    # Knowledge & Technical
+    "guide", "cheatsheet", "note", "interesting-terms",
+    # Projects
+    "project", "case-study",
+    # Entities / Indexes
+    "figure", "company", "software", "gadget", "country", "organization", "school", "religion"
+}
+
+TAG_MAPPINGS = {
+    "tips": "guide",
+    "tutorial": "guide",
+    "refleksi": "reflection",
+    "self-reflection": "reflection",
+    "poetry": "literature",
+    "lyrics": "literature",
+    "orgnization": "organization",
+    "classic-thinker": "figure",
+    "modern-thinker": "figure",
+    "public-intellectual": "figure",
+    "pseudocomedy": "essay",
+    "event": "journal",
+}
+
+def infer_tag_from_path(rel_path):
+    parts = rel_path.split(os.sep)
+    top = parts[0]
+    if top == "Watch":
+        if "Anime" in parts:
+            return ["anime"]
+        return ["film"]
+    elif top == "Read":
+        if "Manga" in parts:
+            return ["manga"]
+        return ["book"]
+    elif top == "Write":
+        if len(parts) > 1 and parts[1] == "Journal":
+            return ["journal"]
+        return ["essay"]
+    elif top == "Knowledge":
+        if "Tech Tips" in rel_path or "Linux Tips" in rel_path:
+            return ["guide"]
+        return ["note"]
+    elif top == "Projects":
+        return ["project"]
+    elif top == "Tags":
+        if len(parts) > 1:
+            sub = parts[1].lower()
+            if sub in APPROVED_FORMAT_TAGS:
+                return [sub]
         return []
-    if isinstance(raw_tags, str):
+    return []
+
+def normalize_tags(raw_tags, rel_path=""):
+    if not raw_tags:
+        tags_list = []
+    elif isinstance(raw_tags, str):
         tags_list = [t.strip() for t in raw_tags.split(",") if t.strip()]
     elif isinstance(raw_tags, (list, tuple, set)):
         tags_list = list(raw_tags)
@@ -84,8 +141,13 @@ def normalize_tags(raw_tags):
         if t is None:
             continue
         t_str = str(t).strip().lstrip("#").lower()
-        if t_str and t_str not in clean:
-            clean.append(t_str)
+        mapped = TAG_MAPPINGS.get(t_str, t_str)
+        if mapped in APPROVED_FORMAT_TAGS and mapped not in clean:
+            clean.append(mapped)
+            
+    if not clean and rel_path:
+        clean = infer_tag_from_path(rel_path)
+        
     return clean
 
 def clean_h1_headings(body):
@@ -179,12 +241,7 @@ def process_file(filepath):
     date = get_file_date(filepath, body, fm_data.get("date"))
 
     # 3. Resolve Tags
-    tags = normalize_tags(fm_data.get("tags"))
-    if not tags:
-        if "Anime" in rel_path.split(os.sep):
-            tags = ["anime"]
-        elif "Manga" in rel_path.split(os.sep):
-            tags = ["manga"]
+    tags = normalize_tags(fm_data.get("tags"), rel_path)
 
     # 4. Resolve publish_external (STRICT PRIVACY: False unless originally true in git HEAD)
     if norm_rel in HEAD_PUBLISH_TRUE_FILES:

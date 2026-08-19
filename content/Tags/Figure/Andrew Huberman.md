@@ -1,7 +1,7 @@
 ---
 title: "Andrew Huberman"
 date: 2001-01-01
-tags: [figure, modern-thinker, science]
+tags: [figure]
 publish_external: false
 ---
 

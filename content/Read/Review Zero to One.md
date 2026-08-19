@@ -1,7 +1,7 @@
 ---
 title: "Zero to One"
 date: 2021-08-21
-tags: [review, business, book]
+tags: [review, book]
 publish_external: false
 ---
 

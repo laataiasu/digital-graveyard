@@ -1,7 +1,7 @@
 ---
 title: "Umbrella Even If It Won’t Rain"
 date: 2025-08-09
-tags: [cryptocurrency]
+tags: [essay]
 publish_external: true
 draft: false
 description: null

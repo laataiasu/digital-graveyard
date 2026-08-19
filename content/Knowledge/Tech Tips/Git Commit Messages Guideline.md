@@ -1,7 +1,7 @@
 ---
 title: "Git Commit Messages Guideline"
 date: 2025-07-06
-tags: [tech]
+tags: [guide]
 publish_external: true
 draft: false
 enableToc: false

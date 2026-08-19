@@ -1,7 +1,7 @@
 ---
 title: "Business Process Modeling Organisasi"
 date: 2021-04-05
-tags: [muslim, essay]
+tags: [essay]
 publish_external: false
 ---
 

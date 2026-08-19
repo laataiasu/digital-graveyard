@@ -1,7 +1,7 @@
 ---
 title: "The Stagnation of LDK and Many College Organizations"
 date: 2023-10-02
-tags: [journal, essay, muslim]
+tags: [journal, essay]
 publish_external: true
 ---
 

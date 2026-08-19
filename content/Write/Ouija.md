@@ -1,7 +1,7 @@
 ---
 title: "Ouija"
 date: 2020-11-20
-tags: [journal, horror, muslim]
+tags: [journal]
 publish_external: false
 timeline_notification: [1605841331]
 ---

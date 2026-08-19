@@ -1,7 +1,7 @@
 ---
 title: "Symbols in Keyboard"
 date: 2025-07-06
-tags: [tips]
+tags: [guide]
 publish_external: true
 ---
 

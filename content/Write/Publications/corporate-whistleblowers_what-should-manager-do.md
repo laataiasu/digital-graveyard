@@ -1,7 +1,7 @@
 ---
 title: "Corporate Whistleblowers_What Should Manager Do"
 date: 2020-01-01
-tags: [ethics, management]
+tags: [essay]
 publish_external: false
 ---
 

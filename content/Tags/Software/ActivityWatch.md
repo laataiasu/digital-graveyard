@@ -1,6 +1,6 @@
 ---
 title: "ActivityWatch"
 date: 2025-07-21
-tags: [software, productivity]
+tags: [software]
 publish_external: true
 ---

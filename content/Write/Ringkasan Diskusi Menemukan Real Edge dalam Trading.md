@@ -1,7 +1,7 @@
 ---
 title: "Ringkasan Diskusi: Menemukan Real Edge dalam Trading"
 date: 2026-03-03
-tags: [trading, investing, expected value, psychology, risk management]
+tags: [essay]
 publish_external: true
 ---
 

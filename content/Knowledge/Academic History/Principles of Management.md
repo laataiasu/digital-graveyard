@@ -1,7 +1,7 @@
 ---
 title: "Principles of Management"
 date: 2020-08-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSIM602161
 ---

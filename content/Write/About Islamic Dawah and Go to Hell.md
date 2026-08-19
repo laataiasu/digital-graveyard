@@ -1,7 +1,7 @@
 ---
 title: "About Islamic Dawah and Go to Hell"
 date: 2020-01-12
-tags: [business, essay, muslim]
+tags: [essay]
 publish_external: false
 timeline_notification: [1600922570]
 ---

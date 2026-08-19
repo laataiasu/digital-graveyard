@@ -1,6 +1,6 @@
 ---
 title: "Northstar Group"
 date: 2026-05-19
-tags: [private-equity]
+tags: [project]
 publish_external: false
 ---

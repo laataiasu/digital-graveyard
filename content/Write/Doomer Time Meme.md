@@ -1,7 +1,7 @@
 ---
 title: "Doomer Time"
 date: 2022-05-07
-tags: [meme]
+tags: [essay]
 publish_external: false
 ---
 

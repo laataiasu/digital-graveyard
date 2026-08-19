@@ -1,7 +1,7 @@
 ---
 title: "Empowerment, Beauty, and the Shifting Paradigm: A Reflection on Standards"
 date: 2023-10-28
-tags: [journal, essay, muslim]
+tags: [journal, essay]
 publish_external: false
 ---
 

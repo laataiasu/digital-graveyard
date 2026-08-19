@@ -1,7 +1,7 @@
 ---
 title: "Standup Comedy"
 date: 2001-01-01
-tags: []
+tags: [essay]
 publish_external: false
 draft: true
 ---

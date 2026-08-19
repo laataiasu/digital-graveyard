@@ -1,7 +1,7 @@
 ---
 title: "Review Sistem Informasi Fasilkom  - Index"
 date: 2020-05-20
-tags: [education]
+tags: [essay]
 publish_external: false
 ---
 

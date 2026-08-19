@@ -1,7 +1,7 @@
 ---
 title: "Discrete Mathematics 2"
 date: 2020-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSGE601011
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Lagu Pecundang"
 date: 2026-06-01
-tags: [poetry, lyrics, reflection, indonesian]
+tags: [literature, reflection]
 publish_external: false
 ---
 

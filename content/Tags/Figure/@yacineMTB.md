@@ -1,7 +1,7 @@
 ---
 title: "@yacineMTB"
 date: 2001-01-01
-tags: [figure, twitter]
+tags: [figure]
 publish_external: false
 aliases: [1173552893003255808]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Windows to Mac Migration"
 date: 2022-10-19
-tags: [productivity, tips]
+tags: [guide]
 publish_external: true
 updated: "2022-10-19T13:15"
 ---

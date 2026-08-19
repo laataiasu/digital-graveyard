@@ -1,7 +1,7 @@
 ---
 title: "Indonesia Stock Exchange"
 date: 2025-07-13
-tags: [indonesia, idx, bei, capital-market, securities, financial-regulation, public-company, ojk, data-sources]
+tags: [project]
 publish_external: false
 aliases: [IDX, BEI, Indonesia Stock Exchange, Bursa Efek Indonesia]
 created: 2025-07-13

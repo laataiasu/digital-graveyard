@@ -1,7 +1,7 @@
 ---
 title: "Review Sixth Sense (1999)"
 date: 2018-06-03
-tags: [film, review, horror]
+tags: [film, review]
 publish_external: false
 updated: "2020-07-20T19:44:16.186-07:00"
 ---

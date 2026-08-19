@@ -1,7 +1,7 @@
 ---
 title: "AI for Trading"
 date: 2024-08-13
-tags: [finance]
+tags: [journal]
 publish_external: false
 source: Udacity
 draft: true

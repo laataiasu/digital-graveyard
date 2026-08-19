@@ -1,7 +1,7 @@
 ---
 title: "Kekonyolan Sertifikasi Dai Kemenag"
 date: 2020-09-15
-tags: [muslim, essay]
+tags: [essay]
 publish_external: false
 ---
 

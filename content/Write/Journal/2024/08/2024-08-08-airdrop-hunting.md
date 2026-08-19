@@ -1,7 +1,7 @@
 ---
 title: "Airdrop Hunting"
 date: 2024-08-08
-tags: [cryptocurrency]
+tags: [journal]
 publish_external: false
 source: null
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: "Islam dan Nihilisme"
 date: 2020-07-29
-tags: [muslim, essay]
+tags: [essay]
 publish_external: false
 ---
 

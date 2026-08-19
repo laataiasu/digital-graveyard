@@ -1,7 +1,7 @@
 ---
 title: "Sample Data: Assume you have a DataFrame `df` with a 'Close' column for [[Facebook]] stock prices."
 date: 2001-01-01
-tags: []
+tags: [note]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Emha Ainun Nadjib"
 date: 2001-01-01
-tags: [figure, literature, spirituality]
+tags: [figure, literature]
 publish_external: false
 aliases: [Cak Nun]
 ---

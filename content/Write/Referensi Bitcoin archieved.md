@@ -1,7 +1,7 @@
 ---
 title: "Referensi Bitcoin (archieved)"
 date: 2020-02-09
-tags: [cryptocurrency, muslim, tech]
+tags: [essay]
 publish_external: false
 ---
 

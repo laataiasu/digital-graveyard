@@ -1,7 +1,7 @@
 ---
 title: "Laporan Harta Kekayaan Penyelenggara Negara"
 date: 2025-07-13
-tags: [indonesia, anti-corruption]
+tags: [project]
 publish_external: false
 aliases: [LHKPN, Asset Declaration]
 source: KPK Regulation No. 7/2016

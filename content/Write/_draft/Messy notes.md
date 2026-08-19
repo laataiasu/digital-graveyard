@@ -1,7 +1,7 @@
 ---
 title: "Messy notes"
 date: 2022-06-14
-tags: [draft, ideas]
+tags: [essay]
 publish_external: false
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Jangan Bohong: Gema Kejujuran di Tengah Reruntuhan Digital"
 date: 2021-07-09
-tags: [kejujuran, media sosial, teknologi, masyarakat, refleksi]
+tags: [reflection]
 publish_external: false
 ---
 

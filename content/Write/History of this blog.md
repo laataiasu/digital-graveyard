@@ -1,7 +1,7 @@
 ---
 title: "History of this blog"
 date: 2020-05-19
-tags: [intro, muslim]
+tags: [essay]
 publish_external: false
 ---
 

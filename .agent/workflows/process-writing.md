@@ -25,7 +25,8 @@ Before doing anything, understand the file/image structure used in this project:
 
 2. **Generate Metadata**
    - **Title**: A specific, descriptive, and engaging title based on the content. Use the post's own heading if present, or craft one from the content. Do NOT use slug-style titles — use natural title case (e.g. `Why I Vibecoded My Own Time Tracker`, not `why-i-vibecoded-my-own-time-tracker`).
-   - **Tags**: Generate 3–5 relevant lowercase tags (e.g. `[vibecoding, android, productivity]`).
+   - **Tags**: Assign 1–2 approved format tags from the taxonomy (e.g. `[essay]`, `[review]`, `[journal]`, `[reflection]`, `[guide]`). Do NOT use topic or concept tags.
+   - **Concept Links**: Ingest concepts/entities as Obsidian wikilinks (`[[Topic]]`, `[[Linux]]`, `[[Android]]`) directly within the text content.
    - **Date**: Use the date exist in filename/title or use current date in `YYYY-MM-DD` format.
 
 3. **Process Images**
@@ -49,7 +50,7 @@ Before doing anything, understand the file/image structure used in this project:
      ---
      title: "Post Title Here"
      date: YYYY-MM-DD
-     tags: [tag1, tag2, tag3]
+     tags: [essay]  # Use approved format tag(s)
      publish_external: true
      ---
      ```

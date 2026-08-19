@@ -1,7 +1,7 @@
 ---
 title: "Financial Engineering and Artificial Intelligence in Python"
 date: 2024-08-11
-tags: [finance]
+tags: [journal]
 publish_external: false
 source: The Lazy Programmer
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: "Ngaji Filsafat"
 date: 2021-06-29
-tags: [philosophy]
+tags: [note]
 publish_external: true
 ---
 

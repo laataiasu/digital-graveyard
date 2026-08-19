@@ -1,6 +1,6 @@
 ---
 title: "OpenRouter"
 date: 2025-07-16
-tags: [software, generative-ai, llm-aggregator]
+tags: [software]
 publish_external: true
 ---

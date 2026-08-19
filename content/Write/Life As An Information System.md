@@ -1,7 +1,7 @@
 ---
 title: "Life As An Information System"
 date: 2025-07-22
-tags: [information-system, erp, tips]
+tags: [guide]
 publish_external: true
 draft: false
 description: null

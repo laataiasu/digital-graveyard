@@ -1,7 +1,7 @@
 ---
 title: "AI Agents with LangChain and LangGraph"
 date: 2026-05-19
-tags: []
+tags: [note]
 publish_external: false
 ---
 

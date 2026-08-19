@@ -1,6 +1,6 @@
 ---
 title: "East Ventures"
 date: 2026-05-19
-tags: [venture-capital]
+tags: [project]
 publish_external: false
 ---

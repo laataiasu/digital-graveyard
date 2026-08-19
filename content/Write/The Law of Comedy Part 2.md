@@ -1,7 +1,7 @@
 ---
 title: "The Law of Comedy ~ Part 2"
 date: 2020-11-15
-tags: [essay, muslim, pseudocomedy]
+tags: [essay]
 publish_external: false
 timeline_notification: [1605415689]
 ---

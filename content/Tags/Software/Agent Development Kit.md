@@ -1,7 +1,7 @@
 ---
 title: "Agent Development Kit"
 date: 2025-07-14
-tags: [software, generative-ai]
+tags: [software]
 publish_external: true
 aliases: [ADK]
 ---

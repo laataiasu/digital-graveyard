@@ -1,7 +1,7 @@
 ---
 title: "Don't lie"
 date: 2021-07-09
-tags: [draft, ideas]
+tags: [essay]
 publish_external: false
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Islamic Finance"
 date: 2021-04-04
-tags: [finance]
+tags: [note]
 publish_external: false
 ---
 

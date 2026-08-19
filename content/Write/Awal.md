@@ -1,7 +1,7 @@
 ---
 title: "Awal"
 date: 2014-01-01
-tags: [intro]
+tags: [essay]
 publish_external: false
 updated: "2020-07-20T19:44:17.053-07:00"
 ---

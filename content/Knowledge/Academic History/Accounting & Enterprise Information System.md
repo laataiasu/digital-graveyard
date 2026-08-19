@@ -1,7 +1,7 @@
 ---
 title: "Accounting & Enterprise Information System"
 date: 2021-02-01
-tags: []
+tags: [note]
 publish_external: true
 aliases: CSIM602263
 ---
