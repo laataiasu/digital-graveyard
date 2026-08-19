@@ -3,12 +3,12 @@ title: "Linux & Terminal Power User Guide"
 date: 2026-08-18
 tags: [linux, tips, devops, workflow, productivity]
 publish_external: true
-updated: "2026-08-18T21:03"
+updated: 2026-08-19 21:32:44
 ---
 
 # Linux & Terminal Power User Guide
 
-A practical, referenceable guide to terminal ergonomics, session multiplexing, fuzzy pipelines, Git acceleration, and low-latency mobile remote development.
+A practical, referenceable guide to terminal ergonomics, modern CLI replacements, session multiplexing, fuzzy pipelines, [[Git]] acceleration, and low-latency mobile remote development.
 
 ---
 
@@ -19,7 +19,7 @@ Kitty provides a GPU-accelerated OpenGL canvas with native Wayland integration, 
 ### Essential Keyboard Shortcuts
 | Shortcut | Action | Description |
 | :--- | :--- | :--- |
-| `Ctrl + Shift + e` | **URL Hints** | Highlights all visible URLs with letter tags. Press the letter to open in browser. |
+| `Ctrl + Shift + e` | **URL Hints** | Highlights visible URLs with letter tags. Press the letter to open in browser. |
 | `Ctrl + Shift + p` > `f` | **Path Hints** | Pick and insert any file path visible on screen into the active command. |
 | `Ctrl + Shift + p` > `h` | **Hash Hints** | Pick and insert git commit hashes from screen buffer. |
 | `Ctrl + Shift + u` | **Unicode Picker** | Interactive search and insert for emojis and Nerd Font glyphs. |
@@ -38,7 +38,7 @@ Kitty provides a GPU-accelerated OpenGL canvas with native Wayland integration, 
 
 ---
 
-## 2. Session Multiplexing & Persistence (Zellij)
+## 2. Session Multiplexing & Layouts (Zellij)
 
 Zellij manages persistent terminal tabs, splits, floating panes, and workspace resurrection across reboots.
 
@@ -58,9 +58,50 @@ if [[ -n "$SSH_CONNECTION" ]] && [[ -z "$ZELLIJ" ]]; then
 fi
 ```
 
+### Declarative Multi-Pane Layouts (`~/.config/zellij/layouts/dev.kdl`)
+Spin up a standardized development workspace with a single command (`zellij --layout dev`):
+```kdl
+layout {
+    pane split_direction="vertical" {
+        pane size="65%" name="Editor / Primary" focus=true
+        pane split_direction="horizontal" size="35%" {
+            pane name="AI Agent / Terminal"
+            pane name="Logs / Dev Server"
+        }
+    }
+    pane size=1 borderless=true {
+        plugin location="zellij:compact-bar"
+    }
+}
+```
+
 ---
 
-## 3. Fuzzy Pipelines & Zsh Ergonomics
+## 3. Modern Core CLI Replacements
+
+Replace slow legacy Unix utilities with high-performance, syntax-aware tools:
+
+| Legacy Tool | Modern Alternative | Key Advantage | Command / Alias |
+| :--- | :--- | :--- | :--- |
+| `cd` | **`zoxide`** | Frecency-based smart jumping across directory history | `z project-dir` |
+| `cat` / `less` | **`bat`** | Syntax highlighting, line numbers, and Git change gutter | `bat main.py` |
+| `du -sh` | **`dust`** | Instant hierarchical visual breakdown of disk consumption | `dust` |
+| `top` / `htop` | **`btop`** | Rich TUI dashboard for CPU, memory, disks, and network I/O | `btop` |
+| `find` | **`fd`** | Intuitive syntax, respects `.gitignore`, fast multithreading | `fd '\.py$'` |
+
+### Shell Integration Aliases (`~/.zshrc`)
+```zsh
+# Smart directory jumping
+eval "$(zoxide init zsh)"
+
+# Syntax-aware pager
+alias cat='bat --paging=never --style=plain'
+alias preview='bat --style=numbers,changes'
+```
+
+---
+
+## 4. Fuzzy Pipelines & Zsh Ergonomics
 
 Combine `fzf`, `ripgrep`, and `fd` with global aliases to eliminate repetitive typing.
 
@@ -90,9 +131,12 @@ fkill() {
 }
 ```
 
+> [!TIP]
+> **Shell History Supercharging**: Install **`atuin`** (`eval "$(atuin init zsh)"`) to replace default `Ctrl + R` with an encrypted, SQLite-backed interactive history search that records exit codes, execution duration, and directory context across multiple machines.
+
 ---
 
-## 4. Git Power-User Acceleration
+## 5. Git Power-User Acceleration
 
 ### Interactive Staging with `lazygit`
 ```bash
@@ -102,6 +146,9 @@ alias lg='lazygit'
 * `c`: Commit with formatted message.
 * `P`: Push to upstream remote.
 * `z`: Undo last Git operation.
+
+> [!NOTE]
+> Configure **`delta`** in `~/.gitconfig` as the default pager for side-by-side syntax-highlighted diffs inside both terminal Git and `lazygit`.
 
 ### Parallel Worktrees (Branching Without Stashing)
 Avoid switching branches or stashing dirty working trees:
@@ -116,7 +163,7 @@ git worktree remove ../feature-branch
 
 ---
 
-## 5. Mobile Remote Workflow (Phone + Termius + Tailscale)
+## 6. Mobile Remote Workflow & Network Ergonomics (Termius + Tailscale + Mosh)
 
 Control full workstation environments and AI coding agents from a mobile device (iOS/Android Termius over Tailscale) with zero connection stalls.
 
@@ -126,7 +173,21 @@ Standard TCP SSH drops when mobile devices transition between Wi-Fi and cellular
 * **Instant Local Echo**: Predicts typing and cursor movement locally, eliminating mobile network latency.
 * **Termius Configuration**: Set host connection address to Tailscale IP/hostname and toggle **Use Mosh**.
 
-### 2. Background Push Alerts (ntfy)
+### 2. SSH Connection Multiplexing (`ControlMaster`)
+Eliminate handshake latency for repeated SSH, SCP, and Rsync connections by reusing existing sockets.
+
+Add to `~/.ssh/config`:
+```ssh-config
+Host *
+  ControlMaster auto
+  ControlPath ~/.ssh/sockets/%r@%h-%p
+  ControlPersist 4h
+  ServerAliveInterval 60
+  ServerAliveCountMax 3
+```
+*(Ensure socket directory exists: `mkdir -p ~/.ssh/sockets && chmod 700 ~/.ssh/sockets`)*
+
+### 3. Background Push Alerts (`ntfy`)
 Receive phone vibrations when background jobs or AI coding agents finish long tasks:
 1. Subscribe to a private topic on the free **ntfy** mobile app.
 2. Define a shell helper in `~/.zshrc`:
@@ -141,13 +202,13 @@ Receive phone vibrations when background jobs or AI coding agents finish long ta
    agy "refactor module" && notify "AGY finished task!"
    ```
 
-### 3. Termius Mobile Accessory Shortcuts
+### 4. Termius Mobile Accessory Shortcuts
 * **Keyboard Accessory Bar**: Add `Ctrl+C`, `Esc`, `Tab`, `|`, `~`, `_`, `Enter`.
 * **One-Tap Snippets**: `agy`, `lazygit`, `up`, `fkill`, `git status`.
 
 ---
 
-## 6. Background Automation (`systemd --user`)
+## 7. Background Automation & Process Resilience (`systemd --user`)
 
 Replace fragile cron entries and manual loop scripts with managed user-space systemd units.
 
@@ -179,4 +240,10 @@ WantedBy=timers.target
 systemctl --user daemon-reload
 systemctl --user enable --now task-sync.timer
 systemctl --user list-timers
+```
+
+### Preventing Sleep During Heavy Workloads (`systemd-inhibit`)
+Prevent laptops or workstations from entering sleep/suspend states when closing the lid during long builds, model training, or data transfers:
+```bash
+systemd-inhibit --what=idle:sleep:handle-lid-switch --why="Running compilation" make build
 ```

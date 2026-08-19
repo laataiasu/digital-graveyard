@@ -3,7 +3,7 @@ title: "bluetooth arch linux"
 date: 2021-06-15
 tags: [linux, tips]
 publish_external: true
-updated: "2025-05-29T14:07"
+updated: 2026-08-19 21:33:17
 ---
 
 - [[#First Install]]
@@ -53,3 +53,5 @@ sudo systemctl enable bluetooth.service
 > [!info] Slow apt downloads? Try this solution to speed them up  
 > In this post we explain a simple method to speed up apt downloads from the repositories available for Ubuntu and other distributions.  
 > [https://en.ubunlog.com/slow-apt-downloads-solution/](https://en.ubunlog.com/slow-apt-downloads-solution/)
+
+[[Git]]
