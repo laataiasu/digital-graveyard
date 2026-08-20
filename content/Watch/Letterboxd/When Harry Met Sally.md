@@ -4,6 +4,6 @@ date: 2024-12-22
 tags: [film]
 publish_external: false
 year: 1989
-letterboxd_uri: "https://boxd.it/29W2"
+letterboxd_uri: "https://letterboxd.com/film/when-harry-met-sally/"
 rating: 2.5
 ---

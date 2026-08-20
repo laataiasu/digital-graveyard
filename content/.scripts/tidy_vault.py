@@ -46,8 +46,9 @@ def replace_inline_tags(body):
         code_blocks.append(match.group(0))
         return f"__CODE_BLOCK_{len(code_blocks)-1}__"
 
+    body = re.sub(r"(?ms)^([`~]{3,})[^\n]*\n.*?\n\1", save_cb, body)
     body = re.sub(r"```[\s\S]*?```", save_cb, body)
-    body = re.sub(r"`[^`]*`", save_cb, body)
+    body = re.sub(r"`[^`\n]+`", save_cb, body)
 
     for pattern, repl in KNOWN_INLINE_TAG_REPLACEMENTS.items():
         body = re.sub(pattern, repl, body)

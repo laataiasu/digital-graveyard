@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 2004
-letterboxd_uri: "https://boxd.it/2bcg"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/before-sunset/"
+rating: 3
 ---

@@ -4,6 +4,6 @@ date: 2022-08-21
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://boxd.it/nsLa"
+letterboxd_uri: "https://letterboxd.com/film/inside-bills-brain-decoding-bill-gates/"
 rating: 3.5
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sophie’s World"
-date: 2020-07-03
+date: 2021-02-20
 tags: [book]
 publish_external: false
 author: Jostein Gaarder
@@ -8,29 +8,10 @@ author: Jostein Gaarder
 
 # Sophie’s World
 
-**Author:** Jostein Gaarder  
-**My Rating:** 0  
-**Date Read:** 2021/02/20  
-**Bookshelves:** 
-
-**Additional Authors:** Paulette Møller  
-**ISBN:** 1857993284  
-**ISBN13:** 9781857993288  
-**Publisher:** Phoenix  
-**Binding:** Paperback  
-**Number of Pages:** 403  
-**Year Published:** 1995  
-**Original Publication Year:** 1991  
-**Date Read:** 2021/02/20  
-**Date Added:** 2020-07-03 00:00:00  
-**My Rating:** 0  
-**Average Rating:** 3.97  
-**Bookshelves:**   
-**Exclusive Shelf:** read  
-**Read Count:** 1  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Jostein Gaarder
+- **Average Rating:** 3.95
+- **Pages:** 403
+- **Year Published:** 1991
+- **Date Added:** 2021-02-20
+- **Date Read:** 2021-02-20
+- **ISBN:** 1857993284

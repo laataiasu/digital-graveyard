@@ -5,8 +5,8 @@ tags: [film, drama]
 publish_external: false
 country: South Korea
 year: 2020
-type: Korean Drama
-score: 8.0
+type: Drama
+score: 8
 progress: 16/16
 ---
 
@@ -14,6 +14,6 @@ progress: 16/16
 
 - **Country:** South Korea
 - **Year:** 2020
-- **Type:** Korean Drama
+- **Type:** Drama
 - **Score:** 8.0
 - **Progress:** 16/16

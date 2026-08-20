@@ -8,29 +8,9 @@ author: Fiersa Besari
 
 # Garis Waktu
 
-**Author:** Fiersa Besari  
-**My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** 
-
-**Additional Authors:**   
-**ISBN:** 9797945251  
-**ISBN13:** 9789797945251  
-**Publisher:** Media Kita  
-**Binding:** Paperback  
-**Number of Pages:** 216  
-**Year Published:** 2016  
-**Original Publication Year:** 2016  
-**Date Read:**   
-**Date Added:** 2020-08-23 00:00:00  
-**My Rating:** 0  
-**Average Rating:** 4.15  
-**Bookshelves:**   
-**Exclusive Shelf:** read  
-**Read Count:** 1  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Fiersa Besari
+- **Average Rating:** 4.15
+- **Pages:** 216
+- **Year Published:** 2016
+- **Date Added:** 2020-08-23
+- **ISBN:** 9797945251

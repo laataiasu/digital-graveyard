@@ -4,6 +4,6 @@ date: 2020-04-27
 tags: [film]
 publish_external: false
 year: 1991
-letterboxd_uri: "https://boxd.it/2aHW"
+letterboxd_uri: "https://letterboxd.com/film/the-silence-of-the-lambs/"
 rating: 3.5
 ---

@@ -4,6 +4,6 @@ date: 2023-02-02
 tags: [film]
 publish_external: false
 year: 1987
-letterboxd_uri: "https://boxd.it/2a1Q"
-rating: 2.0
+letterboxd_uri: "https://letterboxd.com/film/full-metal-jacket/"
+rating: 2
 ---

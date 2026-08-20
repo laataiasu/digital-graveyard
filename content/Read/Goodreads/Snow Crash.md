@@ -8,29 +8,9 @@ author: Neal Stephenson
 
 # Snow Crash
 
-**Author:** Neal Stephenson  
-**My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** to-read
-
-**Additional Authors:**   
-**ISBN:**   
-**ISBN13:**   
-**Publisher:** Spectra  
-**Binding:** Kindle Edition  
-**Number of Pages:** 559  
-**Year Published:** 2018  
-**Original Publication Year:** 1992  
-**Date Read:**   
-**Date Added:** 2021-10-23 00:00:00  
-**My Rating:** 0  
-**Average Rating:** 4.01  
-**Bookshelves:** to-read  
-**Exclusive Shelf:** to-read  
-**Read Count:** 0  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Neal Stephenson
+- **Average Rating:** 4.02
+- **Pages:** 559
+- **Year Published:** 1992
+- **Date Added:** 2021-10-23
+- **Bookshelves:** to-read

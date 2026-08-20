@@ -16,7 +16,7 @@ A **module** is a single Python file (`.py`) that contains code--functions, clas
 # my_module.py
 def greet(name):
     return f"Hello, {name}!"
-````
+```
 
 You can import this module:
 

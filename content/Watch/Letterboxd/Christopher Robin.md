@@ -4,6 +4,6 @@ date: 2020-08-02
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://boxd.it/eSj4"
+letterboxd_uri: "https://letterboxd.com/film/christopher-robin/"
 rating: 3.5
 ---

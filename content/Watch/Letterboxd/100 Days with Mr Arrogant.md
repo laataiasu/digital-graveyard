@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 2004
-letterboxd_uri: "https://boxd.it/1JSI"
-rating: 2.0
+letterboxd_uri: "https://letterboxd.com/film/100-days-with-mr-arrogant/"
+rating: 2
 ---

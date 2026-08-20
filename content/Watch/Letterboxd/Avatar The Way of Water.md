@@ -4,6 +4,6 @@ date: 2022-12-15
 tags: [film]
 publish_external: false
 year: 2022
-letterboxd_uri: "https://boxd.it/2E2E"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/avatar-the-way-of-water/"
+rating: 3
 ---

@@ -4,6 +4,6 @@ date: 2023-04-03
 tags: [film]
 publish_external: false
 year: 2022
-letterboxd_uri: "https://boxd.it/CeMI"
-rating: 2.0
+letterboxd_uri: "https://letterboxd.com/film/get-smart-with-money/"
+rating: 2
 ---

@@ -5,7 +5,7 @@ tags: [film, drama]
 publish_external: false
 country: South Korea
 year: 2010
-type: Korean Drama
+type: Drama
 score: 7.5
 progress: 30/30
 ---
@@ -14,6 +14,6 @@ progress: 30/30
 
 - **Country:** South Korea
 - **Year:** 2010
-- **Type:** Korean Drama
+- **Type:** Drama
 - **Score:** 7.5
 - **Progress:** 30/30

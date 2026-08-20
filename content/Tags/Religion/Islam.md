@@ -7,7 +7,7 @@ publish_external: false
 
 # Islam
 
-#muslim
+[[Muslim]]
 
 [[Allah]]
 

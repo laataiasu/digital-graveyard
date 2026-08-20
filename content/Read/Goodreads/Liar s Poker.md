@@ -1,6 +1,6 @@
 ---
 title: "Liar's Poker"
-date: 2021-08-23
+date: 2022-07-25
 tags: [book]
 publish_external: false
 author: Michael   Lewis
@@ -8,29 +8,9 @@ author: Michael   Lewis
 
 # Liar's Poker
 
-**Author:** Michael   Lewis  
-**My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** 
-
-**Additional Authors:**   
-**ISBN:** 039333869X  
-**ISBN13:** 9780393338690  
-**Publisher:** W. W. Norton & Company  
-**Binding:** Paperback  
-**Number of Pages:** 310  
-**Year Published:** 2010  
-**Original Publication Year:** 1989  
-**Date Read:**   
-**Date Added:** 2021-08-23 00:00:00  
-**My Rating:** 0  
-**Average Rating:** 4.15  
-**Bookshelves:**   
-**Exclusive Shelf:** read  
-**Read Count:** 1  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Michael   Lewis
+- **Average Rating:** 4.15
+- **Pages:** 310
+- **Year Published:** 1989
+- **Date Added:** 2022-07-25
+- **ISBN:** 039333869X

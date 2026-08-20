@@ -4,6 +4,6 @@ date: 2022-09-19
 tags: [film]
 publish_external: false
 year: 2010
-letterboxd_uri: "https://boxd.it/AF4"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/the-secret-world-of-arrietty/"
+rating: 3
 ---

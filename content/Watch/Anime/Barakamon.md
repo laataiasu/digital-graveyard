@@ -7,23 +7,13 @@ series_animedb_id: 22789
 series_title: Barakamon
 series_type: TV
 series_episodes: 12
-my_id: 0
+my_id: 413321908
 my_watched_episodes: 12
 my_start_date: "0000-00-00"
 my_finish_date: "0000-00-00"
-my_rated: null
 my_score: 8
-my_storage: null
-my_storage_value: 0.0
 my_status: Completed
-my_comments: null
 my_times_watched: 0
-my_rewatch_value: null
 my_priority: LOW
-my_tags: null
-my_rewatching: 0
-my_rewatching_ep: 0
-my_discuss: 1
-my_sns: default
-update_on_import: 0
+manga_title: Barakamon
 ---

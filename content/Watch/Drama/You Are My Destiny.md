@@ -1,0 +1,19 @@
+---
+title: "You Are My Destiny"
+date: 2016-01-01
+tags: [film, drama]
+publish_external: false
+country: South Korea
+year: 2014
+type: Drama
+score: 8.5
+progress: 20/20
+---
+
+# You Are My Destiny
+
+- **Country:** South Korea
+- **Year:** 2014
+- **Type:** Drama
+- **Score:** 8.5
+- **Progress:** 20/20

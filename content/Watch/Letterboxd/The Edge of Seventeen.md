@@ -4,6 +4,6 @@ date: 2021-12-22
 tags: [film]
 publish_external: false
 year: 2016
-letterboxd_uri: "https://boxd.it/d5nu"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/the-edge-of-seventeen/"
+rating: 3
 ---

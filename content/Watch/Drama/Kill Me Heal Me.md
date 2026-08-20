@@ -5,7 +5,7 @@ tags: [film, drama]
 publish_external: false
 country: South Korea
 year: 2015
-type: Korean Drama
+type: Drama
 score: 6.5
 progress: 20/20
 ---
@@ -14,6 +14,6 @@ progress: 20/20
 
 - **Country:** South Korea
 - **Year:** 2015
-- **Type:** Korean Drama
+- **Type:** Drama
 - **Score:** 6.5
 - **Progress:** 20/20

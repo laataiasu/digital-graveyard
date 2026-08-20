@@ -4,6 +4,6 @@ date: 2021-12-31
 tags: [film]
 publish_external: false
 year: 2021
-letterboxd_uri: "https://boxd.it/o0Hc"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/dont-look-up-2021/"
+rating: 3
 ---

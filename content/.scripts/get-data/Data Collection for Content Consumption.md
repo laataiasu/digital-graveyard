@@ -1,89 +1,77 @@
 ---
 title: "📥 Data Collection for Content Consumption"
-date: 2026-05-19
-tags: []
+date: 2026-08-20
+tags: [guide]
+publish_external: false
 ---
 
 # 📥 Data Collection for Content Consumption
 
-This document outlines the process for collecting your personal media consumption data and generating markdown files for your blog. The system is designed to be modular and easily extensible.
+This system automatically fetches and syncs personal media consumption data directly from online platforms into your digital garden markdown notes. **Zero manual CSV exports, XML downloads, or Google Sheets are required.**
+
+---
 
 ## 🚀 Quickstart
 
-1.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+Run the automated ingestion script with `uv`:
 
-2.  **Gather Data:** Follow the instructions in the "Data Sources" section below to download your data files.
+```bash
+cd content/.scripts/get-data
 
-3.  **Set Environment Variable (Optional):** If you want to automatically sync the generated files to your blog, set the `BLOG_PATH` environment variable:
-    ```bash
-    export BLOG_PATH="/path/to/your/blog/content"
-    ```
+# 1. Pre-flight check (test connectivity & counts without modifying files):
+uv run main.py --check
 
-4.  **Run the Script:**
-    ```bash
-    python main.py
-    ```
+# 2. Fetch & sync all 5 platforms at once:
+uv run main.py
+```
 
-## ⚙️ Configuration
+Or fetch a specific platform:
 
-The `config.py` file contains the configuration for each data source. You can modify this file to change the output directory, add tags, or adjust the frontmatter fields.
+```bash
+# Goodreads (Books)
+uv run main.py --source goodreads
 
-## 📦 Data Sources
+# Letterboxd (Films & Ratings)
+uv run main.py --source letterboxd
 
-Follow the steps below to gather your personal media consumption data from various platforms. Once downloaded and renamed as specified, copy the files into this directory.
+# AniList (Anime)
+uv run main.py --source anilist_anime
 
----
+# AniList (Manga)
+uv run main.py --source anilist_manga
 
-### 📚 Goodreads (Books)
-
-1.  Visit: [Goodreads Import/Export](https://www.goodreads.com/review/import)
-2.  Download your data export (CSV file).
-3.  Rename the file to: `goodreads.csv`
-4.  Copy the file into this folder.
+# MyDramaList (Asian & Korean Drama)
+uv run main.py --source mydramalist
+```
 
 ---
 
-### 🎬 Letterboxd (Movies)
+## 🛡️ Reliability & Early Warning Features
 
-1.  Visit: [Letterboxd Data Settings](https://letterboxd.com/settings/data/)
-2.  Download and extract the ZIP archive.
-3.  Locate the file named `ratings.csv`.
-4.  Copy `ratings.csv` into this folder.
-
----
-
-### 📖 Manga & Anime (MyAnimeList)
-
-1.  Visit: [MyAnimeList Export](https://myanimelist.net/panel.php?go=export)
-2.  Download the export file.
-3.  Extract the contents.
-4.  Rename the files to:
-
-    *   `animelist.xml` (for anime)
-    *   `mangalist.xml` (for manga)
-5.  Copy both files into this folder.
-
-### Anilist
-
-https://malscraper.azurewebsites.net/
+1. **Pre-flight Health Check (`--check` / `--dry-run`)**: Test endpoints, user profiles, and record counts in 20 seconds without touching your Markdown notes.
+2. **Exponential Backoff & Retries**: Automatically retries transient network or server timeouts up to 3 times.
+3. **Data Integrity Guarantee**: If an endpoint fails or returns 0 records, existing vault notes are protected and **never** deleted or overwritten with empty data.
+4. **Summary & Non-Zero Exit Codes**: Clear diagnostics table at the end of each run, exiting with `code 1` if any source fails (for CI or scheduled tasks).
 
 ---
 
-### 🎭 Korean Drama (MyDramaList)
+## 📦 Connected Data Sources
 
-1.  Use this formula in a Google Sheet:
+| Source | Target Folder | Method / Protocol | Username / Profile ID |
+| :--- | :--- | :--- | :--- |
+| **Goodreads** | `content/Read/Goodreads/` | Paginated RSS Feed | `74584614` |
+| **Letterboxd** | `content/Watch/Letterboxd/` | Automated Scraper (`curl_cffi`) | `PenyulTekowel` |
+| **AniList (Anime)** | `content/Watch/Anime/` | Official GraphQL API | `laataiasu` |
+| **AniList (Manga)** | `content/Read/Manga/` | Official GraphQL API | `laataiasu` |
+| **MyDramaList** | `content/Watch/Drama/` | Table Parser | `Chanculus` |
 
-    ```
-    =IMPORTHTML("https://mydramalist.com/dramalist/Chanculus", "table", 1)
-    ```
+---
 
-2.  Wait for the table to load.
+## ⚙️ Configuration & Customization
 
-3.  Export the sheet as CSV.
-
-4.  Rename the file to: `drama.csv`
-
-5.  Copy it into this folder.
+- Profile IDs and usernames are configured in [`config.py`](file:///home/al/Projects/digital-graveyard/content/.scripts/get-data/config.py) under the `PROFILES` dictionary.
+- Output mapping, frontmatter rules, and Markdown templates are defined per source in `DATA_SOURCES`.
+- Optional: Set `BLOG_PATH` if syncing to a non-standard content directory:
+  ```bash
+  export BLOG_PATH="/path/to/custom/content"
+  ```

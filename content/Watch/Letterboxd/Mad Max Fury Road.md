@@ -4,6 +4,6 @@ date: 2021-12-22
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://boxd.it/2DjO"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/mad-max-fury-road/"
+rating: 3
 ---

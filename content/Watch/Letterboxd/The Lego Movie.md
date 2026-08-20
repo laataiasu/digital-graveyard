@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 2014
-letterboxd_uri: "https://boxd.it/4pDO"
+letterboxd_uri: "https://letterboxd.com/film/the-lego-movie/"
 rating: 2.5
 ---

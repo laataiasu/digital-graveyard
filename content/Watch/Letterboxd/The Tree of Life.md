@@ -4,6 +4,6 @@ date: 2020-04-26
 tags: [film]
 publish_external: false
 year: 2011
-letterboxd_uri: "https://boxd.it/1Zu8"
-rating: 2.0
+letterboxd_uri: "https://letterboxd.com/film/the-tree-of-life-2011/"
+rating: 2
 ---

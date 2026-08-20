@@ -4,6 +4,6 @@ date: 2020-08-02
 tags: [film]
 publish_external: false
 year: 2017
-letterboxd_uri: "https://boxd.it/bCF8"
+letterboxd_uri: "https://letterboxd.com/film/paddington-2/"
 rating: 3.5
 ---

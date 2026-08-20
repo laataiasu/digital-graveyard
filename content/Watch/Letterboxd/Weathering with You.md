@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://boxd.it/kPxE"
+letterboxd_uri: "https://letterboxd.com/film/weathering-with-you/"
 rating: 2.5
 ---

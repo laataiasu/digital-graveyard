@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://boxd.it/3C1m"
+letterboxd_uri: "https://letterboxd.com/film/the-wolf-of-wall-street/"
 rating: 2.5
 ---

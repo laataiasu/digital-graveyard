@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 1964
-letterboxd_uri: "https://boxd.it/29eY"
+letterboxd_uri: "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/"
 rating: 3.5
 ---

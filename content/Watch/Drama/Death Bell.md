@@ -5,8 +5,8 @@ tags: [film, drama]
 publish_external: false
 country: South Korea
 year: 2008
-type: Korean Movie
-score: 5.0
+type: Movie
+score: 5
 progress: 1/1
 ---
 
@@ -14,6 +14,6 @@ progress: 1/1
 
 - **Country:** South Korea
 - **Year:** 2008
-- **Type:** Korean Movie
+- **Type:** Movie
 - **Score:** 5.0
 - **Progress:** 1/1

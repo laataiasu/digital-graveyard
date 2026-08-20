@@ -5,8 +5,8 @@ tags: [film, drama]
 publish_external: false
 country: Japan
 year: 2007
-type: Japanese Movie
-score: 8.0
+type: Movie
+score: 8
 progress: 1/1
 ---
 
@@ -14,6 +14,6 @@ progress: 1/1
 
 - **Country:** Japan
 - **Year:** 2007
-- **Type:** Japanese Movie
+- **Type:** Movie
 - **Score:** 8.0
 - **Progress:** 1/1

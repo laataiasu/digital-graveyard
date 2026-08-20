@@ -4,6 +4,6 @@ date: 2023-04-14
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://boxd.it/nglu"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/happy-old-year/"
+rating: 3
 ---

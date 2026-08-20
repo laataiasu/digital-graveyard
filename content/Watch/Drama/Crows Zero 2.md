@@ -5,7 +5,7 @@ tags: [film, drama]
 publish_external: false
 country: Japan
 year: 2009
-type: Japanese Movie
+type: Movie
 score: 6.5
 progress: 1/1
 ---
@@ -14,6 +14,6 @@ progress: 1/1
 
 - **Country:** Japan
 - **Year:** 2009
-- **Type:** Japanese Movie
+- **Type:** Movie
 - **Score:** 6.5
 - **Progress:** 1/1

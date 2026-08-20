@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 1995
-letterboxd_uri: "https://boxd.it/29XE"
-rating: 4.0
+letterboxd_uri: "https://letterboxd.com/film/the-usual-suspects/"
+rating: 4
 ---

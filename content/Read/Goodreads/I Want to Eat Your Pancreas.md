@@ -1,6 +1,6 @@
 ---
 title: "I Want to Eat Your Pancreas"
-date: 2020-07-03
+date: 2024-04-23
 tags: [book]
 publish_external: false
 author: Yoru Sumino
@@ -8,29 +8,8 @@ author: Yoru Sumino
 
 # I Want to Eat Your Pancreas
 
-**Author:** Yoru Sumino  
-**My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** 
-
-**Additional Authors:** Khairun Nisak  
-**ISBN:**   
-**ISBN13:** 9786026383143  
-**Publisher:** Haru  
-**Binding:** Paperback  
-**Number of Pages:** 308  
-**Year Published:** 2017  
-**Original Publication Year:** 2015  
-**Date Read:**   
-**Date Added:** 2020-07-03 00:00:00  
-**My Rating:** 0  
-**Average Rating:** 4.22  
-**Bookshelves:**   
-**Exclusive Shelf:** read  
-**Read Count:** 1  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Yoru Sumino
+- **Average Rating:** 4.29
+- **Pages:** 308
+- **Year Published:** 2015
+- **Date Added:** 2024-04-23

@@ -4,6 +4,6 @@ date: 2024-04-01
 tags: [film]
 publish_external: false
 year: 2024
-letterboxd_uri: "https://boxd.it/pUfA"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/dune-part-two/"
+rating: 3
 ---

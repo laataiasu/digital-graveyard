@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 2008
-letterboxd_uri: "https://boxd.it/1H4Q"
+letterboxd_uri: "https://letterboxd.com/film/scandal-makers/"
 rating: 2.5
 ---

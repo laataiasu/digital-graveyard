@@ -9,7 +9,7 @@ publish_external: false
 
 Fear is deeply intertwined with human existence. However, it is important to recognize that the notion of a person who is completely fearless is unrealistic and doesn't truly exist.
 
-Consider individuals who live by the "#YOLO" motto, seemingly unafraid of anything. In reality, they are still driven by fear. They fear the prospect of leading a monotonous life, a perception influenced by societal expectations or personal feelings. Even hedonistic individuals, who appear to live without fear, actually fear the absence of a future. They embrace the concept of "seizing the day" or "carpe diem" to counteract this fear, choosing to live each day fully. Ultimately, all these approaches still stem from fear.
+Consider individuals who live by the "YOLO" motto, seemingly unafraid of anything. In reality, they are still driven by fear. They fear the prospect of leading a monotonous life, a perception influenced by societal expectations or personal feelings. Even hedonistic individuals, who appear to live without fear, actually fear the absence of a future. They embrace the concept of "seizing the day" or "carpe diem" to counteract this fear, choosing to live each day fully. Ultimately, all these approaches still stem from fear.
 
 On the other hand, some individuals try to escape their fears by immersing themselves in gaming or similar activities. Conversely, others avoid engaging in such activities out of fear that they may not excel at them.
 

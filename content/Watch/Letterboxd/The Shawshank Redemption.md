@@ -4,6 +4,6 @@ date: 2021-10-15
 tags: [film]
 publish_external: false
 year: 1994
-letterboxd_uri: "https://boxd.it/2aHi"
-rating: 4.0
+letterboxd_uri: "https://letterboxd.com/film/the-shawshank-redemption/"
+rating: 4
 ---

@@ -4,6 +4,6 @@ date: 2021-12-05
 tags: [film]
 publish_external: false
 year: 2000
-letterboxd_uri: "https://boxd.it/29tE"
+letterboxd_uri: "https://letterboxd.com/film/in-the-mood-for-love/"
 rating: 2.5
 ---

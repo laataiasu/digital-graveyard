@@ -4,6 +4,6 @@ date: 2023-05-11
 tags: [film]
 publish_external: false
 year: 2003
-letterboxd_uri: "https://boxd.it/2b0E"
-rating: 2.0
+letterboxd_uri: "https://letterboxd.com/film/lost-in-translation/"
+rating: 2
 ---

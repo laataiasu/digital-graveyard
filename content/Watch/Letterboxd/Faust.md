@@ -4,6 +4,6 @@ date: 2023-02-01
 tags: [film]
 publish_external: false
 year: 1926
-letterboxd_uri: "https://boxd.it/1Vxi"
-rating: 3.0
+letterboxd_uri: "https://letterboxd.com/film/faust-1926/"
+rating: 3
 ---

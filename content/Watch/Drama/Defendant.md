@@ -5,8 +5,8 @@ tags: [film, drama]
 publish_external: false
 country: South Korea
 year: 2017
-type: Korean Drama
-score: 8.0
+type: Drama
+score: 8
 progress: 18/18
 ---
 
@@ -14,6 +14,6 @@ progress: 18/18
 
 - **Country:** South Korea
 - **Year:** 2017
-- **Type:** Korean Drama
+- **Type:** Drama
 - **Score:** 8.0
 - **Progress:** 18/18

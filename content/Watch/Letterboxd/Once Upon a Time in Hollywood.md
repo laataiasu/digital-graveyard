@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://boxd.it/gH0O"
+letterboxd_uri: "https://letterboxd.com/film/once-upon-a-time-in-hollywood/"
 rating: 2.5
 ---

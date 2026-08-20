@@ -162,6 +162,52 @@ def clean_h1_headings(body):
             new_lines.append(line)
     return "\n".join(new_lines)
 
+INLINE_TAG_REPLACEMENTS = [
+    (r"(?<!\w)#Porn\b", "porn"),
+    (r"(?<!\w)#porn\b", "porn"),
+    (r"(?<!\w)#Bitcoin\b", "[[Bitcoin]]"),
+    (r"(?<!\w)#bitcoin\b", "[[Bitcoin]]"),
+    (r"(?<!\w)#Data\b", "[[Data]]"),
+    (r"(?<!\w)#Currency\b", "[[Currency]]"),
+    (r"(?<!\w)#muslim\b", "[[Muslim]]"),
+    (r"(?<!\w)#Muslim\b", "[[Muslim]]"),
+    (r'"#YOLO"', '"YOLO"'),
+    (r"(?<!\w)#YOLO\b", "YOLO"),
+    (r"(?<!\w)#literature\b", "literature"),
+    (r"#lhkpn #kpk #compliance #anti-corruption #indonesia #public-official", "[[LHKPN]] [[KPK]] [[Compliance]] [[Anti-corruption]] [[Indonesia]] [[Public Official]]"),
+    (r"#open-data #transparency #indonesia #power-network", "[[Open Data]] [[Transparency]] [[Indonesia]] [[Power Network]]"),
+    (r"(?<!\w)#asalbukan02\b", "asalbukan02"),
+]
+
+def clean_inline_tags(body):
+    code_blocks = []
+    def save_cb(match):
+        code_blocks.append(match.group(0))
+        return f"__CODE_BLOCK_{len(code_blocks)-1}__"
+
+    # Match fenced code blocks (``` or ~~~ with 3+ characters)
+    body = re.sub(r"(?ms)^([`~]{3,})[^\n]*\n.*?\n\1", save_cb, body)
+    body = re.sub(r"```[\s\S]*?```", save_cb, body)
+    # Match inline code
+    body = re.sub(r"`[^`\n]+`", save_cb, body)
+
+    heading_links = []
+    def save_hl(match):
+        heading_links.append(match.group(0))
+        return f"__HEADING_LINK_{len(heading_links)-1}__"
+    body = re.sub(r"\[\[#[^\]]*\]\]", save_hl, body)
+
+    for pattern, repl in INLINE_TAG_REPLACEMENTS:
+        body = re.sub(pattern, repl, body)
+
+    for i, hl in enumerate(heading_links):
+        body = body.replace(f"__HEADING_LINK_{i}__", hl)
+
+    for i, cb in enumerate(code_blocks):
+        body = body.replace(f"__CODE_BLOCK_{i}__", cb)
+
+    return body
+
 def format_yaml_extra_value(val):
     if isinstance(val, bool):
         return "true" if val else "false"
@@ -273,7 +319,7 @@ def process_file(filepath):
     new_fm = "\n".join(lines)
 
     # Clean body
-    clean_body = clean_h1_headings(body).lstrip("\r\n")
+    clean_body = clean_inline_tags(clean_h1_headings(body)).lstrip("\r\n")
     new_full_content = f"{new_fm}\n\n{clean_body}\n" if clean_body else f"{new_fm}\n"
 
     if new_full_content != full_content:

@@ -4,6 +4,6 @@ date: 2020-08-21
 tags: [film]
 publish_external: false
 year: 1993
-letterboxd_uri: "https://boxd.it/1CtQ"
-rating: 1.0
+letterboxd_uri: "https://letterboxd.com/film/ocean-waves/"
+rating: 1
 ---

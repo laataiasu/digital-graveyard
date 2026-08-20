@@ -21,7 +21,7 @@ I blame them for my failure because they didn't try to help maximize my potentia
 
  
 
-Lets see this proportion of #Porn in the internet at 2013 from the `Silicon Valley` movie series,
+Lets see this proportion of porn in the internet at 2013 from the `Silicon Valley` movie series,
 
 [Porn Sites Get More Visitors Each Month Than Netflix, Amazon And [[Twitter]] Combined](https://www.huffpost.com/entry/internet-porn-stats_n_3187682)
 

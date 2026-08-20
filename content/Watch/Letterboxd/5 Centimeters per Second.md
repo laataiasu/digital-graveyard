@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 2007
-letterboxd_uri: "https://boxd.it/16G4"
+letterboxd_uri: "https://letterboxd.com/film/5-centimeters-per-second/"
 rating: 2.5
 ---

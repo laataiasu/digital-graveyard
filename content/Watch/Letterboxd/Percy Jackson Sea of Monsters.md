@@ -4,6 +4,6 @@ date: 2021-10-23
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://boxd.it/2D8m"
+letterboxd_uri: "https://letterboxd.com/film/percy-jackson-sea-of-monsters/"
 rating: 2.5
 ---

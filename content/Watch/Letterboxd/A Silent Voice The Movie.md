@@ -4,6 +4,6 @@ date: 2020-04-29
 tags: [film]
 publish_external: false
 year: 2016
-letterboxd_uri: "https://boxd.it/d99c"
-rating: 4.0
+letterboxd_uri: "https://letterboxd.com/film/a-silent-voice-the-movie/"
+rating: 4
 ---

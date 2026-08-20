@@ -5,7 +5,7 @@ tags: [film, drama]
 publish_external: false
 country: South Korea
 year: 2022
-type: Korean Drama
+type: Drama
 score: 6.5
 progress: 16/16
 ---
@@ -14,6 +14,6 @@ progress: 16/16
 
 - **Country:** South Korea
 - **Year:** 2022
-- **Type:** Korean Drama
+- **Type:** Drama
 - **Score:** 6.5
 - **Progress:** 16/16

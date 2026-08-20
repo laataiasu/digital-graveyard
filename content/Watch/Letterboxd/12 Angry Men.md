@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 1957
-letterboxd_uri: "https://boxd.it/2auI"
+letterboxd_uri: "https://letterboxd.com/film/12-angry-men/"
 rating: 3.5
 ---

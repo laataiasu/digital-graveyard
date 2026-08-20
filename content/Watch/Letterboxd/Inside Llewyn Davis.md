@@ -4,6 +4,6 @@ date: 2022-01-05
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://boxd.it/34Ro"
-rating: 2.0
+letterboxd_uri: "https://letterboxd.com/film/inside-llewyn-davis/"
+rating: 2
 ---

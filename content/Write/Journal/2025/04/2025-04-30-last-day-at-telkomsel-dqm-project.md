@@ -16,7 +16,7 @@ after [[Idul Fitri]], i am interviewed by phillip morris international. its a to
 
 i dont know what i want. reading [[René Girard|rene girard]] and [[Slavoj Žižek|zizekian]] reinforced my belief. thats why i become a coward, someone who has lows risk tolerance. im afraid taking too much risk. even in praying. i dont want something big, just meaningful work. i dont know what is good for me or for others. i dont really care about me or others. 
 
-i simply a man who got nothing. perhaps i need new hobbies. but when i try, i am sort of feeling there's always a hole. maybe my dopamine sytem is fucked up because of too much doom scrolling and #Porn. but here i am. 
+i simply a man who got nothing. perhaps i need new hobbies. but when i try, i am sort of feeling there's always a hole. maybe my dopamine sytem is fucked up because of too much doom scrolling and porn. but here i am. 
 
 so i just need to keep going, hoping what is best for me. just try to look something in [[ChatGPT]], the roadmap to be [[Tags/Figure/Peter Thiel]]. perhaps tomorrow i try naval ravikant. but everything seems need effort. im lazy, and i pray i could kill this laziness. 
 

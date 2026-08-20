@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://boxd.it/9vEe"
+letterboxd_uri: "https://letterboxd.com/film/avengers-infinity-war/"
 rating: 2.5
 ---

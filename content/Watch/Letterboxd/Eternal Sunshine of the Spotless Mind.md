@@ -4,6 +4,6 @@ date: 2020-04-25
 tags: [film]
 publish_external: false
 year: 2004
-letterboxd_uri: "https://boxd.it/6YK"
+letterboxd_uri: "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/"
 rating: 3.5
 ---
