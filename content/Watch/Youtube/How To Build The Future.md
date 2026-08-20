@@ -102,7 +102,7 @@ This story shows that in AI and startups in general, there’s often no clear pa
 
 # chunk_3.txt
 
-This transcript seems to cover a conversation filled with reflections on personal experiences with technology, startups, and the evolution of AI. It looks like a conversation between a founder and a visionary, likely someone like Sam Altman, discussing both the personal and broader industry shifts over the years. There are a few notable points about innovation, the future of AGI (Artificial General Intelligence), and advice for entrepreneurs in the current tech landscape.
+This transcript seems to cover a conversation filled with reflections on personal experiences with technology, startups, and the evolution of AI. It looks like a conversation between a founder and a visionary, likely someone like [[Sam Altman]], discussing both the personal and broader industry shifts over the years. There are a few notable points about innovation, the future of AGI (Artificial General Intelligence), and advice for entrepreneurs in the current tech landscape.
 
 Here are some key highlights from the conversation:
 

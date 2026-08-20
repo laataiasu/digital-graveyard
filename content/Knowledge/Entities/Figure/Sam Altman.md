@@ -3,6 +3,7 @@ title: "Sam Altman"
 date: 2001-01-01
 tags: [figure]
 publish_external: false
+aliases: altman
 ---
 
 # Sam Altman
