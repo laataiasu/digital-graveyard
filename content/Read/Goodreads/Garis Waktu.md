@@ -1,6 +1,6 @@
 ---
 title: "Garis Waktu"
-date: 2020-08-23
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Fiersa Besari
@@ -9,8 +9,10 @@ author: Fiersa Besari
 # Garis Waktu
 
 - **Author:** Fiersa Besari
-- **Average Rating:** 4.15
-- **Pages:** 216
+- **Average Rating:** 4.0
+- **Pages:** 216.0
 - **Year Published:** 2016
-- **Date Added:** 2020-08-23
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read
 - **ISBN:** 9797945251
+- **ISBN13:** 9789797945251

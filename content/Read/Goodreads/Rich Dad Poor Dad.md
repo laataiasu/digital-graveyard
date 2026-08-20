@@ -1,36 +1,18 @@
 ---
 title: "Rich Dad, Poor Dad"
-date: 2020-08-23
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Robert T. Kiyosaki
+author: "Robert T. Kiyosaki, Sharon L. Lechter"
 ---
 
 # Rich Dad, Poor Dad
 
-**Author:** Robert T. Kiyosaki  
-**My Rating:** 0  
-**Date Read:**   
-**Bookshelves:** 
-
-**Additional Authors:**   
-**ISBN:** 0751532711  
-**ISBN13:** 9780751532715  
-**Publisher:** Time Warner Books UK  
-**Binding:** Paperback  
-**Number of Pages:** 195  
-**Year Published:** 2001  
-**Original Publication Year:** 1997  
-**Date Read:**   
-**Date Added:** 2020-08-23 00:00:00  
-**My Rating:** 0  
-**Average Rating:** 4.10  
-**Bookshelves:**   
-**Exclusive Shelf:** read  
-**Read Count:** 1  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Robert T. Kiyosaki, Sharon L. Lechter
+- **Average Rating:** 3.497994652406417
+- **Pages:** 243.0
+- **Year Published:** 1997
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read
+- **ISBN:** 0751532711
+- **ISBN13:** 9780751532715

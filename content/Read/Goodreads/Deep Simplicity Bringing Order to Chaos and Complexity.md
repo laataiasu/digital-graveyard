@@ -1,6 +1,6 @@
 ---
 title: "Deep Simplicity: Bringing Order to Chaos and Complexity"
-date: 2023-01-04
+date: 2026-08-20
 tags: [book]
 publish_external: false
 author: John Gribbin
@@ -9,9 +9,7 @@ author: John Gribbin
 # Deep Simplicity: Bringing Order to Chaos and Complexity
 
 - **Author:** John Gribbin
-- **Average Rating:** 3.96
-- **Pages:** 279
+- **Pages:** 279.0
 - **Year Published:** 2004
-- **Date Added:** 2023-01-04
+- **Date Added:** 2026-08-20
 - **Bookshelves:** to-read
-- **ISBN:** 140006256X

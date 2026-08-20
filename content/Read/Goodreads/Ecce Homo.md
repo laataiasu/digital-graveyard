@@ -1,16 +1,18 @@
 ---
 title: "Ecce Homo"
-date: 2024-05-04
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Friedrich Nietzsche
+author: "Friedrich Nietzsche, Michael Tanner, R.J. Hollingdale"
 ---
 
 # Ecce Homo
 
-- **Author:** Friedrich Nietzsche
-- **Average Rating:** 3.86
-- **Pages:** 144
-- **Year Published:** 1908
-- **Date Added:** 2024-05-04
+- **Author:** Friedrich Nietzsche, Michael Tanner, R.J. Hollingdale
+- **Average Rating:** 3.658536585365854
+- **Pages:** 166.0
+- **Year Published:** 1888
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read
 - **ISBN:** 0140445153
+- **ISBN13:** 9780140445152

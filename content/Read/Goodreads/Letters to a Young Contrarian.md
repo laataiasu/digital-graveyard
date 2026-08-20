@@ -1,6 +1,6 @@
 ---
 title: "Letters to a Young Contrarian"
-date: 2022-11-18
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Christopher Hitchens
@@ -9,9 +9,10 @@ author: Christopher Hitchens
 # Letters to a Young Contrarian
 
 - **Author:** Christopher Hitchens
-- **Average Rating:** 4.13
-- **Pages:** 141
+- **Average Rating:** 4.071428571428571
+- **Pages:** 160.0
 - **Year Published:** 2001
-- **Date Added:** 2022-11-18
+- **Date Added:** 2025-06-19
 - **Bookshelves:** to-read
-- **ISBN:** 0465030335
+- **ISBN:** 1606710257
+- **ISBN13:** 9781606710258

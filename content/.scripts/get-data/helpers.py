@@ -7,6 +7,31 @@ import pandas as pd
 DEFAULT_CONTENT_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 
 
+def load_environment():
+    """Automatically loads secrets/env variables from ~/.secrets or local .env if present."""
+    candidate_files = [
+        os.path.expanduser("~/.secrets"),
+        os.path.join(os.path.dirname(__file__), ".env"),
+        os.path.join(DEFAULT_CONTENT_PATH, "..", ".env"),
+    ]
+    for env_file in candidate_files:
+        if os.path.exists(env_file):
+            try:
+                with open(env_file, "r", encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if line and not line.startswith("#") and "=" in line:
+                            if line.startswith("export "):
+                                line = line[7:].strip()
+                            k, v = line.split("=", 1)
+                            k = k.strip()
+                            v = v.strip().strip("'\"")
+                            if k and k not in os.environ:
+                                os.environ[k] = v
+            except Exception:
+                pass
+
+
 def sanitize_filename(text):
     """Sanitizes text for safe markdown filenames while preserving readability."""
     if not text:
@@ -52,13 +77,13 @@ def sync_to_blog(output_dir, dest_path_segment):
 
 def clean_isbn(val):
     """Cleans ISBN values."""
-    if pd.isna(val):
+    if pd.isna(val) or val is None:
         return ""
     return str(val).replace('="', '').replace('"', '').strip()
 
 
 def sanitize_text(text):
-    """Sanitizes text fields, ensuring they are strings and stripped of whitespace."""
-    if pd.isna(text) or text is None:
+    """Sanitizes strings for markdown."""
+    if not text or pd.isna(text):
         return ""
     return str(text).strip()

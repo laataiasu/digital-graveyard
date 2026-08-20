@@ -1,6 +1,6 @@
 ---
 title: "The God Delusion"
-date: 2022-06-25
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Richard Dawkins
@@ -8,29 +8,12 @@ author: Richard Dawkins
 
 # The God Delusion
 
-**Author:** Richard Dawkins  
-**My Rating:** 3  
-**Date Read:**   
-**Bookshelves:** 
-
-**Additional Authors:**   
-**ISBN:** 0618680004  
-**ISBN13:** 9780618680009  
-**Publisher:** Houghton Mifflin Co.  
-**Binding:** Hardcover  
-**Number of Pages:** 374  
-**Year Published:** 2006  
-**Original Publication Year:** 2006  
-**Date Read:**   
-**Date Added:** 2022-06-25 00:00:00  
-**My Rating:** 3  
-**Average Rating:** 3.90  
-**Bookshelves:**   
-**Exclusive Shelf:** read  
-**Read Count:** 1  
-**Owned Copies:** 0
-
-
-## Review
-
-
+- **Author:** Richard Dawkins
+- **My Rating:** 3.0
+- **Average Rating:** 3.9428364688856727
+- **Pages:** 406.0
+- **Year Published:** 2001
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read
+- **ISBN:** 0618680004
+- **ISBN13:** 9780618680009

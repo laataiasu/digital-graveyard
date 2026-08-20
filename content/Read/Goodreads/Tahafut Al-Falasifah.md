@@ -1,6 +1,6 @@
 ---
 title: "Tahafut Al-Falasifah"
-date: 2020-08-23
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Abu Hamid al-Ghazali
@@ -9,8 +9,8 @@ author: Abu Hamid al-Ghazali
 # Tahafut Al-Falasifah
 
 - **Author:** Abu Hamid al-Ghazali
-- **Average Rating:** 4.11
-- **Pages:** 307
+- **Pages:** 307.0
 - **Year Published:** 1100
-- **Date Added:** 2020-08-23
+- **Date Added:** 2025-06-19
 - **Bookshelves:** to-read
+- **ISBN13:** 9799792457437

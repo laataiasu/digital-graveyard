@@ -1,6 +1,6 @@
 ---
 title: "Negeri Para Bedebah"
-date: 2018-09-16
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Tere Liye
@@ -9,8 +9,6 @@ author: Tere Liye
 # Negeri Para Bedebah
 
 - **Author:** Tere Liye
-- **Average Rating:** 4.37
-- **Pages:** 440
-- **Year Published:** 2012
-- **Date Added:** 2018-09-16
-- **ISBN:** 9792285520
+- **Average Rating:** 4.277777777777778
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read

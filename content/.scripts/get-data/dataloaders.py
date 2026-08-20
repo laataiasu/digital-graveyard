@@ -7,7 +7,10 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from helpers import clean_isbn, sanitize_text
+from helpers import clean_isbn, sanitize_text, load_environment
+
+# Ensure environment variables from ~/.secrets or .env are available
+load_environment()
 
 # Default Browser Headers
 BROWSER_HEADERS = {
@@ -26,6 +29,128 @@ def retry_request(fetch_fn, max_retries=3, delay=2):
             if attempt == max_retries:
                 raise e
             time.sleep(delay * attempt)
+
+
+def load_hardcover_data(username="nichsedge", api_key=None):
+    """
+    Loads user books, ratings, and authors from Hardcover.app official GraphQL API.
+    API token is free for all users at https://hardcover.app/account/api
+    """
+    token = api_key or os.environ.get("HARDCOVER_API_KEY")
+    if not token:
+        raise ValueError("HARDCOVER_API_KEY not found in environment or ~/.secrets. Set it in ~/.secrets or export HARDCOVER_API_KEY.")
+
+    print(f"Fetching Hardcover books for user: {username}...")
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {token}" if not token.startswith("Bearer ") else token,
+        "User-Agent": "DigitalGraveyard/1.0",
+    }
+
+    # Clean GraphQL query matching Hardcover Hasura schema
+    query = f"""
+    query GetUserBooks {{
+      user_books(where: {{user: {{username: {{_eq: "{username}"}}}}}}) {{
+        id
+        rating
+        status_id
+        created_at
+        updated_at
+        user_book_reads {{
+          started_at
+          finished_at
+        }}
+        edition {{
+          title
+          pages
+          release_date
+          isbn_10
+          isbn_13
+          publisher {{
+            name
+          }}
+          book {{
+            title
+            description
+            release_year
+            rating
+            contributions {{
+              author {{
+                name
+              }}
+            }}
+          }}
+        }}
+      }}
+    }}
+    """
+
+    payload = {"query": query}
+    
+    def do_post():
+        return requests.post("https://api.hardcover.app/v1/graphql", json=payload, headers=headers, timeout=20)
+
+    try:
+        resp = retry_request(do_post)
+        if resp.status_code != 200:
+            raise ConnectionError(f"Hardcover API returned status {resp.status_code}")
+        data = resp.json()
+    except Exception as e:
+        raise ConnectionError(f"Failed to connect to Hardcover API: {e}") from e
+
+    if "errors" in data:
+        err_msg = ", ".join(e.get("message", "Unknown error") for e in data["errors"])
+        raise ValueError(f"Hardcover GraphQL error: {err_msg}")
+
+    user_books = data.get("data", {}).get("user_books", [])
+    if not user_books:
+        raise ValueError(f"No books retrieved from Hardcover for user: {username}")
+
+    records = []
+    for item in user_books:
+        edition = item.get("edition") or {}
+        book = edition.get("book") or {}
+        title = edition.get("title") or book.get("title") or ""
+        
+        # Authors
+        contributions = book.get("contributions") or []
+        authors = [c.get("author", {}).get("name") for c in contributions if c.get("author", {}).get("name")]
+        author_str = ", ".join(authors) if authors else ""
+
+        # Status mapping: 1 = Want to Read, 2 = Currently Reading, 3 = Read
+        status_map = {1: "to-read", 2: "currently-reading", 3: "read"}
+        status_str = status_map.get(item.get("status_id"), "")
+
+        # Dates
+        created_at = item.get("created_at", "")
+        date_added = created_at.split("T")[0] if created_at else ""
+
+        reads = item.get("user_book_reads") or []
+        date_read = ""
+        if reads and isinstance(reads, list):
+            last_read = reads[-1]
+            finished = last_read.get("finished_at")
+            if finished:
+                date_read = finished.split("T")[0]
+
+        pub_year = str(book.get("release_year") or edition.get("release_date") or "")[:4]
+
+        records.append({
+            "Title": title,
+            "Author": author_str,
+            "My Rating": item.get("rating"),
+            "Average Rating": book.get("rating"),
+            "Pages": edition.get("pages"),
+            "Year Published": pub_year,
+            "Date Added": date_added,
+            "Date Read": date_read,
+            "Bookshelves": status_str,
+            "ISBN": clean_isbn(edition.get("isbn_10")),
+            "ISBN13": clean_isbn(edition.get("isbn_13")),
+        })
+
+    print(f"Fetched {len(records)} books from Hardcover.")
+    return pd.DataFrame(records)
 
 
 def load_goodreads_data(user_id="74584614", shelf="#ALL#", file_path=None):
@@ -223,6 +348,7 @@ def load_letterboxd_data(username="PenyulTekowel", file_path=None):
                     pass
 
             page += 1
+            time.sleep(0.3)
         except Exception as e:
             if page == 1:
                 raise ConnectionError(f"Failed to fetch Letterboxd ratings: {e}") from e
@@ -352,9 +478,6 @@ def load_anilist_data(username="laataiasu", media_type="ANIME"):
                 "title": title,
             }
             records.append(record)
-
-    if not records:
-        print(f"Warning: 0 AniList {media_type} entries found for {username}.")
 
     print(f"Fetched {len(records)} AniList {media_type} entries.")
     return pd.DataFrame(records)

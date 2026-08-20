@@ -1,15 +1,18 @@
 ---
 title: "Oliver Twist"
-date: 2020-08-23
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Charles Dickens
+author: "Vincent Buranelli, Charles Dickens, Hieronimus Fromm"
 ---
 
 # Oliver Twist
 
-- **Author:** Charles Dickens
-- **Average Rating:** 3.88
-- **Pages:** 608
+- **Author:** Vincent Buranelli, Charles Dickens, Hieronimus Fromm
+- **Average Rating:** 3.679584120982987
+- **Pages:** 608.0
 - **Year Published:** 1838
-- **Date Added:** 2020-08-23
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read
+- **ISBN:** 0141439742
+- **ISBN13:** 9780141439747

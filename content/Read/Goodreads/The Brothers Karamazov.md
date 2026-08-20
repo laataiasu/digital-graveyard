@@ -1,17 +1,18 @@
 ---
 title: "The Brothers Karamazov"
-date: 2021-02-20
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Fyodor Dostoevsky
+author: "Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky"
 ---
 
 # The Brothers Karamazov
 
-- **Author:** Fyodor Dostoevsky
-- **Average Rating:** 4.38
-- **Pages:** 796
-- **Year Published:** 1879
-- **Date Added:** 2021-02-20
+- **Author:** Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+- **Average Rating:** 4.376903553299492
+- **Pages:** 1012.0
+- **Year Published:** 1876
+- **Date Added:** 2025-06-19
 - **Bookshelves:** to-read
-- **ISBN:** 0374528373
+- **ISBN:** 0553210378
+- **ISBN13:** 9780553210378

@@ -1,6 +1,6 @@
 ---
 title: "Guns, Germs, and Steel: The Fates of Human Societies"
-date: 2022-09-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Jared Diamond
@@ -9,9 +9,10 @@ author: Jared Diamond
 # Guns, Germs, and Steel: The Fates of Human Societies
 
 - **Author:** Jared Diamond
-- **Average Rating:** 4.03
-- **Pages:** 498
+- **Average Rating:** 3.873611111111111
+- **Pages:** 480.0
 - **Year Published:** 1997
-- **Date Added:** 2022-09-01
+- **Date Added:** 2025-06-19
 - **Bookshelves:** to-read
 - **ISBN:** 0739467352
+- **ISBN13:** 9780739467350

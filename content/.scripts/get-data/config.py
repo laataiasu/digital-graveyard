@@ -1,5 +1,7 @@
+import os
 from dataloaders import (
     load_goodreads_data,
+    load_hardcover_data,
     load_letterboxd_data,
     load_anilist_data,
     load_mydramalist_data,
@@ -7,6 +9,7 @@ from dataloaders import (
 
 # User Profiles Configuration
 PROFILES = {
+    "hardcover_username": "nichsedge",
     "goodreads_user_id": "74584614",
     "letterboxd_username": "PenyulTekowel",
     "anilist_username": "laataiasu",
@@ -15,7 +18,7 @@ PROFILES = {
 
 
 def format_goodreads_body(row):
-    """Dynamically formats Goodreads body omitting any empty or missing fields."""
+    """Dynamically formats Book body omitting any empty or missing fields."""
     title = row.get("Title", "")
     lines = [f"# {title}\n"]
 
@@ -26,7 +29,7 @@ def format_goodreads_body(row):
         ("Author", row.get("Author")),
         ("My Rating", row.get("My Rating")),
         ("Average Rating", row.get("Average Rating")),
-        ("Pages", row.get("Number of Pages")),
+        ("Pages", row.get("Pages") or row.get("Number of Pages")),
         ("Year Published", row.get("Year Published")),
         ("Date Added", date_added),
         ("Date Read", date_read),
@@ -75,8 +78,25 @@ def format_mydramalist_body(row):
 
 
 DATA_SOURCES = {
+    "hardcover": {
+        "description": "Hardcover (Books via GraphQL API)",
+        "loader": lambda: load_hardcover_data(username=PROFILES["hardcover_username"]),
+        "output_dir": "_tmp_hardcover",
+        "blog_sync_path": "Read/Goodreads",
+        "title_column": "Title",
+        "date_column": "Date Added",
+        "default_date": "2024-01-01",
+        "tags": ["book"],
+        "publish_external": False,
+        "frontmatter_mapping": {
+            "title": "Title",
+            "author": "Author",
+            "date": "Date Added",
+        },
+        "content_formatter": format_goodreads_body,
+    },
     "goodreads": {
-        "description": "Goodreads (Books)",
+        "description": "Goodreads (Books via RSS)",
         "loader": lambda: load_goodreads_data(user_id=PROFILES["goodreads_user_id"]),
         "output_dir": "_tmp_goodreads",
         "blog_sync_path": "Read/Goodreads",

@@ -1,16 +1,19 @@
 ---
 title: "Norwegian Wood"
-date: 2019-07-08
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Haruki Murakami
+author: "Haruki Murakami, Jay Rubin"
 ---
 
 # Norwegian Wood
 
-- **Author:** Haruki Murakami
-- **My Rating:** 3
-- **Average Rating:** 3.99
-- **Pages:** 296
+- **Author:** Haruki Murakami, Jay Rubin
+- **My Rating:** 3.0
+- **Average Rating:** 3.9148170365926815
+- **Pages:** 298.0
 - **Year Published:** 1987
-- **Date Added:** 2019-07-08
+- **Date Added:** 2025-06-19
+- **Bookshelves:** read
+- **ISBN:** 0375704027
+- **ISBN13:** 9780375704024

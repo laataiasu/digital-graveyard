@@ -1,6 +1,6 @@
 ---
 title: "Party Life: Chinese Governance and the World Beyond Liberalism"
-date: 2025-12-18
+date: 2026-08-20
 tags: [book]
 publish_external: false
 author: Eric Li
@@ -9,8 +9,6 @@ author: Eric Li
 # Party Life: Chinese Governance and the World Beyond Liberalism
 
 - **Author:** Eric Li
-- **Average Rating:** 4.00
-- **Pages:** 278
-- **Date Added:** 2025-12-18
+- **Pages:** 278.0
+- **Date Added:** 2026-08-20
 - **Bookshelves:** to-read
-- **ISBN:** 9819945216
