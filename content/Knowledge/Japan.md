@@ -1,0 +1,9 @@
+---
+title: "Japan"
+date: 2024-01-01
+tags: [country]
+publish_external: false
+---
+
+# Japan
+

@@ -3,7 +3,7 @@ title: "Review Sixth Sense (1999)"
 date: 2018-06-03
 tags: [film, review]
 publish_external: false
-updated: "2020-07-20T19:44:16.186-07:00"
+updated: 2026-08-20 22:32:50
 ---
 
 >MENGANDUNG SPOILER  
@@ -89,3 +89,6 @@ $ **_Be real still. Sometimes you feel it sometimes like you're falling down rea
   
 
 $ **_Sometimes, people think they lose things, and they didn't lose them--it just gets moved._** \-Cole  
+
+
+[[The Sixth Sense]]
