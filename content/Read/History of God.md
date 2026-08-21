@@ -40,3 +40,5 @@ Max Moeller
   
 Totem Theory : binatang dan tumbuhan (simbol)  
 Monotheis
+
+[[A History of God]]
