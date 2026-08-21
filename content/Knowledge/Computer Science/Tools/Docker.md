@@ -1,5 +1,5 @@
 ---
-title: "MySQL Server Remote"
+title: "Docker"
 date: 2001-01-01
 tags: [note]
 publish_external: false
@@ -62,7 +62,4 @@ run
 docker logs  
 docker logs <ID>  
 contoh:  
-docker logs bash  
-  
-# MySQL Server Remote
-[Start a Remote MySQL Server with Docker quickly | by Cun Yang | Medium](https://medium.com/@backslash112/start-a-remote-mysql-server-with-docker-quickly-9fdff22d23fd)
+docker logs bash

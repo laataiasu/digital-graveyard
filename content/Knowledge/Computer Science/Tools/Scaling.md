@@ -1,5 +1,5 @@
 ---
-title: "API Gateway"
+title: "Scaling"
 date: 2001-01-01
 tags: [note]
 publish_external: false
@@ -35,10 +35,4 @@ Last edited time: 2024-01-07T00:11
     - Replication
     - Caching
   
-# API Gateway
-- Backend for Frontend
-- Proxy server
-- Authentication and authorization
-- Rate limiter
-- Orchestrator
-- Standard API
+See [[API Gateway]]
