@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2024
 rating: 2.5
-url: "https://letterboxd.com/film/deadpool-wolverine/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2024
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/deadpool-wolverine/
 - **Source:** letterboxd

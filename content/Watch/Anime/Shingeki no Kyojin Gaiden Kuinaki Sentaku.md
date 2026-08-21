@@ -3,9 +3,13 @@ title: "Shingeki no Kyojin Gaiden: Kuinaki Sentaku"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
+year: 2015
+original_title: 進撃の巨人 外伝 悔いなき選択
 source: anilist
 ---
 
 # Shingeki no Kyojin Gaiden: Kuinaki Sentaku
 
+- **Year:** 2015
+- **Original_title:** 進撃の巨人 外伝 悔いなき選択
 - **Source:** anilist

@@ -4,10 +4,12 @@ date: 2020-07-03
 tags: [book]
 publish_external: false
 author: Jonathan  Black
+year: 2007
 source: goodreads
 ---
 
 # The Secret History of the World
 
 - **Author:** Jonathan  Black
+- **Year:** 2007
 - **Source:** goodreads

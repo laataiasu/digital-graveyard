@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2005
 rating: 3.0
-url: "https://letterboxd.com/film/pride-prejudice/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2005
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/pride-prejudice/
 - **Source:** letterboxd

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1993
 rating: 3.0
-url: "https://letterboxd.com/film/the-age-of-innocence/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1993
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/the-age-of-innocence/
 - **Source:** letterboxd

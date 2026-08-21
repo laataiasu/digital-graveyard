@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2014
 rating: 3.5
-url: "https://letterboxd.com/film/whiplash-2014/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2014
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/whiplash-2014/
 - **Source:** letterboxd

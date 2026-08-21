@@ -4,6 +4,7 @@ date: 2022-01-09
 tags: [book]
 publish_external: false
 author: Eric Jorgenson
+year: 2020
 rating: 2.0
 source: goodreads
 ---
@@ -11,5 +12,6 @@ source: goodreads
 # The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 
 - **Author:** Eric Jorgenson
+- **Year:** 2020
 - **Rating:** 2.0
 - **Source:** goodreads

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2010
 rating: 3.0
-url: "https://letterboxd.com/film/the-secret-world-of-arrietty/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2010
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/the-secret-world-of-arrietty/
 - **Source:** letterboxd

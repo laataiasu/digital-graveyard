@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2020
 rating: 3.0
-url: "https://letterboxd.com/film/all-the-bright-places/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2020
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/all-the-bright-places/
 - **Source:** letterboxd

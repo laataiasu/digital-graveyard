@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2015
 rating: 3.5
-url: "https://letterboxd.com/film/the-revenant-2015/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2015
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/the-revenant-2015/
 - **Source:** letterboxd

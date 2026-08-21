@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2011
 rating: 2.0
-url: "https://letterboxd.com/film/the-tree-of-life-2011/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2011
 - **Rating:** 2.0
-- **Url:** https://letterboxd.com/film/the-tree-of-life-2011/
 - **Source:** letterboxd

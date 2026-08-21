@@ -3,9 +3,13 @@ title: HUNTER×HUNTER
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
+year: 1999
+original_title: HUNTER×HUNTER
 source: anilist
 ---
 
 # HUNTER×HUNTER
 
+- **Year:** 1999
+- **Original_title:** HUNTER×HUNTER
 - **Source:** anilist

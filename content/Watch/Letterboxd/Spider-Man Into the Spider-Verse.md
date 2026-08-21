@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2018
 rating: 3.0
-url: "https://letterboxd.com/film/spider-man-into-the-spider-verse/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2018
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/spider-man-into-the-spider-verse/
 - **Source:** letterboxd

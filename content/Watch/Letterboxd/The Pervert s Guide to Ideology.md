@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2012
 rating: 4.0
-url: "https://letterboxd.com/film/the-perverts-guide-to-ideology/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2012
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/the-perverts-guide-to-ideology/
 - **Source:** letterboxd

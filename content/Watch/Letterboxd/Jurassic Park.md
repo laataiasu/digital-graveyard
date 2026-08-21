@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1993
 rating: 2.5
-url: "https://letterboxd.com/film/jurassic-park/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1993
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/jurassic-park/
 - **Source:** letterboxd

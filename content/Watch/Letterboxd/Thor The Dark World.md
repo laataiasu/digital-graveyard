@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2013
 rating: 2.5
-url: "https://letterboxd.com/film/thor-the-dark-world/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2013
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/thor-the-dark-world/
 - **Source:** letterboxd

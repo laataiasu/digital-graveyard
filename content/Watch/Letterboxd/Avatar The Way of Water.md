@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2022
 rating: 3.0
-url: "https://letterboxd.com/film/avatar-the-way-of-water/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2022
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/avatar-the-way-of-water/
 - **Source:** letterboxd

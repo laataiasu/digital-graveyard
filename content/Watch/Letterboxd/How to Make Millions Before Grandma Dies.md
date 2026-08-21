@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2024
 rating: 3.5
-url: "https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2024
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/
 - **Source:** letterboxd

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1964
 rating: 3.5
-url: "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1964
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/
 - **Source:** letterboxd

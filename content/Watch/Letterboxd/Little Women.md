@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2019
 rating: 3.0
-url: "https://letterboxd.com/film/little-women-2019/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2019
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/little-women-2019/
 - **Source:** letterboxd

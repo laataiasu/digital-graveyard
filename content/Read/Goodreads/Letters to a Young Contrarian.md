@@ -4,10 +4,12 @@ date: 2022-11-18
 tags: [book]
 publish_external: false
 author: Christopher Hitchens
+year: 2001
 source: goodreads
 ---
 
 # Letters to a Young Contrarian
 
 - **Author:** Christopher Hitchens
+- **Year:** 2001
 - **Source:** goodreads

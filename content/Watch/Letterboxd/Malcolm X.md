@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1992
 rating: 3.0
-url: "https://letterboxd.com/film/malcolm-x-1992/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1992
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/malcolm-x-1992/
 - **Source:** letterboxd

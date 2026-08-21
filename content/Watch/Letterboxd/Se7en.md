@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1995
 rating: 4.0
-url: "https://letterboxd.com/film/se7en/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1995
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/se7en/
 - **Source:** letterboxd

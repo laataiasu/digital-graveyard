@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1987
 rating: 2.0
-url: "https://letterboxd.com/film/full-metal-jacket/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1987
 - **Rating:** 2.0
-- **Url:** https://letterboxd.com/film/full-metal-jacket/
 - **Source:** letterboxd

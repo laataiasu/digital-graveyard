@@ -4,6 +4,7 @@ date: 2020-07-03
 tags: [book]
 publish_external: false
 author: Karen Armstrong
+year: 1993
 finished: 2020-07-03
 source: goodreads
 ---
@@ -11,5 +12,6 @@ source: goodreads
 # A History of God: The 4000-Year Quest of Judaism, Christianity and Islam
 
 - **Author:** Karen Armstrong
+- **Year:** 1993
 - **Finished:** 2020-07-03
 - **Source:** goodreads

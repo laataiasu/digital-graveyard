@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2003
 rating: 3.0
-url: "https://letterboxd.com/film/kill-bill-vol-1/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2003
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/kill-bill-vol-1/
 - **Source:** letterboxd

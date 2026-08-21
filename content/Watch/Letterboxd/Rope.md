@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1948
 rating: 3.5
-url: "https://letterboxd.com/film/rope/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1948
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/rope/
 - **Source:** letterboxd

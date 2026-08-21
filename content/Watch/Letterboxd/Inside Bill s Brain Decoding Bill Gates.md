@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2019
 rating: 3.5
-url: "https://letterboxd.com/film/inside-bills-brain-decoding-bill-gates/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2019
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/inside-bills-brain-decoding-bill-gates/
 - **Source:** letterboxd

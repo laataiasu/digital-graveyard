@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2024
 rating: 4.0
-url: "https://letterboxd.com/film/furiosa-a-mad-max-saga/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2024
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/furiosa-a-mad-max-saga/
 - **Source:** letterboxd

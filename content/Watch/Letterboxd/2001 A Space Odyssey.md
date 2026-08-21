@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1968
 rating: 4.0
-url: "https://letterboxd.com/film/2001-a-space-odyssey/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1968
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/2001-a-space-odyssey/
 - **Source:** letterboxd

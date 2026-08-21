@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2022
 rating: 2.0
-url: "https://letterboxd.com/film/get-smart-with-money/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2022
 - **Rating:** 2.0
-- **Url:** https://letterboxd.com/film/get-smart-with-money/
 - **Source:** letterboxd

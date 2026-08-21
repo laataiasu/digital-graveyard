@@ -3,9 +3,13 @@ title: Higurashi no Naku Koro ni
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
+year: 2006
+original_title: ひぐらしのなく頃に
 source: anilist
 ---
 
 # Higurashi no Naku Koro ni
 
+- **Year:** 2006
+- **Original_title:** ひぐらしのなく頃に
 - **Source:** anilist

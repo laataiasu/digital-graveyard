@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2022
 rating: 4.0
-url: "https://letterboxd.com/film/the-banshees-of-inisherin/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2022
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/the-banshees-of-inisherin/
 - **Source:** letterboxd

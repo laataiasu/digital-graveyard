@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2006
 rating: 1.5
-url: "https://letterboxd.com/film/the-pursuit-of-happyness/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2006
 - **Rating:** 1.5
-- **Url:** https://letterboxd.com/film/the-pursuit-of-happyness/
 - **Source:** letterboxd

@@ -4,10 +4,12 @@ date: 2020-08-23
 tags: [book]
 publish_external: false
 author: Fyodor Dostoevsky
+year: 1866
 source: goodreads
 ---
 
 # Crime and Punishment
 
 - **Author:** Fyodor Dostoevsky
+- **Year:** 1866
 - **Source:** goodreads

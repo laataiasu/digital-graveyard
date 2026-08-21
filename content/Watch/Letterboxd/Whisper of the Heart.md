@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1995
 rating: 3.5
-url: "https://letterboxd.com/film/whisper-of-the-heart/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1995
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/whisper-of-the-heart/
 - **Source:** letterboxd

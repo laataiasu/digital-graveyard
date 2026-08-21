@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2004
 rating: 3.5
-url: "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2004
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/
 - **Source:** letterboxd

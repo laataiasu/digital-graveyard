@@ -3,9 +3,13 @@ title: Oyasumi Punpun
 date: 2016-01-01
 tags: [manga, book]
 publish_external: false
+year: 2007
+original_title: おやすみプンプン
 source: anilist
 ---
 
 # Oyasumi Punpun
 
+- **Year:** 2007
+- **Original_title:** おやすみプンプン
 - **Source:** anilist

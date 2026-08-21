@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2023
 rating: 4.0
-url: "https://letterboxd.com/film/spider-man-across-the-spider-verse/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2023
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/spider-man-across-the-spider-verse/
 - **Source:** letterboxd

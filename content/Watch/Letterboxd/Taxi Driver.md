@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1976
 rating: 3.5
-url: "https://letterboxd.com/film/taxi-driver/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1976
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/taxi-driver/
 - **Source:** letterboxd

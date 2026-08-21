@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2017
 rating: 2.5
-url: "https://letterboxd.com/film/call-me-by-your-name/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2017
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/call-me-by-your-name/
 - **Source:** letterboxd

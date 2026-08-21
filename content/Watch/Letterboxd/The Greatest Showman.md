@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2017
 rating: 3.5
-url: "https://letterboxd.com/film/the-greatest-showman/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2017
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/the-greatest-showman/
 - **Source:** letterboxd

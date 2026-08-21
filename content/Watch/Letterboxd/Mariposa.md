@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2020
 rating: 2.5
-url: "https://letterboxd.com/film/mariposa-2020/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2020
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/mariposa-2020/
 - **Source:** letterboxd

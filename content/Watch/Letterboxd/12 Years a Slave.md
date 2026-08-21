@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2013
 rating: 4.0
-url: "https://letterboxd.com/film/12-years-a-slave/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2013
 - **Rating:** 4.0
-- **Url:** https://letterboxd.com/film/12-years-a-slave/
 - **Source:** letterboxd

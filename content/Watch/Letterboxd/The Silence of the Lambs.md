@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1991
 rating: 3.5
-url: "https://letterboxd.com/film/the-silence-of-the-lambs/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1991
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/the-silence-of-the-lambs/
 - **Source:** letterboxd

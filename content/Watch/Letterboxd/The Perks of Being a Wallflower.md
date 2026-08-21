@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2012
 rating: 3.5
-url: "https://letterboxd.com/film/the-perks-of-being-a-wallflower/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2012
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/the-perks-of-being-a-wallflower/
 - **Source:** letterboxd

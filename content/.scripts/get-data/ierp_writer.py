@@ -77,10 +77,7 @@ def normalize_records(source_key: str, df: pd.DataFrame) -> list:
             "original_title": r.get("series_native_title") or r.get("native_title") or r.get("Original Title"),
             "year": r.get("Year") or r.get("year") or r.get("release_year") or r.get("series_season_year") or r.get("Year Published") or r.get("year_published"),
             "author": r.get("Author") or r.get("author"),
-            "country": r.get("Country") or r.get("country"),
-            "external_id": str(external_id) if external_id else None,
             "source": src,
-            "url": url,
             "extra": {k: v for k, v in r.items() if v is not None and k not in (
                 "Title", "Name", "series_title", "manga_title")},
             "status": r.get("Reading Status") or r.get("status") or r.get("Progress"),

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1992
 rating: 3.5
-url: "https://letterboxd.com/film/scent-of-a-woman/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1992
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/scent-of-a-woman/
 - **Source:** letterboxd

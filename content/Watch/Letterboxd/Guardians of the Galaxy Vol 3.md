@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2023
 rating: 2.5
-url: "https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2023
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/
 - **Source:** letterboxd

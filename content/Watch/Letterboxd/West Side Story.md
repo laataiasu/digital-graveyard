@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2021
 rating: 2.0
-url: "https://letterboxd.com/film/west-side-story-2021/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2021
 - **Rating:** 2.0
-- **Url:** https://letterboxd.com/film/west-side-story-2021/
 - **Source:** letterboxd

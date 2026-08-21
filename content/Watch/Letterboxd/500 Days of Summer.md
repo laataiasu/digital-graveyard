@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2009
 rating: 3.5
-url: "https://letterboxd.com/film/500-days-of-summer/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2009
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/500-days-of-summer/
 - **Source:** letterboxd

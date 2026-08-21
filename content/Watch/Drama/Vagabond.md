@@ -4,7 +4,6 @@ date: 2016-01-01
 tags: [film, drama]
 publish_external: false
 year: 2019
-country: South Korea
 status: 16/16
 rating: 7.0
 progress: 16/16
@@ -14,7 +13,6 @@ source: mydramalist
 # Vagabond
 
 - **Year:** 2019
-- **Country:** South Korea
 - **Status:** 16/16
 - **Rating:** 7.0
 - **Progress:** 16/16

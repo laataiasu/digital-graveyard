@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2012
 rating: 2.5
-url: "https://letterboxd.com/film/the-amazing-spider-man/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2012
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/the-amazing-spider-man/
 - **Source:** letterboxd

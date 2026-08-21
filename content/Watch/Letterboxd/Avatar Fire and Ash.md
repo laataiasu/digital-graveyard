@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2025
 rating: 3.0
-url: "https://letterboxd.com/film/avatar-fire-and-ash/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2025
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/avatar-fire-and-ash/
 - **Source:** letterboxd

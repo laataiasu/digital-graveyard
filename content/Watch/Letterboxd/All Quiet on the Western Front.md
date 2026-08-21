@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2022
 rating: 2.5
-url: "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2022
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/all-quiet-on-the-western-front-2022/
 - **Source:** letterboxd

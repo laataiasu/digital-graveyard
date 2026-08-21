@@ -3,9 +3,13 @@ title: Death Parade
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
+year: 2015
+original_title: デス・パレード
 source: anilist
 ---
 
 # Death Parade
 
+- **Year:** 2015
+- **Original_title:** デス・パレード
 - **Source:** anilist

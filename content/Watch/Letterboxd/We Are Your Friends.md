@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2015
 rating: 2.0
-url: "https://letterboxd.com/film/we-are-your-friends/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2015
 - **Rating:** 2.0
-- **Url:** https://letterboxd.com/film/we-are-your-friends/
 - **Source:** letterboxd

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2000
 rating: 3.0
-url: "https://letterboxd.com/film/unbreakable/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2000
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/unbreakable/
 - **Source:** letterboxd

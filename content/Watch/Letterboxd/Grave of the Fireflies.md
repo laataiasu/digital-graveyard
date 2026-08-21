@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1988
 rating: 1.0
-url: "https://letterboxd.com/film/grave-of-the-fireflies/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1988
 - **Rating:** 1.0
-- **Url:** https://letterboxd.com/film/grave-of-the-fireflies/
 - **Source:** letterboxd

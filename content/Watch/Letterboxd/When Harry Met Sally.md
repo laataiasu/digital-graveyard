@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1989
 rating: 2.5
-url: "https://letterboxd.com/film/when-harry-met-sally/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1989
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/when-harry-met-sally/
 - **Source:** letterboxd

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1989
 rating: 3.0
-url: "https://letterboxd.com/film/kikis-delivery-service/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1989
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/kikis-delivery-service/
 - **Source:** letterboxd

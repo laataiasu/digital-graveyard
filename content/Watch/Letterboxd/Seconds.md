@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 1966
 rating: 3.0
-url: "https://letterboxd.com/film/seconds/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 1966
 - **Rating:** 3.0
-- **Url:** https://letterboxd.com/film/seconds/
 - **Source:** letterboxd

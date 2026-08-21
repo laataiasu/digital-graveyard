@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2021
 rating: 3.5
-url: "https://letterboxd.com/film/spider-man-no-way-home/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2021
 - **Rating:** 3.5
-- **Url:** https://letterboxd.com/film/spider-man-no-way-home/
 - **Source:** letterboxd

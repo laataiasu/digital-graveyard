@@ -3,9 +3,13 @@ title: Mushishi Zoku Shou 2
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
+year: 2014
+original_title: 蟲師 続章 2
 source: anilist
 ---
 
 # Mushishi Zoku Shou 2
 
+- **Year:** 2014
+- **Original_title:** 蟲師 続章 2
 - **Source:** anilist

@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2000
 rating: 2.5
-url: "https://letterboxd.com/film/in-the-mood-for-love/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2000
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/in-the-mood-for-love/
 - **Source:** letterboxd

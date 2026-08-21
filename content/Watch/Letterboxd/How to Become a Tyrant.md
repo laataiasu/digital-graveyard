@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2021
 rating: 2.5
-url: "https://letterboxd.com/film/how-to-become-a-tyrant/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2021
 - **Rating:** 2.5
-- **Url:** https://letterboxd.com/film/how-to-become-a-tyrant/
 - **Source:** letterboxd

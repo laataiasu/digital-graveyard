@@ -5,7 +5,6 @@ tags: [film]
 publish_external: false
 year: 2017
 rating: 2.0
-url: "https://letterboxd.com/film/ghost-in-the-shell-2017/"
 source: letterboxd
 ---
 
@@ -13,5 +12,4 @@ source: letterboxd
 
 - **Year:** 2017
 - **Rating:** 2.0
-- **Url:** https://letterboxd.com/film/ghost-in-the-shell-2017/
 - **Source:** letterboxd
