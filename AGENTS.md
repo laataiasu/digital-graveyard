@@ -134,6 +134,20 @@ uv run content/.scripts/sync_content.py
 ```
 This script cleans `/home/al/Projects/digital-garden/content` and copies only notes where `publish_external: true` is set, along with referenced assets.
 
+### 4. Media Notes (Books/Films/Anime/Manga/Dramas) — ierp-owned
+Media consumption notes under `content/Read/` and `content/Watch/` plus `content/Write/Links.md` are **generated, not hand-written**. The source of truth is the ierp SQLite database (`~/Projects/ierp/ierp/events.db`).
+
+* **Fetch + ingest** (all logic lives in ierp):
+```bash
+cd ~/Projects/ierp && uv run ierp sync [--source goodreads]
+```
+* **Regenerate garden notes from the DB**:
+```bash
+python3 ~/Projects/ierp/scripts/export_garden.py   # add --check for dry-run
+```
+* **Never hand-edit or hand-create media notes** — they are overwritten on export. To fix data, fix it in ierp (DB or `ierp` CLI) and re-export.
+* The old `content/.scripts/get-data/` pipeline was removed; do not recreate it.
+
 ---
 
 ## ⚠️ Important Rules for AI Assistants
