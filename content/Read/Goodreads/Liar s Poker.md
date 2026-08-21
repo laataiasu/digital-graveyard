@@ -1,6 +1,6 @@
 ---
 title: "Liar's Poker"
-date: 2022-07-25
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Michael   Lewis

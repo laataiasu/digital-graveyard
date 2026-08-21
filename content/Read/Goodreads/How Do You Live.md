@@ -1,6 +1,6 @@
 ---
 title: How Do You Live?
-date: 2023-12-10
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Genzaburo Yoshino

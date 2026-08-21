@@ -1,6 +1,6 @@
 ---
 title: "Secrets of Sand Hill Road: Venture Capital and How to Get It"
-date: 2025-04-30
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Scott Kupor

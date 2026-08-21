@@ -1,6 +1,6 @@
 ---
 title: "Deep Simplicity: Bringing Order to Chaos and Complexity"
-date: 2023-01-04
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: John Gribbin

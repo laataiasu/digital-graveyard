@@ -1,6 +1,6 @@
 ---
 title: Lapis-Lapis Keberkahan
-date: 2021-08-25
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Salim Akhukum Fillah

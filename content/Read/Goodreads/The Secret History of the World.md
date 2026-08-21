@@ -1,6 +1,6 @@
 ---
 title: The Secret History of the World
-date: 2020-07-03
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Jonathan  Black

@@ -1,6 +1,6 @@
 ---
 title: The Brothers Karamazov
-date: 2021-02-20
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Fyodor Dostoevsky

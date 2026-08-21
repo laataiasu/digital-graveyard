@@ -1,6 +1,6 @@
 ---
 title: "The True Believer: Thoughts on the Nature of Mass Movements"
-date: 2025-04-30
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Eric Hoffer

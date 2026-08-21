@@ -1,6 +1,6 @@
 ---
 title: "Man's Search for Meaning"
-date: 2022-02-09
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Viktor E. Frankl

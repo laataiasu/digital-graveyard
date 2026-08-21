@@ -1,6 +1,6 @@
 ---
 title: "Sapiens: A Brief History of Humankind"
-date: 2020-07-06
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Yuval Noah Harari

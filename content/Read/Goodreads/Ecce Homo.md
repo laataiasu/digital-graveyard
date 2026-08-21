@@ -1,6 +1,6 @@
 ---
 title: Ecce Homo
-date: 2024-05-04
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Friedrich Nietzsche

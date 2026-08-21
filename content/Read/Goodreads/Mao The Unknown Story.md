@@ -1,6 +1,6 @@
 ---
 title: "Mao: The Unknown Story"
-date: 2025-01-17
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Jung Chang

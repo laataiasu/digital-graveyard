@@ -5,6 +5,7 @@ tags: [film, drama]
 publish_external: false
 year: 2016
 status: 0/20
+rating: 0.0
 progress: 0/20
 source: mydramalist
 ---
@@ -13,5 +14,6 @@ source: mydramalist
 
 - **Year:** 2016
 - **Status:** 0/20
+- **Rating:** 0.0
 - **Progress:** 0/20
 - **Source:** mydramalist

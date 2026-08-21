@@ -1,6 +1,6 @@
 ---
 title: Kagum pada Orang Indonesia
-date: 2022-06-23
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Emha Ainun Nadjib

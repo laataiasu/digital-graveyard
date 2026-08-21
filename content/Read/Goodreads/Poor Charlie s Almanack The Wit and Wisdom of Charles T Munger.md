@@ -1,6 +1,6 @@
 ---
 title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
-date: 2022-07-25
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Charles T. Munger

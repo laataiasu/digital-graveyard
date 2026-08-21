@@ -1,6 +1,6 @@
 ---
 title: "Demokrasi Kita: Idealisme dan Realitas Serta Unsur yang memperkuatnya"
-date: 2020-08-23
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Mohammad Hatta

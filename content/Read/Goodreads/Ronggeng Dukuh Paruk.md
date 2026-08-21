@@ -1,6 +1,6 @@
 ---
 title: Ronggeng Dukuh Paruk
-date: 2023-01-09
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Ahmad Tohari

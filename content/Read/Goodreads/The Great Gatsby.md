@@ -1,6 +1,6 @@
 ---
 title: The Great Gatsby
-date: 2018-09-17
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: F. Scott Fitzgerald

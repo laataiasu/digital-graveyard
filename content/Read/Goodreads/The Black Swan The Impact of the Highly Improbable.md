@@ -1,6 +1,6 @@
 ---
 title: "The Black Swan: The Impact of the Highly Improbable"
-date: 2023-01-26
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Nassim Nicholas Taleb

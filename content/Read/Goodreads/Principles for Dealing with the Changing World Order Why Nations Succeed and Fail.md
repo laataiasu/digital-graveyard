@@ -1,6 +1,6 @@
 ---
 title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
-date: 2024-11-30
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Ray Dalio

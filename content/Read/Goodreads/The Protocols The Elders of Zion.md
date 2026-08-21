@@ -1,6 +1,6 @@
 ---
 title: "The Protocols: The Elders of Zion"
-date: 2021-10-23
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Sergei Nilus

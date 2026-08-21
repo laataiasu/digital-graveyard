@@ -1,6 +1,6 @@
 ---
 title: Daerah Salju
-date: 2021-12-15
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Yasunari Kawabata

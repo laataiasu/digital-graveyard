@@ -1,6 +1,6 @@
 ---
 title: Jalan Sunyi Emha
-date: 2022-09-18
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Ian L. Betts

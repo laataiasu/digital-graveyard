@@ -1,6 +1,6 @@
 ---
 title: Kafka on the Shore
-date: 2020-08-27
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Haruki Murakami

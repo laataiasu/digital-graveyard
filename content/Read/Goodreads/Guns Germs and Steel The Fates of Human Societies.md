@@ -1,6 +1,6 @@
 ---
 title: "Guns, Germs, and Steel: The Fates of Human Societies"
-date: 2022-09-01
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Jared Diamond

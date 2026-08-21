@@ -1,6 +1,6 @@
 ---
 title: Models of My Life
-date: 2023-01-04
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Herbert A. Simon

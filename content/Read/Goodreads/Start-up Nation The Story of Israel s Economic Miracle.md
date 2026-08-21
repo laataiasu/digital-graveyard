@@ -1,6 +1,6 @@
 ---
 title: "Start-up Nation: The Story of Israel's Economic Miracle"
-date: 2021-08-28
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Dan Senor

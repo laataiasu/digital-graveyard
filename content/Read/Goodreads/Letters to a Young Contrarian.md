@@ -1,6 +1,6 @@
 ---
 title: Letters to a Young Contrarian
-date: 2022-11-18
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Christopher Hitchens

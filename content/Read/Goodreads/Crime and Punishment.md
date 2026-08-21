@@ -1,6 +1,6 @@
 ---
 title: Crime and Punishment
-date: 2020-08-23
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Fyodor Dostoevsky

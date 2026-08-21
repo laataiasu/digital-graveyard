@@ -1,6 +1,6 @@
 ---
 title: The Burnout Society
-date: 2026-01-10
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Byung-Chul Han

@@ -1,6 +1,6 @@
 ---
 title: Meatspace
-date: 2019-07-08
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Nikesh Shukla

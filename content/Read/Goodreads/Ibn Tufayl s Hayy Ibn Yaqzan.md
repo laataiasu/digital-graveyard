@@ -1,6 +1,6 @@
 ---
 title: "Ibn Tufayl's Hayy Ibn Yaqzan"
-date: 2021-07-15
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Ibn Tufail

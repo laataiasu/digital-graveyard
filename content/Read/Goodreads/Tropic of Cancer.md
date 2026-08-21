@@ -1,6 +1,6 @@
 ---
 title: Tropic of Cancer
-date: 2025-08-03
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Henry Miller

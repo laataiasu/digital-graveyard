@@ -1,6 +1,6 @@
 ---
 title: "Thinking, Fast and Slow"
-date: 2021-08-23
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Daniel Kahneman

@@ -1,6 +1,6 @@
 ---
 title: I Want to Eat Your Pancreas
-date: 2024-04-23
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Yoru Sumino

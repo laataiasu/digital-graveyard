@@ -1,6 +1,6 @@
 ---
 title: Hujan Bulan Juni
-date: 2019-07-19
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Sapardi Djoko Damono

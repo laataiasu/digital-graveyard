@@ -1,6 +1,6 @@
 ---
 title: How the Economic Machine Works
-date: 2025-06-21
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Ray Dalio

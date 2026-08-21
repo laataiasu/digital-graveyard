@@ -1,6 +1,6 @@
 ---
 title: "Gödel, Escher, Bach: An Eternal Golden Braid"
-date: 2025-05-19
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Douglas R. Hofstadter

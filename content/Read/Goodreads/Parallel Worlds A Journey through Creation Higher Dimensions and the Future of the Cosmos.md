@@ -1,6 +1,6 @@
 ---
 title: "Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos"
-date: 2020-10-29
+date: 2016-01-01
 tags: [book]
 publish_external: false
 author: Michio Kaku
