@@ -41,6 +41,11 @@ def main():
         action="store_true",
         help="List all configured data sources.",
     )
+    parser.add_argument(
+        "--erp",
+        action="store_true",
+        help="Also upsert fetched records into the ierp SQLite database (structured media log).",
+    )
 
     args = parser.parse_args()
 
@@ -69,6 +74,18 @@ def main():
         desc = config.get("description", source_name)
         print(f"\n📦 Processing: {desc} ({source_name})...")
         try:
+            if args.erp and not args.check:
+                from ierp_writer import normalize_records, push_to_ierp
+                from dataloaders import retry_request
+                loader = config["loader"]
+                loader_args = config.get("loader_args", {})
+                df = loader(**loader_args) if loader_args else loader()
+                if df is not None and not df.empty:
+                    records = normalize_records(source_name, df)
+                    push_to_ierp(source_name, records)
+                else:
+                    print(f"[ierp] No records fetched for {source_name}; skipping DB push.")
+
             count = process_source(config, dry_run=args.check)
             results[source_name] = count
             print(f"✅ Finished: {desc} ({count} notes)")
