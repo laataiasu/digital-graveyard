@@ -74,8 +74,8 @@ def normalize_records(source_key: str, df: pd.DataFrame) -> list:
         rec = {
             "media_type": media_type,
             "title": title,
-            "original_title": r.get("series_title_english") or r.get("native_title") or r.get("Original Title"),
-            "year": r.get("Year") or r.get("year") or r.get("release_year"),
+            "original_title": r.get("series_native_title") or r.get("native_title") or r.get("Original Title"),
+            "year": r.get("Year") or r.get("year") or r.get("release_year") or r.get("series_season_year") or r.get("Year Published") or r.get("year_published"),
             "author": r.get("Author") or r.get("author"),
             "country": r.get("Country") or r.get("country"),
             "external_id": str(external_id) if external_id else None,
