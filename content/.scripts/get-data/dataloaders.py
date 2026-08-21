@@ -401,6 +401,7 @@ def load_anilist_data(username="laataiasu", media_type="ANIME"):
               chapters
               volumes
               seasonYear
+              startDate { year }
             }
           }
         }
@@ -466,7 +467,7 @@ def load_anilist_data(username="laataiasu", media_type="ANIME"):
                 "series_type": media.get("format") or "",
                 "series_episodes": media.get("episodes") if media_type == "ANIME" else media.get("chapters"),
                 "series_native_title": title_dict.get("native") or "",
-                "series_season_year": media.get("seasonYear"),
+                "series_season_year": media.get("seasonYear") or (media.get("startDate") or {}).get("year"),
                 "my_id": entry.get("id"),
                 "my_watched_episodes": entry.get("progress"),
                 "my_start_date": start_date,
