@@ -1,15 +1,15 @@
 ---
 title: The Autobiography of Malcolm X
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Malcolm X
+author: "Malcolm X, Alex Haley"
 year: 1965
-source: goodreads
+source: hardcover
 ---
 
 # The Autobiography of Malcolm X
 
-- **Author:** Malcolm X
+- **Author:** Malcolm X, Alex Haley
 - **Year:** 1965
-- **Source:** goodreads
+- **Source:** hardcover

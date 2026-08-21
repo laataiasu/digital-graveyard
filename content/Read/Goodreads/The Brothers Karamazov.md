@@ -1,15 +1,15 @@
 ---
 title: The Brothers Karamazov
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Fyodor Dostoevsky
-year: 1879
-source: goodreads
+author: "Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky"
+year: 1876
+source: hardcover
 ---
 
 # The Brothers Karamazov
 
-- **Author:** Fyodor Dostoevsky
-- **Year:** 1879
-- **Source:** goodreads
+- **Author:** Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky
+- **Year:** 1876
+- **Source:** hardcover

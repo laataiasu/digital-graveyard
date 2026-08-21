@@ -1,15 +1,15 @@
 ---
 title: No Longer Human
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Osamu Dazai
+author: "Osamu Dazai, Donald Keene, David Shih"
 year: 1948
-source: goodreads
+source: hardcover
 ---
 
 # No Longer Human
 
-- **Author:** Osamu Dazai
+- **Author:** Osamu Dazai, Donald Keene, David Shih
 - **Year:** 1948
-- **Source:** goodreads
+- **Source:** hardcover

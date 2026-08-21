@@ -1,15 +1,15 @@
 ---
 title: Thus Spoke Zarathustra
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Friedrich Nietzsche
+author: "Friedrich Nietzsche, Stephen J. Metcalf"
 year: 1883
-source: goodreads
+source: hardcover
 ---
 
 # Thus Spoke Zarathustra
 
-- **Author:** Friedrich Nietzsche
+- **Author:** Friedrich Nietzsche, Stephen J. Metcalf
 - **Year:** 1883
-- **Source:** goodreads
+- **Source:** hardcover

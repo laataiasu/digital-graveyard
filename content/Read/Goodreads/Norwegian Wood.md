@@ -1,17 +1,17 @@
 ---
 title: Norwegian Wood
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Haruki Murakami
+author: "Haruki Murakami, Jay Rubin"
 year: 1987
 rating: 3.0
-source: goodreads
+source: hardcover
 ---
 
 # Norwegian Wood
 
-- **Author:** Haruki Murakami
+- **Author:** Haruki Murakami, Jay Rubin
 - **Year:** 1987
 - **Rating:** 3.0
-- **Source:** goodreads
+- **Source:** hardcover

@@ -1,15 +1,15 @@
 ---
 title: "Liar's Poker"
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Michael   Lewis
+author: Michael Lewis
 year: 1989
-source: goodreads
+source: hardcover
 ---
 
 # Liar's Poker
 
-- **Author:** Michael   Lewis
+- **Author:** Michael Lewis
 - **Year:** 1989
-- **Source:** goodreads
+- **Source:** hardcover

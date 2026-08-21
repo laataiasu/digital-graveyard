@@ -1,13 +1,13 @@
 ---
 title: How the Economic Machine Works
-date: 2016-01-01
+date: 2026-08-20
 tags: [book]
 publish_external: false
 author: Ray Dalio
-source: goodreads
+source: hardcover
 ---
 
 # How the Economic Machine Works
 
 - **Author:** Ray Dalio
-- **Source:** goodreads
+- **Source:** hardcover

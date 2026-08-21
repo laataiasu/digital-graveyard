@@ -1,15 +1,15 @@
 ---
 title: "The Protocols: The Elders of Zion"
-date: 2016-01-01
+date: 2026-08-20
 tags: [book]
 publish_external: false
-author: Sergei Nilus
+author: "Sergei Nilus, Victor E. Marsden"
 year: 1903
-source: goodreads
+source: hardcover
 ---
 
 # The Protocols: The Elders of Zion
 
-- **Author:** Sergei Nilus
+- **Author:** Sergei Nilus, Victor E. Marsden
 - **Year:** 1903
-- **Source:** goodreads
+- **Source:** hardcover

@@ -1,15 +1,15 @@
 ---
 title: Oliver Twist
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Charles Dickens
+author: "Vincent Buranelli, Charles Dickens, Hieronimus Fromm"
 year: 1838
-source: goodreads
+source: hardcover
 ---
 
 # Oliver Twist
 
-- **Author:** Charles Dickens
+- **Author:** Vincent Buranelli, Charles Dickens, Hieronimus Fromm
 - **Year:** 1838
-- **Source:** goodreads
+- **Source:** hardcover

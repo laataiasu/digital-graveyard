@@ -1,15 +1,15 @@
 ---
 title: "The Unabomber Manifesto: Industrial Society & Its Future"
-date: 2016-01-01
+date: 2026-08-20
 tags: [book]
 publish_external: false
-author: Theodore John Kaczynski
+author: Theodore J. Kaczynski
 year: 1995
-source: goodreads
+source: hardcover
 ---
 
 # The Unabomber Manifesto: Industrial Society & Its Future
 
-- **Author:** Theodore John Kaczynski
+- **Author:** Theodore J. Kaczynski
 - **Year:** 1995
-- **Source:** goodreads
+- **Source:** hardcover

@@ -1,15 +1,15 @@
 ---
 title: The Alchemist
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Paulo Coelho
 year: 1988
-source: goodreads
+source: hardcover
 ---
 
 # The Alchemist
 
 - **Author:** Paulo Coelho
 - **Year:** 1988
-- **Source:** goodreads
+- **Source:** hardcover

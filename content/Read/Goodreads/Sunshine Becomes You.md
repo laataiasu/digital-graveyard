@@ -1,15 +1,15 @@
 ---
 title: Sunshine Becomes You
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Ilana Tan
 year: 2012
-source: goodreads
+source: hardcover
 ---
 
 # Sunshine Becomes You
 
 - **Author:** Ilana Tan
 - **Year:** 2012
-- **Source:** goodreads
+- **Source:** hardcover

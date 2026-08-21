@@ -1,17 +1,17 @@
 ---
 title: "Start-up Nation: The Story of Israel's Economic Miracle"
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Dan Senor
+author: Senor  Dan; Singer
 year: 2009
 rating: 3.0
-source: goodreads
+source: hardcover
 ---
 
 # Start-up Nation: The Story of Israel's Economic Miracle
 
-- **Author:** Dan Senor
+- **Author:** Senor  Dan; Singer
 - **Year:** 2009
 - **Rating:** 3.0
-- **Source:** goodreads
+- **Source:** hardcover

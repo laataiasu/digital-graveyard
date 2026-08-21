@@ -1,13 +1,15 @@
 ---
 title: Mati Ketawa ala Refotnasi
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Emha Ainun Nadjib
-source: goodreads
+year: 2016
+source: hardcover
 ---
 
 # Mati Ketawa ala Refotnasi
 
 - **Author:** Emha Ainun Nadjib
-- **Source:** goodreads
+- **Year:** 2016
+- **Source:** hardcover

@@ -1,15 +1,15 @@
 ---
 title: "Introducing Slavoj Zizek: A Graphic Guide"
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Christopher Kul-Want
+author: "Christopher Kul-Want, Piero"
 year: 2011
-source: goodreads
+source: hardcover
 ---
 
 # Introducing Slavoj Zizek: A Graphic Guide
 
-- **Author:** Christopher Kul-Want
+- **Author:** Christopher Kul-Want, Piero
 - **Year:** 2011
-- **Source:** goodreads
+- **Source:** hardcover

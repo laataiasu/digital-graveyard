@@ -1,17 +1,17 @@
 ---
-title: Sophie’s World
-date: 2021-02-20
+title: "Sophie's World"
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Jostein Gaarder
-year: 1991
+author: "Jostein Gaarder, Paulette Møller"
+year: 1905
 finished_at: 2021-02-20
-source: goodreads
+source: hardcover
 ---
 
-# Sophie’s World
+# Sophie's World
 
-- **Author:** Jostein Gaarder
-- **Year:** 1991
+- **Author:** Jostein Gaarder, Paulette Møller
+- **Year:** 1905
 - **Finished at:** 2021-02-20
-- **Source:** goodreads
+- **Source:** hardcover

@@ -1,15 +1,15 @@
 ---
 title: The Burnout Society
-date: 2016-01-01
+date: 2026-08-20
 tags: [book]
 publish_external: false
-author: Byung-Chul Han
+author: "Byung-Chul Han, Erik Butler"
 year: 2010
-source: goodreads
+source: hardcover
 ---
 
 # The Burnout Society
 
-- **Author:** Byung-Chul Han
+- **Author:** Byung-Chul Han, Erik Butler
 - **Year:** 2010
-- **Source:** goodreads
+- **Source:** hardcover

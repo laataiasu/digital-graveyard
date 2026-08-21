@@ -5,7 +5,7 @@ tags: [book]
 publish_external: false
 author: Miguel de Cervantes Saavedra
 year: 1605
-rating: 4.0
+rating: 4
 source: goodreads
 ---
 
@@ -13,5 +13,5 @@ source: goodreads
 
 - **Author:** Miguel de Cervantes Saavedra
 - **Year:** 1605
-- **Rating:** 4.0
+- **Rating:** 4
 - **Source:** goodreads

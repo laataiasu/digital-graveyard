@@ -1,12 +1,12 @@
 ---
 title: Kagum pada Orang Indonesia
-date: 2016-01-01
+date: 2026-08-20
 tags: [book]
 publish_external: false
 author: Emha Ainun Nadjib
 year: 2008
 rating: 3.0
-source: goodreads
+source: hardcover
 ---
 
 # Kagum pada Orang Indonesia
@@ -14,4 +14,4 @@ source: goodreads
 - **Author:** Emha Ainun Nadjib
 - **Year:** 2008
 - **Rating:** 3.0
-- **Source:** goodreads
+- **Source:** hardcover

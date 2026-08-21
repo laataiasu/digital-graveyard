@@ -1,15 +1,15 @@
 ---
 title: Mortality
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Christopher Hitchens
-year: 2012
-source: goodreads
+author: "Christopher Hitchens, Simon Prebble"
+year: 2001
+source: hardcover
 ---
 
 # Mortality
 
-- **Author:** Christopher Hitchens
-- **Year:** 2012
-- **Source:** goodreads
+- **Author:** Christopher Hitchens, Simon Prebble
+- **Year:** 2001
+- **Source:** hardcover

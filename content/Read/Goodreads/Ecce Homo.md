@@ -1,15 +1,15 @@
 ---
 title: Ecce Homo
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Friedrich Nietzsche
-year: 1908
-source: goodreads
+author: "Friedrich Nietzsche, Michael Tanner, R.J. Hollingdale"
+year: 1888
+source: hardcover
 ---
 
 # Ecce Homo
 
-- **Author:** Friedrich Nietzsche
-- **Year:** 1908
-- **Source:** goodreads
+- **Author:** Friedrich Nietzsche, Michael Tanner, R.J. Hollingdale
+- **Year:** 1888
+- **Source:** hardcover

@@ -1,17 +1,17 @@
 ---
 title: Jalan Sunyi Emha
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Ian L. Betts
+author: "Ian L. Betts, Toto Rahardjo"
 year: 2006
 rating: 3.0
-source: goodreads
+source: hardcover
 ---
 
 # Jalan Sunyi Emha
 
-- **Author:** Ian L. Betts
+- **Author:** Ian L. Betts, Toto Rahardjo
 - **Year:** 2006
 - **Rating:** 3.0
-- **Source:** goodreads
+- **Source:** hardcover

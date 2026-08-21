@@ -1,15 +1,15 @@
 ---
 title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Charles T. Munger
+author: "Charles T. Munger, Peter E. Kaufman"
 year: 2005
-source: goodreads
+source: hardcover
 ---
 
 # Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger
 
-- **Author:** Charles T. Munger
+- **Author:** Charles T. Munger, Peter E. Kaufman
 - **Year:** 2005
-- **Source:** goodreads
+- **Source:** hardcover

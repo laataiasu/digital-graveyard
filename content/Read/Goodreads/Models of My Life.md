@@ -1,15 +1,15 @@
 ---
 title: Models of My Life
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Herbert A. Simon
 year: 1991
-source: goodreads
+source: hardcover
 ---
 
 # Models of My Life
 
 - **Author:** Herbert A. Simon
 - **Year:** 1991
-- **Source:** goodreads
+- **Source:** hardcover

@@ -5,7 +5,7 @@ tags: [book]
 publish_external: false
 author: Richard Dawkins
 year: 2006
-rating: 3.0
+rating: 3
 source: goodreads
 ---
 
@@ -13,5 +13,5 @@ source: goodreads
 
 - **Author:** Richard Dawkins
 - **Year:** 2006
-- **Rating:** 3.0
+- **Rating:** 3
 - **Source:** goodreads

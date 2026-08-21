@@ -1,12 +1,13 @@
 ---
 title: Filosofi Cinta KAHLIL GIBRAN
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Fahruddin Faiz
 year: 2002
 rating: 2.0
-source: goodreads
+finished_at: 2022-10-31
+source: hardcover
 ---
 
 # Filosofi Cinta KAHLIL GIBRAN
@@ -14,4 +15,5 @@ source: goodreads
 - **Author:** Fahruddin Faiz
 - **Year:** 2002
 - **Rating:** 2.0
-- **Source:** goodreads
+- **Finished at:** 2022-10-31
+- **Source:** hardcover

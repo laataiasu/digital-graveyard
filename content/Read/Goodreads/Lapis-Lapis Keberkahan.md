@@ -1,15 +1,15 @@
 ---
 title: Lapis-Lapis Keberkahan
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Salim Akhukum Fillah
 year: 2014
-source: goodreads
+source: hardcover
 ---
 
 # Lapis-Lapis Keberkahan
 
 - **Author:** Salim Akhukum Fillah
 - **Year:** 2014
-- **Source:** goodreads
+- **Source:** hardcover

@@ -1,15 +1,15 @@
 ---
 title: "The DAO of Capital: Austrian Investing in a Distorted World"
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Mark Spitznagel
+author: "Mark Spitznagel, Ron Paul"
 year: 2013
-source: goodreads
+source: hardcover
 ---
 
 # The DAO of Capital: Austrian Investing in a Distorted World
 
-- **Author:** Mark Spitznagel
+- **Author:** Mark Spitznagel, Ron Paul
 - **Year:** 2013
-- **Source:** goodreads
+- **Source:** hardcover

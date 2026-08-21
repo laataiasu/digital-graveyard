@@ -1,13 +1,15 @@
 ---
 title: "The Network State: How To Start a New Country"
-date: 2016-01-01
+date: 2026-08-20
 tags: [book]
 publish_external: false
 author: Balaji S. Srinivasan
-source: goodreads
+year: 2022
+source: hardcover
 ---
 
 # The Network State: How To Start a New Country
 
 - **Author:** Balaji S. Srinivasan
-- **Source:** goodreads
+- **Year:** 2022
+- **Source:** hardcover

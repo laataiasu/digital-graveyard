@@ -1,15 +1,15 @@
 ---
 title: Crime and Punishment
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Fyodor Dostoevsky
+author: "Fyodor Dostoevsky, Leonard Stanton, James D. Hardy Jr., Sidney Monas, Robin Feuer Miller"
 year: 1866
-source: goodreads
+source: hardcover
 ---
 
 # Crime and Punishment
 
-- **Author:** Fyodor Dostoevsky
+- **Author:** Fyodor Dostoevsky, Leonard Stanton, James D. Hardy Jr., Sidney Monas, Robin Feuer Miller
 - **Year:** 1866
-- **Source:** goodreads
+- **Source:** hardcover

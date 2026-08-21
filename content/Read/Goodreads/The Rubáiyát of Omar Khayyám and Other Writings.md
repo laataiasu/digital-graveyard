@@ -1,13 +1,13 @@
 ---
 title: The Rubáiyát of Omar Khayyám and Other Writings
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Omar Khayyám
-source: goodreads
+author: "Omar Khayyám, Edward FitzGerald"
+source: hardcover
 ---
 
 # The Rubáiyát of Omar Khayyám and Other Writings
 
-- **Author:** Omar Khayyám
-- **Source:** goodreads
+- **Author:** Omar Khayyám, Edward FitzGerald
+- **Source:** hardcover

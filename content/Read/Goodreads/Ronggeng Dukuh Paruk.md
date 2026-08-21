@@ -1,15 +1,15 @@
 ---
 title: Ronggeng Dukuh Paruk
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
 author: Ahmad Tohari
-year: 1982
-source: goodreads
+year: 2003
+source: hardcover
 ---
 
 # Ronggeng Dukuh Paruk
 
 - **Author:** Ahmad Tohari
-- **Year:** 1982
-- **Source:** goodreads
+- **Year:** 2003
+- **Source:** hardcover

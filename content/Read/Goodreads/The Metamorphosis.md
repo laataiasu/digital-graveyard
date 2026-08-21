@@ -1,15 +1,15 @@
 ---
 title: The Metamorphosis
-date: 2016-01-01
+date: 2025-06-19
 tags: [book]
 publish_external: false
-author: Franz Kafka
+author: "Franz Kafka, Michael Hofmann"
 year: 1915
-source: goodreads
+source: hardcover
 ---
 
 # The Metamorphosis
 
-- **Author:** Franz Kafka
+- **Author:** Franz Kafka, Michael Hofmann
 - **Year:** 1915
-- **Source:** goodreads
+- **Source:** hardcover
