@@ -11,5 +11,5 @@ source: anilist
 # HUNTER×HUNTER (2011)
 
 - **Year:** 2011
-- **Original_title:** HUNTER×HUNTER (2011)
+- **Original title:** HUNTER×HUNTER (2011)
 - **Source:** anilist

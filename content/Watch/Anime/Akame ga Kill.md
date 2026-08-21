@@ -11,5 +11,5 @@ source: anilist
 # Akame ga Kill!
 
 - **Year:** 2014
-- **Original_title:** アカメが斬る！
+- **Original title:** アカメが斬る！
 - **Source:** anilist

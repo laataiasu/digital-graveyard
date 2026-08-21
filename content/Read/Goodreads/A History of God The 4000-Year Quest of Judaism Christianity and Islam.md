@@ -5,7 +5,7 @@ tags: [book]
 publish_external: false
 author: Karen Armstrong
 year: 1993
-finished: 2020-07-03
+finished_at: 2020-07-03
 source: goodreads
 ---
 
@@ -13,5 +13,5 @@ source: goodreads
 
 - **Author:** Karen Armstrong
 - **Year:** 1993
-- **Finished:** 2020-07-03
+- **Finished at:** 2020-07-03
 - **Source:** goodreads

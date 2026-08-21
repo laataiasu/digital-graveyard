@@ -11,5 +11,5 @@ source: anilist
 # Shingeki no Kyojin: The Final Season Part 2
 
 - **Year:** 2022
-- **Original_title:** 進撃の巨人 The Final Season Part 2
+- **Original title:** 進撃の巨人 The Final Season Part 2
 - **Source:** anilist

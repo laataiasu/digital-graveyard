@@ -11,5 +11,5 @@ source: anilist
 # Boku dake ga Inai Machi
 
 - **Year:** 2016
-- **Original_title:** 僕だけがいない街
+- **Original title:** 僕だけがいない街
 - **Source:** anilist

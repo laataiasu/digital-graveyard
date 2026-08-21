@@ -11,5 +11,5 @@ source: anilist
 # Mushishi Zoku Shou 2
 
 - **Year:** 2014
-- **Original_title:** 蟲師 続章 2
+- **Original title:** 蟲師 続章 2
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Boku no Hero Academia 3
 
 - **Year:** 2018
-- **Original_title:** 僕のヒーローアカデミア３
+- **Original title:** 僕のヒーローアカデミア３
 - **Source:** anilist

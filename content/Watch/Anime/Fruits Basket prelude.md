@@ -11,5 +11,5 @@ source: anilist
 # Fruits Basket: prelude
 
 - **Year:** 2022
-- **Original_title:** フルーツバスケット -prelude-
+- **Original title:** フルーツバスケット -prelude-
 - **Source:** anilist

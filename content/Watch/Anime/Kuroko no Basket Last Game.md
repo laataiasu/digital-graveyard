@@ -11,5 +11,5 @@ source: anilist
 # Kuroko no Basket: Last Game
 
 - **Year:** 2017
-- **Original_title:** 劇場版 黒子のバスケ Last Game
+- **Original title:** 劇場版 黒子のバスケ Last Game
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Shokugeki no Souma
 
 - **Year:** 2015
-- **Original_title:** 食戟のソーマ
+- **Original title:** 食戟のソーマ
 - **Source:** anilist

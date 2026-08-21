@@ -11,5 +11,5 @@ source: anilist
 # Suzumiya Haruhi no Shoushitsu
 
 - **Year:** 2010
-- **Original_title:** 涼宮ハルヒの消失
+- **Original title:** 涼宮ハルヒの消失
 - **Source:** anilist

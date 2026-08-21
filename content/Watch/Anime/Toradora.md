@@ -11,5 +11,5 @@ source: anilist
 # Toradora!
 
 - **Year:** 2008
-- **Original_title:** とらドラ！
+- **Original title:** とらドラ！
 - **Source:** anilist

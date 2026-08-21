@@ -11,5 +11,5 @@ source: anilist
 # Barakamon
 
 - **Year:** 2014
-- **Original_title:** ばらかもん
+- **Original title:** ばらかもん
 - **Source:** anilist

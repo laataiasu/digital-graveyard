@@ -11,5 +11,5 @@ source: anilist
 # Fruits Basket: The Final
 
 - **Year:** 2021
-- **Original_title:** フルーツバスケットThe Final
+- **Original title:** フルーツバスケットThe Final
 - **Source:** anilist

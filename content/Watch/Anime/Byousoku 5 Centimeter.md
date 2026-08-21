@@ -11,5 +11,5 @@ source: anilist
 # Byousoku 5 Centimeter
 
 - **Year:** 2007
-- **Original_title:** 秒速５センチメートル
+- **Original title:** 秒速５センチメートル
 - **Source:** anilist

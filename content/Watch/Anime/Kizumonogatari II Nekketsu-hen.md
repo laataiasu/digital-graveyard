@@ -11,5 +11,5 @@ source: anilist
 # Kizumonogatari II: Nekketsu-hen
 
 - **Year:** 2016
-- **Original_title:** 傷物語〈Ⅱ熱血篇〉
+- **Original title:** 傷物語〈Ⅱ熱血篇〉
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Kimi ni Todoke 2ND SEASON
 
 - **Year:** 2011
-- **Original_title:** 君に届け 2ND SEASON
+- **Original title:** 君に届け 2ND SEASON
 - **Source:** anilist

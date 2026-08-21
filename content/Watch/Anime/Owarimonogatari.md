@@ -11,5 +11,5 @@ source: anilist
 # Owarimonogatari
 
 - **Year:** 2015
-- **Original_title:** 終物語
+- **Original title:** 終物語
 - **Source:** anilist

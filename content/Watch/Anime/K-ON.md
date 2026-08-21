@@ -11,5 +11,5 @@ source: anilist
 # K-ON!!
 
 - **Year:** 2010
-- **Original_title:** けいおん!!
+- **Original title:** けいおん!!
 - **Source:** anilist

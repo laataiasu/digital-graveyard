@@ -11,5 +11,5 @@ source: anilist
 # Higurashi no Naku Koro ni
 
 - **Year:** 2006
-- **Original_title:** ひぐらしのなく頃に
+- **Original title:** ひぐらしのなく頃に
 - **Source:** anilist

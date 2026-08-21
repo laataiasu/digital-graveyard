@@ -11,5 +11,5 @@ source: anilist
 # Yahari Ore no Seishun Love Come wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.
 
 - **Year:** 2023
-- **Original_title:** やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」
+- **Original title:** やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Hotaru no Haka
 
 - **Year:** 1988
-- **Original_title:** 火垂るの墓
+- **Original title:** 火垂るの墓
 - **Source:** anilist

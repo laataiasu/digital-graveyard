@@ -11,5 +11,5 @@ source: anilist
 # Shigatsu wa Kimi no Uso
 
 - **Year:** 2014
-- **Original_title:** 四月は君の嘘
+- **Original title:** 四月は君の嘘
 - **Source:** anilist

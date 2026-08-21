@@ -11,5 +11,5 @@ source: anilist
 # Aoi Bungaku Series
 
 - **Year:** 2009
-- **Original_title:** 青い文学シリーズ
+- **Original title:** 青い文学シリーズ
 - **Source:** anilist

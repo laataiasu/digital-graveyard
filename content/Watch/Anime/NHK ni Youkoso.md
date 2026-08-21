@@ -11,5 +11,5 @@ source: anilist
 # NHK ni Youkoso!
 
 - **Year:** 2006
-- **Original_title:** N・H・Kにようこそ！
+- **Original title:** N・H・Kにようこそ！
 - **Source:** anilist

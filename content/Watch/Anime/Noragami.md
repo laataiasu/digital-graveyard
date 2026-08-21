@@ -11,5 +11,5 @@ source: anilist
 # Noragami
 
 - **Year:** 2014
-- **Original_title:** ノラガミ
+- **Original title:** ノラガミ
 - **Source:** anilist

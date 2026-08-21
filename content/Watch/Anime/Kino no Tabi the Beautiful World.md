@@ -11,5 +11,5 @@ source: anilist
 # Kino no Tabi: the Beautiful World
 
 - **Year:** 2003
-- **Original_title:** キノの旅 -the Beautiful World-
+- **Original title:** キノの旅 -the Beautiful World-
 - **Source:** anilist

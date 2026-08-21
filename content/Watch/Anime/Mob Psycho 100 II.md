@@ -11,5 +11,5 @@ source: anilist
 # Mob Psycho 100 II
 
 - **Year:** 2019
-- **Original_title:** モブサイコ100 II
+- **Original title:** モブサイコ100 II
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # SPY×FAMILY
 
 - **Year:** 2022
-- **Original_title:** SPY×FAMILY
+- **Original title:** SPY×FAMILY
 - **Source:** anilist

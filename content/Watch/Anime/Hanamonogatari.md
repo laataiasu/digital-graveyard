@@ -11,5 +11,5 @@ source: anilist
 # Hanamonogatari
 
 - **Year:** 2014
-- **Original_title:** 花物語
+- **Original title:** 花物語
 - **Source:** anilist

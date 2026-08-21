@@ -11,5 +11,5 @@ source: anilist
 # 3D Kanojo: Real Girl 2
 
 - **Year:** 2019
-- **Original_title:** 3D彼女 リアルガール 2
+- **Original title:** 3D彼女 リアルガール 2
 - **Source:** anilist

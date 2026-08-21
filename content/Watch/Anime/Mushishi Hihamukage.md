@@ -11,5 +11,5 @@ source: anilist
 # Mushishi: Hihamukage
 
 - **Year:** 2014
-- **Original_title:** 蟲師 特別篇「日蝕む翳」
+- **Original title:** 蟲師 特別篇「日蝕む翳」
 - **Source:** anilist

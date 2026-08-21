@@ -11,5 +11,5 @@ source: anilist
 # Omoide no Marnie
 
 - **Year:** 2014
-- **Original_title:** 思い出のマーニー
+- **Original title:** 思い出のマーニー
 - **Source:** anilist

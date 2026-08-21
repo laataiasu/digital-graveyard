@@ -11,5 +11,5 @@ source: anilist
 # Grand Blue
 
 - **Year:** 2014
-- **Original_title:** ぐらんぶる
+- **Original title:** ぐらんぶる
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Ore Monogatari!!
 
 - **Year:** 2015
-- **Original_title:** 俺物語!!
+- **Original title:** 俺物語!!
 - **Source:** anilist

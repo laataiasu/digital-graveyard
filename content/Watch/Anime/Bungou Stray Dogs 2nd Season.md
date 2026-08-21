@@ -11,5 +11,5 @@ source: anilist
 # Bungou Stray Dogs 2nd Season
 
 - **Year:** 2016
-- **Original_title:** 文豪ストレイドッグス 第2シーズン
+- **Original title:** 文豪ストレイドッグス 第2シーズン
 - **Source:** anilist

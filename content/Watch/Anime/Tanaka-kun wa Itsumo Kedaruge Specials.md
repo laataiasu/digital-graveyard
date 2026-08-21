@@ -11,5 +11,5 @@ source: anilist
 # Tanaka-kun wa Itsumo Kedaruge Specials
 
 - **Year:** 2016
-- **Original_title:** 田中くんはいつもけだるげ 特典
+- **Original title:** 田中くんはいつもけだるげ 特典
 - **Source:** anilist

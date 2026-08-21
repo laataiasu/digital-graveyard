@@ -11,5 +11,5 @@ source: anilist
 # PERFECT BLUE
 
 - **Year:** 1998
-- **Original_title:** PERFECT BLUE
+- **Original title:** PERFECT BLUE
 - **Source:** anilist

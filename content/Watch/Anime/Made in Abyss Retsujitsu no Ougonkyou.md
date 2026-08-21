@@ -11,5 +11,5 @@ source: anilist
 # Made in Abyss: Retsujitsu no Ougonkyou
 
 - **Year:** 2022
-- **Original_title:** メイドインアビス 烈日の黄金郷
+- **Original title:** メイドインアビス 烈日の黄金郷
 - **Source:** anilist

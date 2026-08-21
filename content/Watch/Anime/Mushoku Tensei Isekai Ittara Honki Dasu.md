@@ -11,5 +11,5 @@ source: anilist
 # Mushoku Tensei: Isekai Ittara Honki Dasu
 
 - **Year:** 2021
-- **Original_title:** 無職転生 ～異世界行ったら本気だす～
+- **Original title:** 無職転生 ～異世界行ったら本気だす～
 - **Source:** anilist

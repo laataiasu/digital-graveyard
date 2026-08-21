@@ -11,5 +11,5 @@ source: anilist
 # Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
 
 - **Year:** 2015
-- **Original_title:** 劇場版 境界の彼方 I'LL BE HERE 未来篇
+- **Original title:** 劇場版 境界の彼方 I'LL BE HERE 未来篇
 - **Source:** anilist

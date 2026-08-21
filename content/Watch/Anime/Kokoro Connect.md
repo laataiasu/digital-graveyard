@@ -11,5 +11,5 @@ source: anilist
 # Kokoro Connect
 
 - **Year:** 2012
-- **Original_title:** ココロコネクト
+- **Original title:** ココロコネクト
 - **Source:** anilist

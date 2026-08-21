@@ -11,5 +11,5 @@ source: anilist
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 
 - **Year:** 2017
-- **Original_title:** ようこそ実力至上主義の教室へ
+- **Original title:** ようこそ実力至上主義の教室へ
 - **Source:** anilist

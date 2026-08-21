@@ -11,5 +11,5 @@ source: anilist
 # Kimi no Na wa.
 
 - **Year:** 2016
-- **Original_title:** 君の名は。
+- **Original title:** 君の名は。
 - **Source:** anilist

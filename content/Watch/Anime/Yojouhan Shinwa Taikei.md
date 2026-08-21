@@ -11,5 +11,5 @@ source: anilist
 # Yojouhan Shinwa Taikei
 
 - **Year:** 2010
-- **Original_title:** 四畳半神話大系
+- **Original title:** 四畳半神話大系
 - **Source:** anilist

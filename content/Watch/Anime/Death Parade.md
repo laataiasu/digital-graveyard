@@ -11,5 +11,5 @@ source: anilist
 # Death Parade
 
 - **Year:** 2015
-- **Original_title:** デス・パレード
+- **Original title:** デス・パレード
 - **Source:** anilist

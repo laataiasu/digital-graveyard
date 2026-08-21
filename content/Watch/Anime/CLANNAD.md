@@ -11,5 +11,5 @@ source: anilist
 # CLANNAD
 
 - **Year:** 2007
-- **Original_title:** ＣＬＡＮＮＡＤ -クラナド-
+- **Original title:** ＣＬＡＮＮＡＤ -クラナド-
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Boku no Hero Academia 2
 
 - **Year:** 2017
-- **Original_title:** 僕のヒーローアカデミア２
+- **Original title:** 僕のヒーローアカデミア２
 - **Source:** anilist

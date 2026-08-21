@@ -11,5 +11,5 @@ source: anilist
 # God of Bath
 
 - **Year:** 2011
-- **Original_title:** 목욕의 신
+- **Original title:** 목욕의 신
 - **Source:** anilist

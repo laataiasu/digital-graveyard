@@ -11,5 +11,5 @@ source: anilist
 # ReLIFE
 
 - **Year:** 2016
-- **Original_title:** ReLIFE
+- **Original title:** ReLIFE
 - **Source:** anilist

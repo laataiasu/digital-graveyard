@@ -11,5 +11,5 @@ source: anilist
 # Kakegurui ××
 
 - **Year:** 2019
-- **Original_title:** 賭ケグルイ××
+- **Original title:** 賭ケグルイ××
 - **Source:** anilist

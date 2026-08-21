@@ -11,5 +11,5 @@ source: anilist
 # Blue Lock
 
 - **Year:** 2022
-- **Original_title:** ブルーロック
+- **Original title:** ブルーロック
 - **Source:** anilist

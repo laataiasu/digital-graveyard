@@ -11,5 +11,5 @@ source: anilist
 # Odd Taxi
 
 - **Year:** 2021
-- **Original_title:** オッドタクシー
+- **Original title:** オッドタクシー
 - **Source:** anilist

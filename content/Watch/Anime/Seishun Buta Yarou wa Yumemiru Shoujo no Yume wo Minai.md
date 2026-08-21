@@ -11,5 +11,5 @@ source: anilist
 # Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 
 - **Year:** 2019
-- **Original_title:** 青春ブタ野郎はゆめみる少女の夢を見ない
+- **Original title:** 青春ブタ野郎はゆめみる少女の夢を見ない
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Boku no Hero Academia THE MOVIE: Heroes:Rising
 
 - **Year:** 2019
-- **Original_title:** 僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング
+- **Original title:** 僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング
 - **Source:** anilist

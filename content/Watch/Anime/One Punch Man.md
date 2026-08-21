@@ -11,5 +11,5 @@ source: anilist
 # One Punch Man
 
 - **Year:** 2015
-- **Original_title:** ワンパンマン
+- **Original title:** ワンパンマン
 - **Source:** anilist

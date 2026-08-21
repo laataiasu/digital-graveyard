@@ -11,5 +11,5 @@ source: anilist
 # Getsuyoubi no Tawawa
 
 - **Year:** 2016
-- **Original_title:** 月曜日のたわわ
+- **Original title:** 月曜日のたわわ
 - **Source:** anilist

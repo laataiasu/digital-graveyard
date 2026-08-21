@@ -5,7 +5,7 @@ tags: [book]
 publish_external: false
 author: Nassim Nicholas Taleb
 year: 2016
-finished: 2023-03-31
+finished_at: 2023-03-31
 source: hardcover
 ---
 
@@ -13,5 +13,5 @@ source: hardcover
 
 - **Author:** Nassim Nicholas Taleb
 - **Year:** 2016
-- **Finished:** 2023-03-31
+- **Finished at:** 2023-03-31
 - **Source:** hardcover

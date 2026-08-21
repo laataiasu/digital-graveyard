@@ -11,5 +11,5 @@ source: anilist
 # Kaichou wa Maid-sama!
 
 - **Year:** 2010
-- **Original_title:** 会長はメイド様!
+- **Original title:** 会長はメイド様!
 - **Source:** anilist

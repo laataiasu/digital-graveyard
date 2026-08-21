@@ -11,5 +11,5 @@ source: anilist
 # Steins;Gate
 
 - **Year:** 2011
-- **Original_title:** シュタインズ・ゲート
+- **Original title:** シュタインズ・ゲート
 - **Source:** anilist

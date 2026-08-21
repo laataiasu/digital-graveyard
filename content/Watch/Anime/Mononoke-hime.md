@@ -11,5 +11,5 @@ source: anilist
 # Mononoke-hime
 
 - **Year:** 1997
-- **Original_title:** もののけ姫
+- **Original title:** もののけ姫
 - **Source:** anilist

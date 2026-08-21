@@ -11,5 +11,5 @@ source: anilist
 # Owarimonogatari (Ge)
 
 - **Year:** 2017
-- **Original_title:** 終物語（下）
+- **Original title:** 終物語（下）
 - **Source:** anilist

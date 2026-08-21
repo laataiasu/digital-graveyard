@@ -11,5 +11,5 @@ source: anilist
 # Jujutsu Kaisen
 
 - **Year:** 2020
-- **Original_title:** 呪術廻戦
+- **Original title:** 呪術廻戦
 - **Source:** anilist

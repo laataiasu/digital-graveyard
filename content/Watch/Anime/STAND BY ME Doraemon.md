@@ -11,5 +11,5 @@ source: anilist
 # STAND BY ME Doraemon
 
 - **Year:** 2014
-- **Original_title:** STAND BY ME ドラえもん
+- **Original title:** STAND BY ME ドラえもん
 - **Source:** anilist

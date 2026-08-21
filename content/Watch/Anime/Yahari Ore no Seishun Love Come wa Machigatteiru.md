@@ -11,5 +11,5 @@ source: anilist
 # Yahari Ore no Seishun Love Come wa Machigatteiru.
 
 - **Year:** 2013
-- **Original_title:** やはり俺の青春ラブコメはまちがっている。
+- **Original title:** やはり俺の青春ラブコメはまちがっている。
 - **Source:** anilist

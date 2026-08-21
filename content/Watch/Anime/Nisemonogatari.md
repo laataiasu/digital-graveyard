@@ -11,5 +11,5 @@ source: anilist
 # Nisemonogatari
 
 - **Year:** 2012
-- **Original_title:** 偽物語
+- **Original title:** 偽物語
 - **Source:** anilist

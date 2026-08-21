@@ -11,5 +11,5 @@ source: anilist
 # Angel Beats!
 
 - **Year:** 2010
-- **Original_title:** Angel Beats!
+- **Original title:** Angel Beats!
 - **Source:** anilist

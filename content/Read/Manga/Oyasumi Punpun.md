@@ -11,5 +11,5 @@ source: anilist
 # Oyasumi Punpun
 
 - **Year:** 2007
-- **Original_title:** おやすみプンプン
+- **Original title:** おやすみプンプン
 - **Source:** anilist

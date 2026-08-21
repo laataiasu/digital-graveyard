@@ -11,5 +11,5 @@ source: anilist
 # Inuyasha: Kanketsu-hen
 
 - **Year:** 2009
-- **Original_title:** 犬夜叉 完結編
+- **Original title:** 犬夜叉 完結編
 - **Source:** anilist

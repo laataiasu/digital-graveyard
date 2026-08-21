@@ -11,5 +11,5 @@ source: anilist
 # STAND BY ME Doraemon 2
 
 - **Year:** 2020
-- **Original_title:** STAND BY ME ドラえもん 2
+- **Original title:** STAND BY ME ドラえもん 2
 - **Source:** anilist

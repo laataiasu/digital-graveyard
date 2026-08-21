@@ -11,5 +11,5 @@ source: anilist
 # Natsume Yuujinchou Go
 
 - **Year:** 2016
-- **Original_title:** 夏目友人帳 伍
+- **Original title:** 夏目友人帳 伍
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # WHITE ALBUM 2
 
 - **Year:** 2013
-- **Original_title:** WHITE ALBUM 2
+- **Original title:** WHITE ALBUM 2
 - **Source:** anilist

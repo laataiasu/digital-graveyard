@@ -11,5 +11,5 @@ source: anilist
 # Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
 
 - **Year:** 2017
-- **Original_title:** 打ち上げ花火、下から見るか？横から見るか？
+- **Original title:** 打ち上げ花火、下から見るか？横から見るか？
 - **Source:** anilist

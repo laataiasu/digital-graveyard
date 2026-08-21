@@ -11,5 +11,5 @@ source: anilist
 # DEATH NOTE
 
 - **Year:** 2006
-- **Original_title:** DEATH NOTE
+- **Original title:** DEATH NOTE
 - **Source:** anilist

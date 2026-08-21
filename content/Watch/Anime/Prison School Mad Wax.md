@@ -11,5 +11,5 @@ source: anilist
 # Prison School: Mad Wax
 
 - **Year:** 2016
-- **Original_title:** 監獄学園[プリズンスクール] マッドワックス
+- **Original title:** 監獄学園[プリズンスクール] マッドワックス
 - **Source:** anilist

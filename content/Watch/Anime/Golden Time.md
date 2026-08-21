@@ -11,5 +11,5 @@ source: anilist
 # Golden Time
 
 - **Year:** 2013
-- **Original_title:** ゴールデンタイム
+- **Original title:** ゴールデンタイム
 - **Source:** anilist

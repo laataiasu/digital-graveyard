@@ -11,5 +11,5 @@ source: anilist
 # Violet Evergarden Movie
 
 - **Year:** 2020
-- **Original_title:** 劇場版 ヴァイオレット・エヴァーガーデン
+- **Original title:** 劇場版 ヴァイオレット・エヴァーガーデン
 - **Source:** anilist

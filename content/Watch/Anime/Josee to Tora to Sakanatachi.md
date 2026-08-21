@@ -11,5 +11,5 @@ source: anilist
 # Josee to Tora to Sakanatachi
 
 - **Year:** 2020
-- **Original_title:** ジョゼと虎と魚たち
+- **Original title:** ジョゼと虎と魚たち
 - **Source:** anilist

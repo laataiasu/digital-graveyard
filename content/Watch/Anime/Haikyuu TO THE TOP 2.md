@@ -11,5 +11,5 @@ source: anilist
 # Haikyuu!! TO THE TOP 2
 
 - **Year:** 2020
-- **Original_title:** ハイキュー!! TO THE TOP 2
+- **Original title:** ハイキュー!! TO THE TOP 2
 - **Source:** anilist

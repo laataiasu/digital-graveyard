@@ -11,5 +11,5 @@ source: anilist
 # Mob Psycho 100 III
 
 - **Year:** 2022
-- **Original_title:** モブサイコ100 Ⅲ
+- **Original title:** モブサイコ100 Ⅲ
 - **Source:** anilist

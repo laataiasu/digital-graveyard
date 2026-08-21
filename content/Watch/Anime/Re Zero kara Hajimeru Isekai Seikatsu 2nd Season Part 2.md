@@ -11,5 +11,5 @@ source: anilist
 # Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 
 - **Year:** 2021
-- **Original_title:** Re:ゼロから始める異世界生活 2nd Season Part 2
+- **Original title:** Re:ゼロから始める異世界生活 2nd Season Part 2
 - **Source:** anilist

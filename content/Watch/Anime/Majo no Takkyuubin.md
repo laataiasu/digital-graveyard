@@ -11,5 +11,5 @@ source: anilist
 # Majo no Takkyuubin
 
 - **Year:** 1989
-- **Original_title:** 魔女の宅急便
+- **Original title:** 魔女の宅急便
 - **Source:** anilist

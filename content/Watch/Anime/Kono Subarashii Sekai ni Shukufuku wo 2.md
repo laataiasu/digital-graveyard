@@ -11,5 +11,5 @@ source: anilist
 # Kono Subarashii Sekai ni Shukufuku wo! 2
 
 - **Year:** 2017
-- **Original_title:** この素晴らしい世界に祝福を！2
+- **Original title:** この素晴らしい世界に祝福を！2
 - **Source:** anilist

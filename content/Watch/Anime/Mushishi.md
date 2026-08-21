@@ -11,5 +11,5 @@ source: anilist
 # Mushishi
 
 - **Year:** 2005
-- **Original_title:** 蟲師
+- **Original title:** 蟲師
 - **Source:** anilist

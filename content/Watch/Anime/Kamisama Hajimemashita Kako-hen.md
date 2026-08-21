@@ -11,5 +11,5 @@ source: anilist
 # Kamisama Hajimemashita: Kako-hen
 
 - **Year:** 2015
-- **Original_title:** 神様はじめました ～過去編～
+- **Original title:** 神様はじめました ～過去編～
 - **Source:** anilist

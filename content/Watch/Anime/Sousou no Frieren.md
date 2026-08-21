@@ -11,5 +11,5 @@ source: anilist
 # Sousou no Frieren
 
 - **Year:** 2023
-- **Original_title:** 葬送のフリーレン
+- **Original title:** 葬送のフリーレン
 - **Source:** anilist

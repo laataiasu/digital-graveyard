@@ -11,5 +11,5 @@ source: anilist
 # Violet Evergarden
 
 - **Year:** 2018
-- **Original_title:** ヴァイオレット・エヴァーガーデン
+- **Original title:** ヴァイオレット・エヴァーガーデン
 - **Source:** anilist

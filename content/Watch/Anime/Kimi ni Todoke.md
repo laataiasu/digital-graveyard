@@ -11,5 +11,5 @@ source: anilist
 # Kimi ni Todoke
 
 - **Year:** 2009
-- **Original_title:** 君に届け
+- **Original title:** 君に届け
 - **Source:** anilist

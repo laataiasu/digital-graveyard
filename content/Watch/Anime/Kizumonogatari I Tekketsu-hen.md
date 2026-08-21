@@ -11,5 +11,5 @@ source: anilist
 # Kizumonogatari I: Tekketsu-hen
 
 - **Year:** 2016
-- **Original_title:** 傷物語〈Ⅰ鉄血篇〉
+- **Original title:** 傷物語〈Ⅰ鉄血篇〉
 - **Source:** anilist

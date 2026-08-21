@@ -11,5 +11,5 @@ source: anilist
 # Fruits Basket: 2nd Season
 
 - **Year:** 2020
-- **Original_title:** フルーツバスケット 2nd Season
+- **Original title:** フルーツバスケット 2nd Season
 - **Source:** anilist

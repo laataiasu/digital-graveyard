@@ -11,5 +11,5 @@ source: anilist
 # Tanaka-kun wa Itsumo Kedaruge
 
 - **Year:** 2016
-- **Original_title:** 田中くんはいつもけだるげ
+- **Original title:** 田中くんはいつもけだるげ
 - **Source:** anilist

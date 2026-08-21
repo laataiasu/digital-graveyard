@@ -11,5 +11,5 @@ source: anilist
 # Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou
 
 - **Year:** 2018
-- **Original_title:** ヴァイオレット・エヴァーガーデン きっと"愛"を知る日が来るのだろう
+- **Original title:** ヴァイオレット・エヴァーガーデン きっと"愛"を知る日が来るのだろう
 - **Source:** anilist

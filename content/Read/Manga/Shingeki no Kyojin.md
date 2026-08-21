@@ -11,5 +11,5 @@ source: anilist
 # Shingeki no Kyojin
 
 - **Year:** 2009
-- **Original_title:** 進撃の巨人
+- **Original title:** 進撃の巨人
 - **Source:** anilist

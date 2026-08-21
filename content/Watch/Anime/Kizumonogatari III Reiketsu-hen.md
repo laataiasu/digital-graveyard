@@ -11,5 +11,5 @@ source: anilist
 # Kizumonogatari III: Reiketsu-hen
 
 - **Year:** 2017
-- **Original_title:** 傷物語〈Ⅲ冷血篇〉
+- **Original title:** 傷物語〈Ⅲ冷血篇〉
 - **Source:** anilist

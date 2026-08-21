@@ -11,5 +11,5 @@ source: anilist
 # Fate/stay night: Unlimited Blade Works 2nd Season
 
 - **Year:** 2015
-- **Original_title:** Fate/stay night [Unlimited Blade Works] 2ndシーズン
+- **Original title:** Fate/stay night [Unlimited Blade Works] 2ndシーズン
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Steins;Gate 0
 
 - **Year:** 2018
-- **Original_title:** シュタインズ・ゲート ゼロ
+- **Original title:** シュタインズ・ゲート ゼロ
 - **Source:** anilist

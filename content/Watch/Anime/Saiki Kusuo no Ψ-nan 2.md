@@ -11,5 +11,5 @@ source: anilist
 # Saiki Kusuo no Ψ-nan 2
 
 - **Year:** 2018
-- **Original_title:** 斉木楠雄のΨ難 2
+- **Original title:** 斉木楠雄のΨ難 2
 - **Source:** anilist

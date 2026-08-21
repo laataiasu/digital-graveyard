@@ -11,5 +11,5 @@ source: anilist
 # Kuroko no Basket
 
 - **Year:** 2012
-- **Original_title:** 黒子のバスケ
+- **Original title:** 黒子のバスケ
 - **Source:** anilist

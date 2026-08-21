@@ -11,5 +11,5 @@ source: anilist
 # Kuroko no Basket 3rd SEASON
 
 - **Year:** 2015
-- **Original_title:** 黒子のバスケ 3rd SEASON
+- **Original title:** 黒子のバスケ 3rd SEASON
 - **Source:** anilist

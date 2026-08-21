@@ -11,5 +11,5 @@ source: anilist
 # Hyouka
 
 - **Year:** 2012
-- **Original_title:** 氷菓
+- **Original title:** 氷菓
 - **Source:** anilist

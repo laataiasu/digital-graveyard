@@ -5,7 +5,7 @@ tags: [book]
 publish_external: false
 author: Nassim Nicholas Taleb
 year: 2011
-finished: 2023-03-31
+finished_at: 2023-03-31
 source: goodreads
 ---
 
@@ -13,5 +13,5 @@ source: goodreads
 
 - **Author:** Nassim Nicholas Taleb
 - **Year:** 2011
-- **Finished:** 2023-03-31
+- **Finished at:** 2023-03-31
 - **Source:** goodreads

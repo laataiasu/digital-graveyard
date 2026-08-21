@@ -11,5 +11,5 @@ source: anilist
 # Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni
 
 - **Year:** 1997
-- **Original_title:** 新世紀エヴァンゲリオン劇場版 Air/まごころを、君に
+- **Original title:** 新世紀エヴァンゲリオン劇場版 Air/まごころを、君に
 - **Source:** anilist

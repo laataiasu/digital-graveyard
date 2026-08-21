@@ -11,5 +11,5 @@ source: anilist
 # Tenkuu no Shiro Laputa
 
 - **Year:** 1986
-- **Original_title:** 天空の城ラピュタ
+- **Original title:** 天空の城ラピュタ
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen
 
 - **Year:** 2008
-- **Original_title:** ＣＬＡＮＮＡＤ もうひとつの世界 智代編
+- **Original title:** ＣＬＡＮＮＡＤ もうひとつの世界 智代編
 - **Source:** anilist

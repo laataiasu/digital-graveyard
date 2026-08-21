@@ -11,5 +11,5 @@ source: anilist
 # Kimetsu no Yaiba
 
 - **Year:** 2019
-- **Original_title:** 鬼滅の刃
+- **Original title:** 鬼滅の刃
 - **Source:** anilist

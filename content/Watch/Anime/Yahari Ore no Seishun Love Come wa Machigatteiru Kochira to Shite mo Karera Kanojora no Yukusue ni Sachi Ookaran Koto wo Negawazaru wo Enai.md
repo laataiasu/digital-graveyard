@@ -11,5 +11,5 @@ source: anilist
 # Yahari Ore no Seishun Love Come wa Machigatteiru.: Kochira to Shite mo Karera Kanojora no Yukusue ni Sachi Ookaran Koto wo Negawazaru wo Enai.
 
 - **Year:** 2013
-- **Original_title:** やはり俺の青春ラブコメはまちがっている。「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」
+- **Original title:** やはり俺の青春ラブコメはまちがっている。「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」
 - **Source:** anilist

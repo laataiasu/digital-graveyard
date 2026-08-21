@@ -11,5 +11,5 @@ source: anilist
 # Fate/Zero
 
 - **Year:** 2011
-- **Original_title:** Fate/Zero
+- **Original title:** Fate/Zero
 - **Source:** anilist

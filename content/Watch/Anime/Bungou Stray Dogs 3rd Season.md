@@ -11,5 +11,5 @@ source: anilist
 # Bungou Stray Dogs 3rd Season
 
 - **Year:** 2019
-- **Original_title:** 文豪ストレイドッグス 第3シーズン
+- **Original title:** 文豪ストレイドッグス 第3シーズン
 - **Source:** anilist

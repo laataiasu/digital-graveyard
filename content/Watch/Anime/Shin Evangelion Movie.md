@@ -11,5 +11,5 @@ source: anilist
 # Shin Evangelion Movie:||
 
 - **Year:** 2021
-- **Original_title:** シン・エヴァンゲリオン劇場版:||
+- **Original title:** シン・エヴァンゲリオン劇場版:||
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Plastic Memories
 
 - **Year:** 2015
-- **Original_title:** プラスティックメモリーズ
+- **Original title:** プラスティックメモリーズ
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Chainsaw Man
 
 - **Year:** 2022
-- **Original_title:** チェンソーマン
+- **Original title:** チェンソーマン
 - **Source:** anilist

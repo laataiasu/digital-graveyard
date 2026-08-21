@@ -11,5 +11,5 @@ source: anilist
 # Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
 
 - **Year:** 2015
-- **Original_title:** シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-
+- **Original title:** シュタインズ・ゲート 境界面上のミッシングリンク -Divide By Zero-
 - **Source:** anilist

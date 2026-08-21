@@ -11,5 +11,5 @@ source: anilist
 # Eromanga Sensei
 
 - **Year:** 2017
-- **Original_title:** エロマンガ先生
+- **Original title:** エロマンガ先生
 - **Source:** anilist

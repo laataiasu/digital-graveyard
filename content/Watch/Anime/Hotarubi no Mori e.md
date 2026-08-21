@@ -11,5 +11,5 @@ source: anilist
 # Hotarubi no Mori e
 
 - **Year:** 2011
-- **Original_title:** 蛍火の杜へ
+- **Original title:** 蛍火の杜へ
 - **Source:** anilist

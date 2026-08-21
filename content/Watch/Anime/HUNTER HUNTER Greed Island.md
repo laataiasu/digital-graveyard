@@ -11,5 +11,5 @@ source: anilist
 # HUNTER×HUNTER: Greed Island
 
 - **Year:** 2003
-- **Original_title:** HUNTER×HUNTER: Greed Island
+- **Original title:** HUNTER×HUNTER: Greed Island
 - **Source:** anilist

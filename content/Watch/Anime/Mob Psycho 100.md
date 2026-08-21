@@ -11,5 +11,5 @@ source: anilist
 # Mob Psycho 100
 
 - **Year:** 2016
-- **Original_title:** モブサイコ100
+- **Original title:** モブサイコ100
 - **Source:** anilist

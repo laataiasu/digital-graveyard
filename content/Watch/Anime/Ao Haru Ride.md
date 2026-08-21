@@ -11,5 +11,5 @@ source: anilist
 # Ao Haru Ride
 
 - **Year:** 2014
-- **Original_title:** アオハライド
+- **Original title:** アオハライド
 - **Source:** anilist

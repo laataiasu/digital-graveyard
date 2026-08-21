@@ -11,5 +11,5 @@ source: anilist
 # Sono Bisque Doll wa Koi wo Suru
 
 - **Year:** 2022
-- **Original_title:** その着せ替え人形は恋をする
+- **Original title:** その着せ替え人形は恋をする
 - **Source:** anilist

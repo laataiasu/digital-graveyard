@@ -11,5 +11,5 @@ source: anilist
 # Howl no Ugoku Shiro
 
 - **Year:** 2004
-- **Original_title:** ハウルの動く城
+- **Original title:** ハウルの動く城
 - **Source:** anilist

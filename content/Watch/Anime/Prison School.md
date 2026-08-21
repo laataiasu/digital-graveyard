@@ -11,5 +11,5 @@ source: anilist
 # Prison School
 
 - **Year:** 2015
-- **Original_title:** 監獄学園〈プリズンスクール〉
+- **Original title:** 監獄学園〈プリズンスクール〉
 - **Source:** anilist

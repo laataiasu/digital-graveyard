@@ -11,5 +11,5 @@ source: anilist
 # Saiki Kusuo no Ψ-nan
 
 - **Year:** 2016
-- **Original_title:** 斉木楠雄のΨ難
+- **Original title:** 斉木楠雄のΨ難
 - **Source:** anilist

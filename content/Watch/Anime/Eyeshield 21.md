@@ -11,5 +11,5 @@ source: anilist
 # Eyeshield 21
 
 - **Year:** 2005
-- **Original_title:** アイシールド21
+- **Original title:** アイシールド21
 - **Source:** anilist

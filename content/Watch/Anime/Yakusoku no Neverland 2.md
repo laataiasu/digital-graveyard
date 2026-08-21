@@ -11,5 +11,5 @@ source: anilist
 # Yakusoku no Neverland 2
 
 - **Year:** 2021
-- **Original_title:** 約束のネバーランド2
+- **Original title:** 約束のネバーランド2
 - **Source:** anilist

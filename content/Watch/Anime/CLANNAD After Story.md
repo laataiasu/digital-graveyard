@@ -11,5 +11,5 @@ source: anilist
 # CLANNAD: After Story
 
 - **Year:** 2008
-- **Original_title:** ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+- **Original title:** ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
 - **Source:** anilist

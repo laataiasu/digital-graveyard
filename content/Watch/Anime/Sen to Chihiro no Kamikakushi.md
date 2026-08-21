@@ -11,5 +11,5 @@ source: anilist
 # Sen to Chihiro no Kamikakushi
 
 - **Year:** 2001
-- **Original_title:** 千と千尋の神隠し
+- **Original title:** 千と千尋の神隠し
 - **Source:** anilist

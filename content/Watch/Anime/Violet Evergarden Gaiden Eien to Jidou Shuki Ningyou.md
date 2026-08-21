@@ -11,5 +11,5 @@ source: anilist
 # Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
 
 - **Year:** 2019
-- **Original_title:** ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~
+- **Original title:** ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~
 - **Source:** anilist

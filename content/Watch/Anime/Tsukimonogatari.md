@@ -11,5 +11,5 @@ source: anilist
 # Tsukimonogatari
 
 - **Year:** 2014
-- **Original_title:** 憑物語
+- **Original title:** 憑物語
 - **Source:** anilist

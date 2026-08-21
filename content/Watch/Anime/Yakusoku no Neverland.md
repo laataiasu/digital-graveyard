@@ -11,5 +11,5 @@ source: anilist
 # Yakusoku no Neverland
 
 - **Year:** 2019
-- **Original_title:** 約束のネバーランド
+- **Original title:** 約束のネバーランド
 - **Source:** anilist

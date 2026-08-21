@@ -11,5 +11,5 @@ source: anilist
 # Kiseijuu: Sei no Kakuritsu
 
 - **Year:** 2014
-- **Original_title:** 寄生獣 セイの格率
+- **Original title:** 寄生獣 セイの格率
 - **Source:** anilist

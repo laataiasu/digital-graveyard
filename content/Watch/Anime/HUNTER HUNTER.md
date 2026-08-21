@@ -11,5 +11,5 @@ source: anilist
 # HUNTER×HUNTER
 
 - **Year:** 1999
-- **Original_title:** HUNTER×HUNTER
+- **Original title:** HUNTER×HUNTER
 - **Source:** anilist

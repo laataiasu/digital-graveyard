@@ -11,5 +11,5 @@ source: anilist
 # Sakamoto desu ga?
 
 - **Year:** 2016
-- **Original_title:** 坂本ですが?
+- **Original title:** 坂本ですが?
 - **Source:** anilist

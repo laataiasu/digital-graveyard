@@ -11,5 +11,5 @@ source: anilist
 # Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
 
 - **Year:** 2021
-- **Original_title:** 無職転生 ～異世界行ったら本気だす～ 第2クール
+- **Original title:** 無職転生 ～異世界行ったら本気だす～ 第2クール
 - **Source:** anilist

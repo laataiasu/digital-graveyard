@@ -11,5 +11,5 @@ source: anilist
 # Saenai Heroine no Sodatekata
 
 - **Year:** 2015
-- **Original_title:** 冴えない彼女の育てかた
+- **Original title:** 冴えない彼女の育てかた
 - **Source:** anilist

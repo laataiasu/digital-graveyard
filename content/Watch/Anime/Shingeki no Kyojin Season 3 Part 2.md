@@ -11,5 +11,5 @@ source: anilist
 # Shingeki no Kyojin Season 3 Part 2
 
 - **Year:** 2019
-- **Original_title:** 進撃の巨人 Season３ Part.2
+- **Original title:** 進撃の巨人 Season３ Part.2
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
 - **Year:** 2018
-- **Original_title:** 青春ブタ野郎はバニーガール先輩の夢を見ない
+- **Original title:** 青春ブタ野郎はバニーガール先輩の夢を見ない
 - **Source:** anilist

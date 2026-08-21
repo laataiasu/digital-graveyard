@@ -11,5 +11,5 @@ source: anilist
 # No Game No Life Zero
 
 - **Year:** 2017
-- **Original_title:** ノーゲーム・ノーライフ ゼロ
+- **Original title:** ノーゲーム・ノーライフ ゼロ
 - **Source:** anilist

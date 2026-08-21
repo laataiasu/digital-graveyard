@@ -11,5 +11,5 @@ source: anilist
 # Cowboy Bebop: Tengoku no Tobira
 
 - **Year:** 2001
-- **Original_title:** カウボーイビバップ天国の扉
+- **Original title:** カウボーイビバップ天国の扉
 - **Source:** anilist

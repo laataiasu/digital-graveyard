@@ -11,5 +11,5 @@ source: anilist
 # Yotsuba to!
 
 - **Year:** 2003
-- **Original_title:** よつばと！
+- **Original title:** よつばと！
 - **Source:** anilist

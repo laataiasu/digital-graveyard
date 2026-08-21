@@ -11,5 +11,5 @@ source: anilist
 # Tokyo Magnitude 8.0
 
 - **Year:** 2009
-- **Original_title:** 東京マグニチュード8.0
+- **Original title:** 東京マグニチュード8.0
 - **Source:** anilist

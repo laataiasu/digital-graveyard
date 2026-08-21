@@ -11,5 +11,5 @@ source: anilist
 # Zoku Owarimonogatari
 
 - **Year:** 2019
-- **Original_title:** 続・終物語
+- **Original title:** 続・終物語
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku
 
 - **Year:** 2015
-- **Original_title:** やはり俺の青春ラブコメはまちがっている。続
+- **Original title:** やはり俺の青春ラブコメはまちがっている。続
 - **Source:** anilist

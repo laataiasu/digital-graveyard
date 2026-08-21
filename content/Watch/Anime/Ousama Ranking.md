@@ -11,5 +11,5 @@ source: anilist
 # Ousama Ranking
 
 - **Year:** 2021
-- **Original_title:** 王様ランキング
+- **Original title:** 王様ランキング
 - **Source:** anilist

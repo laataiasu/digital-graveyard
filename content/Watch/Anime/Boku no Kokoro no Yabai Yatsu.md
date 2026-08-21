@@ -11,5 +11,5 @@ source: anilist
 # Boku no Kokoro no Yabai Yatsu
 
 - **Year:** 2023
-- **Original_title:** 僕の心のヤバイやつ
+- **Original title:** 僕の心のヤバイやつ
 - **Source:** anilist

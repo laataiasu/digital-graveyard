@@ -11,5 +11,5 @@ source: anilist
 # Saiki Kusuo no Ψ-nan: Kanketsu-hen
 
 - **Year:** 2018
-- **Original_title:** 斉木楠雄のΨ難 完結編
+- **Original title:** 斉木楠雄のΨ難 完結編
 - **Source:** anilist

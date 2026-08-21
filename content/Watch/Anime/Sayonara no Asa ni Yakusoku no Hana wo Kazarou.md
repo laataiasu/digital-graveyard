@@ -11,5 +11,5 @@ source: anilist
 # Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 
 - **Year:** 2018
-- **Original_title:** さよならの朝に約束の花をかざろう
+- **Original title:** さよならの朝に約束の花をかざろう
 - **Source:** anilist

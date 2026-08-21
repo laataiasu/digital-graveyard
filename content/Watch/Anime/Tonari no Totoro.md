@@ -11,5 +11,5 @@ source: anilist
 # Tonari no Totoro
 
 - **Year:** 1988
-- **Original_title:** となりのトトロ
+- **Original title:** となりのトトロ
 - **Source:** anilist

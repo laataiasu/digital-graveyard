@@ -11,5 +11,5 @@ source: anilist
 # Karakai Jouzu no Takagi-san 3
 
 - **Year:** 2022
-- **Original_title:** からかい上手の高木さん３
+- **Original title:** からかい上手の高木さん３
 - **Source:** anilist

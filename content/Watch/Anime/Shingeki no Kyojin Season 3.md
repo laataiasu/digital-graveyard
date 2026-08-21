@@ -11,5 +11,5 @@ source: anilist
 # Shingeki no Kyojin Season 3
 
 - **Year:** 2018
-- **Original_title:** 進撃の巨人 Season３
+- **Original title:** 進撃の巨人 Season３
 - **Source:** anilist

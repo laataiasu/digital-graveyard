@@ -11,5 +11,5 @@ source: anilist
 # serial experiments lain
 
 - **Year:** 1998
-- **Original_title:** serial experiments lain
+- **Original title:** serial experiments lain
 - **Source:** anilist

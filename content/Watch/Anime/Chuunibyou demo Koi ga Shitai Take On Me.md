@@ -11,5 +11,5 @@ source: anilist
 # Chuunibyou demo Koi ga Shitai!: Take On Me
 
 - **Year:** 2018
-- **Original_title:** 映画 中二病でも恋がしたい！ -Take On Me-
+- **Original title:** 映画 中二病でも恋がしたい！ -Take On Me-
 - **Source:** anilist

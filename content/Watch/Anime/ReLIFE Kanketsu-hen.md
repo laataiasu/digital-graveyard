@@ -11,5 +11,5 @@ source: anilist
 # ReLIFE: Kanketsu-hen
 
 - **Year:** 2018
-- **Original_title:** ReLIFE 完結編
+- **Original title:** ReLIFE 完結編
 - **Source:** anilist

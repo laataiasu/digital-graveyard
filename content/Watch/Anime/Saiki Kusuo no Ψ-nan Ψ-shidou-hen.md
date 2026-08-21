@@ -11,5 +11,5 @@ source: anilist
 # Saiki Kusuo no Ψ-nan: Ψ-shidou-hen
 
 - **Year:** 2019
-- **Original_title:** 斉木楠雄のΨ難 Ψ始動編
+- **Original title:** 斉木楠雄のΨ難 Ψ始動編
 - **Source:** anilist

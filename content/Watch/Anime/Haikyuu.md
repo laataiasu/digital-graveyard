@@ -11,5 +11,5 @@ source: anilist
 # Haikyuu!!
 
 - **Year:** 2014
-- **Original_title:** ハイキュー!!
+- **Original title:** ハイキュー!!
 - **Source:** anilist

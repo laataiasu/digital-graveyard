@@ -11,5 +11,5 @@ source: anilist
 # TEXHNOLYZE
 
 - **Year:** 2003
-- **Original_title:** TEXHNOLYZE
+- **Original title:** TEXHNOLYZE
 - **Source:** anilist

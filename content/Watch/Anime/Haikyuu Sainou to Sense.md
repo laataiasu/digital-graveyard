@@ -11,5 +11,5 @@ source: anilist
 # Haikyuu!!: Sainou to Sense
 
 - **Year:** 2017
-- **Original_title:** ハイキュー!! 才能とセンス
+- **Original title:** ハイキュー!! 才能とセンス
 - **Source:** anilist

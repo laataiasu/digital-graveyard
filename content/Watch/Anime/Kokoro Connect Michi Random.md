@@ -11,5 +11,5 @@ source: anilist
 # Kokoro Connect: Michi Random
 
 - **Year:** 2012
-- **Original_title:** ココロコネクト ミチランダム
+- **Original title:** ココロコネクト ミチランダム
 - **Source:** anilist

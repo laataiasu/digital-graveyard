@@ -11,5 +11,5 @@ source: anilist
 # Mushishi Zoku Shou
 
 - **Year:** 2014
-- **Original_title:** 蟲師 続章
+- **Original title:** 蟲師 続章
 - **Source:** anilist

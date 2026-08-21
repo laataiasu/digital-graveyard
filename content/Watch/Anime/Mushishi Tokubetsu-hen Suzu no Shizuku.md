@@ -11,5 +11,5 @@ source: anilist
 # Mushishi Tokubetsu-hen: Suzu no Shizuku
 
 - **Year:** 2015
-- **Original_title:** 蟲師 特別編「鈴の雫」
+- **Original title:** 蟲師 特別編「鈴の雫」
 - **Source:** anilist

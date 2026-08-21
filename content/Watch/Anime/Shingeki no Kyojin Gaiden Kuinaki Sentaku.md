@@ -11,5 +11,5 @@ source: anilist
 # Shingeki no Kyojin Gaiden: Kuinaki Sentaku
 
 - **Year:** 2015
-- **Original_title:** 進撃の巨人 外伝 悔いなき選択
+- **Original title:** 進撃の巨人 外伝 悔いなき選択
 - **Source:** anilist

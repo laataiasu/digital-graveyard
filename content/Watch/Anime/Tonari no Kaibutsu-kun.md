@@ -11,5 +11,5 @@ source: anilist
 # Tonari no Kaibutsu-kun
 
 - **Year:** 2012
-- **Original_title:** となりの怪物くん
+- **Original title:** となりの怪物くん
 - **Source:** anilist

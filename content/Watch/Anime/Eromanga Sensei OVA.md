@@ -11,5 +11,5 @@ source: anilist
 # Eromanga Sensei OVA
 
 - **Year:** 2019
-- **Original_title:** エロマンガ先生 OVA
+- **Original title:** エロマンガ先生 OVA
 - **Source:** anilist

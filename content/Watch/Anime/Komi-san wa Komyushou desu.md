@@ -11,5 +11,5 @@ source: anilist
 # Komi-san wa, Komyushou desu.
 
 - **Year:** 2021
-- **Original_title:** 古見さんは、コミュ症です。
+- **Original title:** 古見さんは、コミュ症です。
 - **Source:** anilist

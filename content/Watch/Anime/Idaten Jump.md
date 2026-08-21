@@ -11,5 +11,5 @@ source: anilist
 # Idaten Jump
 
 - **Year:** 2005
-- **Original_title:** 韋駄天翔(ジャンプ)
+- **Original title:** 韋駄天翔(ジャンプ)
 - **Source:** anilist

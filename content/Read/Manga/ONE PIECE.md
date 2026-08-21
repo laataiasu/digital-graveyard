@@ -11,5 +11,5 @@ source: anilist
 # ONE PIECE
 
 - **Year:** 1997
-- **Original_title:** ONE PIECE
+- **Original title:** ONE PIECE
 - **Source:** anilist

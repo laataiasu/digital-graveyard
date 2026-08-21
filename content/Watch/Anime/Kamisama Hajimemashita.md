@@ -11,5 +11,5 @@ source: anilist
 # Kamisama Hajimemashita◎
 
 - **Year:** 2015
-- **Original_title:** 神様はじめました◎
+- **Original title:** 神様はじめました◎
 - **Source:** anilist

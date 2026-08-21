@@ -11,5 +11,5 @@ source: anilist
 # Karakai Jouzu no Takagi-san 2
 
 - **Year:** 2019
-- **Original_title:** からかい上手の高木さん 2
+- **Original title:** からかい上手の高木さん 2
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Shingeki no Kyojin Season 2
 
 - **Year:** 2017
-- **Original_title:** 進撃の巨人 Season２
+- **Original title:** 進撃の巨人 Season２
 - **Source:** anilist

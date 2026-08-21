@@ -11,5 +11,5 @@ source: anilist
 # Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
 
 - **Year:** 2020
-- **Original_title:** かぐや様は告らせたい？～天才たちの恋愛頭脳戦～
+- **Original title:** かぐや様は告らせたい？～天才たちの恋愛頭脳戦～
 - **Source:** anilist

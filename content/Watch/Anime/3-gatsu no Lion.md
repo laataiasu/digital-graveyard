@@ -11,5 +11,5 @@ source: anilist
 # 3-gatsu no Lion
 
 - **Year:** 2016
-- **Original_title:** ３月のライオン
+- **Original title:** ３月のライオン
 - **Source:** anilist

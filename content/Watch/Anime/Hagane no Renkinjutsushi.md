@@ -11,5 +11,5 @@ source: anilist
 # Hagane no Renkinjutsushi
 
 - **Year:** 2003
-- **Original_title:** 鋼の錬金術師
+- **Original title:** 鋼の錬金術師
 - **Source:** anilist

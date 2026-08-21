@@ -11,5 +11,5 @@ source: anilist
 # Kuroko no Basket 2nd SEASON
 
 - **Year:** 2013
-- **Original_title:** 黒子のバスケ 2nd SEASON
+- **Original title:** 黒子のバスケ 2nd SEASON
 - **Source:** anilist

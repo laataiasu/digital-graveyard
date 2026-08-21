@@ -11,5 +11,5 @@ source: anilist
 # No Game No Life
 
 - **Year:** 2014
-- **Original_title:** ノーゲーム・ノーライフ
+- **Original title:** ノーゲーム・ノーライフ
 - **Source:** anilist

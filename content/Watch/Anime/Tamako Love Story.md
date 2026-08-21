@@ -11,5 +11,5 @@ source: anilist
 # Tamako Love Story
 
 - **Year:** 2014
-- **Original_title:** たまこラブストーリー
+- **Original title:** たまこラブストーリー
 - **Source:** anilist

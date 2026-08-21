@@ -11,5 +11,5 @@ source: anilist
 # Tanaka-kun wa Kyou mo Kedaruge
 
 - **Year:** 2016
-- **Original_title:** 田中くんは今日もけだるげ
+- **Original title:** 田中くんは今日もけだるげ
 - **Source:** anilist

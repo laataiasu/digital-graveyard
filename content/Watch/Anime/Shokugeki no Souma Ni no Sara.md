@@ -11,5 +11,5 @@ source: anilist
 # Shokugeki no Souma: Ni no Sara
 
 - **Year:** 2016
-- **Original_title:** 食戟のソーマ 弍ノ皿
+- **Original title:** 食戟のソーマ 弍ノ皿
 - **Source:** anilist

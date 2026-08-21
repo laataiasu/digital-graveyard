@@ -11,5 +11,5 @@ source: anilist
 # Horimiya
 
 - **Year:** 2021
-- **Original_title:** ホリミヤ
+- **Original title:** ホリミヤ
 - **Source:** anilist

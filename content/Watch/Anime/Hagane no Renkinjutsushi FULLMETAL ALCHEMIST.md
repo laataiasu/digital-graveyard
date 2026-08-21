@@ -11,5 +11,5 @@ source: anilist
 # Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
 
 - **Year:** 2009
-- **Original_title:** 鋼の錬金術師 FULLMETAL ALCHEMIST
+- **Original title:** 鋼の錬金術師 FULLMETAL ALCHEMIST
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Bakemonogatari
 
 - **Year:** 2009
-- **Original_title:** 化物語
+- **Original title:** 化物語
 - **Source:** anilist

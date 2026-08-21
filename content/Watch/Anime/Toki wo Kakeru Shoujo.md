@@ -11,5 +11,5 @@ source: anilist
 # Toki wo Kakeru Shoujo
 
 - **Year:** 2006
-- **Original_title:** 時をかける少女
+- **Original title:** 時をかける少女
 - **Source:** anilist

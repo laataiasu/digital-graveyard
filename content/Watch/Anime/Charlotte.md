@@ -11,5 +11,5 @@ source: anilist
 # Charlotte
 
 - **Year:** 2015
-- **Original_title:** Charlotte(シャーロット)
+- **Original title:** Charlotte(シャーロット)
 - **Source:** anilist

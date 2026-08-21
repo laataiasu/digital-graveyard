@@ -11,5 +11,5 @@ source: anilist
 # Made in Abyss
 
 - **Year:** 2017
-- **Original_title:** メイドインアビス
+- **Original title:** メイドインアビス
 - **Source:** anilist

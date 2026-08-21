@@ -11,5 +11,5 @@ source: anilist
 # Sakurasou no Pet na Kanojo
 
 - **Year:** 2012
-- **Original_title:** さくら荘のペットな彼女
+- **Original title:** さくら荘のペットな彼女
 - **Source:** anilist

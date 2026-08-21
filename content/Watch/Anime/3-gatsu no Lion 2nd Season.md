@@ -11,5 +11,5 @@ source: anilist
 # 3-gatsu no Lion 2nd Season
 
 - **Year:** 2017
-- **Original_title:** ３月のライオン 第2シリーズ
+- **Original title:** ３月のライオン 第2シリーズ
 - **Source:** anilist

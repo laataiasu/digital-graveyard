@@ -11,5 +11,5 @@ source: anilist
 # Chuunibyou demo Koi ga Shitai!
 
 - **Year:** 2012
-- **Original_title:** 中二病でも恋がしたい!
+- **Original title:** 中二病でも恋がしたい!
 - **Source:** anilist

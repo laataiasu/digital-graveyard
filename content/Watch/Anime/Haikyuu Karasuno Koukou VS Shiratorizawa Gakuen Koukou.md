@@ -11,5 +11,5 @@ source: anilist
 # Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
 
 - **Year:** 2016
-- **Original_title:** ハイキュー!! 烏野高校 VS 白鳥沢学園高校
+- **Original title:** ハイキュー!! 烏野高校 VS 白鳥沢学園高校
 - **Source:** anilist

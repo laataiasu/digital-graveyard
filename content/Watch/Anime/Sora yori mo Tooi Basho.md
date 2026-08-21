@@ -11,5 +11,5 @@ source: anilist
 # Sora yori mo Tooi Basho
 
 - **Year:** 2018
-- **Original_title:** 宇宙よりも遠い場所
+- **Original title:** 宇宙よりも遠い場所
 - **Source:** anilist

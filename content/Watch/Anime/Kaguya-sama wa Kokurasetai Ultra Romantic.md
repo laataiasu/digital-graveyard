@@ -11,5 +11,5 @@ source: anilist
 # Kaguya-sama wa Kokurasetai: Ultra Romantic
 
 - **Year:** 2022
-- **Original_title:** かぐや様は告らせたい-ウルトラロマンティック-
+- **Original title:** かぐや様は告らせたい-ウルトラロマンティック-
 - **Source:** anilist

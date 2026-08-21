@@ -11,5 +11,5 @@ source: anilist
 # Steins;Gate: Fuka Ryouiki no Déjà vu
 
 - **Year:** 2013
-- **Original_title:** 劇場版 シュタインズゲート 負荷領域のデジャヴ
+- **Original title:** 劇場版 シュタインズゲート 負荷領域のデジャヴ
 - **Source:** anilist

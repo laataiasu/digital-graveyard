@@ -11,5 +11,5 @@ source: anilist
 # Berserk
 
 - **Year:** 1989
-- **Original_title:** ベルセルク
+- **Original title:** ベルセルク
 - **Source:** anilist

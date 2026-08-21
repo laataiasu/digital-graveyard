@@ -11,5 +11,5 @@ source: anilist
 # Koe no Katachi
 
 - **Year:** 2016
-- **Original_title:** 聲の形
+- **Original title:** 聲の形
 - **Source:** anilist

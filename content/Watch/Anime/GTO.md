@@ -11,5 +11,5 @@ source: anilist
 # GTO
 
 - **Year:** 1999
-- **Original_title:** GTO
+- **Original title:** GTO
 - **Source:** anilist

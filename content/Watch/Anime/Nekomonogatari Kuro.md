@@ -11,5 +11,5 @@ source: anilist
 # Nekomonogatari (Kuro)
 
 - **Year:** 2012
-- **Original_title:** 猫物語（黒）
+- **Original title:** 猫物語（黒）
 - **Source:** anilist

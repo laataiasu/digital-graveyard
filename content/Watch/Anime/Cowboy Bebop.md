@@ -11,5 +11,5 @@ source: anilist
 # Cowboy Bebop
 
 - **Year:** 1998
-- **Original_title:** カウボーイビバップ
+- **Original title:** カウボーイビバップ
 - **Source:** anilist

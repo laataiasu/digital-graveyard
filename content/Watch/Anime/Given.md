@@ -11,5 +11,5 @@ source: anilist
 # Given
 
 - **Year:** 2019
-- **Original_title:** ギヴン
+- **Original title:** ギヴン
 - **Source:** anilist

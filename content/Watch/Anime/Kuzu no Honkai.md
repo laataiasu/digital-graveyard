@@ -11,5 +11,5 @@ source: anilist
 # Kuzu no Honkai
 
 - **Year:** 2017
-- **Original_title:** クズの本懐
+- **Original title:** クズの本懐
 - **Source:** anilist

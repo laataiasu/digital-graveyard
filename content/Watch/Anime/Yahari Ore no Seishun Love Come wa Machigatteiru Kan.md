@@ -11,5 +11,5 @@ source: anilist
 # Yahari Ore no Seishun Love Come wa Machigatteiru. Kan
 
 - **Year:** 2020
-- **Original_title:** やはり俺の青春ラブコメはまちがっている。完
+- **Original title:** やはり俺の青春ラブコメはまちがっている。完
 - **Source:** anilist

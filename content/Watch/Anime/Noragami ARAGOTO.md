@@ -11,5 +11,5 @@ source: anilist
 # Noragami ARAGOTO
 
 - **Year:** 2015
-- **Original_title:** ノラガミ ARAGOTO
+- **Original title:** ノラガミ ARAGOTO
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # Haikyuu!! 2nd Season
 
 - **Year:** 2015
-- **Original_title:** ハイキュー!! セカンドシーズン
+- **Original title:** ハイキュー!! セカンドシーズン
 - **Source:** anilist

@@ -11,5 +11,5 @@ source: anilist
 # SPY×FAMILY Part 2
 
 - **Year:** 2022
-- **Original_title:** SPY×FAMILY 第2クール
+- **Original title:** SPY×FAMILY 第2クール
 - **Source:** anilist

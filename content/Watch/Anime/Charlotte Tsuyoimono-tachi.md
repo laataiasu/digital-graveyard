@@ -11,5 +11,5 @@ source: anilist
 # Charlotte: Tsuyoimono-tachi
 
 - **Year:** 2016
-- **Original_title:** Charlotte 強い者たち
+- **Original title:** Charlotte 強い者たち
 - **Source:** anilist

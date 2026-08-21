@@ -11,5 +11,5 @@ source: anilist
 # Natsu e no Tunnel, Sayonara no Deguchi
 
 - **Year:** 2022
-- **Original_title:** 夏へのトンネル、さよならの出口
+- **Original title:** 夏へのトンネル、さよならの出口
 - **Source:** anilist

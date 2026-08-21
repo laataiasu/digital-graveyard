@@ -11,5 +11,5 @@ source: anilist
 # Monogatari Series: Second Season
 
 - **Year:** 2013
-- **Original_title:** 〈物語〉シリーズ セカンドシーズン
+- **Original title:** 〈物語〉シリーズ セカンドシーズン
 - **Source:** anilist

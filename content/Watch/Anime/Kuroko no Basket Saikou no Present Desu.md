@@ -11,5 +11,5 @@ source: anilist
 # Kuroko no Basket: Saikou no Present Desu
 
 - **Year:** 2015
-- **Original_title:** 黒子のバスケ ~最高のプレゼントです~
+- **Original title:** 黒子のバスケ ~最高のプレゼントです~
 - **Source:** anilist
