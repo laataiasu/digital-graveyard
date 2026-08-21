@@ -1,101 +1,124 @@
 """
 Normalizes source DataFrames into ierp media records and pushes them to the
 ierp SQLite database via its CLI (`uv run ierp ingest-media`).
+
+Field-mapping tables at the top are the single place to touch when a source
+adds or renames columns.
 """
 
 import json
 import os
-import shutil
 import subprocess
 import tempfile
+from typing import Optional
+
 import pandas as pd
 
 IERP_ROOT = os.environ.get("IERP_ROOT", os.path.expanduser("~/Projects/ierp"))
 
-# media_type per get-data source key
-SOURCE_MEDIA_TYPE = {
-    "hardcover": "book",
-    "goodreads": "book",
-    "letterboxd": "film",
-    "anilist_anime": "anime",
-    "anilist_manga": "manga",
-    "mydramalist": "drama",
+# get-data source key -> (ierp media_type, ierp source name)
+SOURCE_MAP = {
+    "hardcover": ("book", "hardcover"),
+    "goodreads": ("book", "goodreads"),
+    "letterboxd": ("film", "letterboxd"),
+    "anilist_anime": ("anime", "anilist"),
+    "anilist_manga": ("manga", "anilist"),
+    "mydramalist": ("drama", "mydramalist"),
 }
 
-SOURCE_NAME = {
-    "hardcover": "hardcover",
-    "goodreads": "goodreads",
-    "letterboxd": "letterboxd",
-    "anilist_anime": "anilist",
-    "anilist_manga": "anilist",
-    "mydramalist": "mydramalist",
+# Candidate column names per record field (first match wins).
+FIELD_CANDIDATES = {
+    "title": ("Title", "Name", "series_title", "manga_title"),
+    "original_title": ("series_native_title", "native_title", "Original Title"),
+    "year": ("Year", "year", "release_year", "series_season_year",
+             "Year Published", "year_published"),
+    "author": ("Author", "author"),
+    "status": ("Reading Status", "status", "Progress"),
+    "rating": ("My Rating", "Rating", "rating", "Score", "score"),
+    "progress": ("Progress", "progress"),
 }
+
+# Candidate column names per date field.
+DATE_CANDIDATES = {
+    "started_at": ("Date Started", "started_at", "Start Date"),
+    "finished_at": ("Date Read", "finished_at", "Finish Date"),
+    "date_logged": ("Date Added", "Date", "date", "updated_at", "created_at"),
+}
+
+# Columns excluded from the `extra` dict (they map to real fields or are redundant).
+_EXTRA_EXCLUDED = {"Title", "Name", "series_title", "manga_title"}
 
 
 def _clean(v):
-    if v is None or (isinstance(v, float) and pd.isna(v)):
+    """NaN/None -> None; integral floats -> int; everything else passthrough."""
+    if v is None:
         return None
-    if pd.isna(v):
-        return None
+    try:
+        if pd.isna(v):
+            return None
+    except (TypeError, ValueError):
+        pass
     if isinstance(v, float) and v.is_integer():
         return int(v)
     return v
 
 
-def _date_str(v):
+def _first(r: dict, candidates: tuple):
+    """First non-empty value among candidate column names."""
+    for col in candidates:
+        v = r.get(col)
+        if v is not None and str(v).strip() != "":
+            return v
+    return None
+
+
+def _date_str(v) -> Optional[str]:
     v = _clean(v)
     if v is None:
         return None
     dt = pd.to_datetime(v, errors="coerce")
-    if pd.isna(dt):
-        return None
-    return dt.strftime("%Y-%m-%d")
+    return None if pd.isna(dt) else dt.strftime("%Y-%m-%d")
 
 
 def normalize_records(source_key: str, df: pd.DataFrame) -> list:
     """Converts a source DataFrame into ierp ingest-media record dicts."""
-    media_type = SOURCE_MEDIA_TYPE.get(source_key, source_key)
-    src = SOURCE_NAME.get(source_key, source_key)
+    media_type, src = SOURCE_MAP.get(source_key, (source_key, source_key))
     records = []
 
     for _, row in df.iterrows():
         r = {k: _clean(v) for k, v in row.items()}
-        title = r.get("Title") or r.get("Name") or r.get("series_title") or r.get("manga_title")
+        title = _first(r, FIELD_CANDIDATES["title"])
         if not title or not str(title).strip():
             continue
         title = str(title).strip()
 
-        external_id = r.get("Id") or r.get("Book Id") or r.get("letterboxd_uri") or \
-                      r.get("series_id") or r.get("manga_id") or r.get("URL") or \
-                      r.get("Letterboxd URI") or r.get("url")
-        url = r.get("URL") or r.get("Letterboxd URI") or r.get("url") or \
-              (external_id if isinstance(external_id, str) and external_id.startswith("http") else None)
-
-        rec = {
+        review = _first(r, ("My Review", "my_comments", "notes"))
+        records.append({
             "media_type": media_type,
             "title": title,
-            "original_title": r.get("series_native_title") or r.get("native_title") or r.get("Original Title"),
-            "year": r.get("Year") or r.get("year") or r.get("release_year") or r.get("series_season_year") or r.get("Year Published") or r.get("year_published"),
-            "author": r.get("Author") or r.get("author"),
+            "original_title": _first(r, FIELD_CANDIDATES["original_title"]),
+            "year": _first(r, FIELD_CANDIDATES["year"]),
+            "author": _first(r, FIELD_CANDIDATES["author"]),
             "source": src,
-            "extra": {k: v for k, v in r.items() if v is not None and k not in (
-                "Title", "Name", "series_title", "manga_title")},
-            "status": r.get("Reading Status") or r.get("status") or r.get("Progress"),
-            "rating": r.get("My Rating") or r.get("Rating") or r.get("rating") or r.get("Score") or r.get("score"),
-            "progress": r.get("Progress") or r.get("progress"),
-            "started_at": _date_str(r.get("Date Started") or r.get("started_at") or r.get("Start Date")),
-            "finished_at": _date_str(r.get("Date Read") or r.get("finished_at") or r.get("Finish Date")),
-            "date_logged": _date_str(r.get("Date Added") or r.get("Date") or r.get("date") or
-                                     r.get("updated_at") or r.get("created_at")),
-            "review": (str(r.get("My Review")).strip() or None) if r.get("My Review") else None,
+            "extra": {k: v for k, v in r.items() if v is not None and k not in _EXTRA_EXCLUDED},
+            "status": _first(r, FIELD_CANDIDATES["status"]),
+            "rating": _first(r, FIELD_CANDIDATES["rating"]),
+            "progress": _first(r, FIELD_CANDIDATES["progress"]),
+            "started_at": _date_str(_first(r, DATE_CANDIDATES["started_at"])),
+            "finished_at": _date_str(_first(r, DATE_CANDIDATES["finished_at"])),
+            "date_logged": _date_str(_first(r, DATE_CANDIDATES["date_logged"])),
+            "review": (str(review).strip() or None) if review else None,
             "raw": {k: (str(v) if v is not None else None) for k, v in r.items()},
-        }
-        records.append(rec)
+        })
     return records
 
 
 def push_to_ierp(source_key: str, records: list) -> bool:
-    """Writes records to a temp JSON file and pipes through `uv run ierp ingest-media`."""
+    """
+    Writes records to a temp JSON file and pipes through `uv run ierp ingest-media`.
+    Returns True on success; failures are printed, never raised (ingestion is
+    best-effort so one broken source doesn't kill the whole get-data run).
+    """
     if not records:
         return True
     with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as f:
@@ -111,7 +134,7 @@ def push_to_ierp(source_key: str, records: list) -> bool:
             return False
         print(f"[ierp] {result.stdout.strip()} ({source_key}: {len(records)} records)")
         return True
-    except Exception as e:
+    except (subprocess.TimeoutExpired, OSError) as e:
         print(f"[ierp] Ingest error for {source_key}: {e}")
         return False
     finally:
