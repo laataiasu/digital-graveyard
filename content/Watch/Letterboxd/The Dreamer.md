@@ -1,9 +1,17 @@
 ---
-title: "The Dreamer"
-date: 2021-12-17
+title: The Dreamer
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2009
-letterboxd_uri: "https://letterboxd.com/film/the-dreamer-2009/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-dreamer-2009/"
+source: letterboxd
 ---
+
+# The Dreamer
+
+- **Year:** 2009
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-dreamer-2009/
+- **Source:** letterboxd

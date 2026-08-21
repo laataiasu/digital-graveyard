@@ -1,9 +1,17 @@
 ---
-title: "Iron Man"
-date: 2021-10-15
+title: Iron Man
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2008
-letterboxd_uri: "https://letterboxd.com/film/iron-man-2008/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/iron-man-2008/"
+source: letterboxd
 ---
+
+# Iron Man
+
+- **Year:** 2008
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/iron-man-2008/
+- **Source:** letterboxd

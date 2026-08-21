@@ -1,9 +1,17 @@
 ---
-title: "World of Tomorrow"
-date: 2021-12-15
+title: World of Tomorrow
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://letterboxd.com/film/world-of-tomorrow/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/world-of-tomorrow/"
+source: letterboxd
 ---
+
+# World of Tomorrow
+
+- **Year:** 2015
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/world-of-tomorrow/
+- **Source:** letterboxd

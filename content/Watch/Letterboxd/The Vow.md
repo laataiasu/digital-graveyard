@@ -1,9 +1,17 @@
 ---
-title: "The Vow"
-date: 2022-05-27
+title: The Vow
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2012
-letterboxd_uri: "https://letterboxd.com/film/the-vow/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-vow/"
+source: letterboxd
 ---
+
+# The Vow
+
+- **Year:** 2012
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-vow/
+- **Source:** letterboxd

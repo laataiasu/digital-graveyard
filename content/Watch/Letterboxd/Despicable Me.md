@@ -1,9 +1,17 @@
 ---
-title: "Despicable Me"
-date: 2021-10-15
+title: Despicable Me
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2010
-letterboxd_uri: "https://letterboxd.com/film/despicable-me/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/despicable-me/"
+source: letterboxd
 ---
+
+# Despicable Me
+
+- **Year:** 2010
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/despicable-me/
+- **Source:** letterboxd

@@ -1,9 +1,17 @@
 ---
-title: "Call Me by Your Name"
-date: 2020-04-25
+title: Call Me by Your Name
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2017
-letterboxd_uri: "https://letterboxd.com/film/call-me-by-your-name/"
 rating: 2.5
+url: "https://letterboxd.com/film/call-me-by-your-name/"
+source: letterboxd
 ---
+
+# Call Me by Your Name
+
+- **Year:** 2017
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/call-me-by-your-name/
+- **Source:** letterboxd

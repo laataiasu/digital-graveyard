@@ -1,15 +1,13 @@
 ---
-title: "Mati Ketawa Cara Rusia"
-date: 2025-06-19
+title: Mati Ketawa Cara Rusia
+date: 2020-08-23
 tags: [book]
 publish_external: false
-author: "Z. Dolgopolova, Batara Sakti, Abdurrahman Wahid"
+author: Z. Dolgopolova
+source: goodreads
 ---
 
 # Mati Ketawa Cara Rusia
 
-- **Author:** Z. Dolgopolova, Batara Sakti, Abdurrahman Wahid
-- **Pages:** 129.0
-- **Year Published:** 1982
-- **Date Added:** 2025-06-19
-- **Bookshelves:** read
+- **Author:** Z. Dolgopolova
+- **Source:** goodreads

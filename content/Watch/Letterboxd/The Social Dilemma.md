@@ -1,9 +1,17 @@
 ---
-title: "The Social Dilemma"
-date: 2021-10-15
+title: The Social Dilemma
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2020
-letterboxd_uri: "https://letterboxd.com/film/the-social-dilemma/"
 rating: 2.5
+url: "https://letterboxd.com/film/the-social-dilemma/"
+source: letterboxd
 ---
+
+# The Social Dilemma
+
+- **Year:** 2020
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/the-social-dilemma/
+- **Source:** letterboxd

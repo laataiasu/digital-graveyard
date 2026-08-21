@@ -1,19 +1,21 @@
 ---
-title: "My Liberation Notes"
+title: My Liberation Notes
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2022
-type: Drama
-score: 6.5
+country: South Korea
+status: 16/16
+rating: 6.5
 progress: 16/16
+source: mydramalist
 ---
 
 # My Liberation Notes
 
-- **Country:** South Korea
 - **Year:** 2022
-- **Type:** Drama
-- **Score:** 6.5
+- **Country:** South Korea
+- **Status:** 16/16
+- **Rating:** 6.5
 - **Progress:** 16/16
+- **Source:** mydramalist

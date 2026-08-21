@@ -1,20 +1,17 @@
 ---
-title: "Filosofi Cinta KAHLIL GIBRAN"
-date: 2025-06-19
+title: Filosofi Cinta KAHLIL GIBRAN
+date: 2023-01-09
 tags: [book]
 publish_external: false
 author: Fahruddin Faiz
+rating: 2.0
+finished: 2022-10-31
+source: goodreads
 ---
 
 # Filosofi Cinta KAHLIL GIBRAN
 
 - **Author:** Fahruddin Faiz
-- **My Rating:** 2.0
-- **Average Rating:** 2.0
-- **Pages:** 168.0
-- **Year Published:** 2002
-- **Date Added:** 2025-06-19
-- **Date Read:** 2022-10-31
-- **Bookshelves:** read
-- **ISBN:** 9799440289
-- **ISBN13:** 9789799440280
+- **Rating:** 2.0
+- **Finished:** 2022-10-31
+- **Source:** goodreads

@@ -1,9 +1,17 @@
 ---
 title: "Thor: The Dark World"
-date: 2021-10-15
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/thor-the-dark-world/"
 rating: 2.5
+url: "https://letterboxd.com/film/thor-the-dark-world/"
+source: letterboxd
 ---
+
+# Thor: The Dark World
+
+- **Year:** 2013
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/thor-the-dark-world/
+- **Source:** letterboxd

@@ -1,19 +1,21 @@
 ---
-title: "Crows Zero 2"
+title: Crows Zero 2
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: Japan
 year: 2009
-type: Movie
-score: 6.5
+country: Japan
+status: 1/1
+rating: 6.5
 progress: 1/1
+source: mydramalist
 ---
 
 # Crows Zero 2
 
-- **Country:** Japan
 - **Year:** 2009
-- **Type:** Movie
-- **Score:** 6.5
+- **Country:** Japan
+- **Status:** 1/1
+- **Rating:** 6.5
 - **Progress:** 1/1
+- **Source:** mydramalist

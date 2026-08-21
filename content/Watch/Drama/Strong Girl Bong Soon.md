@@ -1,19 +1,21 @@
 ---
-title: "Strong Girl Bong Soon"
+title: Strong Girl Bong Soon
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2017
-type: Drama
-score: 5.5
+country: South Korea
+status: 16/16
+rating: 5.5
 progress: 16/16
+source: mydramalist
 ---
 
 # Strong Girl Bong Soon
 
-- **Country:** South Korea
 - **Year:** 2017
-- **Type:** Drama
-- **Score:** 5.5
+- **Country:** South Korea
+- **Status:** 16/16
+- **Rating:** 5.5
 - **Progress:** 16/16
+- **Source:** mydramalist

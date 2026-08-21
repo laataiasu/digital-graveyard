@@ -1,9 +1,17 @@
 ---
-title: "Now You See Me"
-date: 2021-10-15
+title: Now You See Me
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/now-you-see-me/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/now-you-see-me/"
+source: letterboxd
 ---
+
+# Now You See Me
+
+- **Year:** 2013
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/now-you-see-me/
+- **Source:** letterboxd

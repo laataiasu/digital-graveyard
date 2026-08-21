@@ -1,9 +1,17 @@
 ---
-title: "Only Yesterday"
-date: 2021-01-18
+title: Only Yesterday
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1991
-letterboxd_uri: "https://letterboxd.com/film/only-yesterday/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/only-yesterday/"
+source: letterboxd
 ---
+
+# Only Yesterday
+
+- **Year:** 1991
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/only-yesterday/
+- **Source:** letterboxd

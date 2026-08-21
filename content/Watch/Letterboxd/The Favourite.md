@@ -1,9 +1,17 @@
 ---
-title: "The Favourite"
-date: 2021-10-15
+title: The Favourite
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://letterboxd.com/film/the-favourite/"
 rating: 2.5
+url: "https://letterboxd.com/film/the-favourite/"
+source: letterboxd
 ---
+
+# The Favourite
+
+- **Year:** 2018
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/the-favourite/
+- **Source:** letterboxd

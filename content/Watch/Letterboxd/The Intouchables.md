@@ -1,9 +1,17 @@
 ---
-title: "The Intouchables"
-date: 2020-04-25
+title: The Intouchables
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2011
-letterboxd_uri: "https://letterboxd.com/film/the-intouchables/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-intouchables/"
+source: letterboxd
 ---
+
+# The Intouchables
+
+- **Year:** 2011
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-intouchables/
+- **Source:** letterboxd

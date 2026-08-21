@@ -1,9 +1,17 @@
 ---
-title: "Meet the Robinsons"
-date: 2021-12-10
+title: Meet the Robinsons
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2007
-letterboxd_uri: "https://letterboxd.com/film/meet-the-robinsons/"
 rating: 3.5
+url: "https://letterboxd.com/film/meet-the-robinsons/"
+source: letterboxd
 ---
+
+# Meet the Robinsons
+
+- **Year:** 2007
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/meet-the-robinsons/
+- **Source:** letterboxd

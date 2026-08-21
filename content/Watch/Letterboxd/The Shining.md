@@ -1,9 +1,17 @@
 ---
-title: "The Shining"
-date: 2021-11-07
+title: The Shining
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1980
-letterboxd_uri: "https://letterboxd.com/film/the-shining/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-shining/"
+source: letterboxd
 ---
+
+# The Shining
+
+- **Year:** 1980
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-shining/
+- **Source:** letterboxd

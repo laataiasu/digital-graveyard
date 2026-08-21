@@ -1,9 +1,17 @@
 ---
-title: "The Secret World of Arrietty"
-date: 2022-09-19
+title: The Secret World of Arrietty
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2010
-letterboxd_uri: "https://letterboxd.com/film/the-secret-world-of-arrietty/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-secret-world-of-arrietty/"
+source: letterboxd
 ---
+
+# The Secret World of Arrietty
+
+- **Year:** 2010
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-secret-world-of-arrietty/
+- **Source:** letterboxd

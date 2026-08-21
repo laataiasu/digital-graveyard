@@ -1,19 +1,21 @@
 ---
-title: "While You Were Sleeping"
+title: While You Were Sleeping
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2017
-type: Drama
-score: 6
+country: South Korea
+status: 32/32
+rating: 6.0
 progress: 32/32
+source: mydramalist
 ---
 
 # While You Were Sleeping
 
-- **Country:** South Korea
 - **Year:** 2017
-- **Type:** Drama
-- **Score:** 6.0
+- **Country:** South Korea
+- **Status:** 32/32
+- **Rating:** 6.0
 - **Progress:** 32/32
+- **Source:** mydramalist

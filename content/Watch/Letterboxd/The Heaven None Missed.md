@@ -1,9 +1,17 @@
 ---
-title: "The Heaven None Missed"
-date: 2021-12-17
+title: The Heaven None Missed
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://letterboxd.com/film/the-heaven-none-missed/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-heaven-none-missed/"
+source: letterboxd
 ---
+
+# The Heaven None Missed
+
+- **Year:** 2015
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-heaven-none-missed/
+- **Source:** letterboxd

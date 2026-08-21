@@ -1,9 +1,17 @@
 ---
-title: "Dilan 1991"
-date: 2022-01-29
+title: Dilan 1991
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/dilan-1991/"
 rating: 1.5
+url: "https://letterboxd.com/film/dilan-1991/"
+source: letterboxd
 ---
+
+# Dilan 1991
+
+- **Year:** 2019
+- **Rating:** 1.5
+- **Url:** https://letterboxd.com/film/dilan-1991/
+- **Source:** letterboxd

@@ -3,17 +3,9 @@ title: "Haikyuu!!: Sainou to Sense"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 35110
-series_title: "Haikyuu!!: Sainou to Sense"
-series_type: MOVIE
-series_episodes: 1
-my_id: 413321945
-my_watched_episodes: 1
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 0
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: "Haikyuu!!: Sainou to Sense"
+source: anilist
 ---
+
+# Haikyuu!!: Sainou to Sense
+
+- **Source:** anilist

@@ -1,9 +1,17 @@
 ---
-title: "Pretty Boys"
-date: 2022-03-31
+title: Pretty Boys
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/pretty-boys/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/pretty-boys/"
+source: letterboxd
 ---
+
+# Pretty Boys
+
+- **Year:** 2019
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/pretty-boys/
+- **Source:** letterboxd

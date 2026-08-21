@@ -1,9 +1,17 @@
 ---
-title: "Before Sunrise"
-date: 2020-05-02
+title: Before Sunrise
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1995
-letterboxd_uri: "https://letterboxd.com/film/before-sunrise/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/before-sunrise/"
+source: letterboxd
 ---
+
+# Before Sunrise
+
+- **Year:** 1995
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/before-sunrise/
+- **Source:** letterboxd

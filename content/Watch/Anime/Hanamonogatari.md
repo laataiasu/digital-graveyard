@@ -1,19 +1,11 @@
 ---
-title: "Hanamonogatari"
+title: Hanamonogatari
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 21855
-series_title: Hanamonogatari
-series_type: TV
-series_episodes: 5
-my_id: 413321949
-my_watched_episodes: 5
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 0
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: Hanamonogatari
+source: anilist
 ---
+
+# Hanamonogatari
+
+- **Source:** anilist

@@ -1,9 +1,17 @@
 ---
-title: "Memories of Murder"
-date: 2021-10-15
+title: Memories of Murder
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2003
-letterboxd_uri: "https://letterboxd.com/film/memories-of-murder/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/memories-of-murder/"
+source: letterboxd
 ---
+
+# Memories of Murder
+
+- **Year:** 2003
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/memories-of-murder/
+- **Source:** letterboxd

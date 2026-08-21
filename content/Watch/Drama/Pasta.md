@@ -1,19 +1,21 @@
 ---
-title: "Pasta"
+title: Pasta
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2010
-type: Drama
-score: 7.5
+country: South Korea
+status: 20/20
+rating: 7.5
 progress: 20/20
+source: mydramalist
 ---
 
 # Pasta
 
-- **Country:** South Korea
 - **Year:** 2010
-- **Type:** Drama
-- **Score:** 7.5
+- **Country:** South Korea
+- **Status:** 20/20
+- **Rating:** 7.5
 - **Progress:** 20/20
+- **Source:** mydramalist

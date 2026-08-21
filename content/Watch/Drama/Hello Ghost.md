@@ -1,19 +1,21 @@
 ---
-title: "Hello Ghost"
+title: Hello Ghost
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2010
-type: Movie
-score: 8.5
+country: South Korea
+status: 1/1
+rating: 8.5
 progress: 1/1
+source: mydramalist
 ---
 
 # Hello Ghost
 
-- **Country:** South Korea
 - **Year:** 2010
-- **Type:** Movie
-- **Score:** 8.5
+- **Country:** South Korea
+- **Status:** 1/1
+- **Rating:** 8.5
 - **Progress:** 1/1
+- **Source:** mydramalist

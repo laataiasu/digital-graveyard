@@ -1,9 +1,17 @@
 ---
-title: "I Want to Eat Your Pancreas"
-date: 2023-06-30
+title: I Want to Eat Your Pancreas
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://letterboxd.com/film/i-want-to-eat-your-pancreas/"
-rating: 2
+rating: 2.0
+url: "https://letterboxd.com/film/i-want-to-eat-your-pancreas/"
+source: letterboxd
 ---
+
+# I Want to Eat Your Pancreas
+
+- **Year:** 2018
+- **Rating:** 2.0
+- **Url:** https://letterboxd.com/film/i-want-to-eat-your-pancreas/
+- **Source:** letterboxd

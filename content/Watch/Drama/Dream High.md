@@ -1,19 +1,21 @@
 ---
-title: "Dream High"
+title: Dream High
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2011
-type: Drama
-score: 8.5
+country: South Korea
+status: 16/16
+rating: 8.5
 progress: 16/16
+source: mydramalist
 ---
 
 # Dream High
 
-- **Country:** South Korea
 - **Year:** 2011
-- **Type:** Drama
-- **Score:** 8.5
+- **Country:** South Korea
+- **Status:** 16/16
+- **Rating:** 8.5
 - **Progress:** 16/16
+- **Source:** mydramalist

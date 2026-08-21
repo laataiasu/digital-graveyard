@@ -1,9 +1,17 @@
 ---
-title: "Crazy Rich Asians"
-date: 2020-08-04
+title: Crazy Rich Asians
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://letterboxd.com/film/crazy-rich-asians/"
 rating: 1.5
+url: "https://letterboxd.com/film/crazy-rich-asians/"
+source: letterboxd
 ---
+
+# Crazy Rich Asians
+
+- **Year:** 2018
+- **Rating:** 1.5
+- **Url:** https://letterboxd.com/film/crazy-rich-asians/
+- **Source:** letterboxd

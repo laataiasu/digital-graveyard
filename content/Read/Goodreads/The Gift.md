@@ -1,18 +1,13 @@
 ---
-title: "The Gift"
-date: 2025-06-19
+title: The Gift
+date: 2024-03-14
 tags: [book]
 publish_external: false
-author: "Hafiz, Daniel Ladinsky"
+author: Hafez
+source: goodreads
 ---
 
 # The Gift
 
-- **Author:** Hafiz, Daniel Ladinsky
-- **Average Rating:** 4.25
-- **Pages:** 356.0
-- **Year Published:** 1999
-- **Date Added:** 2025-06-19
-- **Bookshelves:** to-read
-- **ISBN:** 0140195815
-- **ISBN13:** 9780140195811
+- **Author:** Hafez
+- **Source:** goodreads

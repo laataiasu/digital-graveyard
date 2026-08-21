@@ -1,9 +1,17 @@
 ---
-title: "Midsommar"
-date: 2021-10-15
+title: Midsommar
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/midsommar/"
 rating: 3.5
+url: "https://letterboxd.com/film/midsommar/"
+source: letterboxd
 ---
+
+# Midsommar
+
+- **Year:** 2019
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/midsommar/
+- **Source:** letterboxd

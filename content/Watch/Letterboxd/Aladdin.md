@@ -1,9 +1,17 @@
 ---
-title: "Aladdin"
-date: 2021-10-15
+title: Aladdin
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/aladdin-2019/"
-rating: 2
+rating: 2.0
+url: "https://letterboxd.com/film/aladdin-2019/"
+source: letterboxd
 ---
+
+# Aladdin
+
+- **Year:** 2019
+- **Rating:** 2.0
+- **Url:** https://letterboxd.com/film/aladdin-2019/
+- **Source:** letterboxd

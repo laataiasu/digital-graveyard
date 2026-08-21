@@ -1,9 +1,17 @@
 ---
-title: "Seven Samurai"
-date: 2021-10-15
+title: Seven Samurai
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1954
-letterboxd_uri: "https://letterboxd.com/film/seven-samurai/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/seven-samurai/"
+source: letterboxd
 ---
+
+# Seven Samurai
+
+- **Year:** 1954
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/seven-samurai/
+- **Source:** letterboxd

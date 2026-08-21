@@ -1,19 +1,19 @@
 ---
-title: "Lost"
+title: Lost
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2021
-type: Drama
-score: 0
+country: South Korea
+status: 0/16
 progress: 0/16
+source: mydramalist
 ---
 
 # Lost
 
-- **Country:** South Korea
 - **Year:** 2021
-- **Type:** Drama
-- **Score:** 0.0
+- **Country:** South Korea
+- **Status:** 0/16
 - **Progress:** 0/16
+- **Source:** mydramalist

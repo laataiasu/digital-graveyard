@@ -1,9 +1,17 @@
 ---
-title: "Rashomon"
-date: 2024-02-05
+title: Rashomon
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1950
-letterboxd_uri: "https://letterboxd.com/film/rashomon/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/rashomon/"
+source: letterboxd
 ---
+
+# Rashomon
+
+- **Year:** 1950
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/rashomon/
+- **Source:** letterboxd

@@ -1,9 +1,17 @@
 ---
 title: "It's Such a Beautiful Day"
-date: 2021-12-15
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2012
-letterboxd_uri: "https://letterboxd.com/film/its-such-a-beautiful-day/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/its-such-a-beautiful-day/"
+source: letterboxd
 ---
+
+# It's Such a Beautiful Day
+
+- **Year:** 2012
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/its-such-a-beautiful-day/
+- **Source:** letterboxd

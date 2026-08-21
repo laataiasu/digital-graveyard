@@ -1,9 +1,17 @@
 ---
-title: "Begin Again"
-date: 2021-06-25
+title: Begin Again
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/begin-again/"
 rating: 1.5
+url: "https://letterboxd.com/film/begin-again/"
+source: letterboxd
 ---
+
+# Begin Again
+
+- **Year:** 2013
+- **Rating:** 1.5
+- **Url:** https://letterboxd.com/film/begin-again/
+- **Source:** letterboxd

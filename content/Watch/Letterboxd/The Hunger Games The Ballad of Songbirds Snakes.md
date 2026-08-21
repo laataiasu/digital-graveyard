@@ -1,9 +1,17 @@
 ---
 title: "The Hunger Games: The Ballad of Songbirds & Snakes"
-date: 2024-01-15
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2023
-letterboxd_uri: "https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/"
+source: letterboxd
 ---
+
+# The Hunger Games: The Ballad of Songbirds & Snakes
+
+- **Year:** 2023
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/
+- **Source:** letterboxd

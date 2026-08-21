@@ -1,9 +1,17 @@
 ---
-title: "Deadpool 2"
-date: 2021-10-15
+title: Deadpool 2
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://letterboxd.com/film/deadpool-2/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/deadpool-2/"
+source: letterboxd
 ---
+
+# Deadpool 2
+
+- **Year:** 2018
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/deadpool-2/
+- **Source:** letterboxd

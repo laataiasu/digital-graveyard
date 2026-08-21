@@ -1,9 +1,17 @@
 ---
-title: "Dangal"
-date: 2020-04-25
+title: Dangal
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2016
-letterboxd_uri: "https://letterboxd.com/film/dangal/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/dangal/"
+source: letterboxd
 ---
+
+# Dangal
+
+- **Year:** 2016
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/dangal/
+- **Source:** letterboxd

@@ -1,9 +1,17 @@
 ---
-title: "Captain Marvel"
-date: 2021-10-15
+title: Captain Marvel
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/captain-marvel/"
 rating: 2.5
+url: "https://letterboxd.com/film/captain-marvel/"
+source: letterboxd
 ---
+
+# Captain Marvel
+
+- **Year:** 2019
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/captain-marvel/
+- **Source:** letterboxd

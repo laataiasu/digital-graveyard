@@ -1,9 +1,17 @@
 ---
-title: "Aftersun"
-date: 2023-02-25
+title: Aftersun
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2022
-letterboxd_uri: "https://letterboxd.com/film/aftersun/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/aftersun/"
+source: letterboxd
 ---
+
+# Aftersun
+
+- **Year:** 2022
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/aftersun/
+- **Source:** letterboxd

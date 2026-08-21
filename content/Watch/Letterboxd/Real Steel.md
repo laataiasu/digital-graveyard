@@ -1,9 +1,17 @@
 ---
-title: "Real Steel"
-date: 2021-10-15
+title: Real Steel
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2011
-letterboxd_uri: "https://letterboxd.com/film/real-steel/"
 rating: 2.5
+url: "https://letterboxd.com/film/real-steel/"
+source: letterboxd
 ---
+
+# Real Steel
+
+- **Year:** 2011
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/real-steel/
+- **Source:** letterboxd

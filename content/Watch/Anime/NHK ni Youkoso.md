@@ -1,19 +1,11 @@
 ---
-title: "NHK ni Youkoso!"
+title: NHK ni Youkoso!
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 1210
-series_title: NHK ni Youkoso!
-series_type: TV
-series_episodes: 24
-my_id: 413322014
-my_watched_episodes: 24
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 0
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: NHK ni Youkoso!
+source: anilist
 ---
+
+# NHK ni Youkoso!
+
+- **Source:** anilist

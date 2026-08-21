@@ -1,9 +1,17 @@
 ---
-title: "Ikiru"
-date: 2024-02-05
+title: Ikiru
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1952
-letterboxd_uri: "https://letterboxd.com/film/ikiru/"
 rating: 2.5
+url: "https://letterboxd.com/film/ikiru/"
+source: letterboxd
 ---
+
+# Ikiru
+
+- **Year:** 1952
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/ikiru/
+- **Source:** letterboxd

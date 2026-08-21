@@ -1,9 +1,17 @@
 ---
-title: "12 Years a Slave"
-date: 2021-12-22
+title: 12 Years a Slave
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/12-years-a-slave/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/12-years-a-slave/"
+source: letterboxd
 ---
+
+# 12 Years a Slave
+
+- **Year:** 2013
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/12-years-a-slave/
+- **Source:** letterboxd

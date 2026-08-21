@@ -1,9 +1,17 @@
 ---
-title: "Toy Story"
-date: 2021-10-15
+title: Toy Story
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1995
-letterboxd_uri: "https://letterboxd.com/film/toy-story/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/toy-story/"
+source: letterboxd
 ---
+
+# Toy Story
+
+- **Year:** 1995
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/toy-story/
+- **Source:** letterboxd

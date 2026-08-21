@@ -1,9 +1,17 @@
 ---
 title: "Kill Bill: Vol. 1"
-date: 2021-10-15
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2003
-letterboxd_uri: "https://letterboxd.com/film/kill-bill-vol-1/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/kill-bill-vol-1/"
+source: letterboxd
 ---
+
+# Kill Bill: Vol. 1
+
+- **Year:** 2003
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/kill-bill-vol-1/
+- **Source:** letterboxd

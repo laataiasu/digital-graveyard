@@ -1,19 +1,21 @@
 ---
-title: "My New Sassy Girl"
+title: My New Sassy Girl
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2016
-type: Movie
-score: 4.5
+country: South Korea
+status: 1/1
+rating: 4.5
 progress: 1/1
+source: mydramalist
 ---
 
 # My New Sassy Girl
 
-- **Country:** South Korea
 - **Year:** 2016
-- **Type:** Movie
-- **Score:** 4.5
+- **Country:** South Korea
+- **Status:** 1/1
+- **Rating:** 4.5
 - **Progress:** 1/1
+- **Source:** mydramalist

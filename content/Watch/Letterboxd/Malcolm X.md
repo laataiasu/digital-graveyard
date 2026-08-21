@@ -1,9 +1,17 @@
 ---
-title: "Malcolm X"
-date: 2022-07-06
+title: Malcolm X
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1992
-letterboxd_uri: "https://letterboxd.com/film/malcolm-x-1992/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/malcolm-x-1992/"
+source: letterboxd
 ---
+
+# Malcolm X
+
+- **Year:** 1992
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/malcolm-x-1992/
+- **Source:** letterboxd

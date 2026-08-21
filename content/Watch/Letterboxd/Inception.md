@@ -1,9 +1,17 @@
 ---
-title: "Inception"
-date: 2020-04-26
+title: Inception
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2010
-letterboxd_uri: "https://letterboxd.com/film/inception/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/inception/"
+source: letterboxd
 ---
+
+# Inception
+
+- **Year:** 2010
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/inception/
+- **Source:** letterboxd

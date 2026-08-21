@@ -1,18 +1,13 @@
 ---
-title: "The Trouble With Being Born"
-date: 2026-08-20
+title: The Trouble With Being Born
+date: 2025-06-21
 tags: [book]
 publish_external: false
 author: Emil M. Cioran
+source: goodreads
 ---
 
 # The Trouble With Being Born
 
 - **Author:** Emil M. Cioran
-- **Average Rating:** 4.0
-- **Pages:** 177.0
-- **Year Published:** 1973
-- **Date Added:** 2026-08-20
-- **Bookshelves:** read
-- **ISBN:** 0241467276
-- **ISBN13:** 9780241467275
+- **Source:** goodreads

@@ -1,17 +1,15 @@
 ---
-title: "Daerah Salju"
-date: 2026-08-20
+title: Daerah Salju
+date: 2021-12-15
 tags: [book]
 publish_external: false
-author: "Yasunari Kawabata, A.S. Laksana"
+author: Yasunari Kawabata
+rating: 3.0
+source: goodreads
 ---
 
 # Daerah Salju
 
-- **Author:** Yasunari Kawabata, A.S. Laksana
-- **My Rating:** 3.0
-- **Average Rating:** 3.0
-- **Pages:** 188.0
-- **Year Published:** 1948
-- **Date Added:** 2026-08-20
-- **Bookshelves:** read
+- **Author:** Yasunari Kawabata
+- **Rating:** 3.0
+- **Source:** goodreads

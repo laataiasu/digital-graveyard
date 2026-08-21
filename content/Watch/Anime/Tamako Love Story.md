@@ -1,19 +1,11 @@
 ---
-title: "Tamako Love Story"
+title: Tamako Love Story
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 21647
-series_title: Tamako Love Story
-series_type: MOVIE
-series_episodes: 1
-my_id: 413322072
-my_watched_episodes: 1
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 5
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: Tamako Love Story
+source: anilist
 ---
+
+# Tamako Love Story
+
+- **Source:** anilist

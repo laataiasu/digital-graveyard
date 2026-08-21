@@ -1,9 +1,17 @@
 ---
-title: "Phobia"
-date: 2021-10-15
+title: Phobia
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2016
-letterboxd_uri: "https://letterboxd.com/film/phobia-2016/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/phobia-2016/"
+source: letterboxd
 ---
+
+# Phobia
+
+- **Year:** 2016
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/phobia-2016/
+- **Source:** letterboxd

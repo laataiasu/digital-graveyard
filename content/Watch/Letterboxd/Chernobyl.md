@@ -1,9 +1,17 @@
 ---
-title: "Chernobyl"
-date: 2021-10-15
+title: Chernobyl
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/chernobyl/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/chernobyl/"
+source: letterboxd
 ---
+
+# Chernobyl
+
+- **Year:** 2019
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/chernobyl/
+- **Source:** letterboxd

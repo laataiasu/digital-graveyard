@@ -1,9 +1,17 @@
 ---
-title: "Into the Wild"
-date: 2022-08-04
+title: Into the Wild
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2007
-letterboxd_uri: "https://letterboxd.com/film/into-the-wild/"
 rating: 2.5
+url: "https://letterboxd.com/film/into-the-wild/"
+source: letterboxd
 ---
+
+# Into the Wild
+
+- **Year:** 2007
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/into-the-wild/
+- **Source:** letterboxd

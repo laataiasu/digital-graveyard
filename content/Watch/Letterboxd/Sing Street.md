@@ -1,9 +1,17 @@
 ---
-title: "Sing Street"
-date: 2020-04-25
+title: Sing Street
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2016
-letterboxd_uri: "https://letterboxd.com/film/sing-street/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/sing-street/"
+source: letterboxd
 ---
+
+# Sing Street
+
+- **Year:** 2016
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/sing-street/
+- **Source:** letterboxd

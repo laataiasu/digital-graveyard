@@ -1,9 +1,17 @@
 ---
-title: "Gundala"
-date: 2021-12-17
+title: Gundala
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/gundala/"
 rating: 2.5
+url: "https://letterboxd.com/film/gundala/"
+source: letterboxd
 ---
+
+# Gundala
+
+- **Year:** 2019
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/gundala/
+- **Source:** letterboxd

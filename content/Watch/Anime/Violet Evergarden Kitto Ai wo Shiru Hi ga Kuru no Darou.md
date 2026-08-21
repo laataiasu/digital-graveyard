@@ -3,17 +3,9 @@ title: "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 37095
-series_title: "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
-series_type: OVA
-series_episodes: 1
-my_id: 413322088
-my_watched_episodes: 1
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 0
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
+source: anilist
 ---
+
+# Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou
+
+- **Source:** anilist

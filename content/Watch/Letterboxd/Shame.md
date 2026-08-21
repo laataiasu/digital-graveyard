@@ -1,9 +1,17 @@
 ---
-title: "Shame"
-date: 2024-05-25
+title: Shame
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2011
-letterboxd_uri: "https://letterboxd.com/film/shame-2011/"
 rating: 2.5
+url: "https://letterboxd.com/film/shame-2011/"
+source: letterboxd
 ---
+
+# Shame
+
+- **Year:** 2011
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/shame-2011/
+- **Source:** letterboxd

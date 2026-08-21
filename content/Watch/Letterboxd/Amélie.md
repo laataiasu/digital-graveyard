@@ -1,9 +1,17 @@
 ---
-title: "Amélie"
-date: 2020-08-04
+title: Amélie
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2001
-letterboxd_uri: "https://letterboxd.com/film/amelie/"
 rating: 2.5
+url: "https://letterboxd.com/film/amelie/"
+source: letterboxd
 ---
+
+# Amélie
+
+- **Year:** 2001
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/amelie/
+- **Source:** letterboxd

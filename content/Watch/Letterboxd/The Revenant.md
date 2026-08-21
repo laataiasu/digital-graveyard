@@ -1,9 +1,17 @@
 ---
-title: "The Revenant"
-date: 2020-04-25
+title: The Revenant
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://letterboxd.com/film/the-revenant-2015/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-revenant-2015/"
+source: letterboxd
 ---
+
+# The Revenant
+
+- **Year:** 2015
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-revenant-2015/
+- **Source:** letterboxd

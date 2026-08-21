@@ -1,9 +1,17 @@
 ---
-title: "The Croods"
-date: 2020-04-26
+title: The Croods
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/the-croods/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-croods/"
+source: letterboxd
 ---
+
+# The Croods
+
+- **Year:** 2013
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-croods/
+- **Source:** letterboxd

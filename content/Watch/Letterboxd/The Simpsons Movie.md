@@ -1,9 +1,17 @@
 ---
-title: "The Simpsons Movie"
-date: 2021-10-15
+title: The Simpsons Movie
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2007
-letterboxd_uri: "https://letterboxd.com/film/the-simpsons-movie/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-simpsons-movie/"
+source: letterboxd
 ---
+
+# The Simpsons Movie
+
+- **Year:** 2007
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-simpsons-movie/
+- **Source:** letterboxd

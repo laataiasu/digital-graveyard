@@ -1,9 +1,17 @@
 ---
-title: "Christopher Robin"
-date: 2020-08-02
+title: Christopher Robin
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2018
-letterboxd_uri: "https://letterboxd.com/film/christopher-robin/"
 rating: 3.5
+url: "https://letterboxd.com/film/christopher-robin/"
+source: letterboxd
 ---
+
+# Christopher Robin
+
+- **Year:** 2018
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/christopher-robin/
+- **Source:** letterboxd

@@ -1,9 +1,17 @@
 ---
-title: "Insurgent"
-date: 2021-12-24
+title: Insurgent
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://letterboxd.com/film/insurgent/"
 rating: 2.5
+url: "https://letterboxd.com/film/insurgent/"
+source: letterboxd
 ---
+
+# Insurgent
+
+- **Year:** 2015
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/insurgent/
+- **Source:** letterboxd

@@ -1,19 +1,11 @@
 ---
-title: "Koe no Katachi"
+title: Koe no Katachi
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 28851
-series_title: Koe no Katachi
-series_type: MOVIE
-series_episodes: 1
-my_id: 413321985
-my_watched_episodes: 1
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 9
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: Koe no Katachi
+source: anilist
 ---
+
+# Koe no Katachi
+
+- **Source:** anilist

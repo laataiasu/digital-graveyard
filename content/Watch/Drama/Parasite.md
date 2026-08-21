@@ -1,19 +1,21 @@
 ---
-title: "Parasite"
+title: Parasite
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2019
-type: Movie
-score: 9
+country: South Korea
+status: 1/1
+rating: 9.0
 progress: 1/1
+source: mydramalist
 ---
 
 # Parasite
 
-- **Country:** South Korea
 - **Year:** 2019
-- **Type:** Movie
-- **Score:** 9.0
+- **Country:** South Korea
+- **Status:** 1/1
+- **Rating:** 9.0
 - **Progress:** 1/1
+- **Source:** mydramalist

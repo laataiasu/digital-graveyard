@@ -1,9 +1,17 @@
 ---
-title: "One Cut of the Dead"
-date: 2020-04-25
+title: One Cut of the Dead
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2017
-letterboxd_uri: "https://letterboxd.com/film/one-cut-of-the-dead/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/one-cut-of-the-dead/"
+source: letterboxd
 ---
+
+# One Cut of the Dead
+
+- **Year:** 2017
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/one-cut-of-the-dead/
+- **Source:** letterboxd

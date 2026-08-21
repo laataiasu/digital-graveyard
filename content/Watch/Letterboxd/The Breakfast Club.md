@@ -1,9 +1,17 @@
 ---
-title: "The Breakfast Club"
-date: 2021-11-07
+title: The Breakfast Club
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1985
-letterboxd_uri: "https://letterboxd.com/film/the-breakfast-club/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-breakfast-club/"
+source: letterboxd
 ---
+
+# The Breakfast Club
+
+- **Year:** 1985
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-breakfast-club/
+- **Source:** letterboxd

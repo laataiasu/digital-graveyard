@@ -1,9 +1,17 @@
 ---
 title: "Dune: Part Two"
-date: 2024-04-01
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2024
-letterboxd_uri: "https://letterboxd.com/film/dune-part-two/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/dune-part-two/"
+source: letterboxd
 ---
+
+# Dune: Part Two
+
+- **Year:** 2024
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/dune-part-two/
+- **Source:** letterboxd

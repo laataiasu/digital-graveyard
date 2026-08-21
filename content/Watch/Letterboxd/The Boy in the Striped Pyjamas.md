@@ -1,9 +1,17 @@
 ---
-title: "The Boy in the Striped Pyjamas"
-date: 2021-10-15
+title: The Boy in the Striped Pyjamas
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2008
-letterboxd_uri: "https://letterboxd.com/film/the-boy-in-the-striped-pyjamas/"
 rating: 2.5
+url: "https://letterboxd.com/film/the-boy-in-the-striped-pyjamas/"
+source: letterboxd
 ---
+
+# The Boy in the Striped Pyjamas
+
+- **Year:** 2008
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/the-boy-in-the-striped-pyjamas/
+- **Source:** letterboxd

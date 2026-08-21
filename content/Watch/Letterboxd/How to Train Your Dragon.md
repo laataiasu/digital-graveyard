@@ -1,9 +1,17 @@
 ---
-title: "How to Train Your Dragon"
-date: 2021-10-15
+title: How to Train Your Dragon
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2010
-letterboxd_uri: "https://letterboxd.com/film/how-to-train-your-dragon/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/how-to-train-your-dragon/"
+source: letterboxd
 ---
+
+# How to Train Your Dragon
+
+- **Year:** 2010
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/how-to-train-your-dragon/
+- **Source:** letterboxd

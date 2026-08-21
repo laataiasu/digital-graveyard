@@ -1,9 +1,17 @@
 ---
 title: "2001: A Space Odyssey"
-date: 2020-08-29
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1968
-letterboxd_uri: "https://letterboxd.com/film/2001-a-space-odyssey/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/2001-a-space-odyssey/"
+source: letterboxd
 ---
+
+# 2001: A Space Odyssey
+
+- **Year:** 1968
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/2001-a-space-odyssey/
+- **Source:** letterboxd

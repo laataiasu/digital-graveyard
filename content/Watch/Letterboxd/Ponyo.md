@@ -1,9 +1,17 @@
 ---
-title: "Ponyo"
-date: 2023-01-20
+title: Ponyo
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2008
-letterboxd_uri: "https://letterboxd.com/film/ponyo/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/ponyo/"
+source: letterboxd
 ---
+
+# Ponyo
+
+- **Year:** 2008
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/ponyo/
+- **Source:** letterboxd

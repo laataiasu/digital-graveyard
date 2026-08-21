@@ -102,7 +102,7 @@ def push_to_ierp(source_key: str, records: list) -> bool:
     if not records:
         return True
     with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as f:
-        json.dump(records, f, ensure_ascii=False)
+        json.dump(records, f, ensure_ascii=False, default=str)
         tmp = f.name
     try:
         result = subprocess.run(

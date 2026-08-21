@@ -1,19 +1,11 @@
 ---
-title: "Akame ga Kill!"
+title: Akame ga Kill!
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false
-series_animedb_id: 22199
-series_title: Akame ga Kill!
-series_type: TV
-series_episodes: 24
-my_id: 413321902
-my_watched_episodes: 24
-my_start_date: "0000-00-00"
-my_finish_date: "0000-00-00"
-my_score: 8
-my_status: Completed
-my_times_watched: 0
-my_priority: LOW
-manga_title: Akame ga Kill!
+source: anilist
 ---
+
+# Akame ga Kill!
+
+- **Source:** anilist

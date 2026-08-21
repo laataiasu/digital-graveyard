@@ -1,19 +1,21 @@
 ---
-title: "Reply 1988"
+title: Reply 1988
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2015
-type: Drama
-score: 8.5
+country: South Korea
+status: 20/20
+rating: 8.5
 progress: 20/20
+source: mydramalist
 ---
 
 # Reply 1988
 
-- **Country:** South Korea
 - **Year:** 2015
-- **Type:** Drama
-- **Score:** 8.5
+- **Country:** South Korea
+- **Status:** 20/20
+- **Rating:** 8.5
 - **Progress:** 20/20
+- **Source:** mydramalist

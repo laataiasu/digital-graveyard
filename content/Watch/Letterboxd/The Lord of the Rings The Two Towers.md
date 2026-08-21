@@ -1,9 +1,17 @@
 ---
 title: "The Lord of the Rings: The Two Towers"
-date: 2021-10-15
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2002
-letterboxd_uri: "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/"
+source: letterboxd
 ---
+
+# The Lord of the Rings: The Two Towers
+
+- **Year:** 2002
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/
+- **Source:** letterboxd

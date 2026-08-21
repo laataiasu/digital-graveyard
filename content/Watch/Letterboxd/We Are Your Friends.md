@@ -1,9 +1,17 @@
 ---
-title: "We Are Your Friends"
-date: 2021-10-15
+title: We Are Your Friends
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://letterboxd.com/film/we-are-your-friends/"
-rating: 2
+rating: 2.0
+url: "https://letterboxd.com/film/we-are-your-friends/"
+source: letterboxd
 ---
+
+# We Are Your Friends
+
+- **Year:** 2015
+- **Rating:** 2.0
+- **Url:** https://letterboxd.com/film/we-are-your-friends/
+- **Source:** letterboxd

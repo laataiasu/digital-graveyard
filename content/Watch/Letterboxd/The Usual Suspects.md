@@ -1,9 +1,17 @@
 ---
-title: "The Usual Suspects"
-date: 2020-04-25
+title: The Usual Suspects
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1995
-letterboxd_uri: "https://letterboxd.com/film/the-usual-suspects/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/the-usual-suspects/"
+source: letterboxd
 ---
+
+# The Usual Suspects
+
+- **Year:** 1995
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/the-usual-suspects/
+- **Source:** letterboxd

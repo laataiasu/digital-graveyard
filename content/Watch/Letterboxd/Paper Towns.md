@@ -1,9 +1,17 @@
 ---
-title: "Paper Towns"
-date: 2021-10-15
+title: Paper Towns
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2015
-letterboxd_uri: "https://letterboxd.com/film/paper-towns/"
 rating: 2.5
+url: "https://letterboxd.com/film/paper-towns/"
+source: letterboxd
 ---
+
+# Paper Towns
+
+- **Year:** 2015
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/paper-towns/
+- **Source:** letterboxd

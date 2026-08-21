@@ -1,9 +1,17 @@
 ---
-title: "Pulp Fiction"
-date: 2020-04-26
+title: Pulp Fiction
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1994
-letterboxd_uri: "https://letterboxd.com/film/pulp-fiction/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/pulp-fiction/"
+source: letterboxd
 ---
+
+# Pulp Fiction
+
+- **Year:** 1994
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/pulp-fiction/
+- **Source:** letterboxd

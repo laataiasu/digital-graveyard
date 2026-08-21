@@ -1,9 +1,17 @@
 ---
 title: "The Mind, Explained"
-date: 2022-06-20
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2019
-letterboxd_uri: "https://letterboxd.com/film/the-mind-explained/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-mind-explained/"
+source: letterboxd
 ---
+
+# The Mind, Explained
+
+- **Year:** 2019
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-mind-explained/
+- **Source:** letterboxd

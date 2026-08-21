@@ -1,9 +1,17 @@
 ---
-title: "Incendies"
-date: 2020-08-07
+title: Incendies
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2010
-letterboxd_uri: "https://letterboxd.com/film/incendies/"
-rating: 4
+rating: 4.0
+url: "https://letterboxd.com/film/incendies/"
+source: letterboxd
 ---
+
+# Incendies
+
+- **Year:** 2010
+- **Rating:** 4.0
+- **Url:** https://letterboxd.com/film/incendies/
+- **Source:** letterboxd

@@ -1,9 +1,17 @@
 ---
-title: "Moneyball"
-date: 2021-10-15
+title: Moneyball
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2011
-letterboxd_uri: "https://letterboxd.com/film/moneyball/"
 rating: 3.5
+url: "https://letterboxd.com/film/moneyball/"
+source: letterboxd
 ---
+
+# Moneyball
+
+- **Year:** 2011
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/moneyball/
+- **Source:** letterboxd

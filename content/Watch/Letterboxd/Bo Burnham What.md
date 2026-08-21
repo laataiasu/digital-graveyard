@@ -1,9 +1,17 @@
 ---
 title: "Bo Burnham: What."
-date: 2021-12-22
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/bo-burnham-what/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/bo-burnham-what/"
+source: letterboxd
 ---
+
+# Bo Burnham: What.
+
+- **Year:** 2013
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/bo-burnham-what/
+- **Source:** letterboxd

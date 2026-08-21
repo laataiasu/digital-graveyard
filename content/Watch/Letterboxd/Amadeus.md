@@ -1,9 +1,17 @@
 ---
-title: "Amadeus"
-date: 2021-12-17
+title: Amadeus
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 1984
-letterboxd_uri: "https://letterboxd.com/film/amadeus/"
-rating: 3
+rating: 3.0
+url: "https://letterboxd.com/film/amadeus/"
+source: letterboxd
 ---
+
+# Amadeus
+
+- **Year:** 1984
+- **Rating:** 3.0
+- **Url:** https://letterboxd.com/film/amadeus/
+- **Source:** letterboxd

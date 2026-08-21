@@ -1,9 +1,17 @@
 ---
-title: "The Garden of Words"
-date: 2021-10-15
+title: The Garden of Words
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2013
-letterboxd_uri: "https://letterboxd.com/film/the-garden-of-words/"
 rating: 3.5
+url: "https://letterboxd.com/film/the-garden-of-words/"
+source: letterboxd
 ---
+
+# The Garden of Words
+
+- **Year:** 2013
+- **Rating:** 3.5
+- **Url:** https://letterboxd.com/film/the-garden-of-words/
+- **Source:** letterboxd

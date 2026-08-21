@@ -1,9 +1,17 @@
 ---
-title: "A Diary of Letters to God"
-date: 2021-12-17
+title: A Diary of Letters to God
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2017
-letterboxd_uri: "https://letterboxd.com/film/a-diary-of-letters-to-god/"
 rating: 2.5
+url: "https://letterboxd.com/film/a-diary-of-letters-to-god/"
+source: letterboxd
 ---
+
+# A Diary of Letters to God
+
+- **Year:** 2017
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/a-diary-of-letters-to-god/
+- **Source:** letterboxd

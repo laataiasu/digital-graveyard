@@ -1,9 +1,17 @@
 ---
-title: "Skyfall"
-date: 2021-10-15
+title: Skyfall
+date: 2016-01-01
 tags: [film]
 publish_external: false
 year: 2012
-letterboxd_uri: "https://letterboxd.com/film/skyfall/"
 rating: 2.5
+url: "https://letterboxd.com/film/skyfall/"
+source: letterboxd
 ---
+
+# Skyfall
+
+- **Year:** 2012
+- **Rating:** 2.5
+- **Url:** https://letterboxd.com/film/skyfall/
+- **Source:** letterboxd

@@ -1,19 +1,21 @@
 ---
-title: "Boys over Flowers"
+title: Boys over Flowers
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false
-country: South Korea
 year: 2009
-type: Drama
-score: 5
+country: South Korea
+status: 25/25
+rating: 5.0
 progress: 25/25
+source: mydramalist
 ---
 
 # Boys over Flowers
 
-- **Country:** South Korea
 - **Year:** 2009
-- **Type:** Drama
-- **Score:** 5.0
+- **Country:** South Korea
+- **Status:** 25/25
+- **Rating:** 5.0
 - **Progress:** 25/25
+- **Source:** mydramalist
