@@ -1,5 +1,5 @@
 ---
-title: "Natural Languange Processing"
+title: "Natural Language Processing"
 date: 2001-01-01
 tags: [note]
 publish_external: false

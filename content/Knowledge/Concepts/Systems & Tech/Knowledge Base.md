@@ -82,7 +82,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 
 - [[Data]]
 - [[Data Engineering]]
-- [[Natural Languange Processing]]
+- [[Natural Language Processing]]
 - [[Udacity Data Engineering Nanodegree]]
 - [[Empower Gen AI apps with tool use]]
 - [[AB Testing]]
