@@ -1,5 +1,5 @@
 ---
-title: "AI for Trading"
+title: "2024-08-13 AI for Trading"
 date: 2024-08-13
 tags: [journal]
 publish_external: false

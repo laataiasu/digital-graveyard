@@ -42,3 +42,7 @@ Overall lumayan bagus bukunya, cuman masuk ke bagian tentang happiness saya kura
 ### Bukunya bisa didownload gratis disini:
 
 ### https://www.navalmanack.com/
+
+---
+
+[[The Almanack of Naval Ravikant A Guide to Wealth and Happiness]]

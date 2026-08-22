@@ -1,5 +1,5 @@
 ---
-title: "2023-03-06"
+title: "2023-03-06 Soshum Is Slow"
 date: 2023-03-06
 tags: [journal]
 publish_external: false

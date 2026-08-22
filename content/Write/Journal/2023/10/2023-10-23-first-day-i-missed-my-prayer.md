@@ -1,5 +1,5 @@
 ---
-title: "First Day I Missed My Prayer"
+title: "2023-10-23 First Day I Missed My Prayer"
 date: 2023-10-23
 tags: [journal]
 publish_external: false

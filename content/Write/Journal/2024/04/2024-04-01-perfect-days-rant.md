@@ -1,5 +1,5 @@
 ---
-title: "Perfect Days Rant"
+title: "2024-04-01 Perfect Days Rant"
 date: 2024-04-01
 tags: [journal]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: "2024-06-06"
+title: "2024-06-06 Unempathetic Ape In Apres Film"
 date: 2024-06-06
 tags: [journal]
 publish_external: false

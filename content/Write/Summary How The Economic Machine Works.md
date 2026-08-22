@@ -1,8 +1,8 @@
 ---
-title: "How The Economic Machine Works"
-date: 2001-01-01
-tags: [book]
-publish_external: false
+title: "Summary How The Economic Machine Works"
+date: 2024-01-01
+tags: [note]
+publish_external: true
 ---
 
 # How The Economic Machine Works
@@ -57,3 +57,7 @@ publish_external: false
    - **Rule 1**: Don't allow debt to rise faster than income.
    - **Rule 2**: Don’t allow income to rise faster than productivity.
    - **Rule 3**: Focus on raising productivity to maintain competitiveness and sustainable growth.
+
+---
+
+[[How the Economic Machine Works]]

@@ -1,5 +1,5 @@
 ---
-title: "2024-04-03"
+title: "2024-04-03 Last Day Of Neural Technologies Indonesia"
 date: 2024-04-03
 tags: [journal]
 publish_external: false

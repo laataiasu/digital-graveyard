@@ -42,3 +42,7 @@ I realize now that I blame Robert Kiyosaki because I need a scapegoat. His book 
 I don’t know if I need a total pivot or if I just need to change how I see the world. But I’m tired of hoarding money for a life I’m too afraid to live. I’m tired of the "meaningless job."
 
 Maybe the first step is admitting that the "Poor Dad" was right all along: there is more to a career than just how much money you make.
+
+---
+
+[[Rich Dad Poor Dad]]

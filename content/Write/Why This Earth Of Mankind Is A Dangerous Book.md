@@ -89,3 +89,7 @@ Can they decide that a lot of environmental and ecological problems are caused b
 Are they going to oppress "purification" which they produce virus to be implanted in our brain so that we don't do stupid things, so that every human will be just the same, to make "good" all of humanbeing. Is it good or bad?
 
 And I think it is the main problem why Bumi Manusia is dangerous. Our society today continues to step on the gas in the development of science with the aim of humanity. They don't know that humanity is really dangerous. It is the reason why the Suharto regime prohibited the circulation of this book. The book teaches about humanity. And that is no good for anyone, apart from the humans themselves?
+
+---
+
+[[Bumi Manusia]]

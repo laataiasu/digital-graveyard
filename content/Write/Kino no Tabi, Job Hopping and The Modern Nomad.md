@@ -24,3 +24,7 @@ Kino desires to experience different company cultures, each with distinct traits
 Kino doesn't recognize that she suppresses her desire to travel beyond the realm of companies due to resource limitations. She rationalizes her choice and denounces those who can freely enjoy nonsensical sceneries.
 
 Ultimately, job hopping reflects the new form of nomadism. Not all wanderers are adrift; their purpose may shift over time. Nomads can be perceived as purposeful explorers at one point and aimless individuals evading reality or acting against national interests in another context. This fluid perception stems from societal constructs and varying perspectives.
+
+---
+
+[[Kino no Tabi the Beautiful World]]

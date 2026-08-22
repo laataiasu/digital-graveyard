@@ -1,5 +1,5 @@
 ---
-title: "A Month Doing Nothing"
+title: "2024-08-31 A Month Doing Nothing"
 date: 2024-08-31
 tags: [journal]
 publish_external: false

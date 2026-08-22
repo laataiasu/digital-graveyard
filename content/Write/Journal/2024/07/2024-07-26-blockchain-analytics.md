@@ -1,5 +1,5 @@
 ---
-title: "Blockchain Analytics"
+title: "2024-07-26 Blockchain Analytics"
 date: 2024-07-26
 tags: [journal]
 publish_external: false

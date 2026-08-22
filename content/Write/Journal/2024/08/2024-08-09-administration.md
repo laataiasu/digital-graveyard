@@ -1,5 +1,5 @@
 ---
-title: "Administration"
+title: "2024-08-09 Administration"
 date: 2024-08-09
 tags: [journal]
 publish_external: false

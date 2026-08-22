@@ -2,7 +2,7 @@
 title: "MarkGarden"
 date: 2026-08-22
 tags: [software]
-publish_external: false
+publish_external: true
 ---
 
 # MarkGarden

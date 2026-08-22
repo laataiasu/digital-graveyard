@@ -1,5 +1,5 @@
 ---
-title: "Art Is Dead"
+title: "2025-05-11 Art Is Dead"
 date: 2025-05-11
 tags: [journal]
 publish_external: false

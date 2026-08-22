@@ -1,5 +1,5 @@
 ---
-title: "Ngaji Filsafat"
+title: "2024-08-12 Ngaji Filsafat"
 date: 2024-08-12
 tags: [journal]
 publish_external: false

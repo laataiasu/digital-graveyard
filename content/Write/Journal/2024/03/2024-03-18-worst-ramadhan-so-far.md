@@ -1,5 +1,5 @@
 ---
-title: "2024-03-18"
+title: "2024-03-18 Worst Ramadhan So Far"
 date: 2024-03-18
 tags: [journal]
 publish_external: false

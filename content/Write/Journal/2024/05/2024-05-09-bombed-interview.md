@@ -1,5 +1,5 @@
 ---
-title: "Bombed Interview"
+title: "2024-05-09 Bombed Interview"
 date: 2024-05-09
 tags: [journal]
 publish_external: false

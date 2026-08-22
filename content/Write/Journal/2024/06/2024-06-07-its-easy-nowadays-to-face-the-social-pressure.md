@@ -1,5 +1,5 @@
 ---
-title: "Its Easy Nowadays to Face the Social Pressure"
+title: "2024-06-07 Its Easy Nowadays To Face The Social Pressure"
 date: 2024-06-07
 tags: [journal]
 publish_external: false

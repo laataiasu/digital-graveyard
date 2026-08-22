@@ -1,5 +1,5 @@
 ---
-title: "Last Day at Telkomsel DQM Project"
+title: "2025-04-30 Last Day At Telkomsel Dqm Project"
 date: 2025-04-30
 tags: [journal]
 publish_external: false

@@ -32,3 +32,7 @@ Banyak hikmah yang bisa diambil, salah satunya cheat dr warcraft III,
 *`greedisgood`*
 
 yang nanggung beban ujung2nya orang2 polos nan kurang beruntung, FFFFFF
+
+---
+
+[[Liar s Poker]]

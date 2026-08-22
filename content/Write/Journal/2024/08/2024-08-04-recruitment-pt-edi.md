@@ -1,5 +1,5 @@
 ---
-title: "Recruitment PT EDI"
+title: "2024-08-04 Recruitment Pt Edi"
 date: 2024-08-04
 tags: [journal]
 publish_external: false

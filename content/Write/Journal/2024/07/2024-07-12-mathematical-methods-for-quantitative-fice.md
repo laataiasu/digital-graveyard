@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Methods for Quantitative Finance"
+title: "2024-07-12 Mathematical Methods For Quantitative Fice"
 date: 2024-07-12
 tags: [journal]
 publish_external: false

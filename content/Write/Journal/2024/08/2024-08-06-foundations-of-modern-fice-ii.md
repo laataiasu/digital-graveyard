@@ -1,5 +1,5 @@
 ---
-title: "Foundations of Modern Finance II"
+title: "2024-08-06 Foundations Of Modern Fice Ii"
 date: 2024-08-06
 tags: [journal]
 publish_external: false

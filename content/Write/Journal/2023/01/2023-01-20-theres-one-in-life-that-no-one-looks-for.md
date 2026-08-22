@@ -1,5 +1,5 @@
 ---
-title: "2023-01-20"
+title: "2023-01-20 Theres One In Life That No One Looks For"
 date: 2023-01-20
 tags: [journal]
 publish_external: false

@@ -24,3 +24,7 @@ Tidak perlu terlihat besar. Penjual batagor yang menunggu di depan gerbang STM, 
 Semuanya boleh jadi percaya dan tidak percaya, tapi mereka tidak peduli dengan kata-kata. Maka sesederhana itulah kehidupan. Jangan menunggu untuk disentuh, cobalah menyentuh secara perlahan, tidak peduli ukuran, karena sentuhan itu bukan zero sum game, meskipun itu berasal dari ketakutan. Sentuhan itu akan menghidupkan ia yang memulai, atau ia yang tersentuh.
 
 الْمَاشِيَانِ إِذَا اجْتَمَعَا فَأَيُّهُمَا بَدَأَ بِالسَّلاَمِ فَهُوَ أَفْضَلُ
+
+---
+
+[[Chungking Express]]

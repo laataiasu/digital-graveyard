@@ -196,3 +196,7 @@ Conclusion:
 - Israel scores high on egalitarianism, nurturing, and individualism.
 - Emphasis on audacity and innovation.
 - Many successes, often achieved with a distinctive Israeli approach.
+
+---
+
+[[Start-up Nation The Story of Israel s Economic Miracle]]

@@ -1,5 +1,5 @@
 ---
-title: "JavaFX"
+title: "Java DDP2"
 date: 2021-06-29
 tags: [note]
 publish_external: true

@@ -1,5 +1,5 @@
 ---
-title: "Do Nothing"
+title: "2024-08-21 Do Nothing"
 date: 2024-08-21
 tags: [journal]
 publish_external: false

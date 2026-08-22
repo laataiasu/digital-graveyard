@@ -55,3 +55,7 @@ What is clear, Brooks died because he was unable to remain in something he longe
 And why was Brooks looked so guilty when he's like Andy, like us, that with whatever we do, we just want to be a part of something .
 
 ![[corey-blake-brooks.jpg]]
+
+---
+
+[[The Shawshank Redemption]]

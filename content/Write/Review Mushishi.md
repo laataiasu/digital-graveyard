@@ -1,5 +1,5 @@
 ---
-title: "Mushishi"
+title: "Review Mushishi"
 date: 2020-09-09
 tags: [review, film]
 publish_external: true
@@ -33,3 +33,6 @@ I guess every rational man assume that this is wasting time. By watching this, y
 
 But if you're looking for something which makes you more aware of the world that you didn't know or just want to spend your time watching a supernatural, philosophical things and the slice of life, I really recommend you to watching this.
 
+---
+
+[[Mushishi]]

@@ -1,9 +1,10 @@
 ---
-title: "First Earthquake"
+title: "2024-04-28 First Earthquake"
 date: 2024-04-28
 tags: [journal]
 publish_external: false
 draft: true
+aliases: [First Earthquake]
 ---
 
 2024-04-28 - first earthquake

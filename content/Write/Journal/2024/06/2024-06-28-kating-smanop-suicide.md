@@ -1,5 +1,5 @@
 ---
-title: "Kating Smanop Suicide"
+title: "2024-06-28 Kating Smanop Suicide"
 date: 2024-06-28
 tags: [journal]
 publish_external: false

@@ -1,11 +1,11 @@
 ---
-title: "Silicon Valley"
+title: "Media & Books Quotes"
 date: 2001-01-01
-tags: [book]
+tags: [reflection]
 publish_external: false
 ---
 
-- [[Silicon Valley]]
+- Silicon Valley
     - Galvin Belson
     - Bighead
     - Gilfoyle
@@ -19,7 +19,7 @@ publish_external: false
 - [[Haikyuu]]
 - [[Nassim Nicholas Taleb]]
 - [[Benoit Mandelbrot]]
-- [[Mr. Robot]]
+- Mr. Robot
 - [[Naruto]]
 # Silicon Valley
 ### Galvin Belson

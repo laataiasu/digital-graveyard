@@ -1,5 +1,5 @@
 ---
-title: "Started Praying Again"
+title: "2024-06-13 Started Praying Again"
 date: 2024-06-13
 tags: [journal]
 publish_external: false

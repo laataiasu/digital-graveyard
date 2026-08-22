@@ -1,5 +1,5 @@
 ---
-title: "I Go to Univ Not Because I Want to"
+title: "2024-06-08 I Go To Univ Not Because I Want To"
 date: 2024-06-08
 tags: [journal]
 publish_external: false

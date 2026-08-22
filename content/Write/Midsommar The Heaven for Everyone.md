@@ -82,3 +82,7 @@ When it happened, it shows us
 that we are in the Heaven
 
 ![[midsommar2.jpg]]
+
+---
+
+[[Midsommar]]

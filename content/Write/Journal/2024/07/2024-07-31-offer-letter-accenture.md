@@ -1,5 +1,5 @@
 ---
-title: "Offer Letter Accenture"
+title: "2024-07-31 Offer Letter Accenture"
 date: 2024-07-31
 tags: [journal]
 publish_external: false

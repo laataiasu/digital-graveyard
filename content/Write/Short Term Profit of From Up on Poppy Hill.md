@@ -63,3 +63,7 @@ But "From Up on Poppy Hill" is not doing that. It didn't continue the stairs, it
 So what is the meaning of From Up on Poppy Hill? Nothing. It is just awkward romanticism full of coercion, peppered with expectations of responsibility, braveness, history, philosophy, and logic, where the flavors are very bland and all that remains is strange romance that has expired.
 
 After all, what can you expect from science?
+
+---
+
+[[From Up on Poppy Hill]]

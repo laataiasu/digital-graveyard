@@ -17,4 +17,8 @@ everything is nothing but a mere elementary school/kindergarten friendship bully
 
 by the way, regret is a gift.
 
-dulu ane sumpahin yg jelek2 buat yg nipu jual char LS, skrng justru ngerasa bersyukur pernah ditipu, akibatnya jd punya tingkat skeptical lumayan tinggi, walau minusnya ya sedikit trust issue. tapi ya sejauh ini gapernah ketipu ginian... 
+dulu ane sumpahin yg jelek2 buat yg nipu jual char LS, skrng justru ngerasa bersyukur pernah ditipu, akibatnya jd punya tingkat skeptical lumayan tinggi, walau minusnya ya sedikit trust issue. tapi ya sejauh ini gapernah ketipu ginian...
+
+---
+
+[[The Boy and the Heron]]

@@ -1,5 +1,5 @@
 ---
-title: "2024-04-06"
+title: "2024-04-06 Fail In College"
 date: 2024-04-06
 tags: [journal]
 publish_external: false

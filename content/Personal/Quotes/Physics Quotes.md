@@ -1,5 +1,5 @@
 ---
-title: "Physics"
+title: "Physics Quotes"
 date: 2001-01-01
 tags: [reflection]
 publish_external: false

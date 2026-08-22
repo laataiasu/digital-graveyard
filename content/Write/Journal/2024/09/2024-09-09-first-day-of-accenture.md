@@ -1,5 +1,5 @@
 ---
-title: "2024-09-09"
+title: "2024-09-09 First Day Of Accenture"
 date: 2024-09-09
 tags: [journal]
 publish_external: false

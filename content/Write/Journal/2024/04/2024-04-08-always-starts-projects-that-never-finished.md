@@ -1,5 +1,5 @@
 ---
-title: "2024-04-08"
+title: "2024-04-08 Always Starts Projects That Never Finished"
 date: 2024-04-08
 tags: [journal]
 publish_external: false

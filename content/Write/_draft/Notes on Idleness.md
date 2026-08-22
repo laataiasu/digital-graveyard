@@ -1,5 +1,5 @@
 ---
-title: "George Orwell"
+title: "Notes on Idleness"
 date: 2001-01-01
 tags: [essay]
 publish_external: false

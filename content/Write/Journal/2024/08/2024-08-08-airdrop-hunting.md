@@ -1,5 +1,5 @@
 ---
-title: "Airdrop Hunting"
+title: "2024-08-08 Airdrop Hunting"
 date: 2024-08-08
 tags: [journal]
 publish_external: false

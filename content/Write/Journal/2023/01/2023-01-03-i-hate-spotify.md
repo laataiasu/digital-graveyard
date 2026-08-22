@@ -1,5 +1,5 @@
 ---
-title: "I Hate Spotify"
+title: "2023-01-03 I Hate Spotify"
 date: 2023-01-03
 tags: [journal]
 publish_external: false

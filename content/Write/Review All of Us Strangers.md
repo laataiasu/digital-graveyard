@@ -29,3 +29,7 @@ it's just gay is not my cup of tea. and yeah im pervert because i just like lesb
 maybe i just born with it, maybe i was born with hateful and resentment towards gay people as gay people born with feelings for the same sex that attract their attention.
 
 maybe im just a hateful person.
+
+---
+
+[[All of Us Strangers]]

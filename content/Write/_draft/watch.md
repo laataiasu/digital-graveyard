@@ -1,5 +1,5 @@
 ---
-title: "watch"
+title: "Watch List Draft"
 date: 2026-08-22
 tags: [essay]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: "Kaki Bocil Palestin"
+title: "2025-05-16 Kaki Bocil Palestin"
 date: 2025-05-16
 tags: [journal]
 publish_external: false

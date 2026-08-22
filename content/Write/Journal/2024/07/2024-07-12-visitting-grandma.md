@@ -1,5 +1,5 @@
 ---
-title: "Visitting Grandma"
+title: "2024-07-12 Visitting Grandma"
 date: 2024-07-12
 tags: [journal]
 publish_external: false

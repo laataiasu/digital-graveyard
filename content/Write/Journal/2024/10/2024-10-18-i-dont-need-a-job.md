@@ -1,5 +1,5 @@
 ---
-title: "2024-10-18"
+title: "2024-10-18 I Dont Need A Job"
 date: 2024-10-18
 tags: [journal]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: "Been Unemployed for 2 Months"
+title: "2024-05-31 Been Unemployed For 2 Months"
 date: 2024-05-31
 tags: [journal]
 publish_external: false

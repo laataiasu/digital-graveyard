@@ -83,3 +83,7 @@ Usaha sia-sia yang indah
 Untuk menemukan "sesuatu" itu
 
 "Mengejek diri sendiri dengan pekerjaan sendiri barangkali merupakan kesenangan yang manja. Mungkin dari sanalah lahir dunia hayalnya yang patut dikasihani"
+
+---
+
+[[Daerah Salju]]
