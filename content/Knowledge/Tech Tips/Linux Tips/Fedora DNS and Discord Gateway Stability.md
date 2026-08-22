@@ -2,7 +2,7 @@
 title: "Fedora DNS and Discord Gateway Stability"
 date: 2026-08-21
 tags: [guide, linux, fedora, dns, discord]
-publish_external: false
+publish_external: true
 ---
 
 ## The problem
