@@ -1,7 +1,7 @@
 ---
 title: "You Must Join a Cult"
 date: 2024-02-13
-tags: [journal, essay]
+tags: [essay]
 publish_external: true
 ---
 

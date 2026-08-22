@@ -1,7 +1,7 @@
 ---
 title: "Announcing My Dead Dreams"
 date: 2023-10-02
-tags: [journal, essay]
+tags: [essay]
 publish_external: false
 ---
 

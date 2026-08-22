@@ -1,7 +1,7 @@
 ---
 title: "Blind Positivity"
 date: 2024-01-09
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

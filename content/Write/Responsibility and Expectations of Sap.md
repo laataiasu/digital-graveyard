@@ -1,7 +1,7 @@
 ---
 title: "Responsibility and Expectations of Sap"
 date: 2020-08-26
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

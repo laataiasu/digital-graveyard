@@ -1,7 +1,7 @@
 ---
 title: "Peter Singer - Ordinary People Are Evil"
 date: 2023-11-30
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

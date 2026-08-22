@@ -1,7 +1,7 @@
 ---
 title: "The Fallacy of Effectiveness and Kemubaziran"
 date: 2023-09-06
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

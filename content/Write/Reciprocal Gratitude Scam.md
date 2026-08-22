@@ -1,7 +1,7 @@
 ---
 title: "Reciprocal Gratitude Scam"
 date: 2023-09-16
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

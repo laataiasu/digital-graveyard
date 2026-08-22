@@ -1,7 +1,7 @@
 ---
 title: "My First Hackathon"
 date: 2022-10-16
-tags: [journal, essay]
+tags: [journal]
 publish_external: true
 ---
 

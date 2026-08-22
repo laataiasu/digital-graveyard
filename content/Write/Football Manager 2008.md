@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2008"
 date: 2021-12-09
-tags: [essay, journal]
+tags: [essay]
 publish_external: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hipotesis"
 date: 2019-11-12
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hatred is 'Fitrah"
 date: 2023-11-30
-tags: [journal, essay]
+tags: [reflection]
 publish_external: false
 ---
 

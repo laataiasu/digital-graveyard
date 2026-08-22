@@ -1,7 +1,7 @@
 ---
 title: "Building Surveillence-Driven System to Understand More about Religion Groups"
 date: 2023-11-01
-tags: [journal, essay]
+tags: [essay]
 publish_external: true
 ---
 

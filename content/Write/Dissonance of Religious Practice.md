@@ -1,7 +1,7 @@
 ---
 title: "Dissonance of Religious Practice"
 date: 2016-06-06
-tags: [journal, essay]
+tags: [essay]
 publish_external: false
 ---
 

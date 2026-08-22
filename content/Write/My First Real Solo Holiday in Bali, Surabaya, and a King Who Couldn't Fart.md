@@ -1,7 +1,7 @@
 ---
 title: "My First Real Solo Holiday in Bali, Surabaya, and a King Who Couldn't Fart"
 date: 2026-06-15
-tags: [journal, reflection]
+tags: [journal]
 publish_external: true
 ---
 

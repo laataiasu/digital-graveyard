@@ -1,7 +1,7 @@
 ---
 title: "Belajar dari Jira"
 date: 2022-09-13
-tags: [journal, essay]
+tags: [essay]
 publish_external: true
 ---
 

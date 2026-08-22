@@ -1,7 +1,7 @@
 ---
 title: "I miss JIRA and I Hate Non-jujutsu Sorcerers"
 date: 2023-09-04
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

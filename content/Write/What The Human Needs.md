@@ -1,7 +1,7 @@
 ---
 title: "What The Human Needs"
 date: 2021-05-22
-tags: [essay, journal]
+tags: [reflection]
 publish_external: true
 ---
 

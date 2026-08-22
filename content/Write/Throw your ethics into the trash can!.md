@@ -1,7 +1,7 @@
 ---
 title: "Throw your ethics into the trash can!"
 date: 2023-10-14
-tags: [journal, essay]
+tags: [reflection]
 publish_external: false
 ---
 

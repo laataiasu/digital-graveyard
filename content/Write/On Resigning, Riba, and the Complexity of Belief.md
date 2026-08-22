@@ -1,7 +1,7 @@
 ---
 title: "On Resigning, Riba, and the Complexity of Belief"
 date: 2026-05-23
-tags: [journal, reflection]
+tags: [journal]
 publish_external: false
 ---
 

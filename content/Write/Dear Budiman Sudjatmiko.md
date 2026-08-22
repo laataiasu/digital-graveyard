@@ -1,7 +1,7 @@
 ---
 title: "Dear Budiman Sudjatmiko"
 date: 2023-08-20
-tags: [journal, essay]
+tags: [essay]
 publish_external: false
 ---
 

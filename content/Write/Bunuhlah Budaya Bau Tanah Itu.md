@@ -1,7 +1,7 @@
 ---
 title: "Bunuhlah Budaya Bau Tanah Itu!"
 date: 2023-12-20
-tags: [journal, essay]
+tags: [essay]
 publish_external: true
 ---
 

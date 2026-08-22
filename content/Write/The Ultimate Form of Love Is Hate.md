@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Form of Love Is Hate"
 date: 2024-01-14
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Fallacy of Fractal ~ Nature Is the Best"
 date: 2023-09-23
-tags: [journal, essay]
+tags: [journal]
 publish_external: false
 ---
 

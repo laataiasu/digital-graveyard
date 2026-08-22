@@ -1,7 +1,7 @@
 ---
 title: "Smartband is a pain in the ass"
 date: 2023-12-08
-tags: [journal, essay]
+tags: [reflection]
 publish_external: true
 ---
 
