@@ -9,21 +9,21 @@ publish_external: false
 | Name                                                                                                      | Fiction?    | Category                          | Status         | Score /5 | Finish Date     | Author                        | Link |
 | --------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------- | -------------- | -------- | --------------- | ----------------------------- | ---- |
 | [[Antifragile]]                                                                                           |             |                                   |                |          |                 |                               |      |
-| Influence- The Psychology of Persuasion                                                               |             |                                   |                |          |                 | Robert B. Cialdini            |      |
+| [[Influence- The Psychology of Persuasion]]                                                               |             |                                   |                |          |                 | Robert B. Cialdini            |      |
 | [[ML]]                                                                                                    | Non-fiction | Computer Science                  | Postponed      |          |                 |                               |      |
 | [[Sapiens]]                                                                                               | Non-fiction | History, Philosophy               | Finished       |          |                 |                               |      |
-| Kata-kata                                                                                             | Fiction     | Philosophy                        | Postponed      |          |                 | Sartre                        |      |
-| Dunia Sophie                                                                                          | Non-fiction | Philosophy                        | Finished       |          |                 | Jostein Gaarder               |      |
-| Physics of The Future                                                                                 | Non-fiction | Physics, Science                  | Finished       |          |                 | Michio Kaku                   |      |
-| Intelligent Investor                                                                                  | Non-fiction | Business, Finance, Money          | Postponed      |          |                 | Benjamin Graham               |      |
-| [[Review Zero to One]]                                                                                           | Non-fiction | Business, Money, Selfckn Help     | Finished       |          |                 | [[Peter Thiel]]               |      |
-| Cicero mistakes of man                                                                                | Non-fiction | Selfckn Help                      | Ready to Start |          |                 |                               |      |
-| How to win friends                                                                                    | Non-fiction | Selfckn Help                      | Finished       |          |                 |                               |      |
-| Peak - How to master everything                                                                       | Non-fiction | Selfckn Help                      | Reading        |          |                 | Anders Ericsson, Robert Pool  |      |
-| 4 Khalifah                                                                                            | Non-fiction | Agama                             | Finished       |          |                 |                               |      |
-| [[Tahafut Al-Falasifah]]                                                                                  | Non-fiction | Agama                             | Postponed      |          |                 |                               |      |
+| [[Kata-kata]]                                                                                             | Fiction     | Philosophy                        | Postponed      |          |                 | Sartre                        |      |
+| [[Dunia Sophie]]                                                                                          | Non-fiction | Philosophy                        | Finished       |          |                 | Jostein Gaarder               |      |
+| [[Physics of The Future]]                                                                                 | Non-fiction | Physics, Science                  | Finished       |          |                 | Michio Kaku                   |      |
+| [[Intelligent Investor]]                                                                                  | Non-fiction | Business, Finance, Money          | Postponed      |          |                 | Benjamin Graham               |      |
+| [[Review Zero to One]]                                                                                           | Non-fiction | Business, Money, Selfckn Help     | Finished       |          |                 | [[Tags/Figure/Peter Thiel]]               |      |
+| [[Cicero mistakes of man]]                                                                                | Non-fiction | Selfckn Help                      | Ready to Start |          |                 |                               |      |
+| [[How to win friends]]                                                                                    | Non-fiction | Selfckn Help                      | Finished       |          |                 |                               |      |
+| [[Peak - How to master everything]]                                                                       | Non-fiction | Selfckn Help                      | Reading        |          |                 | Anders Ericsson, Robert Pool  |      |
+| [[4 Khalifah]]                                                                                            | Non-fiction | Agama                             | Finished       |          |                 |                               |      |
+| [[Tahafut Al Falasifah]]                                                                                  | Non-fiction | Agama                             | Postponed      |          |                 |                               |      |
 | [[Qadha Qadar]]                                                                                           | Non-fiction | Agama                             | Postponed      |          |                 |                               |      |
-| The Road to Reality                                                                                   | Non-fiction | Physics, Science                  | Reading        |          |                 | Roger Penrose                 |      |
+| [[The Road to Reality]]                                                                                   | Non-fiction | Physics, Science                  | Reading        |          |                 | Roger Penrose                 |      |
 | [[Lean Startup]]                                                                                          | Non-fiction | Business                          | Reading        |          |                 |                               |      |
 | [[Flash Boys Book Michael Lewis Allen Cheng]]                                                             | Non-fiction | Business, Finance                 | Finished       |          | August 24, 2021 | Michael Lewis                 |      |
 | [[The Undoing Project Michael Lewis by Michael Batko]]                                                    | Non-fiction | Business, Psychology              | Finished       |          | August 24, 2021 | Michael Lewis                 |      |
@@ -46,7 +46,7 @@ publish_external: false
 | [[Shoe Dog -- A Memoir by the Creator of Nike by Michael Batko MBReads Medium]]                            |             |                                   |                |          |                 |                               |      |
 | [[Good Strategy, Bad Strategy by Michael Batko MBReads Medium]]                                           |             |                                   |                |          |                 |                               |      |
 | [[Book Summary- Deep Work by Cal Newport Sam Thomas Davies]]                                              |             |                                   |                |          |                 |                               |      |
-| Polymath Reading List                                                                                 |             |                                   |                |          |                 |                               |      |
+| [[Polymath Reading List]]                                                                                 |             |                                   |                |          |                 |                               |      |
   
   
   
@@ -55,7 +55,7 @@ publish_external: false
 [[Wait But Why]]
 [[Venture Deals. You can find all my book summaries --… by Michael Batko MBReads Medium]]
 [[Lean Analytics -- Use Data to Build a Better Startup Faster by Michael Batko MBReads Medium]]
-How To Read Nassim Taleb -- Unearned Wisdom
+[[How To Read Nassim Taleb -- Unearned Wisdom]]
   
 Review
 [[How Do You Live]]
