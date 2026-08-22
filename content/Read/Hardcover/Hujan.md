@@ -1,11 +1,11 @@
 ---
 title: "Hujan"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Tere Liye
-year: 2016
-source: hardcover
+publish_external: true
+author: "Tere Liye"
+year: "2016"
+source: "hardcover"
 ---
 
 # Hujan

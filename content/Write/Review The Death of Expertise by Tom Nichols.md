@@ -2,7 +2,7 @@
 title: "Review The Death of Expertise by Tom Nichols"
 date: 2022-08-28
 tags: [journal, book, essay, review]
-publish_external: false
+publish_external: true
 ---
 
 Looking for a friend who has the same vision as me. The problem is I never have a static view of something called principles. Sometimes I contradict myself, to stand by one vision and principles, but I never did that. That’s why It’s so hard for me to find a friend, friend based on my definition. But I never describe what a friend is. It’s always just intuition that sometimes I know that it fits with us. It’s like there’s a spark. Do you believe in destiny, my friend?

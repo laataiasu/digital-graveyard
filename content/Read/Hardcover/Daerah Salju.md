@@ -1,12 +1,12 @@
 ---
 title: "Daerah Salju"
-date: 2026-08-20
+date: "2026-08-20"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Yasunari Kawabata, A.S. Laksana"
-year: 1948
-rating: 3.0
-source: hardcover
+year: "1948"
+rating: "3.0"
+source: "hardcover"
 ---
 
 # Daerah Salju

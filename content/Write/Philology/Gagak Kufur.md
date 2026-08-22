@@ -2,7 +2,7 @@
 title: "Gagak Kufur"
 date: 2018-02-17
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2019-02-03T14:34:56.869-08:00"
 ---
 

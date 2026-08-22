@@ -2,7 +2,7 @@
 title: "Keretakan"
 date: 2018-06-12
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2018-07-02T21:24:51.658-07:00"
 ---
 

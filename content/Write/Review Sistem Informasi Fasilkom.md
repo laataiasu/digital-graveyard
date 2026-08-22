@@ -2,7 +2,7 @@
 title: "Review Sistem Informasi Fasilkom  - Index"
 date: 2020-05-20
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 *Karena gabut, saya ingin sedikit nulis tentang pengalaman kuliah di fasilkom, materi kuliah, dll. Semoga aja bermanfaat hehe. Ini index blognya dan bakal terus diupdate.*

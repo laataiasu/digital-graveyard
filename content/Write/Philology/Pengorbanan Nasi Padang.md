@@ -2,7 +2,7 @@
 title: "Pengorbanan Nasi Padang"
 date: 2018-06-09
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-07-20T19:44:16.044-07:00"
 ---
 

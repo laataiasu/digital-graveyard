@@ -1,12 +1,12 @@
 ---
 title: "Norwegian Wood"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Haruki Murakami, Jay Rubin"
-year: 1987
-rating: 3.0
-source: hardcover
+year: "1987"
+rating: "3.0"
+source: "hardcover"
 ---
 
 # Norwegian Wood

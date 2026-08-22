@@ -2,7 +2,7 @@
 title: "Luka"
 date: 2020-07-22
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-12-12T17:43:54.763-08:00"
 ---
 

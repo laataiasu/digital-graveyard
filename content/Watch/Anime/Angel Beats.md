@@ -1,11 +1,11 @@
 ---
 title: "Angel Beats!"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2010
-original_title: Angel Beats!
-source: anilist
+publish_external: true
+year: "2010"
+original_title: "Angel Beats!"
+source: "anilist"
 ---
 
 # Angel Beats!

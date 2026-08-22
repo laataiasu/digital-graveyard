@@ -2,7 +2,7 @@
 title: "Valuing the Process and the Beauty of Futility"
 date: 2020-07-23
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 Writing without rage, emotional thoughts, or cynicism can be an incredibly challenging task. The idea of creating something that doesn't bother anyone and instead keeps them in a positive frame of mind is like trying to improve your GPA score. Achieving a higher GPA requires following the rules, studying diligently, impressing your instructors with every aspect of your work, and seeking assistance from various resources. However, the act of following the rules can often feel dull and uninspiring. This essay will explore the notion of valuing the process over the end result and delve into the intriguing beauty found within futility.

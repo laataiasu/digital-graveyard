@@ -1,11 +1,11 @@
 ---
 title: "Orang Maiyah"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Emha Ainun Nadjib
-year: 2007
-source: hardcover
+publish_external: true
+author: "Emha Ainun Nadjib"
+year: "2007"
+source: "hardcover"
 ---
 
 # Orang Maiyah

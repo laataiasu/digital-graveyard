@@ -1,11 +1,11 @@
 ---
 title: "Full Metal Jacket"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 1987
-rating: 2.0
-source: letterboxd
+publish_external: true
+year: "1987"
+rating: "2.0"
+source: "letterboxd"
 ---
 
 # Full Metal Jacket

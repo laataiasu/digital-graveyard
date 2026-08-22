@@ -1,11 +1,11 @@
 ---
 title: "The Three-Body Problem"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Cixin Liu, Ken Liu"
-year: 2006
-source: hardcover
+year: "2006"
+source: "hardcover"
 ---
 
 # The Three-Body Problem

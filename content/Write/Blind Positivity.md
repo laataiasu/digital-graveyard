@@ -2,7 +2,7 @@
 title: "Blind Positivity"
 date: 2024-01-09
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 The biggest problem, in my opinion, is toxic or blind positivity. It extends beyond mental health issues; it's a broader societal concern.

@@ -2,7 +2,7 @@
 title: "Responsibility and Expectations of Sap"
 date: 2020-08-26
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 It was a trivial thing, but as someone who loves drama so much, with ingredients it can be something valuable, while as a rational man, it is reputed as shit representing something vague and vulnerable. Nothing is rational; it is just someone who loves roleplay as someone who knows better than others. So, as a cynic rational man, even I doubt myself as it is, sometimes I take a side of a dramatical view and am full of stupidity, or maybe you can call it philosophy if you still want to be looked at as a rational person.

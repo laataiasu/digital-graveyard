@@ -1,11 +1,11 @@
 ---
 title: "Ibn Tufayl's Hayy Ibn Yaqzan"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Ibn Tufayl, Lenn E. Goodman"
-year: 1150
-source: hardcover
+year: "1150"
+source: "hardcover"
 ---
 
 # Ibn Tufayl's Hayy Ibn Yaqzan

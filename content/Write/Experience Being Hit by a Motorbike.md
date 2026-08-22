@@ -2,7 +2,7 @@
 title: "Experience Being Hit by a Motorbike"
 date: 2020-08-27
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 ![[1200-471212138-hapkido-green-belt.jpg]]

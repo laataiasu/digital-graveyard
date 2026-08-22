@@ -2,7 +2,7 @@
 title: "Just Pretend"
 date: 2022-04-27
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

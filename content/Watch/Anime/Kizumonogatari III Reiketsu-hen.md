@@ -1,11 +1,11 @@
 ---
 title: "Kizumonogatari III: Reiketsu-hen"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2017
-original_title: 傷物語〈Ⅲ冷血篇〉
-source: anilist
+publish_external: true
+year: "2017"
+original_title: "傷物語〈Ⅲ冷血篇〉"
+source: "anilist"
 ---
 
 # Kizumonogatari III: Reiketsu-hen

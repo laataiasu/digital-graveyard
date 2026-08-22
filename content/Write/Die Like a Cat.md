@@ -2,7 +2,7 @@
 title: "Die Like a Cat"
 date: 2023-06-17
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 ![[beautiful-cat-dying-in-colorful-water.jpg]]

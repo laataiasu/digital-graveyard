@@ -1,12 +1,12 @@
 ---
 title: "Snow Country"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Yusunari Kawabata
-year: 2009
-rating: 3.0
-source: hardcover
+publish_external: true
+author: "Yusunari Kawabata"
+year: "2009"
+rating: "3.0"
+source: "hardcover"
 ---
 
 # Snow Country

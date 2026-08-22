@@ -1,13 +1,13 @@
 ---
 title: "Move to Heaven"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2021
-status: 10/10
-rating: 8.0
-progress: 10/10
-source: mydramalist
+publish_external: true
+year: "2021"
+status: "10/10"
+rating: "8.0"
+progress: "10/10"
+source: "mydramalist"
 ---
 
 # Move to Heaven

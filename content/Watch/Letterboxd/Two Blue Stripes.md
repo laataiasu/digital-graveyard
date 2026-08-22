@@ -1,11 +1,11 @@
 ---
 title: "Two Blue Stripes"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2019
-rating: 2.0
-source: letterboxd
+publish_external: true
+year: "2019"
+rating: "2.0"
+source: "letterboxd"
 ---
 
 # Two Blue Stripes

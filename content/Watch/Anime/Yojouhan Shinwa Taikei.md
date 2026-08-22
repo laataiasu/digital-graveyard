@@ -1,11 +1,11 @@
 ---
 title: "Yojouhan Shinwa Taikei"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2010
-original_title: 四畳半神話大系
-source: anilist
+publish_external: true
+year: "2010"
+original_title: "四畳半神話大系"
+source: "anilist"
 ---
 
 # Yojouhan Shinwa Taikei

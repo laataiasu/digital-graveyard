@@ -1,11 +1,11 @@
 ---
 title: "The Prestige"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2006
-rating: 4.0
-source: letterboxd
+publish_external: true
+year: "2006"
+rating: "4.0"
+source: "letterboxd"
 ---
 
 # The Prestige

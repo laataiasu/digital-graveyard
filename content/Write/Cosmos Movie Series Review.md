@@ -2,7 +2,7 @@
 title: "Cosmos Movie Series Review"
 date: 2021-07-27
 tags: [film, review]
-publish_external: false
+publish_external: true
 ---
 
 ### I. Cosmos: A Spacetime Odyssey 

@@ -1,11 +1,11 @@
 ---
 title: "Grand Blue"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [manga, book]
-publish_external: false
-year: 2014
-original_title: ぐらんぶる
-source: anilist
+publish_external: true
+year: "2014"
+original_title: "ぐらんぶる"
+source: "anilist"
 ---
 
 # Grand Blue

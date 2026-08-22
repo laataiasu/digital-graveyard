@@ -2,7 +2,7 @@
 title: "Islam dan Nihilisme"
 date: 2020-07-29
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 [[Islam]] dan nihilisme memang bertentangan, tapi di setiap pertentangan pastilah ada sesuatu kesamaan yang tidak dapat dilihat apabila hanya "satu" yang dilihat. 

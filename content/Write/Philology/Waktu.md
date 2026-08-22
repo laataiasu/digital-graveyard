@@ -2,7 +2,7 @@
 title: "Waktu"
 date: 2017-08-25
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-08-24T11:19:03.450-07:00"
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Lapis-Lapis Keberkahan"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Salim Akhukum Fillah
-year: 2014
-source: hardcover
+publish_external: true
+author: "Salim Akhukum Fillah"
+year: "2014"
+source: "hardcover"
 ---
 
 # Lapis-Lapis Keberkahan

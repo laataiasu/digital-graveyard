@@ -2,7 +2,7 @@
 title: "Hipotesis"
 date: 2019-11-12
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 Barangkali ini hanya sekadar tulisan atau impian...

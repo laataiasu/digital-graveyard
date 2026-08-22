@@ -2,7 +2,7 @@
 title: "My First Hackathon"
 date: 2022-10-16
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 This day I followed hackathon. 

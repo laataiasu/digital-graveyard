@@ -1,11 +1,11 @@
 ---
 title: "Jujutsu Kaisen"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [manga, book]
-publish_external: false
-year: 2018
-original_title: 呪術廻戦
-source: anilist
+publish_external: true
+year: "2018"
+original_title: "呪術廻戦"
+source: "anilist"
 ---
 
 # Jujutsu Kaisen

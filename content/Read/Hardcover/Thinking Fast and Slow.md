@@ -1,11 +1,11 @@
 ---
 title: "Thinking, Fast and Slow"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Daniel Kahneman
-year: 2011
-source: hardcover
+publish_external: true
+author: "Daniel Kahneman"
+year: "2011"
+source: "hardcover"
 ---
 
 # Thinking, Fast and Slow

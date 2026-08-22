@@ -2,7 +2,7 @@
 title: "Why Ji-Pyeong Didn't Get Dal Mi's Heart By Muslim Perspective"
 date: 2020-11-22
 tags: [film, review]
-publish_external: false
+publish_external: true
 timeline_notification: [1612851717]
 ---
 

@@ -2,7 +2,7 @@
 title: "Susah Cari Kerja"
 date: 2022-07-06
 tags: [journal, review, film]
-publish_external: false
+publish_external: true
 ---
 
 ## Cari Magang Kuliah

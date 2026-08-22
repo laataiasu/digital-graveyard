@@ -1,11 +1,11 @@
 ---
 title: "The Pervert's Guide to Ideology"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2012
-rating: 4.0
-source: letterboxd
+publish_external: true
+year: "2012"
+rating: "4.0"
+source: "letterboxd"
 ---
 
 # The Pervert's Guide to Ideology

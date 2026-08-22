@@ -1,11 +1,11 @@
 ---
 title: "The Alchemist"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Paulo Coelho
-year: 1988
-source: hardcover
+publish_external: true
+author: "Paulo Coelho"
+year: "1988"
+source: "hardcover"
 ---
 
 # The Alchemist

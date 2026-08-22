@@ -2,7 +2,7 @@
 title: "Sudut Pandang Penjahat"
 date: 2017-12-22
 tags: [essay]
-publish_external: false
+publish_external: true
 updated: "2020-07-20T19:44:16.624-07:00"
 ---
 

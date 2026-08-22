@@ -1,11 +1,11 @@
 ---
 title: "The Silence of the Lambs"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 1991
-rating: 3.5
-source: letterboxd
+publish_external: true
+year: "1991"
+rating: "3.5"
+source: "letterboxd"
 ---
 
 # The Silence of the Lambs

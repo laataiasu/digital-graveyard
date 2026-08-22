@@ -1,13 +1,13 @@
 ---
 title: "Shining Inheritance"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2009
-status: 28/28
-rating: 5.0
-progress: 28/28
-source: mydramalist
+publish_external: true
+year: "2009"
+status: "28/28"
+rating: "5.0"
+progress: "28/28"
+source: "mydramalist"
 ---
 
 # Shining Inheritance

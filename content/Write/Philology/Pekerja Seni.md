@@ -2,7 +2,7 @@
 title: "Pekerja Seni"
 date: 2021-04-18
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

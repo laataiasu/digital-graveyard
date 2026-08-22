@@ -2,7 +2,7 @@
 title: "Penuntut Ilmu Laduni"
 date: 2021-12-10
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 Belajar dari bio ig teman saya yang merupakan penganut dan penuntut ilmu laduni,

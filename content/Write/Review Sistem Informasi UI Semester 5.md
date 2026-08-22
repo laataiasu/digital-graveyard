@@ -2,7 +2,7 @@
 title: "Review Sistem Informasi UI ~Semester 5"
 date: 2022-01-07
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 review sistem informasi [[Universitas Indonesia]] semester 5

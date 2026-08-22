@@ -2,7 +2,7 @@
 title: "Belajar dari Jira"
 date: 2022-09-13
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 > "[in the struggle for new solutions] new and deeper problems have been created. Our knowledge is now wider and more profound than that of the physicist of the nineteenth century, but so our doubts and difficulties."

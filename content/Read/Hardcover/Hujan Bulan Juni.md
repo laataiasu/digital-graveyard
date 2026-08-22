@@ -1,12 +1,12 @@
 ---
 title: "Hujan Bulan Juni"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Sapardi Djoko Damono
-year: 1994
-rating: 3.0
-source: hardcover
+publish_external: true
+author: "Sapardi Djoko Damono"
+year: "1994"
+rating: "3.0"
+source: "hardcover"
 ---
 
 # Hujan Bulan Juni

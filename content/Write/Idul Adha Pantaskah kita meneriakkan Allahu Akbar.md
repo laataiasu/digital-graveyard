@@ -2,7 +2,7 @@
 title: "Idul Adha: Pantaskah kita meneriakkan Allahu Akbar"
 date: 2017-09-01
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 [[Idul Adha]], sering kali dianggap hanya sebagai ritual berkurban hewan dan berbagi daging. Namun, apakah kita benar-benar memahami makna mendalam di balik perayaan ini? Mari kita renungkan dan pertanyakan sejauh mana kesadaran kita terhadap kehendak [[Allah]] dalam setiap tindakan kita.

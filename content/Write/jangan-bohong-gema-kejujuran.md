@@ -2,7 +2,7 @@
 title: "Jangan Bohong: Gema Kejujuran di Tengah Reruntuhan Digital"
 date: 2021-07-09
 tags: [reflection]
-publish_external: false
+publish_external: true
 ---
 
 Di sebuah ruang kelas sekolah dasar yang hangat, suara Bu Hetty masih terngiang jelas. Saat itu, Facebook sedang berada di puncak popularitasnya. Kami, anak-anak yang haus akan pengakuan dunia luar, berebut ingin membuat akun. Namun, Bu Hetty berdiri di depan kelas dengan raut serius, memberikan sebuah mandat sederhana namun absolut: "Jangan bohong." Beliau menasihati kami untuk tidak menyentuh media sosial itu karena untuk mendaftar, kami harus memalsukan tanggal lahir--sebuah kebohongan administratif yang dianggap sepele oleh dunia, namun dipandang sebagai retakan moral oleh Bu Hetty.

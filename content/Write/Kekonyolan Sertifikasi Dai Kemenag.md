@@ -2,7 +2,7 @@
 title: "Kekonyolan Sertifikasi Dai Kemenag"
 date: 2020-09-15
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 https://news.detik.com/berita/d-5168493/cerita-di-balik-kontroversi-sertifikasi-dai-kemenag---mui

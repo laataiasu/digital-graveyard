@@ -2,7 +2,7 @@
 title: "Kenapa Harus Tau Crypto, Blockchain, dan sejenisnya"
 date: 2021-07-13
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 secara cocoklogi, kronologi simpelnya kaya gini

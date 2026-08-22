@@ -2,7 +2,7 @@
 title: "The Law of Comedy ~ Part 1"
 date: 2020-11-15
 tags: [essay]
-publish_external: false
+publish_external: true
 timeline_notification: [1605415446]
 ---
 

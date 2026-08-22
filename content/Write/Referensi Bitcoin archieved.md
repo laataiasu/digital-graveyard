@@ -2,7 +2,7 @@
 title: "Referensi Bitcoin (archieved)"
 date: 2020-02-09
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 Whitepapernya banyak yg niat bngt

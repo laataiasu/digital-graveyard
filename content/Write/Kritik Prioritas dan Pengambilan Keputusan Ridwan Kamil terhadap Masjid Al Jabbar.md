@@ -2,7 +2,7 @@
 title: "Kritik, Prioritas, dan Pengambilan Keputusan Ridwan Kamil terhadap Masjid Al-Jabbar"
 date: 2022-11-10
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 {{< X user="Outstandjing" id="1609517027148058624" >}}

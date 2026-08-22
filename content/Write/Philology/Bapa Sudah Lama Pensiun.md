@@ -2,7 +2,7 @@
 title: "Bapa Sudah Lama Pensiun"
 date: 2018-12-23
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-08-04T19:08:19.051-07:00"
 ---
 

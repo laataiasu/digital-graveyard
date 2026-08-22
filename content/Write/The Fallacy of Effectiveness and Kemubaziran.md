@@ -2,7 +2,7 @@
 title: "The Fallacy of Effectiveness and Kemubaziran"
 date: 2023-09-06
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 ![[alif lam mim kaf ha ya ain sod.jpg]]

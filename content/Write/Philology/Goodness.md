@@ -2,7 +2,7 @@
 title: "Goodness"
 date: 2020-11-27
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

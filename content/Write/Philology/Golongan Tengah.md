@@ -2,7 +2,7 @@
 title: "Golongan Tengah"
 date: 2017-09-07
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

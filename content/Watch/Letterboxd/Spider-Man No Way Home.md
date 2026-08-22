@@ -1,11 +1,11 @@
 ---
 title: "Spider-Man: No Way Home"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2021
-rating: 3.5
-source: letterboxd
+publish_external: true
+year: "2021"
+rating: "3.5"
+source: "letterboxd"
 ---
 
 # Spider-Man: No Way Home

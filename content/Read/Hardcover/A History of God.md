@@ -1,11 +1,11 @@
 ---
 title: "A History of God"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Karen Armstrong
-year: 1993
-source: hardcover
+publish_external: true
+author: "Karen Armstrong"
+year: "1993"
+source: "hardcover"
 ---
 
 # A History of God

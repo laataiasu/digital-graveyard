@@ -2,7 +2,7 @@
 title: "Silicon Valley Series Review"
 date: 2021-07-15
 tags: [film, review]
-publish_external: false
+publish_external: true
 ---
 
 The worst comedy series I've ever watched.

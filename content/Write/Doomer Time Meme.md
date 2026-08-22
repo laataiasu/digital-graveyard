@@ -2,7 +2,7 @@
 title: "Doomer Time"
 date: 2022-05-07
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 ![[everyone-is-stupid-except-me.jpg]]

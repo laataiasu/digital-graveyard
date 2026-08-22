@@ -1,11 +1,11 @@
 ---
 title: "Lost in Translation"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2003
-rating: 2.0
-source: letterboxd
+publish_external: true
+year: "2003"
+rating: "2.0"
+source: "letterboxd"
 ---
 
 # Lost in Translation

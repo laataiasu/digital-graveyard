@@ -2,7 +2,7 @@
 title: "Insights and Lessons from This Year"
 date: 2022-12-31
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 During the period of August 2022 to December 2022, I embarked on a journey of self-discovery and personal growth, and I encountered several valuable insights and lessons that have had a profound impact on my life. Here are some of the key takeaways from this transformative period:

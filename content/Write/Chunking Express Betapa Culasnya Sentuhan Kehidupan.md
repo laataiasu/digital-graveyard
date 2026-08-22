@@ -2,7 +2,7 @@
 title: "Chunking Express: Betapa Culasnya Sentuhan Kehidupan"
 date: 2023-01-13
 tags: [film, review]
-publish_external: false
+publish_external: true
 ---
 
 ![https://youtu.be/TXceE8x-9GA](https://youtu.be/TXceE8x-9GA)

@@ -1,11 +1,11 @@
 ---
 title: "CLANNAD"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2007
-original_title: ＣＬＡＮＮＡＤ -クラナド-
-source: anilist
+publish_external: true
+year: "2007"
+original_title: "ＣＬＡＮＮＡＤ -クラナド-"
+source: "anilist"
 ---
 
 # CLANNAD

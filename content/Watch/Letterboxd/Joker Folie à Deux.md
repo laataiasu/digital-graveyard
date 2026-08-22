@@ -1,11 +1,11 @@
 ---
 title: "Joker: Folie à Deux"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2024
-rating: 1.5
-source: letterboxd
+publish_external: true
+year: "2024"
+rating: "1.5"
+source: "letterboxd"
 ---
 
 # Joker: Folie à Deux

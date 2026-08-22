@@ -2,7 +2,7 @@
 title: "About"
 date: 2001-01-01
 tags: [essay]
-publish_external: false
+publish_external: true
 icon: fas fa-info
 order: 4
 ---

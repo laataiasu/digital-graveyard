@@ -2,7 +2,7 @@
 title: "Anak Bungsu"
 date: 2023-04-24
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 ![[lonely-colorful-youngest-child.jpg]]

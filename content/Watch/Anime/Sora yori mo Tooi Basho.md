@@ -1,11 +1,11 @@
 ---
 title: "Sora yori mo Tooi Basho"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2018
-original_title: 宇宙よりも遠い場所
-source: anilist
+publish_external: true
+year: "2018"
+original_title: "宇宙よりも遠い場所"
+source: "anilist"
 ---
 
 # Sora yori mo Tooi Basho

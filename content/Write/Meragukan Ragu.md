@@ -2,7 +2,7 @@
 title: "Meragukan Ragu"
 date: 2023-03-13
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 Muhasabah nanti berganti dari, 

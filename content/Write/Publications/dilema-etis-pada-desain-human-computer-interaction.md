@@ -2,7 +2,7 @@
 title: "Ethical Dilemma in Human-Computer Interaction Design"
 date: 2021-01-01
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 [Read the document](https://drive.google.com/open?id=1eGGb69KAUFzgZNazn1z6Ah72p2csaHwN)

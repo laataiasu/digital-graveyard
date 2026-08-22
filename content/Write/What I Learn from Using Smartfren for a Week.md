@@ -2,7 +2,7 @@
 title: "What I Learn from Using Smartfren for a Week"
 date: 2020-08-19
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 Warning!!! Don't read it if you don't want to waste your time

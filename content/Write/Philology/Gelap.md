@@ -2,7 +2,7 @@
 title: "Gelap"
 date: 2020-12-12
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-12-12T17:40:00.309-08:00"
 ---
 

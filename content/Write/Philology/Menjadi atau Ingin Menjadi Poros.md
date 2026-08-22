@@ -2,7 +2,7 @@
 title: "Menjadi atau Ingin Menjadi Poros"
 date: 2018-07-30
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2019-02-03T14:31:52.982-08:00"
 ---
 

@@ -2,7 +2,7 @@
 title: "Santet is Real"
 date: 2023-06-14
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 ![[santet.jpg]]

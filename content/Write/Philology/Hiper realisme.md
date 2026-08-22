@@ -2,7 +2,7 @@
 title: "Hiper realisme"
 date: 2020-08-14
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-08-24T11:26:04.876-07:00"
 ---
 

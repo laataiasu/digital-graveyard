@@ -2,7 +2,7 @@
 title: "I miss JIRA and I Hate Non-jujutsu Sorcerers"
 date: 2023-09-04
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 I miss Slack, Jira, Confluence, and all the project management tools I used to take for granted. The project management course seemed perfect until it had to be implemented in the real world, which is rife with scarcity and limitations.

@@ -1,11 +1,11 @@
 ---
 title: "What If? Serious Scientific Answers to Absurd Hypothetical Questions"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Randall Munroe
-year: 2014
-source: hardcover
+publish_external: true
+author: "Randall Munroe"
+year: "2014"
+source: "hardcover"
 ---
 
 # What If? Serious Scientific Answers to Absurd Hypothetical Questions

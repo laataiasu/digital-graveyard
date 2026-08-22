@@ -2,7 +2,7 @@
 title: "Bumi dan Matahari"
 date: 2019-04-19
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2019-04-19T11:11:12.243-07:00"
 ---
 

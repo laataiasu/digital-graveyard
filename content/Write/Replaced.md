@@ -2,7 +2,7 @@
 title: "Replaced"
 date: 2020-11-14
 tags: [essay]
-publish_external: false
+publish_external: true
 timeline_notification: [1605307249]
 ---
 

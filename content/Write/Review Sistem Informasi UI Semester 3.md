@@ -2,7 +2,7 @@
 title: "Review Sistem Informasi UI ~Semester 3"
 date: 2021-01-15
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 ![[semester-3-sistem-informasi-ui.png]]

@@ -2,7 +2,7 @@
 title: "Pengagum Yang Bukan Fisik"
 date: 2022-06-11
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

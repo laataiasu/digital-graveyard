@@ -1,11 +1,11 @@
 ---
 title: "Kiki's Delivery Service"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 1989
-rating: 3.0
-source: letterboxd
+publish_external: true
+year: "1989"
+rating: "3.0"
+source: "letterboxd"
 ---
 
 # Kiki's Delivery Service

@@ -2,7 +2,7 @@
 title: "Is It Really Important to Go to College?"
 date: 2020-05-22
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 ## summary

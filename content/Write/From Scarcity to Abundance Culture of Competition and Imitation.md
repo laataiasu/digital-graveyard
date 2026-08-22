@@ -2,7 +2,7 @@
 title: "From Scarcity to Abundance, Culture of Competition and Imitation"
 date: 2023-07-06
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 ![https://youtu.be/e9dZQelULDk](https://youtu.be/e9dZQelULDk)

@@ -1,11 +1,11 @@
 ---
 title: "Mob Psycho 100 II"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2019
-original_title: モブサイコ100 II
-source: anilist
+publish_external: true
+year: "2019"
+original_title: "モブサイコ100 II"
+source: "anilist"
 ---
 
 # Mob Psycho 100 II

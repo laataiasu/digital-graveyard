@@ -1,11 +1,11 @@
 ---
 title: "The Secret History of the World"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Jonathan  Black, Mark Booth"
-year: 2007
-source: hardcover
+year: "2007"
+source: "hardcover"
 ---
 
 # The Secret History of the World

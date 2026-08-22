@@ -2,7 +2,7 @@
 title: "Budak"
 date: 2020-11-29
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-11-29T11:26:04.876-07:00"
 ---
 

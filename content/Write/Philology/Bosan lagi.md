@@ -2,7 +2,7 @@
 title: "Bosan lagi"
 date: 2022-09-27
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

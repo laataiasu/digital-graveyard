@@ -2,7 +2,7 @@
 title: "Review Liar's Poker by Michael Lewis"
 date: 2021-08-27
 tags: [book, review]
-publish_external: false
+publish_external: true
 ---
 
 > ringkasan buku mantan asosial gambler

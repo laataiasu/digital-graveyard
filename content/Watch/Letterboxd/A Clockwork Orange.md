@@ -1,11 +1,11 @@
 ---
 title: "A Clockwork Orange"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 1971
-rating: 3.5
-source: letterboxd
+publish_external: true
+year: "1971"
+rating: "3.5"
+source: "letterboxd"
 ---
 
 # A Clockwork Orange

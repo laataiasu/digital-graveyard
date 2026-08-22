@@ -2,7 +2,7 @@
 title: "Keberagamaan dan Relevansi Membaca: Perlukah?"
 date: 2016-03-22
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 !

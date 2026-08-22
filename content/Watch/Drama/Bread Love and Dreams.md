@@ -1,13 +1,13 @@
 ---
 title: "Bread, Love and Dreams"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2010
-status: 30/30
-rating: 7.5
-progress: 30/30
-source: mydramalist
+publish_external: true
+year: "2010"
+status: "30/30"
+rating: "7.5"
+progress: "30/30"
+source: "mydramalist"
 ---
 
 # Bread, Love and Dreams

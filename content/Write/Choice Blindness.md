@@ -2,7 +2,7 @@
 title: "Choice Blindness"
 date: 2020-09-24
 tags: [essay]
-publish_external: false
+publish_external: true
 timeline_notification: [1600922570]
 ---
 

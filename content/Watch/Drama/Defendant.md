@@ -1,13 +1,13 @@
 ---
 title: "Defendant"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2017
-status: 18/18
-rating: 8.0
-progress: 18/18
-source: mydramalist
+publish_external: true
+year: "2017"
+status: "18/18"
+rating: "8.0"
+progress: "18/18"
+source: "mydramalist"
 ---
 
 # Defendant

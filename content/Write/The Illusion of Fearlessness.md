@@ -2,7 +2,7 @@
 title: "The Illusion of Fearlessness"
 date: 2023-06-24
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 ![https://youtu.be/aGCdLKXNF3w](https://youtu.be/aGCdLKXNF3w)

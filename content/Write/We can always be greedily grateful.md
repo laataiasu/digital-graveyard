@@ -2,7 +2,7 @@
 title: "We can always be greedily grateful"
 date: 2023-11-25
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 Everyone is so terrified to look inside because we're indoctrinated to follow a general standard.

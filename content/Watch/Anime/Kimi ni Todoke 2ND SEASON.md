@@ -1,11 +1,11 @@
 ---
 title: "Kimi ni Todoke 2ND SEASON"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2011
-original_title: 君に届け 2ND SEASON
-source: anilist
+publish_external: true
+year: "2011"
+original_title: "君に届け 2ND SEASON"
+source: "anilist"
 ---
 
 # Kimi ni Todoke 2ND SEASON

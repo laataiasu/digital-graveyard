@@ -2,7 +2,7 @@
 title: "Review Sistem Informasi UI ~Semester 4"
 date: 2021-07-27
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 review sistem informasi [[Universitas Indonesia]] semester 4

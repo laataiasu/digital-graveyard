@@ -2,7 +2,7 @@
 title: "Jalan Kepengecutan"
 date: 2023-07-19
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

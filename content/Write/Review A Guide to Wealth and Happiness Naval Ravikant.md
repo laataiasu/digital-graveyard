@@ -2,7 +2,7 @@
 title: "Review A Guide to Wealth and Happiness — Naval Ravikant"
 date: 2021-08-28
 tags: [review, book]
-publish_external: false
+publish_external: true
 ---
 
 > ringkasan buku investor artis [[Twitter]]

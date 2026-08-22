@@ -1,11 +1,11 @@
 ---
 title: "Fate/Zero"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2011
-original_title: Fate/Zero
-source: anilist
+publish_external: true
+year: "2011"
+original_title: "Fate/Zero"
+source: "anilist"
 ---
 
 # Fate/Zero

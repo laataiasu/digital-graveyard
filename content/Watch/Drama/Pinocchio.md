@@ -1,13 +1,13 @@
 ---
 title: "Pinocchio"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2014
-status: 20/20
-rating: 8.5
-progress: 20/20
-source: mydramalist
+publish_external: true
+year: "2014"
+status: "20/20"
+rating: "8.5"
+progress: "20/20"
+source: "mydramalist"
 ---
 
 # Pinocchio

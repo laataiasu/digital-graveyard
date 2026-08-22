@@ -2,7 +2,7 @@
 title: "Tujuan, perlukah?"
 date: 2018-06-30
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-07-29T01:48:37.474-07:00"
 ---
 

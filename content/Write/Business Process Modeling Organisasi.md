@@ -2,7 +2,7 @@
 title: "Business Process Modeling Organisasi"
 date: 2021-04-05
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 ## Mengapa setiap organisasi membutuhkan bisnis process modelling?

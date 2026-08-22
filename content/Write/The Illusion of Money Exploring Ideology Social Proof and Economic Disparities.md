@@ -2,7 +2,7 @@
 title: "The Illusion of Money: Exploring Ideology, Social Proof, and Economic Disparities"
 date: 2021-06-23
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 Title: 

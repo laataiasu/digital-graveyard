@@ -1,13 +1,13 @@
 ---
 title: "Fix You"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2020
-status: 0/32
-rating: 4.0
-progress: 0/32
-source: mydramalist
+publish_external: true
+year: "2020"
+status: "0/32"
+rating: "4.0"
+progress: "0/32"
+source: "mydramalist"
 ---
 
 # Fix You

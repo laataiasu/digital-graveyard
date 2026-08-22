@@ -1,11 +1,11 @@
 ---
 title: "Tonari no Kaibutsu-kun"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2012
-original_title: となりの怪物くん
-source: anilist
+publish_external: true
+year: "2012"
+original_title: "となりの怪物くん"
+source: "anilist"
 ---
 
 # Tonari no Kaibutsu-kun

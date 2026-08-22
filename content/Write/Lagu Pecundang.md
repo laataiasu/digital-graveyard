@@ -2,7 +2,7 @@
 title: "Lagu Pecundang"
 date: 2026-06-01
 tags: [literature, reflection]
-publish_external: false
+publish_external: true
 ---
 
 ini lagu pecundang

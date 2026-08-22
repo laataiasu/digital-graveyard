@@ -1,11 +1,11 @@
 ---
 title: "Animal Farm"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: George Orwell
-year: 1945
-source: hardcover
+publish_external: true
+author: "George Orwell"
+year: "1945"
+source: "hardcover"
 ---
 
 # Animal Farm

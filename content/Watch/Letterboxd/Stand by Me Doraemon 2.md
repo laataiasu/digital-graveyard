@@ -1,11 +1,11 @@
 ---
 title: "Stand by Me Doraemon 2"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film]
-publish_external: false
-year: 2020
-rating: 2.0
-source: letterboxd
+publish_external: true
+year: "2020"
+rating: "2.0"
+source: "letterboxd"
 ---
 
 # Stand by Me Doraemon 2

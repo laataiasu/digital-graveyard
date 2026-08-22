@@ -2,7 +2,7 @@
 title: "Senja"
 date: 2017-08-24
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-08-24T11:19:28.049-07:00"
 ---
 

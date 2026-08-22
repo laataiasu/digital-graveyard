@@ -1,11 +1,11 @@
 ---
 title: "Kimi no Na wa."
-date: 2016-01-01
+date: "2016-01-01"
 tags: [anime, film]
-publish_external: false
-year: 2016
-original_title: 君の名は。
-source: anilist
+publish_external: true
+year: "2016"
+original_title: "君の名は。"
+source: "anilist"
 ---
 
 # Kimi no Na wa.

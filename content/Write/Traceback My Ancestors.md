@@ -2,7 +2,7 @@
 title: "Traceback My Ancestors"
 date: 2024-02-10
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 Yup, I've realized wasted most of my time gaming, watching and doom scrolling

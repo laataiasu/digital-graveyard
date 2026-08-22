@@ -2,7 +2,7 @@
 title: "Realisasi Sistem Ramah Anak di Sekolah"
 date: 2018-02-24
 tags: [essay]
-publish_external: false
+publish_external: true
 updated: "2018-07-04T19:38:36.725-07:00"
 ---
 

@@ -2,7 +2,7 @@
 title: "Pick Me Boy"
 date: 2022-11-13
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

@@ -2,7 +2,7 @@
 title: "Gorengan"
 date: 2021-12-30
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

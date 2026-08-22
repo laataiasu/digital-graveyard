@@ -2,7 +2,7 @@
 title: "Review Sistem Informasi  ~Semester 1"
 date: 2020-05-23
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 **Akademis**

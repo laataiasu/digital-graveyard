@@ -2,7 +2,7 @@
 title: "Review How Do You Live"
 date: 2023-12-09
 tags: [journal, book, review]
-publish_external: false
+publish_external: true
 ---
 
 the lesson learned from copper, uragawa, mizutani, kitami stories, and [[Pramoedya Ananta Toer|pram]]'s works in general, is that it projects that your kids can only choose to become:

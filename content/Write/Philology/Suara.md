@@ -2,7 +2,7 @@
 title: "Suara"
 date: 2021-06-22
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2021-06-22T08:38:18.853-07:00"
 ---
 

@@ -2,7 +2,7 @@
 title: "The Ultimate Form of Love Is Hate"
 date: 2024-01-14
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 Love is akin to a proving method in mathematics, and I absolutely detest proving methods. Why can't it simply be intuitive speculation? Why do we need to prove? Why can't we perceive the myriad forms of love?

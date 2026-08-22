@@ -2,7 +2,7 @@
 title: "Gas Mulia"
 date: 2019-09-13
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

@@ -2,7 +2,7 @@
 title: "Brief Review Kdrama"
 date: 2020-07-24
 tags: [film, review]
-publish_external: false
+publish_external: true
 ---
 
 It's hard to strive for something and tell that something you liked to other people since a lot of them are against it. And it is much harder if you think and assume that people are against the things you liked.

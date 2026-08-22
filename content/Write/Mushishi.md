@@ -2,7 +2,7 @@
 title: "Mushishi"
 date: 2020-09-09
 tags: [film, review]
-publish_external: false
+publish_external: true
 ---
 
 ![[deadfish-mushishi-01-bd720paac-mp4_snapshot_09-14_2014-05-08_17-13-11.jpg]]

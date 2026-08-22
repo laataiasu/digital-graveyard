@@ -1,11 +1,11 @@
 ---
 title: "The Metamorphosis"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Franz Kafka, Michael Hofmann"
-year: 1915
-source: hardcover
+year: "1915"
+source: "hardcover"
 ---
 
 # The Metamorphosis

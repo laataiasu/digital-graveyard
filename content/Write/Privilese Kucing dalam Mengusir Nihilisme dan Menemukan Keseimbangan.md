@@ -2,7 +2,7 @@
 title: "Privilese Kucing dalam Mengusir Nihilisme dan Menemukan Keseimbangan"
 date: 2018-09-26
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 ![[nihilist-cat.jpg]]

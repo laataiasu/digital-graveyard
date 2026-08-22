@@ -1,11 +1,11 @@
 ---
 title: "The Bed of Procrustes"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Nassim Nicholas Taleb
-year: 2010
-source: hardcover
+publish_external: true
+author: "Nassim Nicholas Taleb"
+year: "2010"
+source: "hardcover"
 ---
 
 # The Bed of Procrustes

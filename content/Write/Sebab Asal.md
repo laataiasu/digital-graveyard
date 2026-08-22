@@ -2,7 +2,7 @@
 title: "Sebab Asal"
 date: 2020-08-18
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 Setiap orang memiliki inspirasinya masing-masing. Sekelam apapun hidupnya ia pasti memiliki inspirasi yang berasal dari referensi. Maka hal aneh yang saya rasakan adalah bagaimana mungkin cukup banyak orang yang membatasi referensinya hanya karena ia ditakutkan oleh suatu yang menjadi inspirasinya. Meskipun ketiadabatasan referensi juga merupakan salah satu hal yang lahir dari ketakutan. Maka ketakutanlah sebenarnya sumber dari segala sesuatu itu. 

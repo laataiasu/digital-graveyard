@@ -2,7 +2,7 @@
 title: "Lemak"
 date: 2020-07-20
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-07-20T20:08:47.511-07:00"
 ---
 

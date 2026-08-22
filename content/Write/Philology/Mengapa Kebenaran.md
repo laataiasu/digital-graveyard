@@ -2,7 +2,7 @@
 title: "Mengapa Kebenaran"
 date: 2017-10-01
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

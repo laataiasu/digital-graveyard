@@ -1,13 +1,13 @@
 ---
 title: "Twenty Five Twenty One"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [film, drama]
-publish_external: false
-year: 2022
-status: 16/16
-rating: 8.0
-progress: 16/16
-source: mydramalist
+publish_external: true
+year: "2022"
+status: "16/16"
+rating: "8.0"
+progress: "16/16"
+source: "mydramalist"
 ---
 
 # Twenty Five Twenty One

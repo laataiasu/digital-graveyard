@@ -2,7 +2,7 @@
 title: "Waking Up an Outdated Version of Intelligence"
 date: 2020-09-18
 tags: [essay]
-publish_external: false
+publish_external: true
 timeline_notification: [1600418225]
 ---
 

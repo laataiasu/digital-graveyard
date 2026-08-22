@@ -2,7 +2,7 @@
 title: "Smartband is a pain in the ass"
 date: 2023-12-08
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 forget about singularity or flying cars; a smartwatch or smartband is a pain in the ass. 

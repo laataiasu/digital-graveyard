@@ -2,7 +2,7 @@
 title: "Bisikan Setan Belajar Ujian"
 date: 2022-06-03
 tags: [literature]
-publish_external: false
+publish_external: true
 ---
 
   

@@ -1,12 +1,12 @@
 ---
 title: "The Black Swan: The Impact of the Highly Improbable"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Nassim Nicholas Taleb, David Chandler, Микола Климчук"
-year: 2007
-rating: 4.0
-source: hardcover
+year: "2007"
+rating: "4.0"
+source: "hardcover"
 ---
 
 # The Black Swan: The Impact of the Highly Improbable

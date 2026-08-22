@@ -2,7 +2,7 @@
 title: "Gunung Kebencian"
 date: 2019-08-03
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2019-08-03T00:26:47.942-07:00"
 ---
 

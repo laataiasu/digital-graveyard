@@ -2,7 +2,7 @@
 title: "History of this blog"
 date: 2020-05-19
 tags: [essay]
-publish_external: false
+publish_external: true
 ---
 
 > *"Da steh ich nun, ich armer Tor,

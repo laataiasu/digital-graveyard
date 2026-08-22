@@ -1,12 +1,12 @@
 ---
 title: "Jalan Sunyi Emha"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
+publish_external: true
 author: "Ian L. Betts, Toto Rahardjo"
-year: 2006
-rating: 3.0
-source: hardcover
+year: "2006"
+rating: "3.0"
+source: "hardcover"
 ---
 
 # Jalan Sunyi Emha

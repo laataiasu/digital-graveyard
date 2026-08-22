@@ -2,7 +2,7 @@
 title: "Muslim condition"
 date: 2020-07-06
 tags: [essay, journal]
-publish_external: false
+publish_external: true
 ---
 
 <div class="wp-block-image">

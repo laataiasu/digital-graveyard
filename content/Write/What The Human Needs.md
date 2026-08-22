@@ -2,7 +2,7 @@
 title: "What The Human Needs"
 date: 2021-05-22
 tags: [essay, journal]
-publish_external: false
+publish_external: true
 ---
 
 The needs of every human being are very strange

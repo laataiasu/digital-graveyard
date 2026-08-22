@@ -2,7 +2,7 @@
 title: "Physics Envy"
 date: 2022-01-11
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 # Want to be a physicists

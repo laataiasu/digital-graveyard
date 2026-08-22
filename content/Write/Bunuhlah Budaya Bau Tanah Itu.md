@@ -2,7 +2,7 @@
 title: "Bunuhlah Budaya Bau Tanah Itu!"
 date: 2023-12-20
 tags: [journal, essay]
-publish_external: false
+publish_external: true
 ---
 
 budaya tidak perlu didewakan

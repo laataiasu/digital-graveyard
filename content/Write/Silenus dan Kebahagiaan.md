@@ -2,7 +2,7 @@
 title: "Silenus dan Kebahagiaan"
 date: 2023-09-02
 tags: [journal, essay, book]
-publish_external: false
+publish_external: true
 ---
 
 Raja Midas mencari Silenus, teman setia Dionysus, dan menanyakan kepadanya: "Apa kebahagiaan terbesar manusia?" Silenus tetap muram dan tidak berkomunikasi sampai akhirnya, dipaksa oleh Raja, ia tertawa dengan kencang.

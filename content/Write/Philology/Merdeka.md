@@ -2,7 +2,7 @@
 title: "Merdeka"
 date: 2018-08-16
 tags: [literature]
-publish_external: false
+publish_external: true
 updated: "2020-08-24T11:22:58.311-07:00"
 ---
 

@@ -2,7 +2,7 @@
 title: "Beyond Music Is Haram"
 date: 2019-07-30
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 This idea dawned on me while I lay in bed at my grandma's house in Djogja. With the looming Universitas Gadjah Mada (UGM) test just a month away, I found myself utterly unprepared. Instead of hitting the books, my days were consumed by mindless scrolling through social media platforms like Quora, [[Twitter]], and YouTube.

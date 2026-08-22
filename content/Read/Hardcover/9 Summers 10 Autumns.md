@@ -1,12 +1,12 @@
 ---
 title: "9 Summers 10 Autumns"
-date: 2025-06-19
+date: "2025-06-19"
 tags: [book]
-publish_external: false
-author: Iwan Setyawan
-year: 2011
-rating: 3.0
-source: hardcover
+publish_external: true
+author: "Iwan Setyawan"
+year: "2011"
+rating: "3.0"
+source: "hardcover"
 ---
 
 # 9 Summers 10 Autumns

@@ -1,11 +1,11 @@
 ---
 title: "Dugeundugeun Dugeungeoryeo"
-date: 2016-01-01
+date: "2016-01-01"
 tags: [manga, book]
-publish_external: false
-year: 2009
-original_title: 두근두근 두근거려
-source: anilist
+publish_external: true
+year: "2009"
+original_title: "두근두근 두근거려"
+source: "anilist"
 ---
 
 # Dugeundugeun Dugeungeoryeo

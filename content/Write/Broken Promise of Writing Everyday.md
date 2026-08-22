@@ -2,7 +2,7 @@
 title: "Broken Promise of Writing Everyday"
 date: 2019-11-30
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 I have faltered in keeping my promise to write about my daily experiences. The weight of numerous unfinished tasks has hindered my commitment, and I find myself engaging in this activity only when boredom strikes. Yet, truth be told, boredom has been a constant companion. However, in recent days, I've found myself immersed in the world of gaming, squandering precious time and neglecting my studies, leading to a stagnation in my life--no discernible progress to speak of.

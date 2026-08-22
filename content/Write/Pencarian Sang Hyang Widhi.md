@@ -2,7 +2,7 @@
 title: "Pencarian Sang Hyang Widhi"
 date: 2017-07-01
 tags: [journal]
-publish_external: false
+publish_external: true
 ---
 
 ![[pencarian-sang-hyang-widhi.jpg]]
