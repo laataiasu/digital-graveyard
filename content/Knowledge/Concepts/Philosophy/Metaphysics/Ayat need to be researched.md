@@ -2,7 +2,7 @@
 title: "Ayat need to be researched"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 Thaha 1-19 7-2

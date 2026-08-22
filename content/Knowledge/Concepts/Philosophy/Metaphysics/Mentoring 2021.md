@@ -2,7 +2,7 @@
 title: "Mentoring 2021"
 date: 2021-07-08
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ### Lupa kapan

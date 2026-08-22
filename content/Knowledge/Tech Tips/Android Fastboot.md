@@ -2,7 +2,7 @@
 title: "spesn"
 date: 2025-09-13
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 adb reboot bootloader

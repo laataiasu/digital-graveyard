@@ -2,7 +2,7 @@
 title: "Traces, Transactions, Events"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ## Tracking, Functions, and Events in Blockchains

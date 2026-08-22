@@ -2,7 +2,7 @@
 title: "Amazon Web Services (AWS)"
 date: 2021-08-06
 tags: [note]
-publish_external: false
+publish_external: true
 updated: "2023-09-30T09:31"
 ---
 

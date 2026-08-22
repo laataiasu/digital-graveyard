@@ -2,7 +2,7 @@
 title: "Retirement accounts: IRAs and 401ks"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # [**Retirement accounts: IRAs and 401ks**](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/ira-401ks/v/traditional-iras)

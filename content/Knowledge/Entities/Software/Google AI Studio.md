@@ -2,5 +2,5 @@
 title: "Google AI Studio"
 date: 2026-05-19
 tags: [software]
-publish_external: false
+publish_external: true
 ---

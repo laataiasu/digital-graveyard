@@ -2,7 +2,7 @@
 title: "Blockchain and Money"
 date: 2021-06-23
 tags: [note]
-publish_external: false
+publish_external: true
 updated: "2024-01-07T08:31"
 ---
 

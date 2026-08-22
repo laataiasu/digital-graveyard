@@ -2,7 +2,7 @@
 title: "Other Innovation"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 - **AWS Cloud Adoption Framework (AWS CAF)**

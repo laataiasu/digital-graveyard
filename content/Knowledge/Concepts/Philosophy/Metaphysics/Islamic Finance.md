@@ -2,7 +2,7 @@
 title: "Islamic Finance"
 date: 2021-04-04
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ## Table of Content

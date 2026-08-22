@@ -2,7 +2,7 @@
 title: "Storage & Database"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 Instance Store dan Amazon Elastic Block Store (Amazon EBS)

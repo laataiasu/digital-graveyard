@@ -2,7 +2,7 @@
 title: "Riemann Hypothesis"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 The **Riemann Hypothesis** is one of the most famous and long-standing unsolved problems in mathematics. Here's a breakdown of what it is, why it matters, and where things stand today:

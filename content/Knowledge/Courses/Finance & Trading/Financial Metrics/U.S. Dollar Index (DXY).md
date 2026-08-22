@@ -2,7 +2,7 @@
 title: "U.S. Dollar Index (DXY)"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 The U.S. Dollar Index (DXY) is calculated using a weighted geometric mean of the dollar's value relative to a basket of six major currencies. Here's the detailed mathematical formula used to calculate the DXY:

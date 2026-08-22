@@ -2,7 +2,7 @@
 title: "033 Implementing Data Warehouses on AWS"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 Cloud Managed

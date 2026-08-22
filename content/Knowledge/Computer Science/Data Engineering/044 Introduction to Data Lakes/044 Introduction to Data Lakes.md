@@ -2,7 +2,7 @@
 title: "044 Introduction to Data Lakes"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 **Schema-On-Read**: analysis tanpa predefined schema

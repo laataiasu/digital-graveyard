@@ -2,7 +2,7 @@
 title: "Sex, Love, And Attachment"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 **Dr. Helen Fisher – Summary of Key Points**

@@ -2,7 +2,7 @@
 title: "thiel_rogan"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 Sure! Here’s a more organized and concise version of the content, focusing on key points and themes for better learning.

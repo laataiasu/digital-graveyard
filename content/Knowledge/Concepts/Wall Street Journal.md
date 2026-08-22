@@ -2,7 +2,7 @@
 title: "Wall Street Journal"
 date: 2026-08-22
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # Wall Street Journal

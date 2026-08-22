@@ -2,5 +2,5 @@
 title: "Hebrew University"
 date: 2025-07-07
 tags: [school]
-publish_external: false
+publish_external: true
 ---

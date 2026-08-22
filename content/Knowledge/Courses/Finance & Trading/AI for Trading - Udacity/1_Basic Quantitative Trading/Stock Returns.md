@@ -2,7 +2,7 @@
 title: "Stock Returns"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ## 1. Returns

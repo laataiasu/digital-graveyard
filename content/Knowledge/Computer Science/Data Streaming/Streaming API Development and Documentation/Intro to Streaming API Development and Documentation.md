@@ -2,7 +2,7 @@
 title: "Intro to Streaming API Development and Documentation"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # Intro to Streaming API Development and Documentation

@@ -2,7 +2,7 @@
 title: "Assume df is your DataFrame with a 'Date', 'Close', and 'Open' column"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ## 1. Overview: Case Studies on Alpha Factors

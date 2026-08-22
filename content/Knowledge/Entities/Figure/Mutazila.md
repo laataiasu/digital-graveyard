@@ -2,7 +2,7 @@
 title: "Mutazila"
 date: 2026-08-22
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # Mutazila

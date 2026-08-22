@@ -2,7 +2,7 @@
 title: "Data Ingestion with Kafka and Kafka Streaming"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # Data Ingestion with Kafka and Kafka Streaming

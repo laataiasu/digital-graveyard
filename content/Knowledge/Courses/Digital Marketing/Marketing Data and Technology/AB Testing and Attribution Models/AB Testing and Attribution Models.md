@@ -2,7 +2,7 @@
 title: "AB Testing and Attribution Models"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # AB Testing and Attribution Models

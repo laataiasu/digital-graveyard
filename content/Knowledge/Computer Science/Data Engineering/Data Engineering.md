@@ -2,7 +2,7 @@
 title: "Extras"
 date: 2021-06-25
 tags: [note]
-publish_external: false
+publish_external: true
 updated: "2023-09-11T16:04"
 ---
 

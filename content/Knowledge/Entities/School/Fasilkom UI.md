@@ -2,7 +2,7 @@
 title: "Fakultas Ilmu Komputer"
 date: 2001-01-01
 tags: [school]
-publish_external: false
+publish_external: true
 ---
 
 # Fakultas Ilmu Komputer

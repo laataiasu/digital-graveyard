@@ -2,7 +2,7 @@
 title: "Linear Algebra"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ## 1. Essence of Linear Algebra: Introduction

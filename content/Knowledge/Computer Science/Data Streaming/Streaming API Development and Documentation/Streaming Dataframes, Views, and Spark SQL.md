@@ -2,7 +2,7 @@
 title: "Streaming Dataframes, Views, and Spark SQL"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 # Streaming Dataframes, Views, and Spark SQL

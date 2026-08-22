@@ -2,7 +2,7 @@
 title: "Cryptocurrency summary"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 1. **Bitcoin (BTC):** the original. According to the creator (or creators?) Satoshi Nakamoto, it was created to allow “online payments to be sent directly from one party to another without going through a financial institution.”

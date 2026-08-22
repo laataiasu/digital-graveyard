@@ -2,7 +2,7 @@
 title: "Introduction to No-arbitrage"
 date: 2001-01-01
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 ## Contracts, prices, and no-arbitrage

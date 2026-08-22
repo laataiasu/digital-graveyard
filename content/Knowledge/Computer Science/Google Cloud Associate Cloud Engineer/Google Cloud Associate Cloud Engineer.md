@@ -2,7 +2,7 @@
 title: "Google Cloud Associate Cloud Engineer"
 date: 2022-10-17
 tags: [note]
-publish_external: false
+publish_external: true
 updated: "2022-10-19T10:10"
 ---
 

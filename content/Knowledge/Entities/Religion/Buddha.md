@@ -2,7 +2,7 @@
 title: "Buddha"
 date: 2001-01-01
 tags: [religion]
-publish_external: false
+publish_external: true
 ---
 
 # Buddha

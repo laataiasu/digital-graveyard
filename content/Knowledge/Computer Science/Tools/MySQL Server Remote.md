@@ -2,7 +2,7 @@
 title: "MySQL Server Remote"
 date: 2021-07-03T14:23
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 Run a remote MySQL server quickly via Docker:

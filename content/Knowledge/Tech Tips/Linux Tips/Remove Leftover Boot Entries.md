@@ -2,7 +2,7 @@
 title: "Remove Leftover Boot Entries"
 date: 2001-01-01
 tags: [guide]
-publish_external: false
+publish_external: true
 ---
 
 If you have leftover boot entries from old OS installations (like Windows, another Linux distro, etc.), you can clean them up in Linux by following these steps:
