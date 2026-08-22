@@ -1,19 +1,19 @@
 ---
 title: "Fedora DNS and Discord Gateway Stability"
 date: 2026-08-21
-tags: [guide, linux, fedora, dns, discord]
+tags: [guide]
 publish_external: true
 ---
 
 ## The problem
 
-Hermes gateway (Discord bot) on my Fedora 44 workstation kept dropping slash
+Hermes gateway ([[Discord]] bot) on my [[Fedora]] 44 workstation kept dropping slash
 commands: I'd send `/reset` or `/model` from Discord DM or by @mentioning the
 bot in a channel, and often nothing happened — no error, no response.
 
 ## Root cause chain
 
-1. **Flaky DNS from the router.** The wifi connection used the router
+1. **Flaky [[DNS]] from the router.** The wifi connection used the router
    (`192.168.1.1`) as DNS server. It intermittently failed:
    `Cannot connect to host discord.com:443 [Temporary failure in name resolution]`.
 2. **Zombie websocket windows.** Each DNS failure caused Discord gateway

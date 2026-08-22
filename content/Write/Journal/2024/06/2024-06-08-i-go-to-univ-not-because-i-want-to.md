@@ -1,4 +1,5 @@
 ---
+promoted: "Choices Made From Fear"
 title: "i go to univ not because i want to"
 date: 2024-06-08
 tags: [journal]

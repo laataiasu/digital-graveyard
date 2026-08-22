@@ -1,4 +1,5 @@
 ---
+promoted: "Peer Pressure Ends Where Survival Mode Ends"
 title: "its easy nowadays to face the social pressure"
 date: 2024-06-07
 tags: [journal]

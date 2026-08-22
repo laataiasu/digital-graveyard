@@ -121,7 +121,22 @@ Use the process writing workflow in `.agent/workflows/process-writing.md`:
 * Uses Obsidian wikilinks for image references: `![[slug-N.ext]]`.
 * Saves post flat in `content/Write/[Title].md`.
 
-### 2. Standardizing Frontmatter
+### 5. Journal Promotion Workflow (journal → reflection/essay)
+Promoting a journal entry into a public note follows this exact loop:
+1. **Check first**: skip any journal whose frontmatter already has `promoted: "<Note Title>"` — it has been published already. Never promote twice.
+2. **Write a NEW file** in `content/Write/<Title>.md` (never edit the journal body). Frontmatter: real title, original journal date, `tags: [reflection]` or `[essay]`, `publish_external: true` only after safety review.
+3. **Rewrite, don't copy**: strip diary framing, employer names (Krom Bank/Accenture/Telkomsel/Neural Technologies → genericize), identifiable people, and religiously provocative lines. Preserve the author's ideas and voice.
+4. **AI-assistance footer** (mandatory when AI drafted the piece), at the end of the body:
+   ```
+   ---
+
+   *Drafted with AI assistance from my personal journal (<YYYY-MM-DD>), then edited by me. See [[On AI Assistance]].*
+   ```
+   The [[On AI Assistance]] note is the public disclosure page — keep it linked.
+5. **Stamp the source journal**: add `promoted: "<Published Note Title>"` to the journal's frontmatter so future reviews know it's already published.
+6. Journals themselves always stay `publish_external: false`.
+
+### 6. Standardizing Frontmatter
 Run the automated repair script:
 ```bash
 python3 content/.scripts/fix_frontmatter.py
