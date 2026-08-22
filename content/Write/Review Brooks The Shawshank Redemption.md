@@ -1,7 +1,7 @@
 ---
 title: "Review Brooks, 'The Shawshank Redemption"
 date: 2020-12-13
-tags: [film, review, essay]
+tags: [essay, film]
 publish_external: true
 timeline_notification: [1607815342]
 ---

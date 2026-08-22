@@ -1,7 +1,7 @@
 ---
 title: "Toradora!"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2008"
 original_title: "とらドラ！"

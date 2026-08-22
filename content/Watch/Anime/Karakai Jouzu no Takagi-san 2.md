@@ -1,7 +1,7 @@
 ---
 title: "Karakai Jouzu no Takagi-san 2"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2019"
 original_title: "からかい上手の高木さん 2"

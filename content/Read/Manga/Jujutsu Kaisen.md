@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Kaisen"
 date: "2016-01-01"
-tags: [manga, book]
+tags: [manga]
 publish_external: true
 year: "2018"
 original_title: "呪術廻戦"

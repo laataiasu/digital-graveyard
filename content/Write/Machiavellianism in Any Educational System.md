@@ -1,7 +1,7 @@
 ---
 title: "Machiavellianism in Any Educational System"
 date: 2020-11-22
-tags: [film, review, essay]
+tags: [essay, film]
 publish_external: true
 timeline_notification: [1605991931]
 ---

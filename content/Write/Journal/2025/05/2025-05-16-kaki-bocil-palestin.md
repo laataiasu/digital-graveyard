@@ -1,7 +1,7 @@
 ---
 title: "Kaki Bocil Palestin"
 date: 2025-05-16
-tags: [journal, film, review]
+tags: [journal]
 publish_external: false
 draft: true
 ---

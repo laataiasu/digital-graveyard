@@ -1,7 +1,7 @@
 ---
 title: "Humor and Love Part 1"
 date: 2022-12-10
-tags: [journal, review, book]
+tags: [reflection, book]
 publish_external: false
 ---
 

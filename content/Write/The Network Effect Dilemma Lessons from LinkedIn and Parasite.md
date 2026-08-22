@@ -1,7 +1,7 @@
 ---
 title: "The Network Effect Dilemma: Lessons from LinkedIn and Parasite"
 date: 2019-12-07
-tags: [film, review, essay]
+tags: [essay, film]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mushishi"
 date: 2020-09-09
-tags: [film, review]
+tags: [review, film]
 publish_external: true
 ---
 

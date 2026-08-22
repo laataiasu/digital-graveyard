@@ -1,7 +1,7 @@
 ---
 title: "Stories from the Heart"
 date: 2023-01-01
-tags: [literature, journal]
+tags: [literature]
 publish_external: false
 ---
 

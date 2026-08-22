@@ -1,7 +1,7 @@
 ---
 title: "Kakegurui ××"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2019"
 original_title: "賭ケグルイ××"

@@ -1,7 +1,7 @@
 ---
 title: "Prison School"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2015"
 original_title: "監獄学園〈プリズンスクール〉"

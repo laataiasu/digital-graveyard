@@ -1,7 +1,7 @@
 ---
 title: "Cak Nun itu Pengecut"
 date: 2022-10-09
-tags: [essay, review]
+tags: [essay, figure]
 publish_external: false
 ---
 

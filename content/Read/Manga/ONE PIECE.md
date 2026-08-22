@@ -1,7 +1,7 @@
 ---
 title: "ONE PIECE"
 date: "2016-01-01"
-tags: [manga, book]
+tags: [manga]
 publish_external: true
 year: "1997"
 original_title: "ONE PIECE"

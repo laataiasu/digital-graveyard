@@ -1,7 +1,7 @@
 ---
 title: "CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2008"
 original_title: "ＣＬＡＮＮＡＤ もうひとつの世界 智代編"

@@ -1,7 +1,7 @@
 ---
 title: "Asumsi Rasional"
 date: 2023-03-22
-tags: [journal, literature]
+tags: [literature]
 publish_external: true
 ---
 

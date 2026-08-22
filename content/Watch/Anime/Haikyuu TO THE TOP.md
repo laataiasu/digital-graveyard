@@ -1,7 +1,7 @@
 ---
 title: "Haikyuu!! TO THE TOP"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2020"
 original_title: "ハイキュー!! TO THE TOP"

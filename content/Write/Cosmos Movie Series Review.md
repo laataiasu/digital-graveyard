@@ -1,7 +1,7 @@
 ---
 title: "Cosmos Movie Series Review"
 date: 2021-07-27
-tags: [film, review]
+tags: [review, film]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Cowboy Bebop: Tengoku no Tobira"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2001"
 original_title: "カウボーイビバップ天国の扉"

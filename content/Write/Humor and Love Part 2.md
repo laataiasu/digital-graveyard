@@ -1,7 +1,7 @@
 ---
 title: "Humor and Love Part 2"
 date: 2023-02-23
-tags: [journal, review, film]
+tags: [reflection]
 publish_external: false
 ---
 

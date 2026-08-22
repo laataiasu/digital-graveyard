@@ -1,7 +1,7 @@
 ---
 title: "Why Luffy is the Authentic Hegelian Master"
 date: 2023-07-07
-tags: [journal, film]
+tags: [essay, film]
 publish_external: true
 ---
 

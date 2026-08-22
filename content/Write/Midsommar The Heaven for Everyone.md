@@ -1,7 +1,7 @@
 ---
 title: "Midsommar, The Heaven for Everyone"
 date: 2021-01-16
-tags: [film, review, essay]
+tags: [essay, film]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Social Anxiety When Dining Alone in Restaurants"
 date: 2023-09-16
-tags: [journal, book, film]
+tags: [reflection, film]
 publish_external: false
 ---
 

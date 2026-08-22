@@ -1,7 +1,7 @@
 ---
 title: "Review ACN"
 date: 2026-05-20
-tags: [journal, reflection]
+tags: [journal]
 publish_external: false
 ---
 

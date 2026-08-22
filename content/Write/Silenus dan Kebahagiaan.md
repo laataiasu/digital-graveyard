@@ -1,7 +1,7 @@
 ---
 title: "Silenus dan Kebahagiaan"
 date: 2023-09-02
-tags: [essay, book]
+tags: [essay, literature]
 publish_external: true
 ---
 

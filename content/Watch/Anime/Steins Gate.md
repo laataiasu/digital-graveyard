@@ -1,7 +1,7 @@
 ---
 title: "Steins;Gate"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2011"
 original_title: "シュタインズ・ゲート"

@@ -1,7 +1,7 @@
 ---
 title: "Brief Review Kdrama"
 date: 2020-07-24
-tags: [film, review]
+tags: [review, film]
 publish_external: true
 ---
 

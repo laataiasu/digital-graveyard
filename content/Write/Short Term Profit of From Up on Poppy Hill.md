@@ -1,7 +1,7 @@
 ---
 title: "Short-Term Profit of 'From Up on Poppy Hill"
 date: 2021-02-09
-tags: [review, film, essay]
+tags: [essay, film]
 publish_external: true
 timeline_notification: null
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nassim Nicholas Taleb"
 date: 2023-01-23
-tags: [book, figure, review]
+tags: [figure, literature]
 publish_external: true
 ---
 

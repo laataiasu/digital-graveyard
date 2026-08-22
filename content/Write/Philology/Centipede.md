@@ -1,7 +1,7 @@
 ---
 title: "Centipede"
 date: 2020-11-07
-tags: [journal, literature]
+tags: [literature]
 publish_external: true
 ---
 

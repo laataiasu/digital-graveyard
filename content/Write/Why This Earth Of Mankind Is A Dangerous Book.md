@@ -1,7 +1,7 @@
 ---
 title: "Why This Earth Of Mankind Is A Dangerous Book"
 date: 2020-12-19
-tags: [book, essay, review]
+tags: [essay, book]
 publish_external: false
 timeline_notification: [1608377166]
 ---

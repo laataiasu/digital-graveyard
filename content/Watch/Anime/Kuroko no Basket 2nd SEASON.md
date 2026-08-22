@@ -1,7 +1,7 @@
 ---
 title: "Kuroko no Basket 2nd SEASON"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2013"
 original_title: "黒子のバスケ 2nd SEASON"

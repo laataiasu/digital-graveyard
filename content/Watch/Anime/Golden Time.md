@@ -1,7 +1,7 @@
 ---
 title: "Golden Time"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2013"
 original_title: "ゴールデンタイム"

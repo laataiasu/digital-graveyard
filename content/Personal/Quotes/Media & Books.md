@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley"
 date: 2001-01-01
-tags: [book, film]
+tags: [book]
 publish_external: false
 ---
 

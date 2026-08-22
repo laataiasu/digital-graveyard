@@ -1,7 +1,7 @@
 ---
 title: "How Can You Not Be Romantic About Baseball?"
 date: 2021-02-03
-tags: [review, film, essay]
+tags: [essay, film]
 publish_external: true
 ---
 

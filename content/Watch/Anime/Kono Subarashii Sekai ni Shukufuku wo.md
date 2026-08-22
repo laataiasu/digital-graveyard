@@ -1,7 +1,7 @@
 ---
 title: "Kono Subarashii Sekai ni Shukufuku wo!"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2016"
 original_title: "この素晴らしい世界に祝福を！"

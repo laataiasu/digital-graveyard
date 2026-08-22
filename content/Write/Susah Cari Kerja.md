@@ -1,7 +1,7 @@
 ---
 title: "Susah Cari Kerja"
 date: 2022-07-06
-tags: [journal, review, film]
+tags: [journal]
 publish_external: true
 ---
 

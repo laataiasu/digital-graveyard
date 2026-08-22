@@ -1,7 +1,7 @@
 ---
 title: "Steins;Gate: Fuka Ryouiki no Déjà vu"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2013"
 original_title: "劇場版 シュタインズゲート 負荷領域のデジャヴ"

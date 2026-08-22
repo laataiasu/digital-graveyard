@@ -1,7 +1,7 @@
 ---
 title: "Sympathy for the Devil: Empathy for the Rich and Powerful in a Complex Society"
 date: 2023-05-19
-tags: [essay, review, film]
+tags: [essay, film]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Haikyuu!!: Sainou to Sense"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2017"
 original_title: "ハイキュー!! 才能とセンス"

@@ -1,7 +1,7 @@
 ---
 title: "Fiksi Tahu Gimbal"
 date: 2025-07-12
-tags: [journal, literature]
+tags: [literature]
 publish_external: true
 ---
 

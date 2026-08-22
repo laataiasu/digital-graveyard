@@ -1,7 +1,7 @@
 ---
 title: "Chunking Express: Betapa Culasnya Sentuhan Kehidupan"
 date: 2023-01-13
-tags: [film, review]
+tags: [review, film]
 publish_external: true
 ---
 

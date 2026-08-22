@@ -1,7 +1,7 @@
 ---
 title: "Mononoke-hime"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "1997"
 original_title: "もののけ姫"

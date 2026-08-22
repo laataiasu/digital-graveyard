@@ -1,7 +1,7 @@
 ---
 title: "Review Liar's Poker by Michael Lewis"
 date: 2021-08-27
-tags: [book, review]
+tags: [review, book]
 publish_external: true
 ---
 

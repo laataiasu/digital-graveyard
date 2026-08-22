@@ -1,7 +1,7 @@
 ---
 title: "Review The Death of Expertise by Tom Nichols"
 date: 2022-08-28
-tags: [reflection, book, review]
+tags: [review, book]
 publish_external: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Kino no Tabi, Job Hopping and The Modern Nomad"
 date: 2023-08-05
-tags: [essay, film, book]
+tags: [essay, film]
 publish_external: true
 ---
 

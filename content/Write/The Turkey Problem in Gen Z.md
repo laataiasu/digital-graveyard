@@ -1,7 +1,7 @@
 ---
 title: "The Turkey Problem in Gen-Z"
 date: 2023-02-01
-tags: [essay, review, film]
+tags: [essay]
 publish_external: true
 ---
 

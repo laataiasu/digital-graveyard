@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin & Breaking Bad"
 date: 2021-02-15
-tags: [film, review, essay]
+tags: [essay, film]
 publish_external: true
 timeline_notification: [1613322235]
 ---

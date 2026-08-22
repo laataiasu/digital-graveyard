@@ -1,7 +1,7 @@
 ---
 title: "3D Kanojo: Real Girl 2"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2019"
 original_title: "3D彼女 リアルガール 2"

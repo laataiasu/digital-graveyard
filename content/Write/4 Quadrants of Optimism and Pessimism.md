@@ -1,7 +1,7 @@
 ---
 title: "4 Quadrants of Optimism and Pessimism"
 date: 2023-04-24
-tags: [essay, book]
+tags: [essay]
 publish_external: true
 ---
 

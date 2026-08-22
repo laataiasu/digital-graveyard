@@ -1,7 +1,7 @@
 ---
 title: "Review Daerah Salju Yasunari Kawabata"
 date: 2020-07-29
-tags: [book, review]
+tags: [review, book]
 publish_external: true
 updated: "2020-12-11T07:05:16.857-08:00"
 ---

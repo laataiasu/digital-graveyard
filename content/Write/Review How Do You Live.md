@@ -1,7 +1,7 @@
 ---
 title: "Review How Do You Live"
 date: 2023-12-09
-tags: [journal, book, review]
+tags: [review, book]
 publish_external: true
 ---
 

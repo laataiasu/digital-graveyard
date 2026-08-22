@@ -1,7 +1,7 @@
 ---
 title: "Boku no Hero Academia 2"
 date: "2016-01-01"
-tags: [anime, film]
+tags: [anime]
 publish_external: true
 year: "2017"
 original_title: "僕のヒーローアカデミア２"
