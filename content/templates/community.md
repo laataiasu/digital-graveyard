@@ -1,7 +1,9 @@
 ---
 title: "{{title}}"
-date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
-tags: [note]
-  - community
+date: {{date:YYYY-MM-DD}}
+tags: [organization]
 publish_external: true
 ---
+
+# {{title}}
+

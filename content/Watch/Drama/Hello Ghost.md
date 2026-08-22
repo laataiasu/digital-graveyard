@@ -1,13 +1,13 @@
 ---
 title: "Hello Ghost"
-date: "2016-01-01"
-tags: [film, drama]
+date: 2016-01-01
+tags: [drama]
 publish_external: true
-year: "2010"
-status: "1/1"
-rating: "8.5"
-progress: "1/1"
-source: "mydramalist"
+year: 2010
+status: 1/1
+rating: 8.5
+progress: 1/1
+source: mydramalist
 ---
 
 # Hello Ghost

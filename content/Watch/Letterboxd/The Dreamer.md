@@ -1,15 +1,15 @@
 ---
 title: "The Dreamer"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2009"
-rating: "3.0"
-source: "letterboxd"
+year: 2009
+rating: 3
+source: letterboxd
 ---
 
 # The Dreamer
 
 - **Year:** 2009
-- **Rating:** 3.0
+- **Rating:** 3
 - **Source:** letterboxd

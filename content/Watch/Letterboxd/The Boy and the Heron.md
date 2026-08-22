@@ -1,11 +1,11 @@
 ---
 title: "The Boy and the Heron"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2023"
-rating: "3.5"
-source: "letterboxd"
+year: 2023
+rating: 3.5
+source: letterboxd
 ---
 
 # The Boy and the Heron

@@ -1,11 +1,11 @@
 ---
 title: "Murder on the Orient Express"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Agatha Christie"
-year: "2017"
-source: "hardcover"
+author: Agatha Christie
+year: 2017
+source: hardcover
 ---
 
 # Murder on the Orient Express

@@ -1,11 +1,11 @@
 ---
 title: "Tahafut Al-Falasifah"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Abu Hamid al-Ghazali"
-year: "1100"
-source: "hardcover"
+author: Abu Hamid al-Ghazali
+year: 1100
+source: hardcover
 ---
 
 # Tahafut Al-Falasifah

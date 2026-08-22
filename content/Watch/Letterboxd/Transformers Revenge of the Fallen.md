@@ -1,11 +1,11 @@
 ---
 title: "Transformers: Revenge of the Fallen"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2009"
-rating: "2.5"
-source: "letterboxd"
+year: 2009
+rating: 2.5
+source: letterboxd
 ---
 
 # Transformers: Revenge of the Fallen

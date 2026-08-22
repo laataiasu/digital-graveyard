@@ -1,11 +1,11 @@
 ---
 title: "Nausicaä of the Valley of the Wind"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "1984"
-rating: "2.5"
-source: "letterboxd"
+year: 1984
+rating: 2.5
+source: letterboxd
 ---
 
 # Nausicaä of the Valley of the Wind

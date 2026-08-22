@@ -1,6 +1,9 @@
 ---
 title: "{{title}}"
-date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
-tags: ["knowledge"]
+date: {{date:YYYY-MM-DD}}
+tags: [note]
 publish_external: true
 ---
+
+# {{title}}
+

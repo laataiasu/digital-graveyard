@@ -1,9 +1,9 @@
 ---
-promoted: "AI Democratized Software Engineering"
 title: "Art Is Dead"
 date: 2025-05-11
 tags: [journal]
 publish_external: false
+promoted: AI Democratized Software Engineering
 draft: true
 ---
 

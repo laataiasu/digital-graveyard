@@ -1,11 +1,11 @@
 ---
 title: "Kokoro Connect: Michi Random"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [anime]
 publish_external: true
-year: "2012"
-original_title: "ココロコネクト ミチランダム"
-source: "anilist"
+year: 2012
+original_title: ココロコネクト ミチランダム
+source: anilist
 ---
 
 # Kokoro Connect: Michi Random

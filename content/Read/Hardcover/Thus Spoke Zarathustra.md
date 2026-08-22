@@ -1,11 +1,11 @@
 ---
 title: "Thus Spoke Zarathustra"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Friedrich Nietzsche, Stephen J. Metcalf"
-year: "1883"
-source: "hardcover"
+year: 1883
+source: hardcover
 ---
 
 # Thus Spoke Zarathustra

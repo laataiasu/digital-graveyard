@@ -1,9 +1,9 @@
 ---
-promoted: "Everyone Lives in a Different World"
 title: "2024-06-06"
 date: 2024-06-06
 tags: [journal]
 publish_external: false
+promoted: Everyone Lives in a Different World
 draft: true
 ---
 

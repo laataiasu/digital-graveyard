@@ -1,11 +1,11 @@
 ---
 title: "Eternal Sunshine of the Spotless Mind"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2004"
-rating: "3.5"
-source: "letterboxd"
+year: 2004
+rating: 3.5
+source: letterboxd
 ---
 
 # Eternal Sunshine of the Spotless Mind

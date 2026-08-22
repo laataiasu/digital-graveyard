@@ -1,11 +1,11 @@
 ---
 title: "Child of All Nations"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Pramoedya Ananta Toer, Max Lane, Pramoedya Ananta Toer"
-year: "1975"
-source: "hardcover"
+year: 1975
+source: hardcover
 ---
 
 # Child of All Nations

@@ -22,7 +22,7 @@ i dont know why i want to reflect right now, maybe its because i am ~~unemployed
     - why i got this ambition? i blame it to my prev classmate who is korwat (koordinator akhwat) in my high school that recommend me to become a chief of Rohis (Muslim Association) in my high school
     - this makes me feel like i can be repaired, i feel like i have a chance to be a good muslim
   - i try to pura-pura baik in front of others, like most of rohis, not talking and whatnot. 
-  - when someone in faculty gathering said adult jokes, i pretend not to know and i hold my laugh, even though i sell flaskdisk full of bokep when i was in my SMP, and my phone became source of nobar bokep when in karya wisata to yogyakarta.
+  - when someone in faculty gathering said adult jokes, i pretend not to know and i hold my laugh, even though i sell flaskdisk full of bokep when i was in my SMP, and my phone became source of nobar bokep when in karya wisata to [[Yogyakarta]].
   - then i realized, im not terlalu akrab with friends there, only a few.
   - at first i adapt well in the faculty orientation period, the seniors are very friendly and i feel like i can keep up with them
   - then the second semester hit, i realized that i lonely and don't have many friends

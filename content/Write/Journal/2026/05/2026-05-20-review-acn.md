@@ -37,7 +37,7 @@ very bad talent mapping. i got background in data & AI engineering, but assigned
 
 [+] too comforting, hard to increase title or salary because the job is just operation and support. 
 [+] i hate consulting, because they made something simple to be complex, and in order to get a job they need to make the client depends on them. always seen as external. 
-[+] very hot and lack of event, or nice places in semarang. i need proper library like in TIM or perpusnas. 
+[+] very hot and lack of event, or nice places in [[Semarang]]. i need proper library like in TIM or perpusnas. 
 [-] not very crowded, so with motorcycle, my commuting time is only less than 30 minutes.
 [-] i will lose the opportunity to get to know other deeply here, since the people has good background, it will be wasted. 
 [-] lose opportunity to take leave, because lots of leave option heres compare to my new company. 

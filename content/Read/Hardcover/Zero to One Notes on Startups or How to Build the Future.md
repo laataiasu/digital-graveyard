@@ -1,11 +1,11 @@
 ---
 title: "Zero to One: Notes on Startups, or How to Build the Future"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Peter Thiel, Blake  Masters"
-year: "2001"
-source: "hardcover"
+year: 2001
+source: hardcover
 ---
 
 # Zero to One: Notes on Startups, or How to Build the Future

@@ -1,11 +1,11 @@
 ---
 title: "XOXO"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2016"
-rating: "1.5"
-source: "letterboxd"
+year: 2016
+rating: 1.5
+source: letterboxd
 ---
 
 # XOXO

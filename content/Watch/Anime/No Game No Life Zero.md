@@ -1,11 +1,11 @@
 ---
 title: "No Game No Life Zero"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [anime]
 publish_external: true
-year: "2017"
-original_title: "ノーゲーム・ノーライフ ゼロ"
-source: "anilist"
+year: 2017
+original_title: ノーゲーム・ノーライフ ゼロ
+source: anilist
 ---
 
 # No Game No Life Zero

@@ -1,19 +1,19 @@
 ---
 title: "Secret Garden Special  Korean TV Show"
-date: "2016-01-01"
-tags: [film, drama]
+date: 2016-01-01
+tags: [drama]
 publish_external: true
-year: "2011"
-status: "1/1"
-rating: "5.0"
-progress: "1/1"
-source: "mydramalist"
+year: 2011
+status: 1/1
+rating: 5
+progress: 1/1
+source: mydramalist
 ---
 
 # Secret Garden Special  Korean TV Show
 
 - **Year:** 2011
 - **Status:** 1/1
-- **Rating:** 5.0
+- **Rating:** 5
 - **Progress:** 1/1
 - **Source:** mydramalist

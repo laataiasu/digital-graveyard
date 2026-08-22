@@ -1,11 +1,11 @@
 ---
 title: "Shōgun"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2024"
-rating: "3.5"
-source: "letterboxd"
+year: 2024
+rating: 3.5
+source: letterboxd
 ---
 
 # Shōgun

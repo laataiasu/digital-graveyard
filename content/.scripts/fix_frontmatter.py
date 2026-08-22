@@ -11,14 +11,14 @@ def get_head_publish_true_files():
     """Get the exact list of files that had publish_external: true in git HEAD."""
     try:
         res = subprocess.run(
-            ["git", "grep", "-l", "publish_external: true", "HEAD", "--", "content/"],
+            ["git", "-c", "core.quotepath=false", "grep", "-l", "publish_external: true", "HEAD", "--", "content/"],
             cwd=os.path.dirname(CONTENT_DIR),
             capture_output=True,
             text=True
         )
         files = set()
         for line in res.stdout.splitlines():
-            line = line.strip().replace("HEAD:", "")
+            line = line.strip().replace("HEAD:", "").strip('"\'')
             # Convert to relative path from CONTENT_DIR
             if line.startswith("content/"):
                 line = line[len("content/"):]
@@ -287,9 +287,13 @@ def build_fixed_content(full_content, filepath):
     # 3. Resolve Tags
     tags = normalize_tags(fm_data.get("tags"), rel_path)
 
-    # 4. Resolve publish_external (STRICT PRIVACY: False unless originally true in git HEAD)
-    if norm_rel in HEAD_PUBLISH_TRUE_FILES:
-        publish_external = True
+    # 4. Resolve publish_external (STRICT PRIVACY: False unless originally true in git HEAD or explicitly set true)
+    if norm_rel in HEAD_PUBLISH_TRUE_FILES or fm_data.get("publish_external") is True:
+        # Strictly enforce privacy for journals, drafts, and personal links
+        if "/Journal/" in rel_path or "\\Journal\\" in rel_path or "_draft" in rel_path or rel_path == "Write/Links.md":
+            publish_external = False
+        else:
+            publish_external = True
     else:
         publish_external = False
 

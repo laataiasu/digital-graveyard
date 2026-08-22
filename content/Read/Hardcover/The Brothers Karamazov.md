@@ -1,11 +1,11 @@
 ---
 title: "The Brothers Karamazov"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky"
-year: "1876"
-source: "hardcover"
+year: 1876
+source: hardcover
 ---
 
 # The Brothers Karamazov

@@ -1,11 +1,11 @@
 ---
 title: "Shingeki no Kyojin"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [manga]
 publish_external: true
-year: "2009"
-original_title: "進撃の巨人"
-source: "anilist"
+year: 2009
+original_title: 進撃の巨人
+source: anilist
 ---
 
 # Shingeki no Kyojin

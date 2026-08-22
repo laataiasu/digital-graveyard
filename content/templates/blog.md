@@ -1,9 +1,9 @@
 ---
-title: "Template"
-date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
-draft: true
-tags: [note]
-description: ""
-enableToc: false
-publish_external: false
+title: "{{title}}"
+date: {{date:YYYY-MM-DD}}
+tags: [essay]
+publish_external: true
 ---
+
+# {{title}}
+

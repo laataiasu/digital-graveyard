@@ -1,11 +1,11 @@
 ---
 title: "Steins;Gate"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [anime]
 publish_external: true
-year: "2011"
-original_title: "シュタインズ・ゲート"
-source: "anilist"
+year: 2011
+original_title: シュタインズ・ゲート
+source: anilist
 ---
 
 # Steins;Gate

@@ -1,9 +1,9 @@
 ---
-promoted: "The Internet Is the Only Immortality Machine"
 title: "2024-10-18"
 date: 2024-10-18
 tags: [journal]
 publish_external: false
+promoted: The Internet Is the Only Immortality Machine
 draft: true
 ---
 

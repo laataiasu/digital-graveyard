@@ -1,7 +1,7 @@
 ---
 title: "Gulf Tech Job Hunting"
-date: 2026-08-22T17:00:00+07:00
-tags: ["guide"]
+date: 2026-08-22
+tags: [guide]
 publish_external: true
 ---
 

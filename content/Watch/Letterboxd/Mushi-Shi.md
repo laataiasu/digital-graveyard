@@ -1,15 +1,15 @@
 ---
 title: "Mushi-Shi"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2005"
-rating: "4.0"
-source: "letterboxd"
+year: 2005
+rating: 4
+source: letterboxd
 ---
 
 # Mushi-Shi
 
 - **Year:** 2005
-- **Rating:** 4.0
+- **Rating:** 4
 - **Source:** letterboxd

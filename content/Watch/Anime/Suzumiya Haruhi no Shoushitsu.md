@@ -1,11 +1,11 @@
 ---
 title: "Suzumiya Haruhi no Shoushitsu"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [anime]
 publish_external: true
-year: "2010"
-original_title: "涼宮ハルヒの消失"
-source: "anilist"
+year: 2010
+original_title: 涼宮ハルヒの消失
+source: anilist
 ---
 
 # Suzumiya Haruhi no Shoushitsu

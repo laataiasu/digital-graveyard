@@ -1,11 +1,11 @@
 ---
 title: "Models of My Life"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Herbert A. Simon"
-year: "1991"
-source: "hardcover"
+author: Herbert A. Simon
+year: 1991
+source: hardcover
 ---
 
 # Models of My Life

@@ -1,11 +1,11 @@
 ---
 title: "The Power Law: Inside Silicon Valley's Venture Capital Machine"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Sebastian Mallaby"
-year: "2022"
-source: "hardcover"
+author: Sebastian Mallaby
+year: 2022
+source: hardcover
 ---
 
 # The Power Law: Inside Silicon Valley's Venture Capital Machine

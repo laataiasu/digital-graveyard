@@ -15,7 +15,7 @@ I grew up being taught as a Muslim. There were many rules, many boundaries, many
 
 It is difficult to explain the process. But at some point, I just wanted to reset everything.
 
-I had never eaten pork before. Then one day, I tried it for the first time through GrabFood from Warung Kelengan in Semarang. I ordered nasi campur. I felt strangely nervous. Doki-doki. The driver seemed confused because my name is Muhammad and I was ordering pork. It was a small act, but symbolically it felt huge. It felt like crossing a line that had existed in my head since childhood.
+I had never eaten pork before. Then one day, I tried it for the first time through GrabFood from Warung Kelengan in [[Semarang]]. I ordered nasi campur. I felt strangely nervous. Doki-doki. The driver seemed confused because my name is Muhammad and I was ordering pork. It was a small act, but symbolically it felt huge. It felt like crossing a line that had existed in my head since childhood.
 
 My previous values also made me avoid banking and fintech. I wanted to stay away from the world of riba. But my work became unbearably boring. I could not see a future in it. So I started applying again on LinkedIn, almost out of doom and desperation.
 

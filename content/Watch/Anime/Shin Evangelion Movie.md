@@ -1,11 +1,11 @@
 ---
 title: "Shin Evangelion Movie:||"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [anime]
 publish_external: true
-year: "2021"
+year: 2021
 original_title: "シン・エヴァンゲリオン劇場版:||"
-source: "anilist"
+source: anilist
 ---
 
 # Shin Evangelion Movie:||

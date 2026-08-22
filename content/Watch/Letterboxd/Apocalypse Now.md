@@ -1,11 +1,11 @@
 ---
 title: "Apocalypse Now"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "1979"
-rating: "3.5"
-source: "letterboxd"
+year: 1979
+rating: 3.5
+source: letterboxd
 ---
 
 # Apocalypse Now

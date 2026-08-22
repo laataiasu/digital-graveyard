@@ -1,11 +1,11 @@
 ---
 title: "Ex Machina"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "2015"
-rating: "3.5"
-source: "letterboxd"
+year: 2015
+rating: 3.5
+source: letterboxd
 ---
 
 # Ex Machina

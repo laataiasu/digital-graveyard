@@ -1,11 +1,11 @@
 ---
 title: "Kafka on the Shore"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Haruki Murakami, Philip Gabriel"
-year: "2001"
-source: "hardcover"
+year: 2001
+source: hardcover
 ---
 
 # Kafka on the Shore

@@ -1,11 +1,11 @@
 ---
 title: "Fight Club"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "1999"
-rating: "3.5"
-source: "letterboxd"
+year: 1999
+rating: 3.5
+source: letterboxd
 ---
 
 # Fight Club

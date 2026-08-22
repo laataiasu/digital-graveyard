@@ -5,7 +5,6 @@ export default {
     title: "ללא כותרת",
     description: "לא סופק תיאור",
   },
-  direction: "rtl" as const,
   components: {
     callout: {
       note: "הערה",

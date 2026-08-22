@@ -3,7 +3,7 @@ title: "Review Sixth Sense (1999)"
 date: 2018-06-03
 tags: [review, film]
 publish_external: true
-updated: 2026-08-21 23:16:57
+updated: 2026-08-21
 ---
 
 >MENGANDUNG SPOILER  

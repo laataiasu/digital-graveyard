@@ -1,11 +1,11 @@
 ---
 title: "Man's Search for Meaning"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Viktor E. Frankl, Gordon W. Allport"
-year: "1946"
-source: "hardcover"
+year: 1946
+source: hardcover
 ---
 
 # Man's Search for Meaning

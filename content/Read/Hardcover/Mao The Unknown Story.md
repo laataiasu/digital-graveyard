@@ -1,11 +1,11 @@
 ---
 title: "Mao: The Unknown Story"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Jung Chang, Jon Halliday"
-year: "2002"
-source: "hardcover"
+year: 2002
+source: hardcover
 ---
 
 # Mao: The Unknown Story

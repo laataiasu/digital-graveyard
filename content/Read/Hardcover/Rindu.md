@@ -1,11 +1,11 @@
 ---
 title: "Rindu"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Tere Liye"
-year: "2014"
-source: "hardcover"
+author: Tere Liye
+year: 2014
+source: hardcover
 ---
 
 # Rindu

@@ -13,7 +13,7 @@ If everything is positive-sum, it means that whatever you do, whatever is domina
 
 I understood this most clearly not from theory but from a plate of chicken and rice.
 
-In Semarang I once bought nasi ayam for six thousand rupiah from an elderly woman who carried her whole kitchen in a large basket on her back. She was unlike the modern people around her in one crucial way: she was not enslaved by desire. She felt she had enough. She didn't strategize about lowering costs or raising margins. Being able to provide for herself completed her; being useful to others was a bonus, not a KPI.
+In [[Semarang]] I once bought nasi ayam for six thousand rupiah from an elderly woman who carried her whole kitchen in a large basket on her back. She was unlike the modern people around her in one crucial way: she was not enslaved by desire. She felt she had enough. She didn't strategize about lowering costs or raising margins. Being able to provide for herself completed her; being useful to others was a bonus, not a KPI.
 
 After eating that meal, I cried. It felt like remembering something my parents had taught me since birth and that I had lost somewhere along the way: the feeling of enough. The feeling of gratitude. The modern world hadn't taken it by force — I had traded it away, quietly, in exchange for options and ambition.
 

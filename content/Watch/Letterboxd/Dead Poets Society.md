@@ -1,15 +1,15 @@
 ---
 title: "Dead Poets Society"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "1989"
-rating: "4.0"
-source: "letterboxd"
+year: 1989
+rating: 4
+source: letterboxd
 ---
 
 # Dead Poets Society
 
 - **Year:** 1989
-- **Rating:** 4.0
+- **Rating:** 4
 - **Source:** letterboxd

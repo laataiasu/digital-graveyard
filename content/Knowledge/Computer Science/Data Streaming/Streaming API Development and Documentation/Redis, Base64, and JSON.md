@@ -225,10 +225,12 @@ It can be used to represent any binary data, including text and photographs.
 Above is a table that shows the key for each letter, and what it represents. The padding character is an equals sign.
 
 HTML Using Base64
+```html
 <div>
 <p>Smiley Face</p>
-![[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAYAAAA10dzkAAAEGWlDQ1B]]
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==" alt="Smiley Face" />
 </div>
+```
 Explanation of HTML Using Base64
 Sometimes document formatted messages contain encoded information:
 

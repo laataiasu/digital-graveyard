@@ -1,11 +1,11 @@
 ---
 title: "Snow Crash"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Neal Stephenson"
-year: "1992"
-source: "hardcover"
+author: Neal Stephenson
+year: 1992
+source: hardcover
 ---
 
 # Snow Crash

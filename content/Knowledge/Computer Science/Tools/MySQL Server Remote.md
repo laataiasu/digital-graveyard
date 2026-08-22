@@ -1,6 +1,6 @@
 ---
 title: "MySQL Server Remote"
-date: 2021-07-03T14:23
+date: 2021-07-03
 tags: [note]
 publish_external: true
 ---

@@ -5,7 +5,7 @@ tags: [reflection]
 publish_external: false
 ---
 
-Here’s a **lazy-friendly list** -- all are **cheap, easy to find in Semarang**, and **can be eaten raw or after very quick prep (steam / boil)**.
+Here’s a **lazy-friendly list** -- all are **cheap, easy to find in [[Semarang]]**, and **can be eaten raw or after very quick prep (steam / boil)**.
 
 ---
 
@@ -117,7 +117,7 @@ Here’s a **lazy-friendly list** -- all are **cheap, easy to find in Semarang**
     
 - **Nutrients:** beta-carotene, vitamin C -- helps collagen and glow.
     
-- **Tip:** when in season, super cheap in Semarang (especially _mangga arumanis_).
+- **Tip:** when in season, super cheap in [[Semarang]] (especially _mangga arumanis_).
     
 
 ---

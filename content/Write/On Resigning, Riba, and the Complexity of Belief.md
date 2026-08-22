@@ -19,4 +19,4 @@ and my work colleague that often talk with me about religious things not push me
 
 and yesterday we did karaoke. i sing cup of joe - multo , hindia - everything you are, man who can't be moved, ost the apple of my eye. i really enjoyed it, i initiate the session with multo. my voice is standard, but got that confident that i can sing, because it's from my mother's genetic. 
 
-i don't know what to write anymore, actually there's too many. but i will just stop right now. i need to fix my schedule, i want to retreat first to bali and i never ride a plane before so i will try it. i need to sell my things here in semarang before moving to jakarta, and do packing which is so boring and tiring. 
+i don't know what to write anymore, actually there's too many. but i will just stop right now. i need to fix my schedule, i want to retreat first to bali and i never ride a plane before so i will try it. i need to sell my things here in [[Semarang]] before moving to jakarta, and do packing which is so boring and tiring. 

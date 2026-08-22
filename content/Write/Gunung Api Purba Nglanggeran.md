@@ -6,7 +6,7 @@ publish_external: true
 timeline_notification: [1598065140]
 ---
 
-It was monday, 29 december when I was in Yogya. I went to yogya to attend my relative's wedding party in 28. My train seted out on 29 in the night. I was sick and tired to stay in my grandma's house. Actually, I have made the itinerary if I visit Yogya again. But the plan is just a plan. I don't know, its not because I'm scared of travelling alone but i'm too lazy to go anywhere so whenever I go to yogya I always spent my time on my grandma's house.
+It was monday, 29 december when I was in Yogya ([[Yogyakarta]]). I went to yogya to attend my relative's wedding party in 28. My train seted out on 29 in the night. I was sick and tired to stay in my grandma's house. Actually, I have made the itinerary if I visit Yogya again. But the plan is just a plan. I don't know, its not because I'm scared of travelling alone but i'm too lazy to go anywhere so whenever I go to yogya I always spent my time on my grandma's house.
 
 I was thinking so hard and tired, until I wake up at 12, pray, took a bath, and had a lunch. I was still considering whether I go or not. And in 2 pm, finally I decided to go to Volcano Mountain Nglanggeran .
 
@@ -48,7 +48,7 @@ The time showed at 5 o'clock so I commit to myself if until 6 I still haven't se
 
 And I was going back again at 5.30. The path is very slippery and actually more tiring than climbing but I was going faster because I am afraid of dark and lost.
 
-I arrived at the starting spot at 6 and rode motorcycle back to Yogyakarta. Because my train depart at 11, I was going to go around Yogyakarta to look the circumtances, went to Jogokaryan Mosque, ate at burjo, and pulled over at a madrasah's mosque near UGM.  In there I took a shower and change my wet clothes. Then, I going back again to near UGM where the motorcycle is rented. I returned the motorcycle and took a gojek to go to train station.
+I arrived at the starting spot at 6 and rode motorcycle back to [[Yogyakarta]]. Because my train depart at 11, I was going to go around Yogyakarta to look the circumtances, went to Jogokaryan Mosque, ate at burjo, and pulled over at a madrasah's mosque near UGM.  In there I took a shower and change my wet clothes. Then, I going back again to near UGM where the motorcycle is rented. I returned the motorcycle and took a gojek to go to train station.
 
 Luckily, I got a friendly driver at the time. He told me that he was from a campus with a major in management. He asked about me and I said I take [[Information System]] major in [[Universitas Indonesia]]. I asked management graduate is well paid right? "What do you actually work for and why do you work as a driver too?" He said that he was a salesman and because the UMR in Yogya was low, he needed to take a job as a driver to support his wife and Family.
 

@@ -1,15 +1,11 @@
 ---
 title: "{{title}}"
-date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
+date: {{date:YYYY-MM-DD}}
+tags: [guide]
+publish_external: true
 aliases:
-  - KG Modeling
-  - Ontology
-tags: [note]
-  - knowledge-graph
-  - ontology
-  - rdf
-  - sparql
-  - entity-type
-  - semantic-web
-source: Project X KG Draft
+  - "{{title}}"
 ---
+
+# {{title}}
+

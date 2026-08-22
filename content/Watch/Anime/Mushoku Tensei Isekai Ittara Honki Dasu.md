@@ -1,11 +1,11 @@
 ---
 title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [anime]
 publish_external: true
-year: "2021"
-original_title: "無職転生 ～異世界行ったら本気だす～"
-source: "anilist"
+year: 2021
+original_title: 無職転生 ～異世界行ったら本気だす～
+source: anilist
 ---
 
 # Mushoku Tensei: Isekai Ittara Honki Dasu

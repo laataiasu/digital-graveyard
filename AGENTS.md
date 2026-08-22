@@ -81,7 +81,7 @@ Tags are reserved exclusively for the structural **format** or **archetype** of 
 * **Writing & Reflection**: `journal`, `essay`, `review`, `reflection`, `literature`
 * **Knowledge & Technical**: `guide`, `cheatsheet`, `note`, `interesting-terms`
 * **Projects**: `project`, `case-study`
-* **Entities / Index Stubs**: `figure`, `company`, `software`, `gadget`, `country`, `organization`, `school`, `religion`
+* **Entities / Index Stubs**: `figure`, `company`, `software`, `gadget`, `country`, `place`, `organization`, `school`, `religion`
 
 ### 2. Wikilinks (`[[Concept]]`): Exclusively for Concepts, Topics, & Entities
 * **Never tag topics or entities** (e.g. do **NOT** use `tags: [linux, devops, productivity, philosophy, muslim]`).

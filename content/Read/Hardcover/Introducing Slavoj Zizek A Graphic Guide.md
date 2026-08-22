@@ -1,11 +1,11 @@
 ---
 title: "Introducing Slavoj Zizek: A Graphic Guide"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Christopher Kul-Want, Piero"
-year: "2011"
-source: "hardcover"
+year: 2011
+source: hardcover
 ---
 
 # Introducing Slavoj Zizek: A Graphic Guide

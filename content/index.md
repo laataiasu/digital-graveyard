@@ -27,4 +27,4 @@ If you're cooking up something cool -- Reach out to me on:
 
 ---
 
-This digital garden runs on [Foam](https://github.com/foambubble/foam-template) + [[Obsidian]].
+This digital garden runs on [[Quartz]] + [[MarkGarden]].

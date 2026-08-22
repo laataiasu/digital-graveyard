@@ -1,11 +1,11 @@
 ---
 title: "Children of Heaven"
-date: "2016-01-01"
+date: 2016-01-01
 tags: [film]
 publish_external: true
-year: "1997"
-rating: "3.5"
-source: "letterboxd"
+year: 1997
+rating: 3.5
+source: letterboxd
 ---
 
 # Children of Heaven

@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Base"
 date: 2024-01-01
-tags: [moc]
+tags: [note]
 publish_external: true
 ---
 

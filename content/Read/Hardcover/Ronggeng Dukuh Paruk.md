@@ -1,11 +1,11 @@
 ---
 title: "Ronggeng Dukuh Paruk"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Ahmad Tohari"
-year: "2003"
-source: "hardcover"
+author: Ahmad Tohari
+year: 2003
+source: hardcover
 ---
 
 # Ronggeng Dukuh Paruk

@@ -1,17 +1,17 @@
 ---
 title: "My First Real Solo Holiday in Bali, Surabaya, and a King Who Couldn't Fart"
 date: 2026-06-15
-tags: [journal]
+tags: [essay]
 publish_external: true
 ---
 
-I recently took what I consider my first real solo holiday. It started from Semarang, went to Bali, then Surabaya, then back to Semarang by train.
+I recently took what I consider my first real solo holiday. It started from [[Semarang]], went to [[Bali]], then [[Surabaya]], then back to [[Semarang]] by train. More travel pieces live under [[Travel]].
 
 The plan looked clean on calendar. Flights, hotels, beaches, museums, food stops, buffers. A civilized itinerary. But of course, reality was messier. And honestly, the messy parts were the best parts.
 
 ## Day 1 — First Flight, First Chaos
 
-This was my first flight from Semarang to Bali. The original idea was simple: land, rent a motorcycle, go to the hotel in Legian, drop some bags, eat, and slowly start exploring.
+This was my first flight from [[Semarang]] to Bali. The original idea was simple: land, rent a motorcycle, go to the hotel in Legian, drop some bags, eat, and slowly start exploring.
 
 The first meal was not some famous Balinese restaurant. It was a random nasi jinggo on the road. Meat, rice, sambal, wrapped small, cost 7k rupiah. Perfect. This is the kind of food that makes traveling feel honest.
 
@@ -19,7 +19,7 @@ After dropping my bags at the hotel, I went around Kuta, Legian, Double Six, and
 
 That became one early lesson of the trip: malls and mosques are underrated survival infrastructure.
 
-I checked in around 2 PM, ate some boiled eggs I had brought from Semarang, then went out again. I checked Pantai Berawa, didn’t even park, just looked at it, then continued to Batu Bolong for sunset.
+I checked in around 2 PM, ate some boiled eggs I had brought from [[Semarang]], then went out again. I checked Pantai Berawa, didn’t even park, just looked at it, then continued to Batu Bolong for sunset.
 
 Canggu was chaotic. Too many foreigners, too much traffic, too much “lifestyle.” I didn’t like it. It felt like a place designed for people trying to look like they are escaping capitalism while paying premium prices to perform freedom.
 
@@ -107,7 +107,7 @@ The preacher delivered it loudly, basically shouting: “Government, do not be o
 
 I almost laughed during the sermon. Not because the message was wrong. The message was actually good. But the story was so absurd. A political sermon through a royal fart parable. 10/10 experience.
 
-After that, I took the train back to Semarang.
+After that, I took the train back to [[Semarang]].
 
 ## What I Learned
 

@@ -1,11 +1,11 @@
 ---
 title: "The (Mis)Behavior of Markets"
-date: "2025-06-19"
+date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Benoît B. Mandelbrot, Richard L. Hudson"
-year: "1997"
-source: "hardcover"
+year: 1997
+source: hardcover
 ---
 
 # The (Mis)Behavior of Markets
