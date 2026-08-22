@@ -6,7 +6,7 @@ publish_external: false
 timeline_notification: [1605416506]
 ---
 
-![[https://youtu.be/HFUPPgAw2Ts]]
+![https://youtu.be/HFUPPgAw2Ts](https://youtu.be/HFUPPgAw2Ts)
 
 Narrated from Ibn Umar Radhiyallahu anhu, the Prophet sallallaahu 'alaihi wa sallam said:
 
@@ -38,7 +38,7 @@ When we are looking at someone who is smiling we can't assume something about th
 
 Like this guy,
 
-![[https://youtu.be/85Y1CqAF-nw]]
+![https://youtu.be/85Y1CqAF-nw](https://youtu.be/85Y1CqAF-nw)
 
 We can't assume his smile is a fake because after that event he committed suicide. Because there are things we can't predict and all moments only need to be understood at that moment.
 

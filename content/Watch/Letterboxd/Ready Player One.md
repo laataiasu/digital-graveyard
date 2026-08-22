@@ -1,5 +1,5 @@
 ---
-title: Ready Player One
+title: "Ready Player One"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Move to Heaven
+title: "Move to Heaven"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

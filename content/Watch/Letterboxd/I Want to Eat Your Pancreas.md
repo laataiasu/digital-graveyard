@@ -1,5 +1,5 @@
 ---
-title: I Want to Eat Your Pancreas
+title: "I Want to Eat Your Pancreas"
 date: 2016-01-01
 tags: [film]
 publish_external: false

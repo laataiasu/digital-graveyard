@@ -1,5 +1,5 @@
 ---
-title: Rope
+title: "Rope"
 date: 2016-01-01
 tags: [film]
 publish_external: false

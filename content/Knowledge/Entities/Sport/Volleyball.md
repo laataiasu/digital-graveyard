@@ -1,6 +1,6 @@
 ---
 title: "Volleyball"
 date: 2025-07-07
-tags: []
+tags: [note]
 publish_external: false
 ---

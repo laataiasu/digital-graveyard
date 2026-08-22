@@ -1,5 +1,5 @@
 ---
-title: The Imitation Game
+title: "The Imitation Game"
 date: 2016-01-01
 tags: [film]
 publish_external: false

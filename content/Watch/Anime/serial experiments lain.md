@@ -1,5 +1,5 @@
 ---
-title: serial experiments lain
+title: "serial experiments lain"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

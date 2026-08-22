@@ -10,7 +10,7 @@ publish_external: true
   
 ### Knowledge Aversion or The Dawn of [[Pacman]]  
   
-> Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, [[Tags/Figure/Peter Thiel]]'s frivolity, zizek's indefinite pessimism, and end it with a little bit of [[Emha Ainun Nadjib|cak nun]]'s faith style.  
+> Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, [[Peter Thiel]]'s frivolity, zizek's indefinite pessimism, and end it with a little bit of [[Emha Ainun Nadjib|cak nun]]'s faith style.  
   
 What's next after Faustian bargaining  
 The antics of Silenus  
@@ -99,7 +99,7 @@ Terus salah satu upayanya apa?
   
 Don't act, just think. I would prefer not to:   
   
-![[https://youtu.be/IgR6uaVqWsQ]]  
+![https://youtu.be/IgR6uaVqWsQ](https://youtu.be/IgR6uaVqWsQ)  
   
 Itu langkah awal, revolusi lanjutan lagi dimasak pake metode komedi.  
   

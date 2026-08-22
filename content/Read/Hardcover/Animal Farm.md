@@ -1,5 +1,5 @@
 ---
-title: Animal Farm
+title: "Animal Farm"
 date: 2025-06-19
 tags: [book]
 publish_external: false

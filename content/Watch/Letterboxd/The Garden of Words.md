@@ -1,5 +1,5 @@
 ---
-title: The Garden of Words
+title: "The Garden of Words"
 date: 2016-01-01
 tags: [film]
 publish_external: false

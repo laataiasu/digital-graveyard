@@ -1,5 +1,5 @@
 ---
-title: There Will Be Blood
+title: "There Will Be Blood"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Protocols
+title: "The Protocols"
 date: 2025-06-19
 tags: [book]
 publish_external: false

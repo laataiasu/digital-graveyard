@@ -2,7 +2,7 @@
 title: "Template"
 date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
 draft: true
-tags: []
+tags: [note]
 description: ""
 enableToc: false
 publish_external: false

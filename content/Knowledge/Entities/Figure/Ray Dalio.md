@@ -7,4 +7,4 @@ publish_external: false
 
 # Ray Dalio
 
-[[How The Economic Machine Works]]
+[[How the Economic Machine Works]]

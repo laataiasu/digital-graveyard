@@ -1,5 +1,5 @@
 ---
-title: Kung Fu Panda
+title: "Kung Fu Panda"
 date: 2016-01-01
 tags: [film]
 publish_external: false

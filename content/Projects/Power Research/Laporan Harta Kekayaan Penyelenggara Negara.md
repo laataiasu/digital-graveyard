@@ -23,4 +23,4 @@ To clarify the **entity type** in different contexts:
 Let me know what specific context you're asking about (legal, data modeling, ontology, etc.), and I can tailor the answer further.
 
 
-[[LHKPN]] [[KPK]] [[Compliance]] [[Anti-corruption]] [[Indonesia]] [[Public Official]]
+[[LHKPN]] [[KPK]] [[Compliance]] [[Anti-corruption]] [[Indonesia]] Public Official

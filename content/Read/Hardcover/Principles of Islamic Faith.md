@@ -1,5 +1,5 @@
 ---
-title: Principles of Islamic Faith
+title: "Principles of Islamic Faith"
 date: 2025-06-19
 tags: [book]
 publish_external: false

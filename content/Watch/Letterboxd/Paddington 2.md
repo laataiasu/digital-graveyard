@@ -1,5 +1,5 @@
 ---
-title: Paddington 2
+title: "Paddington 2"
 date: 2016-01-01
 tags: [film]
 publish_external: false

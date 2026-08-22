@@ -1,5 +1,5 @@
 ---
-title: Brokeback Mountain
+title: "Brokeback Mountain"
 date: 2016-01-01
 tags: [film]
 publish_external: false

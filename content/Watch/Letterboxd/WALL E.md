@@ -1,5 +1,5 @@
 ---
-title: WALL·E
+title: "WALL·E"
 date: 2016-01-01
 tags: [film]
 publish_external: false

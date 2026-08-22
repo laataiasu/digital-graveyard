@@ -1,5 +1,5 @@
 ---
-title: Black Panther
+title: "Black Panther"
 date: 2016-01-01
 tags: [film]
 publish_external: false

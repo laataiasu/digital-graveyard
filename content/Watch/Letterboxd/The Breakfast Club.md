@@ -1,5 +1,5 @@
 ---
-title: The Breakfast Club
+title: "The Breakfast Club"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Ibn Taymiyya and his Times
+title: "Ibn Taymiyya and his Times"
 date: 2025-06-19
 tags: [book]
 publish_external: false

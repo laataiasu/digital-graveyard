@@ -1,5 +1,5 @@
 ---
-title: Josee to Tora to Sakanatachi
+title: "Josee to Tora to Sakanatachi"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

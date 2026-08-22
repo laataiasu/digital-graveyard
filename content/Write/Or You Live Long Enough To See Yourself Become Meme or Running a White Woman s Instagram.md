@@ -25,9 +25,9 @@ The Look of Silence (2014)
 
 Sedikit antidote buat doomer/gloomer/dkk adalah nonton mujahid hasil karya CCP
 
-![[https://youtu.be/mG9olCPrIzY]]
+![https://youtu.be/mG9olCPrIzY](https://youtu.be/mG9olCPrIzY)
 
-![[https://youtu.be/YuwZLyQEIh0]]
+![https://youtu.be/YuwZLyQEIh0](https://youtu.be/YuwZLyQEIh0)
 
 
 Just accept, jangan cari tau prosesnya, nonton hewan lucu + dagelan aja, internet surfing is bidah. Top gun, forrest gump, dll adalah propraganda
@@ -40,23 +40,23 @@ Sesimpel Schindler's List (1993), The Pianist (2002), The Boy in the Striped Paj
 
 Nyelem dikit dapet ginian
 
-![[https://youtu.be/qsHJ3LvUWTs]]
+![https://youtu.be/qsHJ3LvUWTs](https://youtu.be/qsHJ3LvUWTs)
 
 Tiba-tiba melempem -_-
 
-![[https://youtu.be/4OcaMRLTyGI]]
+![https://youtu.be/4OcaMRLTyGI](https://youtu.be/4OcaMRLTyGI)
 
 Nabi Lacanian Hegelianism Marxist bisa berteori pseudo analysis ngomongin quantum dan lumayan lucu, tapi ttp kalah sm empirisme neuroscience
 
-![[https://youtu.be/bmzNrE3tsTM]]
+![https://youtu.be/bmzNrE3tsTM](https://youtu.be/bmzNrE3tsTM)
 
 Tapi penjelasan neuroscience dan physicist itu terlalu njlimet yg berujung tautologi dan ttp gabisa jelasin consciousness
 
-![[https://youtu.be/8ePu81ssU4M]]
+![https://youtu.be/8ePu81ssU4M](https://youtu.be/8ePu81ssU4M)
 
 Amor Fati means you can only pray not to know. Once you know, you can only hope you'll become a [[Masochist]], and then build your story about heroism in Sisyphus while playing petak umpat dan roler koster
 
-![[https://youtu.be/1sWdBo-k2iA]]
+![https://youtu.be/1sWdBo-k2iA](https://youtu.be/1sWdBo-k2iA)
 
 Embracing counterintuitive paradox, accepting and justifying any cognitive bias that builds this beautiful material world is a bare minimum
 

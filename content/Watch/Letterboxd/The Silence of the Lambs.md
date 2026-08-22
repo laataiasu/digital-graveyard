@@ -1,5 +1,5 @@
 ---
-title: The Silence of the Lambs
+title: "The Silence of the Lambs"
 date: 2016-01-01
 tags: [film]
 publish_external: false

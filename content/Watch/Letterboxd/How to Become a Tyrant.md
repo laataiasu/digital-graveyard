@@ -1,5 +1,5 @@
 ---
-title: How to Become a Tyrant
+title: "How to Become a Tyrant"
 date: 2016-01-01
 tags: [film]
 publish_external: false

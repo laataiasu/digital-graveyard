@@ -1,5 +1,5 @@
 ---
-title: Garis Waktu
+title: "Garis Waktu"
 date: 2025-06-19
 tags: [book]
 publish_external: false

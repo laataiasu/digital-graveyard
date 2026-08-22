@@ -36,7 +36,7 @@ Although I haven't experienced such a life, I still support those individuals ou
 
 For further insight, you can watch this video: 
 
-![[https://youtu.be/t5zQpN28xa4]]
+![https://youtu.be/t5zQpN28xa4](https://youtu.be/t5zQpN28xa4)
 
 It's important to remember that [[Manufacturing Consent|consent can be manufactured]], and everything is influenced by ideology.
 

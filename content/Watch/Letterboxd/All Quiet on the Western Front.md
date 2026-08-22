@@ -1,5 +1,5 @@
 ---
-title: All Quiet on the Western Front
+title: "All Quiet on the Western Front"
 date: 2016-01-01
 tags: [film]
 publish_external: false

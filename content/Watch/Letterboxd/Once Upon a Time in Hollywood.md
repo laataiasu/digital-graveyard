@@ -1,5 +1,5 @@
 ---
-title: Once Upon a Time... in Hollywood
+title: "Once Upon a Time... in Hollywood"
 date: 2016-01-01
 tags: [film]
 publish_external: false

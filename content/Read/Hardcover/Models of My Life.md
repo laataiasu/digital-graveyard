@@ -1,5 +1,5 @@
 ---
-title: Models of My Life
+title: "Models of My Life"
 date: 2025-06-19
 tags: [book]
 publish_external: false

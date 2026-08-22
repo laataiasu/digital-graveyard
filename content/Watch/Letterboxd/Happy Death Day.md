@@ -1,5 +1,5 @@
 ---
-title: Happy Death Day
+title: "Happy Death Day"
 date: 2016-01-01
 tags: [film]
 publish_external: false

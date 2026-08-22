@@ -1,5 +1,5 @@
 ---
-title: Kafka on the Shore
+title: "Kafka on the Shore"
 date: 2025-06-19
 tags: [book]
 publish_external: false

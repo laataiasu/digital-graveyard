@@ -1,5 +1,5 @@
 ---
-title: Hometown Cha-Cha-Cha
+title: "Hometown Cha-Cha-Cha"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

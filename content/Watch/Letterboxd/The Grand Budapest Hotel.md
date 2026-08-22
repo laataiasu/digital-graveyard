@@ -1,5 +1,5 @@
 ---
-title: The Grand Budapest Hotel
+title: "The Grand Budapest Hotel"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Train to Busan
+title: "Train to Busan"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -6,9 +6,9 @@ publish_external: false
 timeline_notification: [1600922570]
 ---
 
-![[https://youtu.be/CLUWDLKAF1M]]
+![https://youtu.be/CLUWDLKAF1M](https://youtu.be/CLUWDLKAF1M)
 
-![[https://youtu.be/b2ng8HuPLTk]]
+![https://youtu.be/b2ng8HuPLTk](https://youtu.be/b2ng8HuPLTk)
 
 [Teknologi mengedit dan menghapus kenangan manusia](https://www.vice.com/id_id/article/8qkx5p/teknologi-mengedit-dan-menghapus-kenangan-manusia-sudah-ditemukan)
 

@@ -1,5 +1,5 @@
 ---
-title: The Fault in Our Stars
+title: "The Fault in Our Stars"
 date: 2016-01-01
 tags: [film]
 publish_external: false

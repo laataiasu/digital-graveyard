@@ -1,5 +1,5 @@
 ---
-title: The Catcher in the Rye
+title: "The Catcher in the Rye"
 date: 2025-06-19
 tags: [book]
 publish_external: false

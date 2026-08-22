@@ -6,7 +6,7 @@ publish_external: false
 timeline_notification: [1605416374]
 ---
 
-![[https://youtu.be/uTBEUTz6Wog]]
+![https://youtu.be/uTBEUTz6Wog](https://youtu.be/uTBEUTz6Wog)
 
 This is the other example which I think is part of the law of comedy too,
 
@@ -50,4 +50,4 @@ Even though humanity is nothing more than a lunacy. It could lead to the crisis 
 
 Then the disaster is happened, and we realized it too late.
 
-![[https://youtu.be/ot4LwLDiRHE]]
+![https://youtu.be/ot4LwLDiRHE](https://youtu.be/ot4LwLDiRHE)

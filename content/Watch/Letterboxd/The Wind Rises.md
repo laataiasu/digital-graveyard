@@ -1,5 +1,5 @@
 ---
-title: The Wind Rises
+title: "The Wind Rises"
 date: 2016-01-01
 tags: [film]
 publish_external: false

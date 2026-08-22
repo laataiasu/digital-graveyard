@@ -1,5 +1,5 @@
 ---
-title: In the Mood for Love
+title: "In the Mood for Love"
 date: 2016-01-01
 tags: [film]
 publish_external: false

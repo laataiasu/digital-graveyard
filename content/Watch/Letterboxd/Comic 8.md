@@ -1,5 +1,5 @@
 ---
-title: Comic 8
+title: "Comic 8"
 date: 2016-01-01
 tags: [film]
 publish_external: false

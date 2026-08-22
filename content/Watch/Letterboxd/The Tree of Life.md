@@ -1,5 +1,5 @@
 ---
-title: The Tree of Life
+title: "The Tree of Life"
 date: 2016-01-01
 tags: [film]
 publish_external: false

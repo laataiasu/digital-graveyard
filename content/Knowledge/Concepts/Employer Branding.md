@@ -1,0 +1,10 @@
+---
+title: "Employer Branding"
+date: 2026-08-22
+tags: [note]
+publish_external: false
+---
+
+# Employer Branding
+
+Stub note — referenced by other notes but not yet written.

@@ -1,5 +1,5 @@
 ---
-title: God of Bath
+title: "God of Bath"
 date: 2016-01-01
 tags: [manga, book]
 publish_external: false

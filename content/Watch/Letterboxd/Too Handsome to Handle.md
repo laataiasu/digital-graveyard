@@ -1,5 +1,5 @@
 ---
-title: Too Handsome to Handle
+title: "Too Handsome to Handle"
 date: 2016-01-01
 tags: [film]
 publish_external: false

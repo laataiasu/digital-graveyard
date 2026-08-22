@@ -1,5 +1,5 @@
 ---
-title: Toy Story 4
+title: "Toy Story 4"
 date: 2016-01-01
 tags: [film]
 publish_external: false

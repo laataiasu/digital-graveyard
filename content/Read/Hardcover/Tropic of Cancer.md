@@ -1,5 +1,5 @@
 ---
-title: Tropic of Cancer
+title: "Tropic of Cancer"
 date: 2026-08-20
 tags: [book]
 publish_external: false

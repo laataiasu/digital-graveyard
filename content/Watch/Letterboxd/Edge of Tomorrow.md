@@ -1,5 +1,5 @@
 ---
-title: Edge of Tomorrow
+title: "Edge of Tomorrow"
 date: 2016-01-01
 tags: [film]
 publish_external: false

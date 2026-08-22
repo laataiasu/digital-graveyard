@@ -1,5 +1,5 @@
 ---
-title: World of Tomorrow
+title: "World of Tomorrow"
 date: 2016-01-01
 tags: [film]
 publish_external: false

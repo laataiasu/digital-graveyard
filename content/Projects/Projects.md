@@ -17,6 +17,6 @@ publish_external: false
   
 [[iMasjid Indonesia]]
   
-[[Projects/Illuminati Content Detection]]
+[[Illuminati Content Detection]]
   
 [[HR Intelligence Fasilkom UI]]

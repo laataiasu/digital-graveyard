@@ -1,5 +1,5 @@
 ---
-title: Captain Marvel
+title: "Captain Marvel"
 date: 2016-01-01
 tags: [film]
 publish_external: false

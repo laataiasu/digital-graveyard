@@ -6,7 +6,7 @@ publish_external: false
 timeline_notification: [1605415689]
 ---
 
-![[https://youtu.be/muSqlefHGVQ]]
+![https://youtu.be/muSqlefHGVQ](https://youtu.be/muSqlefHGVQ)
 
 My biases always search for the law of comedy which is universal. And it is never constructed against the law of comedy. Left wing or right wing, poor or rich, conservative or liberal, socialism or communism, everything looks different because of the word "or". If every "or" of them combine with "and" then everything actually has no different from them, any of them always leads to something the same, which is the output of law comedy.
 

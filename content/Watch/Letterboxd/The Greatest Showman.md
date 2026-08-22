@@ -1,5 +1,5 @@
 ---
-title: The Greatest Showman
+title: "The Greatest Showman"
 date: 2016-01-01
 tags: [film]
 publish_external: false

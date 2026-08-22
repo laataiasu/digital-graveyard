@@ -1,5 +1,5 @@
 ---
-title: Deadpool 2
+title: "Deadpool 2"
 date: 2016-01-01
 tags: [film]
 publish_external: false

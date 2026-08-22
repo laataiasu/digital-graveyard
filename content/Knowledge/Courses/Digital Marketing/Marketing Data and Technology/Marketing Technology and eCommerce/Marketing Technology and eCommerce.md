@@ -391,7 +391,7 @@ publish_external: false
 * Useful when building:
 
   * Paid ad campaigns
-  * [[Social Commerce]] strategies
+  * [[Social commerce]] strategies
 * Example stages:
 
   * Ad click → Product view → Add to cart → Checkout → Purchase

@@ -1,5 +1,5 @@
 ---
-title: Scent of a Woman
+title: "Scent of a Woman"
 date: 2016-01-01
 tags: [film]
 publish_external: false

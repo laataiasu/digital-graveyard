@@ -1,5 +1,5 @@
 ---
-title: Lapis-Lapis Keberkahan
+title: "Lapis-Lapis Keberkahan"
 date: 2025-06-19
 tags: [book]
 publish_external: false

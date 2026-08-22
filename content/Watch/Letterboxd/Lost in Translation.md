@@ -1,5 +1,5 @@
 ---
-title: Lost in Translation
+title: "Lost in Translation"
 date: 2016-01-01
 tags: [film]
 publish_external: false

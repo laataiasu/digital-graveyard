@@ -1,5 +1,5 @@
 ---
-title: The Look of Silence
+title: "The Look of Silence"
 date: 2016-01-01
 tags: [film]
 publish_external: false

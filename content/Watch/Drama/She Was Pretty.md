@@ -1,5 +1,5 @@
 ---
-title: She Was Pretty
+title: "She Was Pretty"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

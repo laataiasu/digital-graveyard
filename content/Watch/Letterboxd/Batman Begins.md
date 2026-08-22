@@ -1,5 +1,5 @@
 ---
-title: Batman Begins
+title: "Batman Begins"
 date: 2016-01-01
 tags: [film]
 publish_external: false

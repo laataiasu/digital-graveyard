@@ -1,5 +1,5 @@
 ---
-title: DC League of Super-Pets
+title: "DC League of Super-Pets"
 date: 2016-01-01
 tags: [film]
 publish_external: false

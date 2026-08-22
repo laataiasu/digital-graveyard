@@ -1,5 +1,5 @@
 ---
-title: The Theory of Everything
+title: "The Theory of Everything"
 date: 2016-01-01
 tags: [film]
 publish_external: false

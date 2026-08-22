@@ -1,5 +1,5 @@
 ---
-title: The Secret History of the World
+title: "The Secret History of the World"
 date: 2025-06-19
 tags: [book]
 publish_external: false

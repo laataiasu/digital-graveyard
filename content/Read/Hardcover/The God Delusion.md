@@ -1,5 +1,5 @@
 ---
-title: The God Delusion
+title: "The God Delusion"
 date: 2025-06-19
 tags: [book]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Pirates of Silicon Valley
+title: "Pirates of Silicon Valley"
 date: 2016-01-01
 tags: [film]
 publish_external: false

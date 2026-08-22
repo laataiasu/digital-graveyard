@@ -1,5 +1,5 @@
 ---
-title: The ingenious hidalgo Don Quixote de la Mancha
+title: "The ingenious hidalgo Don Quixote de la Mancha"
 date: 2025-06-19
 tags: [book]
 publish_external: false

@@ -37,8 +37,8 @@ I aspire to live in the most cowardly way, like the great coward.
 
 | Lens                                  | Short sketch                                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **[[Daoist wu‑wei]]**                 | Effortless action that leaves no sticky fingerprints. Rivers don’t brag about carving valleys.         |
-| **Gita’s [[nishkāma karma]]**         | Work without clinging to the fruit. The deed is clean; outcomes ­belong to the universe.               |
+| **[[Daoist wu‑wei]]**                 | Effortless action that leaves no sticky fingerprints. Rivers don’t brag about carving valleys.         |
+| **Gita’s [[nishkāma karma]]**         | Work without clinging to the fruit. The deed is clean; outcomes ­belong to the universe.               |
 | **[[Zen kōan]]**                      | “The wild geese do not intend to cast their reflection; the water has no mind to receive their image.” |
 | **“great contempt” & “dancing star”** | Throw off borrowed purposes, dive into chaos, transmute it into light.                                 |
 

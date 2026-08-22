@@ -1,7 +1,7 @@
 ---
 title: "Personal"
 date: 2001-01-01
-tags: []
+tags: [reflection]
 publish_external: false
 ---
 

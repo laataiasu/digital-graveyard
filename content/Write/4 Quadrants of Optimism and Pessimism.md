@@ -5,7 +5,7 @@ tags: [journal, essay, book]
 publish_external: false
 ---
 
-In this contemplative discourse, we delve into the intricacies of various outlooks on life, aiming to shed light on the complexities that define our existence. Inspired by [[Tags/Figure/Peter Thiel]]'s concept of the four quadrants of optimism, we embark on a journey to understand where we stand.
+In this contemplative discourse, we delve into the intricacies of various outlooks on life, aiming to shed light on the complexities that define our existence. Inspired by [[Peter Thiel]]'s concept of the four quadrants of optimism, we embark on a journey to understand where we stand.
 
 **1. Definite Pessimism: The Doomer's Realm**
 

@@ -1,5 +1,5 @@
 ---
-title: Sakurasou no Pet na Kanojo
+title: "Sakurasou no Pet na Kanojo"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

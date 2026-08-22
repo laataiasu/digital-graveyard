@@ -44,7 +44,7 @@ Rate kesulitan : 5/10
 
 Banyak yang nanya matdas ini kepake apa buat di dunia pemrograman, jadi banyak yang kurang antusias. Hingga akhirnya pak dosen ceramah tentang Steve jobs yang belajar kaligrafi yang dikira ga penting dan ternyata... 
 
-![[https://youtu.be/1i9kcBHX2Nw]]
+![https://youtu.be/1i9kcBHX2Nw](https://youtu.be/1i9kcBHX2Nw)
 
 Matkul ini pengembangan dari matematika peminatan di SMA, belajar limit, fungsi, turunan, integral, dll. Ngerasa bisa banget di matkul ini karena w emang suka matematika hapalan kayak kalkulus ini wkwk. Sampe saat ini w masih ga ngerti definisi formal limit, tiap ngerjain soal dihapal polanya doang
 

@@ -1,5 +1,5 @@
 ---
-title: Hujan Bulan Juni
+title: "Hujan Bulan Juni"
 date: 2025-06-19
 tags: [book]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Burnout Society
+title: "The Burnout Society"
 date: 2026-08-20
 tags: [book]
 publish_external: false

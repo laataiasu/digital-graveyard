@@ -1,5 +1,5 @@
 ---
-title: The Killing of a Sacred Deer
+title: "The Killing of a Sacred Deer"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Manchester by the Sea
+title: "Manchester by the Sea"
 date: 2016-01-01
 tags: [film]
 publish_external: false

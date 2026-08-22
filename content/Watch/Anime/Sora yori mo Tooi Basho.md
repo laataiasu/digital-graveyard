@@ -1,5 +1,5 @@
 ---
-title: Sora yori mo Tooi Basho
+title: "Sora yori mo Tooi Basho"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Kuroko no Basket 3rd SEASON
+title: "Kuroko no Basket 3rd SEASON"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

@@ -119,7 +119,7 @@ Under GDPR and similar laws, you must:
 
 ---
 
-### ⏱️ **3. [[Average Time on Page]]**
+### ⏱️ **3. [[Average Time On Page]]**
 
 * **Definition**: The **average time** users spent on a single page (or group of pages).
 * **Formula**:

@@ -1,5 +1,5 @@
 ---
-title: The Big Sick
+title: "The Big Sick"
 date: 2016-01-01
 tags: [film]
 publish_external: false

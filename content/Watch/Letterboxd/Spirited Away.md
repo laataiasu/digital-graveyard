@@ -1,5 +1,5 @@
 ---
-title: Spirited Away
+title: "Spirited Away"
 date: 2016-01-01
 tags: [film]
 publish_external: false

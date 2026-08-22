@@ -1,5 +1,5 @@
 ---
-title: A Diary of Letters to God
+title: "A Diary of Letters to God"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: How to Train Your Dragon
+title: "How to Train Your Dragon"
 date: 2016-01-01
 tags: [film]
 publish_external: false

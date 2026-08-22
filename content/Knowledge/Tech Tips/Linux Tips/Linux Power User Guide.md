@@ -53,7 +53,7 @@ Zellij manages persistent terminal tabs, splits, floating panes, and workspace r
 ### Auto-Attaching on SSH Login
 To ensure remote sessions automatically enter persistent multiplexing, configure `~/.zshrc`:
 ```zsh
-if [[ -n "$SSH_CONNECTION" ]] && [[ -z "$ZELLIJ" ]]; then
+if -n "$SSH_CONNECTION" && -z "$ZELLIJ"; then
   zellij attach -c main
 fi
 ```

@@ -9,13 +9,13 @@ publish_external: true
 
 when i were in school there lots of story about people make money by ads and blogs. 
 
-i got fomo then i try blogging in [[Wordpress]] and blogger. ofc i didnt make any money, no visitor because i only write for myself. 
+i got fomo then i try blogging in Wordpress and blogger. ofc i didnt make any money, no visitor because i only write for myself. 
 
 in univ, i see courses [[Operating System for Information System]] that push CS student to use jekyll for blogging / personal web page. i got FOMO too so i migrate from wordpress/blogger to jekyll with [Chirphy](https://github.com/cotes2020/jekyll-theme-chirpy) theme. 
 
-it looks good but i still lazy to write, even so, its bloated with my writing. it takes longer to build then i migrate to [[Hugo Golang]] using [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+it looks good but i still lazy to write, even so, its bloated with my writing. it takes longer to build then i migrate to Hugo Golang using [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
-and then i found the concept of [[Zettelkasten]] late when i was in bench in my current office. because of it i try install [[Foam]] vscode extensions. its nice to see the graph of all the info i hoarded. 
+and then i found the concept of [[Zettelkasten]] late when i was in bench in my current office. because of it i try install Foam vscode extensions. its nice to see the graph of all the info i hoarded. 
 
 then i got [[Obsidian]], then deploy it using this quartz. 
 

@@ -1,5 +1,5 @@
 ---
-title: The Space Between Us
+title: "The Space Between Us"
 date: 2016-01-01
 tags: [film]
 publish_external: false

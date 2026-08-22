@@ -1,5 +1,5 @@
 ---
-title: A Star Is Born
+title: "A Star Is Born"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -21,4 +21,4 @@ Navigating through life involves encountering both positive and negative forces,
 
 There was a time when I aspired to bridge the gap between users and builders. However, my perspective has shifted, and I now harbor a deep aversion towards users, akin to my disdain for non-jujutsu sorcerers.
 
-[[Anime/Jujutsu Kaisen]]
+[[Jujutsu Kaisen]]

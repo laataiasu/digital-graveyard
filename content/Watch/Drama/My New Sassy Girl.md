@@ -1,5 +1,5 @@
 ---
-title: My New Sassy Girl
+title: "My New Sassy Girl"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

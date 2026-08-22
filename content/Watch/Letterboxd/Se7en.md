@@ -1,5 +1,5 @@
 ---
-title: Se7en
+title: "Se7en"
 date: 2016-01-01
 tags: [film]
 publish_external: false

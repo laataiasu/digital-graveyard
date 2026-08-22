@@ -1,5 +1,5 @@
 ---
-title: Big Hero 6
+title: "Big Hero 6"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Another Round
+title: "Another Round"
 date: 2016-01-01
 tags: [film]
 publish_external: false

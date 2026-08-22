@@ -1,5 +1,5 @@
 ---
-title: Kuroko no Basket 2nd SEASON
+title: "Kuroko no Basket 2nd SEASON"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

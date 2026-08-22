@@ -353,4 +353,4 @@ istri 4, pedofil, nah itu bentuk komedinya
 
 dan semua kontradiksi yg ia sampaikan, itu semua bentuk komedi paling luhur yang ada di muka bumi.
 
-[[comedy]]
+comedy

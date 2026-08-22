@@ -1,5 +1,5 @@
 ---
-title: The Martian
+title: "The Martian"
 date: 2016-01-01
 tags: [film]
 publish_external: false

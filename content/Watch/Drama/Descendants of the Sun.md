@@ -1,5 +1,5 @@
 ---
-title: Descendants of the Sun
+title: "Descendants of the Sun"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

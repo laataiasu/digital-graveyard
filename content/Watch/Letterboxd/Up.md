@@ -1,5 +1,5 @@
 ---
-title: Up
+title: "Up"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Because This Is My First Life
+title: "Because This Is My First Life"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

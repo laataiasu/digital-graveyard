@@ -1,5 +1,5 @@
 ---
-title: Pretty Boys
+title: "Pretty Boys"
 date: 2016-01-01
 tags: [film]
 publish_external: false

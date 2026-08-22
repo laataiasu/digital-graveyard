@@ -1,5 +1,5 @@
 ---
-title: The Sixth Sense
+title: "The Sixth Sense"
 date: 2016-01-01
 tags: [film]
 publish_external: false

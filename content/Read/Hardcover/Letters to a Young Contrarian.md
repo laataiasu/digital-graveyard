@@ -1,5 +1,5 @@
 ---
-title: Letters to a Young Contrarian
+title: "Letters to a Young Contrarian"
 date: 2025-06-19
 tags: [book]
 publish_external: false

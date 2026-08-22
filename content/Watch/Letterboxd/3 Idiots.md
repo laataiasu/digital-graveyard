@@ -1,5 +1,5 @@
 ---
-title: 3 Idiots
+title: "3 Idiots"
 date: 2016-01-01
 tags: [film]
 publish_external: false

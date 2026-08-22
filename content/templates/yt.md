@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 date: {{date:YYYY-MM-DDTHH:mm:ssZ}}
-tags:
+tags: [note]
   - youtube
 aliases: []
 source: ""

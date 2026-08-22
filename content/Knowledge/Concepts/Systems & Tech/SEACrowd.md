@@ -1,6 +1,6 @@
 ---
 title: "SEACrowd"
 date: 2025-07-08
-tags: []
+tags: [note]
 publish_external: true
 ---

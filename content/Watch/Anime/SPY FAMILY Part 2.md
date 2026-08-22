@@ -1,5 +1,5 @@
 ---
-title: SPY×FAMILY Part 2
+title: "SPY×FAMILY Part 2"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Violet Evergarden
+title: "Violet Evergarden"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

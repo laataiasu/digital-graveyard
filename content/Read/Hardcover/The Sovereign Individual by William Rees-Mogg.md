@@ -1,5 +1,5 @@
 ---
-title: The Sovereign Individual by William Rees-Mogg
+title: "The Sovereign Individual by William Rees-Mogg"
 date: 2025-06-19
 tags: [book]
 publish_external: false

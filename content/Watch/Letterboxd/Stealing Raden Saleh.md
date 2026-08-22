@@ -1,5 +1,5 @@
 ---
-title: Stealing Raden Saleh
+title: "Stealing Raden Saleh"
 date: 2016-01-01
 tags: [film]
 publish_external: false

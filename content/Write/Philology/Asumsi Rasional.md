@@ -6,11 +6,11 @@ publish_external: true
 ---
 
   
-![[https://youtu.be/JFOhvquQiS8]]  
+![https://youtu.be/JFOhvquQiS8](https://youtu.be/JFOhvquQiS8)  
   
-![[https://youtu.be/fQ4rc7npiXQ]]  
+![https://youtu.be/fQ4rc7npiXQ](https://youtu.be/fQ4rc7npiXQ)  
   
-"specialization makes it hard to evaluate. sub-specialists propagandize" [[Tags/Figure/Peter Thiel]]  
+"specialization makes it hard to evaluate. sub-specialists propagandize" [[Peter Thiel]]  
   
 "I love him who wants to create over and beyond himself and thus perishes." [[Friedrich Nietzsche]]  
   

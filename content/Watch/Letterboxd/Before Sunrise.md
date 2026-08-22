@@ -1,5 +1,5 @@
 ---
-title: Before Sunrise
+title: "Before Sunrise"
 date: 2016-01-01
 tags: [film]
 publish_external: false

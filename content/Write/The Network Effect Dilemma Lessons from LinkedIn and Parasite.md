@@ -5,7 +5,7 @@ tags: [film, review, essay]
 publish_external: false
 ---
 
-![[https://youtu.be/EwniUmkngnc]]
+![https://youtu.be/EwniUmkngnc](https://youtu.be/EwniUmkngnc)
 
 LinkedIn, the professional networking platform, provides a glimpse into the world of marketing and self-promotion. As we navigate through various profiles, we often encounter a mix of genuine accomplishments and exaggerated self-portrayals. This experience raises intriguing questions about the nature of marketing, the network effect, and the parallels with the critically acclaimed film "Parasite." In this essay, we will explore the lessons derived from observing LinkedIn profiles and draw connections to the network effect depicted in "Parasite."
 

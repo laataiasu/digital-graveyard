@@ -1,5 +1,5 @@
 ---
-title: Love In A Box
+title: "Love In A Box"
 date: 2016-01-01
 tags: [film]
 publish_external: false

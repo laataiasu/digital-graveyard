@@ -1,5 +1,5 @@
 ---
-title: Blue Is the Warmest Color
+title: "Blue Is the Warmest Color"
 date: 2016-01-01
 tags: [film]
 publish_external: false

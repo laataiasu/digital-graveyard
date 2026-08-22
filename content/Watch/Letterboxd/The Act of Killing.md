@@ -1,5 +1,5 @@
 ---
-title: The Act of Killing
+title: "The Act of Killing"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Kagum pada Orang Indonesia
+title: "Kagum pada Orang Indonesia"
 date: 2026-08-20
 tags: [book]
 publish_external: false

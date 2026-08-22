@@ -1,5 +1,5 @@
 ---
-title: Bungou Stray Dogs 3rd Season
+title: "Bungou Stray Dogs 3rd Season"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

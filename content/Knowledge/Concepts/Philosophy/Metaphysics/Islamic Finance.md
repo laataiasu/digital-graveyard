@@ -44,10 +44,10 @@ Padahal Indonesia mayoritas Muslim n pertumbuhan penduduk Muslimnya juga terbesa
   
 ### literature review
 [Konsep uang dalam Islam](http://journal.iainkudus.ac.id/index.php/Bisnis/article/download/1695/1507)
-**[[Islamic Finance]]**
+****
 [Compatibility cryptocurrency and islamic finance](https://www.ojs.unito.it/index.php/EJIF/article/view/2569/pdf)
 [Halal cryptocurrency management](https://link.springer.com/book/10.1007/978-3-030-10749-9)
-[Bitcoin dalam Islam](https://www.neliti.com/publications/238411/teknologi-cryptocurrency-bitcoin-dalam-transaksi-bisnis-menurut-syariat-islam) , [[31095bitcoin]]
+[Bitcoin dalam Islam](https://www.neliti.com/publications/238411/teknologi-cryptocurrency-bitcoin-dalam-transaksi-bisnis-menurut-syariat-islam) , 31095bitcoin
   
 https://www.investopedia.com/terms/g/gold-reserve-act-1934.asp
   

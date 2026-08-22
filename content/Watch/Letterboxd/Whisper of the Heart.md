@@ -1,5 +1,5 @@
 ---
-title: Whisper of the Heart
+title: "Whisper of the Heart"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: 100 Days with Mr. Arrogant
+title: "100 Days with Mr. Arrogant"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: 12 Angry Men
+title: "12 Angry Men"
 date: 2016-01-01
 tags: [film]
 publish_external: false

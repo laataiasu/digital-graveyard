@@ -5,7 +5,7 @@ tags: [review, book]
 publish_external: false
 ---
 
-[[Zero to One Notes on Startups or How to Build the Future]] ditulis sm [[Tags/Figure/Peter Thiel]] 
+[[Zero to One Notes on Startups or How to Build the Future]] ditulis sm [[Peter Thiel]] 
 
 Chapternya pendek-pendek jadi ga terlalu ngebosenin, cerita-ceritanya lumayan asik. 
 

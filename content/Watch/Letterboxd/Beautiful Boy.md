@@ -1,5 +1,5 @@
 ---
-title: Beautiful Boy
+title: "Beautiful Boy"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Banshees of Inisherin
+title: "The Banshees of Inisherin"
 date: 2016-01-01
 tags: [film]
 publish_external: false

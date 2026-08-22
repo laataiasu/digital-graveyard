@@ -1,5 +1,5 @@
 ---
-title: Crime and Punishment
+title: "Crime and Punishment"
 date: 2025-06-19
 tags: [book]
 publish_external: false

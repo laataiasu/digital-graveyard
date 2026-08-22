@@ -5,7 +5,7 @@ tags: [note]
 publish_external: false
 ---
 
-[[Interesting Terms/index]]
+[[index]]
 
 [[Arabic]]
 Indonesia

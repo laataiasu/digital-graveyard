@@ -1,5 +1,5 @@
 ---
-title: From Up on Poppy Hill
+title: "From Up on Poppy Hill"
 date: 2016-01-01
 tags: [film]
 publish_external: false

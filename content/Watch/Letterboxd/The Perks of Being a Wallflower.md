@@ -1,5 +1,5 @@
 ---
-title: The Perks of Being a Wallflower
+title: "The Perks of Being a Wallflower"
 date: 2016-01-01
 tags: [film]
 publish_external: false

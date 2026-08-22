@@ -1,5 +1,5 @@
 ---
-title: Nausicaä of the Valley of the Wind
+title: "Nausicaä of the Valley of the Wind"
 date: 2016-01-01
 tags: [film]
 publish_external: false

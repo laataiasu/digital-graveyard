@@ -1,5 +1,5 @@
 ---
-title: Shingeki no Kyojin Season 2
+title: "Shingeki no Kyojin Season 2"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

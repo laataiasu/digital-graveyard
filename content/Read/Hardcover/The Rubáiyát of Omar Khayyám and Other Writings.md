@@ -1,5 +1,5 @@
 ---
-title: The Rubáiyát of Omar Khayyám and Other Writings
+title: "The Rubáiyát of Omar Khayyám and Other Writings"
 date: 2025-06-19
 tags: [book]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Murder on the Orient Express
+title: "Murder on the Orient Express"
 date: 2025-06-19
 tags: [book]
 publish_external: false

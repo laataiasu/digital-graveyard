@@ -9,7 +9,7 @@ source: null
 
 [Stanford Graduate School of Business](https://www.youtube.com/@stanfordgsb)
 
-[[How to Live your Life at Full Power -- Graham Weaver]]
+[[How to Live your Life at Full Power — Graham Weaver]]
 
 [[Some Perspective for Graduating Students]]
 

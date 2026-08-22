@@ -1,5 +1,5 @@
 ---
-title: Castle in the Sky
+title: "Castle in the Sky"
 date: 2016-01-01
 tags: [film]
 publish_external: false

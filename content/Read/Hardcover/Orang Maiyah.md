@@ -1,5 +1,5 @@
 ---
-title: Orang Maiyah
+title: "Orang Maiyah"
 date: 2025-06-19
 tags: [book]
 publish_external: false

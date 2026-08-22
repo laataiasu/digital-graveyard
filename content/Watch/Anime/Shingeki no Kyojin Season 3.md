@@ -1,5 +1,5 @@
 ---
-title: Shingeki no Kyojin Season 3
+title: "Shingeki no Kyojin Season 3"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

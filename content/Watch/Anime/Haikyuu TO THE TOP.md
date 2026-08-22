@@ -1,5 +1,5 @@
 ---
-title: Haikyuu!! TO THE TOP
+title: "Haikyuu!! TO THE TOP"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

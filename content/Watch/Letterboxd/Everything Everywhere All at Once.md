@@ -1,5 +1,5 @@
 ---
-title: Everything Everywhere All at Once
+title: "Everything Everywhere All at Once"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Worst Person in the World
+title: "The Worst Person in the World"
 date: 2016-01-01
 tags: [film]
 publish_external: false

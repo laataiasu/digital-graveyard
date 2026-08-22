@@ -1,5 +1,5 @@
 ---
-title: La La Land
+title: "La La Land"
 date: 2016-01-01
 tags: [film]
 publish_external: false

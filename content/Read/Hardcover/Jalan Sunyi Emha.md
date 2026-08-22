@@ -1,5 +1,5 @@
 ---
-title: Jalan Sunyi Emha
+title: "Jalan Sunyi Emha"
 date: 2025-06-19
 tags: [book]
 publish_external: false

@@ -14,7 +14,7 @@ Categorize entries with tags and automatically capture the date.
 | Name                                                | Created           | Property | Tags               |
 | --------------------------------------------------- | ----------------- | -------- | ------------------ |
 | [[Tips kosan]]                                      | December 23, 2023 |          | Life Lesson        |
-| [[Skripsi-penelitian lain]]                         | July 29, 2022     |          | Research           |
+| Skripsi-penelitian lain                         | July 29, 2022     |          | Research           |
 | [[Dream Job AdBis]]                                 | May 30, 2020      |          | Self               |
 | [[Personal/Journal/Archieved/Archieved\|Archieved]] |                   |          | Blog Ideas, Ideas  |
 | [[Messy notes]]                                     | June 14, 2022     |          | Blog Ideas, Ideas  |

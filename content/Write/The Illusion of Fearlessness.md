@@ -5,7 +5,7 @@ tags: [essay]
 publish_external: false
 ---
 
-![[https://youtu.be/aGCdLKXNF3w]]
+![https://youtu.be/aGCdLKXNF3w](https://youtu.be/aGCdLKXNF3w)
 
 Fear is deeply intertwined with human existence. However, it is important to recognize that the notion of a person who is completely fearless is unrealistic and doesn't truly exist.
 

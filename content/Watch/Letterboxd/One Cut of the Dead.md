@@ -1,5 +1,5 @@
 ---
-title: One Cut of the Dead
+title: "One Cut of the Dead"
 date: 2016-01-01
 tags: [film]
 publish_external: false

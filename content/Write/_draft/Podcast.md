@@ -19,4 +19,4 @@ So, karena ini memang buat lu jadi nikmatin aja sendiri, ihsan, haha
 1. travelling alone in gunung api nlanggeran
 2. computer science
 3. puisi
-4. beyond [[[[Music]]]] is haraam
+4. beyond [[Music]] is haraam

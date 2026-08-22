@@ -1,5 +1,5 @@
 ---
-title: The Tale of The Princess Kaguya
+title: "The Tale of The Princess Kaguya"
 date: 2016-01-01
 tags: [film]
 publish_external: false

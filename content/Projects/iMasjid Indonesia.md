@@ -12,7 +12,7 @@ publish_external: false
 > Ada yang tau tentang data keuangan tiap masjid?  
 > [https://www.[[Reddit]].com/r/indonesia/comments/p5cnfb/comment/h95ix9m/?context=3](https://www.[[Reddit]].com/r/indonesia/comments/p5cnfb/comment/h95ix9m/?context=3)  
   
-[[slide knp hrs belajar techno → masjid]]
+slide knp hrs belajar techno → masjid
 
 Tujuan
 - Islam sbg Rahmatan lil alamin

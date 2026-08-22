@@ -1,5 +1,5 @@
 ---
-title: When Marnie Was There
+title: "When Marnie Was There"
 date: 2016-01-01
 tags: [film]
 publish_external: false

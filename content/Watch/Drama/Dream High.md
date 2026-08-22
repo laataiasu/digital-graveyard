@@ -1,5 +1,5 @@
 ---
-title: Dream High
+title: "Dream High"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

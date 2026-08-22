@@ -1,5 +1,5 @@
 ---
-title: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

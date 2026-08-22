@@ -1,5 +1,5 @@
 ---
-title: Requiem for a Dream
+title: "Requiem for a Dream"
 date: 2016-01-01
 tags: [film]
 publish_external: false

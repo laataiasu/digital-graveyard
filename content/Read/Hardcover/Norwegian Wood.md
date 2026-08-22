@@ -1,5 +1,5 @@
 ---
-title: Norwegian Wood
+title: "Norwegian Wood"
 date: 2025-06-19
 tags: [book]
 publish_external: false

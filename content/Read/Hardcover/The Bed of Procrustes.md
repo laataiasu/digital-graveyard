@@ -1,5 +1,5 @@
 ---
-title: The Bed of Procrustes
+title: "The Bed of Procrustes"
 date: 2025-06-19
 tags: [book]
 publish_external: false

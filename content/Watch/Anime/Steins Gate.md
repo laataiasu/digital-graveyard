@@ -1,5 +1,5 @@
 ---
-title: Steins;Gate
+title: "Steins;Gate"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

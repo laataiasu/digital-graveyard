@@ -1,5 +1,5 @@
 ---
-title: Frankenstein
+title: "Frankenstein"
 date: 2016-01-01
 tags: [film]
 publish_external: false

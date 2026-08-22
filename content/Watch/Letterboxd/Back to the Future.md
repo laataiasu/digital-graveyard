@@ -1,5 +1,5 @@
 ---
-title: Back to the Future
+title: "Back to the Future"
 date: 2016-01-01
 tags: [film]
 publish_external: false

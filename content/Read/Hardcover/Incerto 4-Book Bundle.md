@@ -1,5 +1,5 @@
 ---
-title: Incerto 4-Book Bundle
+title: "Incerto 4-Book Bundle"
 date: 2025-06-19
 tags: [book]
 publish_external: false

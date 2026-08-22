@@ -1,5 +1,5 @@
 ---
-title: Byousoku 5 Centimeter
+title: "Byousoku 5 Centimeter"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

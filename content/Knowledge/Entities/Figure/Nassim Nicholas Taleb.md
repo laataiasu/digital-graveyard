@@ -11,9 +11,9 @@ publish_external: false
 
 [[Antifragile]]
 
-[[Skin in the Game]]
+Skin in the Game
 
-[[Bed of Procrustes]]
+[[The Bed of Procrustes]]
 
 ### Strange Phrases
 

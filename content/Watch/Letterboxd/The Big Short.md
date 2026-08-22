@@ -1,5 +1,5 @@
 ---
-title: The Big Short
+title: "The Big Short"
 date: 2016-01-01
 tags: [film]
 publish_external: false

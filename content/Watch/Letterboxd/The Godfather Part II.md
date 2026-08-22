@@ -1,5 +1,5 @@
 ---
-title: The Godfather Part II
+title: "The Godfather Part II"
 date: 2016-01-01
 tags: [film]
 publish_external: false

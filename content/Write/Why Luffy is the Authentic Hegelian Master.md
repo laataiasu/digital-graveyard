@@ -5,7 +5,7 @@ tags: [journal, film]
 publish_external: false
 ---
 
-![[https://youtu.be/_hDmYO3hk4s]]
+![https://youtu.be/_hDmYO3hk4s](https://youtu.be/_hDmYO3hk4s)
 
 Authenticity is bullshit. Make a sign and hide! Don't show! Don't tell!
 

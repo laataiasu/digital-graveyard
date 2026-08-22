@@ -5,7 +5,7 @@ tags: [journal, essay]
 publish_external: true
 ---
 
-![[https://youtu.be/KVl5kMXz1vA]]
+![https://youtu.be/KVl5kMXz1vA](https://youtu.be/KVl5kMXz1vA)
 
 Utilitarian people like this are like impotent communists, always searching for a silver bullet to patch the holes in their ideology. If something doesn’t fit, they cut up the minorities and discard the outliers like Procrustes, unable to accept diversity and impatient in their pursuit of perfection. That’s why I love them.
 
@@ -38,7 +38,7 @@ they suggest letting jesw, chenesi, and isethat become global leaders because so
 
 ---
 
-![[https://youtu.be/I19btmIBhx0]]
+![https://youtu.be/I19btmIBhx0](https://youtu.be/I19btmIBhx0)
 
 "There is no viable business model. The ultimate solution to loneliness lies in a totalitarian Muslim surveillance government, monitoring every aspect of people's lives: their movements, behavior, genetics, beliefs, and environmental conditions.
 

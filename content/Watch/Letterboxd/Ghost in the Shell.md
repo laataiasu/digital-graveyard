@@ -1,5 +1,5 @@
 ---
-title: Ghost in the Shell
+title: "Ghost in the Shell"
 date: 2016-01-01
 tags: [film]
 publish_external: false

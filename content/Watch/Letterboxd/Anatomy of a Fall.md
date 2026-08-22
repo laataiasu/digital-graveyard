@@ -1,5 +1,5 @@
 ---
-title: Anatomy of a Fall
+title: "Anatomy of a Fall"
 date: 2016-01-01
 tags: [film]
 publish_external: false

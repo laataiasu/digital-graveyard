@@ -9,7 +9,7 @@ updated: 2019-02-03
   
 ### Kemunafikan Tulisan  
   
-![[kemunafikan_tulisan.jpg]]  
+!  
   
 Pernahkah kalian merasakan?    
 Saat bersenang senang    

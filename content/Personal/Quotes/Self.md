@@ -1,7 +1,7 @@
 ---
 title: "Self"
 date: 2001-01-01
-tags: []
+tags: [reflection]
 publish_external: false
 ---
 
@@ -64,4 +64,4 @@ If I can memorize all of you i will remember all of you i mean. So you dont worr
 To be rational, to be emotional, whats the difference? The decision still be made up
 Setiap keturunan adam selalu bersaing, bunuh membunuh untuk mendapatkan apa yang dicintainya. Kebermanfaatan baru-baru ini jadi apa yang orang2 idamkanlwll. Siapa yang tidak mendapatkannya, ia mati di tengah medan perang. Maka, buatlah dirimu bermanfaat
   
-[[From words]]
+[[From Words]]

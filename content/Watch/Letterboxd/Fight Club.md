@@ -1,5 +1,5 @@
 ---
-title: Fight Club
+title: "Fight Club"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Becoming Warren Buffett
+title: "Becoming Warren Buffett"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Inside Job
+title: "Inside Job"
 date: 2016-01-01
 tags: [film]
 publish_external: false

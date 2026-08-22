@@ -1,5 +1,5 @@
 ---
-title: The Amazing Spider-Man
+title: "The Amazing Spider-Man"
 date: 2016-01-01
 tags: [film]
 publish_external: false

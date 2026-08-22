@@ -1,5 +1,5 @@
 ---
-title: The Smile Has Left Your Eyes
+title: "The Smile Has Left Your Eyes"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

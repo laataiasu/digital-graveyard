@@ -1,5 +1,5 @@
 ---
-title: Yahari Ore no Seishun Love Come wa Machigatteiru. Kan
+title: "Yahari Ore no Seishun Love Come wa Machigatteiru. Kan"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

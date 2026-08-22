@@ -6,7 +6,7 @@ publish_external: false
 timeline_notification: [1605841331]
 ---
 
-![[https://youtu.be/_T1Jj1inE8M]]
+![https://youtu.be/_T1Jj1inE8M](https://youtu.be/_T1Jj1inE8M)
 
 When I was in the last year of Junior High School, I forgot about the details of the event actually because it was 3 years before. I forgot why at that time the upper stairs were unoccupied. I forgot about the number of my friends that come there. I only remember the three of us were playing this game and the feeling of being moved by ‘something'.
 

@@ -1,5 +1,5 @@
 ---
-title: What If? Serious Scientific Answers to Absurd Hypothetical Questions
+title: "What If? Serious Scientific Answers to Absurd Hypothetical Questions"
 date: 2025-06-19
 tags: [book]
 publish_external: false

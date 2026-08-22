@@ -1,5 +1,5 @@
 ---
-title: Child of All Nations
+title: "Child of All Nations"
 date: 2025-06-19
 tags: [book]
 publish_external: false

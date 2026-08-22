@@ -1,5 +1,5 @@
 ---
-title: The Usual Suspects
+title: "The Usual Suspects"
 date: 2016-01-01
 tags: [film]
 publish_external: false

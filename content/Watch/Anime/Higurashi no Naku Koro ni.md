@@ -1,5 +1,5 @@
 ---
-title: Higurashi no Naku Koro ni
+title: "Higurashi no Naku Koro ni"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

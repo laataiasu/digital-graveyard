@@ -1,5 +1,5 @@
 ---
-title: Little Women
+title: "Little Women"
 date: 2016-01-01
 tags: [film]
 publish_external: false

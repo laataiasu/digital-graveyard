@@ -30,7 +30,7 @@ i really hate that i enjoy together chit chat about talking something pop cultur
 
 and tears streaming down my face when its khutbah. i have already made scenario if my colleague ask me why you cry, i will just answered, "bajingan, keinget kaki bocil palestin mulu bangsaat" to make myself as tough. but luckily no one ask me about that. just one my colleague perhaps he see my sad face, and then he just leave me alone. 
 
-yeah, i suppose its similar with [[Manchester By The Sea]]. the feeling of lose something. the powerlessness. and i really hate it. i dont know how to fight, but i'll try. ill figure it out. 
+yeah, i suppose its similar with [[Manchester by the Sea]]. the feeling of lose something. the powerlessness. and i really hate it. i dont know how to fight, but i'll try. ill figure it out. 
 
 
 

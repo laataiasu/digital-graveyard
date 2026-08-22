@@ -6,7 +6,7 @@ publish_external: false
 timeline_notification: [1605416199]
 ---
 
-![[https://youtu.be/UEhYMirs7fk]]
+![https://youtu.be/UEhYMirs7fk](https://youtu.be/UEhYMirs7fk)
 
 In the search for the law of comedy, I find the one which is closest to the system of comedy. It must contradict with everything, it must be referring to the rule of number one that we are not living, but we're just trapped in this world.
 
@@ -26,9 +26,9 @@ From the [[Japan]] cases where everything is so manipulative, we can see that th
 
 The infrastructure, facility, and everything seems so developed and beautiful. But there is a high number of [[Suicide]] rate, prostitution, and any kind which leads to question of irony of what seems developed. Everything is manipulated, renting a girlfriend, renting a Family, Hikkikomori, living with 2D, and so on.
 
-![[https://youtu.be/Jag6iyrSjsI]]
-![[https://youtu.be/oFgWy2ifX5s]]
-![[https://youtu.be/AiomBQCq6UY]]
+![https://youtu.be/Jag6iyrSjsI](https://youtu.be/Jag6iyrSjsI)
+![https://youtu.be/oFgWy2ifX5s](https://youtu.be/oFgWy2ifX5s)
+![https://youtu.be/AiomBQCq6UY](https://youtu.be/AiomBQCq6UY)
 
 It urges the sense to live and have dissatisfaction. It makes us lose the ability to decide whether it is right or wrong. It leads to subjectivity again, and you know the rest. Just like my subjectivity from looking at those youtube videos, whereas I didn't know exactly what happened.
 

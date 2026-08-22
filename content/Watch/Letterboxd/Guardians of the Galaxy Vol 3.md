@@ -1,5 +1,5 @@
 ---
-title: Guardians of the Galaxy Vol. 3
+title: "Guardians of the Galaxy Vol. 3"
 date: 2016-01-01
 tags: [film]
 publish_external: false

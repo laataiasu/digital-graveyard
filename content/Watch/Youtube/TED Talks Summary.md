@@ -14,6 +14,6 @@ updated: "2024-01-06T08:36"
 |[[3 Money Lessons from Infamous Scam Artists J Mase III TED]]|June 6, 2023 4:18 PM||
 |[[Your Right to Mental Privacy in the Age of Brain-Sensing Tech Nita Farahany TED]]|June 6, 2023 4:55 PM||
 |[[Tim Urban- Inside the mind of a master procrastinator TED]]|June 6, 2023 9:30 PM||
-|[[How to speak so that people want to listen Julian Treasure]]|June 6, 2023 9:33 PM||
-|[[Looks aren't everything. Believe me, I'm a model. Cameron Russell]]|June 6, 2023 9:36 PM||
-|[[The art of misdirection Apollo Robbins]]|June 6, 2023 9:38 PM||
+|How to speak so that people want to listen Julian Treasure|June 6, 2023 9:33 PM||
+|Looks aren't everything. Believe me, I'm a model. Cameron Russell|June 6, 2023 9:36 PM||
+|The art of misdirection Apollo Robbins|June 6, 2023 9:38 PM||

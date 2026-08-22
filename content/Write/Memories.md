@@ -5,24 +5,24 @@ tags: [essay]
 publish_external: false
 ---
 
-[[Personal Home]]
+Personal Home
 [[Notion Notes]]
 [[Books List]]
 [[Quotes]]
 
 ## Chronology
 
-[[First Day I Missed My Prayer]]
+First Day I Missed My Prayer
 
-[[Last Day of Neural Technologies Indonesia]]
+[[Neural Technologies Indonesia]]
 
 [[First Earthquake]]
 
-[[Started Praying Again]]
+Started Praying Again
 
-[[First Day of Accenture]]
+First Day of Accenture
 
-[[Last Day at Telkomsel DQM Project]]
+Last Day at Telkomsel DQM Project
 
 First Day [[Tennis]]
 

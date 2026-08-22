@@ -1,5 +1,5 @@
 ---
-title: One Piece Film Red
+title: "One Piece Film Red"
 date: 2016-01-01
 tags: [film]
 publish_external: false

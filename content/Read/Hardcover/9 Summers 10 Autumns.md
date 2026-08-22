@@ -1,5 +1,5 @@
 ---
-title: 9 Summers 10 Autumns
+title: "9 Summers 10 Autumns"
 date: 2025-06-19
 tags: [book]
 publish_external: false

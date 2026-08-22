@@ -1,5 +1,5 @@
 ---
-title: (500) Days of Summer
+title: "(500) Days of Summer"
 date: 2016-01-01
 tags: [film]
 publish_external: false

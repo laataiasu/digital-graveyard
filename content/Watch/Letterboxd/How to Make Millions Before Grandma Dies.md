@@ -1,5 +1,5 @@
 ---
-title: How to Make Millions Before Grandma Dies
+title: "How to Make Millions Before Grandma Dies"
 date: 2016-01-01
 tags: [film]
 publish_external: false

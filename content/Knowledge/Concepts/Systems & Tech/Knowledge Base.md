@@ -23,7 +23,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 
 ### Macro & Financial Metrics
 - [[Finance]]
-- [[How The Economic Machine Works]]
+- [[How the Economic Machine Works]]
 - [[U.S. Dollar Index (DXY)]]
 - [[thiel_rogan]]
 
@@ -46,7 +46,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 
 ### Software Engineering & Architecture
 - [[API (Application Programming Interface)]]
-- [[Data Structures and Algorithm]]
+- [[Data Structures and Algorithms]]
 - [[Business Process Model and Notation]]
 - [[Django]]
 - [[Scaling]]
@@ -71,7 +71,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 - [[Python package manager]]
 - [[Module, Package, Library, Framework in Python]]
 - [[Git Commit Messages Guideline]]
-- [[VSCode Shortcut]]
+- VSCode Shortcut
 - [[Symbols in Keyboard]]
 - [[Windows to Mac Migration]]
 - [[Scraping]]
@@ -84,7 +84,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 - [[Data Engineering]]
 - [[Natural Language Processing]]
 - [[Udacity Data Engineering Nanodegree]]
-- [[Empower Gen AI apps with tool use]]
+- Empower Gen AI apps with tool use
 - [[AB Testing]]
 
 ---
@@ -134,7 +134,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 - [[TED Talks Summary]]
 - [[How To Build The Future]]
 - [[How to Start a Startup]]
-- [[things-i-wish-existed]]
+- things-i-wish-existed
 - [[Obsession]]
 - [[Music]]
 - [[Japan]]

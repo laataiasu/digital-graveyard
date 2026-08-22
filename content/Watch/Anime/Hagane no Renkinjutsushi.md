@@ -1,5 +1,5 @@
 ---
-title: Hagane no Renkinjutsushi
+title: "Hagane no Renkinjutsushi"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

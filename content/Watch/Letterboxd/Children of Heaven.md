@@ -1,5 +1,5 @@
 ---
-title: Children of Heaven
+title: "Children of Heaven"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -238,13 +238,11 @@ def format_yaml_extra_value(val):
             return f'"{s_escaped}"'
         return s_escaped
 
-def process_file(filepath):
-    with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
-        full_content = f.read()
-
+def build_fixed_content(full_content, filepath):
+    """Return the fixed content for a file without writing it (used by --dry-run)."""
     rel_path = os.path.relpath(filepath, CONTENT_DIR)
     norm_rel = os.path.normpath(rel_path)
-    
+
     parts = full_content.split("---", 2)
     has_fm = full_content.startswith("---") and len(parts) >= 3
 
@@ -321,7 +319,12 @@ def process_file(filepath):
     # Clean body
     clean_body = clean_inline_tags(clean_h1_headings(body)).lstrip("\r\n")
     new_full_content = f"{new_fm}\n\n{clean_body}\n" if clean_body else f"{new_fm}\n"
+    return new_full_content
 
+def process_file(filepath):
+    with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+        full_content = f.read()
+    new_full_content = build_fixed_content(full_content, filepath)
     if new_full_content != full_content:
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(new_full_content)
@@ -329,6 +332,21 @@ def process_file(filepath):
     return False
 
 def main():
+    import sys
+    dry_run = "--dry-run" in sys.argv or "-n" in sys.argv
+    if dry_run:
+        print("🏃 DRY RUN — no files will be modified.\n")
+
+    def process_file_safe(filepath):
+        if dry_run:
+            import io
+            with open(filepath, encoding="utf-8") as f:
+                full_content = f.read()
+            # simulate: build new content without writing
+            new_full_content = build_fixed_content(full_content, filepath)
+            return new_full_content != full_content
+        return process_file(filepath)
+
     fixed_count = 0
     total_files = 0
 
@@ -343,10 +361,11 @@ def main():
             if file.endswith(".md"):
                 total_files += 1
                 filepath = os.path.join(root, file)
-                if process_file(filepath):
+                if process_file_safe(filepath):
                     fixed_count += 1
 
-    print(f"✅ Processed {total_files} files. Updated {fixed_count} files (strictly private by default).")
+    label = "Would update" if dry_run else "Updated"
+    print(f"✅ Processed {total_files} files. {label} {fixed_count} files (strictly private by default).")
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,5 @@
 ---
-title: Melancholia
+title: "Melancholia"
 date: 2016-01-01
 tags: [film]
 publish_external: false

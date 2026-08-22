@@ -1,5 +1,5 @@
 ---
-title: Deep Simplicity
+title: "Deep Simplicity"
 date: 2025-06-19
 tags: [book]
 publish_external: false

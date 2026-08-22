@@ -1,5 +1,5 @@
 ---
-title: Shigatsu wa Kimi no Uso
+title: "Shigatsu wa Kimi no Uso"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

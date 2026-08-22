@@ -1,5 +1,5 @@
 ---
-title: The Boy in the Striped Pyjamas
+title: "The Boy in the Striped Pyjamas"
 date: 2016-01-01
 tags: [film]
 publish_external: false

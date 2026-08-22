@@ -1,5 +1,5 @@
 ---
-title: Eternal Sunshine of the Spotless Mind
+title: "Eternal Sunshine of the Spotless Mind"
 date: 2016-01-01
 tags: [film]
 publish_external: false

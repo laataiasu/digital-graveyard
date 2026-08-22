@@ -158,7 +158,7 @@ How to do this?
 
 I believe their market potential is substantial, though not comparable to the stock market. The transparency introduced by this digital shift can empower the community, fostering a sense of involvement.
 
-![[https://youtu.be/0JqvJ8oEvg0]]
+![https://youtu.be/0JqvJ8oEvg0](https://youtu.be/0JqvJ8oEvg0)
 
 Sabrang's Symbolic -> \*uhukkk [[Social Credit System]]
 

@@ -1,5 +1,5 @@
 ---
-title: The Sinking of Van Der Wijck
+title: "The Sinking of Van Der Wijck"
 date: 2016-01-01
 tags: [film]
 publish_external: false

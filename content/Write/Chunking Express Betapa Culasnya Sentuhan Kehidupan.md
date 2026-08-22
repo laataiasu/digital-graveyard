@@ -5,7 +5,7 @@ tags: [film, review]
 publish_external: false
 ---
 
-![[https://youtu.be/TXceE8x-9GA]]
+![https://youtu.be/TXceE8x-9GA](https://youtu.be/TXceE8x-9GA)
 
 Saya jadi ingat nangis kejer-kejer setelah menonton Chungking Express yang sebenarnya tidak ada adegan sedihnya sama sekali. Kesendirian kronis itu seperti bom waktu dan cara menjinakkannya secara sementara adalah dengan berpura-pura menjadi binatang atau tuhan. Bahwa kata-kata itu busuk dan tidak ada gunanya, setiap kode yang ditampilkan melalui gerak bicara juga sia-sia belaka. 
 

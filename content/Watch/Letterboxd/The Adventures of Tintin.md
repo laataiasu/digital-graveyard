@@ -1,5 +1,5 @@
 ---
-title: The Adventures of Tintin
+title: "The Adventures of Tintin"
 date: 2016-01-01
 tags: [film]
 publish_external: false

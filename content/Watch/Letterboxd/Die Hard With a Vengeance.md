@@ -1,5 +1,5 @@
 ---
-title: Die Hard With a Vengeance
+title: "Die Hard With a Vengeance"
 date: 2016-01-01
 tags: [film]
 publish_external: false

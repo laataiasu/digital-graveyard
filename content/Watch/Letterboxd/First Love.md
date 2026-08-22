@@ -1,5 +1,5 @@
 ---
-title: First Love
+title: "First Love"
 date: 2016-01-01
 tags: [film]
 publish_external: false

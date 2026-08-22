@@ -1,5 +1,5 @@
 ---
-title: Three Scientists and Their Gods
+title: "Three Scientists and Their Gods"
 date: 2025-06-19
 tags: [book]
 publish_external: false

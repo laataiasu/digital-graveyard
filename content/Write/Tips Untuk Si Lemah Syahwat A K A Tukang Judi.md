@@ -21,4 +21,4 @@ nah dari 20% itu ambil lagi maksimal 2.5% atau kalo bener2 nafsu bolehlah 5%, di
 
 kalo susah tidur coba tonton ini
 
-![[https://youtu.be/OTkq4OsG_Yc]]
+![https://youtu.be/OTkq4OsG_Yc](https://youtu.be/OTkq4OsG_Yc)

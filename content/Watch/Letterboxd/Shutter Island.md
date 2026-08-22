@@ -1,5 +1,5 @@
 ---
-title: Shutter Island
+title: "Shutter Island"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
+title: "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)"
 date: 2016-01-01
 tags: [film]
 publish_external: false

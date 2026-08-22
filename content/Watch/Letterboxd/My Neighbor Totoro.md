@@ -1,5 +1,5 @@
 ---
-title: My Neighbor Totoro
+title: "My Neighbor Totoro"
 date: 2016-01-01
 tags: [film]
 publish_external: false

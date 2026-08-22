@@ -1,5 +1,5 @@
 ---
-title: Die Hard
+title: "Die Hard"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Shape of Water
+title: "The Shape of Water"
 date: 2016-01-01
 tags: [film]
 publish_external: false

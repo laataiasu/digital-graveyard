@@ -1,6 +1,6 @@
 ---
 title: "Padel"
 date: 2025-11-29
-tags: []
+tags: [note]
 publish_external: false
 ---

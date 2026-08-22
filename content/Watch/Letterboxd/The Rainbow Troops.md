@@ -1,5 +1,5 @@
 ---
-title: The Rainbow Troops
+title: "The Rainbow Troops"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Filosofi Cinta KAHLIL GIBRAN
+title: "Filosofi Cinta KAHLIL GIBRAN"
 date: 2025-06-19
 tags: [book]
 publish_external: false

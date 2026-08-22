@@ -1,5 +1,5 @@
 ---
-title: Stand by Me Doraemon 2
+title: "Stand by Me Doraemon 2"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Irishman
+title: "The Irishman"
 date: 2016-01-01
 tags: [film]
 publish_external: false

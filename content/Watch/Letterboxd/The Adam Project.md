@@ -1,5 +1,5 @@
 ---
-title: The Adam Project
+title: "The Adam Project"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Hotel Mumbai
+title: "Hotel Mumbai"
 date: 2016-01-01
 tags: [film]
 publish_external: false

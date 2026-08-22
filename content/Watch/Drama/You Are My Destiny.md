@@ -1,5 +1,5 @@
 ---
-title: You Are My Destiny
+title: "You Are My Destiny"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

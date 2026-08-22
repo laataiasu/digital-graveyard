@@ -5,7 +5,7 @@ tags: [essay]
 publish_external: false
 ---
 
-![[https://youtu.be/7_474dBpn6c]]
+![https://youtu.be/7_474dBpn6c](https://youtu.be/7_474dBpn6c)
 
 What I want to tell to people is don’t believe in someone who said every human is unique. No, they don’t. You could see many [[Tiktok]] videos of our childhood. No matter where you were, they were usually the same. It really explains that we’re not really unique. We experience mostly the same thing. 
 

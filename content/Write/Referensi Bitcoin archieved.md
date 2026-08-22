@@ -72,7 +72,7 @@ https://www.pajak.go.id/id/artikel/polemik-antara-regulasi-pemerintah-dan-virtua
 
 santi said japanese people prefer "how you make money" than "how much money you make", 
 
-![[https://youtu.be/krYUPzY_GXw]]
+![https://youtu.be/krYUPzY_GXw](https://youtu.be/krYUPzY_GXw)
 
 equilibrium game theory ~ john nash
 
@@ -80,7 +80,7 @@ https://academy.binance.com/en/articles/game-theory-and-cryptocurrencies
 
 https://www.businessinsider.com/this-is-how-bitcoin-can-end-income-inequality-in-2020?r=US&IR=T
 
-![[https://youtu.be/Syp_jR4BNBk]]
+![https://youtu.be/Syp_jR4BNBk](https://youtu.be/Syp_jR4BNBk)
 
 decentralized atau centralized ujung2nya tergantung marketing kalo menurut pak pet
 

@@ -1,5 +1,5 @@
 ---
-title: The Social Dilemma
+title: "The Social Dilemma"
 date: 2016-01-01
 tags: [film]
 publish_external: false

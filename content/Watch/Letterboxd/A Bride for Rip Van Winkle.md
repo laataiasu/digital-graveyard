@@ -1,5 +1,5 @@
 ---
-title: A Bride for Rip Van Winkle
+title: "A Bride for Rip Van Winkle"
 date: 2016-01-01
 tags: [film]
 publish_external: false

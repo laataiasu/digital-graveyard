@@ -1,5 +1,5 @@
 ---
-title: The Dictator
+title: "The Dictator"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Soul
+title: "Soul"
 date: 2016-01-01
 tags: [film]
 publish_external: false

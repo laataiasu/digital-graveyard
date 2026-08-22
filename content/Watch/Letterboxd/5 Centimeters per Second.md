@@ -1,5 +1,5 @@
 ---
-title: 5 Centimeters per Second
+title: "5 Centimeters per Second"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: The Metamorphosis
+title: "The Metamorphosis"
 date: 2025-06-19
 tags: [book]
 publish_external: false

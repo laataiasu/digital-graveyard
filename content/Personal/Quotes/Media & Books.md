@@ -6,19 +6,19 @@ publish_external: false
 ---
 
 - [[Silicon Valley]]
-    - [[Galvin Belson]]
-    - [[Bighead]]
-    - [[Gilfoyle]]
-    - [[Jared]]
-- [[Avatar Aang]]
-- [[Kafka on the shore]]
+    - Galvin Belson
+    - Bighead
+    - Gilfoyle
+    - Jared
+- Avatar Aang
+- [[Kafka on the Shore]]
 - [[Grand Blue]]
 - [[Berserk]]
 - [[Daerah Salju]]
-- [[Friday: Forbidden Tales]]
-- [[Haikyu!!]]
-- [[Taleb]]
-- [[Mandelbrot]]
+- Friday: Forbidden Tales
+- [[Haikyuu]]
+- [[Nassim Nicholas Taleb]]
+- [[Benoit Mandelbrot]]
 - [[Mr. Robot]]
 - [[Naruto]]
 # Silicon Valley
@@ -89,4 +89,4 @@ If someone asked for your patience, they are asking for your surrender
 You search, you find. What if you search and you dont find. How long do yo look. Eventually you have gotta be give up right
 I dont interest myself in the why. I think more often in terms of the when, sometimes where, but always how much
 # Naruto
-[[Quotes Naruto dr SD]]
+Quotes Naruto dr SD

@@ -1,5 +1,5 @@
 ---
-title: 21 Jump Street
+title: "21 Jump Street"
 date: 2016-01-01
 tags: [film]
 publish_external: false

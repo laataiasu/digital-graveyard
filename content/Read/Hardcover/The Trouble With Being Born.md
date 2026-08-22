@@ -1,5 +1,5 @@
 ---
-title: The Trouble With Being Born
+title: "The Trouble With Being Born"
 date: 2026-08-20
 tags: [book]
 publish_external: false

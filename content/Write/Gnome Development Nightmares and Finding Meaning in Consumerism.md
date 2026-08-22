@@ -22,4 +22,4 @@ did research or just "surfing" how to get indonesia-related data, but i give up.
 
 thats the only thing to be happy i guess :"v
 
-![[https://youtu.be/4pG-8XLLaE0?si=7nPk5GWKY9QGFeY-]]  
+![https://youtu.be/4pG-8XLLaE0?si=7nPk5GWKY9QGFeY-](https://youtu.be/4pG-8XLLaE0?si=7nPk5GWKY9QGFeY-)  

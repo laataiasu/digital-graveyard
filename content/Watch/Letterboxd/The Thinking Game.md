@@ -1,5 +1,5 @@
 ---
-title: The Thinking Game
+title: "The Thinking Game"
 date: 2016-01-01
 tags: [film]
 publish_external: false

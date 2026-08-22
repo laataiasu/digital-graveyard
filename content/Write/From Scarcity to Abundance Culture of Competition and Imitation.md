@@ -5,11 +5,11 @@ tags: [essay]
 publish_external: false
 ---
 
-![[https://youtu.be/e9dZQelULDk]]
+![https://youtu.be/e9dZQelULDk](https://youtu.be/e9dZQelULDk)
 
 We are constantly engaged in competition, but often it yields no real value.
 
-Our actions are driven by jealousy and the instinct for survival, echoing [[Tags/Figure/Peter Thiel]]'s statement that "Competition is for losers." In my opinion, true innovation cannot be achieved by simply imitating others.
+Our actions are driven by jealousy and the instinct for survival, echoing [[Peter Thiel]]'s statement that "Competition is for losers." In my opinion, true innovation cannot be achieved by simply imitating others.
 
 Many educational institutions imitate one another, driven by the fear of missing out on certain organizations or events. Peer pressure pushes individuals to compete in embellishing their resumes with extravagant experiences and internships.
 
@@ -19,7 +19,7 @@ People often act or pretend to act without the courage to reflect on their actio
 
 This behavior is quite understandable, as individuals often believe they are inadequate and lack a sense of security.
 
-![[https://youtu.be/uSzbHzKkk_Y]]
+![https://youtu.be/uSzbHzKkk_Y](https://youtu.be/uSzbHzKkk_Y)
 
 Be cautious of those who appear successful and encourage you to take more risks and step out of your comfort zone. Their advice may be biased due to survivorship bias, assuming that others can replicate their success through similar paths.
 

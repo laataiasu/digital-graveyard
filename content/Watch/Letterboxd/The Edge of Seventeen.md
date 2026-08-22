@@ -1,5 +1,5 @@
 ---
-title: The Edge of Seventeen
+title: "The Edge of Seventeen"
 date: 2016-01-01
 tags: [film]
 publish_external: false

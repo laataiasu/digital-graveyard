@@ -1,5 +1,5 @@
 ---
-title: Saiki Kusuo no Ψ-nan
+title: "Saiki Kusuo no Ψ-nan"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

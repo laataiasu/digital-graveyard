@@ -1,5 +1,5 @@
 ---
-title: Project Hail Mary
+title: "Project Hail Mary"
 date: 2016-01-01
 tags: [film]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: No Game No Life Zero
+title: "No Game No Life Zero"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

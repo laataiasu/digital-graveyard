@@ -1,5 +1,5 @@
 ---
-title: Strong Girl Bong Soon
+title: "Strong Girl Bong Soon"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

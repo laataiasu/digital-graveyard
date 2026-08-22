@@ -1,5 +1,5 @@
 ---
-title: Forrest Gump
+title: "Forrest Gump"
 date: 2016-01-01
 tags: [film]
 publish_external: false

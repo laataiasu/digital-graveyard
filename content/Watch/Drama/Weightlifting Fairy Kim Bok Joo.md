@@ -1,5 +1,5 @@
 ---
-title: Weightlifting Fairy Kim Bok Joo
+title: "Weightlifting Fairy Kim Bok Joo"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: Good Will Hunting
+title: "Good Will Hunting"
 date: 2016-01-01
 tags: [film]
 publish_external: false

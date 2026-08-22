@@ -1,5 +1,5 @@
 ---
-title: Wall Street
+title: "Wall Street"
 date: 2016-01-01
 tags: [film]
 publish_external: false

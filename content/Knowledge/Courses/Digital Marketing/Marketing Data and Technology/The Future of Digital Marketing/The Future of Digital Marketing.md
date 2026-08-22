@@ -62,7 +62,7 @@ publish_external: false
 
 ### 🧠 **New Terms Defined**
 
-* **[[Artificial Intelligence]]**: Machine-performed intelligent tasks using datasets.
+* **[[Artificial intelligence]]**: Machine-performed intelligent tasks using datasets.
 * **Chatbot**: Automated messaging software with human-like responses.
 * **Conversational Marketing**: Rapid, multi-platform engagement with consumers.
 * **Personalization**: Content tailored to individuals’ preferences.

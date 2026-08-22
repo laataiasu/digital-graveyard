@@ -1,5 +1,5 @@
 ---
-title: Secret Garden Special
+title: "Secret Garden Special"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

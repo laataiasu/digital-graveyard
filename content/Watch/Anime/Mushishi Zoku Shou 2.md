@@ -1,5 +1,5 @@
 ---
-title: Mushishi Zoku Shou 2
+title: "Mushishi Zoku Shou 2"
 date: 2016-01-01
 tags: [anime, film]
 publish_external: false

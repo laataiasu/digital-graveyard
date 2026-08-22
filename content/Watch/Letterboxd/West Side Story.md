@@ -1,5 +1,5 @@
 ---
-title: West Side Story
+title: "West Side Story"
 date: 2016-01-01
 tags: [film]
 publish_external: false

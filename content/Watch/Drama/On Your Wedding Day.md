@@ -1,5 +1,5 @@
 ---
-title: On Your Wedding Day
+title: "On Your Wedding Day"
 date: 2016-01-01
 tags: [film, drama]
 publish_external: false

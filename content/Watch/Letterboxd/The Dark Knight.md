@@ -1,5 +1,5 @@
 ---
-title: The Dark Knight
+title: "The Dark Knight"
 date: 2016-01-01
 tags: [film]
 publish_external: false

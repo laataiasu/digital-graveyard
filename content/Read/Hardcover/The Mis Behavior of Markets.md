@@ -1,5 +1,5 @@
 ---
-title: The (Mis)Behavior of Markets
+title: "The (Mis)Behavior of Markets"
 date: 2025-06-19
 tags: [book]
 publish_external: false

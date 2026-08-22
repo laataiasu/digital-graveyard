@@ -1,5 +1,5 @@
 ---
-title: The Pursuit of Happyness
+title: "The Pursuit of Happyness"
 date: 2016-01-01
 tags: [film]
 publish_external: false

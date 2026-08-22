@@ -1,5 +1,5 @@
 ---
-title: Inside Llewyn Davis
+title: "Inside Llewyn Davis"
 date: 2016-01-01
 tags: [film]
 publish_external: false
