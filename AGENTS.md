@@ -147,6 +147,8 @@ python3 ~/Projects/ierp/scripts/export_garden.py   # add --check for dry-run
 ```
 * **Never hand-edit or hand-create media notes** — they are overwritten on export. To fix data, fix it in ierp (DB or `ierp` CLI) and re-export.
 * The old `content/.scripts/get-data/` pipeline was removed; do not recreate it.
+* **Do not edit ierp-generated files in place** — including `content/Read/`, `content/Watch/`, and `content/Write/Links.md`. They are regenerated views; any content fix (titles, tags, links, tables) must be made in the ierp source of truth (`~/Projects/ierp`) and re-exported via `python3 ~/Projects/ierp/scripts/export_garden.py`.
+  * Exception: mechanical frontmatter hygiene (quoting titles, tag taxonomy) is safe on these files, since `fix_frontmatter.py` will re-apply it after every export — but never change *content* (body text, wikilinks, tables) in them.
 
 ---
 
