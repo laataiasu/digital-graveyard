@@ -1,5 +1,5 @@
 ---
-title: "Review A Guide to Wealth and Happiness — Naval Ravikant"
+title: "Review a Guide to Wealth and Happiness — Naval Ravikant"
 date: 2021-08-28
 tags: [review, book]
 publish_external: true

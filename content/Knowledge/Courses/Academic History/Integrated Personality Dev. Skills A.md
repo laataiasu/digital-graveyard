@@ -1,5 +1,5 @@
 ---
-title: "Integrated Personality Dev. Skills A"
+title: "Integrated Personality Dev. Skills a"
 date: 2020-02-01
 tags: [note]
 publish_external: true

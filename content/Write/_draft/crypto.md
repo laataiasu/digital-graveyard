@@ -1,5 +1,5 @@
 ---
-title: "crypto"
+title: "Crypto"
 date: 2001-01-01
 tags: [essay]
 publish_external: false

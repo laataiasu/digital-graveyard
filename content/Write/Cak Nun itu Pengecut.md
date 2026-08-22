@@ -1,5 +1,5 @@
 ---
-title: "Cak Nun itu Pengecut"
+title: "Cak Nun Itu Pengecut"
 date: 2022-10-09
 tags: [essay, figure]
 publish_external: false

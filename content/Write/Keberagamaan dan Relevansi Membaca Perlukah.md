@@ -1,5 +1,5 @@
 ---
-title: "Keberagamaan dan Relevansi Membaca: Perlukah?"
+title: "Keberagamaan Dan Relevansi Membaca: Perlukah?"
 date: 2016-03-22
 tags: [essay]
 publish_external: true

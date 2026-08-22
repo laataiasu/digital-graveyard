@@ -1,5 +1,5 @@
 ---
-title: "Sample Data: Assume you have a DataFrame `df` with a 'Close' column for [[Facebook]] stock prices."
+title: "Sample Data: Assume You Have a DataFrame `Df` with a 'Close' Column for [[Facebook]] Stock Prices."
 date: 2001-01-01
 tags: [note]
 publish_external: true

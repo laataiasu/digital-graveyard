@@ -1,5 +1,5 @@
 ---
-title: "mother coughing"
+title: "Mother Coughing"
 date: 2024-05-31
 tags: [journal]
 publish_external: false

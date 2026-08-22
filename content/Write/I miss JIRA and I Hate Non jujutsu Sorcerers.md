@@ -1,5 +1,5 @@
 ---
-title: "I miss JIRA and I Hate Non-jujutsu Sorcerers"
+title: "I Miss JIRA and I Hate Non-jujutsu Sorcerers"
 date: 2023-09-04
 tags: [reflection]
 publish_external: true

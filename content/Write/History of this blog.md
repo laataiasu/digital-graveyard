@@ -1,5 +1,5 @@
 ---
-title: "History of this blog"
+title: "History of This Blog"
 date: 2020-05-19
 tags: [essay]
 publish_external: true

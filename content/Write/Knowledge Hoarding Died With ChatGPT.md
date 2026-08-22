@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Hoarding Died With ChatGPT"
+title: "Knowledge Hoarding Died with ChatGPT"
 date: 2025-05-30
 tags: [essay]
 publish_external: true

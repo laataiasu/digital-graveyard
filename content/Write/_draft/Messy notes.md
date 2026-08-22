@@ -1,5 +1,5 @@
 ---
-title: "Messy notes"
+title: "Messy Notes"
 date: 2022-06-14
 tags: [essay]
 publish_external: false

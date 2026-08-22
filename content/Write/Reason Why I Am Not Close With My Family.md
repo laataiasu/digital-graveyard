@@ -1,5 +1,5 @@
 ---
-title: "Reason Why I Am Not Close With My Family"
+title: "Reason Why I Am Not Close with My Family"
 date: 2023-04-26
 tags: [journal]
 publish_external: false

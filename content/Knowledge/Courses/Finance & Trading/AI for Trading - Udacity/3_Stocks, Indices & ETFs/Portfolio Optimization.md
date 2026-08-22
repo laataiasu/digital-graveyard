@@ -1,5 +1,5 @@
 ---
-title: "Define the function"
+title: "Define the Function"
 date: 2001-01-01
 tags: [note]
 publish_external: true

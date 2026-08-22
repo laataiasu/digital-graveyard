@@ -1,5 +1,5 @@
 ---
-title: "Tujuan, perlukah?"
+title: "Tujuan, Perlukah?"
 date: 2018-06-30
 tags: [literature]
 publish_external: true

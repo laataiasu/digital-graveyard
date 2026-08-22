@@ -1,5 +1,5 @@
 ---
-title: "Faustian Bargaining Arc: The Period of Deconstruction"
+title: "Faustian Bargaining Arc: the Period of Deconstruction"
 date: 2026-06-15
 tags: [reflection]
 publish_external: false

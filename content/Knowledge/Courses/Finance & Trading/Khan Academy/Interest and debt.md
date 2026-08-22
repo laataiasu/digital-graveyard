@@ -1,5 +1,5 @@
 ---
-title: "Interest and debt"
+title: "Interest and Debt"
 date: 2001-01-01
 tags: [note]
 publish_external: true

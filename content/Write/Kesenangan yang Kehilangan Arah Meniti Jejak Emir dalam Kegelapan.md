@@ -1,5 +1,5 @@
 ---
-title: "Kesenangan yang Kehilangan Arah: Meniti Jejak Emir dalam Kegelapan"
+title: "Kesenangan Yang Kehilangan Arah: Meniti Jejak Emir Dalam Kegelapan"
 date: 2018-11-23
 tags: [journal]
 publish_external: false

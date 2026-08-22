@@ -1,5 +1,5 @@
 ---
-title: "Analisis Sistem Informasi JKT48 di Tahun Pandemi"
+title: "Analisis Sistem Informasi JKT48 Di Tahun Pandemi"
 date: 2022-04-30
 tags: [essay]
 publish_external: true

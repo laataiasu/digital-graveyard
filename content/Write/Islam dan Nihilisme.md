@@ -1,5 +1,5 @@
 ---
-title: "Islam dan Nihilisme"
+title: "Islam Dan Nihilisme"
 date: 2020-07-29
 tags: [essay]
 publish_external: true

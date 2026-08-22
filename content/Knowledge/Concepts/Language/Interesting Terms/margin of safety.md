@@ -1,5 +1,5 @@
 ---
-title: "margin of safety"
+title: "Margin of Safety"
 date: 2025-07-07
 tags: [interesting-terms]
 publish_external: true

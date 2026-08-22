@@ -1,5 +1,5 @@
 ---
-title: "Berpemilu 2024 dengan Hoream"
+title: "Berpemilu 2024 Dengan Hoream"
 date: 2024-02-11
 tags: [journal]
 publish_external: true

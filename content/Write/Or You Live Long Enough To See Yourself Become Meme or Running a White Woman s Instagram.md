@@ -1,5 +1,5 @@
 ---
-title: "Or You Live Long Enough To See Yourself Become Meme, or Running a White Woman's [[Instagram]]"
+title: "Or You Live Long Enough to See Yourself Become Meme, or Running a White Woman's [[Instagram]]"
 date: 2023-07-10
 tags: [film]
 publish_external: false

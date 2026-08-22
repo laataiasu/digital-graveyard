@@ -1,5 +1,5 @@
 ---
-title: "Why This Earth Of Mankind Is A Dangerous Book"
+title: "Why This Earth of Mankind Is a Dangerous Book"
 date: 2020-12-19
 tags: [essay, book]
 publish_external: false

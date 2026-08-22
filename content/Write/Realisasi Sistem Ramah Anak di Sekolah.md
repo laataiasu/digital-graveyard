@@ -1,5 +1,5 @@
 ---
-title: "Realisasi Sistem Ramah Anak di Sekolah"
+title: "Realisasi Sistem Ramah Anak Di Sekolah"
 date: 2018-02-24
 tags: [essay]
 publish_external: true

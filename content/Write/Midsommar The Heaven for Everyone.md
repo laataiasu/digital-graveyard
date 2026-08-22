@@ -1,5 +1,5 @@
 ---
-title: "Midsommar, The Heaven for Everyone"
+title: "Midsommar, the Heaven for Everyone"
 date: 2021-01-16
 tags: [essay, film]
 publish_external: true

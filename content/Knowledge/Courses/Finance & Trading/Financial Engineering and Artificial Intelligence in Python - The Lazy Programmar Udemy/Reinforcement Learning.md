@@ -1,5 +1,5 @@
 ---
-title: "Assuming some model output for actions"
+title: "Assuming Some Model Output for Actions"
 date: 2001-01-01
 tags: [note]
 publish_external: true

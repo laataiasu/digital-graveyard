@@ -1,5 +1,5 @@
 ---
-title: "Muslim condition"
+title: "Muslim Condition"
 date: 2020-07-06
 tags: [reflection]
 publish_external: true

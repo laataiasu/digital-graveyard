@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Finance (DeFi) The Future of Finance Specialization - Coursera"
+title: "Decentralized Finance (DeFi) the Future of Finance Specialization - Coursera"
 date: 2001-01-01
 tags: [note]
 publish_external: true

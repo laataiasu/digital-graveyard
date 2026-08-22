@@ -1,5 +1,5 @@
 ---
-title: "Your Anxiety is Telling You the Truth."
+title: "Your Anxiety Is Telling You the Truth."
 date: 2001-01-01
 tags: [essay]
 publish_external: false

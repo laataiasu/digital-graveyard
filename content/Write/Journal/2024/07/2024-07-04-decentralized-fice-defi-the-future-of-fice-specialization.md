@@ -1,5 +1,5 @@
 ---
-title: "Decentralized Finance (DeFi): The Future of Finance Specialization"
+title: "Decentralized Finance (DeFi): the Future of Finance Specialization"
 date: 2024-07-04
 tags: [journal]
 publish_external: false

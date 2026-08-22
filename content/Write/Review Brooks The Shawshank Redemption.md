@@ -1,5 +1,5 @@
 ---
-title: "Review Brooks, 'The Shawshank Redemption"
+title: "Review Brooks, 'the Shawshank Redemption"
 date: 2020-12-13
 tags: [essay, film]
 publish_external: true

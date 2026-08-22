@@ -1,5 +1,5 @@
 ---
-title: "Bosan lagi"
+title: "Bosan Lagi"
 date: 2022-09-27
 tags: [literature]
 publish_external: true

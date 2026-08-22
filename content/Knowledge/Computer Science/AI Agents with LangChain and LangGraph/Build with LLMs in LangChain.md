@@ -1,5 +1,5 @@
 ---
-title: "Streams response and stores in memory"
+title: "Streams Response and Stores in Memory"
 date: 2026-05-19
 tags: [note]
 publish_external: true

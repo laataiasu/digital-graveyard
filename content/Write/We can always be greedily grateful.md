@@ -1,5 +1,5 @@
 ---
-title: "We can always be greedily grateful"
+title: "We Can Always Be Greedily Grateful"
 date: 2023-11-25
 tags: [journal]
 publish_external: true

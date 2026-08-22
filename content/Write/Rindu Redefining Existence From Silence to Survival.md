@@ -1,5 +1,5 @@
 ---
-title: "Rindu: Redefining Existence From Silence to Survival"
+title: "Rindu: Redefining Existence from Silence to Survival"
 date: 2016-02-17
 tags: [reflection]
 publish_external: false

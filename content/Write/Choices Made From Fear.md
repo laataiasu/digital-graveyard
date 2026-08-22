@@ -1,5 +1,5 @@
 ---
-title: "Choices Made From Fear"
+title: "Choices Made from Fear"
 date: 2024-06-08
 tags: [essay]
 publish_external: true

@@ -1,5 +1,5 @@
 ---
-title: "Referensi Bitcoin (archieved)"
+title: "Referensi Bitcoin (Archieved)"
 date: 2020-02-09
 tags: [essay]
 publish_external: true

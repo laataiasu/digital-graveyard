@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Profit of 'From Up on Poppy Hill"
+title: "Short-Term Profit of 'from Up on Poppy Hill"
 date: 2021-02-09
 tags: [essay, film]
 publish_external: true

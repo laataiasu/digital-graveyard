@@ -1,5 +1,5 @@
 ---
-title: "Hiper realisme"
+title: "Hiper Realisme"
 date: 2020-08-14
 tags: [literature]
 publish_external: true

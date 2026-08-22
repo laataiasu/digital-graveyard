@@ -1,5 +1,5 @@
 ---
-title: "Keberagamaan dan Relevansi Menulis: Perlukah?"
+title: "Keberagamaan Dan Relevansi Menulis: Perlukah?"
 date: 2016-04-13
 tags: [essay]
 publish_external: false

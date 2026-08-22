@@ -1,5 +1,5 @@
 ---
-title: "spesn"
+title: "Spesn"
 date: 2025-09-13
 tags: [note]
 publish_external: true

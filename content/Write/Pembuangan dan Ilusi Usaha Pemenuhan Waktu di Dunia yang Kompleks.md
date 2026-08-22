@@ -1,5 +1,5 @@
 ---
-title: "Pembuangan dan Ilusi Usaha Pemenuhan Waktu di Dunia yang Kompleks"
+title: "Pembuangan Dan Ilusi Usaha Pemenuhan Waktu Di Dunia Yang Kompleks"
 date: 2018-01-01
 tags: [journal]
 publish_external: true

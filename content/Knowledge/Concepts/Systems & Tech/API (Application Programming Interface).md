@@ -1,5 +1,5 @@
 ---
-title: "Apa itu API?"
+title: "Apa Itu API?"
 date: 2021-06-16
 tags: [note]
 publish_external: true

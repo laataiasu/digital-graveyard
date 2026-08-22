@@ -1,5 +1,5 @@
 ---
-title: "Bohong adalah Jalan Ninjaku"
+title: "Bohong Adalah Jalan Ninjaku"
 date: 2025-08-24
 tags: [journal]
 publish_external: false

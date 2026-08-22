@@ -1,5 +1,5 @@
 ---
-title: "Indefinite optimism"
+title: "Indefinite Optimism"
 date: 2020-09-12
 tags: [essay]
 publish_external: false

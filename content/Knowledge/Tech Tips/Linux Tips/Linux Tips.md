@@ -1,5 +1,5 @@
 ---
-title: "bluetooth arch linux"
+title: "Bluetooth Arch Linux"
 date: 2021-06-15
 tags: [guide]
 publish_external: true

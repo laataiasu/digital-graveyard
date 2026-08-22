@@ -1,5 +1,5 @@
 ---
-title: "Smartband is a pain in the ass"
+title: "Smartband Is a Pain in the Ass"
 date: 2023-12-08
 tags: [reflection]
 publish_external: true

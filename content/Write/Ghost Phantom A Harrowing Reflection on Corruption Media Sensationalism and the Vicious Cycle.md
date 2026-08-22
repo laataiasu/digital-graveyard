@@ -1,5 +1,5 @@
 ---
-title: "Ghost/Phantom: A Harrowing Reflection on Corruption, Media Sensationalism, and the Vicious Cycle"
+title: "Ghost/Phantom: a Harrowing Reflection on Corruption, Media Sensationalism, and the Vicious Cycle"
 date: 2022-01-11
 tags: [essay, film]
 publish_external: true

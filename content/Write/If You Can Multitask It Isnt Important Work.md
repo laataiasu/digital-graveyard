@@ -1,5 +1,5 @@
 ---
-title: "If You Can Multitask, It Isn't Important Work"
+title: "If You Can Multitask, it Isn't Important Work"
 date: 2025-05-04
 tags: [reflection]
 publish_external: true

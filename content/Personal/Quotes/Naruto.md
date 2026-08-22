@@ -1,5 +1,5 @@
 ---
-title: "Quotes Naruto dr SD"
+title: "Quotes Naruto Dr SD"
 date: 2001-01-01
 tags: [reflection]
 publish_external: false

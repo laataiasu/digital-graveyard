@@ -1,5 +1,5 @@
 ---
-title: "Retirement accounts: IRAs and 401ks"
+title: "Retirement Accounts: IRAs and 401Ks"
 date: 2001-01-01
 tags: [note]
 publish_external: true

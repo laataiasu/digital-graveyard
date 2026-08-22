@@ -1,5 +1,5 @@
 ---
-title: "Prompt LLM to summarize and return summary message"
+title: "Prompt LLM to Summarize and Return Summary Message"
 date: 2026-05-19
 tags: [note]
 publish_external: true

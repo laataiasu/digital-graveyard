@@ -1,5 +1,5 @@
 ---
-title: "Extract function details and create JSON schema"
+title: "Extract Function Details and Create JSON Schema"
 date: 2026-05-19
 tags: [note]
 publish_external: true

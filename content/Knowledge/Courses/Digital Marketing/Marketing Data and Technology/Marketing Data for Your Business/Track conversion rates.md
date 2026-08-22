@@ -1,5 +1,5 @@
 ---
-title: "Track conversion rates"
+title: "Track Conversion Rates"
 date: 2001-01-01
 tags: [note]
 publish_external: true

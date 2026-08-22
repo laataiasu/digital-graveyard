@@ -1,5 +1,5 @@
 ---
-title: "Forward and futures contracts"
+title: "Forward and Futures Contracts"
 date: 2001-01-01
 tags: [note]
 publish_external: true

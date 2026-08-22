@@ -1,5 +1,5 @@
 ---
-title: "A Boy Who Tells A Joke"
+title: "A Boy Who Tells a Joke"
 date: 2020-09-24
 tags: [essay]
 publish_external: true

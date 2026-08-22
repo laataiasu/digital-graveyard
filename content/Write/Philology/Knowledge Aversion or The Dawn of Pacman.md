@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Aversion or The Dawn of Pacman"
+title: "Knowledge Aversion or the Dawn of Pacman"
 date: 2023-04-05
 tags: [literature]
 publish_external: true

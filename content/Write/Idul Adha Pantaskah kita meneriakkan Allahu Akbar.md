@@ -1,5 +1,5 @@
 ---
-title: "Idul Adha: Pantaskah kita meneriakkan Allahu Akbar"
+title: "Idul Adha: Pantaskah Kita Meneriakkan Allahu Akbar"
 date: 2017-09-01
 tags: [journal]
 publish_external: true

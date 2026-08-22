@@ -1,5 +1,5 @@
 ---
-title: "Santet is Real"
+title: "Santet Is Real"
 date: 2023-06-14
 tags: [essay]
 publish_external: true

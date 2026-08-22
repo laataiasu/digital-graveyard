@@ -1,5 +1,5 @@
 ---
-title: "Factor: 15-day mean closing price"
+title: "Factor: 15-Day Mean Closing Price"
 date: 2001-01-01
 tags: [note]
 publish_external: true

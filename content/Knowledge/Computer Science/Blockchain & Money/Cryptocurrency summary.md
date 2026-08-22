@@ -1,5 +1,5 @@
 ---
-title: "Cryptocurrency summary"
+title: "Cryptocurrency Summary"
 date: 2001-01-01
 tags: [note]
 publish_external: true

@@ -1,5 +1,5 @@
 ---
-title: "Bumi dan Matahari"
+title: "Bumi Dan Matahari"
 date: 2019-04-19
 tags: [literature]
 publish_external: true

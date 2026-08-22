@@ -1,5 +1,5 @@
 ---
-title: "The Poison of \"Rich Dad, Poor Dad\": A Confession"
+title: "The Poison of \"Rich Dad, Poor Dad\": a Confession"
 date: 2026-02-01
 tags: [reflection]
 publish_external: true

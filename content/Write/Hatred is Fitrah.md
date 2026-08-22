@@ -1,5 +1,5 @@
 ---
-title: "Hatred is 'Fitrah"
+title: "Hatred Is 'Fitrah"
 date: 2023-11-30
 tags: [reflection]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: "Is It Really Important to Go to College?"
+title: "Is it Really Important to Go to College?"
 date: 2020-05-22
 tags: [essay]
 publish_external: true

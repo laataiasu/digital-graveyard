@@ -1,5 +1,5 @@
 ---
-title: "Why Luffy is the Authentic Hegelian Master"
+title: "Why Luffy Is the Authentic Hegelian Master"
 date: 2023-07-07
 tags: [essay, film]
 publish_external: true

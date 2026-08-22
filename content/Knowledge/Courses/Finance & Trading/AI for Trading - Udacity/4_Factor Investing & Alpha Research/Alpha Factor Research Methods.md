@@ -1,5 +1,5 @@
 ---
-title: "Assume df is your DataFrame with a 'Date', 'Close', and 'Open' column"
+title: "Assume Df Is Your DataFrame with a 'Date', 'Close', and 'Open' Column"
 date: 2001-01-01
 tags: [note]
 publish_external: true

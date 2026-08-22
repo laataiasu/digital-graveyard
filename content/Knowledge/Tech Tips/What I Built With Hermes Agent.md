@@ -1,5 +1,5 @@
 ---
-title: "What I Built With Hermes Agent"
+title: "What I Built with Hermes Agent"
 date: 2026-08-22
 tags: [guide]
 publish_external: true

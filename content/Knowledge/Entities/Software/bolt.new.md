@@ -1,5 +1,5 @@
 ---
-title: "bolt.new"
+title: "Bolt.new"
 date: 2025-07-14
 tags: [software]
 publish_external: true

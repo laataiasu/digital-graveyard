@@ -1,5 +1,5 @@
 ---
-title: "Ayat need to be researched"
+title: "Ayat Need to Be Researched"
 date: 2001-01-01
 tags: [note]
 publish_external: true

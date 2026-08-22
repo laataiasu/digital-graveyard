@@ -1,5 +1,5 @@
 ---
-title: "Empowerment, Beauty, and the Shifting Paradigm: A Reflection on Standards"
+title: "Empowerment, Beauty, and the Shifting Paradigm: a Reflection on Standards"
 date: 2023-10-28
 tags: [essay]
 publish_external: true

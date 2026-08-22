@@ -1,5 +1,5 @@
 ---
-title: "Jangan Bohong: Gema Kejujuran di Tengah Reruntuhan Digital"
+title: "Jangan Bohong: Gema Kejujuran Di Tengah Reruntuhan Digital"
 date: 2021-07-09
 tags: [reflection]
 publish_external: true

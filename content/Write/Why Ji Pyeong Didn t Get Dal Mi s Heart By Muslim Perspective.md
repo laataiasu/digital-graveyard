@@ -1,5 +1,5 @@
 ---
-title: "Why Ji-Pyeong Didn't Get Dal Mi's Heart By Muslim Perspective"
+title: "Why Ji-Pyeong Didn't Get Dal Mi's Heart by Muslim Perspective"
 date: 2020-11-22
 tags: [essay, film]
 publish_external: true

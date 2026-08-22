@@ -1,5 +1,5 @@
 ---
-title: "Ringkasan Diskusi: Menemukan Real Edge dalam Trading"
+title: "Ringkasan Diskusi: Menemukan Real Edge Dalam Trading"
 date: 2026-03-03
 tags: [essay]
 publish_external: true

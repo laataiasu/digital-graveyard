@@ -1,5 +1,5 @@
 ---
-title: "Silenus dan Kebahagiaan"
+title: "Silenus Dan Kebahagiaan"
 date: 2023-09-02
 tags: [essay, literature]
 publish_external: true

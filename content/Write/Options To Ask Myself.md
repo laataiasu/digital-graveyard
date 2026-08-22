@@ -1,5 +1,5 @@
 ---
-title: "Options To Ask Myself"
+title: "Options to Ask Myself"
 date: 2024-01-21
 tags: [journal]
 publish_external: false

@@ -1,5 +1,5 @@
 ---
-title: "Kenapa Harus Tau Crypto, Blockchain, dan sejenisnya"
+title: "Kenapa Harus Tau Crypto, Blockchain, Dan Sejenisnya"
 date: 2021-07-13
 tags: [essay]
 publish_external: true

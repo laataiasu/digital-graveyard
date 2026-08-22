@@ -1,5 +1,5 @@
 ---
-title: "Umbrella Even If It Won’t Rain"
+title: "Umbrella Even If it Won’t Rain"
 date: 2025-08-09
 tags: [essay]
 publish_external: true

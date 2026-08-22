@@ -1,5 +1,5 @@
 ---
-title: "Filsafat islam"
+title: "Filsafat Islam"
 date: 2001-01-01
 tags: [reflection]
 publish_external: false

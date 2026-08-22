@@ -1,5 +1,5 @@
 ---
-title: "[ x ] UNGEZIEFER"
+title: "[ X ] UNGEZIEFER"
 date: 2022-07-07
 tags: [project]
 publish_external: false

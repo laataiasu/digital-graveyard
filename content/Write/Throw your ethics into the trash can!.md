@@ -1,5 +1,5 @@
 ---
-title: "Throw your ethics into the trash can!"
+title: "Throw Your Ethics Into the Trash Can!"
 date: 2023-10-14
 tags: [reflection]
 publish_external: false

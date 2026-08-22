@@ -1,5 +1,5 @@
 ---
-title: "Privilese Kucing dalam Mengusir Nihilisme dan Menemukan Keseimbangan"
+title: "Privilese Kucing Dalam Mengusir Nihilisme Dan Menemukan Keseimbangan"
 date: 2018-09-26
 tags: [journal]
 publish_external: true

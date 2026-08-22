@@ -1,5 +1,5 @@
 ---
-title: "Assuming 'data' is a DataFrame with columns: ['Date', 'Price', 'Volume']"
+title: "Assuming 'Data' Is a DataFrame with Columns: ['Date', 'Price', 'Volume']"
 date: 2001-01-01
 tags: [note]
 publish_external: true

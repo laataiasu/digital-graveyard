@@ -1,5 +1,5 @@
 ---
-title: "Menunggu Ia yang Tak Perlu Dijemput"
+title: "Menunggu Ia Yang Tak Perlu Dijemput"
 date: 2016-05-19
 tags: [journal]
 publish_external: false

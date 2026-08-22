@@ -1,5 +1,5 @@
 ---
-title: "nutrition"
+title: "Nutrition"
 date: 2026-05-19
 tags: [reflection]
 publish_external: false

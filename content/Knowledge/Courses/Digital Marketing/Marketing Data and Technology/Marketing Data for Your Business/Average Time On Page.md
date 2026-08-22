@@ -1,5 +1,5 @@
 ---
-title: "Average Time On Page"
+title: "Average Time on Page"
 date: 2001-01-01
 tags: [note]
 publish_external: true

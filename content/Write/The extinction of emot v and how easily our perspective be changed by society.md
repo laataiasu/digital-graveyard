@@ -1,5 +1,5 @@
 ---
-title: "The extinction of emot :v and how easily our perspective be changed by society"
+title: "The Extinction of Emot :V and How Easily Our Perspective Be Changed by Society"
 date: 2020-07-29
 tags: [essay]
 publish_external: true

@@ -1,5 +1,5 @@
 ---
-title: "Belajar dari Jira"
+title: "Belajar Dari Jira"
 date: 2022-09-13
 tags: [essay]
 publish_external: true

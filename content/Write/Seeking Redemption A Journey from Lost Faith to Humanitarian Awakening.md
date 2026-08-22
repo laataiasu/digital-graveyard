@@ -1,5 +1,5 @@
 ---
-title: "Seeking Redemption: A Journey from Lost Faith to Humanitarian Awakening"
+title: "Seeking Redemption: a Journey from Lost Faith to Humanitarian Awakening"
 date: 2018-05-19
 tags: [journal]
 publish_external: true

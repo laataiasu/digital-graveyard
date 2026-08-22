@@ -1,5 +1,5 @@
 ---
-title: "Don't lie"
+title: "Don't Lie"
 date: 2021-07-09
 tags: [essay]
 publish_external: false

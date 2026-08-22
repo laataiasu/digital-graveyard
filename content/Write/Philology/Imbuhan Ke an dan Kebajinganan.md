@@ -1,5 +1,5 @@
 ---
-title: "Imbuhan Ke-an dan Kebajinganan"
+title: "Imbuhan Ke-an Dan Kebajinganan"
 date: 2019-08-03
 tags: [literature]
 publish_external: true

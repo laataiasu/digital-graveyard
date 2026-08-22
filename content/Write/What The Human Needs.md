@@ -1,5 +1,5 @@
 ---
-title: "What The Human Needs"
+title: "What the Human Needs"
 date: 2021-05-22
 tags: [reflection]
 publish_external: true

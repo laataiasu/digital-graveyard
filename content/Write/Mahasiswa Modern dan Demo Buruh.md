@@ -1,5 +1,5 @@
 ---
-title: "Mahasiswa Modern dan Demo Buruh"
+title: "Mahasiswa Modern Dan Demo Buruh"
 date: 2023-08-10
 tags: [journal]
 publish_external: false

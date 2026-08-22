@@ -1,5 +1,5 @@
 ---
-title: "Memory is Unreliable"
+title: "Memory Is Unreliable"
 date: 2024-02-17
 tags: [reflection]
 publish_external: false

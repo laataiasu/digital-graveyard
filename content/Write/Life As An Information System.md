@@ -1,5 +1,5 @@
 ---
-title: "Life As An Information System"
+title: "Life as an Information System"
 date: 2025-07-22
 tags: [guide]
 publish_external: true

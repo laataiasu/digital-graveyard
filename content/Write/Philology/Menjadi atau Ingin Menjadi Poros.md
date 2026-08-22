@@ -1,5 +1,5 @@
 ---
-title: "Menjadi atau Ingin Menjadi Poros"
+title: "Menjadi Atau Ingin Menjadi Poros"
 date: 2018-07-30
 tags: [literature]
 publish_external: true
