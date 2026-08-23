@@ -2,7 +2,7 @@
 title: "How to Live your Life at Full Power"
 date: 2025-07-14
 tags: [youtube]
-publish_external: false
+publish_external: true
 author: Graham Weaver
 ---
 

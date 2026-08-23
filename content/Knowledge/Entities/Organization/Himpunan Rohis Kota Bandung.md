@@ -1,6 +1,6 @@
 ---
 title: "Himpunan Rohis Kota Bandung"
-date: 2001-01-01
+date: 2026-08-20
 tags: [organization]
 publish_external: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "044 Introduction to Data Lakes"
-date: 2001-01-01
+date: 2025-06-23
 tags: [note]
 publish_external: true
 ---

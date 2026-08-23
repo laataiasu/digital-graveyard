@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-date: 2001-01-01
+date: 2026-08-20
 tags: [country]
 publish_external: true
 ---

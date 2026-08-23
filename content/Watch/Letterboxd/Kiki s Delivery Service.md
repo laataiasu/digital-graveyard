@@ -1,6 +1,6 @@
 ---
 title: "Kiki's Delivery Service"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 1989

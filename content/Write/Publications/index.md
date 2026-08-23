@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2001-01-01
+date: 2025-07-19
 tags: [essay]
 publish_external: true
 ---

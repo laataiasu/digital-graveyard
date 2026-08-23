@@ -2,7 +2,7 @@
 title: "Last Lecture Series"
 date: 2025-07-14
 tags: [youtube]
-publish_external: false
+publish_external: true
 aliases: null
 source: null
 ---

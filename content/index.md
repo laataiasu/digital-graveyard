@@ -1,6 +1,6 @@
 ---
 title: "Digital Graveyard"
-date: 2001-01-01
+date: 2025-06-12
 publish_external: true
 ---
 

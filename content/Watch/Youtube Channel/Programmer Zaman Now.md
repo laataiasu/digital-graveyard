@@ -1,8 +1,8 @@
 ---
 title: "Programmer Zaman Now"
-date: 2001-01-01
+date: 2025-07-12
 tags: [youtube]
-publish_external: false
+publish_external: true
 ---
 
 # Programmer Zaman Now

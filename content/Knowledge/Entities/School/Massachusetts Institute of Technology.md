@@ -1,6 +1,6 @@
 ---
 title: "Massachusetts Institute of Technology"
-date: 2001-01-01
+date: 2026-08-20
 tags: [school]
 publish_external: true
 aliases: [MIT]

@@ -1,6 +1,6 @@
 ---
 title: "Parasite"
-date: 2016-01-01
+date: 2025-06-19
 tags: [drama]
 publish_external: true
 year: 2019

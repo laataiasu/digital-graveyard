@@ -1,8 +1,8 @@
 ---
 title: "How To Build The Future"
-date: 2001-01-01
+date: 2026-08-20
 tags: [youtube]
-publish_external: false
+publish_external: true
 ---
 
 # How To Build The Future

@@ -1,6 +1,6 @@
 ---
 title: "Financial Engineering and Artificial Intelligence in Python - TLP Udemy"
-date: 2001-01-01
+date: 2026-08-20
 tags: [note]
 publish_external: true
 ---

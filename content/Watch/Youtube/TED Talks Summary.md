@@ -2,7 +2,7 @@
 title: "TED Talks Summary"
 date: 2023-06-06
 tags: [note]
-publish_external: false
+publish_external: true
 updated: "2024-01-06T08:36"
 ---
 

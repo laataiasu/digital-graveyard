@@ -1,6 +1,6 @@
 ---
 title: "Physics Quotes"
-date: 2001-01-01
+date: 2026-08-23
 tags: [reflection]
 publish_external: false
 ---

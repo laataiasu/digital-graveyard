@@ -1,8 +1,8 @@
 ---
 title: "History of God"
-date: 2001-01-01
+date: 2025-06-19
 tags: [book]
-publish_external: false
+publish_external: true
 ---
 
 # History of God

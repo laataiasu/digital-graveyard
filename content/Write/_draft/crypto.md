@@ -1,6 +1,6 @@
 ---
 title: "Crypto"
-date: 2001-01-01
+date: 2026-03-13
 tags: [essay]
 publish_external: false
 draft: true

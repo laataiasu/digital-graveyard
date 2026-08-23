@@ -1,6 +1,6 @@
 ---
 title: "Quotes Naruto Dr SD"
-date: 2001-01-01
+date: 2026-08-20
 tags: [reflection]
 publish_external: false
 ---

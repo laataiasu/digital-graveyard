@@ -1,6 +1,6 @@
 ---
 title: "Alcatel Flash 2"
-date: 2016-01-01
+date: 2026-08-20
 tags: [gadget]
 publish_external: true
 ---

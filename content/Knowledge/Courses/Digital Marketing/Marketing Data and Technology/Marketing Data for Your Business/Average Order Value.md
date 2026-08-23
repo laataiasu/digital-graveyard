@@ -1,6 +1,6 @@
 ---
 title: "Average Order Value"
-date: 2001-01-01
+date: 2026-08-20
 tags: [note]
 publish_external: true
 ---

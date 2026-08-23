@@ -1,6 +1,6 @@
 ---
 title: "Sam Altman"
-date: 2001-01-01
+date: 2026-08-20
 tags: [figure]
 publish_external: true
 aliases: altman

@@ -1,6 +1,6 @@
 ---
 title: "Paulo Coelho"
-date: 2001-01-01
+date: 2026-08-20
 tags: [figure, literature]
 publish_external: true
 ---

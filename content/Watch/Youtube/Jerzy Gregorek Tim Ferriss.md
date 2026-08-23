@@ -2,7 +2,7 @@
 title: "Jerzy Gregorek Tim Ferriss"
 date: 2025-07-13
 tags: [youtube]
-publish_external: false
+publish_external: true
 aliases: null
 source: null
 ---

@@ -1,6 +1,6 @@
 ---
 title: "053 Production Data Pipelines"
-date: 2001-01-01
+date: 2025-06-23
 tags: [note]
 publish_external: true
 ---

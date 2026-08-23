@@ -1,6 +1,6 @@
 ---
 title: "Ferris Bueller's Day Off"
-date: 2016-01-01
+date: 2026-08-20
 tags: [film]
 publish_external: true
 year: 1986

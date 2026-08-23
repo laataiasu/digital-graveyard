@@ -1,6 +1,6 @@
 ---
 title: "SAMSUNG GT-E1200I"
-date: 2001-01-01
+date: 2026-08-20
 tags: [gadget]
 publish_external: true
 ---

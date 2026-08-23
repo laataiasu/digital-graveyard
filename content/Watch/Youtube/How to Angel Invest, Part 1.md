@@ -2,7 +2,7 @@
 title: "How to Angel Invest, Part 1"
 date: 2025-07-13
 tags: [youtube]
-publish_external: false
+publish_external: true
 aliases: null
 source: null
 ---

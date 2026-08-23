@@ -1,6 +1,6 @@
 ---
 title: "Silenced"
-date: 2016-01-01
+date: 2026-08-20
 tags: [drama]
 publish_external: true
 year: 2011

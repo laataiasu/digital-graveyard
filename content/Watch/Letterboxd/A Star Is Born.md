@@ -1,6 +1,6 @@
 ---
 title: "A Star Is Born"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 2018

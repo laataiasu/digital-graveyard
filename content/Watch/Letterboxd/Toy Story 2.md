@@ -1,6 +1,6 @@
 ---
 title: "Toy Story 2"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 1999

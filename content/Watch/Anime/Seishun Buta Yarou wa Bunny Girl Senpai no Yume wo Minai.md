@@ -1,6 +1,6 @@
 ---
 title: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2018

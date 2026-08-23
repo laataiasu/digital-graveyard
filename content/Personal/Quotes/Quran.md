@@ -1,6 +1,6 @@
 ---
 title: "Quran"
-date: 2001-01-01
+date: 2025-06-17
 tags: [religion]
 publish_external: false
 ---

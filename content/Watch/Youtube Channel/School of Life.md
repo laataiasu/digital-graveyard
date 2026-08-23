@@ -1,8 +1,8 @@
 ---
 title: "School of Life"
-date: 2001-01-01
+date: 2025-07-12
 tags: [youtube]
-publish_external: false
+publish_external: true
 ---
 
 # School of Life

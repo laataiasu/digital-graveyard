@@ -1,6 +1,6 @@
 ---
 title: "Yahari Ore no Seishun Love Come wa Machigatteiru.: Kochira to Shite mo Karera Kanojora no Yukusue ni Sachi Ookaran Koto wo Negawazaru wo Enai."
-date: 2016-01-01
+date: 2026-08-20
 tags: [anime]
 publish_external: true
 year: 2013

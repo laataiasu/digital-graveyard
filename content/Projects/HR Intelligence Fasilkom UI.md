@@ -1,6 +1,6 @@
 ---
 title: "Ide Proyek Data Related"
-date: 2001-01-01
+date: 2025-06-12
 tags: [project]
 publish_external: false
 ---

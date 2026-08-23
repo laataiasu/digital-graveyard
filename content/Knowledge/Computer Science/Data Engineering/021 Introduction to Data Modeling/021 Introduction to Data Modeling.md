@@ -1,6 +1,6 @@
 ---
 title: "021 Introduction to Data Modeling"
-date: 2001-01-01
+date: 2025-06-23
 tags: [note]
 publish_external: true
 ---

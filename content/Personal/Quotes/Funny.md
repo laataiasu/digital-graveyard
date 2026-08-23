@@ -1,6 +1,6 @@
 ---
 title: "Funny"
-date: 2001-01-01
+date: 2025-06-17
 tags: [reflection]
 publish_external: false
 ---

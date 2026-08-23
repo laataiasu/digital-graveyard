@@ -1,6 +1,6 @@
 ---
 title: "Made in Abyss: Retsujitsu no Ougonkyou"
-date: 2016-01-01
+date: 2026-08-20
 tags: [anime]
 publish_external: true
 year: 2022
