@@ -1,11 +1,11 @@
 ---
 title: "Tokyo Magnitude 8.0"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2009
-original_title: 東京マグニチュード8.0
-source: anilist
+original_title: "東京マグニチュード8.0"
+source: "anilist"
 ---
 
 # Tokyo Magnitude 8.0

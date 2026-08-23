@@ -1,11 +1,11 @@
 ---
 title: "Puss in Boots: The Last Wish"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2022
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Puss in Boots: The Last Wish

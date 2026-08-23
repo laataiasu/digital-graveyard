@@ -1,11 +1,11 @@
 ---
 title: "The Amazing Spider-Man"
-date: 2026-08-20
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2012
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Amazing Spider-Man

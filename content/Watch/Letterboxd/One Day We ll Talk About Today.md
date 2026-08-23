@@ -1,11 +1,11 @@
 ---
 title: "One Day We'll Talk About Today"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2020
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # One Day We'll Talk About Today

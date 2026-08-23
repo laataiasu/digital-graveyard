@@ -1,11 +1,11 @@
 ---
 title: "Saiki Kusuo no Ψ-nan 2"
-date: 2026-08-20
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: 斉木楠雄のΨ難 2
-source: anilist
+original_title: "斉木楠雄のΨ難 2"
+source: "anilist"
 ---
 
 # Saiki Kusuo no Ψ-nan 2

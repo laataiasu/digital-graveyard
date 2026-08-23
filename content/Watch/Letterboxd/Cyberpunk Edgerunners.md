@@ -1,11 +1,11 @@
 ---
 title: "Cyberpunk: Edgerunners"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2022
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Cyberpunk: Edgerunners

@@ -1,11 +1,11 @@
 ---
 title: "The Sinking of Van Der Wijck"
-date: 2025-06-19
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2013
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Sinking of Van Der Wijck

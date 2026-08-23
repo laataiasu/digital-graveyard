@@ -1,11 +1,11 @@
 ---
 title: "Furiosa: A Mad Max Saga"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2024
 rating: 4
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Furiosa: A Mad Max Saga

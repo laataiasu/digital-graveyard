@@ -1,13 +1,13 @@
 ---
 title: "Dream High Season 2"
-date: 2025-06-19
+date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2012
-status: 16/16
+status: "16/16"
 rating: 4
-progress: 16/16
-source: mydramalist
+progress: "16/16"
+source: "mydramalist"
 ---
 
 # Dream High Season 2

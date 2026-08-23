@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "René Girard, Stephen Bann, Michael Metteer"
 year: 1978
-source: hardcover
+source: "hardcover"
 ---
 
 # Things Hidden Since the Foundation of the World

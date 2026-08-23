@@ -1,11 +1,11 @@
 ---
 title: "Angel Beats!"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2010
-original_title: Angel Beats!
-source: anilist
+original_title: "Angel Beats!"
+source: "anilist"
 ---
 
 # Angel Beats!

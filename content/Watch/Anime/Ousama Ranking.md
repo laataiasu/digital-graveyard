@@ -1,11 +1,11 @@
 ---
 title: "Ousama Ranking"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2021
-original_title: 王様ランキング
-source: anilist
+original_title: "王様ランキング"
+source: "anilist"
 ---
 
 # Ousama Ranking

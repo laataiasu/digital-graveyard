@@ -1,11 +1,11 @@
 ---
 title: "Frankenstein"
-date: 2026-08-20
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2025
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Frankenstein

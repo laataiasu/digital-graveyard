@@ -1,11 +1,11 @@
 ---
 title: "Joker: Folie à Deux"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2024
 rating: 1.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Joker: Folie à Deux

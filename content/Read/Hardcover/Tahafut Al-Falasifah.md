@@ -3,9 +3,9 @@ title: "Tahafut Al-Falasifah"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Abu Hamid al-Ghazali
+author: "Abu Hamid al-Ghazali"
 year: 1100
-source: hardcover
+source: "hardcover"
 ---
 
 # Tahafut Al-Falasifah

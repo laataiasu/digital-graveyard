@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Ibn Tufayl, Lenn E. Goodman"
 year: 1150
-source: hardcover
+source: "hardcover"
 ---
 
 # Ibn Tufayl's Hayy Ibn Yaqzan

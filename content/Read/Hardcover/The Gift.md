@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Hafiz, Daniel Ladinsky"
 year: 1999
-source: hardcover
+source: "hardcover"
 ---
 
 # The Gift

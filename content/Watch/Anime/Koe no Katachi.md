@@ -1,11 +1,11 @@
 ---
 title: "Koe no Katachi"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: 聲の形
-source: anilist
+original_title: "聲の形"
+source: "anilist"
 ---
 
 # Koe no Katachi

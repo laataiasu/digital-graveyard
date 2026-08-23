@@ -1,11 +1,11 @@
 ---
 title: "STAND BY ME Doraemon 2"
-date: 2026-08-22
+date: 2016-01-01
 tags: [anime]
-publish_external: false
+publish_external: true
 year: 2020
-original_title: STAND BY ME ドラえもん 2
-source: anilist
+original_title: "STAND BY ME ドラえもん 2"
+source: "anilist"
 ---
 
 # STAND BY ME Doraemon 2

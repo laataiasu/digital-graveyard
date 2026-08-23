@@ -36,11 +36,11 @@ So, this blog is a mixture of those kinds of things. If you find that my article
 So If you'd like to play [[Sepak Takraw]], feel free to connect with me. Let's together make Sepak Takraw a mandatory sport for every human being to replace other popular sports and every activity which contains the word 'sport' even though it is not a real sport like [[Esport]].
 
 - [Dream](https://drive.google.com/file/d/1ulV2rb0i3AlNCFBvs3xnqn8osNiswn-1/view?usp=sharing)
-- [[Notes/2020-05-24-intro/index|Intro Blog]]
+- [[Intro|Intro Blog]]
 
 Lots of copypasta, copy paste, not filtered, but the most important thing is this is not [[Takwil|takwil]], there is a source but I forgot to mention.
 
 When there is writing that has no source, try not to read it, stay away from the [[Syubhat|syubhat]] of my brothers whom I love for the sake of [[Allah]]!
 
 > Enjoy your symptoms and regrets
-> [[Uncertainty]], [[Contradiction]], [[Chaos]], [[Paradox]], [[Randomness]], [[Growth Mindset]], Multiple [[Mental Model|Mental Models]], [[Antifragile]], [[Systems Thinking]], [[Tags/Epistemology|Epistemological]] [[Anarchism|Anarchist]]
+> [[Uncertainty]], [[Contradiction]], [[Chaos]], [[Paradox]], [[Randomness]], [[Growth Mindset]], Multiple [[Mental Model|Mental Models]], [[Antifragile]], [[Systems Thinking]], Epistemological [[Anarchism|Anarchist]]

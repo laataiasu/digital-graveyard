@@ -8,7 +8,7 @@ publish_external: false
 #### Media
 | Name | Fiction? | Category | Status | Score /5 | Finish Date | Author | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [[Antifragile Things That Gain from Disorder|Antifragile]] | Non-fiction | Philosophy, Risk | Reading | | | Nassim Nicholas Taleb | |
+| [[Antifragile Things That Gain From Disorder|Antifragile]] | Non-fiction | Philosophy, Risk | Reading | | | Nassim Nicholas Taleb | |
 | Influence: The Psychology of Persuasion | Non-fiction | Psychology | | | | Robert B. Cialdini | |
 | [[ML]] | Non-fiction | Computer Science | Postponed | | | | |
 | [[Sapiens A Brief History of Humankind|Sapiens]] | Non-fiction | History, Philosophy | Finished | | | Yuval Noah Harari | |

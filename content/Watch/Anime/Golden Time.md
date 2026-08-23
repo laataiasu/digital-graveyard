@@ -1,11 +1,11 @@
 ---
 title: "Golden Time"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2013
-original_title: ゴールデンタイム
-source: anilist
+original_title: "ゴールデンタイム"
+source: "anilist"
 ---
 
 # Golden Time

@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Sergei Nilus, Victor E. Marsden"
 year: 1903
-source: hardcover
+source: "hardcover"
 ---
 
 # The Protocols: The Elders of Zion

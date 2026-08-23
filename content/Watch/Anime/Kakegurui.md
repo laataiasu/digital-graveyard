@@ -1,11 +1,11 @@
 ---
 title: "Kakegurui ××"
-date: 2025-06-19
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: 賭ケグルイ××
-source: anilist
+original_title: "賭ケグルイ××"
+source: "anilist"
 ---
 
 # Kakegurui ××

@@ -1,11 +1,11 @@
 ---
 title: "Josee, the Tiger and the Fish"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2020
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Josee, the Tiger and the Fish

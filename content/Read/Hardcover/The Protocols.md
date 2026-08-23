@@ -4,7 +4,7 @@ date: 2025-06-19
 tags: [book]
 publish_external: true
 year: 2016
-source: hardcover
+source: "hardcover"
 ---
 
 # The Protocols

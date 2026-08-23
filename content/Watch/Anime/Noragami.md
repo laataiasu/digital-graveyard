@@ -1,11 +1,11 @@
 ---
 title: "Noragami"
-date: 2025-06-19
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: ノラガミ
-source: anilist
+original_title: "ノラガミ"
+source: "anilist"
 ---
 
 # Noragami

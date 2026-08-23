@@ -52,7 +52,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 
 ### 💻 [[Computer Science]] & Information Systems (CSIS)]]
 
-#### 📊 [[Business / System Analysis]]
+#### 📊 [[Business - System Analysis]]
 
 * Unknown Black YouTuber (BA content) \~ 2019
 * [[Udacity Business Analytics Nanodegree]] \~ (2020-2022)
@@ -118,7 +118,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 * [[George Orwell]] -- 1984, Animal Farm \~ (2016-2019)
 * [[Bo Burnham]] -- introspective comedy \~ (2020-2022)
 * [[Fyodor Dostoevsky]], [[Emil Cioran]] -- existential literature \~ 2019-2023
-* [[Kino no Tabi The Beautiful World|Kino no Tabi]], [[Sousou no Frieren]] / MyAnimeList Picks \~ 2019-2023
+* [[Kino no Tabi the Beautiful World|Kino no Tabi]], [[Sousou no Frieren]] / MyAnimeList Picks \~ 2019-2023
 
 ---
 
@@ -145,7 +145,7 @@ Use in each file:
 women i love:
 
 - [[serial experiments lain]] (anime)
-- [[Kino no Tabi The Beautiful World|Kino no Tabi]] (anime)
+- [[Kino no Tabi the Beautiful World|Kino no Tabi]] (anime)
 - [[Karen Armstrong]] (historian)
 - [[Ayn Rand]] (philosopher)
 - [[Faye Wong]] (movie)

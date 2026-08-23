@@ -1,11 +1,11 @@
 ---
 title: "The King's Speech"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2010
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The King's Speech

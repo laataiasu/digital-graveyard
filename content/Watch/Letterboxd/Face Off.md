@@ -1,11 +1,11 @@
 ---
 title: "Face/Off"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 1997
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Face/Off

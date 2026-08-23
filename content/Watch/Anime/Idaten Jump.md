@@ -1,11 +1,11 @@
 ---
 title: "Idaten Jump"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2005
-original_title: 韋駄天翔(ジャンプ)
-source: anilist
+original_title: "韋駄天翔(ジャンプ)"
+source: "anilist"
 ---
 
 # Idaten Jump

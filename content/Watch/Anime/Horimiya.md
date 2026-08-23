@@ -1,11 +1,11 @@
 ---
 title: "Horimiya"
-date: 2025-06-19
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2021
-original_title: ホリミヤ
-source: anilist
+original_title: "ホリミヤ"
+source: "anilist"
 ---
 
 # Horimiya

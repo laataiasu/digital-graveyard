@@ -3,10 +3,10 @@ title: "Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Emha Ainun Nadjib
+author: "Emha Ainun Nadjib"
 year: 1994
 rating: 4
-source: hardcover
+source: "hardcover"
 ---
 
 # Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan

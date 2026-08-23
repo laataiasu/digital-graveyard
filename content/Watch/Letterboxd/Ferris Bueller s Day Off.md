@@ -1,11 +1,11 @@
 ---
 title: "Ferris Bueller's Day Off"
-date: 2026-08-20
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 1986
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Ferris Bueller's Day Off

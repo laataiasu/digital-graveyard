@@ -1,11 +1,11 @@
 ---
 title: "Kizumonogatari I: Tekketsu-hen"
-date: 2026-08-20
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: 傷物語〈Ⅰ鉄血篇〉
-source: anilist
+original_title: "傷物語〈Ⅰ鉄血篇〉"
+source: "anilist"
 ---
 
 # Kizumonogatari I: Tekketsu-hen

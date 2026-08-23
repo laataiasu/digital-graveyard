@@ -1,11 +1,11 @@
 ---
 title: "Crazy Rich Asians"
-date: 2025-06-19
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2018
 rating: 1.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Crazy Rich Asians

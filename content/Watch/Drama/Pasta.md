@@ -1,13 +1,13 @@
 ---
 title: "Pasta"
-date: 2025-06-19
+date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2010
-status: 20/20
+status: "20/20"
 rating: 7.5
-progress: 20/20
-source: mydramalist
+progress: "20/20"
+source: "mydramalist"
 ---
 
 # Pasta

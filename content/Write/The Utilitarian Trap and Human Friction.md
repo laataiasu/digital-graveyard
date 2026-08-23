@@ -9,7 +9,7 @@ publish_external: false
 
 When you look at the world purely through an engineering or business lens, everything reduces to input and output. The dogma is deceptively clean: minimize cost, maximize throughput, compress latency. In that mental framework, the process itself holds zero inherent value. It does not matter whether a cat is black or white, so long as it catches mice.
 
-This utilitarian mindset makes the adoption of [[Artificial Intelligence]] feel like a moral and practical imperative. Why spend hours combining disparate visual textures, agonizing over color weights, or iterating manually when a model can synthesize an output in seconds? To the utilitarian, craft looks like inefficiency disguised as romanticism. The machine represents an asymptotic march toward perfection.
+This utilitarian mindset makes the adoption of [[Artificial intelligence]] feel like a moral and practical imperative. Why spend hours combining disparate visual textures, agonizing over color weights, or iterating manually when a model can synthesize an output in seconds? To the utilitarian, craft looks like inefficiency disguised as romanticism. The machine represents an asymptotic march toward perfection.
 
 Yet when you sit across from someone who actually makes things — someone who touches the materials, who understands the visceral friction of composing something out of raw human intention — that sterile confidence starts to fracture.
 

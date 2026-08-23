@@ -1,11 +1,11 @@
 ---
 title: "Ali & Ratu Ratu Queens"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2021
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Ali & Ratu Ratu Queens

@@ -1,11 +1,11 @@
 ---
 title: "Steins;Gate 0"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: シュタインズ・ゲート ゼロ
-source: anilist
+original_title: "シュタインズ・ゲート ゼロ"
+source: "anilist"
 ---
 
 # Steins;Gate 0

@@ -1,13 +1,13 @@
 ---
 title: "Because This Is My First Life"
-date: 2025-06-19
+date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2017
-status: 16/16
+status: "16/16"
 rating: 8.5
-progress: 16/16
-source: mydramalist
+progress: "16/16"
+source: "mydramalist"
 ---
 
 # Because This Is My First Life

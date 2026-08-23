@@ -1,11 +1,11 @@
 ---
 title: "Kiseijuu: Sei no Kakuritsu"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: 寄生獣 セイの格率
-source: anilist
+original_title: "寄生獣 セイの格率"
+source: "anilist"
 ---
 
 # Kiseijuu: Sei no Kakuritsu

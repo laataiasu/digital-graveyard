@@ -3,9 +3,9 @@ title: "Murder on the Orient Express"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Agatha Christie
+author: "Agatha Christie"
 year: 2017
-source: hardcover
+source: "hardcover"
 ---
 
 # Murder on the Orient Express

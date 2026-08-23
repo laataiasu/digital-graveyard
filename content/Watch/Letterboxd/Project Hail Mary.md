@@ -1,11 +1,11 @@
 ---
 title: "Project Hail Mary"
-date: 2026-08-20
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2026
 rating: 4.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Project Hail Mary

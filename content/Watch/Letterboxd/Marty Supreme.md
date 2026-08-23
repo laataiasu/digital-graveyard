@@ -1,11 +1,11 @@
 ---
 title: "Marty Supreme"
-date: 2026-08-20
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2025
 rating: 4
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Marty Supreme

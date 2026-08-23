@@ -16,7 +16,7 @@ First Day I Missed My Prayer
 
 [[Neural Technologies Indonesia]]
 
-[[First Earthquake]]
+[[2024-04-28-first-earthquake]]
 
 Started Praying Again
 

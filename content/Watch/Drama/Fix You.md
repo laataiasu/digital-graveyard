@@ -1,13 +1,13 @@
 ---
 title: "Fix You"
-date: 2026-08-20
+date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2020
-status: 0/32
+status: "0/32"
 rating: 4
-progress: 0/32
-source: mydramalist
+progress: "0/32"
+source: "mydramalist"
 ---
 
 # Fix You
