@@ -1,13 +1,13 @@
 ---
 title: "Ghost"
-date: 2016-01-01
+date: 2025-06-19
 tags: [drama]
 publish_external: true
 year: 2012
-status: "20/20"
+status: 20/20
 rating: 8
-progress: "20/20"
-source: "mydramalist"
+progress: 20/20
+source: mydramalist
 ---
 
 # Ghost

@@ -1,11 +1,11 @@
 ---
 title: "Howl's Moving Castle"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 2004
 rating: 3
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Howl's Moving Castle

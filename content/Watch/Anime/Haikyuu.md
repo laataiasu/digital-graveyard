@@ -1,11 +1,11 @@
 ---
 title: "Haikyuu!!"
-date: 2016-01-01
+date: 2025-06-19
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: "ハイキュー!!"
-source: "anilist"
+original_title: ハイキュー!!
+source: anilist
 ---
 
 # Haikyuu!!

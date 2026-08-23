@@ -6,7 +6,7 @@ publish_external: true
 author: "Yasunari Kawabata, A.S. Laksana"
 year: 1948
 rating: 3
-source: "hardcover"
+source: hardcover
 ---
 
 # Daerah Salju

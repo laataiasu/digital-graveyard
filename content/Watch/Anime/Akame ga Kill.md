@@ -1,11 +1,11 @@
 ---
 title: "Akame ga Kill!"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: "アカメが斬る！"
-source: "anilist"
+original_title: アカメが斬る！
+source: anilist
 ---
 
 # Akame ga Kill!

@@ -1,11 +1,11 @@
 ---
 title: "Shokugeki no Souma"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: "食戟のソーマ"
-source: "anilist"
+original_title: 食戟のソーマ
+source: anilist
 ---
 
 # Shokugeki no Souma

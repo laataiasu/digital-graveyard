@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Robert T. Kiyosaki, Sharon L. Lechter"
 year: 1997
-source: "hardcover"
+source: hardcover
 ---
 
 # Rich Dad, Poor Dad

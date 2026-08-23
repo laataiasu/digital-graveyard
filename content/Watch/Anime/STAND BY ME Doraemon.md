@@ -1,11 +1,11 @@
 ---
 title: "STAND BY ME Doraemon"
-date: 2016-01-01
+date: 2026-08-20
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: "STAND BY ME ドラえもん"
-source: "anilist"
+original_title: STAND BY ME ドラえもん
+source: anilist
 ---
 
 # STAND BY ME Doraemon

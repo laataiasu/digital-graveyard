@@ -1,11 +1,11 @@
 ---
 title: "Passengers"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 2016
 rating: 2
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Passengers

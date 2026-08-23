@@ -1,11 +1,11 @@
 ---
 title: "Mushishi"
-date: 2016-01-01
+date: 2026-08-22
 tags: [anime]
 publish_external: true
 year: 2005
-original_title: "蟲師"
-source: "anilist"
+original_title: 蟲師
+source: anilist
 ---
 
 # Mushishi

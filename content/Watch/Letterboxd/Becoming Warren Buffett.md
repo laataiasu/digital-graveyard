@@ -1,11 +1,11 @@
 ---
 title: "Becoming Warren Buffett"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 2017
 rating: 3
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Becoming Warren Buffett

@@ -3,10 +3,10 @@ title: "The God Delusion"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Richard Dawkins"
+author: Richard Dawkins
 year: 2001
 rating: 3
-source: "hardcover"
+source: hardcover
 ---
 
 # The God Delusion

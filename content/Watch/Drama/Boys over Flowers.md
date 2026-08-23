@@ -1,13 +1,13 @@
 ---
 title: "Boys over Flowers"
-date: 2016-01-01
+date: 2025-06-19
 tags: [drama]
 publish_external: true
 year: 2009
-status: "25/25"
+status: 25/25
 rating: 5
-progress: "25/25"
-source: "mydramalist"
+progress: 25/25
+source: mydramalist
 ---
 
 # Boys over Flowers

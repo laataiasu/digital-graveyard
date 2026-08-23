@@ -1,11 +1,11 @@
 ---
 title: "Scent of a Woman"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 1992
 rating: 3.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Scent of a Woman

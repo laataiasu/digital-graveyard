@@ -1,11 +1,11 @@
 ---
 title: "DC League of Super-Pets"
-date: 2016-01-01
+date: 2026-08-20
 tags: [film]
 publish_external: true
 year: 2022
 rating: 2.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # DC League of Super-Pets

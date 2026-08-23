@@ -1,13 +1,13 @@
 ---
 title: "Move to Heaven"
-date: 2016-01-01
+date: 2025-06-19
 tags: [drama]
 publish_external: true
 year: 2021
-status: "10/10"
+status: 10/10
 rating: 8
-progress: "10/10"
-source: "mydramalist"
+progress: 10/10
+source: mydramalist
 ---
 
 # Move to Heaven

@@ -1,11 +1,11 @@
 ---
 title: "The Wolf of Wall Street"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 2013
 rating: 2.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # The Wolf of Wall Street

@@ -6,7 +6,7 @@ publish_external: true
 author: "Haruki Murakami, Jay Rubin"
 year: 1987
 rating: 3
-source: "hardcover"
+source: hardcover
 ---
 
 # Norwegian Wood

@@ -1,11 +1,11 @@
 ---
 title: "Shingeki no Kyojin Season 3"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: "進撃の巨人 Season３"
-source: "anilist"
+original_title: 進撃の巨人 Season３
+source: anilist
 ---
 
 # Shingeki no Kyojin Season 3

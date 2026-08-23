@@ -1,11 +1,11 @@
 ---
 title: "WALL·E"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 2008
 rating: 3.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # WALL·E

@@ -1,11 +1,11 @@
 ---
 title: "Kingsman: The Secret Service"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 2014
 rating: 3.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Kingsman: The Secret Service

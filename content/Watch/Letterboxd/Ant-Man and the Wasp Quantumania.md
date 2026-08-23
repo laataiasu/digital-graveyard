@@ -1,11 +1,11 @@
 ---
 title: "Ant-Man and the Wasp: Quantumania"
-date: 2016-01-01
+date: 2026-08-20
 tags: [film]
 publish_external: true
 year: 2023
 rating: 3
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Ant-Man and the Wasp: Quantumania

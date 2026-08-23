@@ -1,11 +1,11 @@
 ---
 title: "Shokugeki no Souma: San no Sara"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2017
-original_title: "食戟のソーマ 餐ノ皿"
-source: "anilist"
+original_title: 食戟のソーマ 餐ノ皿
+source: anilist
 ---
 
 # Shokugeki no Souma: San no Sara

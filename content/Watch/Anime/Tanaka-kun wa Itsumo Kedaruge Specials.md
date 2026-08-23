@@ -1,11 +1,11 @@
 ---
 title: "Tanaka-kun wa Itsumo Kedaruge Specials"
-date: 2016-01-01
+date: 2026-08-20
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "田中くんはいつもけだるげ 特典"
-source: "anilist"
+original_title: 田中くんはいつもけだるげ 特典
+source: anilist
 ---
 
 # Tanaka-kun wa Itsumo Kedaruge Specials

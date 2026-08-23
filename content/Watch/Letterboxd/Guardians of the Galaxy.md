@@ -1,11 +1,11 @@
 ---
 title: "Guardians of the Galaxy"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 2014
 rating: 3
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Guardians of the Galaxy

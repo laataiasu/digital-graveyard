@@ -1,11 +1,11 @@
 ---
 title: "Nekomonogatari (Kuro)"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "猫物語（黒）"
-source: "anilist"
+original_title: 猫物語（黒）
+source: anilist
 ---
 
 # Nekomonogatari (Kuro)

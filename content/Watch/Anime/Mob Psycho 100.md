@@ -1,11 +1,11 @@
 ---
 title: "Mob Psycho 100"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "モブサイコ100"
-source: "anilist"
+original_title: モブサイコ100
+source: anilist
 ---
 
 # Mob Psycho 100

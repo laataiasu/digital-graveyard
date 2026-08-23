@@ -1,11 +1,11 @@
 ---
 title: "Kimi ni Todoke"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2009
-original_title: "君に届け"
-source: "anilist"
+original_title: 君に届け
+source: anilist
 ---
 
 # Kimi ni Todoke

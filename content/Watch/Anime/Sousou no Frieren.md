@@ -1,11 +1,11 @@
 ---
 title: "Sousou no Frieren"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2023
-original_title: "葬送のフリーレン"
-source: "anilist"
+original_title: 葬送のフリーレン
+source: anilist
 ---
 
 # Sousou no Frieren

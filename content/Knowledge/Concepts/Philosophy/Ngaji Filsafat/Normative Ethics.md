@@ -3,6 +3,7 @@ title: "Normative Ethics"
 date: 2026-08-20
 tags: [note]
 publish_external: true
+status: seedling
 ---
 
 [[Deontological Ethics]] : tindakan dinilai baik atau buruk berdasarkan apakah tindakan itu sesuai atau tidak dengan kewajiban (hukum)

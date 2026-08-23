@@ -9,14 +9,14 @@ publish_external: true
 
 Directory of entities, figures, institutions, tools, and taxonomies:
 
-- [[Figure/index|Figures]] — Philosophers, scientists, builders, thinkers
-- [[Company/index|Companies]] — Corporations, startups, institutions
-- [[Software/index|Software]] — Applications, tools, protocols
-- [[Gadget/index|Gadgets]] — Hardware devices
-- [[Country/index|Countries]] — Geographical nodes
-- [[Organization/index|Organizations]] — Communities & groups
-- [[Religion/index|Religions]] — Faiths & traditions
-- [[School/index|Schools]] — Universities & academic institutions
-- [[Social Media/index|Social Media]] — Platforms
-- [[Sound/index|Sounds]] — Ambient soundscapes
-- [[Sport/index|Sports]] — Athletics & activities
+- [[Knowledge/Entities/Figure|Figures]] — Philosophers, scientists, builders, thinkers
+- [[Knowledge/Entities/Company|Companies]] — Corporations, startups, institutions
+- [[Knowledge/Entities/Software|Software]] — Applications, tools, protocols
+- [[Knowledge/Entities/Gadget|Gadgets]] — Hardware devices
+- [[Knowledge/Entities/Country|Countries]] — Geographical nodes
+- [[Knowledge/Entities/Organization|Organizations]] — Communities & groups
+- [[Knowledge/Entities/Religion|Religions]] — Faiths & traditions
+- [[Knowledge/Entities/School|Schools]] — Universities & academic institutions
+- [[Knowledge/Entities/Social Media|Social Media]] — Platforms
+- [[Knowledge/Entities/Sound|Sounds]] — Ambient soundscapes
+- [[Knowledge/Entities/Sport|Sports]] — Athletics & activities

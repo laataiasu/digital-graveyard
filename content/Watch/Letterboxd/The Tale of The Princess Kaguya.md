@@ -1,11 +1,11 @@
 ---
 title: "The Tale of The Princess Kaguya"
-date: 2016-01-01
+date: 2025-06-19
 tags: [film]
 publish_external: true
 year: 2013
 rating: 2.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # The Tale of The Princess Kaguya

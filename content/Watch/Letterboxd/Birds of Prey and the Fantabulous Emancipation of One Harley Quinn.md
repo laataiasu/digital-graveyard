@@ -1,11 +1,11 @@
 ---
 title: "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 2020
 rating: 2
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)

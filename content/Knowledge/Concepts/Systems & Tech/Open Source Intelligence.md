@@ -4,6 +4,7 @@ date: 2025-07-09
 tags: [note]
 publish_external: true
 al: OSINT
+status: seedling
 ---
 
 # Open Source Intelligence

@@ -1,13 +1,13 @@
 ---
 title: "What's Wrong with Secretary Kim"
-date: 2016-01-01
+date: 2025-06-22
 tags: [drama]
 publish_external: true
 year: 2018
-status: "16/16"
+status: 16/16
 rating: 6
-progress: "16/16"
-source: "mydramalist"
+progress: 16/16
+source: mydramalist
 ---
 
 # What's Wrong with Secretary Kim

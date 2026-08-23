@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Vincent Buranelli, Charles Dickens, Hieronimus Fromm"
 year: 1838
-source: "hardcover"
+source: hardcover
 ---
 
 # Oliver Twist

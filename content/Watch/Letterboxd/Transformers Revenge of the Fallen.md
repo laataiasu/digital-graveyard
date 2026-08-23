@@ -1,11 +1,11 @@
 ---
 title: "Transformers: Revenge of the Fallen"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 2009
 rating: 2.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Transformers: Revenge of the Fallen

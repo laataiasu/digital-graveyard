@@ -1,13 +1,13 @@
 ---
 title: "It's Okay, That's Love"
-date: 2016-01-01
+date: 2025-06-22
 tags: [drama]
 publish_external: true
 year: 2014
-status: "16/16"
+status: 16/16
 rating: 7.5
-progress: "16/16"
-source: "mydramalist"
+progress: 16/16
+source: mydramalist
 ---
 
 # It's Okay, That's Love

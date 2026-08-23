@@ -1,0 +1,475 @@
+# Knowledge seed triage
+
+460 near-empty notes (<= 10 lines) in `content/Knowledge/` are marked `status: seedling`. Triage options per note: fill it with real content, merge it into an existing note, or delete it. Regenerate this report with `python3 content/.scripts/tag_seeds.py`.
+
+## By area
+
+- `Knowledge/Entities` — 212
+- `Knowledge/Concepts` — 164
+- `Knowledge/Courses` — 63
+- `Knowledge/Computer Science` — 19
+- `Knowledge/Science Computation` — 1
+- `Knowledge/Tech Tips` — 1
+
+## Full list
+
+- [ ] `content/Knowledge/Computer Science/Data Engineering/032 Introduction to Cloud Computing and AWS/032 Introduction to Cloud Computing and AWS.md`
+- [ ] `content/Knowledge/Computer Science/Data Engineering/042 Data Wrangling with Spark/042 Data Wrangling with Spark.md`
+- [ ] `content/Knowledge/Computer Science/Data Engineering/043 Debugging and Optimization/043 Debugging and Optimization.md`
+- [ ] `content/Knowledge/Computer Science/Data Engineering/Kimball Data Modelling Guide.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/211 Building an NLP Pipeline/211 Building an NLP Pipeline.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/311 Voice User Interfaces/311 Voice User Interfaces.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/514 Intro to NLP/514 Intro to NLP.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/515 Text Processing/515 Text Processing.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/516 Spam Classifier with Naive Bayes/516 Spam Classifier with Naive Bayes.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/517 Part of Speech Tagging with HMMs/517 Part of Speech Tagging with HMMs.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/611 Feature extraction and embeddings/611 Feature extraction and embeddings.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/612 Topic Modeling/612 Topic Modeling.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/613 Sentiment Analysis/613 Sentiment Analysis.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/614 Sequence to Sequence/614 Sequence to Sequence.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/615 Deep Learning Attention/615 Deep Learning Attention.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/713 Speech Recognition/713 Speech Recognition.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/811 Recurrent Neural Networks/811 Recurrent Neural Networks.md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/812 Long Short-Term Memory Networks (LSTM)/812 Long Short-Term Memory Networks (LSTM).md`
+- [ ] `content/Knowledge/Computer Science/Natural Language Processing/813 Hyperparameters/813 Hyperparameters.md`
+- [ ] `content/Knowledge/Concepts/AWS Athena.md`
+- [ ] `content/Knowledge/Concepts/AWS Glue.md`
+- [ ] `content/Knowledge/Concepts/American Options.md`
+- [ ] `content/Knowledge/Concepts/Anti-corruption.md`
+- [ ] `content/Knowledge/Concepts/Apache Airflow.md`
+- [ ] `content/Knowledge/Concepts/Apache Cassandra.md`
+- [ ] `content/Knowledge/Concepts/BigQuery Data Warehouse.md`
+- [ ] `content/Knowledge/Concepts/Bloomberg.md`
+- [ ] `content/Knowledge/Concepts/Business - System Analysis.md`
+- [ ] `content/Knowledge/Concepts/Call Options.md`
+- [ ] `content/Knowledge/Concepts/Capital Gains.md`
+- [ ] `content/Knowledge/Concepts/Cloud & DevOps.md`
+- [ ] `content/Knowledge/Concepts/Common Stock.md`
+- [ ] `content/Knowledge/Concepts/Compliance.md`
+- [ ] `content/Knowledge/Concepts/Data Modeling.md`
+- [ ] `content/Knowledge/Concepts/Data Science.md`
+- [ ] `content/Knowledge/Concepts/Dividend.md`
+- [ ] `content/Knowledge/Concepts/Employer Branding.md`
+- [ ] `content/Knowledge/Concepts/English test.md`
+- [ ] `content/Knowledge/Concepts/European Options.md`
+- [ ] `content/Knowledge/Concepts/Finance/Blockchain.md`
+- [ ] `content/Knowledge/Concepts/Finance/Boycott.md`
+- [ ] `content/Knowledge/Concepts/Finance/Cryptocurrency.md`
+- [ ] `content/Knowledge/Concepts/Finance/Derivative.md`
+- [ ] `content/Knowledge/Concepts/Finance/Economy.md`
+- [ ] `content/Knowledge/Concepts/Finance/Enterprise Resource Planning.md`
+- [ ] `content/Knowledge/Concepts/Finance/Fat-tailed distribution.md`
+- [ ] `content/Knowledge/Concepts/Finance/Gold Reserve Act.md`
+- [ ] `content/Knowledge/Concepts/Finance/Post-scarcity.md`
+- [ ] `content/Knowledge/Concepts/Finance/Recruitment.md`
+- [ ] `content/Knowledge/Concepts/Finance/Trading.md`
+- [ ] `content/Knowledge/Concepts/Finance/business model.md`
+- [ ] `content/Knowledge/Concepts/Financial Times.md`
+- [ ] `content/Knowledge/Concepts/Forwards and Futures.md`
+- [ ] `content/Knowledge/Concepts/Forwards.md`
+- [ ] `content/Knowledge/Concepts/Futures.md`
+- [ ] `content/Knowledge/Concepts/Java.md`
+- [ ] `content/Knowledge/Concepts/Language/Arabic.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Arbeit macht frei.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Cotard's syndrome.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Daoist wu‑wei.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Data-geddon.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Eunuch.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Karoshi.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Oomaharumooma.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Sanatorium - Asylum.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Thumos.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/Zen kōan.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/chevruta.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/chutzpah.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/coup de grâce.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/juguo.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/lackadaisical.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/margin of safety.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/mental masturbation - vicarious goal fulfillment.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/nishkāma karma.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/sapiophile.md`
+- [ ] `content/Knowledge/Concepts/Language/Interesting Terms/vicarious goal fulfillment.md`
+- [ ] `content/Knowledge/Concepts/Lean Startup.md`
+- [ ] `content/Knowledge/Concepts/Market Bubbles.md`
+- [ ] `content/Knowledge/Concepts/Open Data.md`
+- [ ] `content/Knowledge/Concepts/Options.md`
+- [ ] `content/Knowledge/Concepts/Personality test.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Agnosticism.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Anarchism.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Antifragile.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Bartleby.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Contradiction.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Deontological Ethics.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Deterministic Fatalism.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Flâneur.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Gharar.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ghuraba.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/I would prefer not to.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Idul Adha.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Idul Fitri.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Luddite.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Manufacturing Consent.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Mimetic Desire.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Muslim.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Altruism.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Egoism.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Illumination.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Normative Ethics.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Relativism.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Situational ethics.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ngaji Filsafat/Social Epistemology.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Omniscient.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Paradox.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Ramadhan.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Resignation.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Revolutionary Complex.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Salafi.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Sharia.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Solat.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Syubhat.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Takwil.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Teleological Ethics.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Transcendence.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Utopia.md`
+- [ ] `content/Knowledge/Concepts/Philosophy/Übermensch.md`
+- [ ] `content/Knowledge/Concepts/Preferred Stock.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Addiction.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Anxiety.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Arrival Fallacy.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Barnum Effect.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Base Rate Fallacy.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Commitment Bias.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Depression.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Diderot Effect.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Growth Mindset.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Illusion of control.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Law of Reversed Effort.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Masochist.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Mental Model.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Meta-awareness.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Neuroscience.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Opportunity Cost.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Placebo Effect.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Pygmalion Effect.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Self-Conscious.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Social Anxiety.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Social Proof.md`
+- [ ] `content/Knowledge/Concepts/Psychology/Sunk Cost Fallacy.md`
+- [ ] `content/Knowledge/Concepts/Public Equity.md`
+- [ ] `content/Knowledge/Concepts/Put Options.md`
+- [ ] `content/Knowledge/Concepts/Quality Assurance.md`
+- [ ] `content/Knowledge/Concepts/Sapiens.md`
+- [ ] `content/Knowledge/Concepts/Stock.md`
+- [ ] `content/Knowledge/Concepts/System Architect.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Audacity.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Chaos.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Computer Science.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/DBSCAN.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Data-driven.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Digital Garden.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Digital Graveyard.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Docker Compose.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Dynamics.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Eclectic intelligence.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Esport.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Fractal.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Genocide.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Internet Condom.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Open Source Intelligence.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Pacman.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Piracy.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/RSS.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Randomness.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/SEACrowd.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Social Credit System.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Statistics.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Systems Thinking.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Tokopedia DevCamp.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Uncertainty.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/Zettelkasten.md`
+- [ ] `content/Knowledge/Concepts/Systems & Tech/dimension of time.md`
+- [ ] `content/Knowledge/Concepts/Tips kosan.md`
+- [ ] `content/Knowledge/Concepts/Transparency.md`
+- [ ] `content/Knowledge/Concepts/Wait But Why.md`
+- [ ] `content/Knowledge/Concepts/Wall Street Journal.md`
+- [ ] `content/Knowledge/Concepts/Web Development.md`
+- [ ] `content/Knowledge/Concepts/Web3 Tools.md`
+- [ ] `content/Knowledge/Concepts/fail in college.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/AB Testing.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Ad Copy.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Ad Creatives.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Attribution Modeling.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Campaign content.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Campaign medium.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Campaign source.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Campaign term.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/First Touch Attribution.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Funnel Flows.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Keywords.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Landing Pages.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Last Touch Attribution.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Multi Touch Attribution.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Position Based Modeling.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/AB Testing and Attribution Models/Urchin Tracking Module.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Google Analytics/Entrances.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Google Analytics/Page Value.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Average Order Value.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Average Time On Page.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Bounce Rate.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Brand Awareness.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Click.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Clickthrough Rate.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Conversion.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Cost Per Click.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Cost Per Install.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Cost Per Mille.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Cost Per View.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Customer lifetime value.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/First-party data.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Impression.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Key Performance Indicator.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Lead Generation Company.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Marketing Metrics.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Metrics.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Page Exit Rate.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Pageviews.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Return on Ad Spend.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Return on Investment.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Sales funnel.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Sessions.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Track conversion rates.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/Watch Time.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Data for Your Business/eCommerce Marketing.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Technology and eCommerce/Content Management System.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Technology and eCommerce/Remarketing.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Technology and eCommerce/Social commerce.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/Marketing Technology and eCommerce/User Path.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Agile Manifesto.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Agile Marketing.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Kanban.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Scrum.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Scrumban.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Servant Leadership.md`
+- [ ] `content/Knowledge/Courses/Digital Marketing/Marketing Data and Technology/The Future of Digital Marketing/Sprint.md`
+- [ ] `content/Knowledge/Courses/Finance & Trading/Crypto Data Analyst/Knowledge Domains.md`
+- [ ] `content/Knowledge/Courses/Personal Curriculum/18.600.md`
+- [ ] `content/Knowledge/Courses/Udacity Business Analyst Nanodegree.md`
+- [ ] `content/Knowledge/Courses/Udacity Business Analytics Nanodegree.md`
+- [ ] `content/Knowledge/Courses/Udacity Cloud DevOps Nanodegree.md`
+- [ ] `content/Knowledge/Courses/Udacity Data Engineering Nanodegree.md`
+- [ ] `content/Knowledge/Courses/Udacity NLP Nanodegree.md`
+- [ ] `content/Knowledge/Entities/Bursa Efek Indonesia.md`
+- [ ] `content/Knowledge/Entities/Company/Accenture.md`
+- [ ] `content/Knowledge/Entities/Company/Drone Emprit.md`
+- [ ] `content/Knowledge/Entities/Company/Gojek.md`
+- [ ] `content/Knowledge/Entities/Company/Grab.md`
+- [ ] `content/Knowledge/Entities/Company/MediaWave Interaktif.md`
+- [ ] `content/Knowledge/Entities/Company/Neural Technologies Indonesia.md`
+- [ ] `content/Knowledge/Entities/Company/Telkomsel.md`
+- [ ] `content/Knowledge/Entities/Company/Traveloka.md`
+- [ ] `content/Knowledge/Entities/Company/Wintermute.md`
+- [ ] `content/Knowledge/Entities/Company/index.md`
+- [ ] `content/Knowledge/Entities/Country/Armenia.md`
+- [ ] `content/Knowledge/Entities/Country/Azerbaijan.md`
+- [ ] `content/Knowledge/Entities/Country/Iran.md`
+- [ ] `content/Knowledge/Entities/Country/Italy.md`
+- [ ] `content/Knowledge/Entities/Country/Lebanon.md`
+- [ ] `content/Knowledge/Entities/Country/Palestine.md`
+- [ ] `content/Knowledge/Entities/Country/Singapore.md`
+- [ ] `content/Knowledge/Entities/Country/South Korea.md`
+- [ ] `content/Knowledge/Entities/Country/index.md`
+- [ ] `content/Knowledge/Entities/Figure/@SocialiteGhibah.md`
+- [ ] `content/Knowledge/Entities/Figure/Abdurrahman Wahid.md`
+- [ ] `content/Knowledge/Entities/Figure/Abu Takeru.md`
+- [ ] `content/Knowledge/Entities/Figure/Ainun Najib.md`
+- [ ] `content/Knowledge/Entities/Figure/Al-Farabi.md`
+- [ ] `content/Knowledge/Entities/Figure/Al-Ghazali.md`
+- [ ] `content/Knowledge/Entities/Figure/Alain de Botton.md`
+- [ ] `content/Knowledge/Entities/Figure/Aldous Huxley.md`
+- [ ] `content/Knowledge/Entities/Figure/Alexandra Elbakyan.md`
+- [ ] `content/Knowledge/Entities/Figure/Andrej Karpathy.md`
+- [ ] `content/Knowledge/Entities/Figure/Andrew Huberman.md`
+- [ ] `content/Knowledge/Entities/Figure/Arthur Schopenhauer.md`
+- [ ] `content/Knowledge/Entities/Figure/Ashari.md`
+- [ ] `content/Knowledge/Entities/Figure/Auguste Comte.md`
+- [ ] `content/Knowledge/Entities/Figure/Benoit Mandelbrot.md`
+- [ ] `content/Knowledge/Entities/Figure/Bertrand Russell.md`
+- [ ] `content/Knowledge/Entities/Figure/Bill Gates.md`
+- [ ] `content/Knowledge/Entities/Figure/Blaise Pascal.md`
+- [ ] `content/Knowledge/Entities/Figure/Bo Burnham.md`
+- [ ] `content/Knowledge/Entities/Figure/Carl Jung.md`
+- [ ] `content/Knowledge/Entities/Figure/Carl Sagan.md`
+- [ ] `content/Knowledge/Entities/Figure/Charles Darwin.md`
+- [ ] `content/Knowledge/Entities/Figure/Charles Hoskinson.md`
+- [ ] `content/Knowledge/Entities/Figure/Charlie Munger.md`
+- [ ] `content/Knowledge/Entities/Figure/Corey Schafer.md`
+- [ ] `content/Knowledge/Entities/Figure/Demis Hassabis.md`
+- [ ] `content/Knowledge/Entities/Figure/Edmund Husserl.md`
+- [ ] `content/Knowledge/Entities/Figure/Edward Snowden.md`
+- [ ] `content/Knowledge/Entities/Figure/Eliezer Yudkowsky.md`
+- [ ] `content/Knowledge/Entities/Figure/Elon Musk.md`
+- [ ] `content/Knowledge/Entities/Figure/Fahruddin Faiz.md`
+- [ ] `content/Knowledge/Entities/Figure/Fiction/Faye Wong.md`
+- [ ] `content/Knowledge/Entities/Figure/Franz Kafka.md`
+- [ ] `content/Knowledge/Entities/Figure/Fyodor Dostoevsky.md`
+- [ ] `content/Knowledge/Entities/Figure/Gabor Maté.md`
+- [ ] `content/Knowledge/Entities/Figure/Gavin Wood.md`
+- [ ] `content/Knowledge/Entities/Figure/Georg Wilhelm Friedrich Hegel.md`
+- [ ] `content/Knowledge/Entities/Figure/George Orwell.md`
+- [ ] `content/Knowledge/Entities/Figure/George Soros.md`
+- [ ] `content/Knowledge/Entities/Figure/Gita Wirjawan.md`
+- [ ] `content/Knowledge/Entities/Figure/Goenawan Mohamad.md`
+- [ ] `content/Knowledge/Entities/Figure/Haruki Murakami.md`
+- [ ] `content/Knowledge/Entities/Figure/Hitler.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Arabi.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Bajjah.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Battuta.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Khaldun.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Sina.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Taymiyya.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibn Tufayl.md`
+- [ ] `content/Knowledge/Entities/Figure/Ibnu Rusyd.md`
+- [ ] `content/Knowledge/Entities/Figure/Ilya Sutskever.md`
+- [ ] `content/Knowledge/Entities/Figure/Immanuel Kant.md`
+- [ ] `content/Knowledge/Entities/Figure/Ismail Fahmi.md`
+- [ ] `content/Knowledge/Entities/Figure/Jacques Lacan.md`
+- [ ] `content/Knowledge/Entities/Figure/Jeff Bezos.md`
+- [ ] `content/Knowledge/Entities/Figure/Jordan Peterson.md`
+- [ ] `content/Knowledge/Entities/Figure/Karen Armstrong.md`
+- [ ] `content/Knowledge/Entities/Figure/Karl Marx.md`
+- [ ] `content/Knowledge/Entities/Figure/Khalid Basalamah.md`
+- [ ] `content/Knowledge/Entities/Figure/Lex Fridman.md`
+- [ ] `content/Knowledge/Entities/Figure/Linus Torvalds.md`
+- [ ] `content/Knowledge/Entities/Figure/Mahatma Gandhi.md`
+- [ ] `content/Knowledge/Entities/Figure/Mark Manson.md`
+- [ ] `content/Knowledge/Entities/Figure/Mark Zuckerberg.md`
+- [ ] `content/Knowledge/Entities/Figure/Michael Burry.md`
+- [ ] `content/Knowledge/Entities/Figure/Mohammad Hatta.md`
+- [ ] `content/Knowledge/Entities/Figure/Muhammad.md`
+- [ ] `content/Knowledge/Entities/Figure/Mulla Sadra.md`
+- [ ] `content/Knowledge/Entities/Figure/Mutazila.md`
+- [ ] `content/Knowledge/Entities/Figure/Paulo Coelho.md`
+- [ ] `content/Knowledge/Entities/Figure/Plato.md`
+- [ ] `content/Knowledge/Entities/Figure/Pramoedya Ananta Toer.md`
+- [ ] `content/Knowledge/Entities/Figure/Qadha Qadar.md`
+- [ ] `content/Knowledge/Entities/Figure/Ray Dalio.md`
+- [ ] `content/Knowledge/Entities/Figure/René Girard.md`
+- [ ] `content/Knowledge/Entities/Figure/Richard Dawkins.md`
+- [ ] `content/Knowledge/Entities/Figure/Richard Rorty.md`
+- [ ] `content/Knowledge/Entities/Figure/Slavoj Žižek.md`
+- [ ] `content/Knowledge/Entities/Figure/Suhrawardi.md`
+- [ ] `content/Knowledge/Entities/Figure/Tere Liye.md`
+- [ ] `content/Knowledge/Entities/Figure/Terence Tao.md`
+- [ ] `content/Knowledge/Entities/Figure/Viktor Frankl.md`
+- [ ] `content/Knowledge/Entities/Figure/Vitalik Buterin.md`
+- [ ] `content/Knowledge/Entities/Figure/Voltaire.md`
+- [ ] `content/Knowledge/Entities/Figure/Warren Buffett.md`
+- [ ] `content/Knowledge/Entities/Figure/William James.md`
+- [ ] `content/Knowledge/Entities/Figure/Winston Churchill.md`
+- [ ] `content/Knowledge/Entities/Figure/Zizek.md`
+- [ ] `content/Knowledge/Entities/Figure/index.md`
+- [ ] `content/Knowledge/Entities/Gadget/Alcatel Flash 2.md`
+- [ ] `content/Knowledge/Entities/Gadget/Asus Zenfone Max Pro M2.md`
+- [ ] `content/Knowledge/Entities/Gadget/Flexi Muslim.md`
+- [ ] `content/Knowledge/Entities/Gadget/Huawei Band 8.md`
+- [ ] `content/Knowledge/Entities/Gadget/Lenovo A390.md`
+- [ ] `content/Knowledge/Entities/Gadget/SAMSUNG GT-E1200I.md`
+- [ ] `content/Knowledge/Entities/Gadget/Samsung S3 Mini.md`
+- [ ] `content/Knowledge/Entities/Gadget/Xiaomi Redmi Note 11.md`
+- [ ] `content/Knowledge/Entities/Indonesia.md`
+- [ ] `content/Knowledge/Entities/KPK.md`
+- [ ] `content/Knowledge/Entities/Kampus Merdeka.md`
+- [ ] `content/Knowledge/Entities/LHKPN.md`
+- [ ] `content/Knowledge/Entities/Organization/FUKI.md`
+- [ ] `content/Knowledge/Entities/Organization/Himpunan Rohis Kota Bandung.md`
+- [ ] `content/Knowledge/Entities/Organization/Littlesis.md`
+- [ ] `content/Knowledge/Entities/Organization/Maiyah.md`
+- [ ] `content/Knowledge/Entities/Organization/index.md`
+- [ ] `content/Knowledge/Entities/Otoritas Jasa Keuangan.md`
+- [ ] `content/Knowledge/Entities/Religion/Buddha.md`
+- [ ] `content/Knowledge/Entities/Religion/Christian.md`
+- [ ] `content/Knowledge/Entities/Religion/index.md`
+- [ ] `content/Knowledge/Entities/School/Hebrew University.md`
+- [ ] `content/Knowledge/Entities/School/Massachusetts Institute of Technology.md`
+- [ ] `content/Knowledge/Entities/School/SMAN 4 Bandung.md`
+- [ ] `content/Knowledge/Entities/School/Technion.md`
+- [ ] `content/Knowledge/Entities/School/Weizmann Institute.md`
+- [ ] `content/Knowledge/Entities/School/index.md`
+- [ ] `content/Knowledge/Entities/Social Media/Instagram.md`
+- [ ] `content/Knowledge/Entities/Social Media/Reddit.md`
+- [ ] `content/Knowledge/Entities/Social Media/Tiktok.md`
+- [ ] `content/Knowledge/Entities/Social Media/index.md`
+- [ ] `content/Knowledge/Entities/Software/ActivityWatch.md`
+- [ ] `content/Knowledge/Entities/Software/Agent Development Kit.md`
+- [ ] `content/Knowledge/Entities/Software/Amazon Redshift.md`
+- [ ] `content/Knowledge/Entities/Software/Amazon Web Services.md`
+- [ ] `content/Knowledge/Entities/Software/Autogen.md`
+- [ ] `content/Knowledge/Entities/Software/Binance.md`
+- [ ] `content/Knowledge/Entities/Software/Claude.md`
+- [ ] `content/Knowledge/Entities/Software/Cluely.md`
+- [ ] `content/Knowledge/Entities/Software/Confluence.md`
+- [ ] `content/Knowledge/Entities/Software/Forest App.md`
+- [ ] `content/Knowledge/Entities/Software/Gemini CLI.md`
+- [ ] `content/Knowledge/Entities/Software/Git.md`
+- [ ] `content/Knowledge/Entities/Software/Github Copilot.md`
+- [ ] `content/Knowledge/Entities/Software/Glif.md`
+- [ ] `content/Knowledge/Entities/Software/Google AI Studio.md`
+- [ ] `content/Knowledge/Entities/Software/Google Workspace.md`
+- [ ] `content/Knowledge/Entities/Software/HUAWEI Health.md`
+- [ ] `content/Knowledge/Entities/Software/Jira.md`
+- [ ] `content/Knowledge/Entities/Software/Knowledge Management.md`
+- [ ] `content/Knowledge/Entities/Software/Microsoft Teams.md`
+- [ ] `content/Knowledge/Entities/Software/Model Context Protocol.md`
+- [ ] `content/Knowledge/Entities/Software/NotebookLM.md`
+- [ ] `content/Knowledge/Entities/Software/Obsidian.md`
+- [ ] `content/Knowledge/Entities/Software/Odoo.md`
+- [ ] `content/Knowledge/Entities/Software/OpenRouter.md`
+- [ ] `content/Knowledge/Entities/Software/Quartz.md`
+- [ ] `content/Knowledge/Entities/Software/Roo Code.md`
+- [ ] `content/Knowledge/Entities/Software/Sci-Hub.md`
+- [ ] `content/Knowledge/Entities/Software/Simple Time Tracker.md`
+- [ ] `content/Knowledge/Entities/Software/Slack.md`
+- [ ] `content/Knowledge/Entities/Software/Terraform.md`
+- [ ] `content/Knowledge/Entities/Software/TokoCrypto.md`
+- [ ] `content/Knowledge/Entities/Software/Udacity.md`
+- [ ] `content/Knowledge/Entities/Software/Vibe Coding.md`
+- [ ] `content/Knowledge/Entities/Software/Wikidata Graph Builder.md`
+- [ ] `content/Knowledge/Entities/Software/Workday.md`
+- [ ] `content/Knowledge/Entities/Software/Zoom.md`
+- [ ] `content/Knowledge/Entities/Software/bolt.new.md`
+- [ ] `content/Knowledge/Entities/Software/ccxt.md`
+- [ ] `content/Knowledge/Entities/Software/index.md`
+- [ ] `content/Knowledge/Entities/Sound/Bay.md`
+- [ ] `content/Knowledge/Entities/Sound/Birds.md`
+- [ ] `content/Knowledge/Entities/Sound/Body Scan.md`
+- [ ] `content/Knowledge/Entities/Sound/Bubbles.md`
+- [ ] `content/Knowledge/Entities/Sound/Campfire.md`
+- [ ] `content/Knowledge/Entities/Sound/Childhood.md`
+- [ ] `content/Knowledge/Entities/Sound/Chime.md`
+- [ ] `content/Knowledge/Entities/Sound/Crickets.md`
+- [ ] `content/Knowledge/Entities/Sound/Drizzle.md`
+- [ ] `content/Knowledge/Entities/Sound/Footsteps.md`
+- [ ] `content/Knowledge/Entities/Sound/Mindful Breathing.md`
+- [ ] `content/Knowledge/Entities/Sound/Mindful Eating.md`
+- [ ] `content/Knowledge/Entities/Sound/Morning.md`
+- [ ] `content/Knowledge/Entities/Sound/Pencil.md`
+- [ ] `content/Knowledge/Entities/Sound/Rain.md`
+- [ ] `content/Knowledge/Entities/Sound/Raindrop.md`
+- [ ] `content/Knowledge/Entities/Sound/River.md`
+- [ ] `content/Knowledge/Entities/Sound/Rural.md`
+- [ ] `content/Knowledge/Entities/Sound/Soda.md`
+- [ ] `content/Knowledge/Entities/Sound/Spring Slumber.md`
+- [ ] `content/Knowledge/Entities/Sound/Startrail.md`
+- [ ] `content/Knowledge/Entities/Sound/Stream.md`
+- [ ] `content/Knowledge/Entities/Sound/Thunderstorm.md`
+- [ ] `content/Knowledge/Entities/Sound/Wind.md`
+- [ ] `content/Knowledge/Entities/Sound/index.md`
+- [ ] `content/Knowledge/Entities/Sport/Mini Soccer.md`
+- [ ] `content/Knowledge/Entities/Sport/Padel.md`
+- [ ] `content/Knowledge/Entities/Sport/Sepak Takraw.md`
+- [ ] `content/Knowledge/Entities/Sport/Tennis.md`
+- [ ] `content/Knowledge/Entities/Sport/Volleyball.md`
+- [ ] `content/Knowledge/Entities/Sport/index.md`
+- [ ] `content/Knowledge/Science Computation/Science Computation.md`
+- [ ] `content/Knowledge/Tech Tips/Android Fastboot.md`

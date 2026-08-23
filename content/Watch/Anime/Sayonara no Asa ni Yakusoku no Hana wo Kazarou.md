@@ -1,11 +1,11 @@
 ---
 title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
-date: 2016-01-01
+date: 2025-06-22
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: "さよならの朝に約束の花をかざろう"
-source: "anilist"
+original_title: さよならの朝に約束の花をかざろう
+source: anilist
 ---
 
 # Sayonara no Asa ni Yakusoku no Hana wo Kazarou

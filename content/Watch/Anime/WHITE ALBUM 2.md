@@ -1,11 +1,11 @@
 ---
 title: "WHITE ALBUM 2"
-date: 2016-01-01
+date: 2026-08-20
 tags: [anime]
 publish_external: true
 year: 2013
-original_title: "WHITE ALBUM 2"
-source: "anilist"
+original_title: WHITE ALBUM 2
+source: anilist
 ---
 
 # WHITE ALBUM 2

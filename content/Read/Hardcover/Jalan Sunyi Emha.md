@@ -6,7 +6,7 @@ publish_external: true
 author: "Ian L. Betts, Toto Rahardjo"
 year: 2006
 rating: 3
-source: "hardcover"
+source: hardcover
 ---
 
 # Jalan Sunyi Emha

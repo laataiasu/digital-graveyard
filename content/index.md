@@ -1,6 +1,7 @@
 ---
 title: "Digital Graveyard"
 date: 2025-06-12
+tags: []
 publish_external: true
 ---
 
@@ -15,6 +16,8 @@ Most of my time is spent tinkering with **tech, philosophy, and fulus** -- often
 Outside the job, I build systems for sovereignty and do speculative things.
 
 If you're bored and looking for projects or sparks, check out my list of [[Open Idea Artifact|Things I Wish Existed]]
+
+The reference side of this garden — concepts, thinkers, and platforms — is mapped in [[Knowledge]].
 
 Maybe we can build something weird and meaningful.
 

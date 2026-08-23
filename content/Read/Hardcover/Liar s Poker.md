@@ -3,9 +3,9 @@ title: "Liar's Poker"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Michael Lewis"
+author: Michael Lewis
 year: 1989
-source: "hardcover"
+source: hardcover
 ---
 
 # Liar's Poker

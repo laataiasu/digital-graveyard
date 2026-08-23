@@ -1,13 +1,13 @@
 ---
 title: "Kill Me, Heal Me"
-date: 2016-01-01
+date: 2025-06-22
 tags: [drama]
 publish_external: true
 year: 2015
-status: "20/20"
+status: 20/20
 rating: 6.5
-progress: "20/20"
-source: "mydramalist"
+progress: 20/20
+source: mydramalist
 ---
 
 # Kill Me, Heal Me

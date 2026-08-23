@@ -1,13 +1,13 @@
 ---
 title: "Crows Zero"
-date: 2016-01-01
+date: 2025-06-19
 tags: [drama]
 publish_external: true
 year: 2007
-status: "1/1"
+status: 1/1
 rating: 8
-progress: "1/1"
-source: "mydramalist"
+progress: 1/1
+source: mydramalist
 ---
 
 # Crows Zero

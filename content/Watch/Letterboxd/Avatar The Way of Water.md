@@ -1,11 +1,11 @@
 ---
 title: "Avatar: The Way of Water"
-date: 2016-01-01
+date: 2025-06-22
 tags: [film]
 publish_external: true
 year: 2022
 rating: 3
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Avatar: The Way of Water

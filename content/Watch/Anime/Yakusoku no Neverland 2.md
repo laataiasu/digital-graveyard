@@ -1,11 +1,11 @@
 ---
 title: "Yakusoku no Neverland 2"
-date: 2016-01-01
+date: 2026-08-20
 tags: [anime]
 publish_external: true
 year: 2021
-original_title: "約束のネバーランド2"
-source: "anilist"
+original_title: 約束のネバーランド2
+source: anilist
 ---
 
 # Yakusoku no Neverland 2

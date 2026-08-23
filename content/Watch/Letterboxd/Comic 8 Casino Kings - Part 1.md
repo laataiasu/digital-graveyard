@@ -1,11 +1,11 @@
 ---
 title: "Comic 8: Casino Kings - Part 1"
-date: 2016-01-01
+date: 2026-08-20
 tags: [film]
 publish_external: true
 year: 2015
 rating: 2.5
-source: "letterboxd"
+source: letterboxd
 ---
 
 # Comic 8: Casino Kings - Part 1

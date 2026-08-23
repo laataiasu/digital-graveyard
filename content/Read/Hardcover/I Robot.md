@@ -3,9 +3,9 @@ title: "I, Robot"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Isaac Asimov"
+author: Isaac Asimov
 year: 1940
-source: "hardcover"
+source: hardcover
 ---
 
 # I, Robot
