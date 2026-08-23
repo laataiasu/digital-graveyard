@@ -255,7 +255,7 @@ Investing in stock starts with choosing a method of purchase, either through a b
         
     - Bisa diperjualbelikan dengan mudah, memungkinkan reaksi cepat terhadap informasi.
         
-- **[[Private Equity]]**:
+- **Private Equity**:
     
     - Kepemilikan pada **perusahaan tertutup**, tidak diperdagangkan di bursa.
         

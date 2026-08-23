@@ -7,4 +7,4 @@ publish_external: true
 
 # Alain de Botton
 
-[[School of Life]]
+School of Life

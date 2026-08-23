@@ -35,4 +35,4 @@ But if you're looking for something which makes you more aware of the world that
 
 ---
 
-[[Mushishi]]
+Mushishi

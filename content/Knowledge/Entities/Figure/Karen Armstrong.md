@@ -7,4 +7,4 @@ publish_external: true
 
 # Karen Armstrong
 
-[[History of God]]
+History of God

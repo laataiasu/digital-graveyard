@@ -12,7 +12,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 ### 🧠 Philosophy, History, Psychology, Social Sciences
 
 * The Arrivals -- by Achernahr, Noreagaa \~ (2013-2016) (2016-2019)
-* [[History of God]] -- by Karen Armstrong \~ (2016-2019)
+* History of God -- by Karen Armstrong \~ (2016-2019)
 * [[The Secret History of the World]] -- by Mark Booth \~ (2016-2019)
 * [[Muhammad Al-Fatih 1453]] -- by Felix Siauw \~ (2016-2019)
 * [[Friedrich Nietzsche]] -- various works \~ (2016-2019)–present
@@ -20,8 +20,8 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 * [[Mohammad Hatta]] -- biography, thoughts \~ (2016-2019)
 * [[Pramoedya Ananta Toer]] -- literature and activism \~ (2016-2019)
 * [[Noam Chomsky]] -- linguistics and politics \~ (2016-2019)
-* [[School of Life]] -- curated essays by [[Alain de Botton]] \~ (2020-2022)
-* [[TED Talks]] -- curated topics \~ (2020-2022)
+* School of Life -- curated essays by [[Alain de Botton]] \~ (2020-2022)
+* TED Talks -- curated topics \~ (2020-2022)
 * [[Jordan Peterson]], [[Gabor Maté]], [[Andrew Huberman]] -- psychology, meaning \~ (2020-2022)
 * [[Man s Search for Meaning]] -- by [[Viktor Frankl]] \~ (2020-2022)
 * [[Ngaji Filsafat]] -- by Fahruddin Faiz, Indonesian philosophical reflections \~ (2020-2022)–present
@@ -86,7 +86,7 @@ Yup, I've realized wasted most of my time gaming, watching and doom scrolling
 
 #### 🏗️ [[System Architect]]
 
-* [[Programmer Zaman Now]] -- Indonesian dev content \~ (2020-2022)
+* Programmer Zaman Now -- Indonesian dev content \~ (2020-2022)
 
 #### 🌐 [[Web Development]]
 

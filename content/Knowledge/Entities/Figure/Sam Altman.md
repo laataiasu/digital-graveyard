@@ -8,7 +8,7 @@ aliases: altman
 
 # Sam Altman
 
-[[How To Build The Future]]
+How To Build The Future
 
 # chunk_1.txt
 

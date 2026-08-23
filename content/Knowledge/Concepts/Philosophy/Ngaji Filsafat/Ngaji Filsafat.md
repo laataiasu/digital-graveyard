@@ -68,7 +68,7 @@ publish_external: true
 
 [[Richard Rorty]]
   
-[[History of God]]
+History of God
 - Desember 1198
 
 

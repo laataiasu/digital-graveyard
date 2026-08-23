@@ -74,7 +74,7 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 - VSCode Shortcut
 - [[Symbols in Keyboard]]
 - [[Windows to Mac Migration]]
-- [[Scraping]]
+- Scraping
 
 ---
 
@@ -131,12 +131,11 @@ A central Map of Content (MOC) connecting concept notes, engineering guides, fin
 
 - [[Personal Curiculum]]
 - [[MIT Applied Math]]
-- [[TED Talks Summary]]
-- [[How To Build The Future]]
+- TED Talks Summary
+- How To Build The Future
 - [[How to Start a Startup]]
 - things-i-wish-existed
-- [[Obsession]]
+- Obsession
 - [[Music]]
 - [[Japan]]
 - [[Italy]]
-- [[Telkomsel]]

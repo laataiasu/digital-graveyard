@@ -18,7 +18,7 @@ publish_external: true
   High expectations lead to improved performance.
 
 - **[[Placebo Effect]]**  
-  A benefit from believing in a treatment, not the treatment itself (e.g., [[Dr. Frost]]’s dog).
+  A benefit from believing in a treatment, not the treatment itself (e.g., Dr. Frost’s dog).
 
 - **[[Diderot Effect]]**  
   Getting one new thing causes a spiral of consumption to match the new standard (e.g., positive attitude, Victor Frankl).

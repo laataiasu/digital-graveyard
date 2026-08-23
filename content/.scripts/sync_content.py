@@ -13,6 +13,8 @@ Usage:
 import argparse
 import os
 import shutil
+import subprocess
+import sys
 from pathlib import Path
 
 import frontmatter
@@ -95,7 +97,18 @@ def sync_assets(dry_run: bool) -> int:
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--check", action="store_true", help="dry-run: report what would change")
+    ap.add_argument("--skip-preflight", action="store_true", help="bypass the privacy preflight gate")
     args = ap.parse_args()
+
+    if not args.skip_preflight:
+        print("🛂 Running privacy preflight gate...")
+        r = subprocess.run(
+            ["uv", "run", str(SCRIPT_DIR / "preflight.py"), "--strict"],
+            cwd=str(SCRIPT_DIR.parent.parent),
+        )
+        if r.returncode != 0:
+            print("🚫 Sync aborted: preflight found privacy issues. Fix them or use --skip-preflight.")
+            sys.exit(1)
 
     clean_destination(args.check)
     notes = sync_notes(args.check)

@@ -13,7 +13,7 @@ A centralized Map of Content (MOC) connecting reflections on generative models, 
 ---
 
 ## 🧠 Philosophy, Cognition & Culture
-* [[The Utilitarian Trap and Human Friction]] — The erosion of productive friction in modern automated workflows.
+* The Utilitarian Trap and Human Friction — The erosion of productive friction in modern automated workflows.
 * [[Humans Are Just LLMs That Overfit]] — Human cognition viewed through the lens of parameter weights and behavioral overfitting.
 * [[Prompting Is Daring to Give Orders]] — Shifting mental models from execution to delegation and high-agency prompting.
 * [[Knowledge Hoarding Died With ChatGPT]] — The death of knowledge gatekeeping and the rise of synthesis.

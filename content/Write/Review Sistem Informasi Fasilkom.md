@@ -23,7 +23,7 @@ publish_external: true
 
 [[Review Sistem Informasi UI Semester 5]]
 
-[[First Time Intership]]
+First Time Intership
 
 ### Lain-lain
 
