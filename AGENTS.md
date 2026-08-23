@@ -78,7 +78,7 @@ To prevent *tag pollution* and maintain a rich, high-signal knowledge graph in Q
 Tags are reserved exclusively for the structural **format** or **archetype** of a note. Notes should generally have **1–2 tags max** selected strictly from the approved taxonomy:
 
 * **Media & Consumption**: `film`, `anime`, `drama`, `youtube`, `book`, `manga`, `sound`
-* **Writing & Reflection**: `journal`, `essay`, `review`, `reflection`, `literature`
+* **Writing & Reflection**: `journal`, `essay`, `review`, `reflection`, `literature`, `travelogue`
 * **Knowledge & Technical**: `guide`, `cheatsheet`, `note`, `interesting-terms`
 * **Projects**: `project`, `case-study`
 * **Entities / Index Stubs**: `figure`, `company`, `software`, `gadget`, `country`, `place`, `organization`, `school`, `religion`
@@ -107,6 +107,7 @@ publish_external: true
 * **`publish_external: true`**: Post is eligible for synchronization to the public `digital-garden` site.
 * **`publish_external: false`**: Note stays private in `digital-graveyard` and is **excluded** from `digital-garden`.
 * **Personal & Sensitive Essays**: Personal reflections, deeply private journals, family details, or workplace disclosures must have `publish_external: false` (or live in `content/Write/_draft/`).
+* **Asymmetric Linking for Private Content**: Notes with `publish_external: false` (journals, private notes, personal links) must **never** be linked outward from hub/MOC notes (e.g. `Travel.md`) or public pages. Instead, add the hub wikilink (e.g. `[[Travel]]`) **inside the private note itself**. This preserves local graph backlinks in Obsidian without leaking private note titles or creating broken links on the public garden.
 * **Never purge history on `digital-graveyard`**: Git history purges (`git filter-repo`) apply strictly to the public `digital-garden` repository if requested, **never** to `digital-graveyard`.
 
 ---

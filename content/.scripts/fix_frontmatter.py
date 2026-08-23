@@ -73,7 +73,7 @@ APPROVED_FORMAT_TAGS = {
     # Media & Consumption
     "film", "anime", "drama", "youtube", "book", "manga", "sound",
     # Writing & Reflection
-    "journal", "essay", "review", "reflection", "literature",
+    "journal", "essay", "review", "reflection", "literature", "travelogue",
     # Knowledge & Technical
     "guide", "cheatsheet", "note", "interesting-terms",
     # Projects
@@ -95,6 +95,9 @@ TAG_MAPPINGS = {
     "public-intellectual": "figure",
     "pseudocomedy": "essay",
     "event": "journal",
+    "travel": "travelogue",
+    "travelog": "travelogue",
+    "travel-log": "travelogue",
 }
 
 def infer_tag_from_path(rel_path):

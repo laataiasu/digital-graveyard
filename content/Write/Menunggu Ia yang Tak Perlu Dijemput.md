@@ -61,7 +61,7 @@ Dalam kegelapan yang memelukku, aku mengukir puisi-puisi baru. Aku menari dengan
 
 Bersama langit yang tak berujung, aku menyatukan rasa syukur dan penyesalan. Meski gelap, aku tetap mencari cahaya dalam setiap detik yang berlalu. Dan pada akhirnya, aku menemukan kedamaian di dalam diriku sendiri.
 
-Di stasiun itu, di balik kesendirian dan harapan yang tak terwujud, aku mengucapkan terima kasih pada waktu yang membawa perubahan dalam hidupku. Aku memahami bahwa prasangka dan imajinasi hanya penghalang yang membatasi keajaiban yang dapat kita temui di dunia ini.
+Di stasiun itu, di balik kesendirian, perjalanan ([[Travel]]), dan harapan yang tak terwujud, aku mengucapkan terima kasih pada waktu yang membawa perubahan dalam hidupku. Aku memahami bahwa prasangka dan imajinasi hanya penghalang yang membatasi keajaiban yang dapat kita temui di dunia ini.
 
 Dalam pelukan malam yang membisu, aku belajar menerima kenyataan. Aku melangkah pulang dengan hati yang ringan, membawa beban berupa pengalaman dan kebijaksanaan baru. Dan pada akhirnya, dalam senyum yang kuukir di wajahku, aku menemukan kebahagiaan yang sesungguhnya.
 

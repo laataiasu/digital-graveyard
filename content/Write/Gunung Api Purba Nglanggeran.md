@@ -1,7 +1,7 @@
 ---
 title: "Gunung Api Purba Nglanggeran"
 date: 2020-07-13
-tags: [essay]
+tags: [travelogue]
 publish_external: true
 timeline_notification: [1598065140]
 ---

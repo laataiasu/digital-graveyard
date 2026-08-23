@@ -2,7 +2,7 @@
 title: "Semarang"
 date: 2026-08-22
 tags: [note]
-publish_external: false
+publish_external: true
 ---
 
 Capital of Central Java. Home base — start and end point of the June 2026 solo holiday.
