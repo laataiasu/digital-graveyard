@@ -168,6 +168,17 @@ python3 ~/Projects/ierp/scripts/export_garden.py   # add --check for dry-run
 
 ---
 
+## 🔑 Git Identity (IMPORTANT)
+
+This repo commits as the **laataiasu** account — NOT the global default (nichsedge).
+
+* Required identity: `laataiasu <ichsanamal19@gmail.com>` (already set in this repo's local `.git/config`).
+* Global git config intentionally stays `Amal <muhammad.ichsanul19@gmail.com>` (nichsedge) for other repos. **Never change global git config to commit here.**
+* Before committing, verify: `git config user.email` must print `ichsanamal19@gmail.com`. If it shows `muhammad.ichsanul19@gmail.com` (e.g. after a fresh clone), run `git_laataiasu` (zsh function in `~/.zshrc`) before committing.
+* Never push commits authored as nichsedge from this repo.
+
+---
+
 ## ⚠️ Important Rules for AI Assistants
 
 1. **Do Not Modify Core Quartz Engines**: Avoid modifying code inside `quartz/` unless specifically requested. Perform customizations in `quartz.config.ts`, `quartz.layout.ts`, or plugins in `quartz/plugins/`.

@@ -1,3 +1,31 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Header / Page Title responsiveness
+.page-title {
+  white-space: nowrap;
+
+  @media all and ($mobile) {
+    font-size: 1.35rem;
+  }
+}
+
+// Search button compact on mobile
+@media all and ($mobile) {
+  .search > .search-button > p {
+    display: none;
+  }
+}
+
+// Disable aggressive automatic hyphenation across content and headings
+p,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.article-title {
+  hyphens: manual;
+}

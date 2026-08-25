@@ -22,6 +22,8 @@ import frontmatter
 SCRIPT_DIR = Path(__file__).resolve().parent
 SOURCE_DIR = SCRIPT_DIR.parent                      # .../digital-graveyard/content
 DEST_DIR = SOURCE_DIR.parents[1] / "digital-garden" / "content"
+SOURCE_REPO = SOURCE_DIR.parent                     # .../digital-graveyard
+DEST_REPO = DEST_DIR.parent                         # .../digital-garden
 
 SKIP_DIRS = {".obsidian", ".scripts", ".vscode", "templates"}
 ASSET_EXTENSIONS = {".png", ".jpeg", ".jpg", ".html", ".svg", ".webp"}
@@ -94,6 +96,20 @@ def sync_assets(dry_run: bool) -> int:
     return copied
 
 
+def sync_styles(dry_run: bool) -> bool:
+    src_style = SOURCE_REPO / "quartz" / "styles" / "custom.scss"
+    dst_style = DEST_REPO / "quartz" / "styles" / "custom.scss"
+    if src_style.is_file():
+        if dry_run:
+            print(f"🎨 [dry-run] Would sync custom styles: quartz/styles/custom.scss")
+        else:
+            dst_style.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src_style, dst_style)
+            print(f"🎨 Synced custom styles (quartz/styles/custom.scss)")
+        return True
+    return False
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--check", action="store_true", help="dry-run: report what would change")
@@ -113,6 +129,7 @@ def main():
     clean_destination(args.check)
     notes = sync_notes(args.check)
     assets = sync_assets(args.check)
+    sync_styles(args.check)
     if args.check:
         print(f"\n🔍 Dry-run: {notes} notes + {assets} assets would be synced.")
     else:
