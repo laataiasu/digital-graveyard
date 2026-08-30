@@ -1,6 +1,6 @@
 ---
 title: "Shingeki no Kyojin"
-date: 2025-06-22
+date: 2016-01-01
 tags: [manga]
 publish_external: true
 year: 2009

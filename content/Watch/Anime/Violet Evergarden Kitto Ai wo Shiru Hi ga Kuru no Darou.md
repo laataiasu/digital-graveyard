@@ -1,6 +1,6 @@
 ---
 title: "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018

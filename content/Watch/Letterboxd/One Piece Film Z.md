@@ -1,6 +1,6 @@
 ---
 title: "One Piece Film: Z"
-date: 2025-06-22
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2012

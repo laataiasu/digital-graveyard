@@ -1,6 +1,6 @@
 ---
 title: "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2021

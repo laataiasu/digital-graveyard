@@ -1,6 +1,6 @@
 ---
 title: "Ant-Man and the Wasp: Quantumania"
-date: 2026-08-20
+date: 2016-01-01
 tags: [film]
 publish_external: true
 year: 2023

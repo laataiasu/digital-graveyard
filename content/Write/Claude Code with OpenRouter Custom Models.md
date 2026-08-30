@@ -1,7 +1,7 @@
 ---
 title: "Claude Code with OpenRouter Custom Models"
 date: 2026-08-26
-tags: [tech]
+tags: [essay]
 publish_external: true
 draft: false
 ---

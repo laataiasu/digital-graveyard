@@ -1,6 +1,6 @@
 ---
 title: "Cowboy Bebop"
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 1998

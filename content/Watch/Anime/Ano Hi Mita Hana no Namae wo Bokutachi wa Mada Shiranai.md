@@ -1,6 +1,6 @@
 ---
 title: "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
-date: 2025-06-22
+date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2011
