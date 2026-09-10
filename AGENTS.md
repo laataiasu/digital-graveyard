@@ -4,12 +4,16 @@ Instructions, architecture notes, and workflows for AI Coding Assistants (Antigr
 
 ---
 
-## 📌 Repository Overview
+## 📌 Repository Overview & Ecosystem Role
 
-**Digital Graveyard** is a **Quartz v4** static site deployment and personal digital garden.
+**Digital Graveyard** is the **Central Single Source of Truth (SSOT) for Unstructured Knowledge Management (PKM)** and Second Brain in the workstation's Personal Data Architecture ([`~/Projects/DATA_ARCHITECTURE.md`](file:///home/al/Projects/DATA_ARCHITECTURE.md)):
 
 * **Private Second Brain Repo**: `digital-graveyard` (`laataiasu/digital-graveyard`) — Contains all notes, personal reflections, study materials, and drafts.
-* **Public Garden Repo**: `digital-garden` (`nichsedge/digital-garden`) — Public website containing only notes with `publish_external: true`.
+* **Public Garden Repo**: `digital-garden` (`nichsedge/digital-garden`) — Public website containing only notes with `publish_external: true` (synced via `uv run content/.scripts/sync_content.py`).
+* **Strict Ecosystem Boundaries**:
+  * **Unstructured Only**: Essays, conceptual MOCs, research notes, and daily thoughts (`note "..."` or `content/Write/Journal/YYYY-MM-DD.md`) belong here.
+  * **No Structured Silos**: CRM contacts, timeline events, decisions, net worth snapshots, and maintenance tasks belong in `~/Projects/ierp`. Do NOT hand-craft Markdown registries for them.
+  * **Generated Views are Read-Only**: `content/Read/`, `content/Watch/`, and `content/Write/Links.md` are generated from `ierp` via `export_garden.py`. Never edit their contents in place.
 
 ---
 

@@ -54,4 +54,6 @@ sudo systemctl enable bluetooth.service
 > In this post we explain a simple method to speed up apt downloads from the repositories available for Ubuntu and other distributions.  
 > [https://en.ubunlog.com/slow-apt-downloads-solution/](https://en.ubunlog.com/slow-apt-downloads-solution/)
 
+[[Hyprland Power User Guide]]
+[[Niri Scrollable Tiling Guide]]
 [[Git]]
