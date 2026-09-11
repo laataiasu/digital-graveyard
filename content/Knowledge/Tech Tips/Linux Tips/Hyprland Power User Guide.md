@@ -1,7 +1,7 @@
 ---
 title: "Hyprland Power User & macOS Workflow Guide"
 date: 2026-09-01
-tags: [guide, linux, hyprland, wayland, workflow]
+tags: [guide]
 publish_external: true
 updated: 2026-09-01
 ---

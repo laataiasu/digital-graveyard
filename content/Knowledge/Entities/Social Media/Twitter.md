@@ -33,7 +33,7 @@ publish_external: true
 - [[Factor Models and Types of Factors]]
 - [[Financial Engineering and Artificial Intelligence in Python - TLP Udemy]]
 - [[Islamic Finance]]
-- [[Sample Data: Assume You Have a DataFrame `Df` with a 'Close' Column for [[Facebook]] Stock Prices.]]
+- [[Data Processing]]
 - [[Stocks, Indices, Funds]]
 
 ---

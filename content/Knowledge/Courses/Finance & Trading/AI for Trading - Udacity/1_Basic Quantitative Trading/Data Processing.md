@@ -1,5 +1,5 @@
 ---
-title: "Sample Data: Assume You Have a DataFrame `Df` with a 'Close' Column for [[Facebook]] Stock Prices."
+title: "Data Processing"
 date: 2026-08-20
 tags: [note]
 publish_external: true
@@ -227,7 +227,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Sample Data: Assume you have a DataFrame `df` with a 'Close' column for [[Facebook]] stock prices.
+# Sample Data: Assume you have a DataFrame `df` with a 'Close' column for Facebook stock prices.
 
 # Step 1: Calculate the Simple Moving Average (SMA)
 window = 20

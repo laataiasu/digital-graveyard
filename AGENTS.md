@@ -147,6 +147,14 @@ Run the automated repair script:
 python3 content/.scripts/fix_frontmatter.py
 ```
 
+### 7. Vault Hygiene & Neat Content Workflow
+Use the neat-content workflow (`.agent/workflows/neat-content.md` or skill `.agents/skills/neat-content/SKILL.md`) whenever tidying content:
+1. **Mislocated Notes & Journals**: Relocate dated journal entries from `content/` root to `content/Write/Journal/YYYY/MM/YYYY-MM-DD.md` with standard `YYYY-MM-DD` date and `publish_external: false`.
+2. **Taxonomy Compliance**: Enforce 1–2 format tags (e.g. `[guide]`), stripping topical/concept tags (embed as `[[Wikilinks]]` in prose instead).
+3. **Health Audit**: Run `python3 content/.scripts/check_vault.py --verbose` and ensure 0 issues.
+4. **Seed Missing Entities**: For any broken wikilinks to software, companies, or figures, create seedling entity stubs in `content/Knowledge/Entities/Software/` or `Company/`.
+5. **Verify Build**: Run `npx quartz build` and `npm test` with 0 errors.
+
 ### 3. Syncing Public Notes to Digital Garden
 Run the sync script:
 ```bash
