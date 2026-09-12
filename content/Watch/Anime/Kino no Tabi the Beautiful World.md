@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2003
-original_title: キノの旅 -the Beautiful World-
-source: anilist
+original_title: "キノの旅 -the Beautiful World-"
+source: "anilist"
 ---
 
 # Kino no Tabi: the Beautiful World

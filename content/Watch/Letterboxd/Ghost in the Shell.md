@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2017
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Ghost in the Shell

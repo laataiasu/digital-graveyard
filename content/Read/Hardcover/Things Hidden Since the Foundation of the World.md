@@ -3,13 +3,13 @@ title: "Things Hidden Since the Foundation of the World"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "René Girard, Stephen Bann, Michael Metteer"
+author: "Stephen Bann, Michael Metteer, René Girard"
 year: 1978
-source: hardcover
+source: "hardcover"
 ---
 
 # Things Hidden Since the Foundation of the World
 
-- **Author:** René Girard, Stephen Bann, Michael Metteer
+- **Author:** Stephen Bann, Michael Metteer, René Girard
 - **Year:** 1978
 - **Source:** hardcover

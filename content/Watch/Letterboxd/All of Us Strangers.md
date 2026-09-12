@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2023
 rating: 1
-source: letterboxd
+source: "letterboxd"
 ---
 
 # All of Us Strangers

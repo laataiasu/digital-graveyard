@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2022
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Trust No One: The Hunt for the Crypto King

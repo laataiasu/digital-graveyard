@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2023
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Hunger Games: The Ballad of Songbirds & Snakes

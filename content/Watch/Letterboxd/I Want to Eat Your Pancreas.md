@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2018
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # I Want to Eat Your Pancreas

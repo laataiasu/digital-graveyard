@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: 冴えない彼女の育てかた
-source: anilist
+original_title: "冴えない彼女の育てかた"
+source: "anilist"
 ---
 
 # Saenai Heroine no Sodatekata

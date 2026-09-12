@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2024
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Teasing Master Takagi-san

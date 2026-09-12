@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2010
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # How to Train Your Dragon

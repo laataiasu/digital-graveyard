@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: ReLIFE
-source: anilist
+original_title: "ReLIFE"
+source: "anilist"
 ---
 
 # ReLIFE

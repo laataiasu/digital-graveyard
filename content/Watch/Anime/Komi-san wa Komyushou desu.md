@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2021
-original_title: 古見さんは、コミュ症です。
-source: anilist
+original_title: "古見さんは、コミュ症です。"
+source: "anilist"
 ---
 
 # Komi-san wa, Komyushou desu.

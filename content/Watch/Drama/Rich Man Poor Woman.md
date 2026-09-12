@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2012
-status: 11/11
+status: "11/11"
 rating: 5.5
-progress: 11/11
-source: mydramalist
+progress: "11/11"
+source: "mydramalist"
 ---
 
 # Rich Man, Poor Woman

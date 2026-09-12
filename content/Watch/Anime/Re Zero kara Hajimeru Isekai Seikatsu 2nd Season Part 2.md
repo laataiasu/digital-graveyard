@@ -5,7 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2021
 original_title: "Re:ゼロから始める異世界生活 2nd Season Part 2"
-source: anilist
+source: "anilist"
 ---
 
 # Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2

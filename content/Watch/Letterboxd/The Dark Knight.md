@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2008
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Dark Knight

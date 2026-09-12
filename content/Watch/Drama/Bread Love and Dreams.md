@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2010
-status: 30/30
+status: "30/30"
 rating: 7.5
-progress: 30/30
-source: mydramalist
+progress: "30/30"
+source: "mydramalist"
 ---
 
 # Bread, Love and Dreams

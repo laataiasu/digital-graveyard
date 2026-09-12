@@ -3,13 +3,13 @@ title: "I Want to Eat Your Pancreas"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Yoru Sumino, Loundraw"
+author: "Loundraw, Yoru Sumino"
 year: 2014
-source: hardcover
+source: "hardcover"
 ---
 
 # I Want to Eat Your Pancreas
 
-- **Author:** Yoru Sumino, Loundraw
+- **Author:** Loundraw, Yoru Sumino
 - **Year:** 2014
 - **Source:** hardcover

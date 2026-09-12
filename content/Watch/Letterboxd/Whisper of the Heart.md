@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1995
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Whisper of the Heart

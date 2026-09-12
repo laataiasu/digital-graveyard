@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1975
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # One Flew Over the Cuckoo's Nest

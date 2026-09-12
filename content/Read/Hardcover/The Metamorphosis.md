@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Franz Kafka, Michael Hofmann"
 year: 1915
-source: hardcover
+source: "hardcover"
 ---
 
 # The Metamorphosis

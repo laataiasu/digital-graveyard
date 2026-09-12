@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2012
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # A Werewolf Boy

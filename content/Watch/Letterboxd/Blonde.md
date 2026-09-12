@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2022
 rating: 0.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Blonde

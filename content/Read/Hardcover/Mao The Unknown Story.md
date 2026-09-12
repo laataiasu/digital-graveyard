@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Jung Chang, Jon Halliday"
 year: 2002
-source: hardcover
+source: "hardcover"
 ---
 
 # Mao: The Unknown Story

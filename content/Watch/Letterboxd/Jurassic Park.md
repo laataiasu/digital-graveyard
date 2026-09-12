@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1993
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Jurassic Park

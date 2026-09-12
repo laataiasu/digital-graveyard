@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [manga]
 publish_external: true
 year: 1989
-original_title: ベルセルク
-source: anilist
+original_title: "ベルセルク"
+source: "anilist"
 ---
 
 # Berserk

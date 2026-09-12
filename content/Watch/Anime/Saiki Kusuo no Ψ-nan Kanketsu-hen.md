@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: 斉木楠雄のΨ難 完結編
-source: anilist
+original_title: "斉木楠雄のΨ難 完結編"
+source: "anilist"
 ---
 
 # Saiki Kusuo no Ψ-nan: Kanketsu-hen

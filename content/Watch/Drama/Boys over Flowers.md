@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2009
-status: 25/25
+status: "25/25"
 rating: 5
-progress: 25/25
-source: mydramalist
+progress: "25/25"
+source: "mydramalist"
 ---
 
 # Boys over Flowers

@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Pramoedya Ananta Toer, Max Lane, Pramoedya Ananta Toer"
 year: 1975
-source: hardcover
+source: "hardcover"
 ---
 
 # Child of All Nations

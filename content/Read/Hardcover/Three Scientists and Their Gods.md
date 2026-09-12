@@ -3,9 +3,9 @@ title: "Three Scientists and Their Gods"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Robert Wright
+author: "Robert Wright"
 year: 1988
-source: hardcover
+source: "hardcover"
 ---
 
 # Three Scientists and Their Gods

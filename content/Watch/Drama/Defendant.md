@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2017
-status: 18/18
+status: "18/18"
 rating: 8
-progress: 18/18
-source: mydramalist
+progress: "18/18"
+source: "mydramalist"
 ---
 
 # Defendant

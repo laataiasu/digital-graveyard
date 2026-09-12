@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Benoît B. Mandelbrot, Richard L. Hudson"
 year: 1997
-source: hardcover
+source: "hardcover"
 ---
 
 # The (Mis)Behavior of Markets

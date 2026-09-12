@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: 花物語
-source: anilist
+original_title: "花物語"
+source: "anilist"
 ---
 
 # Hanamonogatari

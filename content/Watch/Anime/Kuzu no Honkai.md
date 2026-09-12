@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2017
-original_title: クズの本懐
-source: anilist
+original_title: "クズの本懐"
+source: "anilist"
 ---
 
 # Kuzu no Honkai

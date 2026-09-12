@@ -5,7 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2015
 original_title: "Fate/stay night [Unlimited Blade Works] 2ndシーズン"
-source: anilist
+source: "anilist"
 ---
 
 # Fate/stay night: Unlimited Blade Works 2nd Season

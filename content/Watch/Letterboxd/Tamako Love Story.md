@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2014
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Tamako Love Story

@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2017
-original_title: この素晴らしい世界に祝福を！2
-source: anilist
+original_title: "この素晴らしい世界に祝福を！2"
+source: "anilist"
 ---
 
 # Kono Subarashii Sekai ni Shukufuku wo! 2

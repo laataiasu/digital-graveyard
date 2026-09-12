@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: 青春ブタ野郎はゆめみる少女の夢を見ない
-source: anilist
+original_title: "青春ブタ野郎はゆめみる少女の夢を見ない"
+source: "anilist"
 ---
 
 # Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai

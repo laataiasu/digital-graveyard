@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2022
-original_title: フルーツバスケット -prelude-
-source: anilist
+original_title: "フルーツバスケット -prelude-"
+source: "anilist"
 ---
 
 # Fruits Basket: prelude

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2009
-status: 28/28
+status: "28/28"
 rating: 5
-progress: 28/28
-source: mydramalist
+progress: "28/28"
+source: "mydramalist"
 ---
 
 # Shining Inheritance

@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2001
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Lord of the Rings: The Fellowship of the Ring

@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2017
 rating: 1.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Jumanji: Welcome to the Jungle

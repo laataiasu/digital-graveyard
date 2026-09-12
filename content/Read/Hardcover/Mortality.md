@@ -3,13 +3,13 @@ title: "Mortality"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Christopher Hitchens, Simon Prebble"
+author: "Simon Prebble, Christopher Hitchens"
 year: 2001
-source: hardcover
+source: "hardcover"
 ---
 
 # Mortality
 
-- **Author:** Christopher Hitchens, Simon Prebble
+- **Author:** Simon Prebble, Christopher Hitchens
 - **Year:** 2001
 - **Source:** hardcover

@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1964
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb

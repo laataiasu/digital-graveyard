@@ -5,7 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2003
 original_title: "HUNTER×HUNTER: Greed Island"
-source: anilist
+source: "anilist"
 ---
 
 # HUNTER×HUNTER: Greed Island

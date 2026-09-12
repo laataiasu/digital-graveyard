@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: 黒子のバスケ ~最高のプレゼントです~
-source: anilist
+original_title: "黒子のバスケ ~最高のプレゼントです~"
+source: "anilist"
 ---
 
 # Kuroko no Basket: Saikou no Present Desu

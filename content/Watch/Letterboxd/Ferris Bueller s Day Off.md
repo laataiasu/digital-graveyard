@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1986
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Ferris Bueller's Day Off

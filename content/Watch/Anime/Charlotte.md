@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: Charlotte(シャーロット)
-source: anilist
+original_title: "Charlotte(シャーロット)"
+source: "anilist"
 ---
 
 # Charlotte

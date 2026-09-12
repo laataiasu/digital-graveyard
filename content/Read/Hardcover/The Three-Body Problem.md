@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Cixin Liu, Ken Liu"
 year: 2006
-source: hardcover
+source: "hardcover"
 ---
 
 # The Three-Body Problem

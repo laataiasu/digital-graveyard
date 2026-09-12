@@ -3,10 +3,10 @@ title: "The Catcher in the Rye"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: J. D. Salinger
+author: "J. D. Salinger"
 year: 1951
 rating: 2
-source: hardcover
+source: "hardcover"
 ---
 
 # The Catcher in the Rye

@@ -3,10 +3,10 @@ title: "Kagum pada Orang Indonesia"
 date: 2026-08-20
 tags: [book]
 publish_external: true
-author: Emha Ainun Nadjib
+author: "Emha Ainun Nadjib"
 year: 2008
 rating: 3
-source: hardcover
+source: "hardcover"
 ---
 
 # Kagum pada Orang Indonesia

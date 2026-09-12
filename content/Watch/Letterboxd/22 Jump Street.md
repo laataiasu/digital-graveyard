@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2014
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # 22 Jump Street

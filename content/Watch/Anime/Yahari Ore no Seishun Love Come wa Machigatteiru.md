@@ -4,8 +4,8 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2013
-original_title: やはり俺の青春ラブコメはまちがっている。
-source: anilist
+original_title: "やはり俺の青春ラブコメはまちがっている。"
+source: "anilist"
 ---
 
 # Yahari Ore no Seishun Love Come wa Machigatteiru.
