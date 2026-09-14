@@ -1,3 +1,4 @@
+---
 title: "Niri & Dank Material Shell (DMS) Power User Guide"
 date: 2026-09-04
 tags: [guide, linux, wayland]
