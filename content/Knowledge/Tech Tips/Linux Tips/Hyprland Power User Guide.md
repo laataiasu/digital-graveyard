@@ -1,12 +1,22 @@
 ---
-title: "Hyprland Power User & macOS Workflow Guide"
+title: "Hyprland Power User & macOS Workflow Guide (Deprecated)"
 date: 2026-09-01
-tags: [guide]
+tags: [guide, archive]
 publish_external: true
-updated: 2026-09-01
+updated: 2026-09-14
 ---
 
-# Hyprland Power User & macOS Workflow Guide
+# Hyprland Power User & macOS Workflow Guide (Deprecated)
+
+> [!WARNING] Status: Decommissioned & Archived (2026-09-14)
+> **Hyprland has been completely pruned and uninstalled** from the Fedora workstation in favor of [[Niri Scrollable Tiling Guide|Niri + DankMaterialShell (DMS)]].
+> * **Reason**: Continuous config deprecation churn (.conf vs .lua), complex multi-daemon stitching (`waybar`, `mako`, `cliphist`, `hyprpaper`), and superior ergonomics in Niri's infinite horizontal ribbon.
+> * **Backup Archive**: All configurations and scripts were preserved in `~/.archive/hyprland-backup-20260914_213036.tar.gz`.
+> * **Fallback Strategy**: Stock **GNOME Wayland** is retained as the emergency rescue desktop environment.
+>
+> *This guide is preserved for archival reference only.*
+
+---
 
 A definitive architectural guide to configuring **Hyprland on Linux (Wayland)** with a blended **macOS ergonomics + Vim efficiency + Rectangle tiling** setup, resilient background services, and zero-sleep AFK capabilities.
 

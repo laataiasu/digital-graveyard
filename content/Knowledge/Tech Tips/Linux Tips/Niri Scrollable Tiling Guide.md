@@ -1,20 +1,22 @@
----
 title: "Niri & Dank Material Shell (DMS) Power User Guide"
 date: 2026-09-04
-tags: [guide]
+tags: [guide, linux, wayland]
 publish_external: true
-updated: 2026-09-04
+updated: 2026-09-14
 ---
 
 # Niri & Dank Material Shell (DMS) Power User Guide
 
-A complete architectural and operational guide to running **Niri** on [[Linux]] ([[Wayland]]) paired with **Dank Material Shell (DMS)**, detailing the infinite scrollable ribbon paradigm, keyboard responsiveness tuning, and keybindings.
+> [!NOTE] Workstation Primary Desktop Environment
+> As of **2026-09-14**, **Niri** (paired with Dank Material Shell) is the primary daily-driver desktop environment on Fedora. [[Hyprland Power User Guide|Hyprland]] and standalone daemons (`waybar`, `mako`, `cliphist`, `hyprpaper`) have been decommissioned and pruned. Stock **GNOME Wayland** is retained as an emergency fallback desktop environment.
+
+A complete architectural and operational guide to running **Niri** on [[Linux]] ([[Wayland]]) paired with **Dank Material Shell (DMS)**, detailing the infinite scrollable ribbon paradigm, keyboard responsiveness tuning, keybindings, and emergency recovery procedures.
 
 ---
 
 ## 1. Paradigm Shift: Infinite Ribbon vs. Split Trees
 
-Traditional dynamic tiling compositors like [[Hyprland Power User Guide|Hyprland]], Sway, or i3 use binary space partitioning (BSP / dwindle) or master-stack layouts. When opening multiple windows on a single monitor, windows are progressively halved into smaller, squished rectangles until they become illegible.
+Traditional dynamic tiling compositors like [[Hyprland Power User Guide|Hyprland (Deprecated)]], Sway, or i3 use binary space partitioning (BSP / dwindle) or master-stack layouts. When opening multiple windows on a single monitor, windows are progressively halved into smaller, squished rectangles until they become illegible.
 
 **Niri** replaces split trees with an **infinite horizontal ribbon**:
 
@@ -80,12 +82,17 @@ Instead of stitching together multiple standalone daemons (`waybar`, `dunst`/`ma
 ### 🎛️ Shell & System Integrations (DMS)
 | Keybinding | Action | Description |
 | :--- | :--- | :--- |
-| `⌘ T` | **Terminal** | Spawns [[Ghostty]] |
-| `⌘ D` | **Application Launcher** | Toggles DMS Material You application search |
+| `⌘ T` / `⌘ ↩` | **Terminal** | Spawns [[Ghostty]] |
+| `⌘ Space` / `⌘ D` | **Application Launcher** | Toggles DMS Material You application search |
+| `⌘ ⇧ T` | **Tailscale VPN Menu** | Interactive Tailscale VPN manager, peer picker & diagnostics |
 | `⌘ V` | **Clipboard History** | Opens DMS clipboard history picker |
-| `⌘ N` | **Control Center** | Toggles DMS quick settings & notification center |
-| `⌘ ⇧ V` | **Toggle Floating** | Move window between tiling ribbon and floating layer |
+| `⌘ B` | **Web Browser** | Launches Google Chrome |
+| `⌘ E` | **File Manager** | Opens Nautilus in a new window |
+| `⌘ N` | **Control Center** | Toggles DMS quick settings, notifications & Night Light |
+| `⌘ ⌥ ⌫` | **Toggle Floating** | Toggle focused window between tiling ribbon and floating layer |
+| `⌘ /` / `⌘ ⇧ /` | **Hotkey Overlay** | Native full-screen keybinding cheat sheet overlay |
 | `⌘ ⌥ L` | **Lock Screen** | Engages DMS session lock |
+| `⌘ ⇧ Q` | **Power Menu** | Toggles DMS session & power menu (Shutdown, Restart, Lock) |
 
 ---
 
@@ -130,3 +137,35 @@ dms ipc call clipboard toggle      # Trigger clipboard history
 dms ipc call control-center toggle # Trigger quick settings
 dms doctor                         # Run complete health and font check
 ```
+
+---
+
+## 6. Emergency Recovery & Safety Fallback: Stock GNOME Wayland
+
+To ensure the workstation is resilient against compositor bugs, broken configurations, or graphics driver updates, **stock GNOME Wayland** (`gnome-session-wayland-session`) is permanently installed as an out-of-the-box fallback environment.
+
+### When to Use GNOME Fallback
+1. **Niri Configuration Syntax Errors**: If an invalid KDL node prevents Niri from launching during graphical login.
+2. **GPU Driver / DRM Issues**: If an experimental kernel or Mesa driver update causes Wayland protocol regressions with scrollable tiling.
+3. **Complex Multi-Monitor / Projector Scenarios**: Presenting on external projectors or non-standard display matrices that require GNOME's native GUI display settings.
+
+### How to Switch to GNOME
+1. **From Active Session**: Trigger the power menu (`⌘ ⇧ Q`) or open a terminal and run:
+   ```bash
+   loginctl terminate-user "$USER"
+   ```
+2. **At GDM Login Screen**:
+   - Click user account (**Amal**).
+   - Click the **Gear icon (⚙️)** in the bottom-right corner of the screen.
+   - Select **GNOME** (or **GNOME on Wayland**) instead of Niri.
+   - Enter your password to log in.
+3. **From Virtual TTY (Headless Rescue)**:
+   If the display server is completely unresponsive:
+   - Press `Ctrl + Alt + F3` to access TTY3.
+   - Log in with workstation credentials.
+   - Verify Niri configuration and logs:
+     ```bash
+     niri validate
+     journalctl --user -u niri -n 50 --no-pager
+     ```
+   - Roll back recent edits in `~/.config/niri/config.kdl` if needed, then return to GDM with `Ctrl + Alt + F1`.
