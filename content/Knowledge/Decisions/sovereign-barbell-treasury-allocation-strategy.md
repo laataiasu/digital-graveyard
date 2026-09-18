@@ -2,7 +2,7 @@
 title: "Sovereign Barbell Treasury Allocation Strategy"
 date: 2026-09-12
 tags: [decision, pdr, judgment]
-publish_external: true
+publish_external: false
 status: "seedling"
 decision_status: "pending"
 confidence: 9

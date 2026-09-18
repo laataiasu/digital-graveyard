@@ -1,8 +1,8 @@
 ---
 title: "Decision Journal"
-date: 2026-09-12
+date: 2026-09-18
 tags: [moc, decisions, pdr]
-publish_external: true
+publish_external: false
 ---
 
 # Decision Journal (Personal Decision Records)
@@ -11,8 +11,10 @@ Logged bets, judgments, and retrospective calibration reviews from iERP.
 
 | Decision | Choice | Confidence | Status | Review Date |
 | :--- | :--- | :--- | :--- | :--- |
+| [[Pindah Kost: Benhil (Daffa) ke Palmerah Barat (Bijak Kost)]] | `Pindah ke Bijak Kost (Rp 1.500.000/bulan)` | `8/10` | `pending` | 2026-10-12 |
 | [[Sovereign Barbell Treasury Allocation Strategy]] | `Maintain 51.5% fixed income, 30.1% cash equivalents, 11.7% equities, 6.7% crypto with 100% zero liabilities` | `9/10` | `pending` | 2026-12-31 |
 
 ### Directory
 
+- [[Pindah Kost: Benhil (Daffa) ke Palmerah Barat (Bijak Kost)]]
 - [[Sovereign Barbell Treasury Allocation Strategy]]

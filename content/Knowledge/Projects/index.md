@@ -1,8 +1,8 @@
 ---
 title: "Projects"
-date: 2026-09-12
+date: 2026-09-18
 tags: [moc, projects]
-publish_external: true
+publish_external: false
 ---
 
 # Projects & Strategic Initiatives
