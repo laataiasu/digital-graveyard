@@ -170,8 +170,40 @@ agy --version
 
 ---
 
+## PART 3: Migrasi Cron Hermes Workstation ke HP (Zero Battery Waste)
+
+Untuk menghemat listrik dan membebaskan laptop agar tidak harus menyala 24/7, beberapa scheduled jobs Hermes di laptop bisa dipindahkan ke Termux PRoot menggunakan arsitektur **Wake-Lock Sandwich**:
+
+### Pola Wake-Lock Sandwich (Zero Battery Drain saat Idle)
+Jangan jalankan daemon cron terus-menerus di dalam PRoot. Jalankan `crond` di **Termux host (luar)** dengan format:
+```cron
+<minute> <hour> <day> <month> <dow> termux-wake-lock && proot-distro login debian --shared-tmp -- /bin/bash <script_runner> && termux-wake-unlock
+```
+- **Saat idle**: HP tetap masuk ke status *Deep Sleep* (Doze mode), konsumsi baterai 0%.
+- **Saat jam eksekusi**: Termux mengambil `wake-lock` ➡️ eksekusi script di PRoot Debian ➡️ lepaskan `wake-lock` ➡️ HP kembali tidur lelap.
+
+### Setup Cron di Termux Luar
+1. Install `cronie` di Termux luar:
+   ```bash
+   pkg install -y cronie
+   crond
+   ```
+2. Pasang crontab:
+   ```bash
+   crontab ~/Projects/_scheduled_jobs/mobile_runners/termux_crontab.txt
+   ```
+3. Agar `crond` otomatis aktif saat HP dinyalakan, install app **Termux:Boot** dari F-Droid dan buat file:
+   ```bash
+   mkdir -p ~/.termux/boot
+   echo "crond" > ~/.termux/boot/start-cron.sh
+   chmod +x ~/.termux/boot/start-cron.sh
+   ```
+
+---
+
 ## Troubleshooting & Tips
 
 - **Clipboard Share**: Pipe output terminal langsung ke clipboard Android lewat `cat output.txt | termux-clipboard-set` (membutuhkan `termux-api`).
 - **Font Rusak / Kotak-kotak**: Pastikan step 4 di Part 1 sudah dieksekusi di Termux host luar dan jalankan `termux-reload-settings`.
 - **Zsh Tidak Otomatis Muncul**: Pastikan flag login menggunakan `-- /bin/zsh` atau periksa apakah block auto-switch sudah ada di `~/.bashrc` Debian.
+- **Baterai Cepat Habis**: Pastikan tidak ada `termux-wake-lock` yang berjalan permanen di `~/.bashrc`. Gunakan wake-lock hanya saat script berjalan.
