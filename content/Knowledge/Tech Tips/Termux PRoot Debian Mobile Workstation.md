@@ -80,8 +80,8 @@ Izinkan Termux membaca dan menulis ke folder penyimpanan Android (Downloads, Doc
 termux-setup-storage
 ```
 
-### 6. Auto-Login ke Debian & Persistent Wakelock
-Biar setiap kali membuka aplikasi Termux langsung masuk ke PRoot Debian tanpa ngetik manual:
+### 6. Auto-Login ke Debian Tanpa Menutup Termux saat Exit
+Agar saat membuka aplikasi Termux otomatis masuk ke PRoot Debian, tetapi **saat exit dari Debian tetap kembali ke shell Termux default** (bukan menutup aplikasi):
 
 Tambahkan baris ini ke `~/.bashrc` di Termux luar:
 ```bash
@@ -89,12 +89,21 @@ cat <<'EOF' >> ~/.bashrc
 # Cegah CPU tidur saat proses background berjalan
 termux-wake-lock 2>/dev/null || true
 
-# Auto-enter PRoot Debian langsung ke Zsh
-if [ -z "$PROOT_DISTRO" ]; then
-  exec proot-distro login debian --shared-tmp -- /bin/zsh
+# Alias manual buat masuk lagi kapan saja
+alias debian="proot-distro login debian --shared-tmp -- /bin/zsh"
+
+# Auto-enter PRoot Debian hanya saat sesi awal dibuka (tanpa exec)
+if [ -z "$PROOT_DISTRO" ] && [ -z "$TERMUX_DROPPED" ]; then
+  export TERMUX_DROPPED=1
+  proot-distro login debian --shared-tmp -- /bin/zsh
 fi
 EOF
 ```
+> **Cara kerjanya**:
+> - Jangan gunakan `exec`! `exec` me-replace PID shell utama, sehingga exit dari Debian langsung membunuh sesi Termux.
+> - Dengan `TERMUX_DROPPED=1`, begitu lo ketik `exit` di Debian, lo akan jatuh kembali ke prompt Termux native (`~ $`).
+> - Kalau mau masuk lagi ke Debian, cukup ketik `debian`.
+> - Kalau mau beneran nutup Termux, ketik `exit` sekali lagi di Termux native.
 
 ---
 
