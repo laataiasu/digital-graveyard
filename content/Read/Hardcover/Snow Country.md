@@ -3,10 +3,10 @@ title: "Snow Country"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Yusunari Kawabata"
+author: Yusunari Kawabata
 year: 2009
 rating: 3
-source: "hardcover"
+source: hardcover
 ---
 
 # Snow Country

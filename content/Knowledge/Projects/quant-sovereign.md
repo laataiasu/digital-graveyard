@@ -1,12 +1,12 @@
 ---
 title: "Sovereign Ecosystem & Quant Alpha Engine"
 date: 2026-09-12
-tags: [project, initiative, ierp]
+tags: [project]
 publish_external: false
-status: "seedling"
-project_status: "active"
-priority: "high"
-target_date: "Unspecified"
+status: seedling
+project_status: active
+priority: high
+target_date: Unspecified
 ---
 
 # Sovereign Ecosystem & Quant Alpha Engine

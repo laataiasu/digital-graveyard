@@ -158,7 +158,7 @@ class VaultChecker:
             self.issues["mislocated_files"].append(f"{rel_path} (Markdown file located directly in content/ root)")
 
         # Check mislocated journals (e.g. 2024-04-28*.md outside Journal/ folder)
-        if re.match(r"^\d{4}-\d{2}-\d{2}", parts[-1]) and "Journal" not in parts:
+        if re.match(r"^\d{4}-\d{2}-\d{2}", parts[-1]) and "Journal" not in parts and "Retrospectives" not in parts:
             self.issues["mislocated_files"].append(f"{rel_path} (Dated note found outside Write/Journal/)")
 
         if not content.startswith("---"):

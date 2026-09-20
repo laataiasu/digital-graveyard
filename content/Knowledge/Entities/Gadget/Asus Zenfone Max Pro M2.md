@@ -4,9 +4,9 @@ date: 2019-01-01
 tags: [gadget]
 publish_external: true
 status: seedling
-brand: "Asus"
-category: "Smartphone"
-device_status: "active"
+brand: Asus
+category: Smartphone
+device_status: active
 ---
 
 # Asus Zenfone Max Pro M2

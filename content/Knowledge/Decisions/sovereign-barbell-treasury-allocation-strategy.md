@@ -1,10 +1,10 @@
 ---
 title: "Sovereign Barbell Treasury Allocation Strategy"
 date: 2026-09-12
-tags: [decision, pdr, judgment]
+tags: [note]
 publish_external: false
-status: "seedling"
-decision_status: "pending"
+status: seedling
+decision_status: pending
 confidence: 9
 review_date: 2026-12-31
 ---
@@ -15,7 +15,7 @@ review_date: 2026-12-31
 - **Chosen Alternative:** `Maintain 51.5% fixed income, 30.1% cash equivalents, 11.7% equities, 6.7% crypto with 100% zero liabilities`
 - **Confidence Level:** `9/10`
 - **Review Date:** `2026-12-31`
-- **Linked Project:** [[Knowledge/Projects/sovereign-ecosystem-quant-alpha-engine|Sovereign Ecosystem & Quant Alpha Engine]]
+- **Linked Project:** [[Sovereign Ecosystem & Quant Alpha Engine]]
 
 ## Context & Framing
 Evaluated aggressive real estate debt leverage vs. anti-fragile debt-free barbell portfolio with >38 months cash runway

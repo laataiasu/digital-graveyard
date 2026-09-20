@@ -1,7 +1,7 @@
 ---
 title: "Termux & PRoot Debian Mobile Workstation Guide"
 date: 2026-09-20
-tags: [guide, linux, termux, debian, mobile, android]
+tags: [guide]
 publish_external: true
 updated: 2026-09-20
 ---
@@ -170,7 +170,24 @@ agy --version
 
 ---
 
-## PART 3: Migrasi Cron Hermes Workstation ke HP (Zero Battery Waste)
+## PART 3: Multi-Device Data Sync (Cloudflare R2 SSOT)
+
+Untuk sinkronisasi database lokal (`events.db` di `ierp`) antara laptop dan HP tanpa membuat database silo, digunakan **Cloudflare R2** (`ichsanul-dev`) sebagai Single Source of Truth (SSOT).
+
+### Perintah Cepat di Zsh (Laptop & HP):
+- **`event sync`**: Auto-sync cerdas. Membandingkan hash MD5/ETag SQLite lokal dengan remote R2. Otomatis `pull` jika remote lebih baru, atau `push` jika lokal punya update baru.
+- **`event push`**: Paksa upload snapshot SQLite lokal ke R2 (`db/ierp_latest.sqlite`).
+- **`event pull`**: Paksa download snapshot terbaru dari R2 ke SQLite lokal (lengkap dengan backup snapshot otomatis sebelum overwrite).
+- **`event r2 status`**: Lihat perbandingan ukuran, timestamp, MD5, dan status sync.
+
+Format command native:
+```bash
+uv --directory ~/Projects/ierp run ierp r2 [status|push|pull|auto]
+```
+
+---
+
+## PART 4: Migrasi Cron Hermes Workstation ke HP (Zero Battery Waste)
 
 Untuk menghemat listrik dan membebaskan laptop agar tidak harus menyala 24/7, beberapa scheduled jobs Hermes di laptop bisa dipindahkan ke Termux PRoot menggunakan arsitektur **Wake-Lock Sandwich**:
 

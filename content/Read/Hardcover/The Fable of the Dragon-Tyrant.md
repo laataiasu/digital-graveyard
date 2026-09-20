@@ -3,9 +3,9 @@ title: "The Fable of the Dragon-Tyrant"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Nick Bostrom"
+author: Nick Bostrom
 year: 2005
-source: "hardcover"
+source: hardcover
 ---
 
 # The Fable of the Dragon-Tyrant

@@ -1,7 +1,7 @@
 ---
 title: "Retrospectives & Sprint Reviews"
-date: 2026-09-18
-tags: [moc, retrospective]
+date: 2026-09-19
+tags: [note, review]
 publish_external: false
 ---
 

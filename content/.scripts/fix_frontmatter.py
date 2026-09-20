@@ -79,7 +79,7 @@ APPROVED_FORMAT_TAGS = {
     # Projects
     "project", "case-study",
     # Entities / Indexes
-    "figure", "company", "software", "gadget", "country", "organization", "school", "religion"
+    "figure", "company", "software", "gadget", "country", "place", "organization", "school", "religion"
 }
 
 TAG_MAPPINGS = {
@@ -98,6 +98,15 @@ TAG_MAPPINGS = {
     "travel": "travelogue",
     "travelog": "travelogue",
     "travel-log": "travelogue",
+    "initiative": "project",
+    "projects": "project",
+    "decision": "note",
+    "pdr": "note",
+    "judgment": "note",
+    "retrospective": "review",
+    "lifeops": "review",
+    "moc": "note",
+    "archive": "guide",
 }
 
 def infer_tag_from_path(rel_path):
@@ -114,10 +123,16 @@ def infer_tag_from_path(rel_path):
     elif top == "Write":
         if len(parts) > 1 and parts[1] == "Journal":
             return ["journal"]
+        if len(parts) > 1 and parts[1] == "Retrospectives":
+            return ["review"]
         return ["essay"]
     elif top == "Knowledge":
         if "Tech Tips" in rel_path or "Linux Tips" in rel_path:
             return ["guide"]
+        if "Projects" in parts:
+            return ["project"]
+        if "Decisions" in parts:
+            return ["note"]
         return ["note"]
     elif top == "Projects":
         return ["project"]

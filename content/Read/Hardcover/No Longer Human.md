@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Osamu Dazai, Donald Keene, David Shih"
 year: 1948
-source: "hardcover"
+source: hardcover
 ---
 
 # No Longer Human

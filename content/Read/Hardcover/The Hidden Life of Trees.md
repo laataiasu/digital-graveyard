@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Peter Wohlleben, Mike Grady"
 year: 2015
-source: "hardcover"
+source: hardcover
 ---
 
 # The Hidden Life of Trees

@@ -4,9 +4,9 @@ date: 2026-08-20
 tags: [gadget]
 publish_external: true
 status: seedling
-brand: "Alcatel"
-category: "Smartphone"
-device_status: "active"
+brand: Alcatel
+category: Smartphone
+device_status: active
 ---
 
 # Alcatel Flash 2

@@ -4,9 +4,9 @@ date: 2026-03-22
 tags: [gadget]
 publish_external: true
 status: seedling
-brand: "Xiaomi"
-category: "Smartphone"
-device_status: "active"
+brand: Xiaomi
+category: Smartphone
+device_status: active
 ---
 
 # Xiaomi 14T Pro

@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky"
 year: 1879
-source: "hardcover"
+source: hardcover
 ---
 
 # The Brothers Karamazov

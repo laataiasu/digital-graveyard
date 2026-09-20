@@ -4,9 +4,9 @@ date: 2024-01-01
 tags: [gadget]
 publish_external: true
 status: seedling
-brand: "Samsung"
-category: "Smartphone"
-device_status: "active"
+brand: Samsung
+category: Smartphone
+device_status: active
 ---
 
 # Samsung S3 Mini

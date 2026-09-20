@@ -3,10 +3,10 @@ title: "Meatspace"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Nikesh Shukla"
+author: Nikesh Shukla
 year: 2014
 rating: 2
-source: "hardcover"
+source: hardcover
 ---
 
 # Meatspace

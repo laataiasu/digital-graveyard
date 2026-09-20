@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Judy Groves, Dave Robinson"
 year: 2003
-source: "hardcover"
+source: hardcover
 ---
 
 # Introducing Political Philosophy: A Graphic Guide

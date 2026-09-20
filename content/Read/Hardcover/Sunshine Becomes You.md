@@ -3,9 +3,9 @@ title: "Sunshine Becomes You"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Ilana Tan"
+author: Ilana Tan
 year: 2012
-source: "hardcover"
+source: hardcover
 ---
 
 # Sunshine Becomes You

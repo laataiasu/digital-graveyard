@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Friedrich Nietzsche, Stephen J. Metcalf"
 year: 1883
-source: "hardcover"
+source: hardcover
 ---
 
 # Thus Spoke Zarathustra

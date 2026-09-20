@@ -4,9 +4,9 @@ date: 2023-02-05
 tags: [gadget]
 publish_external: true
 status: seedling
-brand: "Xiaomi"
-category: "Smartphone"
-device_status: "active"
+brand: Xiaomi
+category: Smartphone
+device_status: active
 ---
 
 # Xiaomi Redmi Note 11

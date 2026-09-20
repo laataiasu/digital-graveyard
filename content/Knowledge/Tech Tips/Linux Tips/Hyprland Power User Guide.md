@@ -1,7 +1,7 @@
 ---
 title: "Hyprland Power User & macOS Workflow Guide (Deprecated)"
 date: 2026-09-01
-tags: [guide, archive]
+tags: [guide]
 publish_external: true
 updated: 2026-09-14
 ---
