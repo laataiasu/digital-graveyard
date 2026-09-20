@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2024
 rating: 1.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Joker: Folie à Deux

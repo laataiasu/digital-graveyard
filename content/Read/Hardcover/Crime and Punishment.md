@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Leonard Stanton, James D. Hardy Jr., Sidney Monas, Robin Feuer Miller, Fyodor Dostoevsky"
 year: 1866
-source: hardcover
+source: "hardcover"
 ---
 
 # Crime and Punishment

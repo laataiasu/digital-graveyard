@@ -3,9 +3,9 @@ title: "Deep Simplicity"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: John Gribbin
+author: "John Gribbin"
 year: 2005
-source: hardcover
+source: "hardcover"
 ---
 
 # Deep Simplicity

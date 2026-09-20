@@ -4,12 +4,16 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2010
-original_title: けいおん!!
-source: anilist
+original_title: "けいおん!!"
+status: "Completed"
+progress: 26
+source: "anilist"
 ---
 
 # K-ON!!
 
 - **Year:** 2010
 - **Original title:** けいおん!!
+- **Status:** Completed
+- **Progress:** 26
 - **Source:** anilist

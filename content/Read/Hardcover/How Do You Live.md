@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Neil Gaiman, Bruno Navasky, Genzaburo Yoshino"
 year: 1937
-source: hardcover
+source: "hardcover"
 ---
 
 # How Do You Live?

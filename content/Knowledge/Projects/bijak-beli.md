@@ -1,12 +1,12 @@
 ---
 title: "Bijak Beli Consumer Transparency"
 date: 2026-09-12
-tags: [project]
+tags: [project, initiative, ierp]
 publish_external: false
-status: seedling
-project_status: active
-priority: high
-target_date: Unspecified
+status: "seedling"
+project_status: "active"
+priority: "high"
+target_date: "Unspecified"
 ---
 
 # Bijak Beli Consumer Transparency

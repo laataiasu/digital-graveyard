@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1926
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Faust

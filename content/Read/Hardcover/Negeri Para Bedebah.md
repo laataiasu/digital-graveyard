@@ -3,9 +3,9 @@ title: "Negeri Para Bedebah"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Tere Liye
+author: "Tere Liye"
 year: 2012
-source: hardcover
+source: "hardcover"
 ---
 
 # Negeri Para Bedebah

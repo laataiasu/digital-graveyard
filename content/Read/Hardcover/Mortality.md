@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Simon Prebble, Christopher Hitchens"
 year: 2001
-source: hardcover
+source: "hardcover"
 ---
 
 # Mortality

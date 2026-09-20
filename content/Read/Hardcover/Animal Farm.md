@@ -3,9 +3,9 @@ title: "Animal Farm"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: George Orwell
+author: "George Orwell"
 year: 1945
-source: hardcover
+source: "hardcover"
 ---
 
 # Animal Farm

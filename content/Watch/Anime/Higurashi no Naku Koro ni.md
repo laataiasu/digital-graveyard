@@ -4,12 +4,14 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2006
-original_title: ひぐらしのなく頃に
-source: anilist
+original_title: "ひぐらしのなく頃に"
+status: "Plan to Watch"
+source: "anilist"
 ---
 
 # Higurashi no Naku Koro ni
 
 - **Year:** 2006
 - **Original title:** ひぐらしのなく頃に
+- **Status:** Plan to Watch
 - **Source:** anilist

@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1985
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Come and See

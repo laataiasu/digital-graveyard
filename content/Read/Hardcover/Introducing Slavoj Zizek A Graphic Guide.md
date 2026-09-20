@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Christopher Kul-Want, Piero"
 year: 2011
-source: hardcover
+source: "hardcover"
 ---
 
 # Introducing Slavoj Zizek: A Graphic Guide

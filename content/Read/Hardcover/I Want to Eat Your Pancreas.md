@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Loundraw, Yoru Sumino"
 year: 2014
-source: hardcover
+source: "hardcover"
 ---
 
 # I Want to Eat Your Pancreas

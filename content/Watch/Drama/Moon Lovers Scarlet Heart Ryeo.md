@@ -4,9 +4,9 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2016
-status: 0/20
-progress: 0/20
-source: mydramalist
+status: "0/20"
+progress: "0/20"
+source: "mydramalist"
 ---
 
 # Moon Lovers: Scarlet Heart Ryeo

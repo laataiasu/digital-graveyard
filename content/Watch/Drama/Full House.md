@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2004
-status: 16/16
+status: "16/16"
 rating: 5
-progress: 16/16
-source: mydramalist
+progress: "16/16"
+source: "mydramalist"
 ---
 
 # Full House

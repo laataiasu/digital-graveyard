@@ -1,7 +1,7 @@
 ---
-title: "Projects & Strategic Initiatives"
-date: 2026-09-19
-tags: [project]
+title: "Projects"
+date: 2026-09-20
+tags: [moc, projects]
 publish_external: false
 ---
 

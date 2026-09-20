@@ -4,9 +4,9 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2021
-status: 0/16
-progress: 0/16
-source: mydramalist
+status: "0/16"
+progress: "0/16"
+source: "mydramalist"
 ---
 
 # Lost

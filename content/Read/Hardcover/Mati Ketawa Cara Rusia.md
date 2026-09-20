@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Z. Dolgopolova, Batara Sakti, Abdurrahman Wahid"
 year: 1982
-source: hardcover
+source: "hardcover"
 ---
 
 # Mati Ketawa Cara Rusia

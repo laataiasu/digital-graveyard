@@ -5,11 +5,15 @@ tags: [anime]
 publish_external: true
 year: 2003
 original_title: "HUNTER×HUNTER: Greed Island"
-source: anilist
+status: "Completed"
+progress: 8
+source: "anilist"
 ---
 
 # HUNTER×HUNTER: Greed Island
 
 - **Year:** 2003
 - **Original title:** HUNTER×HUNTER: Greed Island
+- **Status:** Completed
+- **Progress:** 8
 - **Source:** anilist

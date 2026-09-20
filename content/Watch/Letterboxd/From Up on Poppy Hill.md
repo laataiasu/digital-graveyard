@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2011
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # From Up on Poppy Hill

@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1988
 rating: 1
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Grave of the Fireflies

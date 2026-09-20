@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1984
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Nausicaä of the Valley of the Wind

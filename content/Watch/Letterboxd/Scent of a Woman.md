@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1992
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Scent of a Woman

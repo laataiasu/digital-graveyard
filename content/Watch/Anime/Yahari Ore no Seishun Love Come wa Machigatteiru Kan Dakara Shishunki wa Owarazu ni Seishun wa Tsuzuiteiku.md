@@ -4,12 +4,16 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2023
-original_title: やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」
-source: anilist
+original_title: "やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」"
+status: "Plan to Watch"
+progress: 1
+source: "anilist"
 ---
 
 # Yahari Ore no Seishun Love Come wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.
 
 - **Year:** 2023
 - **Original title:** やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」
+- **Status:** Plan to Watch
+- **Progress:** 1
 - **Source:** anilist

@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2005
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Pride & Prejudice

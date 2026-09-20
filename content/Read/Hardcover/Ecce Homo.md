@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Friedrich Nietzsche, Michael Tanner, R.J. Hollingdale"
 year: 1888
-source: hardcover
+source: "hardcover"
 ---
 
 # Ecce Homo

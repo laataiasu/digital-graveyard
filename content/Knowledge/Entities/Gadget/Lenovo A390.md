@@ -4,9 +4,9 @@ date: 2026-08-20
 tags: [gadget]
 publish_external: true
 status: seedling
-brand: Lenovo
-category: Smartphone
-device_status: active
+brand: "Lenovo"
+category: "Smartphone"
+device_status: "active"
 ---
 
 # Lenovo A390

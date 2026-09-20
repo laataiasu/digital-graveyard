@@ -5,7 +5,7 @@ tags: [drama]
 publish_external: true
 year: 2011
 rating: 1
-source: mydramalist
+source: "mydramalist"
 ---
 
 # Silenced

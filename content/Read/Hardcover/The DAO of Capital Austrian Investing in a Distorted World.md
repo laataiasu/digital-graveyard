@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Ron Paul, Mark Spitznagel"
 year: 2013
-source: hardcover
+source: "hardcover"
 ---
 
 # The DAO of Capital: Austrian Investing in a Distorted World

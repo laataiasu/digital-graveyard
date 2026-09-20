@@ -3,9 +3,9 @@ title: "The Da Vinci Code"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Dan Brown
+author: "Dan Brown"
 year: 2003
-source: hardcover
+source: "hardcover"
 ---
 
 # The Da Vinci Code

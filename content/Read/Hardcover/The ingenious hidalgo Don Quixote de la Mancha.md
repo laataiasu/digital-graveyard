@@ -6,7 +6,7 @@ publish_external: true
 author: "Miguel de Cervantes Saavedra, Edith Grossman, Harold Bloom"
 year: 1605
 rating: 4
-source: hardcover
+source: "hardcover"
 ---
 
 # The ingenious hidalgo Don Quixote de la Mancha

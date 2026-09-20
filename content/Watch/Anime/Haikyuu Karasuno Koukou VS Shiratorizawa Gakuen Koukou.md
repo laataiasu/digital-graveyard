@@ -4,12 +4,16 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: ハイキュー!! 烏野高校 VS 白鳥沢学園高校
-source: anilist
+original_title: "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
+status: "Completed"
+progress: 10
+source: "anilist"
 ---
 
 # Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
 
 - **Year:** 2016
 - **Original title:** ハイキュー!! 烏野高校 VS 白鳥沢学園高校
+- **Status:** Completed
+- **Progress:** 10
 - **Source:** anilist

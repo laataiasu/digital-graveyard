@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Erik Butler, Byung-Chul Han"
 year: 2010
-source: hardcover
+source: "hardcover"
 ---
 
 # The Burnout Society

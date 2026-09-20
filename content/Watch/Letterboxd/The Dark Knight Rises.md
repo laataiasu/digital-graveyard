@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2012
 rating: 2.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Dark Knight Rises

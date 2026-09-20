@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2023
 rating: 4
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Spider-Man: Across the Spider-Verse

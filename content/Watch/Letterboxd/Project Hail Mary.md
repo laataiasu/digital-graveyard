@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2026
 rating: 4.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Project Hail Mary

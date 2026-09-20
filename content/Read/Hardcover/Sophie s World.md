@@ -6,7 +6,7 @@ publish_external: true
 author: "Paulette Møller, Jostein Gaarder"
 year: 1905
 finished_at: 2021-02-20
-source: hardcover
+source: "hardcover"
 ---
 
 # Sophie's World

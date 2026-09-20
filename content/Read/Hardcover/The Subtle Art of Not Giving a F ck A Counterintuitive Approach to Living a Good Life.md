@@ -3,9 +3,9 @@ title: "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Livi
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Mark Manson
+author: "Mark Manson"
 year: 2016
-source: hardcover
+source: "hardcover"
 ---
 
 # The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life

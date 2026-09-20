@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Friedrich Nietzsche, Anthony Mario Ludovici, Dennis Sweet"
 year: 1889
-source: hardcover
+source: "hardcover"
 ---
 
 # Twilight of the Idols / The Anti-Christ

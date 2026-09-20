@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2017
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # The Killing of a Sacred Deer

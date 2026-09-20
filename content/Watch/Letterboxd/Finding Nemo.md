@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2003
 rating: 3
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Finding Nemo

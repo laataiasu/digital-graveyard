@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2005
 rating: 4
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Mushi-Shi

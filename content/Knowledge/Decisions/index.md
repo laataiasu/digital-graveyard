@@ -1,7 +1,7 @@
 ---
 title: "Decision Journal"
-date: 2026-09-19
-tags: [note]
+date: 2026-09-20
+tags: [moc, decisions, pdr]
 publish_external: false
 ---
 

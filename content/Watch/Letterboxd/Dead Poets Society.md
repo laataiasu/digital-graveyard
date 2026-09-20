@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 1989
 rating: 4
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Dead Poets Society

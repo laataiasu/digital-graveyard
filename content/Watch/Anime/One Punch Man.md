@@ -4,12 +4,16 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: ワンパンマン
-source: anilist
+original_title: "ワンパンマン"
+status: "Completed"
+progress: 12
+source: "anilist"
 ---
 
 # One Punch Man
 
 - **Year:** 2015
 - **Original title:** ワンパンマン
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

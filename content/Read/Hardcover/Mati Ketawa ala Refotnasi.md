@@ -3,9 +3,9 @@ title: "Mati Ketawa ala Refotnasi"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: Emha Ainun Nadjib
+author: "Emha Ainun Nadjib"
 year: 2016
-source: hardcover
+source: "hardcover"
 ---
 
 # Mati Ketawa ala Refotnasi

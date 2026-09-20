@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Viktor E. Frankl, Gordon W. Allport"
 year: 1946
-source: hardcover
+source: "hardcover"
 ---
 
 # Man's Search for Meaning

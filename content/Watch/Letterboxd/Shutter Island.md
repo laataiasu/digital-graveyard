@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2010
 rating: 3.5
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Shutter Island

@@ -4,12 +4,16 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2020
-original_title: STAND BY ME ドラえもん 2
-source: anilist
+original_title: "STAND BY ME ドラえもん 2"
+status: "Completed"
+progress: 1
+source: "anilist"
 ---
 
 # STAND BY ME Doraemon 2
 
 - **Year:** 2020
 - **Original title:** STAND BY ME ドラえもん 2
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

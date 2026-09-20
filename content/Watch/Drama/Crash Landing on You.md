@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [drama]
 publish_external: true
 year: 2019
-status: 16/16
+status: "16/16"
 rating: 6
-progress: 16/16
-source: mydramalist
+progress: "16/16"
+source: "mydramalist"
 ---
 
 # Crash Landing on You

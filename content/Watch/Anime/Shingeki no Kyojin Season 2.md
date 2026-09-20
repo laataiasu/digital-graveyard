@@ -4,12 +4,16 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2017
-original_title: 進撃の巨人 Season２
-source: anilist
+original_title: "進撃の巨人 Season２"
+status: "Completed"
+progress: 12
+source: "anilist"
 ---
 
 # Shingeki no Kyojin Season 2
 
 - **Year:** 2017
 - **Original title:** 進撃の巨人 Season２
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

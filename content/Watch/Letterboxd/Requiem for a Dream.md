@@ -5,7 +5,7 @@ tags: [film]
 publish_external: true
 year: 2000
 rating: 2
-source: letterboxd
+source: "letterboxd"
 ---
 
 # Requiem for a Dream

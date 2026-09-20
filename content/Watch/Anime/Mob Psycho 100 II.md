@@ -4,12 +4,18 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: モブサイコ100 II
-source: anilist
+original_title: "モブサイコ100 II"
+status: "Completed"
+rating: 9
+progress: 13
+source: "anilist"
 ---
 
 # Mob Psycho 100 II
 
 - **Year:** 2019
 - **Original title:** モブサイコ100 II
+- **Status:** Completed
+- **Rating:** 9
+- **Progress:** 13
 - **Source:** anilist

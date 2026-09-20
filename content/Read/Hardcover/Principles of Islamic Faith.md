@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "ابن تيمية, Assad Nimer Busool"
 year: 1992
-source: hardcover
+source: "hardcover"
 ---
 
 # Principles of Islamic Faith
