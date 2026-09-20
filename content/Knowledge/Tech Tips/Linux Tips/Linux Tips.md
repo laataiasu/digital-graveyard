@@ -56,5 +56,6 @@ sudo systemctl enable bluetooth.service
 
 - [[Niri Scrollable Tiling Guide]] (Primary Desktop + GNOME Wayland Fallback)
 - [[Hyprland Power User Guide]] (Decommissioned & Archived)
+- [[Termux PRoot Debian Mobile Workstation]] (Mobile AI Coding Setup)
 - [[Git]]
 
