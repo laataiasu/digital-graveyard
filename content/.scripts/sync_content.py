@@ -116,6 +116,10 @@ def main():
     ap.add_argument("--skip-preflight", action="store_true", help="bypass the privacy preflight gate")
     args = ap.parse_args()
 
+    if not DEST_REPO.exists():
+        print(f"Target garden directory {DEST_REPO} does not exist. Skipping garden sync.")
+        return 0
+
     if not args.skip_preflight:
         print("🛂 Running privacy preflight gate...")
         r = subprocess.run(
