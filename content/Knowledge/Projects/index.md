@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2026-09-20
+date: 2026-09-21
 tags: [moc, projects]
 publish_external: false
 ---

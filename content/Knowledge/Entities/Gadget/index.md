@@ -1,6 +1,6 @@
 ---
 title: "Gadget"
-date: 2026-09-20
+date: 2026-09-21
 tags: [gadget]
 publish_external: true
 ---
