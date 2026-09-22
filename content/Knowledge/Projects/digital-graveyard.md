@@ -1,7 +1,7 @@
 ---
 title: "Personal PKM & Digital Garden v4"
 date: 2026-09-12
-tags: [project, initiative, ierp]
+tags: [project]
 publish_external: false
 status: "seedling"
 project_status: "active"

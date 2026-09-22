@@ -148,9 +148,9 @@ python3 content/.scripts/fix_frontmatter.py
 ```
 
 ### 7. Vault Hygiene & Neat Content Workflow
-Use the neat-content workflow (`.agent/workflows/neat-content.md` or skill `.agents/skills/neat-content/SKILL.md`) whenever tidying content:
+Use the neat-content workflow (`.agent/workflows/neat-content.md` or `/neat`) whenever tidying content:
 1. **Mislocated Notes & Journals**: Relocate dated journal entries from `content/` root to `content/Write/Journal/YYYY/MM/YYYY-MM-DD.md` with standard `YYYY-MM-DD` date and `publish_external: false`.
-2. **Taxonomy Compliance**: Enforce 1–2 format tags (e.g. `[guide]`), stripping topical/concept tags (embed as `[[Wikilinks]]` in prose instead).
+2. **Standardize Frontmatter & Tags**: Run `python3 content/.scripts/fix_frontmatter.py` to automatically normalize frontmatter, dates, and map taxonomy tags to approved format tags.
 3. **Health Audit**: Run `python3 content/.scripts/check_vault.py --verbose` and ensure 0 issues.
 4. **Seed Missing Entities**: For any broken wikilinks to software, companies, or figures, create seedling entity stubs in `content/Knowledge/Entities/Software/` or `Company/`.
 5. **Verify Build**: Run `npx quartz build` and `npm test` with 0 errors.
@@ -162,8 +162,8 @@ uv run content/.scripts/sync_content.py
 ```
 This script cleans `/home/al/Projects/digital-garden/content` and copies only notes where `publish_external: true` is set, along with referenced assets.
 
-### 4. Media Notes (Books/Films/Anime/Manga/Dramas) — ierp-owned
-Media consumption notes under `content/Read/` and `content/Watch/` plus `content/Write/Links.md` are **generated, not hand-written**. The source of truth is the ierp SQLite database (`~/Projects/ierp/ierp/events.db`).
+### 4. Domain & Operational Notes (Media, Links, Gadgets, Projects, Decisions, Retrospectives) — ierp-owned
+Operational notes under `content/Read/`, `content/Watch/`, `content/Write/Links.md`, `content/Knowledge/Entities/Gadget/`, `content/Knowledge/Projects/`, `content/Knowledge/Decisions/`, and `content/Write/Retrospectives/` are **generated, not hand-written**. The source of truth is the ierp SQLite database (`~/Projects/ierp/ierp/events.db`).
 
 * **Fetch + ingest** (all logic lives in ierp):
 ```bash
@@ -173,9 +173,9 @@ cd ~/Projects/ierp && uv run ierp sync [--source goodreads]
 ```bash
 python3 ~/Projects/ierp/scripts/export_garden.py   # add --check for dry-run
 ```
-* **Never hand-edit or hand-create media notes** — they are overwritten on export. To fix data, fix it in ierp (DB or `ierp` CLI) and re-export.
+* **Never hand-edit or hand-create generated notes** — they are overwritten on export. To fix data, fix it in ierp (DB or `ierp` CLI) and re-export.
 * The old `content/.scripts/get-data/` pipeline was removed; do not recreate it.
-* **Do not edit ierp-generated files in place** — including `content/Read/`, `content/Watch/`, and `content/Write/Links.md`. They are regenerated views; any content fix (titles, tags, links, tables) must be made in the ierp source of truth (`~/Projects/ierp`) and re-exported via `python3 ~/Projects/ierp/scripts/export_garden.py`.
+* **Do not edit ierp-generated files in place** — any content or schema fix must be made in the ierp source of truth (`~/Projects/ierp`) and re-exported via `python3 ~/Projects/ierp/scripts/export_garden.py`.
   * Exception: mechanical frontmatter hygiene (quoting titles, tag taxonomy) is safe on these files, since `fix_frontmatter.py` will re-apply it after every export — but never change *content* (body text, wikilinks, tables) in them.
 
 ---

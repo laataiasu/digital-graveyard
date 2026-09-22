@@ -1,7 +1,7 @@
 ---
-title: "Projects"
-date: 2026-09-21
-tags: [moc, projects]
+title: "Strategic Projects"
+date: 2026-09-22
+tags: [project]
 publish_external: false
 ---
 

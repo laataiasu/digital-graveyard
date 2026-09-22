@@ -20,13 +20,18 @@ Use this workflow whenever the user asks to "neat content", "tidy vault", or aft
    - Check frontmatter `tags`: strictly 1–2 format/archetype tags from `AGENTS.md` (e.g. `[guide]`, `[essay]`, `[note]`, `[review]`, `[journal]`, `[reflection]`).
    - Remove topical or entity tags (e.g. `linux`, `crypto`, `productivity`, `wayland`).
    - Retain concepts and topics as Obsidian wikilinks (`[[Topic]]`) in the note body.
+   - Run the automated metadata & taxonomy standardizer:
+     ```bash
+     python3 content/.scripts/fix_frontmatter.py
+     ```
 
 3. **Audit Vault Health**:
    - Run the health checker:
      ```bash
      python3 content/.scripts/check_vault.py --verbose
      ```
-   - Resolve any reported frontmatter errors, invalid dates, unapproved tags, or broken links.
+   - Resolve any remaining reported frontmatter errors, invalid dates, unapproved tags, duplicate titles, or broken links.
+   - *Note on iERP-managed notes*: Content in `Read/`, `Watch/`, `Links.md`, `Knowledge/Entities/Gadget/`, `Knowledge/Projects/`, `Knowledge/Decisions/`, and `Write/Retrospectives/` are generated from `ierp`. If schema errors originate from them, update `ierp` (`ierp/core/garden.py` / `gadgets.py`) and re-export via `cd ~/Projects/ierp && uv run scripts/export_garden.py`.
 
 4. **Seed Missing Entity Stubs**:
    - For broken internal wikilinks pointing to software, companies, or figures, create seedling entity notes in `content/Knowledge/Entities/Software/` or `content/Knowledge/Entities/Company/`:
