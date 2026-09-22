@@ -1,7 +1,7 @@
 ---
 title: "Pindah Kost: Benhil (Daffa) ke Palmerah Barat (Bijak Kost)"
 date: 2026-09-12
-tags: [decision, pdr, judgment]
+tags: [note]
 publish_external: false
 status: "seedling"
 decision_status: "pending"
