@@ -315,6 +315,10 @@ def build_fixed_content(full_content, filepath):
     else:
         publish_external = False
 
+    # Strictly enforce draft: true for journals so Quartz filters them out
+    if "/Journal/" in rel_path or "\\Journal\\" in rel_path or "journal" in tags:
+        fm_data["draft"] = True
+
     # Format standard primary fields
     tags_formatted = "[" + ", ".join(tags) + "]" if tags else "[]"
     safe_title = title.replace('\\', '\\\\').replace('"', '\\"')

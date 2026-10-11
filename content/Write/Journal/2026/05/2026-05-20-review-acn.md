@@ -3,6 +3,7 @@ title: "2026-05-20 Review Acn"
 date: 2026-05-20
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 ## tech i use
