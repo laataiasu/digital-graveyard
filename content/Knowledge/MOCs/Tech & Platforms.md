@@ -13,6 +13,7 @@ Data, machine learning, social media, and AI — the systems shaping attention a
 
 - [[Data]] · [[Machine Learning]] · [[Artificial intelligence]]
 - [[ChatGPT]]
+- [[AI Agent Skills and Workflow Architecture]]
 
 ## Social platforms
 
