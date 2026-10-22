@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "となりの怪物くん"
-status: "Completed"
+original_title: となりの怪物くん
+status: Completed
 rating: 4
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Tonari no Kaibutsu-kun

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: "食戟のソーマ"
-status: "Completed"
+original_title: 食戟のソーマ
+status: Completed
 progress: 24
-source: "anilist"
+source: anilist
 ---
 
 # Shokugeki no Souma

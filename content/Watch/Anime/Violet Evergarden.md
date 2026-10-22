@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: "ヴァイオレット・エヴァーガーデン"
-status: "Completed"
+original_title: ヴァイオレット・エヴァーガーデン
+status: Completed
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Violet Evergarden

@@ -3,9 +3,9 @@ title: "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Brian Greene"
+author: Brian Greene
 year: 1999
-source: "hardcover"
+source: hardcover
 ---
 
 # The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory

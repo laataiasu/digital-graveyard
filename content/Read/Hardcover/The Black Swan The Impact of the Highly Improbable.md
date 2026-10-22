@@ -6,7 +6,7 @@ publish_external: true
 author: "David Chandler, Микола Климчук, Nassim Nicholas Taleb"
 year: 2007
 rating: 4
-source: "hardcover"
+source: hardcover
 ---
 
 # The Black Swan: The Impact of the Highly Improbable

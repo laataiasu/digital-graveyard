@@ -1,24 +1,20 @@
 ---
 title: "Xiaomi 14T Pro"
-date: 2026-03-22
+date: 2026-09-07
 tags: [gadget]
 publish_external: true
-status: seedling
-brand: "Xiaomi"
-category: "Smartphone"
-device_status: "active"
+category: Smartphone
+brand: Xiaomi
+status: active
 ---
 
 # Xiaomi 14T Pro
 
-- **Brand:** Xiaomi
-- **Category:** Smartphone
-- **Status:** Active
-- **Acquired:** 2026-03-22
-- **Ram:** 12GB
-- **Storage:** 256GB
-- **Condition:** second
+**Brand**: Xiaomi | **Category**: Smartphone  
+**Status**: active | **Purchased**: 2026-03-22
 
-## Notes
-
+## Notes & Specs
 Second, 12 / 256
+
+---
+*Exported by iERP Gadget Registry.*

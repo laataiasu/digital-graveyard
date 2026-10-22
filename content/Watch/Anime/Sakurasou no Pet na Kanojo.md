@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "さくら荘のペットな彼女"
-status: "Completed"
+original_title: さくら荘のペットな彼女
+status: Completed
 progress: 24
-source: "anilist"
+source: anilist
 ---
 
 # Sakurasou no Pet na Kanojo

@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2023
-original_title: "僕の心のヤバイやつ"
-status: "Completed"
+original_title: 僕の心のヤバイやつ
+status: Completed
 rating: 5
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Boku no Kokoro no Yabai Yatsu

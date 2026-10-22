@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "月曜日のたわわ"
-status: "Completed"
+original_title: 月曜日のたわわ
+status: Completed
 rating: 5
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Getsuyoubi no Tawawa

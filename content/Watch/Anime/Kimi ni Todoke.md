@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2009
-original_title: "君に届け"
-status: "Completed"
+original_title: 君に届け
+status: Completed
 progress: 25
-source: "anilist"
+source: anilist
 ---
 
 # Kimi ni Todoke

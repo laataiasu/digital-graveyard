@@ -3,6 +3,7 @@ title: "About Competitor Analysis"
 date: 2025-07-15
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 We know what’s beautiful: openness, abundance, clean systems, sharing, trust.

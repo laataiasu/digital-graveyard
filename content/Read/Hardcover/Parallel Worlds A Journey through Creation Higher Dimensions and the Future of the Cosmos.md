@@ -3,9 +3,9 @@ title: "Parallel Worlds: A Journey through Creation, Higher Dimensions, and the 
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Michio Kaku"
+author: Michio Kaku
 year: 2004
-source: "hardcover"
+source: hardcover
 ---
 
 # Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos

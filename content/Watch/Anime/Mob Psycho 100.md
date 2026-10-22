@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "モブサイコ100"
-status: "Completed"
+original_title: モブサイコ100
+status: Completed
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Mob Psycho 100

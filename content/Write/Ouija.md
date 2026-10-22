@@ -4,6 +4,7 @@ date: 2020-11-20
 tags: [journal]
 publish_external: false
 timeline_notification: [1605841331]
+draft: true
 ---
 
 ![https://youtu.be/_T1Jj1inE8M](https://youtu.be/_T1Jj1inE8M)

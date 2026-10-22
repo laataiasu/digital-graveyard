@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Bethany McLean, Joe Nocera"
 year: 2010
-source: "hardcover"
+source: hardcover
 ---
 
 # All the Devils Are Here

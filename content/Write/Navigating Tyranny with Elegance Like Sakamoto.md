@@ -3,6 +3,7 @@ title: "Sakamoto Unmasked: Navigating Tyranny with Elegance"
 date: 2023-09-05
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 ![[sakamoto faces.jpg]]

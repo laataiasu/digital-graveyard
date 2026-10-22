@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "中二病でも恋がしたい!"
-status: "Completed"
+original_title: 中二病でも恋がしたい!
+status: Completed
 rating: 6
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Chuunibyou demo Koi ga Shitai!

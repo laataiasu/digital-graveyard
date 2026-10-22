@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "黒子のバスケ"
-status: "Completed"
+original_title: 黒子のバスケ
+status: Completed
 progress: 25
-source: "anilist"
+source: anilist
 ---
 
 # Kuroko no Basket

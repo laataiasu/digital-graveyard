@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [manga]
 publish_external: true
 year: 2009
-original_title: "進撃の巨人"
-status: "Completed"
+original_title: 進撃の巨人
+status: Completed
 progress: 141
-source: "anilist"
+source: anilist
 ---
 
 # Shingeki no Kyojin

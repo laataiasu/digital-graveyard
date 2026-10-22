@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: "文豪ストレイドッグス 第3シーズン"
-status: "Completed"
+original_title: 文豪ストレイドッグス 第3シーズン
+status: Completed
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Bungou Stray Dogs 3rd Season

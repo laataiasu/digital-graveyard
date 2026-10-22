@@ -4,9 +4,9 @@ date: 2016-01-01
 tags: [manga]
 publish_external: true
 year: 2018
-original_title: "呪術廻戦"
-status: "Reading"
-source: "anilist"
+original_title: 呪術廻戦
+status: Reading
+source: anilist
 ---
 
 # Jujutsu Kaisen

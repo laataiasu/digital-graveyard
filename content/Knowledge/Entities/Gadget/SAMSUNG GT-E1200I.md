@@ -1,17 +1,20 @@
 ---
 title: "SAMSUNG GT-E1200I"
-date: 2026-08-20
+date: 2026-09-07
 tags: [gadget]
 publish_external: true
-status: seedling
-brand: "Samsung"
-category: "Feature Phone"
-device_status: "active"
+category: Feature Phone
+brand: Samsung
+status: active
 ---
 
 # SAMSUNG GT-E1200I
 
-- **Brand:** Samsung
-- **Category:** Feature Phone
-- **Status:** Active
-- **Acquired:** 2026-08-20
+**Brand**: Samsung | **Category**: Feature Phone  
+**Status**: active | **Purchased**: 2026-08-20
+
+## Notes & Specs
+
+
+---
+*Exported by iERP Gadget Registry.*

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2017
-original_title: "ハイキュー!! 才能とセンス"
-status: "Completed"
+original_title: ハイキュー!! 才能とセンス
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Haikyuu!!: Sainou to Sense

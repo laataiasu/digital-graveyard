@@ -3,9 +3,9 @@ title: "To Kill a Mockingbird (Extended Sample) Part 1"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Harper Lee"
+author: Harper Lee
 year: 1960
-source: "hardcover"
+source: hardcover
 ---
 
 # To Kill a Mockingbird (Extended Sample) Part 1

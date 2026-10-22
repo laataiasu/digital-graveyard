@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2010
-original_title: "四畳半神話大系"
-status: "Completed"
+original_title: 四畳半神話大系
+status: Completed
 rating: 6
 progress: 11
-source: "anilist"
+source: anilist
 ---
 
 # Yojouhan Shinwa Taikei

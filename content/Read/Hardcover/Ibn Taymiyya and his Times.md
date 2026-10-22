@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Yossef Rapoport, Shahab Ahmed"
 year: 2010
-source: "hardcover"
+source: hardcover
 ---
 
 # Ibn Taymiyya and his Times

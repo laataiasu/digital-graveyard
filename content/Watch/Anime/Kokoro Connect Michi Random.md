@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "ココロコネクト ミチランダム"
-status: "Completed"
+original_title: ココロコネクト ミチランダム
+status: Completed
 progress: 4
-source: "anilist"
+source: anilist
 ---
 
 # Kokoro Connect: Michi Random

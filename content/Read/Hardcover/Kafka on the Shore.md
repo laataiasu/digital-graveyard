@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Haruki Murakami, Philip Gabriel"
 year: 2001
-source: "hardcover"
+source: hardcover
 ---
 
 # Kafka on the Shore

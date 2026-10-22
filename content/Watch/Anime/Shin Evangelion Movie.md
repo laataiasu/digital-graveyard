@@ -5,9 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2021
 original_title: "シン・エヴァンゲリオン劇場版:||"
-status: "Completed"
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Shin Evangelion Movie:||

@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: "3D彼女 リアルガール"
-status: "Completed"
+original_title: 3D彼女 リアルガール
+status: Completed
 rating: 6
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # 3D Kanojo: Real Girl

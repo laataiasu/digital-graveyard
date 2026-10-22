@@ -3,6 +3,7 @@ title: "First Time Intership"
 date: 2022-08-26
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 It's been 2 weeks since my first internship. I never think about the structure when I write. I just want to write what I want. 

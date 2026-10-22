@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2001
-original_title: "カウボーイビバップ天国の扉"
-status: "Completed"
+original_title: カウボーイビバップ天国の扉
+status: Completed
 rating: 8
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Cowboy Bebop: Tengoku no Tobira

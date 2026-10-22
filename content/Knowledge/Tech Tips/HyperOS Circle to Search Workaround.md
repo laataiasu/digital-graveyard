@@ -1,7 +1,7 @@
 ---
 title: "Bypassing HyperOS Restrictions for Circle to Search on Custom Launchers"
 date: 2026-10-21
-tags: [android, hyperos, xiaomi, reverse-engineering, launcher]
+tags: [guide]
 publish_external: true
 status: seedling
 ---

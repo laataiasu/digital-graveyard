@@ -1,11 +1,11 @@
 ---
 title: "Personal PKM & Digital Garden v4"
 date: 2026-09-12
-tags: [project, strategic-initiative]
+tags: [project]
 publish_external: true
-status: "active"
-priority: "medium"
-target_date: ""
+status: active
+priority: medium
+target_date: 
 ---
 
 # Personal PKM & Digital Garden v4

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: "ハイキュー!!"
-status: "Completed"
+original_title: ハイキュー!!
+status: Completed
 progress: 25
-source: "anilist"
+source: anilist
 ---
 
 # Haikyuu!!

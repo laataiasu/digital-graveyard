@@ -1,17 +1,20 @@
 ---
 title: "Flexi Muslim"
-date: 2026-08-20
+date: 2026-09-07
 tags: [gadget]
 publish_external: true
-status: seedling
-brand: "Flexi"
-category: "Feature Phone"
-device_status: "active"
+category: Feature Phone
+brand: Flexi
+status: active
 ---
 
 # Flexi Muslim
 
-- **Brand:** Flexi
-- **Category:** Feature Phone
-- **Status:** Active
-- **Acquired:** 2026-08-20
+**Brand**: Flexi | **Category**: Feature Phone  
+**Status**: active | **Purchased**: 2026-08-20
+
+## Notes & Specs
+
+
+---
+*Exported by iERP Gadget Registry.*

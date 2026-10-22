@@ -1,17 +1,20 @@
 ---
 title: "Lenovo A390"
-date: 2026-08-20
+date: 2026-09-07
 tags: [gadget]
 publish_external: true
-status: seedling
-brand: "Lenovo"
-category: "Smartphone"
-device_status: "active"
+category: Smartphone
+brand: Lenovo
+status: active
 ---
 
 # Lenovo A390
 
-- **Brand:** Lenovo
-- **Category:** Smartphone
-- **Status:** Active
-- **Acquired:** 2026-08-20
+**Brand**: Lenovo | **Category**: Smartphone  
+**Status**: active | **Purchased**: 2026-08-20
+
+## Notes & Specs
+
+
+---
+*Exported by iERP Gadget Registry.*

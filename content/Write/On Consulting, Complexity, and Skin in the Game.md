@@ -3,6 +3,7 @@ title: "On Consulting, Complexity, and Skin in the Game"
 date: 2026-05-27
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 on consulting

@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#     "pyyaml>=6.0",
+# ]
+# ///
 #!/usr/bin/env python3
 """
 check_vault.py — Digital Graveyard Vault Health & Hygiene Checker

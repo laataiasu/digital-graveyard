@@ -1,11 +1,11 @@
 ---
 title: "PDR: Launch Bijak-Beli Price Transparency Index"
 date: 2026-10-04
-tags: [decision, pdr]
+tags: [note]
 publish_external: true
-status: "pending"
+status: pending
 confidence: 7
-review_date: "2026-12-30"
+review_date: 2026-12-30
 ---
 
 # Decision: Launch Bijak-Beli Price Transparency Index

@@ -3,9 +3,9 @@ title: "Bumi Manusia"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Pramoedya Ananta Toer"
+author: Pramoedya Ananta Toer
 year: 1980
-source: "hardcover"
+source: hardcover
 ---
 
 # Bumi Manusia

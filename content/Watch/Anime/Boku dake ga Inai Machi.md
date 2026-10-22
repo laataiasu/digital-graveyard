@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "僕だけがいない街"
-status: "Completed"
+original_title: 僕だけがいない街
+status: Completed
 rating: 8
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Boku dake ga Inai Machi

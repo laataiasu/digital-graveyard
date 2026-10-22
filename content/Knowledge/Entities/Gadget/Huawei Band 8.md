@@ -1,17 +1,20 @@
 ---
 title: "Huawei Band 8"
-date: 2023-06-17
+date: 2026-09-07
 tags: [gadget]
 publish_external: true
-status: seedling
-brand: "Huawei"
-category: "Wearable"
-device_status: "active"
+category: Wearable
+brand: Huawei
+status: active
 ---
 
 # Huawei Band 8
 
-- **Brand:** Huawei
-- **Category:** Wearable
-- **Status:** Active
-- **Acquired:** 2023-06-17
+**Brand**: Huawei | **Category**: Wearable  
+**Status**: active | **Purchased**: 2023-06-17
+
+## Notes & Specs
+
+
+---
+*Exported by iERP Gadget Registry.*

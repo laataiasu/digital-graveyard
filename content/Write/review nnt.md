@@ -3,6 +3,7 @@ title: "Review Nnt"
 date: 2024-06-17
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 ## My Review

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: "続・終物語"
-status: "Completed"
+original_title: 続・終物語
+status: Completed
 progress: 6
-source: "anilist"
+source: anilist
 ---
 
 # Zoku Owarimonogatari

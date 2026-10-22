@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "K. Anders Ericsson, Robert Pool"
 year: 2016
-source: "hardcover"
+source: hardcover
 ---
 
 # Peak: Secrets from the New Science of Expertise

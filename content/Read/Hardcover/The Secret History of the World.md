@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Jonathan  Black, Mark Booth"
 year: 2007
-source: "hardcover"
+source: hardcover
 ---
 
 # The Secret History of the World

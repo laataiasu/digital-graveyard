@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2009
-original_title: "化物語"
-status: "Completed"
+original_title: 化物語
+status: Completed
 progress: 15
-source: "anilist"
+source: anilist
 ---
 
 # Bakemonogatari

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2020
-original_title: "やはり俺の青春ラブコメはまちがっている。完"
-status: "Completed"
+original_title: やはり俺の青春ラブコメはまちがっている。完
+status: Completed
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Yahari Ore no Seishun Love Come wa Machigatteiru. Kan

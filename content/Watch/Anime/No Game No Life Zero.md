@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2017
-original_title: "ノーゲーム・ノーライフ ゼロ"
-status: "Completed"
+original_title: ノーゲーム・ノーライフ ゼロ
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # No Game No Life Zero

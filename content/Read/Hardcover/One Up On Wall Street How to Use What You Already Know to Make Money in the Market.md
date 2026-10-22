@@ -6,7 +6,7 @@ publish_external: true
 author: "Peter Lynch, John Rothchild"
 year: 1988
 rating: 3
-source: "hardcover"
+source: hardcover
 ---
 
 # One Up On Wall Street: How to Use What You Already Know to Make Money in the Market

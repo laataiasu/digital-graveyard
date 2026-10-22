@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [manga]
 publish_external: true
 year: 1989
-original_title: "ベルセルク"
-status: "Completed"
+original_title: ベルセルク
+status: Completed
 rating: 9
-source: "anilist"
+source: anilist
 ---
 
 # Berserk

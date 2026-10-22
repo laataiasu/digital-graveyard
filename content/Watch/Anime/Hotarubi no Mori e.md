@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2011
-original_title: "蛍火の杜へ"
-status: "Completed"
+original_title: 蛍火の杜へ
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Hotarubi no Mori e

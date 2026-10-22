@@ -5,9 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2019
 original_title: "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング"
-status: "Completed"
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Boku no Hero Academia THE MOVIE: Heroes:Rising

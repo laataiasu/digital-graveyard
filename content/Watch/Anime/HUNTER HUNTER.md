@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 1999
-original_title: "HUNTER×HUNTER"
-status: "Completed"
+original_title: HUNTER×HUNTER
+status: Completed
 progress: 62
-source: "anilist"
+source: anilist
 ---
 
 # HUNTER×HUNTER

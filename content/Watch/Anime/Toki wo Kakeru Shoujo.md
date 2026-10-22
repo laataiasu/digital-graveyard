@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2006
-original_title: "時をかける少女"
-status: "Completed"
+original_title: 時をかける少女
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Toki wo Kakeru Shoujo

@@ -1,7 +1,7 @@
 ---
 title: "Multi-Platform Project State Management: Fedora Linux & Android PRoot Debian"
 date: 2026-10-02
-tags: [architecture, linux, android, git, state-management]
+tags: [note]
 publish_external: false
 ---
 

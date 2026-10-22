@@ -3,6 +3,7 @@ title: "A Suppressed Dream"
 date: 2022-12-25
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 ### Visi

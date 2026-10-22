@@ -3,6 +3,7 @@ title: "Susah Cari Kerja"
 date: 2022-07-06
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 ## Cari Magang Kuliah

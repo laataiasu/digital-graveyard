@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: "シュタインズ・ゲート ゼロ"
-status: "Completed"
+original_title: シュタインズ・ゲート ゼロ
+status: Completed
 progress: 23
-source: "anilist"
+source: anilist
 ---
 
 # Steins;Gate 0

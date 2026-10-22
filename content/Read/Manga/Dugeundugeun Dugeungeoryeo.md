@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [manga]
 publish_external: true
 year: 2009
-original_title: "두근두근 두근거려"
-status: "Completed"
+original_title: 두근두근 두근거려
+status: Completed
 rating: 8
 progress: 30
-source: "anilist"
+source: anilist
 ---
 
 # Dugeundugeun Dugeungeoryeo

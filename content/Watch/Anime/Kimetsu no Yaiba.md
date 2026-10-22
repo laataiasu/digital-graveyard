@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: "鬼滅の刃"
-status: "Completed"
+original_title: 鬼滅の刃
+status: Completed
 progress: 26
-source: "anilist"
+source: anilist
 ---
 
 # Kimetsu no Yaiba

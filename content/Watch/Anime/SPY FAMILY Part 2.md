@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2022
-original_title: "SPY×FAMILY 第2クール"
-status: "Watching"
+original_title: SPY×FAMILY 第2クール
+status: Watching
 rating: 7
-source: "anilist"
+source: anilist
 ---
 
 # SPY×FAMILY Part 2

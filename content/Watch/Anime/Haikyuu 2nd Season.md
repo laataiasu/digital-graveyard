@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: "ハイキュー!! セカンドシーズン"
-status: "Completed"
+original_title: ハイキュー!! セカンドシーズン
+status: Completed
 progress: 25
-source: "anilist"
+source: anilist
 ---
 
 # Haikyuu!! 2nd Season

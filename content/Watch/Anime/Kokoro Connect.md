@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "ココロコネクト"
-status: "Completed"
+original_title: ココロコネクト
+status: Completed
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Kokoro Connect

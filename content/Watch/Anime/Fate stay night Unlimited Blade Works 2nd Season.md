@@ -5,9 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2015
 original_title: "Fate/stay night [Unlimited Blade Works] 2ndシーズン"
-status: "Completed"
+status: Completed
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Fate/stay night: Unlimited Blade Works 2nd Season

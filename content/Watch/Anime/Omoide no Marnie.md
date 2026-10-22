@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: "思い出のマーニー"
-status: "Completed"
+original_title: 思い出のマーニー
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Omoide no Marnie

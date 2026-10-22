@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "田中くんはいつもけだるげ 特典"
-status: "Completed"
+original_title: 田中くんはいつもけだるげ 特典
+status: Completed
 rating: 7
 progress: 7
-source: "anilist"
+source: anilist
 ---
 
 # Tanaka-kun wa Itsumo Kedaruge Specials

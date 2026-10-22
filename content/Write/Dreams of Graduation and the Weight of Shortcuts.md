@@ -3,6 +3,7 @@ title: "Dreams of Graduation and the Weight of Shortcuts"
 date: 2026-03-15
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 It has been about three years since I graduated from university, but I still occasionally have dreams where I haven't actually finished. In these dreams, I have failed a class, missed a test due to laziness, or found out I cannot graduate for some other reason. I always wake up feeling incredibly anxious.

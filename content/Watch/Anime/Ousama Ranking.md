@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2021
-original_title: "王様ランキング"
-status: "Completed"
+original_title: 王様ランキング
+status: Completed
 rating: 9
 progress: 23
-source: "anilist"
+source: anilist
 ---
 
 # Ousama Ranking

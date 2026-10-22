@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2015
-original_title: "進撃の巨人 外伝 悔いなき選択"
-status: "Completed"
+original_title: 進撃の巨人 外伝 悔いなき選択
+status: Completed
 progress: 2
-source: "anilist"
+source: anilist
 ---
 
 # Shingeki no Kyojin Gaiden: Kuinaki Sentaku

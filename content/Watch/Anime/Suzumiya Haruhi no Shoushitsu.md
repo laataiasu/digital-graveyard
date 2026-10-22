@@ -4,9 +4,9 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2010
-original_title: "涼宮ハルヒの消失"
-status: "Plan to Watch"
-source: "anilist"
+original_title: 涼宮ハルヒの消失
+status: Plan to Watch
+source: anilist
 ---
 
 # Suzumiya Haruhi no Shoushitsu

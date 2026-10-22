@@ -4,9 +4,9 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2022
-original_title: "モブサイコ100 Ⅲ"
-status: "Plan to Watch"
-source: "anilist"
+original_title: モブサイコ100 Ⅲ
+status: Plan to Watch
+source: anilist
 ---
 
 # Mob Psycho 100 III

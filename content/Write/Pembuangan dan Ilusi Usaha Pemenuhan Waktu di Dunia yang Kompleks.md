@@ -3,6 +3,7 @@ title: "Pembuangan Dan Ilusi Usaha Pemenuhan Waktu Di Dunia Yang Kompleks"
 date: 2018-01-01
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 ![[buang-waktu.jpg]]

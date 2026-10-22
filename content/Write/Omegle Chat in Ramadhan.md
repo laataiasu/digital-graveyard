@@ -3,6 +3,7 @@ title: "Omegle Chat in Ramadhan"
 date: 2022-04-08
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 ```

@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "食戟のソーマ 弍ノ皿"
-status: "Completed"
+original_title: 食戟のソーマ 弍ノ皿
+status: Completed
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Shokugeki no Souma: Ni no Sara

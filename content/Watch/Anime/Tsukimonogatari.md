@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2014
-original_title: "憑物語"
-status: "Completed"
+original_title: 憑物語
+status: Completed
 progress: 4
-source: "anilist"
+source: anilist
 ---
 
 # Tsukimonogatari

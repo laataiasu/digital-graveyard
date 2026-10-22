@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2013
-original_title: "ゴールデンタイム"
-status: "Completed"
+original_title: ゴールデンタイム
+status: Completed
 rating: 5
 progress: 24
-source: "anilist"
+source: anilist
 ---
 
 # Golden Time

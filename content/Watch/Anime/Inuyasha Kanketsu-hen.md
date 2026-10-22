@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2009
-original_title: "犬夜叉 完結編"
-status: "Completed"
+original_title: 犬夜叉 完結編
+status: Completed
 progress: 26
-source: "anilist"
+source: anilist
 ---
 
 # Inuyasha: Kanketsu-hen

@@ -3,6 +3,7 @@ title: "Illusion Is the Fuel"
 date: 2023-09-02
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 Illusion is the fuel of acceleration and substance 

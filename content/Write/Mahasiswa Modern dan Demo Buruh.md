@@ -3,6 +3,7 @@ title: "Mahasiswa Modern Dan Demo Buruh"
 date: 2023-08-10
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 Algo goblok! Aku dapet iklan liburan melulu. Sudah tau aku ini orang nasionalis chauvinist, atau namanya lainnya orang kerdil. Melihat para TKI dan TKW yang menyumbang devisa, adalah suatu ketololan apabila kau keluar hanya untuk bersenang-senang, kecuali kau bisa mengeruk dan mencuri dari mereka yang di luar. Ketika melihat daerahmu sendiri kacau balau dengan kabel-kabel sarang laba-laba, siapa itu penyusun sarang laba-laba? Ialah ia yang memperlambat dan meracunimu dengan gedung-gedung kotak, yang tiap hari memberikan pesan 'daftar di situs kami, maka kamu akan jadi dewa petir'. Atau ia yang melirik pemudi berpotensi menari dan dapat dengan mudah didandani. Persetan dengan suara, yang laki-laki butuhkan hanya ilusi akan cinta dan dukungan terhadapnya. Kelompok [[Woman|perempuan]] itu, ia dipelopori mereka yang menjajah kakek buyutmu, dan siapa itu kakek buyutmu, sejarahnya saja tidak penting daripada karakter 2D kartun anak kecil yang menghiburmu dengan persona manipulatifnya. Empat orang wanita penghibur itu, apa bedanya dengan penari tiang lokal yang berusaha mencari penghidupan? Maka sebelum bayar pelacur di bawah umur yang tidak bisa bernyanyi itu, maka bayarlah di sekitarmu, yang kamu kafirkan karena kamu sibuk menyimpan semuanya di penadah kertas dengan harapan bunga dari akad wadiah atau mudharabah yang tidak seberapa itu, agar para pemalas itu bisa lebih kuasa menagih siapapun yang lemah dengan cara indahnya.

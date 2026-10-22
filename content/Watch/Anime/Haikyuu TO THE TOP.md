@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2020
-original_title: "ハイキュー!! TO THE TOP"
-status: "Completed"
+original_title: ハイキュー!! TO THE TOP
+status: Completed
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Haikyuu!! TO THE TOP

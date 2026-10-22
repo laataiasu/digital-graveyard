@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2018
-original_title: "青春ブタ野郎はバニーガール先輩の夢を見ない"
-status: "Completed"
+original_title: 青春ブタ野郎はバニーガール先輩の夢を見ない
+status: Completed
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai

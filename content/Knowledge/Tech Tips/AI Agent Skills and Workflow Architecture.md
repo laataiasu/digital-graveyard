@@ -1,7 +1,7 @@
 ---
 title: "AI Agent Skills and Workflow Architecture"
 date: 2026-10-14
-tags: [guide, ai, workflow, devops]
+tags: [guide]
 publish_external: true
 ---
 

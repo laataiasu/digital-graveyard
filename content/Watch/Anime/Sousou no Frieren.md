@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2023
-original_title: "葬送のフリーレン"
-status: "Completed"
+original_title: 葬送のフリーレン
+status: Completed
 rating: 10
 progress: 28
-source: "anilist"
+source: anilist
 ---
 
 # Sousou no Frieren

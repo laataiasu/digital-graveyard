@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2020
-original_title: "ジョゼと虎と魚たち"
-status: "Completed"
+original_title: ジョゼと虎と魚たち
+status: Completed
 rating: 7
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Josee to Tora to Sakanatachi

@@ -3,6 +3,7 @@ title: "My Fucked Up Experiment"
 date: 2020-09-25
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 At some point, I've been experimenting with myself until now. Yesterday was a good day, but now, as I'm in college, I regret that damn experimentation.

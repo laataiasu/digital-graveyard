@@ -3,6 +3,7 @@ title: "Fiksi Kuning Goblok"
 date: 2020-10-20
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 Kebencian itu tidak pernah berdasar. 

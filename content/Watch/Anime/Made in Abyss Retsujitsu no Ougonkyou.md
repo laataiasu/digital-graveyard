@@ -4,13 +4,13 @@ date: 2025-10-26
 tags: [anime]
 publish_external: true
 year: 2022
-original_title: "メイドインアビス 烈日の黄金郷"
-status: "Completed"
+original_title: メイドインアビス 烈日の黄金郷
+status: Completed
 rating: 9
 progress: 12
 started_at: 2025-10-25
 finished_at: 2025-10-26
-source: "anilist"
+source: anilist
 ---
 
 # Made in Abyss: Retsujitsu no Ougonkyou

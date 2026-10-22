@@ -3,6 +3,7 @@ title: "Tips Untuk Si Lemah Syahwat A.K.A Tukang Judi"
 date: 2023-10-20
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 sebelum terjun ke dunia perjudian, coba tonton dulu anime kakegurui

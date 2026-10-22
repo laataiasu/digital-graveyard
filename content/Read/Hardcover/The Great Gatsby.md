@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "F. Scott Fitzgerald, Jesmyn Ward"
 year: 1925
-source: "hardcover"
+source: hardcover
 ---
 
 # The Great Gatsby

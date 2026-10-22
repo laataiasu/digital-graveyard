@@ -1,11 +1,11 @@
 ---
 title: "PDR: Adopt OpenRouter as Default LLM Provider"
 date: 2026-10-04
-tags: [decision, pdr]
+tags: [note]
 publish_external: true
-status: "pending"
+status: pending
 confidence: 9
-review_date: "2026-11-01"
+review_date: 2026-11-01
 ---
 
 # Decision: Adopt OpenRouter as Default LLM Provider

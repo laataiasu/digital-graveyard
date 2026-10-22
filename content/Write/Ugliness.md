@@ -3,6 +3,7 @@ title: "Ugliness"
 date: 2023-01-07
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 When the urge to cry overwhelms me, I often find solace in gazing at my reflection. Though lacking a traditional mirror, my smartphone's camera suffices. Yet, even with its beauty-enhancing effects, I still perceive myself as unattractive. The mirror, or in my case, the camera, reflects not just my face but a deeper sense of inadequacy. I wrestle with the notion that those deemed "ugly" don't deserve the release of tears. It's as if every aspect of myself, not just my appearance, is marred by a sense of repulsion, compelling me to suppress my emotions.

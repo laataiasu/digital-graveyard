@@ -3,6 +3,7 @@ title: "After Arsjad Rasyid Endgame Podcast"
 date: 2024-01-28
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 >insert my photos in all cities landmark in indonesia

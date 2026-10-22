@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2013
-original_title: "〈物語〉シリーズ セカンドシーズン"
-status: "Completed"
+original_title: 〈物語〉シリーズ セカンドシーズン
+status: Completed
 progress: 26
-source: "anilist"
+source: anilist
 ---
 
 # Monogatari Series: Second Season

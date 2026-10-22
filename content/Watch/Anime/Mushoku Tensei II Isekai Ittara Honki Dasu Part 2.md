@@ -4,12 +4,12 @@ date: 2024-07-02
 tags: [anime]
 publish_external: true
 year: 2024
-original_title: "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール"
-status: "Completed"
+original_title: 無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール
+status: Completed
 rating: 5
 progress: 12
 finished_at: 2024-07-02
-source: "anilist"
+source: anilist
 ---
 
 # Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2

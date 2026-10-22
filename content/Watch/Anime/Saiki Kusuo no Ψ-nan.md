@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "斉木楠雄のΨ難"
-status: "Completed"
+original_title: 斉木楠雄のΨ難
+status: Completed
 progress: 120
-source: "anilist"
+source: anilist
 ---
 
 # Saiki Kusuo no Ψ-nan

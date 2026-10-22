@@ -3,6 +3,7 @@ title: "Reason Why I Am Not Close with My Family"
 date: 2023-04-26
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 So let’s explored my history. This is very subjective, have characteristic of psychoanalysis, and justification of my wrongdoing to my Family.

@@ -3,6 +3,7 @@ title: "My Heaven"
 date: 2023-05-03
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 ![[devils-may-cry.jpg]]

@@ -1,11 +1,11 @@
 ---
 title: "PDR: Switch Primary Dev Workstation to PRoot Mobile"
 date: 2026-10-04
-tags: [decision, pdr]
+tags: [note]
 publish_external: true
-status: "pending"
+status: pending
 confidence: 8
-review_date: "2026-11-15"
+review_date: 2026-11-15
 ---
 
 # Decision: Switch Primary Dev Workstation to PRoot Mobile

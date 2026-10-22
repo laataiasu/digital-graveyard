@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2008
-original_title: "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
-status: "Completed"
+original_title: ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+status: Completed
 progress: 24
-source: "anilist"
+source: anilist
 ---
 
 # CLANNAD: After Story

@@ -3,10 +3,10 @@ title: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"
 date: 2025-06-19
 tags: [book]
 publish_external: true
-author: "Eric Jorgenson"
+author: Eric Jorgenson
 year: 2020
 rating: 2
-source: "hardcover"
+source: hardcover
 ---
 
 # The Almanack of Naval Ravikant: A Guide to Wealth and Happiness

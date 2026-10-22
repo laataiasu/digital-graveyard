@@ -4,7 +4,7 @@ date: 2024-02-11
 tags: [journal]
 publish_external: true
 hideSummary: true
-draft: false
+draft: true
 ---
 
 ## review web kpu

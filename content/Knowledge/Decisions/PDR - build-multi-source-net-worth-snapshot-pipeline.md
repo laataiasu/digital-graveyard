@@ -1,11 +1,11 @@
 ---
 title: "PDR: Build Multi-Source Net Worth Snapshot Pipeline"
 date: 2026-10-04
-tags: [decision, pdr]
+tags: [note]
 publish_external: true
-status: "pending"
+status: pending
 confidence: 8
-review_date: "2026-11-30"
+review_date: 2026-11-30
 ---
 
 # Decision: Build Multi-Source Net Worth Snapshot Pipeline

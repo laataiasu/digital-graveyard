@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2010
-original_title: "会長はメイド様!"
-status: "Completed"
+original_title: 会長はメイド様!
+status: Completed
 progress: 26
-source: "anilist"
+source: anilist
 ---
 
 # Kaichou wa Maid-sama!

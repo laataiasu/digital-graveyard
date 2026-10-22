@@ -5,6 +5,7 @@ tags: [journal]
 publish_external: true
 hideSummary: true
 enableToc: true
+draft: true
 ---
 
 since i ~~jobless~~ have free time, i distro hopping and here's my review:

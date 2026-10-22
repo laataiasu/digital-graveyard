@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2020
-original_title: "フルーツバスケット 2nd Season"
-status: "Completed"
+original_title: フルーツバスケット 2nd Season
+status: Completed
 rating: 8
 progress: 25
-source: "anilist"
+source: anilist
 ---
 
 # Fruits Basket: 2nd Season

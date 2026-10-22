@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2022
-original_title: "チェンソーマン"
-status: "Completed"
+original_title: チェンソーマン
+status: Completed
 rating: 8
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Chainsaw Man

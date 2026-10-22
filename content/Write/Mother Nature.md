@@ -3,6 +3,7 @@ title: "Mother Nature"
 date: 2023-02-09
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 Betapa hebatnya gelisah ini, bahkan di antara semua kegelisahan yang telah aku siapkan, tiada yang bisa menandingi hebatnya si pandir itu. Seberapa besarnya keraguan dan apapun yang telah disiapkan, si pandir itu tidak ada tandingannya.

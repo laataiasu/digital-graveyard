@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2012
-original_title: "氷菓"
-status: "Completed"
+original_title: 氷菓
+status: Completed
 rating: 6
 progress: 22
-source: "anilist"
+source: anilist
 ---
 
 # Hyouka

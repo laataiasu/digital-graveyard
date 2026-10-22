@@ -3,6 +3,7 @@ title: "First Masturbation"
 date: 2019-11-12
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 if you ask me how many times I masturbated, honestly I can't answer that question because it is uncountable. What I remember is only the first time I masturbated.

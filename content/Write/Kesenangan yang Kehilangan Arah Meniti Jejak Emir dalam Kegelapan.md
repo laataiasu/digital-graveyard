@@ -3,6 +3,7 @@ title: "Kesenangan Yang Kehilangan Arah: Meniti Jejak Emir Dalam Kegelapan"
 date: 2018-11-23
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 ![[lostboy.jpg]]

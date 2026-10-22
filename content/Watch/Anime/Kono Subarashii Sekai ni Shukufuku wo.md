@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2016
-original_title: "この素晴らしい世界に祝福を！"
-status: "Completed"
+original_title: この素晴らしい世界に祝福を！
+status: Completed
 rating: 6
 progress: 10
-source: "anilist"
+source: anilist
 ---
 
 # Kono Subarashii Sekai ni Shukufuku wo!

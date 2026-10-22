@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2003
-original_title: "キノの旅 -the Beautiful World-"
-status: "Completed"
+original_title: キノの旅 -the Beautiful World-
+status: Completed
 rating: 9
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # Kino no Tabi: the Beautiful World

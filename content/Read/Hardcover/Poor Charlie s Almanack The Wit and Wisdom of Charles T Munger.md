@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Peter E. Kaufman, Charles T. Munger"
 year: 2005
-source: "hardcover"
+source: hardcover
 ---
 
 # Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger

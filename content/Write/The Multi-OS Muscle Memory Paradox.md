@@ -1,7 +1,7 @@
 ---
 title: "The Multi-OS Muscle Memory Paradox"
 date: 2026-09-26
-tags: [essay, workflow, engineering, ergonomics]
+tags: [essay]
 publish_external: true
 ---
 

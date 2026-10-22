@@ -5,7 +5,7 @@ tags: [book]
 publish_external: true
 author: "Malcolm X, Alex Haley"
 year: 1965
-source: "hardcover"
+source: hardcover
 ---
 
 # The Autobiography of Malcolm X

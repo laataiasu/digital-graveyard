@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 1988
-original_title: "となりのトトロ"
-status: "Completed"
+original_title: となりのトトロ
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Tonari no Totoro

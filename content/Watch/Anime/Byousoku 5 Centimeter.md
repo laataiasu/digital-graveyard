@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2007
-original_title: "秒速５センチメートル"
-status: "Completed"
+original_title: 秒速５センチメートル
+status: Completed
 rating: 6
 progress: 3
-source: "anilist"
+source: anilist
 ---
 
 # Byousoku 5 Centimeter

@@ -1,11 +1,11 @@
 ---
 title: "PDR: Retire Old Digital Graveyard get-data Scripts"
 date: 2026-10-04
-tags: [decision, pdr]
+tags: [note]
 publish_external: true
-status: "pending"
+status: pending
 confidence: 9
-review_date: "2027-01-01"
+review_date: 2027-01-01
 ---
 
 # Decision: Retire Old Digital Graveyard get-data Scripts

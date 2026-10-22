@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 1998
-original_title: "PERFECT BLUE"
-status: "Completed"
+original_title: PERFECT BLUE
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # PERFECT BLUE

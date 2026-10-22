@@ -3,6 +3,7 @@ title: "Untuk Okihita"
 date: 2020-08-04
 tags: [journal]
 publish_external: false
+draft: true
 ---
 
 Membalas thread ini:

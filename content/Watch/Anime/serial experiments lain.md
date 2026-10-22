@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 1998
-original_title: "serial experiments lain"
-status: "Completed"
+original_title: serial experiments lain
+status: Completed
 rating: 9
 progress: 13
-source: "anilist"
+source: anilist
 ---
 
 # serial experiments lain

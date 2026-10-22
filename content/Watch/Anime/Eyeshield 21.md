@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2005
-original_title: "アイシールド21"
-status: "Completed"
+original_title: アイシールド21
+status: Completed
 progress: 145
-source: "anilist"
+source: anilist
 ---
 
 # Eyeshield 21

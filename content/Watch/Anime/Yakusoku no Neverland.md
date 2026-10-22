@@ -4,11 +4,11 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 2019
-original_title: "約束のネバーランド"
-status: "Completed"
+original_title: 約束のネバーランド
+status: Completed
 rating: 7
 progress: 12
-source: "anilist"
+source: anilist
 ---
 
 # Yakusoku no Neverland

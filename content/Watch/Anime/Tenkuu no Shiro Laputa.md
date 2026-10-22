@@ -4,10 +4,10 @@ date: 2016-01-01
 tags: [anime]
 publish_external: true
 year: 1986
-original_title: "天空の城ラピュタ"
-status: "Completed"
+original_title: 天空の城ラピュタ
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Tenkuu no Shiro Laputa

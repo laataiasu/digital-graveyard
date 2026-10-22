@@ -5,9 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2016
 original_title: "監獄学園[プリズンスクール] マッドワックス"
-status: "Completed"
+status: Completed
 progress: 1
-source: "anilist"
+source: anilist
 ---
 
 # Prison School: Mad Wax

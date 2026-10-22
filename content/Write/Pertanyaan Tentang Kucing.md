@@ -3,6 +3,7 @@ title: "Pertanyaan Tentang Kucing"
 date: 2022-12-04
 tags: [journal]
 publish_external: true
+draft: true
 ---
 
 1. Berapa statistik kucing yang tidak pernah merasakan nikmatnya wiskas, royal canin, dan sejenisnya?
