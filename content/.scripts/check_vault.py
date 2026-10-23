@@ -48,11 +48,15 @@ APPROVED_TAGS = {
 IGNORED_DIRS = {".obsidian", "templates", ".scripts", ".git"}
 DATE_REGEX = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 WIKILINK_REGEX = re.compile(r"(!)?\[\[([^\]|#\n]+)(?:#[^\]|\n]+)?(?:\|[^\]\n]+)?\]\]")
+CODEBLOCK_REGEX = re.compile(r"(?ms)^```[^\n]*\n.*?\n```")
+INLINE_CODE_REGEX = re.compile(r"`[^`\n]+`")
+SafeLoader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
 
 class VaultChecker:
     def __init__(self, verbose=False):
         self.verbose = verbose
         self.files = []
+        self.parsed_records = []
         self.titles = set()
         self.aliases = set()
         self.assets = set()
@@ -78,7 +82,6 @@ class VaultChecker:
     def scan_vault(self):
         for root, dirs, filenames in os.walk(CONTENT_DIR):
             dirs[:] = [d for d in dirs if d not in IGNORED_DIRS]
-            rel_dir = os.path.relpath(root, CONTENT_DIR)
             
             for f in filenames:
                 full_path = os.path.join(root, f)
@@ -105,18 +108,24 @@ class VaultChecker:
             try:
                 with open(full_path, "r", encoding="utf-8", errors="ignore") as fp:
                     content = fp.read()
-            except Exception:
+            except Exception as e:
+                self.parsed_records.append((rel_path, None, "", f"Read error: {e}"))
                 continue
 
             if not content.startswith("---"):
+                self.parsed_records.append((rel_path, None, "", "Missing frontmatter header"))
                 continue
 
             parts = content.split("---", 2)
             if len(parts) < 3:
+                self.parsed_records.append((rel_path, None, "", "Malformed frontmatter delimiter"))
                 continue
 
+            raw_fm = parts[1]
+            body = parts[2]
+
             try:
-                fm = yaml.safe_load(parts[1])
+                fm = yaml.load(raw_fm, Loader=SafeLoader)
                 if isinstance(fm, dict):
                     title = fm.get("title")
                     if title:
@@ -130,8 +139,11 @@ class VaultChecker:
                         for a in aliases:
                             if a:
                                 self.aliases.add(str(a).strip().lower())
-            except Exception:
-                pass
+                    self.parsed_records.append((rel_path, fm, body, None))
+                else:
+                    self.parsed_records.append((rel_path, None, body, "Frontmatter is not a mapping"))
+            except Exception as e:
+                self.parsed_records.append((rel_path, None, body, f"YAML parsing error: {e}"))
 
     def is_cross_media_collision(self, paths):
         # Cross-media tracker notes under Watch/ and Read/ are generated from ierp
@@ -154,10 +166,7 @@ class VaultChecker:
                 joined = " | ".join(paths)
                 self.issues["duplicate_titles"].append(f"Title collision '{title}' ({len(paths)} files): {joined}")
 
-    def check_file(self, full_path, rel_path):
-        with open(full_path, "r", encoding="utf-8", errors="ignore") as fp:
-            content = fp.read()
-
+    def check_file(self, rel_path, fm, body, fm_error):
         # Check mislocated root notes
         parts = rel_path.split(os.sep)
         if len(parts) == 1 and parts[0] not in {"index.md", "404.md"}:
@@ -167,25 +176,11 @@ class VaultChecker:
         if re.match(r"^\d{4}-\d{2}-\d{2}", parts[-1]) and "Journal" not in parts and "Retrospectives" not in parts:
             self.issues["mislocated_files"].append(f"{rel_path} (Dated note found outside Write/Journal/)")
 
-        if not content.startswith("---"):
-            self.issues["missing_frontmatter"].append(f"{rel_path} (Missing frontmatter header)")
+        if fm_error:
+            self.issues["missing_frontmatter"].append(f"{rel_path} ({fm_error})")
             return
 
-        fm_parts = content.split("---", 2)
-        if len(fm_parts) < 3:
-            self.issues["missing_frontmatter"].append(f"{rel_path} (Malformed frontmatter delimiter)")
-            return
-
-        raw_fm = fm_parts[1]
-        body = fm_parts[2]
-
-        try:
-            fm = yaml.safe_load(raw_fm)
-            if not isinstance(fm, dict):
-                self.issues["missing_frontmatter"].append(f"{rel_path} (Frontmatter is not a mapping)")
-                return
-        except Exception as e:
-            self.issues["missing_frontmatter"].append(f"{rel_path} (YAML parsing error: {e})")
+        if not isinstance(fm, dict):
             return
 
         # 1. Date Check
@@ -212,8 +207,8 @@ class VaultChecker:
             self.issues["invalid_tags"].append(f"{rel_path} (Unapproved tags: {unapproved})")
 
         # 4. Wikilinks Check (ignore codeblocks)
-        clean_body = re.sub(r"(?ms)^```[^\n]*\n.*?\n```", "", body)
-        clean_body = re.sub(r"`[^`\n]+`", "", clean_body)
+        clean_body = CODEBLOCK_REGEX.sub("", body)
+        clean_body = INLINE_CODE_REGEX.sub("", clean_body)
 
         for is_asset, target in WIKILINK_REGEX.findall(clean_body):
             target = target.strip()
@@ -235,8 +230,8 @@ class VaultChecker:
         self.parse_frontmatter_and_aliases()
         self.check_duplicates()
         
-        for full_path, rel_path in self.files:
-            self.check_file(full_path, rel_path)
+        for rel_path, fm, body, fm_error in self.parsed_records:
+            self.check_file(rel_path, fm, body, fm_error)
 
         total_issues = sum(len(v) for v in self.issues.values())
 
