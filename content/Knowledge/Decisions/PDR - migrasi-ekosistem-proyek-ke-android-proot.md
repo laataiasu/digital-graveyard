@@ -3,9 +3,9 @@ title: "PDR: Migrasi Ekosistem Proyek ke Android PRoot"
 date: 2026-09-21
 tags: [case-study, review]
 publish_external: true
-status: pending
+status: "pending"
 confidence: 9
-review_date: 2026-10-21
+review_date: "2026-10-21"
 ---
 
 # Decision: Migrasi Ekosistem Proyek ke Android PRoot

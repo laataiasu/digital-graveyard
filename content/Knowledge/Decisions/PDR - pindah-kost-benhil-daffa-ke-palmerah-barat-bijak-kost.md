@@ -3,9 +3,9 @@ title: "PDR: Pindah Kost: Benhil (Daffa) ke Palmerah Barat (Bijak Kost)"
 date: 2026-09-12
 tags: [case-study, review]
 publish_external: true
-status: pending
+status: "pending"
 confidence: 8
-review_date: 2026-10-12
+review_date: "2026-10-12"
 ---
 
 # Decision: Pindah Kost: Benhil (Daffa) ke Palmerah Barat (Bijak Kost)

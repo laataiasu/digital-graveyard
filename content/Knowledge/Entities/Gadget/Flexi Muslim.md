@@ -3,9 +3,9 @@ title: "Flexi Muslim"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Feature Phone
-brand: Flexi
-status: active
+category: "Feature Phone"
+brand: "Flexi"
+status: "active"
 ---
 
 # Flexi Muslim

@@ -3,9 +3,9 @@ title: "Xiaomi 14T Pro"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Smartphone
-brand: Xiaomi
-status: active
+category: "Smartphone"
+brand: "Xiaomi"
+status: "active"
 ---
 
 # Xiaomi 14T Pro

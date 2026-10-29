@@ -3,9 +3,9 @@ title: "PDR: Sovereign Barbell Treasury Allocation Strategy"
 date: 2026-09-12
 tags: [case-study, review]
 publish_external: true
-status: pending
+status: "pending"
 confidence: 9
-review_date: 2026-12-31
+review_date: "2026-12-31"
 ---
 
 # Decision: Sovereign Barbell Treasury Allocation Strategy

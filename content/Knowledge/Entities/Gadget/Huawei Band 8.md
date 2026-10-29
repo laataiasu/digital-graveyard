@@ -3,9 +3,9 @@ title: "Huawei Band 8"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Wearable
-brand: Huawei
-status: active
+category: "Wearable"
+brand: "Huawei"
+status: "active"
 ---
 
 # Huawei Band 8

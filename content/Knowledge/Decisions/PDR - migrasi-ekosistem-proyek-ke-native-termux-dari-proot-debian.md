@@ -3,9 +3,9 @@ title: "PDR: Migrasi Ekosistem Proyek ke Native Termux dari PRoot Debian"
 date: 2026-10-03
 tags: [case-study, review]
 publish_external: true
-status: pending
+status: "pending"
 confidence: 9
-review_date: 2026-11-03
+review_date: "2026-11-03"
 ---
 
 # Decision: Migrasi Ekosistem Proyek ke Native Termux dari PRoot Debian

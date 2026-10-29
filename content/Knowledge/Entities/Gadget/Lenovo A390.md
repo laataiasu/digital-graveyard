@@ -3,9 +3,9 @@ title: "Lenovo A390"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Smartphone
-brand: Lenovo
-status: active
+category: "Smartphone"
+brand: "Lenovo"
+status: "active"
 ---
 
 # Lenovo A390

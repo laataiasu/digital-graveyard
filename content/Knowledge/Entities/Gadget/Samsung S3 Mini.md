@@ -3,9 +3,9 @@ title: "Samsung S3 Mini"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Smartphone
-brand: Samsung
-status: active
+category: "Smartphone"
+brand: "Samsung"
+status: "active"
 ---
 
 # Samsung S3 Mini

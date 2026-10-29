@@ -3,9 +3,9 @@ title: "Sovereign Ecosystem & Quant Alpha Engine"
 date: 2026-09-12
 tags: [project]
 publish_external: true
-status: active
-priority: high
-target_date: 
+status: "active"
+priority: "high"
+target_date: ""
 ---
 
 # Sovereign Ecosystem & Quant Alpha Engine

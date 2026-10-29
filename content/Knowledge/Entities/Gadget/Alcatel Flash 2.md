@@ -3,9 +3,9 @@ title: "Alcatel Flash 2"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Smartphone
-brand: Alcatel
-status: active
+category: "Smartphone"
+brand: "Alcatel"
+status: "active"
 ---
 
 # Alcatel Flash 2

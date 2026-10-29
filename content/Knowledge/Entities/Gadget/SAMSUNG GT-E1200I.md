@@ -3,9 +3,9 @@ title: "SAMSUNG GT-E1200I"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Feature Phone
-brand: Samsung
-status: active
+category: "Feature Phone"
+brand: "Samsung"
+status: "active"
 ---
 
 # SAMSUNG GT-E1200I

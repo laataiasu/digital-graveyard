@@ -3,9 +3,9 @@ title: "Asus Zenfone Max Pro M2"
 date: 2026-09-07
 tags: [gadget]
 publish_external: true
-category: Smartphone
-brand: Asus
-status: active
+category: "Smartphone"
+brand: "Asus"
+status: "active"
 ---
 
 # Asus Zenfone Max Pro M2
