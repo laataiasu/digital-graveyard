@@ -1,7 +1,7 @@
 ---
 title: Personal Style Manifesto & Capsule Wardrobe
-created: 2026-10-28
-updated: 2026-10-28
+created: 2026-10-31
+updated: 2026-10-31
 tags:
   - style
   - fashion
