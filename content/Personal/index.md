@@ -14,6 +14,8 @@ publish_external: false
 
 ## 🗂️ Navigation
 
+- [[Anti-Vision]]
+- [[Role Explorations]]
 - [[Nutrition]]
 - [[Quotes]]
 - [[Personality test]]
