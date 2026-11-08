@@ -63,7 +63,7 @@ Instead of continuous filesystem daemons, use non-destructive Git shadow branche
   ```
 
 #### D. Multi-Repo Orchestrators: `gita` vs `_scheduled_jobs/repos_status.py`
-- **`gita`**: Python CLI tool (`pip install gita` / `uv tool install gita`). Displays color-coded branch relationships across all repos and supports context groups (e.g., `gita group add mobile ierp idx-bei portfolio-integration`).
+- **`gita`**: Python CLI tool (`pip install gita` / `uv tool install gita`). Displays color-coded branch relationships across all repos and supports context groups (e.g., `gita group add mobile ierp idx-bei signalwire`).
 - **Enhanced `repos-status`**: Your custom Python status checker can be extended with a `--save-wip` and `--load-wip` flag to make shadow synchronization a single command.
 
 ---
@@ -111,7 +111,7 @@ Instead of treating both devices as symmetric general-purpose workstations, enfo
 1. **Workstation (Fedora 44)**:
    - Primary interactive development, AI agent sessions (`agy`), deep refactoring, GUI tools.
 2. **Mobile (Xiaomi 14T Pro / PRoot)**:
-   - Autonomous headless cron runner (`idx-bei`, `ierp`, `nichsedge.github.io`, `portfolio-integration`).
+   - Autonomous headless cron runner (`idx-bei`, `ierp`, `nichsedge.github.io`, `signalwire`).
    - Battery-optimized via Wake-Lock Sandwich.
    - Remote client via Tailscale SSH when away from laptop.
 
