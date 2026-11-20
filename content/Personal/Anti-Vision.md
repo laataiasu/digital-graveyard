@@ -1,7 +1,7 @@
 ---
 title: "Anti-Vision & Inversion Guardrails"
-date: 2026-11-15
-updated: 2026-11-15
+date: 2026-11-20
+updated: 2026-11-20
 tags:
   - manifesto
   - life-os
@@ -21,7 +21,7 @@ active_guardrails: 41
 ## 📊 Summary Metrics
 - **Total Guardrails**: 41
 - **Active Constraints**: 41
-- **Last Synchronized**: 2026-11-15
+- **Last Synchronized**: 2026-11-20
 
 ---
 

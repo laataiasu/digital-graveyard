@@ -1,7 +1,7 @@
 ---
 title: "Role Explorations & Vocational Experiments"
-date: 2026-11-15
-updated: 2026-11-15
+date: 2026-11-20
+updated: 2026-11-20
 tags:
   - career
   - skills
