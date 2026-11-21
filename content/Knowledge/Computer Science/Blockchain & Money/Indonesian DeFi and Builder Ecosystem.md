@@ -1,14 +1,8 @@
 ---
-title: Comprehensive Directory of Indonesian DeFi & Web3 Builder Communities
-tags:
-  - web3
-  - defi
-  - indonesia
-  - blockchain
-  - software-engineering
-  - crypto
-publish_external: false
+title: "Comprehensive Directory of Indonesian DeFi & Web3 Builder Communities"
 date: 2026-11-03
+tags: [note]
+publish_external: false
 ---
 
 # Comprehensive Directory: Indonesian Decentralized Finance (DeFi) & Web3 Builder Communities

@@ -1,7 +1,7 @@
 ---
 title: "Dota 2 Keybinds and Laptop Fn Hardware Quirk"
 date: 2026-10-25
-tags: [gaming, dota2, linux, hardware]
+tags: [guide]
 publish_external: false
 ---
 

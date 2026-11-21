@@ -167,13 +167,14 @@ class VaultChecker:
                 self.issues["duplicate_titles"].append(f"Title collision '{title}' ({len(paths)} files): {joined}")
 
     def check_file(self, rel_path, fm, body, fm_error):
-        # Check mislocated root notes
+        # Check mislocated root notes (allow index.md, 404.md, and daily notes YYYY-MM-DD.md)
         parts = rel_path.split(os.sep)
-        if len(parts) == 1 and parts[0] not in {"index.md", "404.md"}:
+        is_daily_root = len(parts) == 1 and bool(re.match(r"^\d{4}-\d{2}-\d{2}\.md$", parts[0]))
+        if len(parts) == 1 and parts[0] not in {"index.md", "404.md"} and not is_daily_root:
             self.issues["mislocated_files"].append(f"{rel_path} (Markdown file located directly in content/ root)")
 
-        # Check mislocated journals (e.g. 2024-04-28*.md outside Journal/ folder)
-        if re.match(r"^\d{4}-\d{2}-\d{2}", parts[-1]) and "Journal" not in parts and "Retrospectives" not in parts:
+        # Check mislocated journals (e.g. 2024-04-28*.md outside Journal/ or root content/)
+        if re.match(r"^\d{4}-\d{2}-\d{2}", parts[-1]) and len(parts) > 1 and "Journal" not in parts and "Retrospectives" not in parts:
             self.issues["mislocated_files"].append(f"{rel_path} (Dated note found outside Write/Journal/)")
 
         if fm_error:

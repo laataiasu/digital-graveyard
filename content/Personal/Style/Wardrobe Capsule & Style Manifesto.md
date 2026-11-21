@@ -1,14 +1,10 @@
 ---
-title: Personal Style Manifesto & Capsule Wardrobe
+title: "Personal Style Manifesto & Capsule Wardrobe"
+date: 2026-10-31
+tags: []
+publish_external: false
 created: 2026-10-31
 updated: 2026-10-31
-tags:
-  - style
-  - fashion
-  - wardrobe
-  - minimalism
-  - capsule
-publish_external: false
 ---
 
 # 👔 Personal Style Manifesto & Capsule Architecture
