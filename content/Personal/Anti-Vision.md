@@ -3,10 +3,8 @@ title: "Anti-Vision & Inversion Guardrails"
 date: 2026-11-21
 updated: 2026-11-21
 tags:
-  - manifesto
-  - life-os
-  - anti-vision
-  - inversion
+  - reflection
+  - essay
 publish_external: false
 total_guardrails: 41
 active_guardrails: 41
